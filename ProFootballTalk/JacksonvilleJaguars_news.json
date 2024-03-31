@@ -1,0 +1,818 @@
+[
+    {
+        "title": "Jacksonville Jaguars dubbed the best landing spot for former OPOY - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYmxhY2thbmR0ZWFsLmNvbS9wb3N0cy9qYWNrc29udmlsbGUtamFndWFycy1kdWJiZWQtdGhlLWJlc3QtbGFuZGluZy1zcG90LW1pY2hhZWwtdGhvbWFzLTAxaHQ4NTdibndnZtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 18:00:00 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "Jacksonville Jaguars coach outlines plan for Mac Jones - AL.com",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFsLmNvbS9zcG9ydHMvMjAyNC8wMy9qYWNrc29udmlsbGUtamFndWFycy1jb2FjaC1vdXRsaW5lcy1wbGFuLWZvci1tYWMtam9uZXMuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 20:30:00 GMT",
+        "source_url": "https://www.al.com",
+        "source_name": "AL.com"
+    },
+    {
+        "title": "Jaguars Poll OTW: Who would you like to see the Jaguars take at pick No. 17 in the 2024 NFL Draft? - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8zMS8yNDExNzE4MC9qYWd1YXJzLXBvbGwtb3R3LXBpY2stMTctMjAyNC1kcmFmdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 16:05:22 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Five players who the Jaguars could target with the No. 17 pick in the NFL draft - WJXT News4JAX ",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5ld3M0amF4LmNvbS9zcG9ydHMvMjAyNC8wMy8yOC9maXZlLXBsYXllcnMtd2hvLXRoZS1qYWd1YXJzLWNvdWxkLXRhcmdldC13aXRoLXRoZS1uby0xNy1waWNrLWluLXRoZS1uZmwtZHJhZnQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 23:07:37 GMT",
+        "source_url": "https://www.news4jax.com",
+        "source_name": "WJXT News4JAX "
+    },
+    {
+        "title": "Chiefs-Jaguars trade proposal gives Patrick Mahomes exactly what he needs - FanSided",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZmFuc2lkZWQuY29tL3Bvc3RzL2NoaWVmcy1qYWd1YXJzLXRyYWRlLXByb3Bvc2FsLWNhbS1yb2JpbnNvbi0wMWh0ODBieHJycXLSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 16:20:43 GMT",
+        "source_url": "https://fansided.com",
+        "source_name": "FanSided"
+    },
+    {
+        "title": "Jaguars sign leading tackler Foyesade Oluokun to 3-year extension - ESPN",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzM5ODMyMTczL2phZ3VhcnMtc2lnbi1sZWFkaW5nLXRhY2tsZXItZm95ZXNhZGUtb2x1b2t1bi0zLXllYXItZXh0ZW5zaW9u0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 15:15:00 GMT",
+        "source_url": "https://www.espn.com",
+        "source_name": "ESPN"
+    },
+    {
+        "title": "Jaguars sign LB Foye Oluokun to three-year contract extension worth reported $30 million in new money - CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL2phZ3VhcnMtc2lnbi1sYi1mb3llLW9sdW9rdW4tdG8tdGhyZWUteWVhci1jb250cmFjdC1leHRlbnNpb24td29ydGgtcmVwb3J0ZWQtMzAtbWlsbGlvbi1pbi1uZXctbW9uZXkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 15:03:04 GMT",
+        "source_url": "https://www.cbssports.com",
+        "source_name": "CBS Sports"
+    },
+    {
+        "title": "Jaguars LB Foye Oluokun signs new four-year, $45 million contract - NFL.com",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9qYWd1YXJzLWxiLWZveWUtb2x1b2t1bi1zaWducy1uZXctZm91ci15ZWFyLTQ1LW1pbGxpb24tY29udHJhY3TSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 13:56:00 GMT",
+        "source_url": "https://www.nfl.com",
+        "source_name": "NFL.com"
+    },
+    {
+        "title": "Report: Former Cincinnati Tight End Signing With AFC Team - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL2NpbmNpbm5hdGkvbmV3cy9yZXBvcnQtZm9ybWVyLWNpbmNpbm5hdGktdGlnaHQtZW5kLWpvc2lhaC1kZWd1YXJhLXNpZ25pbmctd2l0aC1qYWNrc29udmlsbGUtamFndWFyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 15:59:23 GMT",
+        "source_url": "https://www.si.com",
+        "source_name": "Sports Illustrated"
+    },
+    {
+        "title": "Convicted sex offender who hacked jumbotron at the Jacksonville Jaguars' stadium gets 220 years - East Idaho News",
+        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lYXN0aWRhaG9uZXdzLmNvbS8yMDI0LzAzL2NvbnZpY3RlZC1zZXgtb2ZmZW5kZXItd2hvLWhhY2tlZC1qdW1ib3Ryb24tYXQtdGhlLWphY2tzb252aWxsZS1qYWd1YXJzLXN0YWRpdW0tZ2V0cy0yMjAteWVhcnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 19:16:00 GMT",
+        "source_url": "https://www.eastidahonews.com",
+        "source_name": "East Idaho News"
+    },
+    {
+        "title": "Full list of Jaguars players who remain unsigned in free agency - Jaguars Wire",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vamFndWFyc3dpcmUudXNhdG9kYXkuY29tL2xpc3RzL2phZ3VhcnMtMjAyNC1mcmVlLWFnZW50cy11bnNpZ25lZC1qYW1hbC1hZ25ldy1kYXd1YW5lLXNtb290L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 11:45:00 GMT",
+        "source_url": "https://jaguarswire.usatoday.com",
+        "source_name": "Jaguars Wire"
+    },
+    {
+        "title": "Ex-Captain Arik Armstead Sends Strong Message to 49ers: \u2018Extremely Disrespected\u2019 - Heavy.com",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vaGVhdnkuY29tL3Nwb3J0cy9zYW4tZnJhbmNpc2NvLTQ5ZXJzL2FyaWstYXJtc3RlYWQtY29udHJhY3QtamFja3NvbnZpbGxlLWphZ3VhcnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 18:32:23 GMT",
+        "source_url": "https://heavy.com",
+        "source_name": "Heavy.com"
+    },
+    {
+        "title": "2024 Jacksonville Jaguars Free Agency Tracker - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvMjAyNC1qYWNrc29udmlsbGUtamFndWFycy1mcmVlLWFnZW50LXRyYWNrZXLSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jacksonville Jaguars Jumbotron operator sentenced for child sex abuse - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L25ld3MvY3JpbWUvMjAyNC8wMy8yNi9qYWNrc29udmlsbGUtamFndWFycy1qdW1ib3Ryb24tb3BlcmF0b3Itc2VudGVuY2VkLWZvci1jaGlsZC1zZXgtYWJ1c2UvNzMxMDg5NzgwMDcv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Mar 2024 21:14:36 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "2024 NFL Draft: UNC's Devontez Walker Set to Visit With Jaguars - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNpLmNvbS9uZmwvamFndWFycy9qYWNrc29udmlsbGUtdmlzaXQtZGV2b250ZXotd2Fsa2VyLTIwMjQtbmZsLWRyYWZ00gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 01:44:05 GMT",
+        "source_url": "https://www.si.com",
+        "source_name": "Sports Illustrated"
+    },
+    {
+        "title": "Could the Jacksonville Jaguars Carry 3 QBs In 2024? - Athlon Sports",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2F0aGxvbnNwb3J0cy5jb20vbmZsL2phY2tzb252aWxsZS1qYWd1YXJzL2phZ3Vhci1yZXBvcnQvbmV3cy9jb3VsZC10aGUtamFndWFycy1jYXJyeS0zLXFicy1pbi0yMDI0LW1hYy1qb25lcy10cmV2b3ItbGF3cmVuY2XSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 01:27:25 GMT",
+        "source_url": "https://athlonsports.com",
+        "source_name": "Athlon Sports"
+    },
+    {
+        "title": "Sex offender who hacked Jacksonville Jaguars' scoreboard, exploited children sentenced to 220 years - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9zZXgtb2ZmZW5kZXItaGFja2VkLWphY2tzb252aWxsZS1qYWd1YXJzLTE4NDAyMTUwMy5odG1s0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Mar 2024 18:40:21 GMT",
+        "source_url": "https://sports.yahoo.com",
+        "source_name": "Yahoo Sports"
+    },
+    {
+        "title": "Sex offender, ex-Jags employee sentenced to 220 years in prison - The Athletic",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzUzNzE0MzQvMjAyNC8wMy8yNy9qYWd1YXJzLWZpcmVkLXNleC1vZmZlbmRlci1qdW1ib3Ryb24v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 04:03:01 GMT",
+        "source_url": "https://theathletic.com",
+        "source_name": "The Athletic"
+    },
+    {
+        "title": "Ranking Jaguars biggest NFL Draft gems of the last decade - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYmxhY2thbmR0ZWFsLmNvbS9wb3N0cy9yYW5raW5nLWphZ3VhcnMtYmlnZ2VzdC1uZmwtZHJhZnQtZ2Vtcy1nYXJkbmVyLW1pbnNoZXctYW50b25pby1qb2huc29uLWxhc3QtZGVjYWRlLTAxaHQ5YTR5MzM3MdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 10:00:09 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "The Jaguars replace Calvin Ridley in a new mock draft - AtoZ Sports",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYXRvenNwb3J0cy5jb20vamFja3NvbnZpbGxlL2phZ3VhcnMtMjAyNC1uZmwtbW9jay1kcmFmdC1taXRjaGVsbC1oYXluZXMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 19:21:31 GMT",
+        "source_url": "https://atozsports.com",
+        "source_name": "AtoZ Sports"
+    },
+    {
+        "title": "Frank Frangie talks the Jacksonville Jaguars and the AFC South - Colts.com",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNvbHRzLmNvbS92aWRlby9mcmFuay1mcmFuZ2llLXRhbGtzLXRoZS1qYWNrc29udmlsbGUtamFndWFycy1hbmQtdGhlLWFmYy1zb3V0aNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 10:05:29 GMT",
+        "source_url": "https://www.colts.com",
+        "source_name": "Colts.com"
+    },
+    {
+        "title": "Tight End Josiah Deguara Signs Deal with Jacksonville Jaguars - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvdGlnaHQtZW5kLWpvc2lhaC1kZWd1YXJhLXNpZ25zLWRlYWwtd2l0aC1qYWNrc29udmlsbGUtamFndWFyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 15:06:20 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jacksonville Jaguars 2024 NFL offseason primer: Pressure's on after disappointing collapse - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vamFja3NvbnZpbGxlLWphZ3VhcnMtMjAyNC1uZmwtb2Zmc2Vhc29uLXByaW1lci1wcmVzc3VyZXMtb24tYWZ0ZXItZGlzYXBwb2ludGluZy1jb2xsYXBzZS0wMTMzMTA5ODkuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Mar 2024 07:00:00 GMT",
+        "source_url": "https://sports.yahoo.com",
+        "source_name": "Yahoo Sports"
+    },
+    {
+        "title": "Jaguars News (3/29): Arik Armstead details his free agency process - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8yOS8yNDExNDUxOC9qYWd1YXJzLW5ld3MtYXJpay1hcm1zdGVhZC1mcmVlLWFnZW5jeS1wcm9jZXNz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 13:45:28 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Ranking Jaguars biggest NFL Draft gems of the last decade - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL2JsYWNrYW5kdGVhbC5jb20vcG9zdHMvcmFua2luZy1qYWd1YXJzLWJpZ2dlc3QtbmZsLWRyYWZ0LWdlbXMtZ2FyZG5lci1taW5zaGV3LWFudG9uaW8tam9obnNvbi1sYXN0LWRlY2FkZS0wMWh0OWE0eTMzNzEvNdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 10:00:09 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "Mock Draft Tracker 11.0: One Player and One Position Ring a Bell - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvbW9jay1kcmFmdC10cmFja2VyLTExLTAtb25lLXBsYXllci1hbmQtb25lLXBvc2l0aW9uLXJpbmctYS1iZWxs0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Mar 2024 20:27:49 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Former Jaguars SVP Dan Edwards Honored with Pro Football Hall of Fame Award of Excellence - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvZm9ybWVyLWphZ3VhcnMtc3ZwLWRhbi1lZHdhcmRzLWhvbm9yZWQtd2l0aC1wcm8tZm9vdGJhbGwtaGFsbC1vZi1mYW1lLWF3YXJkLW9mLWV4Y2VsbGVuY2XSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 18:56:18 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "O-Zone: Red, red whine - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvby16b25lLXJlZC1yZWQtd2hpbmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 12:52:54 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "HC Doug Pederson Excited about the Offensive Line at the 2024 Owners Meetings - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvbmZsLWFubnVhbC1tZWV0aW5nLTIwMjQtcGVkZXJzb24tZmVlbHMtZ29vZC1hYm91dC1vZmZlbnNpdmUtbGluZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 23:46:52 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Gabe Davis Film Breakdown: \"He's going to be a touchdown maker.\" - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmphZ3VhcnMuY29tL3ZpZGVvL2dhYmUtZGF2aXMtZmlsbS1icmVha2Rvd24taGUtcy1nb2luZy10by1iZS1hLXRvdWNoZG93bi1tYWtlci1qYWNrc29udmlsbGUtamFndWFyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 16:52:59 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Ex-Jacksonville Jaguars employee and sex offender sentenced to 220 years in prison - Marca English",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1hcmNhLmNvbS9lbi9uZmwvamFja3NvbnZpbGxlLWphZ3VhcnMvMjAyNC8wMy8yOC82NjA1YjZiNTQ2MTYzZjY4YTc4YjQ1N2QuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 19:40:08 GMT",
+        "source_url": "https://www.marca.com",
+        "source_name": "Marca English"
+    },
+    {
+        "title": "Roster Moves: Jaguars Extend LB Foyesade Oluokun - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvcm9zdGVyLW1vdmVzLWphZ3VhcnMtZXh0ZW5kLWxiLWZveWVzYWRlLW9sdW9rdW7SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 14:01:45 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Ex-Jaguars employee who hacked into scoreboard sentenced to 220 years in jail for child sex abuse material - Fox News",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9leC1qYWd1YXJzLWVtcGxveWVlLWhhY2tlZC1zY29yZWJvYXJkLXNlbnRlbmNlZC0yMjAteWVhcnMtamFpbC1jaGlsZC1zZXgtYWJ1c2UtbWF0ZXJpYWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 10:22:00 GMT",
+        "source_url": "https://www.foxnews.com",
+        "source_name": "Fox News"
+    },
+    {
+        "title": "Jacksonville Jaguars Mock Draft (March 11, 2024): Free Agency Wonders - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvbW9jay1kcmFmdC10cmFja2VyLTktMC1oZWFkaW5nLWludG8tZnJlZS1hZ2VuY3ktd2l0aC1yZWNlaXZlci1hbmQtY29ybmVyLWFzLXRvcC1oaXRz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Flag Football Tournament Jaguars - FirstCoastNews.com WTLV-WJXX",
+        "link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5maXJzdGNvYXN0bmV3cy5jb20vYXJ0aWNsZS9zcG9ydHMvbG9jYWwtc3BvcnRzL2phZ3VhcnMtYm9sZC1nb2xkLWdhbWVzLWZsYWctZm9vdGJhbGwtdG91cm5hbWVudC1zY29yZXMtd2l0aC1uZWFybHktNzAwLWNvYWNoZXMtYW5kLWF0aGxldGVzLzc3LWNmZTZkMDA3LTg0MGQtNGQwZi04NThkLWExMWI4Y2YxMGVhMdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 23:39:00 GMT",
+        "source_url": "https://www.firstcoastnews.com",
+        "source_name": "FirstCoastNews.com WTLV-WJXX"
+    },
+    {
+        "title": "Jaguars HC Doug Pederson Addresses QB Trevor Lawrence Importance of Health for the 2024 Season - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvbmZsLWFubnVhbC1tZWV0aW5nLTIwMjQtcWItdHJldm9yLWxhd3JlbmNlLWhlYWx0aC1pcy1vbmUtb2YtdGhlLWphZ3VhcnMta2V5cy10by1zdWNjZXNz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 17:49:11 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Top Three First Round Prospects for the Jacksonville Jaguars in the 2024 NFL Draft - The Wright Way Network",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdHdzbi5uZXQvMjAyNC8wMy90b3AtdGhyZWUtZmlyc3Qtcm91bmQtcHJvc3BlY3RzLWZvci10aGUtamFja3NvbnZpbGxlLWphZ3VhcnMtaW4tdGhlLTIwMjQtbmZsLWRyYWZ00gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 20:30:49 GMT",
+        "source_url": "https://twsn.net",
+        "source_name": "The Wright Way Network"
+    },
+    {
+        "title": "Sex offender guilty of hacking Jaguars video boards, exploiting children sentenced to 220 years in prison - WJXT News4JAX ",
+        "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5uZXdzNGpheC5jb20vbmV3cy9sb2NhbC8yMDI0LzAzLzI2L3NleC1vZmZlbmRlci1ndWlsdHktb2YtaGFja2luZy1qYWd1YXJzLXZpZGVvLWJvYXJkcy1leHBsb2l0aW5nLWNoaWxkcmVuLXNlbnRlbmNlZC10by0yMjAteWVhcnMtaW4tcHJpc29uL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Mar 2024 19:38:51 GMT",
+        "source_url": "https://www.news4jax.com",
+        "source_name": "WJXT News4JAX "
+    },
+    {
+        "title": "Jaguars Extend Standout LB Foyesade Oluokun - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnNpLmNvbS9uZmwvamFndWFycy9qYWNrc29udmlsbGUtZXh0ZW5kcy1mb3llc2FkZS1vbHVva3Vu0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 20:12:29 GMT",
+        "source_url": "https://www.si.com",
+        "source_name": "Sports Illustrated"
+    },
+    {
+        "title": "Jaguars LB Foye Oluokun signs 3-year extension that includes $22.5M guaranteed, AP source says - The Associated Press",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZveWUtb2x1b2t1bi1jb250cmFjdC1leHRlbnNpb24tN2Q3MWE3ZjVlN2ZiMzc2NDRiM2Y2NzEyZWM2YjQ3NTjSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 14:19:00 GMT",
+        "source_url": "https://apnews.com",
+        "source_name": "The Associated Press"
+    },
+    {
+        "title": "Josiah Deguara Signs With Jaguars; Here's Next Man Up - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnNpLmNvbS9uZmwvcGFja2Vycy9qb3NpYWgtZGVndWFyYS1zaWducy13aXRoLWphZ3VhcnPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 15:06:16 GMT",
+        "source_url": "https://www.si.com",
+        "source_name": "Sports Illustrated"
+    },
+    {
+        "title": "Convicted sex offender who hacked jumbotron at the Jacksonville Jaguars' stadium gets 220 years - CBS Miami",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9taWFtaS9uZXdzL2NvbnZpY3RlZC1zZXgtb2ZmZW5kZXItd2hvLWhhY2tlZC1qdW1ib3Ryb24tYXQtdGhlLWphY2tzb252aWxsZS1qYWd1YXJzLXN0YWRpdW0tZ2V0cy0yMjAteWVhcnMtMi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 10:47:42 GMT",
+        "source_url": "https://www.cbsnews.com",
+        "source_name": "CBS Miami"
+    },
+    {
+        "title": "What is Jacksonville Jaguars' NFL Draft history? A look back at recent years' picks - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmphY2tzb252aWxsZS5jb20vdmlkZW9zL3Nwb3J0cy8yMDI0LzAzLzI5L2phY2tzb252aWxsZS1qYWd1YXJzLW5mbC1kcmFmdC1yZWNlbnQtaGlzdG9yeS83MzE0NTY4MTAwNy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 17:12:58 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "'I wanted to be with the Jaguars': Calvin Ridley provides insights to why he chose Titans - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L3Nwb3J0cy9uZmwvMjAyNC8wMy8xNS9jYWx2aW4tcmlkbGV5LW9uLWZyZWUtYWdlbmN5LWktcmVhbGx5LXdhbnRlZC10by1iZS13aXRoLXRoZS1qYWd1YXJzLzcyOTg5MzE1MDA3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Mar 2024 18:06:30 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "Foye Oluokun Extended By The Jacksonville Jaguars - CBS News 8",
+        "link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5jYnM4LmNvbS92aWRlby9zcG9ydHMvbG9ja2VkLW9uL2xvLWphY2tzb252aWxsZS9qYWd1YXJzLXNob3cvZm95ZS1vbHVva3VuLWV4dGVuZGVkLWJ5LXRoZS1qYWNrc29udmlsbGUtamFndWFycy81MzUtZWRhNmRmYTgtNjBhMy00OWQ0LWI0YzgtNmIyZDBmNjZiZmI40gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 11:56:00 GMT",
+        "source_url": "https://www.cbs8.com",
+        "source_name": "CBS News 8"
+    },
+    {
+        "title": "Jacksonville Jaguars Extend Offensive Lineman Blake Hance - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvamFja3NvbnZpbGxlLWphZ3VhcnMtZXh0ZW5kLW9mZmVuc2l2ZS1saW5lbWFuLWJsYWtlLWhhbmNlLTIwMjTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jaguars 2024 Free Agency Primer: What Has Been Done So Far, What to Expect - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvamFndWFycy0yMDI0LWZyZWUtYWdlbmN5LXByaW1lci13aGF0LWhhcy1iZWVuLWRvbmUtc28tZmFyLXdoYXQtdG8tZXhwZWN00gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jaguars LB Foyesade Oluokun signs contract extension - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9qYWd1YXJzLWxiLWZveWVzYWRlLW9sdW9rdW4tc2lnbnMtY29udHJhY3QtZXh0ZW5zaW9uLTIwMjQtMDMtMjkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 15:17:00 GMT",
+        "source_url": "https://www.reuters.com",
+        "source_name": "Reuters"
+    },
+    {
+        "title": "O-Zone: Far in the future - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvby16b25lLWZhci1pbi10aGUtZnV0dXJl0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 12:27:18 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jaguars jumbotron hacker sentenced to 220 years in prison - FirstCoastNews.com WTLV-WJXX",
+        "link": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5maXJzdGNvYXN0bmV3cy5jb20vYXJ0aWNsZS9uZXdzL2NyaW1lL2phZ3VhcnMtanVtYm90cm9uLWhhY2tlci1zZW50ZW5jZWQtdG8tMjIwLXllYXJzLWluLXByaXNvbi1vbi1jaGlsZC1zZXh1YWwtYWJ1c2UtY2hhcmdlcy1zYW11ZWwvNzctN2Y0ZTBiMTAtMGE1Ni00Y2IzLWJiODktZTkwNjM1OWNmMDZl0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Mar 2024 20:27:00 GMT",
+        "source_url": "https://www.firstcoastnews.com",
+        "source_name": "FirstCoastNews.com WTLV-WJXX"
+    },
+    {
+        "title": "Calvin Ridley ditches Jaguars for hated rival Titans in free agency - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L3Nwb3J0cy9jb2x1bW5zL2dlbmUtZnJlbmV0dGUvMjAyNC8wMy8xMy9iZWhpbmQtZW5lbXktbGluZXMtd3ItcmlkbGV5LWRpdGNoZXMtamFndWFycy1mb3ItaGF0ZWQtcml2YWwtdGVubmVzc2VlLzcyOTYzNjA0MDA3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Mar 2024 01:39:56 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "4 Jacksonville Jaguars who won't make the 53-man roster in 2024 - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYmxhY2thbmR0ZWFsLmNvbS9wb3N0cy80LWphY2tzb252aWxsZS1qYWd1YXJzLXdoby13aWxsLW5vdC1tYWtlLXRoZS01My1tYW4tcm9zdGVyLTIwMjQtc2Vhc29uLTAxaHQ0Njd5cHYyetIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 10:00:04 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "Jacksonville Jaguars announce offseason workout program dates - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYmxhY2thbmR0ZWFsLmNvbS9wb3N0cy9qYWNrc29udmlsbGUtamFndWFycy1hbm5vdW5jZS1vZmZzZWFzb24td29ya291dC1wcm9ncmFtLWRhdGVzLTAxaHQ1bno0dHc3a9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 18:44:46 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "Jaguars sign former Packers third-round pick - Acme Packing Company",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5hY21lcGFja2luZ2NvbXBhbnkuY29tLzIwMjQvMy8yOC8yNDExNDU1MC9ncmVlbi1iYXktcGFja2Vycy10aWdodC1lbmQtamFja3NvbnZpbGxlLWphZ3VhcnMtc2lnbi1mb3JtZXItdGUtam9zaWFoLWRlZ3VhcmHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 14:46:28 GMT",
+        "source_url": "https://www.acmepackingcompany.com",
+        "source_name": "Acme Packing Company"
+    },
+    {
+        "title": "Jumbo Shrimp Jaguars: Josh Scobee, Tony Boselli link on Opening Day baseball first pitch - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3ZpZGVvcy9zcG9ydHMvbmZsLzIwMjQvMDMvMjkvam9zaC1zY29iZWUtamFndWFycy1raWNrZXItamFja3NvbnZpbGxlLWp1bWJvLXNocmltcC1maXJzdC1waXRjaC1vcGVuaW5nLWRheS83MzE1MTcwNjAwNy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 01:12:35 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "NFL mock draft: Jaguars pick predictions for NFL Draft 2024 - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmphY2tzb252aWxsZS5jb20vc3Rvcnkvc3BvcnRzL25mbC8yMDI0LzAzLzMwL25mbC1tb2NrLWRyYWZ0LWphZ3VhcnMtcGljay1wcmVkaWN0aW9ucy1uZmwtZHJhZnQtMjAyNC83MzE1NDQ1OTAwNy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 16:56:56 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "Jaguars make a key defensive player the fourth-highest paid inside linebacker - gulflive.com",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lmd1bGZsaXZlLmNvbS9qYWd1YXJzLzIwMjQvMDMvamFndWFycy1tYWtlLWEta2V5LWRlZmVuc2l2ZS1wbGF5ZXItdGhlLWZvdXJ0aC1oaWdoZXN0LXBhaWQtaW5zaWRlLWxpbmViYWNrZXIuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 18:12:21 GMT",
+        "source_url": "https://www.gulflive.com",
+        "source_name": "gulflive.com"
+    },
+    {
+        "title": "Foye Oluokun, Jaguars agree to new 4-year contract worth $45 million - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmphY2tzb252aWxsZS5jb20vc3Rvcnkvc3BvcnRzL25mbC8yMDI0LzAzLzI5L2ZveWUtb2x1b2t1bi1qYWd1YXJzLWFncmVlLWZvdXIteWVhci1jb250cmFjdC00NS1taWxsaW9uLzczMTQyOTQyMDA3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 14:26:21 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "Morse: \"You Have to Have the Locker Room Behind You\" | Press Conference - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL3ZpZGVvL21vcnNlLXlvdS1oYXZlLXRvLWhhdmUtdGhlLWxvY2tlci1yb29tLWJlaGluZC15b3UtcHJlc3MtY29uZmVyZW5jZS1qYWNrc29udmlsbGUtamFndWFyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Mar 2024 19:17:10 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Pre-Free Agency Jaguars Mock Draft: What Are the Biggest Needs? - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zaS5jb20vbmZsL2phZ3VhcnMvZHJhZnQvcHJlLWZyZWUtYWdlbmN5LWphZ3VhcnMtbW9jay1kcmFmdC13aGF0LWFyZS10aGUtYmlnZ2VzdC1uZWVkcy1jYWxlYi13aWxsaWFtcy1kcmFrZS1tYXllLWpheWRlbi1kYW5pZWxz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 09 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.si.com",
+        "source_name": "Sports Illustrated"
+    },
+    {
+        "title": "Doug Pederson on Free Agency Additions, NFL Draft | Press Conference - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL3ZpZGVvL2RvdWctcGVkZXJzb24tb24tZnJlZS1hZ2VuY3ktYWRkaXRpb25zLW5mbC1kcmFmdC1wcmVzcy1jb25mZXJlbmNlLWphY2tzb252aWxsZS1qYWd1YXJz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 13:54:24 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jaguars News (3/28): Adonai Mitchell becoming a popular mock pick at 17 - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8yOC8yNDExMzQ2OS9qYWd1YXJzLW5ld3MtYWRvbmFpLW1pdGNoZWxsLXBvcHVsYXItbW9jay1waWNr0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 13:51:10 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Jacksonville Jaguars looking to build back Mac Jones' confidence - Touchdown Alabama Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdGRhbGFiYW1hbWFnLmNvbS8yMDI0LzAzLzMwL2phY2tzb252aWxsZS1qYWd1YXJzLWxvb2tpbmctYnVpbGQtYmFjay1tYWMtam9uZXMtY29uZmlkZW5jZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 19:38:35 GMT",
+        "source_url": "https://tdalabamamag.com",
+        "source_name": "Touchdown Alabama Magazine"
+    },
+    {
+        "title": "Jacksonville Jaguars employee Amit Patel sentenced for mass fraud - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L25ld3MvY3JpbWUvMjAyNC8wMy8xMi9qYWNrc29udmlsbGUtamFndWFycy1lbXBsb3llZS1hbWl0LXBhdGVsLWZhY2VzLXNlbnRlbmNlLWZvci1tYXNzLWZyYXVkLzcyODgzMDEyMDA3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 12 Mar 2024 13:37:41 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "Former Packers TE Josiah Deguara signs with Jaguars on one-year deal - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L3Nwb3J0cy9uZmwvMjAyNC8wMy8yOC9mb3JtZXItcGFja2Vycy10ZS1qb3NpYWgtZGVndWFyYS10by1zaWduLXdpdGgtamFndWFycy1wZXItcmVwb3J0LzczMTI5ODAzMDA3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 14:46:32 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "Jaguars free agency: What moves have they made in 2024 so far? - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L3Nwb3J0cy9uZmwvMjAyNC8wMy8xMS9qYWd1YXJzLWZyZWUtYWdlbmN5LXdoYXQtbW92ZXMtaGF2ZS10aGV5LW1hZGUtaW4tMjAyNC1zby1mYXIvNzI5Mjk3NjcwMDcv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Mar 2024 15:09:10 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "Jacksonville Jaguars 2024 mock draft roundup - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8yNS8yNDExMTEwMi9qYWNrc29udmlsbGUtamFndWFycy0yMDI0LW1vY2stZHJhZnQtcm91bmR1cNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 15:00:00 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Jaguars News (3/27): The Devin Duvernay signing has already aged well - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8yNy8yNDExMjM3MS9qYWd1YXJzLW5ld3MtZGV2aW4tZHV2ZXJuYXktc2lnbmluZy1hZ2VkLXdlbGzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 14:03:09 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "1 on 1 With Mac Jones | Jaguars Free Agency - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL3ZpZGVvLzEtb24tMS13aXRoLW1hYy1qb25lcy1qYWNrc29udmlsbGUtamFndWFyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Mar 2024 20:20:50 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Trade proposal with Chiefs would pave the way for Jaguars LT Walker Little to start - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL2JsYWNrYW5kdGVhbC5jb20vcG9zdHMvdHJhZGUtcHJvcG9zYWwtY2hpZWZzLXdvdWxkLXBhdmUtdGhlLXdheS1qYWNrc29udmlsbGUtamFndWFycy1jYW0tcm9iaW5zb24td2Fsa2VyLWxpdHRsZS1zdGFydC0wMWh0ODg0ZHB5ZmbSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Mar 2024 19:00:00 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "Pederson shares offseason edict: protect Lawrence, improve ground game - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L3Nwb3J0cy9uZmwvMjAyNC8wMy8yNy9wZWRlcnNvbi1vZmZzZWFzb24tZWRpY3QtcHJvdGVjdC10cmV2b3ItbGF3cmVuY2UtaW1wcm92ZS1ncm91bmQtZ2FtZS83MzEwMzU5MTAwNy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 17:10:14 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "4 Jacksonville Jaguars who could be nice surprises in 2024 - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYmxhY2thbmR0ZWFsLmNvbS9wb3N0cy80LWphY2tzb252aWxsZS1qYWd1YXJzLXdoby1jb3VsZC1iZS1uaWNlLXN1cnByaXNlcy1pbi0yMDI0LTAxaHQxZ3A3bjgzetIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 10:00:00 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "Jacksonville Jaguars' 2024 Offseason Workout Dates Announced - Athlon Sports",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYXRobG9uc3BvcnRzLmNvbS9uZmwvamFja3NvbnZpbGxlLWphZ3VhcnMvamFndWFyLXJlcG9ydC9uZXdzL2phZ3VhcnMtMjAyNC1vZmZzZWFzb24td29ya291dC1kYXRlcy1hbm5vdW5jZWTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 23:31:05 GMT",
+        "source_url": "https://athlonsports.com",
+        "source_name": "Athlon Sports"
+    },
+    {
+        "title": "Doug Pederson: 'We have to get Tank [Bigsby] going' in 2024 - Jaguars Wire",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vamFndWFyc3dpcmUudXNhdG9kYXkuY29tLzIwMjQvMDMvMzEvdGFuay1iaWdzYnktamFndWFycy0yMDI0LWRvdWctcGVkZXJzb24tdHJhdmlzLWV0aWVubmUtZmFudGFzeS1mb290YmFsbC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 15:00:00 GMT",
+        "source_url": "https://jaguarswire.usatoday.com",
+        "source_name": "Jaguars Wire"
+    },
+    {
+        "title": "Analyzing Latest Developments of Free Agency | Jaguars Happy Hour - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmphZ3VhcnMuY29tL3ZpZGVvL2phZ3VhcnMtY3VycmVudC1zdGF0dXMtaW4tZnJlZS1hZ2VuY3ktamFndWFycy1oYXBweS1ob3VyLWphY2tzb252aWxsZS1qYWd1YXJz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Mar 2024 22:49:17 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jaguars post-free agency seven-round mock draft - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8yNS8yNDEwOTQwNC9qYWd1YXJzLXBvc3QtZnJlZS1hZ2VuY3ktc2V2ZW4tcm91bmQtbW9jay1kcmFmdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 14:00:00 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Jacksonville Jaguars Asking Fans To Vote On 30th Season Logo - SportsLogos.Net News",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmV3cy5zcG9ydHNsb2dvcy5uZXQvMjAyNC8wMy8xMS9qYWNrc29udmlsbGUtamFndWFycy1hc2tpbmctZmFucy10by12b3RlLW9uLTMwdGgtc2Vhc29uLWxvZ28vZm9vdGJhbGwv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Mar 2024 07:00:00 GMT",
+        "source_url": "https://news.sportslogos.net",
+        "source_name": "SportsLogos.Net News"
+    },
+    {
+        "title": "\"More Than a Phone Call...\" | Press Conference - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL3ZpZGVvL21vcmUtdGhhbi1hLXBob25lLWNhbGwtZnJlZS1hZ2VuY3ktcHJlc3MtY29uZmVyZW5jZS1qYWNrc29udmlsbGUtamFndWFyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Mar 2024 22:09:27 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "NFL Rumors: Foye Oluokun, Jaguars Agree to New 4-Year, $45M Contract in Free Agency - Bleacher Report",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE0ODIzLW5mbC1ydW1vcnMtZm95ZS1vbHVva3VuLWphZ3VhcnMtYWdyZWUtdG8tbmV3LTQteWVhci00NW0tY29udHJhY3QtaW4tZnJlZS1hZ2VuY3nSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 15:00:00 GMT",
+        "source_url": "https://bleacherreport.com",
+        "source_name": "Bleacher Report"
+    },
+    {
+        "title": "Jacksonville Jaguars 2024 NFL free agency signings tracker and grades - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy84LzI0MDkzODc3L2phZ3VhcnMtMjAyNC1uZmwtZnJlZS1hZ2VuY3ktdHJhY2tlci1zaWduaW5nc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 08 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Tampering like crazy: Jaguars free agency signings - Day 1 - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8xMS8yNDA5Nzg1MS9qYWd1YXJzLWZyZWUtYWdlbmN5LXNpZ25pbmdzLWRheS0x0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Here's how Amit Patel almost got away with stealing $22 million from the Jaguars - gulflive.com",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lmd1bGZsaXZlLmNvbS9qYWd1YXJzLzIwMjQvMDMvaGVyZXMtaG93LWFtaXQtcGF0ZWwtYWxtb3N0LWdvdC1hd2F5LXdpdGgtc3RlYWxpbmctMjItbWlsbGlvbi1mcm9tLXRoZS1qYWd1YXJzLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.gulflive.com",
+        "source_name": "gulflive.com"
+    },
+    {
+        "title": "The Jaguars should trade up to draft a wide receiver AND a cornerback - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8yNy8yNDExMzI4NS90aGUtamFndWFycy1zaG91bGQtdHJhZGUtdXAtdG8tZHJhZnQtYS13aWRlLXJlY2VpdmVyLWFuZC1hLWNvcm5lcmJhY2vSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 05:48:24 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Jaguars Prep hosts 'Bold Gold Games' a 5v5 flag football tournament - WJXT News4JAX ",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm5ld3M0amF4LmNvbS92aWRlby9zcG9ydHMvMjAyNC8wMy8zMS9qYWd1YXJzLXByZXAtaG9zdHMtYm9sZC1nb2xkLWdhbWVzLWEtNXY1LWZsYWctZm9vdGJhbGwtdG91cm5hbWVudC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 31 Mar 2024 03:06:45 GMT",
+        "source_url": "https://www.news4jax.com",
+        "source_name": "WJXT News4JAX "
+    },
+    {
+        "title": "Patriots reportedly agree to trade Mac Jones to Jacksonville Jaguars - CBS Boston",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2Jvc3Rvbi9uZXdzL25ldy1lbmdsYW5kLXBhdHJpb3RzLW1hYy1qb25lcy10cmFkZWQtamFja3NvbnZpbGxlLWphZ3VhcnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 10 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.cbsnews.com",
+        "source_name": "CBS Boston"
+    },
+    {
+        "title": "3 Observations on the Jacksonville Jaguars Releasing Darious Williams - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnNpLmNvbS9uZmwvamFndWFycy9kdXZhbC1pbnNpZGVyLXBsdXMvMy1vYnNlcnZhdGlvbnMtb24tdGhlLWphZ3VhcnMtcmVsZWFzaW5nLWRhcmlvdXMtd2lsbGlhbXPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 06 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.si.com",
+        "source_name": "Sports Illustrated"
+    },
+    {
+        "title": "Jacksonville Jaguars embezzler went full Florida Man with his $22 million - Deadspin",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZGVhZHNwaW4uY29tL2phY2tzb252aWxsZS1qYWd1YXJzLWFtaXQtcGF0ZWwtZW1iZXp6bGVtZW50LW5mbC0xODUxMzIwNTE30gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 08 Mar 2024 08:00:00 GMT",
+        "source_url": "https://deadspin.com",
+        "source_name": "Deadspin"
+    },
+    {
+        "title": "Jaguars Free Agency LIVE Special - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmphZ3VhcnMuY29tL3ZpZGVvL2phZ3VhcnMtZnJlZS1hZ2VuY3ktbGl2ZS1zcGVjaWFsLWphY2tzb252aWxsZS1qYWd1YXJz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Mar 2024 21:46:33 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Sex offender who hacked Jumbotron gets 220 years - Jacksonville Today",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vamF4dG9kYXkub3JnLzIwMjQvMDMvMjYvamFncy1qdW1ib3Ryb24taGFja2VyLWEtc2V4LW9mZmVuZGVyLWdldHMtMjIwLXllYXJzLWluLXByaXNvbi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Mar 2024 17:51:16 GMT",
+        "source_url": "https://jaxtoday.org",
+        "source_name": "Jacksonville Today"
+    },
+    {
+        "title": "Jaguars Strengthen Roster and Special Teams Depth With S Daniel Thomas Extension - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvb2ZmaWNpYWwtamFndWFycy1zaWduLWNvbnRyYWN0LWV4dGVuc2lvbi1mb3Itc2FmZXR5LWRhbmllbC10aG9tYXPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 08 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jaguars 2024 NFL playoff odds (Jacksonville's postseason chances set as a coin flip) - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYmxhY2thbmR0ZWFsLmNvbS9wb3N0cy9qYWd1YXJzLTIwMjQtbmZsLXBsYXlvZmYtb2Rkcy1qYWNrc29udmlsbGVzLXBvc3RzZWFzb24tY2hhbmNlcy1zZXQtY29pbi1mbGlw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 20:00:00 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    },
+    {
+        "title": "ESPN: Jacksonville Jaguars should pursue Leonard Williams - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy80LzI0MDg5NzIwL2VzcG4tamFja3NvbnZpbGxlLWphZ3VhcnMtc2hvdWxkLXB1cnN1ZS1sZW9uYXJkLXdpbGxpYW1z0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 04 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "Official: Jaguars Release Darious Williams, Rayshawn Jenkins and Foley Fatukasi - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvb2ZmaWNpYWwtamFndWFycy1yZWxlYXNlLWRhcmlvdXMtd2lsbGlhbXMtcmF5c2hhd24tamVua2lucy1hbmQtZm9sZXktZmF0dWthc2nSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 05 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Report: Jaguars trade a 6th-round draft pick for QB Mac Jones - Big Cat Country",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJpZ2NhdGNvdW50cnkuY29tLzIwMjQvMy8xMC8yNDA5NjI4Ni9yZXBvcnQtamFndWFycy1wYXRyaW90cy10cmFkZS1xdWFydGVyYmFjay1tYWMtam9uZXPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 10 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.bigcatcountry.com",
+        "source_name": "Big Cat Country"
+    },
+    {
+        "title": "O-Zone: Arrow up - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvby16b25lLWFycm93LXVw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 11:56:56 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jacksonville Jaguars Extend Key Linebacker To 3-Year Deal - Yardbarker",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnlhcmRiYXJrZXIuY29tL25mbC9hcnRpY2xlcy9qYWNrc29udmlsbGVfamFndWFyc19leHRlbmRfa2V5X2xpbmViYWNrZXJfdG9fM195ZWFyX2RlYWwvczFfMTcwNjhfNDAxNzE0MjTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Mar 2024 14:19:22 GMT",
+        "source_url": "https://www.yardbarker.com",
+        "source_name": "Yardbarker"
+    },
+    {
+        "title": "Jacksonville Jaguars Sign Three Players To Contract Extensions Ahead of 2024 League Year - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3MvamFndWFycy1zaWduLXRocmVlLXBsYXllcnMtdG8tY29udHJhY3QtZXh0ZW5zaW9uLWFoZWFkLW9mLTIwMjQtbGVhZ3VlLXllYXLSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 08 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "2024 NFL Draft: Jaguars Awarded Two Compensatory Picks - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvb2ZmaWNpYWwtamFndWFycy1yZWNlaXZlLXR3by1jb21wZW5zYXRvcnktMjAyNC1kcmFmdC1zZWxlY3Rpb25z0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 08 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "O-Zone: New ideas - jaguars.com",
+        "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmphZ3VhcnMuY29tL25ld3Mvby16b25lLW5ldy1pZGVhc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 04 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.jaguars.com",
+        "source_name": "jaguars.com"
+    },
+    {
+        "title": "Jaguars' Arik Armstead felt 'extremely disrespected' by 49ers' pay cut request before his release - NFL.com",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9qYWd1YXJzLWFyaWstYXJtc3RlYWQtZmVsdC1leHRyZW1lbHktZGlzcmVzcGVjdGVkLWJ5LTQ5ZXJzLXBheS1jdXQtcmVxdWVzdC1iZWZvcmUtaGlzLXJlbGVhc2XSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Mar 2024 21:56:00 GMT",
+        "source_url": "https://www.nfl.com",
+        "source_name": "NFL.com"
+    },
+    {
+        "title": "NFL passes new hybrid kickoff rule. Here's how it works and how Jaguars can take advantage - The Florida Times-Union",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5qYWNrc29udmlsbGUuY29tL3N0b3J5L3Nwb3J0cy9uZmwvMjAyNC8wMy8yNi9ob3ctdGhlLW5ldy1uZmwtaHlicmlkLWtpY2tvZmYtcnVsZS13b3Jrcy1qYWd1YXJzLWNhbi10YWtlLWFkdmFudGFnZS83MzEwMzY4NDAwNy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Mar 2024 15:16:11 GMT",
+        "source_url": "https://www.jacksonville.com",
+        "source_name": "The Florida Times-Union"
+    },
+    {
+        "title": "Jacksonville Jaguars free agency tracker: Signings trades & live updates - Black and Teal",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL2JsYWNrYW5kdGVhbC5jb20vcG9zdHMvamFja3NvbnZpbGxlLWphZ3VhcnMtZnJlZS1hZ2VuY3ktdHJhY2tlci1jYWx2aW4tcmlkbGV5LWdhYmUtZGF2aXMtc2lnbmluZ3MtdHJhZGVzLWxpdmUtdXBkYXRlcy0wMWhycTY2enZwZ2rSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Mar 2024 07:00:00 GMT",
+        "source_url": "https://blackandteal.com",
+        "source_name": "Black and Teal"
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "34",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 0,
+  "response": []
+}

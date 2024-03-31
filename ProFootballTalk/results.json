@@ -1,0 +1,26 @@
+{
+  "get": "teams",
+  "parameters": {
+    "id": "1"
+  },
+  "errors": [],
+  "results": 1,
+  "response": [
+    {
+      "id": 1,
+      "name": "Las Vegas Raiders",
+      "code": "LV",
+      "city": "Las Vegas",
+      "coach": "Antonio Pierce (interim)",
+      "owner": "Carol and Mark Davis",
+      "stadium": "Allegiant Stadium",
+      "established": 1960,
+      "logo": "https://media.api-sports.io/american-football/teams/1.png",
+      "country": {
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      }
+    }
+  ]
+}
