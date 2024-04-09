@@ -1,11 +1,75 @@
 [
     {
+        "title": "Austin weather: Tornado Watch issued for most of Central Texas - FOX 7 Austin",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL3dlYXRoZXIvYXVzdGluLXdlYXRoZXItdG9ybmFkby13YXRjaC1pc3N1ZWQtZm9yLW1vc3Qtb2YtY2VudHJhbC10ZXhhc9IBZGh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL3dlYXRoZXIvYXVzdGluLXdlYXRoZXItdG9ybmFkby13YXRjaC1pc3N1ZWQtZm9yLW1vc3Qtb2YtY2VudHJhbC10ZXhhcy5hbXA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 14:47:15 GMT",
+        "source_url": "https://www.fox7austin.com",
+        "source_name": "FOX 7 Austin"
+    },
+    {
+        "title": "Vampire Weekend conjures magic during solar eclipse concert in Austin - Austin American-Statesman",
+        "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbXVzaWMvMjAyNC8wNC8wOS8yMDI0LXNvbGFyLWVjbGlwc2UtdmFtcGlyZS13ZWVrZW5kLWF1c3Rpbi10ZXhhcy1jb25jZXJ0LXNob3ctc2V0bGlzdC83MzI1ODc2ODAwNy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 13:34:41 GMT",
+        "source_url": "https://www.statesman.com",
+        "source_name": "Austin American-Statesman"
+    },
+    {
+        "title": "IDEA staff \u2018evaluating\u2019 3 students after truck crashes into bus - KXAN.com",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbG9jYWwvYXVzdGluL2lkZWEtc3RhZmYtZXZhbHVhdGluZy0zLXN0dWRlbnRzLWFmdGVyLXRydWNrLWNyYXNoZXMtaW50by1idXMv0gFpaHR0cHM6Ly93d3cua3hhbi5jb20vbmV3cy9sb2NhbC9hdXN0aW4vaWRlYS1zdGFmZi1ldmFsdWF0aW5nLTMtc3R1ZGVudHMtYWZ0ZXItdHJ1Y2stY3Jhc2hlcy1pbnRvLWJ1cy9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 15:46:49 GMT",
+        "source_url": "https://www.kxan.com",
+        "source_name": "KXAN.com"
+    },
+    {
+        "title": "Austin real estate news: 2 new towers planned downtown - Austin Business Journal",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9hdXN0aW4vbmV3cy8yMDI0LzA0LzA5L2F1c3Rpbi1kb3VibGV0cmVlLWRvd250b3duLXRvd2Vycy1waW5uYWNsZS1wbGF6YS5odG1s0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 13:21:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "Austin Business Journal"
+    },
+    {
+        "title": "The 11 best chefs in Austin are shaping local tastes - CultureMap Austin",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXVzdGluLmN1bHR1cmVtYXAuY29tL25ld3MvcmVzdGF1cmFudHMtYmFycy90YXN0ZW1ha2VyLWF3YXJkcy1iZXN0LWNoZWZzLTIwMjQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 08 Apr 2024 23:26:00 GMT",
+        "source_url": "https://austin.culturemap.com",
+        "source_name": "CultureMap Austin"
+    },
+    {
+        "title": "City looks to land banks as additional option to curb displacement - Austin Monitor",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmF1c3Rpbm1vbml0b3IuY29tL3N0b3JpZXMvMjAyNC8wNC9jaXR5LWxvb2tzLXRvLWxhbmQtYmFua3MtYXMtYWRkaXRpb25hbC1vcHRpb24tdG8tY3VyYi1kaXNwbGFjZW1lbnQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 05:04:19 GMT",
+        "source_url": "https://www.austinmonitor.com",
+        "source_name": "Austin Monitor"
+    },
+    {
         "title": "2024 solar eclipse: Exact times, path in Texas - KVUE.com",
         "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lmt2dWUuY29tL2FydGljbGUvbmV3cy9sb2NhbC9zb2xhci1lY2xpcHNlLXRpbWVzLXRleGFzLTIwMjQvMjY5LTE1YmU1ODJjLTI1NDItNGY0My04MTE4LWVlYjkzMjg0MjExYtIBAA?oc=5",
         "description": [],
         "pub_date": "Mon, 08 Apr 2024 17:10:00 GMT",
         "source_url": "https://www.kvue.com",
         "source_name": "KVUE.com"
+    },
+    {
+        "title": "CMT Awards take over Austin for a second year, Jelly Roll dominates: night's biggest highlights - The Daily Texan",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3RoZWRhaWx5dGV4YW4uY29tLzIwMjQvMDQvMDgvY210LWF3YXJkcy10YWtlLW92ZXItYXVzdGluLWZvci1hLXNlY29uZC15ZWFyLWplbGx5LXJvbGwtZG9taW5hdGVzLW5pZ2h0cy1iaWdnZXN0LWhpZ2hsaWdodHMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 04:02:50 GMT",
+        "source_url": "https://thedailytexan.com",
+        "source_name": "The Daily Texan"
+    },
+    {
+        "title": "Man dies from injuries weeks after NE Austin crash - KEYE TV CBS Austin",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL2xvY2FsL21hbi1kaWVzLWZyb20taW5qdXJpZXMtd2Vla3MtYWZ0ZXItbm9ydGhlYXN0LWF1c3Rpbi1jcmFzaNIBXmh0dHBzOi8vY2JzYXVzdGluLmNvbS9hbXAvbmV3cy9sb2NhbC9tYW4tZGllcy1mcm9tLWluanVyaWVzLXdlZWtzLWFmdGVyLW5vcnRoZWFzdC1hdXN0aW4tY3Jhc2g?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 17:31:32 GMT",
+        "source_url": "https://cbsaustin.com",
+        "source_name": "KEYE TV CBS Austin"
     },
     {
         "title": "New Austin Food Truck Eggman Serves New York City Breakfast Sandwiches - Eater Austin",
@@ -16,28 +80,92 @@
         "source_name": "Eater Austin"
     },
     {
-        "title": "1 dead, 1 injured after ATV rollover accident Sunday - KXAN.com",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbG9jYWwvdHJhdmlzLWNvdW50eS8xLWRlYWQtMS1pbmp1cmVkLWFmdGVyLWF0di1yb2xsb3Zlci1hY2NpZGVudC1zdW5kYXkv0gFmaHR0cHM6Ly93d3cua3hhbi5jb20vbmV3cy9sb2NhbC90cmF2aXMtY291bnR5LzEtZGVhZC0xLWluanVyZWQtYWZ0ZXItYXR2LXJvbGxvdmVyLWFjY2lkZW50LXN1bmRheS9hbXAv?oc=5",
+        "title": "Second Phase of Major Zoning Changes to Increase Middle-Income Housing Kicks Off - Austin Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5hdXN0aW5jaHJvbmljbGUuY29tL2RhaWx5L25ld3MvMjAyNC0wNC0wOS9zZWNvbmQtcGhhc2Utb2YtbWFqb3Item9uaW5nLWNoYW5nZXMtdG8taW5jcmVhc2UtbWlkZGxlLWluY29tZS1ob3VzaW5nLWtpY2tzLW9mZi_SAQA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 17:14:57 GMT",
+        "pub_date": "Tue, 09 Apr 2024 17:32:27 GMT",
+        "source_url": "https://www.austinchronicle.com",
+        "source_name": "Austin Chronicle"
+    },
+    {
+        "title": "City of Austin asks for opinions on historic downtown park renovations - CultureMap Austin",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXVzdGluLmN1bHR1cmVtYXAuY29tL25ld3MvY2l0eS1saWZlL3BhbG0tbmVpZ2hib3Job29kLXBhcmstcmVub3ZhcnRpb24tY29tbXVuaXR5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 13:57:00 GMT",
+        "source_url": "https://austin.culturemap.com",
+        "source_name": "CultureMap Austin"
+    },
+    {
+        "title": "Education with Heart - AustinTexas.gov",
+        "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmF1c3RpbnRleGFzLmdvdi9uZXdzL2VkdWNhdGlvbi1oZWFydNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 12:00:00 GMT",
+        "source_url": "https://www.austintexas.gov",
+        "source_name": "AustinTexas.gov"
+    },
+    {
+        "title": "City of Austin accepting eclipse glasses donations | kvue.com - KVUE.com",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lmt2dWUuY29tL2FydGljbGUvbmV3cy93b3JsZC9zb2xhci1lY2xpcHNlL2F1c3Rpbi11c2VkLWVjbGlwc2UtZ2xhc3Nlcy8yNjktOTA2ZTAzZmUtNjVkNi00ZjFmLTkzMjktN2RkMDc3OGE4YTdh0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 03:23:00 GMT",
+        "source_url": "https://www.kvue.com",
+        "source_name": "KVUE.com"
+    },
+    {
+        "title": "Missy Elliott puts Austin on the list for her first headlining tour - CultureMap Austin",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXVzdGluLmN1bHR1cmVtYXAuY29tL25ld3MvZW50ZXJ0YWlubWVudC9taXNzeS1lbGxpb3R0LW1vb2R5LWNlbnRlci0yMDI0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 08 Apr 2024 16:48:00 GMT",
+        "source_url": "https://austin.culturemap.com",
+        "source_name": "CultureMap Austin"
+    },
+    {
+        "title": "Dessert Shop Hui Lau Shan Is Opening in Austin, Texas - Eater Austin",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYXVzdGluLmVhdGVyLmNvbS8yMDI0LzQvOS8yNDExNDA2MC9odWktbGF1LXNoYW4tYXVzdGluLXN0b3JlLW1hbmdvLWRlc3NlcnRzLWhvbmcta29uZy1jaGFpbtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 16:51:31 GMT",
+        "source_url": "https://austin.eater.com",
+        "source_name": "Eater Austin"
+    },
+    {
+        "title": "Landmark commission embraces green initiatives - Austin Monitor",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmF1c3Rpbm1vbml0b3IuY29tL3N0b3JpZXMvMjAyNC8wNC9sYW5kbWFyay1jb21taXNzaW9uLWVtYnJhY2VzLWdyZWVuLWluaXRpYXRpdmVzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 05:03:12 GMT",
+        "source_url": "https://www.austinmonitor.com",
+        "source_name": "Austin Monitor"
+    },
+    {
+        "title": "City of Austin to hold career expo April 11 - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY29tbXVuaXR5aW1wYWN0LmNvbS9hdXN0aW4vc291dGgtY2VudHJhbC1hdXN0aW4vZ292ZXJubWVudC8yMDI0LzA0LzA5L2NpdHktb2YtYXVzdGluLXRvLWhvbGQtY2FyZWVyLWV4cG8tYXByaWwtMTEv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 05:00:00 GMT",
+        "source_url": "https://communityimpact.com",
+        "source_name": "Community Impact"
+    },
+    {
+        "title": "Austin traffic pilot program targeting left-turn crashes at 16 spots - KXAN.com",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbG9jYWwvYXVzdGluL2F1c3RpbnMtdmlzaW9uLXplcm8tdGFyZ2V0aW5nLWxlZnQtdHVybi1jcmFzaGVzLWF0LTE2LXNwb3RzL9IBZ2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbG9jYWwvYXVzdGluL2F1c3RpbnMtdmlzaW9uLXplcm8tdGFyZ2V0aW5nLWxlZnQtdHVybi1jcmFzaGVzLWF0LTE2LXNwb3RzL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 17:10:23 GMT",
         "source_url": "https://www.kxan.com",
         "source_name": "KXAN.com"
     },
     {
-        "title": "Country music stars arrive on the red carpet at the 2024 CMT Awards in Austin. See photos - Austin American-Statesman",
-        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3BpY3R1cmUtZ2FsbGVyeS9lbnRlcnRhaW5tZW50LzIwMjQvMDQvMDcvMjAyNC1jbWEtYXdhcmRzLXJlZC1jYXJwZXQtY291bnRyeS1tdXNpYy1zdGFycy1hcnJpdmUtYXVzdGluLW1vb2R5LWNlbnRlci83MzIxNzc4OTAwNy_SAQA?oc=5",
+        "title": "Apple plans $40 million renovation for Texas campus - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vYnVzaW5lc3MvYXJ0aWNsZS9hcHBsZS10ZXhhcy1jYW1wdXMtcmVub3ZhdGlvbi0xOTM5MzI1Ni5waHDSAQA?oc=5",
         "description": [],
-        "pub_date": "Sun, 07 Apr 2024 23:47:00 GMT",
-        "source_url": "https://www.statesman.com",
-        "source_name": "Austin American-Statesman"
+        "pub_date": "Tue, 09 Apr 2024 14:50:30 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
     },
     {
-        "title": "City looks to land banks as additional option to curb displacement - Austin Monitor",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmF1c3Rpbm1vbml0b3IuY29tL3N0b3JpZXMvMjAyNC8wNC9jaXR5LWxvb2tzLXRvLWxhbmQtYmFua3MtYXMtYWRkaXRpb25hbC1vcHRpb24tdG8tY3VyYi1kaXNwbGFjZW1lbnQv0gEA?oc=5",
+        "title": "When will cloud coverage be the worst for the eclipse? An hour-by-hour forecast in Austin - Austin American-Statesman",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L3dlYXRoZXIvMjAyNC8wNC8wOC8yMDI0LXNvbGFyLWVjbGlwc2Utd2VhdGhlci1mb3JlY2FzdC1ob3VybHktYXVzdGluLXRleGFzLXRodW5kZXJzdG9ybXMtcmFpbi83MzI0MTgzNzAwNy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 09 Apr 2024 05:04:19 GMT",
-        "source_url": "https://www.austinmonitor.com",
-        "source_name": "Austin Monitor"
+        "pub_date": "Mon, 08 Apr 2024 14:41:07 GMT",
+        "source_url": "https://www.statesman.com",
+        "source_name": "Austin American-Statesman"
     },
     {
         "title": "Austin appellate court blocks state from investigating families that provided gender-affirming care to children - The Daily Texan",
@@ -56,36 +184,20 @@
         "source_name": "Community Impact"
     },
     {
-        "title": "When will cloud coverage be the worst for the eclipse? An hour-by-hour forecast in Austin - Austin American-Statesman",
-        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L3dlYXRoZXIvMjAyNC8wNC8wOC8yMDI0LXNvbGFyLWVjbGlwc2Utd2VhdGhlci1mb3JlY2FzdC1ob3VybHktYXVzdGluLXRleGFzLXRodW5kZXJzdG9ybXMtcmFpbi83MzI0MTgzNzAwNy_SAQA?oc=5",
+        "title": "'Austin' singer Dasha says CMT Awards are her first time to visit city - Austin American-Statesman",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnN0YXRlc21hbi5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA0LzA3L2Rhc2hhLXNpbmdzLWF1c3Rpbi1uZXZlci1iZWVuLWJlZm9yZS1jbXQtYXdhcmRzLzczMjM3ODE1MDA3L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 14:41:07 GMT",
+        "pub_date": "Sun, 07 Apr 2024 21:58:38 GMT",
         "source_url": "https://www.statesman.com",
         "source_name": "Austin American-Statesman"
     },
     {
-        "title": "Austin traffic: Construction to cause lane reductions on S. Lamar - FOX 7 Austin",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL25ld3MvYXVzdGluLXRyYWZmaWMtcy1sYW1hci1ib3VsZXZhcmQtb2x0b3JmLXN0cmVldNIBUmh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL25ld3MvYXVzdGluLXRyYWZmaWMtcy1sYW1hci1ib3VsZXZhcmQtb2x0b3JmLXN0cmVldC5hbXA?oc=5",
+        "title": "One dead in crash on US Hwy 290 - FOX 7 Austin",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL25ld3Mvb25lLWRlYWQtY3Jhc2gtZWFzdC11cy1od3ktMjkw0gFCaHR0cHM6Ly93d3cuZm94N2F1c3Rpbi5jb20vbmV3cy9vbmUtZGVhZC1jcmFzaC1lYXN0LXVzLWh3eS0yOTAuYW1w?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 22:54:17 GMT",
+        "pub_date": "Tue, 09 Apr 2024 17:08:24 GMT",
         "source_url": "https://www.fox7austin.com",
         "source_name": "FOX 7 Austin"
-    },
-    {
-        "title": "Missy Elliott puts Austin on the list for her first headlining tour - CultureMap Austin",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXVzdGluLmN1bHR1cmVtYXAuY29tL25ld3MvZW50ZXJ0YWlubWVudC9taXNzeS1lbGxpb3R0LW1vb2R5LWNlbnRlci0yMDI0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 16:48:00 GMT",
-        "source_url": "https://austin.culturemap.com",
-        "source_name": "CultureMap Austin"
-    },
-    {
-        "title": "Landmark commission embraces green initiatives - Austin Monitor",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmF1c3Rpbm1vbml0b3IuY29tL3N0b3JpZXMvMjAyNC8wNC9sYW5kbWFyay1jb21taXNzaW9uLWVtYnJhY2VzLWdyZWVuLWluaXRpYXRpdmVzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 09 Apr 2024 05:03:12 GMT",
-        "source_url": "https://www.austinmonitor.com",
-        "source_name": "Austin Monitor"
     },
     {
         "title": "Austin Mayor Gives Chili's at 45th and Lamar Its Own Special Day - Austin Monthly",
@@ -96,44 +208,20 @@
         "source_name": "Austin Monthly"
     },
     {
-        "title": "'We want you to stay': Future of Austin Development Panel discusses changes to the city - The Daily Texan",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vdGhlZGFpbHl0ZXhhbi5jb20vMjAyNC8wNC8wOC93ZS13YW50LXlvdS10by1zdGF5LWZ1dHVyZS1vZi1hdXN0aW4tZGV2ZWxvcG1lbnQtcGFuZWwtZGlzY3Vzc2VzLWNoYW5nZXMtdG8tdGhlLWNpdHkv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 16:26:12 GMT",
-        "source_url": "https://thedailytexan.com",
-        "source_name": "The Daily Texan"
-    },
-    {
-        "title": "Council targets human trafficking in Austin - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY29tbXVuaXR5aW1wYWN0LmNvbS9hdXN0aW4vc291dGgtY2VudHJhbC1hdXN0aW4vZ292ZXJubWVudC8yMDI0LzA0LzA4L2NvdW5jaWwtdGFyZ2V0cy1odW1hbi10cmFmZmlja2luZy1pbi1hdXN0aW4v0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 17:15:00 GMT",
-        "source_url": "https://communityimpact.com",
-        "source_name": "Community Impact"
-    },
-    {
-        "title": "CMT Music Awards Special! The country music community celebrates fans in Austin - KEYE TV CBS Austin",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vY2JzYXVzdGluLmNvbS9mZWF0dXJlcy93ZS1hcmUtYXVzdGluL2NtdC1tdXNpYy1hd2FyZHMtc3BlY2lhbC10aGUtY291bnRyeS1tdXNpYy1jb21tdW5pdHktY2VsZWJyYXRlcy1mYW5zLWluLWF1c3RpbtIBf2h0dHBzOi8vY2JzYXVzdGluLmNvbS9hbXAvZmVhdHVyZXMvd2UtYXJlLWF1c3Rpbi9jbXQtbXVzaWMtYXdhcmRzLXNwZWNpYWwtdGhlLWNvdW50cnktbXVzaWMtY29tbXVuaXR5LWNlbGVicmF0ZXMtZmFucy1pbi1hdXN0aW4?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 17:31:53 GMT",
-        "source_url": "https://cbsaustin.com",
-        "source_name": "KEYE TV CBS Austin"
-    },
-    {
-        "title": "Austin ISD parents, students share once in a lifetime moment during a solar eclipse - KXAN.com",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvYXVzdGluLWlzZC1wYXJlbnRzLXN0dWRlbnRzLXNoYXJlLW9uY2UtaW4tYS1saWZldGltZS1tb21lbnQtZHVyaW5nLWEtc29sYXItZWNsaXBzZS_SAXFodHRwczovL3d3dy5reGFuLmNvbS9uZXdzL2F1c3Rpbi1pc2QtcGFyZW50cy1zdHVkZW50cy1zaGFyZS1vbmNlLWluLWEtbGlmZXRpbWUtbW9tZW50LWR1cmluZy1hLXNvbGFyLWVjbGlwc2UvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 23:43:04 GMT",
-        "source_url": "https://www.kxan.com",
-        "source_name": "KXAN.com"
-    },
-    {
         "title": "Collaboration and Community: How Engineers Make Their Mark on Austin's Tech Scene - Built In Austin",
         "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJ1aWx0aW5hdXN0aW4uY29tL2FydGljbGVzL2NvbGxhYm9yYXRpb24tYW5kLWNvbW11bml0eS1ob3ctZW5naW5lZXJzLW1ha2UtdGhlaXItbWFyay1hdXN0aW5zLXRlY2gtc2NlbmXSAQA?oc=5",
         "description": [],
         "pub_date": "Mon, 08 Apr 2024 14:39:19 GMT",
         "source_url": "https://www.builtinaustin.com",
         "source_name": "Built In Austin"
+    },
+    {
+        "title": "Austin traffic: Construction to cause lane reductions on S. Lamar - FOX 7 Austin",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL25ld3MvYXVzdGluLXRyYWZmaWMtcy1sYW1hci1ib3VsZXZhcmQtb2x0b3JmLXN0cmVldNIBUmh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL25ld3MvYXVzdGluLXRyYWZmaWMtcy1sYW1hci1ib3VsZXZhcmQtb2x0b3JmLXN0cmVldC5hbXA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 08 Apr 2024 22:54:17 GMT",
+        "source_url": "https://www.fox7austin.com",
+        "source_name": "FOX 7 Austin"
     },
     {
         "title": "New speakeasy taqueria opens downtown, plus 7 other updates - Community Impact",
@@ -144,12 +232,20 @@
         "source_name": "Community Impact"
     },
     {
-        "title": "Man receives 5-year sentence after pleading guilty to 2022 offense - KXAN.com",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvY3JpbWUvbWFuLXJlY2VpdmVzLTUteWVhci1zZW50ZW5jZS1hZnRlci1wbGVhZGluZy1ndWlsdHktdG8tMjAyMi1vZmZlbnNlL9IBZ2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvY3JpbWUvbWFuLXJlY2VpdmVzLTUteWVhci1zZW50ZW5jZS1hZnRlci1wbGVhZGluZy1ndWlsdHktdG8tMjAyMi1vZmZlbnNlL2FtcC8?oc=5",
+        "title": "Austin ISD parents, students share once in a lifetime moment during a solar eclipse - KXAN.com",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvYXVzdGluLWlzZC1wYXJlbnRzLXN0dWRlbnRzLXNoYXJlLW9uY2UtaW4tYS1saWZldGltZS1tb21lbnQtZHVyaW5nLWEtc29sYXItZWNsaXBzZS_SAXFodHRwczovL3d3dy5reGFuLmNvbS9uZXdzL2F1c3Rpbi1pc2QtcGFyZW50cy1zdHVkZW50cy1zaGFyZS1vbmNlLWluLWEtbGlmZXRpbWUtbW9tZW50LWR1cmluZy1hLXNvbGFyLWVjbGlwc2UvYW1wLw?oc=5",
         "description": [],
-        "pub_date": "Sun, 07 Apr 2024 19:52:52 GMT",
+        "pub_date": "Mon, 08 Apr 2024 23:43:04 GMT",
         "source_url": "https://www.kxan.com",
         "source_name": "KXAN.com"
+    },
+    {
+        "title": "Austin YMCA daycare worker accused of injuring multiple children - KEYE TV CBS Austin",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL2xvY2FsL2F1c3Rpbi15bWNhLWRheWNhcmUtd29ya2VyLWFjY3VzZWQtb2YtaW5qdXJpbmctbXVsdGlwbGUtY2hpbGRyZW7SAWVodHRwczovL2Nic2F1c3Rpbi5jb20vYW1wL25ld3MvbG9jYWwvYXVzdGluLXltY2EtZGF5Y2FyZS13b3JrZXItYWNjdXNlZC1vZi1pbmp1cmluZy1tdWx0aXBsZS1jaGlsZHJlbg?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 12:52:49 GMT",
+        "source_url": "https://cbsaustin.com",
+        "source_name": "KEYE TV CBS Austin"
     },
     {
         "title": "Tesla's 2023 report to Travis County shows new headcount, wages, more - Austin American-Statesman",
@@ -176,20 +272,20 @@
         "source_name": "Community Impact"
     },
     {
-        "title": "Austin hosts Vampire Weekend\u2019s sold-out solar eclipse show at Moody Amphitheater - KXAN.com",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lmt4YW4uY29tL3dlYXRoZXIvZWNsaXBzZS9hdXN0aW4taG9zdHMtdmFtcGlyZS13ZWVrZW5kcy1zb2xhci1lY2xpcHNlLXNob3ctYXQtbW9vZHktYW1waGl0aGVhdGVyL9IBcGh0dHBzOi8vd3d3Lmt4YW4uY29tL3dlYXRoZXIvZWNsaXBzZS9hdXN0aW4taG9zdHMtdmFtcGlyZS13ZWVrZW5kcy1zb2xhci1lY2xpcHNlLXNob3ctYXQtbW9vZHktYW1waGl0aGVhdGVyL2FtcC8?oc=5",
+        "title": "Treat mom to the ultimate Mother's Day brunch at Fairmont Austin! - KEYE TV CBS Austin",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vY2JzYXVzdGluLmNvbS9mZWF0dXJlcy93ZS1hcmUtYXVzdGluL3RyZWF0LW1vbS10by10aGUtdWx0aW1hdGUtbW90aGVycy1kYXktYnJ1bmNoLWF0LWZhaXJtb250LWF1c3RpbtIBAA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 21:33:40 GMT",
-        "source_url": "https://www.kxan.com",
-        "source_name": "KXAN.com"
-    },
-    {
-        "title": "One dead in crash on US 290 - KEYE TV CBS Austin",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL2xvY2FsL29uZS1kZWFkLWluLWNyYXNoLW9uLXVzLTI5MC1zcHJpbmdkYWxlLXJkLXRyYWZmaWMtZmF0YWxpdHktYXRjZW1zLWNvbGxpc2lvbtIBcGh0dHBzOi8vY2JzYXVzdGluLmNvbS9hbXAvbmV3cy9sb2NhbC9vbmUtZGVhZC1pbi1jcmFzaC1vbi11cy0yOTAtc3ByaW5nZGFsZS1yZC10cmFmZmljLWZhdGFsaXR5LWF0Y2Vtcy1jb2xsaXNpb24?oc=5",
-        "description": [],
-        "pub_date": "Sun, 07 Apr 2024 13:11:33 GMT",
+        "pub_date": "Tue, 09 Apr 2024 16:26:39 GMT",
         "source_url": "https://cbsaustin.com",
         "source_name": "KEYE TV CBS Austin"
+    },
+    {
+        "title": "Man receives 5-year sentence after pleading guilty to 2022 offense - KXAN.com",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvY3JpbWUvbWFuLXJlY2VpdmVzLTUteWVhci1zZW50ZW5jZS1hZnRlci1wbGVhZGluZy1ndWlsdHktdG8tMjAyMi1vZmZlbnNlL9IBZ2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvY3JpbWUvbWFuLXJlY2VpdmVzLTUteWVhci1zZW50ZW5jZS1hZnRlci1wbGVhZGluZy1ndWlsdHktdG8tMjAyMi1vZmZlbnNlL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Sun, 07 Apr 2024 19:52:52 GMT",
+        "source_url": "https://www.kxan.com",
+        "source_name": "KXAN.com"
     },
     {
         "title": "New USPS wedding stamps will save Austin brides a 2-ounce headache - CultureMap Austin",
@@ -216,20 +312,36 @@
         "source_name": "Austin American-Statesman"
     },
     {
-        "title": "UT Austin students 'frustrated' with SB 17 layoffs, impacts - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3V0LWF1c3Rpbi1sYXlvZmZzLTE5Mzg3OTc0LnBocNIBAA?oc=5",
+        "title": "Austin witches solar eclipse market enchants Texas brewery - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbGlmZXN0eWxlL2FydGljbGUvYXVzdGluLXdpdGNoLW1hcmtldC1lY2xpcHNlLTE5MzkxODA4LnBocNIBAA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 09:07:24 GMT",
+        "pub_date": "Mon, 08 Apr 2024 22:04:42 GMT",
         "source_url": "https://www.mysanantonio.com",
         "source_name": "mySA"
     },
     {
-        "title": "Photos - The CMT Music Awards Return to Moody Center - 1 of 100 - Austin Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmF1c3RpbmNocm9uaWNsZS5jb20vbS9waG90b3MvdGhlLWNtdC1tdXNpYy1hd2FyZHMtcmV0dXJuLXRvLW1vb2R5LWNlbnRlci_SAQA?oc=5",
+        "title": "Council targets human trafficking in Austin - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY29tbXVuaXR5aW1wYWN0LmNvbS9hdXN0aW4vc291dGgtY2VudHJhbC1hdXN0aW4vZ292ZXJubWVudC8yMDI0LzA0LzA4L2NvdW5jaWwtdGFyZ2V0cy1odW1hbi10cmFmZmlja2luZy1pbi1hdXN0aW4v0gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 22:08:32 GMT",
-        "source_url": "https://www.austinchronicle.com",
-        "source_name": "Austin Chronicle"
+        "pub_date": "Mon, 08 Apr 2024 17:15:00 GMT",
+        "source_url": "https://communityimpact.com",
+        "source_name": "Community Impact"
+    },
+    {
+        "title": "Which airports had the most delays and cancellations in 2023? - KXAN.com",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbmF0aW9uYWwtbmV3cy93aGljaC1haXJwb3J0cy1oYWQtdGhlLW1vc3QtZGVsYXlzLWFuZC1jYW5jZWxsYXRpb25zLWluLTIwMjMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 12:00:00 GMT",
+        "source_url": "https://www.kxan.com",
+        "source_name": "KXAN.com"
+    },
+    {
+        "title": "Great music that gives back! I Live Here I Give Here presents Amplify LIVE! - KEYE TV CBS Austin",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vY2JzYXVzdGluLmNvbS9mZWF0dXJlcy93ZS1hcmUtYXVzdGluL2dyZWF0LW11c2ljLXRoYXQtZ2l2ZXMtYmFjay1pLWxpdmUtaGVyZS1pLWdpdmUtaGVyZS1wcmVzZW50cy1hbXBsaWZ5LWxpdmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 16:26:39 GMT",
+        "source_url": "https://cbsaustin.com",
+        "source_name": "KEYE TV CBS Austin"
     },
     {
         "title": "Professor's bilingual, LGBTQ+ adaptation 'Romeo y Juliet' creates space for unique cast bonding, expression - The Daily Texan",
@@ -240,28 +352,28 @@
         "source_name": "The Daily Texan"
     },
     {
-        "title": "Total solar eclipse 2024 | Path of totality covers Central Texas - KVUE.com",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lmt2dWUuY29tL3ZpZGVvL25ld3Mvc29sYXItZWNsaXBzZS0yMDI0LXRvdGFsaXR5LXRleGFzLzI2OS01Zjc3ZjI4MS00YzZmLTQ0OGUtYWI5NC00ZGMxYWQ3NDYyNTLSAQA?oc=5",
+        "title": "Photos - The CMT Music Awards Return to Moody Center - 1 of 100 - Austin Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmF1c3RpbmNocm9uaWNsZS5jb20vbS9waG90b3MvdGhlLWNtdC1tdXNpYy1hd2FyZHMtcmV0dXJuLXRvLW1vb2R5LWNlbnRlci_SAQA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 18:14:00 GMT",
-        "source_url": "https://www.kvue.com",
-        "source_name": "KVUE.com"
+        "pub_date": "Mon, 08 Apr 2024 22:08:32 GMT",
+        "source_url": "https://www.austinchronicle.com",
+        "source_name": "Austin Chronicle"
     },
     {
-        "title": "New indoor mini golf course opens in North Austin - KEYE TV CBS Austin",
-        "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL2xvY2FsL2dvbGYtMDQtMDYtMjAyNNIBNGh0dHBzOi8vY2JzYXVzdGluLmNvbS9hbXAvbmV3cy9sb2NhbC9nb2xmLTA0LTA2LTIwMjQ?oc=5",
+        "title": "UT Austin holds memorial for doctoral student Ryan Wallace - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3J5YW4td2FsbGFjZS1tZW1vcmlhbC0xOTM5MTM1My5waHDSAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 06 Apr 2024 21:28:20 GMT",
-        "source_url": "https://cbsaustin.com",
-        "source_name": "KEYE TV CBS Austin"
+        "pub_date": "Tue, 09 Apr 2024 09:08:09 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
     },
     {
-        "title": "Texas Exes to host Scholarship Cinco de Mayo fundraiser May 5 - Community journal",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmhjY29tbXVuaXR5am91cm5hbC5jb20vY29tbXVuaXR5X2xpZmUvYXJ0aWNsZV9kMTU0N2NlYy1mMWJiLTExZWUtOGZlOS01NzRjNjBjNThkOGYuaHRtbNIBAA?oc=5",
+        "title": "Texas Pharmacy Rises to #6 Pharmacy School in the Nation - UT Austin - College of Pharmacy",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vcGhhcm1hY3kudXRleGFzLmVkdS9uZXdzL3RleGFzLXBoYXJtYWN5LXJpc2VzLTYtcGhhcm1hY3ktc2Nob29sLW5hdGlvbtIBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 09 Apr 2024 05:00:00 GMT",
-        "source_url": "https://www.hccommunityjournal.com",
-        "source_name": "Community journal"
+        "pub_date": "Tue, 09 Apr 2024 16:44:44 GMT",
+        "source_url": "https://pharmacy.utexas.edu",
+        "source_name": "UT Austin - College of Pharmacy"
     },
     {
         "title": "Abbott's executive order is unconstitutional \u2013 The Daily Texan - The Daily Texan",
@@ -272,20 +384,92 @@
         "source_name": "The Daily Texan"
     },
     {
-        "title": "Security lines at the Moody Center shrinking due to AI tool - KVUE.com",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lmt2dWUuY29tL2FydGljbGUvdGVjaC9hdXN0aW4tdGV4YXMtbW9vZHktY2VudGVyLWFpLXNlY3VyaXR5LXRvb2wvMjY5LTFhZThhNTQwLWIzZDUtNGJiNS04MmU0LWUxMzRhOTU4NGVmNtIBAA?oc=5",
+        "title": "We're nuts for Squirrel Fest! Don't miss this classic Pease Park party - KEYE TV CBS Austin",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vY2JzYXVzdGluLmNvbS9mZWF0dXJlcy93ZS1hcmUtYXVzdGluL3dlcmUtbnV0cy1mb3Itc3F1aXJyZWwtZmVzdC1kb250LW1pc3MtdGhpcy1jbGFzc2ljLXBlYXNlLXBhcmstcGFydHnSAXRodHRwczovL2Nic2F1c3Rpbi5jb20vYW1wL2ZlYXR1cmVzL3dlLWFyZS1hdXN0aW4vd2VyZS1udXRzLWZvci1zcXVpcnJlbC1mZXN0LWRvbnQtbWlzcy10aGlzLWNsYXNzaWMtcGVhc2UtcGFyay1wYXJ0eQ?oc=5",
         "description": [],
-        "pub_date": "Sun, 07 Apr 2024 22:39:00 GMT",
+        "pub_date": "Tue, 09 Apr 2024 16:26:39 GMT",
+        "source_url": "https://cbsaustin.com",
+        "source_name": "KEYE TV CBS Austin"
+    },
+    {
+        "title": "The U.S.\u2019 most \u2018uptight\u2019 city is in Texas - KXAN.com",
+        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvdGV4YXMvdGhlLXUtcy1tb3N0LXVwdGlnaHQtY2l0eS1pcy1pbi10ZXhhcy_SAUpodHRwczovL3d3dy5reGFuLmNvbS9uZXdzL3RleGFzL3RoZS11LXMtbW9zdC11cHRpZ2h0LWNpdHktaXMtaW4tdGV4YXMvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Sat, 06 Apr 2024 18:33:42 GMT",
+        "source_url": "https://www.kxan.com",
+        "source_name": "KXAN.com"
+    },
+    {
+        "title": "Flight from Austin to Detroit during total solar eclipse 2024 - KVUE.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5rdnVlLmNvbS92aWRlby9uZXdzL3dvcmxkL3NvbGFyLWVjbGlwc2UvZmxpZ2h0LWZyb20tYXVzdGluLXRvLWRldHJvaXQtZHVyaW5nLXRvdGFsLXNvbGFyLWVjbGlwc2UtMjAyNC8yNjktOTYzNGQwMDQtMzVkYS00Njk4LWIwMzAtNTM2OWRkNzk1N2Jl0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 03:20:00 GMT",
         "source_url": "https://www.kvue.com",
         "source_name": "KVUE.com"
     },
     {
-        "title": "Jordan Davis and NEEDTOBREATHE tape CMT's 'Crossroads' at UT Tower - Austin American-Statesman",
-        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbXVzaWMvMjAyNC8wNC8wNy9jbXRzLWNyb3Nzcm9hZHMtam9yZGFuLWRhdmlzLW5lZWR0b2JyZWF0aGUtdGFwaW5nLXV0LXRvd2VyLWF1c3Rpbi83MzIzNzgxODAwNy_SAQA?oc=5",
+        "title": "Texas Exes to host Scholarship Cinco de Mayo fundraiser May 5 - Community journal",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmhjY29tbXVuaXR5am91cm5hbC5jb20vY29tbXVuaXR5X2xpZmUvYXJ0aWNsZV9kMTU0N2NlYy1mMWJiLTExZWUtOGZlOS01NzRjNjBjNThkOGYuaHRtbNIBAA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 00:50:35 GMT",
-        "source_url": "https://www.statesman.com",
-        "source_name": "Austin American-Statesman"
+        "pub_date": "Tue, 09 Apr 2024 05:00:00 GMT",
+        "source_url": "https://www.hccommunityjournal.com",
+        "source_name": "Community journal"
+    },
+    {
+        "title": "U.S. News Ranks UT Austin Computer Science Among Best in Graduate Program Rankings - College of Natural Sciences",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vY25zLnV0ZXhhcy5lZHUvbmV3cy9hbm5vdW5jZW1lbnRzL3VzLW5ld3MtcmFua3MtdXQtYXVzdGluLWNvbXB1dGVyLXNjaWVuY2UtYW1vbmctYmVzdC1ncmFkdWF0ZS1wcm9ncmFtLXJhbmtpbmdz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 17:37:24 GMT",
+        "source_url": "https://cns.utexas.edu",
+        "source_name": "College of Natural Sciences"
+    },
+    {
+        "title": "At 2024 CMT Awards, Buc-ee's mascot high-fives Keith Urban - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9saWZlc3R5bGUvYXJ0aWNsZS9idWNlZXMtY210LWNvdW50cnktYXdhcmRzLWtlaXRoLXVyYmFuLXRleGFzLTE5MzkxNDMzLnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 08 Apr 2024 15:41:31 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "'Particles of Color' exhibit showcases sustainable sequins at Texas Science & Natural History Museum - The Daily Texan",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWRhaWx5dGV4YW4uY29tLzIwMjQvMDQvMDgvcGFydGljbGVzLW9mLWNvbG9yLWV4aGliaXQtc2hvd2Nhc2VzLXN1c3RhaW5hYmxlLXNlcXVpbnMtYXQtdGV4YXMtc2NpZW5jZS1uYXR1cmFsLWhpc3RvcnktbXVzZXVtL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 04:08:17 GMT",
+        "source_url": "https://thedailytexan.com",
+        "source_name": "The Daily Texan"
+    },
+    {
+        "title": "Get your tickets now to the 9th annual Indie Meme Film Festival at AFS Cinema - KEYE TV CBS Austin",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vY2JzYXVzdGluLmNvbS9mZWF0dXJlcy93ZS1hcmUtYXVzdGluL2dldC15b3VyLXRpY2tldHMtbm93LXRvLXRoZS05dGgtYW5udWFsLWluZGllLW1lbWUtZmlsbS1mZXN0aXZhbC1hdC1hZnMtY2luZW1h0gF-aHR0cHM6Ly9jYnNhdXN0aW4uY29tL2FtcC9mZWF0dXJlcy93ZS1hcmUtYXVzdGluL2dldC15b3VyLXRpY2tldHMtbm93LXRvLXRoZS05dGgtYW5udWFsLWluZGllLW1lbWUtZmlsbS1mZXN0aXZhbC1hdC1hZnMtY2luZW1h?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 16:06:39 GMT",
+        "source_url": "https://cbsaustin.com",
+        "source_name": "KEYE TV CBS Austin"
+    },
+    {
+        "title": "Hill Country Community Journal Events - Kelsi Creek: LBJ Wildflower Center - Community journal",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmhjY29tbXVuaXR5am91cm5hbC5jb20vbG9jYWwtZXZlbnRzLz9fZXZEaXNjb3ZlcnlQYXRoPS9ldmVudCUyRjEwNTIyNTk2OW4ta2Vsc2ktY3JlZWstbGJqLXdpbGRmbG93ZXItY2VudGVy0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 01:15:38 GMT",
+        "source_url": "https://www.hccommunityjournal.com",
+        "source_name": "Community journal"
+    },
+    {
+        "title": "Ella Reid | Lone Star Court Hotel and The Water Trough - Austin.com",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXVzdGluLmNvbS9ldmVudHMvZWxsYS1yZWlkLWxvbmUtc3Rhci1jb3VydC1ob3RlbC1hbmQtdGhlLXdhdGVyLXRyb3VnaC0yL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 17:01:21 GMT",
+        "source_url": "https://austin.com",
+        "source_name": "Austin.com"
+    },
+    {
+        "title": "UT Austin students 'frustrated' with SB 17 layoffs, impacts - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3V0LWF1c3Rpbi1sYXlvZmZzLTE5Mzg3OTc0LnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 08 Apr 2024 09:07:24 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
     },
     {
         "title": "Man arrested for robbery near UT Austin - FOX 7 Austin",
@@ -304,20 +488,28 @@
         "source_name": "Community journal"
     },
     {
-        "title": "HAAM Music Monday Powered by FVF Law: Husband-wife duo 'The Watters' take the WAA stage - KEYE TV CBS Austin",
-        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2Nic2F1c3Rpbi5jb20vZmVhdHVyZXMvd2UtYXJlLWF1c3Rpbi9oYWFtLW11c2ljLW1vbmRheS1wb3dlcmVkLWJ5LWZ2Zi1sYXctaHVzYmFuZC13aWZlLWR1by10aGUtd2F0dGVycy10YWtlLXRoZS13YWEtc3RhZ2XSAYUBaHR0cHM6Ly9jYnNhdXN0aW4uY29tL2FtcC9mZWF0dXJlcy93ZS1hcmUtYXVzdGluL2hhYW0tbXVzaWMtbW9uZGF5LXBvd2VyZWQtYnktZnZmLWxhdy1odXNiYW5kLXdpZmUtZHVvLXRoZS13YXR0ZXJzLXRha2UtdGhlLXdhYS1zdGFnZQ?oc=5",
+        "title": "Barton Springs bathhouse to be renamed in honor of civil rights activist - The Daily Texan",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGhlZGFpbHl0ZXhhbi5jb20vMjAyNC8wNC8wOC9iYXJ0b24tc3ByaW5ncy1iYXRoaG91c2UtdG8tYmUtcmVuYW1lZC1pbi1ob25vci1vZi1jaXZpbC1yaWdodHMtYWN0aXZpc3Qv0gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 08 Apr 2024 20:11:29 GMT",
-        "source_url": "https://cbsaustin.com",
-        "source_name": "KEYE TV CBS Austin"
-    },
-    {
-        "title": "'Soon Moon': Upcoming eclipse-inspired gallery showcases art of UT creatives - The Daily Texan",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGhlZGFpbHl0ZXhhbi5jb20vMjAyNC8wNC8wOC9zb29uLW1vb24tdXBjb21pbmctZWNsaXBzZS1pbnNwaXJlZC1nYWxsZXJ5LXNob3djYXNlcy1hcnQtb2YtdXQtY3JlYXRpdmVzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 16:57:41 GMT",
+        "pub_date": "Tue, 09 Apr 2024 04:28:59 GMT",
         "source_url": "https://thedailytexan.com",
         "source_name": "The Daily Texan"
+    },
+    {
+        "title": "Jordan Davis and NEEDTOBREATHE tape CMT's 'Crossroads' at UT Tower - Austin American-Statesman",
+        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbXVzaWMvMjAyNC8wNC8wNy9jbXRzLWNyb3Nzcm9hZHMtam9yZGFuLWRhdmlzLW5lZWR0b2JyZWF0aGUtdGFwaW5nLXV0LXRvd2VyLWF1c3Rpbi83MzIzNzgxODAwNy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 08 Apr 2024 00:50:35 GMT",
+        "source_url": "https://www.statesman.com",
+        "source_name": "Austin American-Statesman"
+    },
+    {
+        "title": "Unique view of eclipse takes Southwest Airlines passengers up 35,000 feet - KEYE TV CBS Austin",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL2xvY2FsL2EtdW5pcXVlLXZpZXctb2YtZWNsaXBzZS10YWtlcy1zb3V0aHdlc3QtYWlybGluZXMtcGFzc2VuZ2Vycy11cC0zNTAwMC1mZWV00gFvaHR0cHM6Ly9jYnNhdXN0aW4uY29tL2FtcC9uZXdzL2xvY2FsL2EtdW5pcXVlLXZpZXctb2YtZWNsaXBzZS10YWtlcy1zb3V0aHdlc3QtYWlybGluZXMtcGFzc2VuZ2Vycy11cC0zNTAwMC1mZWV0?oc=5",
+        "description": [],
+        "pub_date": "Tue, 09 Apr 2024 04:07:13 GMT",
+        "source_url": "https://cbsaustin.com",
+        "source_name": "KEYE TV CBS Austin"
     },
     {
         "title": "Hill Country Community Journal Events - Fairbanks & the Lonesome Light / Pedernales FM - Community journal",
@@ -328,76 +520,12 @@
         "source_name": "Community journal"
     },
     {
-        "title": "National Beer Day 2024: 10 Austin breweries we recommend you try - Austin American-Statesman",
-        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L2VudGVydGFpbm1lbnQvY29sdW1ucy8yMDI0LzA0LzA2L25hdGlvbmFsLWJlZXItZGF5LTIwMjQtYmVzdC1iZWVycy1icmV3ZXJpZXMtYXVzdGluLXRleGFzLzczMjIyNDY5MDA3L9IBAA?oc=5",
+        "title": "Security lines at the Moody Center shrinking due to AI tool - KVUE.com",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lmt2dWUuY29tL2FydGljbGUvdGVjaC9hdXN0aW4tdGV4YXMtbW9vZHktY2VudGVyLWFpLXNlY3VyaXR5LXRvb2wvMjY5LTFhZThhNTQwLWIzZDUtNGJiNS04MmU0LWUxMzRhOTU4NGVmNtIBAA?oc=5",
         "description": [],
-        "pub_date": "Sat, 06 Apr 2024 14:43:15 GMT",
-        "source_url": "https://www.statesman.com",
-        "source_name": "Austin American-Statesman"
-    },
-    {
-        "title": "UT Austin holds memorial for doctoral student Ryan Wallace - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3J5YW4td2FsbGFjZS1tZW1vcmlhbC0xOTM5MTM1My5waHDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 09 Apr 2024 09:05:40 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
-    },
-    {
-        "title": "At 2024 CMT Awards, Buc-ee's mascot high-fives Keith Urban - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9saWZlc3R5bGUvYXJ0aWNsZS9idWNlZXMtY210LWNvdW50cnktYXdhcmRzLWtlaXRoLXVyYmFuLXRleGFzLTE5MzkxNDMzLnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 15:41:31 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "Ella Reid | Lone Star Court Hotel and The Water Trough - Austin.com",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXVzdGluLmNvbS9ldmVudHMvZWxsYS1yZWlkLWxvbmUtc3Rhci1jb3VydC1ob3RlbC1hbmQtdGhlLXdhdGVyLXRyb3VnaC0yL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 09 Apr 2024 11:02:11 GMT",
-        "source_url": "https://austin.com",
-        "source_name": "Austin.com"
-    },
-    {
-        "title": "'Particles of Color' exhibit showcases sustainable sequins at Texas Science & Natural History Museum - The Daily Texan",
-        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWRhaWx5dGV4YW4uY29tLzIwMjQvMDQvMDgvcGFydGljbGVzLW9mLWNvbG9yLWV4aGliaXQtc2hvd2Nhc2VzLXN1c3RhaW5hYmxlLXNlcXVpbnMtYXQtdGV4YXMtc2NpZW5jZS1uYXR1cmFsLWhpc3RvcnktbXVzZXVtL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 09 Apr 2024 04:08:17 GMT",
-        "source_url": "https://thedailytexan.com",
-        "source_name": "The Daily Texan"
-    },
-    {
-        "title": "Texas welcomes nearly 400K millennials from out-of-state in 2023, study shows - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvdGV4YXMtd2VsY29tZXMtbmVhcmx5LTQwMGstbWlsbGVubmlhbHMtMTkzOTA0NzMucGhw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 07 Apr 2024 19:47:23 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "Murder of professional cyclist Moriah Wilson on \u2018Dateline\u2019 - KXAN.com",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbG9jYWwvYXVzdGluL211cmRlci1vZi1wcm9mZXNzaW9uYWwtY3ljbGlzdC1tb3JpYWgtd2lsc29uLW9uLWRhdGVsaW5lL9IBZGh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbG9jYWwvYXVzdGluL211cmRlci1vZi1wcm9mZXNzaW9uYWwtY3ljbGlzdC1tb3JpYWgtd2lsc29uLW9uLWRhdGVsaW5lL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Sat, 06 Apr 2024 13:04:38 GMT",
-        "source_url": "https://www.kxan.com",
-        "source_name": "KXAN.com"
-    },
-    {
-        "title": "Hill Country Community Journal Events - Kelsi Creek: LBJ Wildflower Center - Community journal",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmhjY29tbXVuaXR5am91cm5hbC5jb20vbG9jYWwtZXZlbnRzLz9fZXZEaXNjb3ZlcnlQYXRoPS9ldmVudCUyRjEwNTIyNTk2OW4ta2Vsc2ktY3JlZWstbGJqLXdpbGRmbG93ZXItY2VudGVy0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 09 Apr 2024 01:15:38 GMT",
-        "source_url": "https://www.hccommunityjournal.com",
-        "source_name": "Community journal"
-    },
-    {
-        "title": "Don't throw away those eclipse glasses. Here's how to recycle them in Austin. - KUT",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmt1dC5vcmcvYXVzdGluLzIwMjQtMDQtMDgvYXN0cm9ub21lcnMtd2l0aG91dC1ib3JkZXJzLWRvbmF0ZS1zb2xhci1lY2xpcHNlLWdsYXNzZXPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 11:05:28 GMT",
-        "source_url": "https://www.kut.org",
-        "source_name": "KUT"
+        "pub_date": "Sun, 07 Apr 2024 22:39:00 GMT",
+        "source_url": "https://www.kvue.com",
+        "source_name": "KVUE.com"
     },
     {
         "title": "TRC4 Awards $18 Million in Grants for Trauma Care Research - UT System",
@@ -408,76 +536,12 @@
         "source_name": "UT System"
     },
     {
-        "title": "ChatGPT helps Austin man find MODY: Maturity-Onset Diabetes diagnosis - Austin American-Statesman",
-        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L25ld3MvaGVhbHRoY2FyZS8yMDI0LzA0LzA2L2NoYXRncHQtYWktZGlhYmV0ZXMtYXVzdGluLXR4LW1hbi1maW5kcy1kaWFnbm9zaXMtbW9keS1tYXR1cml0eS1vbnNldC1kaWFiZXRlcy83MzAzMzIyODAwNy_SAQA?oc=5",
+        "title": "Living Security to Host 3rd Annual Human Risk Management Conference - Waco Tribune-Herald",
+        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3dhY290cmliLmNvbS9hcC9zdGF0ZS9saXZpbmctc2VjdXJpdHktdG8taG9zdC0zcmQtYW5udWFsLWh1bWFuLXJpc2stbWFuYWdlbWVudC1jb25mZXJlbmNlL2FydGljbGVfYWZhMDZlZGUtNDU5Mi01Y2YxLTg5ZjYtNTk4OGQwZGY1MTUyLmh0bWzSAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 06 Apr 2024 12:02:41 GMT",
-        "source_url": "https://www.statesman.com",
-        "source_name": "Austin American-Statesman"
-    },
-    {
-        "title": "Barton Springs bathhouse to be renamed in honor of civil rights activist - The Daily Texan",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGhlZGFpbHl0ZXhhbi5jb20vMjAyNC8wNC8wOC9iYXJ0b24tc3ByaW5ncy1iYXRoaG91c2UtdG8tYmUtcmVuYW1lZC1pbi1ob25vci1vZi1jaXZpbC1yaWdodHMtYWN0aXZpc3Qv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 09 Apr 2024 04:28:59 GMT",
-        "source_url": "https://thedailytexan.com",
-        "source_name": "The Daily Texan"
-    },
-    {
-        "title": "Austin ranked No. 4 among US cities by Food & Wine Magazine - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vZm9vZC9hcnRpY2xlL2Zvb2Qtd2luZS1hdXN0aW4tcmFua2luZy0xOTM4ODAwNC5waHDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 06 Apr 2024 09:02:32 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
-    },
-    {
-        "title": "Call for Entries: TDEM Seeks Submissions for Texas Emergency Management Awards and Photo Contest - Huntsville Item",
-        "link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5pdGVtb25saW5lLmNvbS9uZXdzL2NhbGwtZm9yLWVudHJpZXMtdGRlbS1zZWVrcy1zdWJtaXNzaW9ucy1mb3ItdGV4YXMtZW1lcmdlbmN5LW1hbmFnZW1lbnQtYXdhcmRzLWFuZC1waG90by1jb250ZXN0L2FydGljbGVfNzRlMDFiMmEtZjVhYy0xMWVlLWEyY2EtOGIwMzZkMWZjNzU2Lmh0bWzSAbUBaHR0cHM6Ly93d3cuaXRlbW9ubGluZS5jb20vbmV3cy9jYWxsLWZvci1lbnRyaWVzLXRkZW0tc2Vla3Mtc3VibWlzc2lvbnMtZm9yLXRleGFzLWVtZXJnZW5jeS1tYW5hZ2VtZW50LWF3YXJkcy1hbmQtcGhvdG8tY29udGVzdC9hcnRpY2xlXzc0ZTAxYjJhLWY1YWMtMTFlZS1hMmNhLThiMDM2ZDFmYzc1Ni5hbXAuaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 13:32:00 GMT",
-        "source_url": "https://www.itemonline.com",
-        "source_name": "Huntsville Item"
-    },
-    {
-        "title": "Texas volunteer fire departments receive $13M in grants through assistance program - KXAN.com",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvdGV4YXMvdGV4YXMtdm9sdW50ZWVyLWZpcmUtZGVwYXJ0bWVudHMtcmVjZWl2ZS0xM20taW4tZ3JhbnRzLXRocm91Z2gtYXNzaXN0YW5jZS1wcm9ncmFtL9IBdmh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvdGV4YXMvdGV4YXMtdm9sdW50ZWVyLWZpcmUtZGVwYXJ0bWVudHMtcmVjZWl2ZS0xM20taW4tZ3JhbnRzLXRocm91Z2gtYXNzaXN0YW5jZS1wcm9ncmFtL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Sun, 07 Apr 2024 16:37:22 GMT",
-        "source_url": "https://www.kxan.com",
-        "source_name": "KXAN.com"
-    },
-    {
-        "title": "Painted Tree Boutiques brings multiple vendors under one roof in Sunset Valley - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vYXVzdGluL3NvdXRod2VzdC1hdXN0aW4tZHJpcHBpbmctc3ByaW5ncy9idXNpbmVzcy8yMDI0LzA0LzA4L3BhaW50ZWQtdHJlZS1ib3V0aXF1ZXMtYnJpbmdzLW11bHRpcGxlLXZlbmRvcnMtdW5kZXItb25lLXJvb2YtaW4tc3Vuc2V0LXZhbGxleS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 13:00:00 GMT",
-        "source_url": "https://communityimpact.com",
-        "source_name": "Community Impact"
-    },
-    {
-        "title": "New program would allow higher buildings for affordable housing - KVUE.com",
-        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5rdnVlLmNvbS9hcnRpY2xlL21vbmV5L2Vjb25vbXkvYm9vbXRvd24tMjA0MC96b25pbmctZGV2ZWxvcGVycy1kZW5zaXR5LWJvbnVzLWF1c3Rpbi8yNjktMjFkNGQ2NzQtNGFlNi00NDAyLTgzYjQtNWFlYjg5NjcwNTRk0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 06 Apr 2024 03:41:00 GMT",
-        "source_url": "https://www.kvue.com",
-        "source_name": "KVUE.com"
-    },
-    {
-        "title": "Earl J Pomerleau Pocket Park Ribbon Cutting - AustinTexas.gov",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmF1c3RpbnRleGFzLmdvdi9uZXdzL2Vhcmwtai1wb21lcmxlYXUtcG9ja2V0LXBhcmstcmliYm9uLWN1dHRpbmfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 12:00:00 GMT",
-        "source_url": "https://www.austintexas.gov",
-        "source_name": "AustinTexas.gov"
-    },
-    {
-        "title": "'Austin' singer Dasha says CMT Awards are her first time to visit city - Austin American-Statesman",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnN0YXRlc21hbi5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA0LzA3L2Rhc2hhLXNpbmdzLWF1c3Rpbi1uZXZlci1iZWVuLWJlZm9yZS1jbXQtYXdhcmRzLzczMjM3ODE1MDA3L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 07 Apr 2024 21:58:38 GMT",
-        "source_url": "https://www.statesman.com",
-        "source_name": "Austin American-Statesman"
+        "pub_date": "Tue, 09 Apr 2024 11:07:24 GMT",
+        "source_url": "https://wacotrib.com",
+        "source_name": "Waco Tribune-Herald"
     },
     {
         "title": "Panel discusses implementation of AI into healthcare for underserved communities - The Daily Texan",
@@ -488,75 +552,11 @@
         "source_name": "The Daily Texan"
     },
     {
-        "title": "Austin's 11 best restaurants say something on each plate - CultureMap Austin",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXVzdGluLmN1bHR1cmVtYXAuY29tL25ld3MvcmVzdGF1cmFudHMtYmFycy90YXN0ZW1ha2VyLWF3YXJkcy1iZXN0LXJlc3RhdXJhbnQtMjAyNC_SAQA?oc=5",
+        "title": "National Beer Day 2024: 10 Austin breweries we recommend you try - Austin American-Statesman",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L2VudGVydGFpbm1lbnQvY29sdW1ucy8yMDI0LzA0LzA2L25hdGlvbmFsLWJlZXItZGF5LTIwMjQtYmVzdC1iZWVycy1icmV3ZXJpZXMtYXVzdGluLXRleGFzLzczMjIyNDY5MDA3L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 05 Apr 2024 23:38:00 GMT",
-        "source_url": "https://austin.culturemap.com",
-        "source_name": "CultureMap Austin"
-    },
-    {
-        "title": "Flight from Austin to Detroit during total solar eclipse 2024 - KVUE.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5rdnVlLmNvbS92aWRlby9uZXdzL3dvcmxkL3NvbGFyLWVjbGlwc2UvZmxpZ2h0LWZyb20tYXVzdGluLXRvLWRldHJvaXQtZHVyaW5nLXRvdGFsLXNvbGFyLWVjbGlwc2UtMjAyNC8yNjktOTYzNGQwMDQtMzVkYS00Njk4LWIwMzAtNTM2OWRkNzk1N2Jl0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 09 Apr 2024 03:20:00 GMT",
-        "source_url": "https://www.kvue.com",
-        "source_name": "KVUE.com"
-    },
-    {
-        "title": "Man seen cutting bike locks outside UT Austin residence hall: UTPD - FOX 7 Austin",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL25ld3Mvcm9iYmVyeS1pbnZlc3RpZ2F0aW9uLWJpa2UtbG9ja3MtamVzdGVyLXdlc3QtdXQtYXVzdGluLXBvbGljZdIBYWh0dHBzOi8vd3d3LmZveDdhdXN0aW4uY29tL25ld3Mvcm9iYmVyeS1pbnZlc3RpZ2F0aW9uLWJpa2UtbG9ja3MtamVzdGVyLXdlc3QtdXQtYXVzdGluLXBvbGljZS5hbXA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 07 Apr 2024 17:53:17 GMT",
-        "source_url": "https://www.fox7austin.com",
-        "source_name": "FOX 7 Austin"
-    },
-    {
-        "title": "Story Time, Tacos & Coffee - Community Calendar - Austin Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmF1c3RpbmNocm9uaWNsZS5jb20vZXZlbnRzL2NvbW11bml0eS9ldmVudHMvc3RvcnktdGltZS10YWNvcy1hbmQtY29mZmVlLTMxNDE2MTIv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 08:39:04 GMT",
-        "source_url": "https://www.austinchronicle.com",
-        "source_name": "Austin Chronicle"
-    },
-    {
-        "title": "The best bluebonnets of 2024 lead the week's 5 most-read Austin stories - CultureMap Austin",
-        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYXVzdGluLmN1bHR1cmVtYXAuY29tL25ld3MvZW50ZXJ0YWlubWVudC90b3AtbmV3cy1zdG9yaWVzLXRleGFzLWJsdWVib25uZXRzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 06 Apr 2024 17:00:00 GMT",
-        "source_url": "https://austin.culturemap.com",
-        "source_name": "CultureMap Austin"
-    },
-    {
-        "title": "Austin-American Statesman staffers go on strike - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNocm9uLmNvbS9uZXdzL2FydGljbGUvYXVzdGluLWFtZXJpY2FuLXN0YXRlc21hbi1zdHJpa2UtMTkzODc4MjcucGhw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 05 Apr 2024 21:14:28 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "Austin ISD talks position cuts as they face budget deficit - KXAN.com",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvbG9jYWwvYXVzdGluL2F1c3Rpbi1pc2QtdGFsa3MtcG9zaXRpb24tY3V0cy1hcy10aGV5LWZhY2UtYnVkZ2V0LWRlZmljaXQv0gFmaHR0cHM6Ly93d3cua3hhbi5jb20vbmV3cy9sb2NhbC9hdXN0aW4vYXVzdGluLWlzZC10YWxrcy1wb3NpdGlvbi1jdXRzLWFzLXRoZXktZmFjZS1idWRnZXQtZGVmaWNpdC9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Fri, 05 Apr 2024 20:26:12 GMT",
-        "source_url": "https://www.kxan.com",
-        "source_name": "KXAN.com"
-    },
-    {
-        "title": "Two injured in head-on collision on FM 1431 near Jonestown - KEYE TV CBS Austin",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL2xvY2FsL3R3by1pbmp1cmVkLWluLWhlYWQtb24tY29sbGlzaW9uLW9uLWZtLTE0MzEtbmVhci1qb25lc3Rvd27SAV9odHRwczovL2Nic2F1c3Rpbi5jb20vYW1wL25ld3MvbG9jYWwvdHdvLWluanVyZWQtaW4taGVhZC1vbi1jb2xsaXNpb24tb24tZm0tMTQzMS1uZWFyLWpvbmVzdG93bg?oc=5",
-        "description": [],
-        "pub_date": "Fri, 05 Apr 2024 21:51:29 GMT",
-        "source_url": "https://cbsaustin.com",
-        "source_name": "KEYE TV CBS Austin"
-    },
-    {
-        "title": "Travis County announces mental health jail diversion program - The Daily Texan",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlZGFpbHl0ZXhhbi5jb20vMjAyNC8wNC8wOC90cmF2aXMtY291bnR5LWFubm91bmNlcy1tZW50YWwtaGVhbHRoLWphaWwtZGl2ZXJzaW9uLXByb2dyYW0v0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 08 Apr 2024 16:42:01 GMT",
-        "source_url": "https://thedailytexan.com",
-        "source_name": "The Daily Texan"
+        "pub_date": "Sat, 06 Apr 2024 14:43:15 GMT",
+        "source_url": "https://www.statesman.com",
+        "source_name": "Austin American-Statesman"
     }
 ]
