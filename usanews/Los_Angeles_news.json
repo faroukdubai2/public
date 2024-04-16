@@ -1,9 +1,57 @@
 [
     {
-        "title": "Deadly crash shuts down all but one lane on 101 Freeway in Los Angeles - KTLA Los Angeles",
+        "title": "Multi-vehicle crash shuts down all but one lane on 101 Freeway in Los Angeles - KTLA Los Angeles",
         "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2RlYWRseS1jcmFzaC1zaHV0cy1kb3duLWFsbC1idXQtb25lLWxhbmUtb24tMTAxLWZyZWV3YXktaW4tbG9zLWFuZ2VsZXMv0gFsaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvZGVhZGx5LWNyYXNoLXNodXRzLWRvd24tYWxsLWJ1dC1vbmUtbGFuZS1vbi0xMDEtZnJlZXdheS1pbi1sb3MtYW5nZWxlcy9hbXAv?oc=5",
         "description": [],
         "pub_date": "Mon, 15 Apr 2024 13:49:49 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "Best Dishes Eater Editors Ate This Week: April 15 - Eater LA",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbGEuZWF0ZXIuY29tLzIwMjQvNC8xNS8yNDA4NzAzOS9mYXZvcml0ZS1iZXN0LWRpc2hlcy1sYS1sb3MtYW5nZWxlcy1lYXRlci1lZGl0b3JzLWFwcmlsLTE10gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 18:36:00 GMT",
+        "source_url": "https://la.eater.com",
+        "source_name": "Eater LA"
+    },
+    {
+        "title": "Things To Do This Week in Los Angeles [4-15-2024 to 4-19-2024] - We Like L.A.",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LndlbGlrZWxhLmNvbS90aGluZ3MtdG8tZG8tdGhpcy13ZWVrLWluLWxvcy1hbmdlbGVzLTQtMTUtMjAyNC10by00LTE5LTIwMjQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 17:29:14 GMT",
+        "source_url": "https://www.welikela.com",
+        "source_name": "We Like L.A."
+    },
+    {
+        "title": "Iconic L.A.-based show Melrose Place reboot in the works - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8va3RsYS5jb20vZW50ZXJ0YWlubWVudC9pY29uaWMtbC1hLWJhc2VkLXNob3ctbWVscm9zZS1wbGFjZS1yZWJvb3QtaW4tdGhlLXdvcmtzL9IBW2h0dHBzOi8va3RsYS5jb20vZW50ZXJ0YWlubWVudC9pY29uaWMtbC1hLWJhc2VkLXNob3ctbWVscm9zZS1wbGFjZS1yZWJvb3QtaW4tdGhlLXdvcmtzL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 04:16:25 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "Climate protesters arrested in street near Kamala Harris' home - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNC0xNS95b3V0aC1jbGltYXRlLWFkdm9jYXRlcy1wcm90ZXN0LW91dHNpZGUta2FtYWxhLWhhcnJpcy1ob3VzZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 19:48:55 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "City Planning Commission rejects appeal of housing project at 1500 W. Adams Boulevard - Urbanize LA",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbGEudXJiYW5pemUuY2l0eS9wb3N0L2NpdHktcGxhbm5pbmctY29tbWlzc2lvbi1yZWplY3RzLWFwcGVhbC1ob3VzaW5nLXByb2plY3QtMTUwMC13LWFkYW1zLWJvdWxldmFyZNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 18:30:00 GMT",
+        "source_url": "https://la.urbanize.city",
+        "source_name": "Urbanize LA"
+    },
+    {
+        "title": "This popular Southern fast-food chain is expanding to Los Angeles - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3RoaXMtcG9wdWxhci1zb3V0aGVybi1mYXN0LWZvb2QtY2hhaW4taXMtZXhwYW5kaW5nLXRvLWxvcy1hbmdlbGVzL9IBZ2h0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3RoaXMtcG9wdWxhci1zb3V0aGVybi1mYXN0LWZvb2QtY2hhaW4taXMtZXhwYW5kaW5nLXRvLWxvcy1hbmdlbGVzL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 19:44:48 GMT",
         "source_url": "https://ktla.com",
         "source_name": "KTLA Los Angeles"
     },
@@ -16,22 +64,6 @@
         "source_name": "Los Angeles Times"
     },
     {
-        "title": "10 Things To Do For This Sunday in L.A. [4-14-2024] - We Like L.A.",
-        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LndlbGlrZWxhLmNvbS8xMC10aGluZ3MtdG8tZG8tZm9yLXRoaXMtc3VuZGF5LWluLWwtYS00LTE0LTIwMjQv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 13:54:29 GMT",
-        "source_url": "https://www.welikela.com",
-        "source_name": "We Like L.A."
-    },
-    {
-        "title": "At Kamala Harris' L.A. home, youth climate advocates vow to stay put - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNC0xNS95b3V0aC1jbGltYXRlLWFkdm9jYXRlcy1wcm90ZXN0LW91dHNpZGUta2FtYWxhLWhhcnJpcy1ob3VzZdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 10:00:47 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
         "title": "Two LA Businesses Tried To Honor Selena With A Beer. They Got A 'Cease And Desist' Letter From Selena's Family - LAist",
         "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL2xhaXN0LmNvbS9uZXdzL2Zvb2QvdHdvLWxhLWJ1c2luZXNzZXMtdHJpZWQtdG8taG9ub3Itc2VsZW5hLXdpdGgtYS1iZWVyLXRoZXktZ290LWEtY2Vhc2UtYW5kLWRlc2lzdC1sZXR0ZXItZnJvbS1zZWxlbmFzLWZhbWlsedIBAA?oc=5",
         "description": [],
@@ -40,260 +72,52 @@
         "source_name": "LAist"
     },
     {
-        "title": "Iconic L.A.-based show Melrose Place reboot in the works - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8va3RsYS5jb20vZW50ZXJ0YWlubWVudC9pY29uaWMtbC1hLWJhc2VkLXNob3ctbWVscm9zZS1wbGFjZS1yZWJvb3QtaW4tdGhlLXdvcmtzL9IBW2h0dHBzOi8va3RsYS5jb20vZW50ZXJ0YWlubWVudC9pY29uaWMtbC1hLWJhc2VkLXNob3ctbWVscm9zZS1wbGFjZS1yZWJvb3QtaW4tdGhlLXdvcmtzL2FtcC8?oc=5",
+        "title": "Demonstrators gather in downtown LA, demanding ceasefire in Gaza - NBC Southern California",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvZGVtb25zdHJhdG9ycy1nYXRoZXItaW4tZG93bnRvd24tbGEtZGVtYW5kaW5nLWNlYXNlZmlyZS1pbi1nYXphLzMzODg2NDQv0gF3aHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9sb2NhbC9kZW1vbnN0cmF0b3JzLWdhdGhlci1pbi1kb3dudG93bi1sYS1kZW1hbmRpbmctY2Vhc2VmaXJlLWluLWdhemEvMzM4ODY0NC8_YW1wPTE?oc=5",
         "description": [],
-        "pub_date": "Mon, 15 Apr 2024 04:16:25 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
-    },
-    {
-        "title": "Is L.A. ready for the next drought? - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjQtMDQtMTUvaXMtbC1hLXJlYWR5LWZvci10aGUtbmV4dC1kcm91Z2h00gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 10:00:40 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "Cardi B, Queen Latifah and The Roots to headline the BET Experience concerts in Los Angeles - KEYT",
-        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8va2V5dC5jb20vbmV3cy8yMDI0LzA0LzE1L2NhcmRpLWItcXVlZW4tbGF0aWZhaC1hbmQtdGhlLXJvb3RzLXRvLWhlYWRsaW5lLXRoZS1iZXQtZXhwZXJpZW5jZS1jb25jZXJ0cy1pbi1sb3MtYW5nZWxlcy0yL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 17:41:04 GMT",
-        "source_url": "https://keyt.com",
-        "source_name": "KEYT"
-    },
-    {
-        "title": "Los Angeles' Westside has one of the priciest US streets for offices - L.A. Business First - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9sb3NhbmdlbGVzL25ld3MvMjAyNC8wNC8xNS93ZXN0c2lkZS1tb3N0LWV4cGVuc2l2ZS1vZmZpY2Utc3RyZWV0cy11cy5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 17:39:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "After Long Delay, LA County Leaders Set To Vote On New Inspections And Enforcement For Substandard Housing - LAist",
-        "link": "https://news.google.com/rss/articles/CBMitwFodHRwczovL2xhaXN0LmNvbS9uZXdzL2hvdXNpbmctaG9tZWxlc3NuZXNzL2xvcy1hbmdlbGVzLWNvdW50eS1yZW50YWwtaG91c2luZy1oYWJpdGFiaWxpdHktcHJvZ3JhbS1pbnNwZWN0aW9uLWNvZGUtZW5mb3JjZW1lbnQtcmVudGVyLWxhbmRsb3JkLXVuaW5jb3Jwb3JhdGVkLWJvYXJkLW9mLXN1cGVydmlzb3JzLXZvdGXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 17:55:00 GMT",
-        "source_url": "https://laist.com",
-        "source_name": "LAist"
-    },
-    {
-        "title": "Man arrested in Marina del Rey after gunfire sprayed from rooftop is reportedly livestreamed - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNC0xNC9tYW4tYXJyZXN0ZWQtbWFyaW5hLWRlbC1yZXktbGl2ZXN0cmVhbWVkLXNob290aW5nLXJvb2Z0b3DSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 16:52:06 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "Data: Los Angeles has more mosquitoes than any other U.S. city - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2RhdGEtbG9zLWFuZ2VsZXMtaGFzLW1vcmUtbW9zcXVpdG9lcy10aGFuLWFueS1vdGhlci11LXMtY2l0eS_SAWJodHRwczovL2t0bGEuY29tL25ld3MvbG9jYWwtbmV3cy9kYXRhLWxvcy1hbmdlbGVzLWhhcy1tb3JlLW1vc3F1aXRvZXMtdGhhbi1hbnktb3RoZXItdS1zLWNpdHkvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 17:08:20 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
-    },
-    {
-        "title": "ROCKET MAN: A LIVE ORCHESTRAL EXPERIENCE to Premiere in Los Angeles Next Month - BroadwayWorld",
-        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5icm9hZHdheXdvcmxkLmNvbS9sb3MtYW5nZWxlcy9hcnRpY2xlL1JPQ0tFVC1NQU4tQS1MSVZFLU9SQ0hFU1RSQUwtRVhQRVJJRU5DRS10by1QcmVtaWVyZS1pbi1Mb3MtQW5nZWxlcy1OZXh0LU1vbnRoLTIwMjQwNDE00gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 15:06:06 GMT",
-        "source_url": "https://www.broadwayworld.com",
-        "source_name": "BroadwayWorld"
-    },
-    {
-        "title": "NorCal student, 23, contacts her family after going missing in LA area: 'Prayers have been answered' - KABC-TV",
-        "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vYWJjNy5jb20vdmlkZW9DbGlwLzE0NjY2ODUzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 08:02:22 GMT",
-        "source_url": "https://abc7.com",
-        "source_name": "KABC-TV"
-    },
-    {
-        "title": "City Buys 120-Unit Multifamily Asset - Los Angeles Business Journal",
-        "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL3JlYWwtZXN0YXRlL211bHRpZmFtaWx5LTMv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 00:01:31 GMT",
-        "source_url": "https://labusinessjournal.com",
-        "source_name": "Los Angeles Business Journal"
-    },
-    {
-        "title": "California granted federal disaster declaration for February storms - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNC0xNC9jYWxpZm9ybmlhLWdldHMtZGlzYXN0ZXItZGVjbGFyYXRpb24tZm9yLWZlYnJ1YXJ5LXN0b3Jtc9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 19:43:50 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "Major Los Angeles highway to undergo weeks of closures to construct large wildlife crossing - kuna noticias y kuna radio",
-        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL2tlc3EuY29tL25ld3MvbmF0aW9uYWwtd29ybGQvY25uLW5hdGlvbmFsLzIwMjQvMDQvMTQvbWFqb3ItbG9zLWFuZ2VsZXMtaGlnaHdheS10by11bmRlcmdvLXdlZWtzLW9mLWNsb3N1cmVzLXRvLWNvbnN0cnVjdC1sYXJnZS13aWxkbGlmZS1jcm9zc2luZy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 23:58:32 GMT",
-        "source_url": "https://kesq.com",
-        "source_name": "kuna noticias y kuna radio"
-    },
-    {
-        "title": "Q&A with actress and activist Jane Fonda: Environmental issues, her childhood and the best hikes in L.A. - uscannenbergmedia.com",
-        "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy51c2Nhbm5lbmJlcmdtZWRpYS5jb20vMjAyNC8wNC8xNC9xYS13aXRoLWFjdHJlc3MtYW5kLWFjdGl2aXN0LWphbmUtZm9uZGEtZW52aXJvbm1lbnRhbC1pc3N1ZXMtaGVyLWNoaWxkaG9vZC1hbmQtdGhlLWJlc3QtaGlrZXMtaW4tbGEv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 21:52:54 GMT",
-        "source_url": "https://www.uscannenbergmedia.com",
-        "source_name": "uscannenbergmedia.com"
-    },
-    {
-        "title": "Here's how LA plans to help workers at 99 Cents Only Stores amid impending closure - NBC Southern California",
-        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL2hlcmVzLWhvdy1sYS1wbGFucy10by1oZWxwLXdvcmtlcnMtYXQtOTktY2VudHMtb25seS1zdG9yZXMtYW1pZC1pbXBlbmRpbmctY2xvc3VyZS8zMzg3MjkwL9IBiQFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL2hlcmVzLWhvdy1sYS1wbGFucy10by1oZWxwLXdvcmtlcnMtYXQtOTktY2VudHMtb25seS1zdG9yZXMtYW1pZC1pbXBlbmRpbmctY2xvc3VyZS8zMzg3MjkwLz9hbXA9MQ?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 01:07:09 GMT",
+        "pub_date": "Tue, 16 Apr 2024 00:33:27 GMT",
         "source_url": "https://www.nbclosangeles.com",
         "source_name": "NBC Southern California"
     },
     {
-        "title": "Can Nathan Hochman Beat George Gasc\u00f3n in L.A. DA Race? - LAmag - Los Angeles Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbGFtYWcuY29tL3BvbGl0aWNzL2dlb3JnZS1nYXNjJUMzJUIzbi1uYXRoYW4taG9jaG1hbi1sYS1kYS1yYWNl0gEA?oc=5",
+        "title": "Worker crushed to death by forklift in Los Angeles - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3dvcmtlci1jcnVzaGVkLXRvLWRlYXRoLWJ5LWZvcmtsaWZ0LWluLWxvcy1hbmdlbGVzL9IBWGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3dvcmtlci1jcnVzaGVkLXRvLWRlYXRoLWJ5LWZvcmtsaWZ0LWluLWxvcy1hbmdlbGVzL2FtcC8?oc=5",
         "description": [],
-        "pub_date": "Sun, 14 Apr 2024 15:00:00 GMT",
-        "source_url": "https://lamag.com",
-        "source_name": "Los Angeles Magazine"
-    },
-    {
-        "title": "Business owner outraged after RV encampment cleanup takes away parking - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2J1c2luZXNzLW93bmVyLW91dHJhZ2VkLWFmdGVyLXJ2LWVuY2FtcG1lbnQtY2xlYW51cC10YWtlcy1hd2F5LXBhcmtpbmcv0gFsaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvYnVzaW5lc3Mtb3duZXItb3V0cmFnZWQtYWZ0ZXItcnYtZW5jYW1wbWVudC1jbGVhbnVwLXRha2VzLWF3YXktcGFya2luZy9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 15:36:47 GMT",
+        "pub_date": "Mon, 15 Apr 2024 21:02:37 GMT",
         "source_url": "https://ktla.com",
         "source_name": "KTLA Los Angeles"
     },
     {
-        "title": "Bass to Deliver State of City Address; Budget, Homelessness, Crime Big Topics - MyNewsLA.com",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbXluZXdzbGEuY29tL2NyaW1lLzIwMjQvMDQvMTUvYmFzcy10by1kZWxpdmVyLXN0YXRlLW9mLWNpdHktYWRkcmVzcy1idWRnZXQtaG9tZWxlc3NuZXNzLWNyaW1lLWJpZy10b3BpY3MtMi_SAQA?oc=5",
+        "title": "Is Los Angeles ready for the next inevitable drought? - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjQtMDQtMTUvaXMtbC1hLXJlYWR5LWZvci10aGUtbmV4dC1kcm91Z2h00gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 15 Apr 2024 13:25:58 GMT",
-        "source_url": "https://mynewsla.com",
-        "source_name": "MyNewsLA.com"
-    },
-    {
-        "title": "Best Things To Do This Week in Los Angeles and Southern California: Apr. 15 - 18 - LAist",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbGFpc3QuY29tL25ld3MvYXJ0cy1hbmQtZW50ZXJ0YWlubWVudC9iZXN0LXRoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9zLWFuZ2VsZXMtYW5kLXNvdXRoZXJuLWNhbGlmb3JuaWEtYXByLTE1LTE40gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 12:05:00 GMT",
-        "source_url": "https://laist.com",
-        "source_name": "LAist"
-    },
-    {
-        "title": "Man And Dog Survive Plane Crash After Water Landing Near L.A. - Los Angeles Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbGFtYWcuY29tL25ld3MvbWFuLWFuZC1kb2ctc3Vydml2ZS1wbGFuZS1jcmFzaC1hZnRlci13YXRlci1sYW5kaW5n0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 16:22:39 GMT",
-        "source_url": "https://lamag.com",
-        "source_name": "Los Angeles Magazine"
-    },
-    {
-        "title": "Where to live in L.A. for the cleanest air | Your Best L.A.: Sustain - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L204cHJpaTN0OTRlLTEyM9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 16:19:16 GMT",
+        "pub_date": "Mon, 15 Apr 2024 19:49:23 GMT",
         "source_url": "https://www.latimes.com",
         "source_name": "Los Angeles Times"
     },
     {
-        "title": "LA weighs $476 million budget deficit as wet weather looms - Spectrum News 1",
-        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3NwZWN0cnVtbmV3czEuY29tL2NhL3Nhbi1mZXJuYW5kby12YWxsZXktdmVudHVyYS9wb2xpdGljcy8yMDI0LzA0LzEzL2xhLXdlaWdocy0tNDc2LW1pbGxpb24tYnVkZ2V0LWRlZmljaXQtYXMtcmVzaWRlbnRzLWhvcGUtdG8tc2VlLXJlcGFpcnPSAQA?oc=5",
+        "title": "L.A. City Council upholds approval of mixed-use project at 5000 N. Vineland Avenue - Urbanize LA",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbGEudXJiYW5pemUuY2l0eS9wb3N0L2xhLWNpdHktY291bmNpbC11cGhvbGRzLWFwcHJvdmFsLW1peGVkLXVzZS1wcm9qZWN0LTUwMDAtbi12aW5lbGFuZC1hdmVudWXSAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 13 Apr 2024 22:19:00 GMT",
-        "source_url": "https://spectrumnews1.com",
-        "source_name": "Spectrum News 1"
+        "pub_date": "Mon, 15 Apr 2024 16:30:00 GMT",
+        "source_url": "https://la.urbanize.city",
+        "source_name": "Urbanize LA"
     },
     {
-        "title": "CHP recovers $300,000 worth of stolen Legos, arrests 4 people in LA, OC - LA Daily News",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wNC8xMy9jaHAtcmVjb3ZlcnMtMzAwMDAwLXdvcnRoLW9mLXN0b2xlbi1sZWdvcy1hcnJlc3RzLTQtcGVvcGxlLWluLWxhLW9jL9IBbWh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wNC8xMy9jaHAtcmVjb3ZlcnMtMzAwMDAwLXdvcnRoLW9mLXN0b2xlbi1sZWdvcy1hcnJlc3RzLTQtcGVvcGxlLWluLWxhLW9jL2FtcC8?oc=5",
+        "title": "Red Dining Book: Your Ticket to LA's Dining Scene - presspassla.com",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnByZXNzcGFzc2xhLmNvbS9yZWQtZGluaW5nLWJvb2steW91ci10aWNrZXQtdG8tbGFzLWRpbmluZy1zY2VuZS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sun, 14 Apr 2024 02:00:49 GMT",
-        "source_url": "https://www.dailynews.com",
-        "source_name": "LA Daily News"
+        "pub_date": "Mon, 15 Apr 2024 19:25:43 GMT",
+        "source_url": "https://www.presspassla.com",
+        "source_name": "presspassla.com"
     },
     {
-        "title": "Artist Max Hooper Schneider Creates a 'World Without End' at the MOCA Gala - Los Angeles Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbGFtYWcuY29tL2FydHMtYW5kLWVudGVydGFpbm1lbnQvbW9jYS1nYWxhLTIwMjQtYnVsZ2FyadIBAA?oc=5",
+        "title": "10 Things To Do For This Sunday in L.A. [4-14-2024] - We Like L.A.",
+        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LndlbGlrZWxhLmNvbS8xMC10aGluZ3MtdG8tZG8tZm9yLXRoaXMtc3VuZGF5LWluLWwtYS00LTE0LTIwMjQv0gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 15 Apr 2024 15:00:58 GMT",
-        "source_url": "https://lamag.com",
-        "source_name": "Los Angeles Magazine"
-    },
-    {
-        "title": "Column:The City Controller's Road to Irrelevancy | News | westsidecurrent.com - Westside Current",
-        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvY29sdW1uLXRoZS1jaXR5LWNvbnRyb2xsZXItcy1yb2FkLXRvLWlycmVsZXZhbmN5L2FydGljbGVfNTUzNWQ0ZjgtZjkyNy0xMWVlLTk1ZjAtMzc3OWQ4NDk1NjZmLmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 16:00:00 GMT",
-        "source_url": "https://www.westsidecurrent.com",
-        "source_name": "Westside Current"
-    },
-    {
-        "title": "Los Angeles Downtown News Events - California Green Building Conference - LA Downtown News Online",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmxhZG93bnRvd25uZXdzLmNvbS9sb2NhbC1ldmVudHMvP19ldkRpc2NvdmVyeVBhdGg9L2V2ZW50LzIzNjQ0OTAtY2FsaWZvcm5pYS1ncmVlbi1idWlsZGluZy1jb25mZXJlbmNl0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 02:51:57 GMT",
-        "source_url": "https://www.ladowntownnews.com",
-        "source_name": "LA Downtown News Online"
-    },
-    {
-        "title": "Interview: Megan McGinnis of BEETLEJUICE National Tour - BroadwayWorld",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL2xvcy1hbmdlbGVzL2FydGljbGUvSW50ZXJ2aWV3LU1lZ2FuLU1jR2lubmlzLW9mLUJFRVRMRUpVSUNFLU5hdGlvbmFsLVRvdXItMjAyNDA0MTXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 14:08:50 GMT",
-        "source_url": "https://www.broadwayworld.com",
-        "source_name": "BroadwayWorld"
-    },
-    {
-        "title": "L.A.'s ChargerHelp sees opportunity in clunky EV charging network - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjQtMDQtMTQvbGEtY2hhcmdlcmhlbHAtc2Vlcy1vcHBvcnR1bml0eS1pbi1jbHVua3ktZXYtY2hhcmdpbmctbmV0d29ya9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 10:00:51 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "LAPD Announces Capture of Suspect in Venice Canal Attacks - The Pride LA",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlcHJpZGVsYS5jb20vMjAyNC8wNC9sYXBkLWFubm91bmNlcy1jYXB0dXJlLW9mLXN1c3BlY3QtaW4tdmVuaWNlLWNhbmFsLWF0dGFja3Mv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 04:47:11 GMT",
-        "source_url": "https://thepridela.com",
-        "source_name": "The Pride LA"
-    },
-    {
-        "title": "Former LA weatherman Fritz Coleman is bringing his podcast to North Hollywood - The Whittier Daily News",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LndoaXR0aWVyZGFpbHluZXdzLmNvbS8yMDI0LzA0LzE1L2Zvcm1lci1sYS13ZWF0aGVybWFuLWZyaXR6LWNvbGVtYW4taXMtYnJpbmdpbmctaGlzLXBvZGNhc3QtdG8tbm9ydGgtaG9sbHl3b29kL9IBf2h0dHBzOi8vd3d3LndoaXR0aWVyZGFpbHluZXdzLmNvbS8yMDI0LzA0LzE1L2Zvcm1lci1sYS13ZWF0aGVybWFuLWZyaXR6LWNvbGVtYW4taXMtYnJpbmdpbmctaGlzLXBvZGNhc3QtdG8tbm9ydGgtaG9sbHl3b29kL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 14:01:12 GMT",
-        "source_url": "https://www.whittierdailynews.com",
-        "source_name": "The Whittier Daily News"
-    },
-    {
-        "title": "LA Cocina de Gloria Molina: Cultural center celebrates second anniversary - LA Downtown News Online",
-        "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5sYWRvd250b3dubmV3cy5jb20vYnVzaW5lc3MvbGEtY29jaW5hLWRlLWdsb3JpYS1tb2xpbmEtY3VsdHVyYWwtY2VudGVyLWNlbGVicmF0ZXMtc2Vjb25kLWFubml2ZXJzYXJ5L2FydGljbGVfZTU2YzIzYWEtZjkxNC0xMWVlLTk4YjQtOTcwODNhOGU0ZWE0Lmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 07:15:00 GMT",
-        "source_url": "https://www.ladowntownnews.com",
-        "source_name": "LA Downtown News Online"
-    },
-    {
-        "title": "10 Things To Do For This Saturday in L.A. [4-13-2024] - We Like L.A.",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LndlbGlrZWxhLmNvbS8xMC10aGluZ3MtdG8tZG8tZm9yLXRoaXMtc2F0dXJkYXktaW4tbC1hLTQtMTMtMjAyNC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Apr 2024 14:22:37 GMT",
+        "pub_date": "Sun, 14 Apr 2024 13:54:29 GMT",
         "source_url": "https://www.welikela.com",
         "source_name": "We Like L.A."
-    },
-    {
-        "title": "LA City Employee Raises - Los Angeles - LAist",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbGFpc3QuY29tL2JyaWVmL25ld3MvbGEtY2l0eS1taW5pbXVtLXdhZ2UtaW5jcmVhc2UtY291bGQtcmFpc2UtY2l0eS1idWRnZXQtYnktMS1iaWxsaW9uLWJ5LTIwMjgtY2l0eS1yZXBvcnQtZmluZHPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Apr 2024 19:36:00 GMT",
-        "source_url": "https://laist.com",
-        "source_name": "LAist"
     },
     {
         "title": "Missing California student contacts family after disappearing in L.A. - KTLA Los Angeles",
@@ -304,6 +128,286 @@
         "source_name": "KTLA Los Angeles"
     },
     {
+        "title": "Watch: LA Mayor Bass - LAist",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vbGFpc3QuY29tL2JyaWVmL25ld3MvcG9saXRpY3Mvd2F0Y2gtbWF5b3ItYmFzcy1kZWxpdmVycy1zdGF0ZS1vZi1jaXR50gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 16 Apr 2024 00:23:00 GMT",
+        "source_url": "https://laist.com",
+        "source_name": "LAist"
+    },
+    {
+        "title": "Sycamore third graders see \u2018Swan Lake\u2019 in LA - Claremont Courier",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vY2xhcmVtb250LWNvdXJpZXIuY29tL2xhdGVzdC1uZXdzL3N5Y2Ftb3JlLXRoaXJkLWdyYWRlcnMtc2VlLXN3YW4tbGFrZS1pbi1sYS03NzQ1OS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 22:18:56 GMT",
+        "source_url": "https://claremont-courier.com",
+        "source_name": "Claremont Courier"
+    },
+    {
+        "title": "ED 1 Fills LA's Affordable Housing Pipeline, But Questions Remain About Who Is Served - Bisnow",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5iaXNub3cuY29tL2xvcy1hbmdlbGVzL25ld3MvbXVsdGlmYW1pbHkva2FyZW4tYmFzcy1leGVjdXRpdmUtZGlyZWN0aXZlLTEtYWZmb3JkYWJsZS1ob3VzaW5nLXNvdXRoLWxvcy1hbmdlbGVzLTEyMzU4ONIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 21:28:14 GMT",
+        "source_url": "https://www.bisnow.com",
+        "source_name": "Bisnow"
+    },
+    {
+        "title": "99 Cents Only Stores properties hit the market in L.A. County - L.A. Business First - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9sb3NhbmdlbGVzL25ld3MvMjAyNC8wNC8xNS85OS1jZW50cy1vbmx5LXN0b3Jlcy1zYWxlLWxpcXVpZGF0aW9uLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 21:05:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
+        "title": "Man arrested in Marina del Rey after gunfire sprayed from rooftop is reportedly livestreamed - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNC0xNC9tYW4tYXJyZXN0ZWQtbWFyaW5hLWRlbC1yZXktbGl2ZXN0cmVhbWVkLXNob290aW5nLXJvb2Z0b3DSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 16:52:06 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "WIC's Fruit And Veggie Allowance Increase Is Now Permanent. Why That Matters In LA - LAist",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbGFpc3QuY29tL25ld3Mvd2ljLWZydWl0LWFuZC12ZWdnaWUtYWxsb3dhbmNlLWluY3JlYXNlLXBlcm1hbmVudC1sYdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 23:48:00 GMT",
+        "source_url": "https://laist.com",
+        "source_name": "LAist"
+    },
+    {
+        "title": "Business owner outraged after RV encampment cleanup takes away parking - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2J1c2luZXNzLW93bmVyLW91dHJhZ2VkLWFmdGVyLXJ2LWVuY2FtcG1lbnQtY2xlYW51cC10YWtlcy1hd2F5LXBhcmtpbmcv0gFsaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvYnVzaW5lc3Mtb3duZXItb3V0cmFnZWQtYWZ0ZXItcnYtZW5jYW1wbWVudC1jbGVhbnVwLXRha2VzLWF3YXktcGFya2luZy9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 15:36:47 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "Column:The City Controller's Road to Irrelevancy | News | westsidecurrent.com - Westside Current",
+        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvY29sdW1uLXRoZS1jaXR5LWNvbnRyb2xsZXItcy1yb2FkLXRvLWlycmVsZXZhbmN5L2FydGljbGVfNTUzNWQ0ZjgtZjkyNy0xMWVlLTk1ZjAtMzc3OWQ4NDk1NjZmLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 16:00:00 GMT",
+        "source_url": "https://www.westsidecurrent.com",
+        "source_name": "Westside Current"
+    },
+    {
+        "title": "This Week In Livable Streets - Streetsblog Los Angeles - Streetsblog Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vbGEuc3RyZWV0c2Jsb2cub3JnLzIwMjQvMDQvMTUvdGhpcy13ZWVrLWluLWxpdmFibGUtc3RyZWV0cy00MDjSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 20:35:00 GMT",
+        "source_url": "https://la.streetsblog.org",
+        "source_name": "Streetsblog Los Angeles"
+    },
+    {
+        "title": "LA County Leaders To Decide On Major Overhaul Of Apartment Inspections And Code Enforcement - LAist",
+        "link": "https://news.google.com/rss/articles/CBMitwFodHRwczovL2xhaXN0LmNvbS9uZXdzL2hvdXNpbmctaG9tZWxlc3NuZXNzL2xvcy1hbmdlbGVzLWNvdW50eS1yZW50YWwtaG91c2luZy1oYWJpdGFiaWxpdHktcHJvZ3JhbS1pbnNwZWN0aW9uLWNvZGUtZW5mb3JjZW1lbnQtcmVudGVyLWxhbmRsb3JkLXVuaW5jb3Jwb3JhdGVkLWJvYXJkLW9mLXN1cGVydmlzb3JzLXZvdGXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 21:14:00 GMT",
+        "source_url": "https://laist.com",
+        "source_name": "LAist"
+    },
+    {
+        "title": "Police believe more people were victims of Lincoln Heights ambush robbery - NBC Southern California",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvcG9saWNlLWJlbGlldmUtbW9yZS1wZW9wbGUtd2VyZS12aWN0aW1zLW9mLWxpbmNvbG4taGVpZ2h0cy1hbWJ1c2gtcm9iYmVyeS8zMzg3Njg0L9IBgQFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL3BvbGljZS1iZWxpZXZlLW1vcmUtcGVvcGxlLXdlcmUtdmljdGltcy1vZi1saW5jb2xuLWhlaWdodHMtYW1idXNoLXJvYmJlcnkvMzM4NzY4NC8_YW1wPTE?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 00:21:09 GMT",
+        "source_url": "https://www.nbclosangeles.com",
+        "source_name": "NBC Southern California"
+    },
+    {
+        "title": "LA Briefs: County to Accelerate Property Tax Corrections, Reimbursements and Mayor Bass Co-Hosts Ethics Symposium - Random Lengths",
+        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnJhbmRvbWxlbmd0aHNuZXdzLmNvbS9hcmNoaXZlcy8yMDI0LzA0LzE1L3Byb3BlcnR5LXRheC81MDQ1OdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 19:54:20 GMT",
+        "source_url": "https://www.randomlengthsnews.com",
+        "source_name": "Random Lengths"
+    },
+    {
+        "title": "West Hollywood's Emerald Village Is the Place to Be on 4/20 - Los Angeles Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbGFtYWcuY29tL2Nhbm5hYmlzL2VtZXJhbGQtdmlsbGFnZS00MjAtd2VzdC1ob2xseXdvb2QtbWFw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 18:44:24 GMT",
+        "source_url": "https://lamag.com",
+        "source_name": "Los Angeles Magazine"
+    },
+    {
+        "title": "Southern California to finally enjoy a stretch of dry weather - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL3NvdXRoZXJuLWNhbGlmb3JuaWEtdG8tZmluYWxseS1lbmpveS1hLXN0cmV0Y2gtb2YtZHJ5LXdlYXRoZXIv0gFjaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2NhbGlmb3JuaWEvc291dGhlcm4tY2FsaWZvcm5pYS10by1maW5hbGx5LWVuam95LWEtc3RyZXRjaC1vZi1kcnktd2VhdGhlci9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 17:00:19 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "Cardi B, Queen Latifah and The Roots to headline the BET Experience concerts in Los Angeles - KEYT",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8va2V5dC5jb20vbmV3cy8yMDI0LzA0LzE1L2NhcmRpLWItcXVlZW4tbGF0aWZhaC1hbmQtdGhlLXJvb3RzLXRvLWhlYWRsaW5lLXRoZS1iZXQtZXhwZXJpZW5jZS1jb25jZXJ0cy1pbi1sb3MtYW5nZWxlcy0yL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 17:54:54 GMT",
+        "source_url": "https://keyt.com",
+        "source_name": "KEYT"
+    },
+    {
+        "title": "Man And Dog Survive Plane Crash After Water Landing Near L.A. - Los Angeles Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbGFtYWcuY29tL25ld3MvbWFuLWFuZC1kb2ctc3Vydml2ZS1wbGFuZS1jcmFzaC1hZnRlci13YXRlci1sYW5kaW5n0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 16:22:39 GMT",
+        "source_url": "https://lamag.com",
+        "source_name": "Los Angeles Magazine"
+    },
+    {
+        "title": "Documents will be unsealed in L.A. city attorney and DWP corruption case, judge rules - 2UrbanGirls",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vMnVyYmFuZ2lybHMuY29tLzIwMjQvMDQvZG9jdW1lbnRzLXdpbGwtYmUtdW5zZWFsZWQtaW4tbC1hLWNpdHktYXR0b3JuZXktYW5kLWR3cC1jb3JydXB0aW9uLWNhc2UtanVkZ2UtcnVsZXMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 18:27:49 GMT",
+        "source_url": "https://2urbangirls.com",
+        "source_name": "2UrbanGirls"
+    },
+    {
+        "title": "Where to live in L.A. for the cleanest air | Your Best L.A.: Sustain - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L204cHJpaTN0OTRlLTEyM9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 16:19:16 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "City Buys 120-Unit Multifamily Asset - Los Angeles Business Journal",
+        "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL3JlYWwtZXN0YXRlL211bHRpZmFtaWx5LTMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 00:01:31 GMT",
+        "source_url": "https://labusinessjournal.com",
+        "source_name": "Los Angeles Business Journal"
+    },
+    {
+        "title": "Major Los Angeles highway to undergo weeks of closures to construct large wildlife crossing - kuna noticias y kuna radio",
+        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL2tlc3EuY29tL25ld3MvbmF0aW9uYWwtd29ybGQvY25uLW5hdGlvbmFsLzIwMjQvMDQvMTQvbWFqb3ItbG9zLWFuZ2VsZXMtaGlnaHdheS10by11bmRlcmdvLXdlZWtzLW9mLWNsb3N1cmVzLXRvLWNvbnN0cnVjdC1sYXJnZS13aWxkbGlmZS1jcm9zc2luZy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 23:58:32 GMT",
+        "source_url": "https://kesq.com",
+        "source_name": "kuna noticias y kuna radio"
+    },
+    {
+        "title": "LAPD ride remembers fallen first responders - FOX 11 Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL2xhcGQtcmlkZS1yZW1lbWJlcnMtZmFsbGVuLWZpcnN0LXJlc3BvbmRlcnPSAUpodHRwczovL3d3dy5mb3hsYS5jb20vbmV3cy9sYXBkLXJpZGUtcmVtZW1iZXJzLWZhbGxlbi1maXJzdC1yZXNwb25kZXJzLmFtcA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 02:39:04 GMT",
+        "source_url": "https://www.foxla.com",
+        "source_name": "FOX 11 Los Angeles"
+    },
+    {
+        "title": "Los Angeles Downtown News Events - California Green Building Conference - LA Downtown News Online",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmxhZG93bnRvd25uZXdzLmNvbS9sb2NhbC1ldmVudHMvP19ldkRpc2NvdmVyeVBhdGg9L2V2ZW50LzIzNjQ0OTAtY2FsaWZvcm5pYS1ncmVlbi1idWlsZGluZy1jb25mZXJlbmNl0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 02:51:57 GMT",
+        "source_url": "https://www.ladowntownnews.com",
+        "source_name": "LA Downtown News Online"
+    },
+    {
+        "title": "Department of Public Health confirms measles case in Los Angeles County - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2RlcGFydG1lbnQtb2YtcHVibGljLWhlYWx0aC1jb25maXJtcy1tZWFzbGVzLWNhc2UtaW4tbG9zLWFuZ2VsZXMtY291bnR5L9IBbWh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2RlcGFydG1lbnQtb2YtcHVibGljLWhlYWx0aC1jb25maXJtcy1tZWFzbGVzLWNhc2UtaW4tbG9zLWFuZ2VsZXMtY291bnR5L2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 20:57:17 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "Los Angeles will get $139 million for groundwater replenishment over 25 years - LA Daily News",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wNC8xNS9sb3MtYW5nZWxlcy13aWxsLWdldC0xMzktbWlsbGlvbi1mb3ItZ3JvdW5kd2F0ZXItcmVwbGVuaXNobWVudC1vdmVyLTI1LXllYXJzL9IBdmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wNC8xNS9sb3MtYW5nZWxlcy13aWxsLWdldC0xMzktbWlsbGlvbi1mb3ItZ3JvdW5kd2F0ZXItcmVwbGVuaXNobWVudC1vdmVyLTI1LXllYXJzL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 22:40:39 GMT",
+        "source_url": "https://www.dailynews.com",
+        "source_name": "LA Daily News"
+    },
+    {
+        "title": "L.A.'s ChargerHelp sees opportunity in clunky EV charging network - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjQtMDQtMTQvbGEtY2hhcmdlcmhlbHAtc2Vlcy1vcHBvcnR1bml0eS1pbi1jbHVua3ktZXYtY2hhcmdpbmctbmV0d29ya9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 10:00:51 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "Q&A with actress and activist Jane Fonda: Environmental issues, her childhood and the best hikes in L.A. - uscannenbergmedia.com",
+        "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy51c2Nhbm5lbmJlcmdtZWRpYS5jb20vMjAyNC8wNC8xNC9xYS13aXRoLWFjdHJlc3MtYW5kLWFjdGl2aXN0LWphbmUtZm9uZGEtZW52aXJvbm1lbnRhbC1pc3N1ZXMtaGVyLWNoaWxkaG9vZC1hbmQtdGhlLWJlc3QtaGlrZXMtaW4tbGEv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 21:52:54 GMT",
+        "source_url": "https://www.uscannenbergmedia.com",
+        "source_name": "uscannenbergmedia.com"
+    },
+    {
+        "title": "Woman Shot to Death in Westlake Area - MyNewsLA.com",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbXluZXdzbGEuY29tL2NyaW1lLzIwMjQvMDQvMTUvd29tYW4tc2hvdC10by1kZWF0aC1pbi13ZXN0bGFrZS1hcmVhL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 13:26:11 GMT",
+        "source_url": "https://mynewsla.com",
+        "source_name": "MyNewsLA.com"
+    },
+    {
+        "title": "Celebrating a Musical Icon: IAMLA Presents Lena Prima in Concert Honoring Louis Prima - presspassla.com",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnByZXNzcGFzc2xhLmNvbS9jZWxlYnJhdGluZy1hLW11c2ljYWwtaWNvbi1pYW1sYS1wcmVzZW50cy1sZW5hLXByaW1hLWluLWNvbmNlcnQtaG9ub3JpbmctbG91aXMtcHJpbWEv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 18:25:30 GMT",
+        "source_url": "https://www.presspassla.com",
+        "source_name": "presspassla.com"
+    },
+    {
+        "title": "Artist Max Hooper Schneider Creates a 'World Without End' at the MOCA Gala - Los Angeles Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbGFtYWcuY29tL2FydHMtYW5kLWVudGVydGFpbm1lbnQvbW9jYS1nYWxhLTIwMjQtYnVsZ2FyadIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 15:00:45 GMT",
+        "source_url": "https://lamag.com",
+        "source_name": "Los Angeles Magazine"
+    },
+    {
+        "title": "Biden Issues Disaster Declaration For LA County Over Storms - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvbG9zLWFuZ2VsZXMvYmlkZW4taXNzdWVzLWRpc2FzdGVyLWRlY2xhcmF0aW9uLWxhLWNvdW50eS1vdmVyLXN0b3Jtc9IBcWh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvbG9zLWFuZ2VsZXMvYW1wLzMxNzIxODYxL2JpZGVuLWlzc3Vlcy1kaXNhc3Rlci1kZWNsYXJhdGlvbi1mb3ItbGEtY291bnR5LW92ZXItc3Rvcm1z?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 00:18:00 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Former LA weatherman Fritz Coleman is bringing his podcast to North Hollywood - The Whittier Daily News",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LndoaXR0aWVyZGFpbHluZXdzLmNvbS8yMDI0LzA0LzE1L2Zvcm1lci1sYS13ZWF0aGVybWFuLWZyaXR6LWNvbGVtYW4taXMtYnJpbmdpbmctaGlzLXBvZGNhc3QtdG8tbm9ydGgtaG9sbHl3b29kL9IBf2h0dHBzOi8vd3d3LndoaXR0aWVyZGFpbHluZXdzLmNvbS8yMDI0LzA0LzE1L2Zvcm1lci1sYS13ZWF0aGVybWFuLWZyaXR6LWNvbGVtYW4taXMtYnJpbmdpbmctaGlzLXBvZGNhc3QtdG8tbm9ydGgtaG9sbHl3b29kL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 14:01:12 GMT",
+        "source_url": "https://www.whittierdailynews.com",
+        "source_name": "The Whittier Daily News"
+    },
+    {
+        "title": "L.A.'s right-left divide on solving homelessness - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL29waW5pb24vc3RvcnkvMjAyNC0wNC0xNC9sZXR0ZXJzLWhvbWVsZXNzbmVzcy1yaWdodC1sZWZ0LWRlYmF0ZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 10:00:09 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "City of Los Angeles Providing Resources for Impacted Workers at 99 Cents Only Stores Closing in the City - Random Lengths",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnJhbmRvbWxlbmd0aHNuZXdzLmNvbS9hcmNoaXZlcy8yMDI0LzA0LzE1L3Jlc291cmNlcy81MDQ3MdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 21:23:23 GMT",
+        "source_url": "https://www.randomlengthsnews.com",
+        "source_name": "Random Lengths"
+    },
+    {
+        "title": "The Mar\u00edas Reveal North American Tour dates with Presale Tickets Available For Eager Fans - Grimy Goods",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmdyaW15Z29vZHMuY29tLzIwMjQvMDQvMTUvdGhlLW1hcmlhcy10b3VyLWRhdGVzLXByZXNhbGUtdGlja2V0cy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 16:55:29 GMT",
+        "source_url": "https://www.grimygoods.com",
+        "source_name": "Grimy Goods"
+    },
+    {
+        "title": "CHP recovers $300,000 worth of stolen Legos, arrests 4 people in LA, OC - OCRegister",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDQvMTMvY2hwLXJlY292ZXJzLTMwMDAwMC13b3J0aC1vZi1zdG9sZW4tbGVnb3MtYXJyZXN0cy00LXBlb3BsZS1pbi1sYS1vYy_SAW5odHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDI0LzA0LzEzL2NocC1yZWNvdmVycy0zMDAwMDAtd29ydGgtb2Ytc3RvbGVuLWxlZ29zLWFycmVzdHMtNC1wZW9wbGUtaW4tbGEtb2MvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 02:00:49 GMT",
+        "source_url": "https://www.ocregister.com",
+        "source_name": "OCRegister"
+    },
+    {
         "title": "Breaking Ground: Los Angeles' Colburn School readies expansion - LA Downtown News Online",
         "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5sYWRvd250b3dubmV3cy5jb20vbmV3cy9icmVha2luZy1ncm91bmQtbG9zLWFuZ2VsZXMtY29sYnVybi1zY2hvb2wtcmVhZGllcy1leHBhbnNpb24vYXJ0aWNsZV85NmMyZGY1YS1mOTE0LTExZWUtYTExZC04ZjkxZWQ0YmY0ZWIuaHRtbNIBAA?oc=5",
         "description": [],
@@ -312,10 +416,34 @@
         "source_name": "LA Downtown News Online"
     },
     {
-        "title": "L.A.'s right-left divide on solving homelessness - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL29waW5pb24vc3RvcnkvMjAyNC0wNC0xNC9sZXR0ZXJzLWhvbWVsZXNzbmVzcy1yaWdodC1sZWZ0LWRlYmF0ZdIBAA?oc=5",
+        "title": "Koreatown's New Donkatsu Restaurant Sells Hundreds of Giant Pork Cutlets a Day - Eater LA",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbGEuZWF0ZXIuY29tLzIwMjQvNC8xNS8yNDEzMTIyNi9sYXVzdW5nLWhvdXNlLW9wZW5pbmcta29yZWF0b3duLWdpYW50LXBvcmstY3V0bGV0cy1kb25rYXRzddIBAA?oc=5",
         "description": [],
-        "pub_date": "Sun, 14 Apr 2024 10:00:09 GMT",
+        "pub_date": "Mon, 15 Apr 2024 20:30:00 GMT",
+        "source_url": "https://la.eater.com",
+        "source_name": "Eater LA"
+    },
+    {
+        "title": "Provost announces valedictorian won't speak at graduation in May - uscannenbergmedia.com",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnVzY2FubmVuYmVyZ21lZGlhLmNvbS8yMDI0LzA0LzE1L3Byb3Zvc3QtYW5ub3VuY2VzLXZhbGVkaWN0b3JpYW4td29udC1zcGVhay1hdC1ncmFkdWF0aW9uLWluLW1heS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 23:25:09 GMT",
+        "source_url": "https://www.uscannenbergmedia.com",
+        "source_name": "uscannenbergmedia.com"
+    },
+    {
+        "title": "What is a comfortable wage vs. a \u2018living wage\u2019 in California? - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL3doYXQtaXMtYS1jb21mb3J0YWJsZS13YWdlLXZzLXRoZS1saXZpbmctd2FnZS1pbi1jYWxpZm9ybmlhL9IBYWh0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL3doYXQtaXMtYS1jb21mb3J0YWJsZS13YWdlLXZzLXRoZS1saXZpbmctd2FnZS1pbi1jYWxpZm9ybmlhL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 19:23:05 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "5 L.A. cookbooks you should know about - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Zvb2QvbmV3c2xldHRlci8yMDI0LTA0LTE0L2Jlc3QtbG9zLWFuZ2VsZXMtY29va2Jvb2tzLWxhLXRpbWVzLTIwMjQtY29va2luZy1lZGl0b3JpYWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Apr 2024 14:00:59 GMT",
         "source_url": "https://www.latimes.com",
         "source_name": "Los Angeles Times"
     },
@@ -328,30 +456,6 @@
         "source_name": "The Rafu Shimpo"
     },
     {
-        "title": "Jasan Sherman and the Real Estate Collective Now with Berkshire Hathaway HomeServices California Properties - The Bakersfield Californian",
-        "link": "https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy5iYWtlcnNmaWVsZC5jb20vYXAvbmV3cy9qYXNhbi1zaGVybWFuLWFuZC10aGUtcmVhbC1lc3RhdGUtY29sbGVjdGl2ZS1ub3ctd2l0aC1iZXJrc2hpcmUtaGF0aGF3YXktaG9tZXNlcnZpY2VzLWNhbGlmb3JuaWEtcHJvcGVydGllcy9hcnRpY2xlXzk3YzIyOTBmLTMzNTYtNTgwYy1iZGQzLTQwNTMwYmYwMzEzYS5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 16:01:01 GMT",
-        "source_url": "https://www.bakersfield.com",
-        "source_name": "The Bakersfield Californian"
-    },
-    {
-        "title": "LAPD ride remembers fallen first responders - FOX 11 Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL2xhcGQtcmlkZS1yZW1lbWJlcnMtZmFsbGVuLWZpcnN0LXJlc3BvbmRlcnPSAUpodHRwczovL3d3dy5mb3hsYS5jb20vbmV3cy9sYXBkLXJpZGUtcmVtZW1iZXJzLWZhbGxlbi1maXJzdC1yZXNwb25kZXJzLmFtcA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 02:39:04 GMT",
-        "source_url": "https://www.foxla.com",
-        "source_name": "FOX 11 Los Angeles"
-    },
-    {
-        "title": "Los Angeles hospital seeking public\u2019s help in identifying patient - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2xvcy1hbmdlbGVzLWhvc3BpdGFsLXNlZWtpbmctcHVibGljcy1oZWxwLWluLWlkZW50aWZ5aW5nLXBhdGllbnQv0gFmaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvbG9zLWFuZ2VsZXMtaG9zcGl0YWwtc2Vla2luZy1wdWJsaWNzLWhlbHAtaW4taWRlbnRpZnlpbmctcGF0aWVudC9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Apr 2024 15:40:43 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
-    },
-    {
         "title": "Musick, Peeler Appoints Two Lead Partners - Los Angeles Business Journal",
         "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vbGFidXNpbmVzc2pvdXJuYWwuY29tL2xhdy9tdXNpY2stcGVlbGVyLWdhcnJldHQtbGxwL9IBAA?oc=5",
         "description": [],
@@ -360,76 +464,20 @@
         "source_name": "Los Angeles Business Journal"
     },
     {
-        "title": "CicLAvia Venice on April 21, Save L.A. Taco, and more - Urbanize LA",
-        "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vbGEudXJiYW5pemUuY2l0eS9wb3N0L3dlZWtseS1oZWFkbGluZXMtYXByaWwtMTMtMjAyNNIBAA?oc=5",
+        "title": "NorCal student, 23, contacts her family after going missing in LA area: 'Prayers have been answered' - KABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vYWJjNy5jb20vdmlkZW9DbGlwLzE0NjY2ODUzL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Sat, 13 Apr 2024 15:00:00 GMT",
-        "source_url": "https://la.urbanize.city",
-        "source_name": "Urbanize LA"
+        "pub_date": "Mon, 15 Apr 2024 08:02:22 GMT",
+        "source_url": "https://abc7.com",
+        "source_name": "KABC-TV"
     },
     {
-        "title": "Mayeda Named JANM Chief Impact Officer - The Rafu Shimpo",
-        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vcmFmdS5jb20vMjAyNC8wNC9tYXllZGEtbmFtZWQtamFubS1jaGllZi1pbXBhY3Qtb2ZmaWNlci_SAQA?oc=5",
+        "title": "LA City Employee Raises - Los Angeles - LAist",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbGFpc3QuY29tL2JyaWVmL25ld3MvbGEtY2l0eS1taW5pbXVtLXdhZ2UtaW5jcmVhc2UtY291bGQtcmFpc2UtY2l0eS1idWRnZXQtYnktMS1iaWxsaW9uLWJ5LTIwMjgtY2l0eS1yZXBvcnQtZmluZHPSAQA?oc=5",
         "description": [],
-        "pub_date": "Mon, 15 Apr 2024 04:31:54 GMT",
-        "source_url": "https://rafu.com",
-        "source_name": "The Rafu Shimpo"
-    },
-    {
-        "title": "Measles Case Confirmed In Los Angeles County - Patch",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvbG9zLWFuZ2VsZXMvbWVhc2xlcy1jYXNlLWNvbmZpcm1lZC1sb3MtYW5nZWxlcy1jb3VudHnSAWJodHRwczovL3BhdGNoLmNvbS9jYWxpZm9ybmlhL2xvcy1hbmdlbGVzL2FtcC8zMTcyMTg2Ny9tZWFzbGVzLWNhc2UtY29uZmlybWVkLWluLWxvcy1hbmdlbGVzLWNvdW50eQ?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 00:48:00 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
-        "title": "Investigation underway following stabbing on Metro bus - NBC Southern California",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvaW52ZXN0aWdhdGlvbi11bmRlcndheS1mb2xsb3dpbmctc3RhYmJpbmctb24tbWV0cm8tYnVzLzMzODcxMDIv0gFuaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9sb2NhbC9pbnZlc3RpZ2F0aW9uLXVuZGVyd2F5LWZvbGxvd2luZy1zdGFiYmluZy1vbi1tZXRyby1idXMvMzM4NzEwMi8_YW1wPTE?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Apr 2024 22:27:54 GMT",
-        "source_url": "https://www.nbclosangeles.com",
-        "source_name": "NBC Southern California"
-    },
-    {
-        "title": "5 L.A. cookbooks you should know about - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Zvb2QvbmV3c2xldHRlci8yMDI0LTA0LTE0L2Jlc3QtbG9zLWFuZ2VsZXMtY29va2Jvb2tzLWxhLXRpbWVzLTIwMjQtY29va2luZy1lZGl0b3JpYWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 14:00:59 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "L.A. City Council adopts moratorium on dog breeding permits - The Eastsider",
-        "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy50aGVlYXN0c2lkZXJsYS5jb20vbGlmZXN0eWxlL3BldHNfYW5kX3dpbGRsaWZlL2wtYS1jaXR5LWNvdW5jaWwtYWRvcHRzLW1vcmF0b3JpdW0tb24tZG9nLWJyZWVkaW5nLXBlcm1pdHMvYXJ0aWNsZV8wY2IzZThmZS1mOWFmLTExZWUtODk5Zi1hMzRiYmVlZTMyMWYuaHRtbNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Apr 2024 16:01:00 GMT",
-        "source_url": "https://www.theeastsiderla.com",
-        "source_name": "The Eastsider"
-    },
-    {
-        "title": "'And Action!': Rooftop Cinema Club rolls out 2024 spring events - LA Downtown News Online",
-        "link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5sYWRvd250b3dubmV3cy5jb20vYXJ0c19hbmRfZW50ZXJ0YWlubWVudC9hbmQtYWN0aW9uLXJvb2Z0b3AtY2luZW1hLWNsdWItcm9sbHMtb3V0LTIwMjQtc3ByaW5nLWV2ZW50cy9hcnRpY2xlXzE4ZjY2MTA2LWY5MTMtMTFlZS1iMWNkLTZiMjA0ZDVjZDhjMi5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 07:00:00 GMT",
-        "source_url": "https://www.ladowntownnews.com",
-        "source_name": "LA Downtown News Online"
-    },
-    {
-        "title": "Small lot houses take shape at 137 N. Rampart Boulevard - Urbanize LA",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbGEudXJiYW5pemUuY2l0eS9wb3N0L3NtYWxsLWxvdC1ob3VzZXMtdGFrZS1zaGFwZS0xMzctbi1yYW1wYXJ0LWJvdWxldmFyZNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 15:00:00 GMT",
-        "source_url": "https://la.urbanize.city",
-        "source_name": "Urbanize LA"
-    },
-    {
-        "title": "Echo Park crash leaves pedestrian severely injured - The Eastsider",
-        "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy50aGVlYXN0c2lkZXJsYS5jb20vbmVpZ2hib3Job29kcy9lY2hvX3BhcmsvZWNoby1wYXJrLWNyYXNoLWxlYXZlcy1wZWRlc3RyaWFuLXNldmVyZWx5LWluanVyZWQvYXJ0aWNsZV9hOTYxNzUwMC1mYTgwLTExZWUtYmM3OC1jMzc0ZWMxNDY4ZWQuaHRtbNIBnwFodHRwczovL3d3dy50aGVlYXN0c2lkZXJsYS5jb20vbmVpZ2hib3Job29kcy9lY2hvX3BhcmsvZWNoby1wYXJrLWNyYXNoLWxlYXZlcy1wZWRlc3RyaWFuLXNldmVyZWx5LWluanVyZWQvYXJ0aWNsZV9hOTYxNzUwMC1mYTgwLTExZWUtYmM3OC1jMzc0ZWMxNDY4ZWQuYW1wLmh0bWw?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 17:01:00 GMT",
-        "source_url": "https://www.theeastsiderla.com",
-        "source_name": "The Eastsider"
+        "pub_date": "Sat, 13 Apr 2024 19:36:00 GMT",
+        "source_url": "https://laist.com",
+        "source_name": "LAist"
     },
     {
         "title": "Measles Cases On The Rise As Infected Tourist Visits CA Theme Park - Patch",
@@ -440,115 +488,67 @@
         "source_name": "Patch"
     },
     {
-        "title": "Murders are dropping across the country, but not in LA - NBC Southern California",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL2ludmVzdGlnYXRpb25zL211cmRlcnMtYXJlLWRyb3BwaW5nLWFjcm9zcy10aGUtY291bnRyeS1idXQtbm90LWluLWxhLzMzODY3ODMv0gFxaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vaW52ZXN0aWdhdGlvbnMvbXVyZGVycy1hcmUtZHJvcHBpbmctYWNyb3NzLXRoZS1jb3VudHJ5LWJ1dC1ub3QtaW4tbGEvMzM4Njc4My8_YW1wPTE?oc=5",
+        "title": "Mayeda Named JANM Chief Impact Officer - The Rafu Shimpo",
+        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vcmFmdS5jb20vMjAyNC8wNC9tYXllZGEtbmFtZWQtamFubS1jaGllZi1pbXBhY3Qtb2ZmaWNlci_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 13 Apr 2024 01:26:00 GMT",
-        "source_url": "https://www.nbclosangeles.com",
-        "source_name": "NBC Southern California"
+        "pub_date": "Mon, 15 Apr 2024 04:31:54 GMT",
+        "source_url": "https://rafu.com",
+        "source_name": "The Rafu Shimpo"
     },
     {
-        "title": "Record Store Day: Music lovers flock to independent vinyl shops to catch exclusive releases, deals - LA Downtown News Online",
-        "link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5sYWRvd250b3dubmV3cy5jb20vYnVzaW5lc3MvcmVjb3JkLXN0b3JlLWRheS1tdXNpYy1sb3ZlcnMtZmxvY2stdG8taW5kZXBlbmRlbnQtdmlueWwtc2hvcHMtdG8tY2F0Y2gtZXhjbHVzaXZlLXJlbGVhc2VzLWRlYWxzL2FydGljbGVfYTVkMjVhYzYtZjkxMy0xMWVlLTliM2QtYTMxMDQ5ODMzNmM0Lmh0bWzSAQA?oc=5",
+        "title": "10 Things To Do For This Saturday in L.A. [4-13-2024] - We Like L.A.",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LndlbGlrZWxhLmNvbS8xMC10aGluZ3MtdG8tZG8tZm9yLXRoaXMtc2F0dXJkYXktaW4tbC1hLTQtMTMtMjAyNC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Apr 2024 14:22:37 GMT",
+        "source_url": "https://www.welikela.com",
+        "source_name": "We Like L.A."
+    },
+    {
+        "title": "'And Action!': Rooftop Cinema Club rolls out 2024 spring events - LA Downtown News Online",
+        "link": "https://news.google.com/rss/articles/CBMiogFodHRwOi8vd3d3LmxhZG93bnRvd25uZXdzLmNvbS9hcnRzX2FuZF9lbnRlcnRhaW5tZW50L2FuZC1hY3Rpb24tcm9vZnRvcC1jaW5lbWEtY2x1Yi1yb2xscy1vdXQtMjAyNC1zcHJpbmctZXZlbnRzL2FydGljbGVfMThmNjYxMDYtZjkxMy0xMWVlLWIxY2QtNmIyMDRkNWNkOGMyLmh0bWzSAQA?oc=5",
         "description": [],
         "pub_date": "Mon, 15 Apr 2024 07:00:00 GMT",
-        "source_url": "https://www.ladowntownnews.com",
+        "source_url": "http://www.ladowntownnews.com",
         "source_name": "LA Downtown News Online"
     },
     {
-        "title": "Los Angeles to San Francisco bullet train project a step closer to becoming reality - KABC-TV",
-        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vYWJjNy5jb20vbG9zLWFuZ2VsZXMtc2FuLWZyYW5jaXNjby1idWxsZXQtdHJhaW4tcHJvamVjdC8xNDY1MTc0MS_SAU1odHRwczovL2FiYzcuY29tL2FtcC9sb3MtYW5nZWxlcy1zYW4tZnJhbmNpc2NvLWJ1bGxldC10cmFpbi1wcm9qZWN0LzE0NjUxNzQxLw?oc=5",
+        "title": "No accountability for California's $20 billion on homelessness - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5sYXRpbWVzLmNvbS9vcGluaW9uL2xldHRlcnMtdG8tdGhlLWVkaXRvci9zdG9yeS8yMDI0LTA0LTE1L2NhbGlmb3JuaWEtZG9lc250LWtub3ctaWYtMjAtYmlsbGlvbi1zcGVudC1vbi1ob21lbGVzc25lc3Mtd29ya2Vk0gEA?oc=5",
         "description": [],
-        "pub_date": "Sat, 13 Apr 2024 00:26:52 GMT",
-        "source_url": "https://abc7.com",
-        "source_name": "KABC-TV"
-    },
-    {
-        "title": "SoCal Authorities Monitoring Fallout From Irans Strikes On Israel - Patch",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvbG9zLWFuZ2VsZXMvc29jYWwtYXV0aG9yaXRpZXMtbW9uaXRvcmluZy1mYWxsb3V0LWlyYW5zLXN0cmlrZXMtaXNyYWVs0gF3aHR0cHM6Ly9wYXRjaC5jb20vY2FsaWZvcm5pYS9sb3MtYW5nZWxlcy9hbXAvMzE3MjE4NjQvc29jYWwtYXV0aG9yaXRpZXMtbW9uaXRvcmluZy1mYWxsb3V0LWZyb20taXJhbnMtc3RyaWtlcy1vbi1pc3JhZWw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 00:33:00 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
-        "title": "LA Times Today: L.A.'s worst parking lots? An expert explains how to fix them - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvbGF0dC1sYXMtd29yc3QtcGFya2luZy1sb3RzLTEyM9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 01:27:00 GMT",
+        "pub_date": "Mon, 15 Apr 2024 10:00:55 GMT",
         "source_url": "https://www.latimes.com",
         "source_name": "Los Angeles Times"
     },
     {
-        "title": "Cityview Completes 243-Unit Multifamily Project in Los Angeles' Historic Filipinotown - What Now Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd2hhdG5vd2xvc2FuZ2VsZXMuY29tL2NpdHl2aWV3LWNvbXBsZXRlcy0yNDMtdW5pdC1tdWx0aWZhbWlseS1wcm9qZWN0LWluLWxvcy1hbmdlbGVzLWhpc3RvcmljLWZpbGlwaW5vdG93bi_SAQA?oc=5",
+        "title": "Echo Park crash leaves pedestrian severely injured - The Eastsider",
+        "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy50aGVlYXN0c2lkZXJsYS5jb20vbmVpZ2hib3Job29kcy9lY2hvX3BhcmsvZWNoby1wYXJrLWNyYXNoLWxlYXZlcy1wZWRlc3RyaWFuLXNldmVyZWx5LWluanVyZWQvYXJ0aWNsZV9hOTYxNzUwMC1mYTgwLTExZWUtYmM3OC1jMzc0ZWMxNDY4ZWQuaHRtbNIBnwFodHRwczovL3d3dy50aGVlYXN0c2lkZXJsYS5jb20vbmVpZ2hib3Job29kcy9lY2hvX3BhcmsvZWNoby1wYXJrLWNyYXNoLWxlYXZlcy1wZWRlc3RyaWFuLXNldmVyZWx5LWluanVyZWQvYXJ0aWNsZV9hOTYxNzUwMC1mYTgwLTExZWUtYmM3OC1jMzc0ZWMxNDY4ZWQuYW1wLmh0bWw?oc=5",
         "description": [],
-        "pub_date": "Mon, 15 Apr 2024 12:43:10 GMT",
-        "source_url": "https://whatnowlosangeles.com",
-        "source_name": "What Now Los Angeles"
+        "pub_date": "Sun, 14 Apr 2024 17:01:00 GMT",
+        "source_url": "https://www.theeastsiderla.com",
+        "source_name": "The Eastsider"
     },
     {
-        "title": "Why LA Pizza Is The Best - LAist",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbGFpc3QuY29tL2JyaWVmL25ld3MvZm9vZC95ZXMtbGEtcGl6emEtaXMtYS10aGluZy1hbmQtaXQtYmVhdHMtb3V0LWFsbC10aGUtb3RoZXItcGl6emEtaW4tdGhlLXdvcmxk0gEA?oc=5",
+        "title": "An E-Bike Ride In South LA And How You Can Rent One For Free - LAist",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbGFpc3QuY29tL25ld3MvY2xpbWF0ZS1lbnZpcm9ubWVudC9hbi1lLWJpa2UtcmlkZS1pbi1zb3V0aC1sYS1hbmQtaG93LXlvdS1jYW4tcmVudC1vbmUtZm9yLWZyZWXSAQA?oc=5",
         "description": [],
-        "pub_date": "Fri, 12 Apr 2024 12:00:00 GMT",
+        "pub_date": "Mon, 15 Apr 2024 12:00:00 GMT",
         "source_url": "https://laist.com",
         "source_name": "LAist"
     },
     {
-        "title": "Los Angeles Downtown News Events - CHAKRAS - 7 course Immersive Indian Dining Experience with Live Music Art - LA Downtown News Online",
-        "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5sYWRvd250b3dubmV3cy5jb20vbG9jYWwtZXZlbnRzLz9fZXZEaXNjb3ZlcnlQYXRoPS9ldmVudC8yMzY0Mjc2LWNoYWtyYXMtNy1jb3Vyc2UtaW1tZXJzaXZlLWluZGlhbi1kaW5pbmctZXhwZXJpZW5jZS13aXRoLWxpdmUtbXVzaWMtYXJ00gEA?oc=5",
+        "title": "Los Angeles hospital seeking public\u2019s help in identifying patient - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2xvcy1hbmdlbGVzLWhvc3BpdGFsLXNlZWtpbmctcHVibGljcy1oZWxwLWluLWlkZW50aWZ5aW5nLXBhdGllbnQv0gFmaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvbG9zLWFuZ2VsZXMtaG9zcGl0YWwtc2Vla2luZy1wdWJsaWNzLWhlbHAtaW4taWRlbnRpZnlpbmctcGF0aWVudC9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Sun, 14 Apr 2024 22:27:27 GMT",
-        "source_url": "https://www.ladowntownnews.com",
-        "source_name": "LA Downtown News Online"
+        "pub_date": "Sat, 13 Apr 2024 15:40:43 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
     },
     {
-        "title": "Homegoing Services Set for Rev. Dr. Cecil L. 'Chip' Murray \u2013 Los Angeles Sentinel - Lasentinel",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbGFzZW50aW5lbC5uZXQvaG9tZWdvaW5nLXNlcnZpY2VzLXNldC1mb3ItcmV2LWRyLWNlY2lsLWwtY2hpcC1tdXJyYXkuaHRtbNIBAA?oc=5",
+        "title": "L.A. non-profit TransLatin@ Coalition targeted in bomb threat: suspect in custody - Audacy",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmF1ZGFjeS5jb20vOTQ3dGhld2F2ZS9uZXdzL2xhLW5vbi1wcm9maXQtdHJhbnMtbGF0aW4tY29hbGl0aW9uLXRhcmdldGVkLWluLWJvbWItdGhyZWF00gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 15 Apr 2024 01:53:17 GMT",
-        "source_url": "https://lasentinel.net",
-        "source_name": "Lasentinel"
-    },
-    {
-        "title": "Free admission for kids 13 and under is an April-sweet gift from the Autry Museum - NBC Southern California",
-        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS90aGUtc2NlbmUvZnJlZS1hZG1pc3Npb24tZm9yLWtpZHMtMTMtYW5kLXVuZGVyLWlzLWFuLWFwcmlsLXN3ZWV0LWdpZnQtZnJvbS10aGUtYXV0cnktbXVzZXVtLzMzODgyOTQv0gGIAWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL3RoZS1zY2VuZS9mcmVlLWFkbWlzc2lvbi1mb3Ita2lkcy0xMy1hbmQtdW5kZXItaXMtYW4tYXByaWwtc3dlZXQtZ2lmdC1mcm9tLXRoZS1hdXRyeS1tdXNldW0vMzM4ODI5NC8_YW1wPTE?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 16:49:10 GMT",
-        "source_url": "https://www.nbclosangeles.com",
-        "source_name": "NBC Southern California"
-    },
-    {
-        "title": "A 30th anniversary 'The Lion King' concert is headed to the Hollywood Bowl - Time Out",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvcy1hbmdlbGVzL21vdmllcy9kaXNuZXlzLXRoZS1saW9uLWtpbmctMzB0aC1hbm5pdmVyc2FyeS1hLWxpdmUtdG8tZmlsbS1jb25jZXJ0LWV2ZW500gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 07:00:00 GMT",
-        "source_url": "https://www.timeout.com",
-        "source_name": "Time Out"
-    },
-    {
-        "title": "SPARC Gallery Finds New Home | The South Pasadenan - The South Pasadenan",
-        "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc291dGhwYXNhZGVuYW4uY29tL3NwYXJjLWdhbGxlcnktZmluZHMtbmV3LWhvbWUv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 21:56:55 GMT",
-        "source_url": "https://southpasadenan.com",
-        "source_name": "The South Pasadenan"
-    },
-    {
-        "title": "4 Restaurants to Try This Weekend in Los Angeles: April 12 - Eater LA",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbGEuZWF0ZXIuY29tLzIwMjQvNC8xMi8yNDA4NzA4My9sYS1sb3MtYW5nZWxlcy1yZXN0YXVyYW50LXJlY29tbWVuZGF0aW9ucy1lYXRlci1lZGl0b3JzLWFwcmlsLTEy0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Apr 2024 17:23:00 GMT",
-        "source_url": "https://la.eater.com",
-        "source_name": "Eater LA"
-    },
-    {
-        "title": "Los Angeles Needs More Early Education Teachers. How About Parents? - LAist",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbGFpc3QuY29tL25ld3MvZWR1Y2F0aW9uL2Vhcmx5LWNoaWxkaG9vZC1lZHVjYXRpb24tcHJlLWsvbG9zLWFuZ2VsZXMtY291bnR5LWVhcmx5LWNoaWxkaG9vZC10ZWFjaGVycy1wYXJlbnRzLWhlYWQtc3RhcnTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Apr 2024 16:30:00 GMT",
-        "source_url": "https://laist.com",
-        "source_name": "LAist"
+        "pub_date": "Mon, 15 Apr 2024 23:29:42 GMT",
+        "source_url": "https://www.audacy.com",
+        "source_name": "Audacy"
     }
 ]
