@@ -1,28 +1,8 @@
 [
     {
         "name": "Lakers",
-        "summary": "The Denver Nuggets secured a 114-103 victory over the Los Angeles Lakers on April 20, 2024. In a separate game, LeBron James led the Lakers to a play-in game win against the New Orleans Pelicans, setting up a rematch in the playoffs. The Nuggets and Lakers are now scheduled to face off in the first round of the NBA Playoffs, and analysts predict that the Nuggets are favored to advance. Despite James' triple-double in the previous game, the Lakers face challenges in overcoming the Nuggets' star player, Nikola Joki\u0107. Commentary emphasizes the importance of the matchup and the potential for an upset with the Indiana Pacers surprising the Milwaukee Bucks.",
+        "summary": "The Denver Nuggets and Los Angeles Lakers are set to face off in the first round of the NBA playoffs. The Nuggets, who finished the regular season with the sixth seed in the Western Conference, will host the Lakers, who finished as the seventh seed. The two teams met in the first round of the playoffs last year, with the Nuggets winning in five games. LeBron James' triple-double helped the Lakers beat the Pelicans and advance to face the Nuggets in a play-in rematch. The Lakers survived a Pelicans' rally to punch their NBA Playoffs ticket. The Nuggets worked over the Lakers to pick up where they left off from last year. Fans can listen live to the game on SiriusXM Blog and watch it on NBA.com. Key questions for the series include how the Lakers will handle the altitude in Denver and the Nuggets' strong defense.",
         "items": [
-            {
-                "title": "Nuggets 114-103 Lakers (Apr 20, 2024) Final Score - ESPN",
-                "description": "Nuggets 114-103 Lakers (Apr 20, 2024) Final Score  ESPN",
-                "published date": "Wed, 17 Apr 2024 02:30:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9nYW1lL18vZ2FtZUlkLzQwMTY1NDc1OC9sYWtlcnMtbnVnZ2V0c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "LeBron James' triple-double lifts Lakers over Pelicans and into a play-in rematch with New Orleans - The Associated Press",
-                "description": "LeBron James' triple-double lifts Lakers over Pelicans and into a play-in rematch with New Orleans  The Associated Press",
-                "published date": "Sun, 14 Apr 2024 23:51:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2xha2Vycy1wZWxpY2Fucy1zY29yZS01OTRmZTY2ZGQ3ODA3NTNjZDQ2NDliNTAwNWFmM2E3NtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
             {
                 "title": "Nuggets-Lakers: Schedule, how to watch, predictions & analysis - NBA.com",
                 "description": "Nuggets-Lakers: Schedule, how to watch, predictions & analysis  NBA.com",
@@ -31,46 +11,6 @@
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
-                }
-            },
-            {
-                "title": "How Lakers beat Pelicans in Play-In Tournament: Zion Williamson suffers injury amid career performance - The Athletic",
-                "description": "How Lakers beat Pelicans in Play-In Tournament: Zion Williamson suffers injury amid career performance  The Athletic",
-                "published date": "Wed, 17 Apr 2024 15:00:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXRobGV0aWMuY29tL2xpdmUtYmxvZ3MvbGFrZXJzLXZzLXBlbGljYW5zLWxpdmUtdXBkYXRlcy1zY29yZS1wbGF5LWluLWdhbWUvcWNkampPMEUyWTZXL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
-                }
-            },
-            {
-                "title": "Los Angeles Lakers edge past the New Orleans Pelicans in \u2018gritty\u2019 win to punch NBA Playoffs ticket - CNN",
-                "description": "Los Angeles Lakers edge past the New Orleans Pelicans in \u2018gritty\u2019 win to punch NBA Playoffs ticket  CNN",
-                "published date": "Wed, 17 Apr 2024 09:23:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8xNy9zcG9ydC9sYWtlcnMtcGVsaWNhbnMtbmJhLXBsYXlpbi1zcHQtaW50bC9pbmRleC5odG1s0gFMaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNC8xNy9zcG9ydC9sYWtlcnMtcGVsaWNhbnMtbmJhLXBsYXlpbi1zcHQtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            },
-            {
-                "title": "NBA Playoffs predictions: Nuggets send Lakers home again, Pacers upset Bucks - FOX Sports",
-                "description": "NBA Playoffs predictions: Nuggets send Lakers home again, Pacers upset Bucks  FOX Sports",
-                "published date": "Sat, 20 Apr 2024 10:00:09 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvbmJhLXBsYXlvZmZzLXByZWRpY3Rpb25zLW51Z2dldHMtc2VuZC1sYWtlcnMtaG9tZS1hZ2Fpbi1wYWNlcnMtdXBzZXQtYnVja3PSAXBodHRwczovL2FtcC5mb3hzcG9ydHMuY29tL3N0b3JpZXMvbmJhL25iYS1wbGF5b2Zmcy1wcmVkaWN0aW9ucy1udWdnZXRzLXNlbmQtbGFrZXJzLWhvbWUtYWdhaW4tcGFjZXJzLXVwc2V0LWJ1Y2tz?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
-                }
-            },
-            {
-                "title": "Denier's Guide to Believing LA Lakers Can Beat Denver Nuggets - Bleacher Report",
-                "description": "Denier's Guide to Believing LA Lakers Can Beat Denver Nuggets  Bleacher Report",
-                "published date": "Sat, 20 Apr 2024 11:09:05 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE3NjEwLWRlbmllcnMtZ3VpZGUtdG8tYmVsaWV2aW5nLWxhLWxha2Vycy1jYW4tYmVhdC1kZW52ZXItbnVnZ2V0c9IBeWh0dHBzOi8vc3luZGljYXRpb24uYmxlYWNoZXJyZXBvcnQuY29tL2FtcC8xMDExNzYxMC1kZW5pZXJzLWd1aWRlLXRvLWJlbGlldmluZy1sYS1sYWtlcnMtY2FuLWJlYXQtZGVudmVyLW51Z2dldHMuYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
                 }
             },
             {
@@ -84,6 +24,16 @@
                 }
             },
             {
+                "title": "Five Key Questions In The Denver Nuggets Vs. Los Angeles Lakers Playoff Rematch - Forbes",
+                "description": "Five Key Questions In The Denver Nuggets Vs. Los Angeles Lakers Playoff Rematch  Forbes",
+                "published date": "Sat, 20 Apr 2024 23:50:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2pvZWxydXNoLzIwMjQvMDQvMjAvZml2ZS1rZXktcXVlc3Rpb25zLWluLXRoZS1kZW52ZXItbnVnZ2V0cy12cy1sb3MtYW5nZWxlcy1sYWtlcnMtcGxheW9mZi1yZW1hdGNoL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
                 "title": "Denver Nuggets get LA Lakers in first round of NBA playoffs - KKTV",
                 "description": "Denver Nuggets get LA Lakers in first round of NBA playoffs  KKTV",
                 "published date": "Wed, 17 Apr 2024 02:09:00 GMT",
@@ -94,10 +44,60 @@
                 }
             },
             {
-                "title": "Nuggets-Lakers preview: Can LeBron get L.A. past Denver? Who can stop Nikola Joki\u0107? - Yahoo Sports",
-                "description": "Nuggets-Lakers preview: Can LeBron get L.A. past Denver? Who can stop Nikola Joki\u0107?  Yahoo Sports",
-                "published date": "Thu, 18 Apr 2024 13:20:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9udWdnZXRzLWxha2Vycy1wcmV2aWV3LWNhbi1sZWJyb24tZ2V0LWxhLXBhc3QtZGVudmVyLXdoby1jYW4tc3RvcC1uaWtvbGEtam9raWMtMTMyMDA3NDYzLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Los Angeles Lakers edge past the New Orleans Pelicans in \u2018gritty\u2019 win to punch NBA Playoffs ticket - CNN",
+                "description": "Los Angeles Lakers edge past the New Orleans Pelicans in \u2018gritty\u2019 win to punch NBA Playoffs ticket  CNN",
+                "published date": "Wed, 17 Apr 2024 09:23:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8xNy9zcG9ydC9sYWtlcnMtcGVsaWNhbnMtbmJhLXBsYXlpbi1zcHQtaW50bC9pbmRleC5odG1s0gFMaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNC8xNy9zcG9ydC9sYWtlcnMtcGVsaWNhbnMtbmJhLXBsYXlpbi1zcHQtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
+                }
+            },
+            {
+                "title": "Lakers survive Pelicans' rally, advance to matchup vs. Nuggets - ESPN",
+                "description": "Lakers survive Pelicans' rally, advance to matchup vs. Nuggets  ESPN",
+                "published date": "Wed, 17 Apr 2024 02:29:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzM5OTU4ODc2L2xha2Vycy1zdXJ2aXZlLXBlbGljYW5zLXJhbGx5LWFkdmFuY2UtbWF0Y2h1cC12cy1udWdnZXRz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "How Lakers beat Pelicans in Play-In Tournament: Zion Williamson suffers injury amid career performance - The Athletic",
+                "description": "How Lakers beat Pelicans in Play-In Tournament: Zion Williamson suffers injury amid career performance  The Athletic",
+                "published date": "Wed, 17 Apr 2024 15:00:06 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXRobGV0aWMuY29tL2xpdmUtYmxvZ3MvbGFrZXJzLXZzLXBlbGljYW5zLWxpdmUtdXBkYXRlcy1zY29yZS1wbGF5LWluLWdhbWUvcWNkampPMEUyWTZXL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://theathletic.com",
+                    "title": "The Athletic"
+                }
+            },
+            {
+                "title": "LeBron James' triple-double lifts Lakers over Pelicans and into a play-in rematch with New Orleans - The Associated Press",
+                "description": "LeBron James' triple-double lifts Lakers over Pelicans and into a play-in rematch with New Orleans  The Associated Press",
+                "published date": "Sun, 14 Apr 2024 23:51:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2xha2Vycy1wZWxpY2Fucy1zY29yZS01OTRmZTY2ZGQ3ODA3NTNjZDQ2NDliNTAwNWFmM2E3NtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Lakers vs. Nuggets TV channel, live stream, how to watch NBA playoffs online, game time, odds - CBS Sports",
+                "description": "Lakers vs. Nuggets TV channel, live stream, how to watch NBA playoffs online, game time, odds  CBS Sports",
+                "published date": "Fri, 19 Apr 2024 23:17:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmJhL25ld3MvbGFrZXJzLXZzLW51Z2dldHMtdHYtY2hhbm5lbC1saXZlLXN0cmVhbS1ob3ctdG8td2F0Y2gtbmJhLXBsYXlvZmZzLW9ubGluZS1nYW1lLXRpbWUtb2Rkcy_SAYABaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9uYmEvbmV3cy9sYWtlcnMtdnMtbnVnZ2V0cy10di1jaGFubmVsLWxpdmUtc3RyZWFtLWhvdy10by13YXRjaC1uYmEtcGxheW9mZnMtb25saW5lLWdhbWUtdGltZS1vZGRzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "NBA playoffs: Nuggets work over Lakers to pick up where they left off from last year - Yahoo Sports",
+                "description": "NBA playoffs: Nuggets work over Lakers to pick up where they left off from last year  Yahoo Sports",
+                "published date": "Sun, 21 Apr 2024 04:35:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9uYmEtcGxheW9mZnMtbnVnZ2V0cy13b3JrLW92ZXItbGFrZXJzLXRvLXBpY2stdXAtd2hlcmUtdGhleS1sZWZ0LW9mZi1mcm9tLWxhc3QteWVhci0wMjU5MzI3MDIuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://sports.yahoo.com",
                     "title": "Yahoo Sports"
@@ -107,13 +107,13 @@
     },
     {
         "name": "Knicks",
-        "summary": "The New York Knicks and Philadelphia 76ers are set to face off in the 2024 NBA Playoffs first round. The Knicks enter the series as slight favorites despite facing the reigning MVP, Joel Embiid. Experts predict a close series, with the Knicks having a slight edge due to their overall depth and defensive prowess. Game 1 will be broadcast live on SiriusXM and can also be streamed online with various streaming services. The Knicks' defense will be tested by Embiid, but they have shown they can contain even the most dominant players. The series is expected to be a physical and intense one, with both teams determined to advance to the next round.",
+        "summary": "The Knicks' Game 1 playoff victory over the 76ers has sparked discussions about New York's potential. Despite Donte DiVincenzo's ineligibility for awards due to league rules, the team is being considered as a potential playoff contender. Experts are analyzing the Knicks' performance in Game 1, particularly Mitchell Robinson's defensive prowess against Joel Embiid. The Knicks are also exploring potential free agent targets for 2024, with Miami Heat's Caleb Martin emerging as a potential candidate. However, some are questioning Julius Randle's role in the team's future, while others speculate on the Sixers' perceived confidence in facing the Knicks, especially with backup center Paul Reed's comments.",
         "items": [
             {
-                "title": "Knicks-76ers: Schedule, how to watch, predictions & analysis - NBA.com",
-                "description": "Knicks-76ers: Schedule, how to watch, predictions & analysis  NBA.com",
-                "published date": "Thu, 18 Apr 2024 05:21:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1wbGF5b2Zmcy1zZXJpZXMtcHJldmlldy1rbmlja3MtNzZlcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Knicks-Sixers: 5 takeaways from New York's Game 1 comeback - NBA.com",
+                "description": "Knicks-Sixers: 5 takeaways from New York's Game 1 comeback  NBA.com",
+                "published date": "Sun, 21 Apr 2024 03:53:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9rbmlja3Mtc2l4ZXJzLTUtdGFrZWF3YXlzLWdhbWUtMS0yMDI0LW5iYS1wbGF5b2Zmc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
@@ -130,6 +130,36 @@
                 }
             },
             {
+                "title": "Knicks' Donte DiVincenzo ineligible for NBA awards due to league caveats - New York Post",
+                "description": "Knicks' Donte DiVincenzo ineligible for NBA awards due to league caveats  New York Post ",
+                "published date": "Wed, 17 Apr 2024 04:16:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzE3L3Nwb3J0cy9rbmlja3MtZG9udGUtZGl2aW5jZW56by1pbmVsaWdpYmxlLWZvci1uYmEtYXdhcmRzL9IBW2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzE3L3Nwb3J0cy9rbmlja3MtZG9udGUtZGl2aW5jZW56by1pbmVsaWdpYmxlLWZvci1uYmEtYXdhcmRzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
+            },
+            {
+                "title": "Knicks' Early 2024 Free Agent Targets - Bleacher Report",
+                "description": "Knicks' Early 2024 Free Agent Targets  Bleacher Report",
+                "published date": "Thu, 18 Apr 2024 13:00:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE3MjgyLWtuaWNrcy1lYXJseS0yMDI0LWZyZWUtYWdlbnQtdGFyZ2V0c9IBYWh0dHBzOi8vc3luZGljYXRpb24uYmxlYWNoZXJyZXBvcnQuY29tL2FtcC8xMDExNzI4Mi1rbmlja3MtZWFybHktMjAyNC1mcmVlLWFnZW50LXRhcmdldHMuYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
+                }
+            },
+            {
+                "title": "Miami Perfect Forward Fit for Knicks? - Sports Illustrated",
+                "description": "Miami Perfect Forward Fit for Knicks?  Sports Illustrated",
+                "published date": "Fri, 19 Apr 2024 11:38:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEva25pY2tzL21pYW1pLWZvcndhcmQtcGVyZmVjdC1maXQtbmV3LXlvcmsta25pY2tz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
                 "title": "Knicks-76ers preview: Is New York the favorite against Philadelphia and Joel Embiid? - Yahoo Sports",
                 "description": "Knicks-76ers preview: Is New York the favorite against Philadelphia and Joel Embiid?  Yahoo Sports",
                 "published date": "Thu, 18 Apr 2024 19:27:11 GMT",
@@ -140,63 +170,13 @@
                 }
             },
             {
-                "title": "2024 NBA Playoffs: Knicks Vs. Sixers Preview And Prediction - Forbes",
-                "description": "2024 NBA Playoffs: Knicks Vs. Sixers Preview And Prediction  Forbes",
-                "published date": "Fri, 19 Apr 2024 12:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJ5YW50b3BvcmVrLzIwMjQvMDQvMTkvMjAyNC1uYmEtcGxheW9mZnMta25pY2tzLXZzLXNpeGVycy1wcmV2aWV3LWFuZC1wcmVkaWN0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Are the New York Knicks better off without Julius Randle? - FOX Sports",
+                "description": "Are the New York Knicks better off without Julius Randle?  FOX Sports",
+                "published date": "Mon, 15 Apr 2024 19:42:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvYXJlLXRoZS1uZXcteW9yay1rbmlja3MtYmV0dGVyLW9mZi13aXRob3V0LWp1bGl1cy1yYW5kbGXSAV5odHRwczovL2FtcC5mb3hzcG9ydHMuY29tL3N0b3JpZXMvbmJhL2FyZS10aGUtbmV3LXlvcmsta25pY2tzLWJldHRlci1vZmYtd2l0aG91dC1qdWxpdXMtcmFuZGxl?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
-                "title": "Knicks vs. 76ers odds, score prediction, time, line: 2024 NBA playoff picks, Game 1 best bets from top model - CBS Sports",
-                "description": "Knicks vs. 76ers odds, score prediction, time, line: 2024 NBA playoff picks, Game 1 best bets from top model  CBS Sports",
-                "published date": "Sat, 20 Apr 2024 20:00:49 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2tuaWNrcy12cy03NmVycy1vZGRzLXNjb3JlLXByZWRpY3Rpb24tdGltZS1saW5lLTIwMjQtbmJhLXBsYXlvZmYtcGlja3MtZ2FtZS0xLWJlc3QtYmV0cy1mcm9tLXRvcC1tb2RlbC_SAY4BaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9uYmEvbmV3cy9rbmlja3MtdnMtNzZlcnMtb2Rkcy1zY29yZS1wcmVkaWN0aW9uLXRpbWUtbGluZS0yMDI0LW5iYS1wbGF5b2ZmLXBpY2tzLWdhbWUtMS1iZXN0LWJldHMtZnJvbS10b3AtbW9kZWwvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "Breaking down Knicks-76ers matchups ahead of 2024 NBA playoffs showdown - New York Post",
-                "description": "Breaking down Knicks-76ers matchups ahead of 2024 NBA playoffs showdown  New York Post ",
-                "published date": "Sat, 20 Apr 2024 10:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9icmVha2luZy1kb3duLWtuaWNrcy03NmVycy1tYXRjaHVwcy1haGVhZC1wbGF5b2ZmLXNob3dkb3duL9IBZGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9icmVha2luZy1kb3duLWtuaWNrcy03NmVycy1tYXRjaHVwcy1haGVhZC1wbGF5b2ZmLXNob3dkb3duL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
-                "title": "NY Knicks vs. Sixers: Game 1 takeaways as Knicks win - NorthJersey.com",
-                "description": "NY Knicks vs. Sixers: Game 1 takeaways as Knicks win  NorthJersey.com",
-                "published date": "Sun, 21 Apr 2024 01:02:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL2tuaWNrcy8yMDI0LzA0LzIwL255LWtuaWNrcy12cy1zaXhlcnMtZ2FtZS0xLXRha2Vhd2F5cy1hcy1rbmlja3Mtd2luLzczMzgxNjMyMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.northjersey.com",
-                    "title": "NorthJersey.com"
-                }
-            },
-            {
-                "title": "How to watch today's Philadelphia 76ers vs. New York Knicks NBA Playoff game: Livestream options, more - CBS News",
-                "description": "How to watch today's Philadelphia 76ers vs. New York Knicks NBA Playoff game: Livestream options, more  CBS News",
-                "published date": "Sat, 20 Apr 2024 11:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRvZGF5cy1waGlsYWRlbHBoaWEtNzZlcnMtdnMtbmV3LXlvcmsta25pY2tzLW5iYS1wbGF5b2ZmLWdhbWUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
-                "title": "Draymond Green Slams Knicks in Playoff Prediction - Sports Illustrated",
-                "description": "Draymond Green Slams Knicks in Playoff Prediction  Sports Illustrated",
-                "published date": "Sat, 20 Apr 2024 12:50:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnNpLmNvbS9uYmEva25pY2tzL2RyYXltb24tZ3JlZW4tc2xhbXMtbmV3LXlvcmsta25pY2tzLXBsYXlvZmYtcHJlZGljdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
+                    "href": "https://www.foxsports.com",
+                    "title": "FOX Sports"
                 }
             },
             {
@@ -208,23 +188,33 @@
                     "href": "https://theathletic.com",
                     "title": "The Athletic"
                 }
+            },
+            {
+                "title": "NY Knicks vs. Philadelphia 76ers: Game 1 takeaways as Mitchell Robinson stars - NorthJersey.com",
+                "description": "NY Knicks vs. Philadelphia 76ers: Game 1 takeaways as Mitchell Robinson stars  NorthJersey.com",
+                "published date": "Sun, 21 Apr 2024 01:02:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL2tuaWNrcy8yMDI0LzA0LzIwL255LWtuaWNrcy12cy1zaXhlcnMtZ2FtZS0xLXRha2Vhd2F5cy1hcy1rbmlja3Mtd2luLzczMzgxNjMyMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.northjersey.com",
+                    "title": "NorthJersey.com"
+                }
+            },
+            {
+                "title": "Sixers wanted 'easier' Knicks as backup center Paul Reed tosses first barb of NBA playoffs - CBS Sports",
+                "description": "Sixers wanted 'easier' Knicks as backup center Paul Reed tosses first barb of NBA playoffs  CBS Sports",
+                "published date": "Fri, 19 Apr 2024 12:04:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmJhL25ld3Mvc2l4ZXJzLXdhbnRlZC1lYXNpZXIta25pY2tzLWFzLWJhY2t1cC1jZW50ZXItcGF1bC1yZWVkLXRvc3Nlcy1maXJzdC1iYXJiLW9mLW5iYS1wbGF5b2Zmcy_SAYABaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9uYmEvbmV3cy9zaXhlcnMtd2FudGVkLWVhc2llci1rbmlja3MtYXMtYmFja3VwLWNlbnRlci1wYXVsLXJlZWQtdG9zc2VzLWZpcnN0LWJhcmItb2YtbmJhLXBsYXlvZmZzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
             }
         ]
     },
     {
         "name": "Timberwolves",
-        "summary": "The Minnesota Timberwolves have emerged as a formidable opponent in the NBA playoffs, having defeated the top-ranked Phoenix Suns in Game 1 of their first-round series. Led by Anthony Edwards' 33-point performance, the Timberwolves showcased their defensive prowess, holding the Suns to just 95 points. With the series now shifting to Phoenix, the Timberwolves face the challenge of containing the high-scoring trio of Kevin Durant, Devin Booker, and Deandre Ayton. Despite the Suns' regular season dominance, the Timberwolves demonstrated their potential to disrupt their opponents' rhythm and exploit their weaknesses. The series promises to be a thrilling contest as the Timberwolves seek to make a deep playoff run while the Suns aim to regain their top seed status.",
+        "summary": "In the opening game of the first-round playoff series, the Minnesota Timberwolves dominated the Phoenix Suns, led by Anthony Edwards' 33 points. Edwards' impressive performance proved that the Timberwolves are a force to be reckoned with in this series. The Suns were unable to match the Timberwolves' intensity and execution, falling 120-95. Despite the Suns securing the Western Conference's top seed to avoid the play-in tournament, the Timberwolves demonstrated their ability to challenge for the title. Game 1's outcome raises questions about the Nuggets, Timberwolves, and Thunder's standings as the Western Conference's top teams, as a tie in their records could have major implications for playoff seeding.",
         "items": [
-            {
-                "title": "T-wolves take NBA's best defense into series vs. Suns, but can it stop Durant-Booker-Beal trio? - The Associated Press",
-                "description": "T-wolves take NBA's best defense into series vs. Suns, but can it stop Durant-Booker-Beal trio?  The Associated Press",
-                "published date": "Fri, 19 Apr 2024 21:10:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N1bnMtdGltYmVyd29sdmVzLXBsYXlvZmZzLXByZXZpZXctMTcxZTNiNGUyZDQ5NWQzMTc2ZWVjMmJmOTc3Y2E0YTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
             {
                 "title": "Anthony Edwards leads the way as Timberwolves dismantle Suns in Game 1 - Star Tribune",
                 "description": "Anthony Edwards leads the way as Timberwolves dismantle Suns in Game 1  Star Tribune",
@@ -246,13 +236,23 @@
                 }
             },
             {
-                "title": "Did the Timberwolves rope-a-dope the Suns in regular season finale? - Sports Illustrated",
-                "description": "Did the Timberwolves rope-a-dope the Suns in regular season finale?  Sports Illustrated",
-                "published date": "Thu, 18 Apr 2024 15:41:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEvdGltYmVyd29sdmVzL25ld3MvZGlkLXRoZS10aW1iZXJ3b2x2ZXMtcm9wZS1hLWRvcGUtdGhlLXN1bnMtaW4tcmVndWxhci1zZWFzb24tZmluYWxl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Edwards, Timberwolves cruise past Suns in Game 1 of first-round playoff series - Sports Illustrated",
+                "description": "Edwards, Timberwolves cruise past Suns in Game 1 of first-round playoff series  Sports Illustrated",
+                "published date": "Sat, 20 Apr 2024 22:25:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvdGltYmVyd29sdmVzL25ld3MvZWR3YXJkcy10aW1iZXJ3b2x2ZXMtY3J1aXNlLXBhc3Qtc3Vucy1pbi1nYW1lLTEtb2YtZmlyc3Qtcm91bmQtcGxheW9mZi1zZXJpZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.si.com",
                     "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "How to watch today's Phoenix Suns vs. Minnesota Timberwolves NBA Playoff game: Livestream options, more - CBS News",
+                "description": "How to watch today's Phoenix Suns vs. Minnesota Timberwolves NBA Playoff game: Livestream options, more  CBS News",
+                "published date": "Sat, 20 Apr 2024 11:00:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRvZGF5cy1waG9lbml4LXN1bnMtdnMtbWlubmVzb3RhLXRpbWJlcndvbHZlcy1uYmEtcGxheW9mZi1nYW1lL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
@@ -286,16 +286,6 @@
                 }
             },
             {
-                "title": "Timberwolves play Suns in first round of playoffs: What you need to know - CBS News",
-                "description": "Timberwolves play Suns in first round of playoffs: What you need to know  CBS News",
-                "published date": "Thu, 18 Apr 2024 17:10:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3RpbWJlcndvbHZlcy1zdW5zLXBsYXlvZmZzLXdoYXQteW91LW5lZWQtdG8ta25vdy_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbWlubmVzb3RhL25ld3MvdGltYmVyd29sdmVzLXN1bnMtcGxheW9mZnMtd2hhdC15b3UtbmVlZC10by1rbm93Lw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
                 "title": "Timberwolves 120, Suns 95: Anthony Edwards explodes for 33 points - Star Tribune",
                 "description": "Timberwolves 120, Suns 95: Anthony Edwards explodes for 33 points  Star Tribune",
                 "published date": "Sat, 20 Apr 2024 23:03:45 GMT",
@@ -303,6 +293,16 @@
                 "publisher": {
                     "href": "https://www.startribune.com",
                     "title": "Star Tribune"
+                }
+            },
+            {
+                "title": "Did the Timberwolves rope-a-dope the Suns in regular season finale? - Sports Illustrated",
+                "description": "Did the Timberwolves rope-a-dope the Suns in regular season finale?  Sports Illustrated",
+                "published date": "Thu, 18 Apr 2024 15:41:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEvdGltYmVyd29sdmVzL25ld3MvZGlkLXRoZS10aW1iZXJ3b2x2ZXMtcm9wZS1hLWRvcGUtdGhlLXN1bnMtaW4tcmVndWxhci1zZWFzb24tZmluYWxl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
                 }
             },
             {
@@ -319,7 +319,7 @@
     },
     {
         "name": "Cavs",
-        "summary": "The Cleveland Cavaliers are set to face the Orlando Magic in the first round of the 2023 NBA playoffs. The highly anticipated matchup has sparked widespread predictions and analysis, with experts weighing in on the potential outcome. Despite the Cavaliers' impressive regular season performance, they suffered an embarrassing loss to the Hornets, prompting concerns about their playoff readiness. However, Donovan Mitchell's dominant Game 1 performance against the Magic has reignited optimism, earning praise from NBA fans. As the Cavs prepare for the postseason, rumors of a potential Donovan Mitchell trade continue to swirl, adding an intriguing subplot to their playoff journey.",
+        "summary": "The Cavaliers faced the Magic in Game 1 of the NBA playoffs, with the Cavaliers emerging victorious with a score of 97-83. The game drew significant attention, with fans eager to watch star player Donovan Mitchell in action. Despite the win, some commentators questioned the Cavaliers' readiness for the playoffs after a recent loss to the Hornets. The Cavs' playoff schedule is now available, and the team will continue to be closely watched as they progress in the postseason.",
         "items": [
             {
                 "title": "Cavaliers-Magic: Schedule, how to watch, predictions & analysis - NBA.com",
@@ -332,13 +332,13 @@
                 }
             },
             {
-                "title": "Donovan Mitchell praised by NBA Fans for Dominant Game 1 as Cavs Beat Banchero, Magic - Bleacher Report",
-                "description": "Donovan Mitchell praised by NBA Fans for Dominant Game 1 as Cavs Beat Banchero, Magic  Bleacher Report",
-                "published date": "Sat, 20 Apr 2024 20:11:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2JsZWFjaGVycmVwb3J0LmNvbS9hcnRpY2xlcy8xMDExNzgwNi1kb25vdmFuLW1pdGNoZWxsLXByYWlzZWQtYnktbmJhLWZhbnMtZm9yLWRvbWluYW50LWdhbWUtMS1hcy1jYXZzLWJlYXQtYmFuY2hlcm8tbWFnaWPSAZEBaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTE3ODA2LWRvbm92YW4tbWl0Y2hlbGwtcHJhaXNlZC1ieS1uYmEtZmFucy1mb3ItZG9taW5hbnQtZ2FtZS0xLWFzLWNhdnMtYmVhdC1iYW5jaGVyby1tYWdpYy5hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Cavs score, highlights vs Magic live updates Game 1 NBA playoffs - Akron Beacon Journal",
+                "description": "Cavs score, highlights vs Magic live updates Game 1 NBA playoffs  Akron Beacon Journal",
+                "published date": "Sat, 20 Apr 2024 19:50:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9zcG9ydHMvcHJvL2NhdnMvMjAyNC8wNC8yMC9jYXZzLWdhbWUtdG9kYXktc2NvcmUtY2xldmVsYW5kLWNhdmFsaWVycy1vcmxhbmRvLW1hZ2ljLWdhbWUtMS1uYmEtcGxheW9mZnMvNzMzNzg4MjIwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
+                    "href": "https://www.beaconjournal.com",
+                    "title": "Akron Beacon Journal"
                 }
             },
             {
@@ -352,6 +352,16 @@
                 }
             },
             {
+                "title": "Donovan Mitchell praised by NBA Fans for Dominant Game 1 as Cavs Beat Banchero, Magic - Bleacher Report",
+                "description": "Donovan Mitchell praised by NBA Fans for Dominant Game 1 as Cavs Beat Banchero, Magic  Bleacher Report",
+                "published date": "Sat, 20 Apr 2024 20:11:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2JsZWFjaGVycmVwb3J0LmNvbS9hcnRpY2xlcy8xMDExNzgwNi1kb25vdmFuLW1pdGNoZWxsLXByYWlzZWQtYnktbmJhLWZhbnMtZm9yLWRvbWluYW50LWdhbWUtMS1hcy1jYXZzLWJlYXQtYmFuY2hlcm8tbWFnaWPSAZEBaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTE3ODA2LWRvbm92YW4tbWl0Y2hlbGwtcHJhaXNlZC1ieS1uYmEtZmFucy1mb3ItZG9taW5hbnQtZ2FtZS0xLWFzLWNhdnMtYmVhdC1iYW5jaGVyby1tYWdpYy5hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
+                }
+            },
+            {
                 "title": "Cavaliers vs. Magic: Prediction, pick, game time, TV channel, live stream, how to watch NBA playoffs online - CBS Sports",
                 "description": "Cavaliers vs. Magic: Prediction, pick, game time, TV channel, live stream, how to watch NBA playoffs online  CBS Sports",
                 "published date": "Sat, 20 Apr 2024 16:53:00 GMT",
@@ -362,13 +372,13 @@
                 }
             },
             {
-                "title": "Playoff-bound Cavs rest Donovan Mitchell, others in loss to Hornets - Akron Beacon Journal",
-                "description": "Playoff-bound Cavs rest Donovan Mitchell, others in loss to Hornets  Akron Beacon Journal",
-                "published date": "Sun, 14 Apr 2024 21:56:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9zcG9ydHMvcHJvL2NhdnMvMjAyNC8wNC8xNC9jbGV2ZWxhbmQtY2F2cy1jaGFybG90dGUtaG9ybmV0cy1jYXZzLW5iYS1wbGF5b2Zmcy1kb25vdmFuLW1pdGNoZWxsLWRhcml1cy1nYXJsYW5kLzczMzE5MTQ0MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Cavaliers, Magic Game 1 Instant Reaction: Takeaways From Cleveland's 97-83 Win - Sports Illustrated",
+                "description": "Cavaliers, Magic Game 1 Instant Reaction: Takeaways From Cleveland's 97-83 Win  Sports Illustrated",
+                "published date": "Sat, 20 Apr 2024 19:50:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEvY2F2YWxpZXJzL2dhbWUtb25lLWluc3RhbnQtcmVhY3Rpb24tdGFrZWF3YXlzLWZyb20tY2xldmVsYW5kcy13aW4tb3Zlci1tYWdpY9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.beaconjournal.com",
-                    "title": "Akron Beacon Journal"
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
                 }
             },
             {
@@ -392,40 +402,30 @@
                 }
             },
             {
-                "title": "Cleveland Cavaliers Secure #4 Seed in the 2024 NBA Playoffs - NBA.com",
-                "description": "Cleveland Cavaliers Secure #4 Seed in the 2024 NBA Playoffs  NBA.com",
-                "published date": "Sun, 14 Apr 2024 23:09:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lm5iYS5jb20vY2F2YWxpZXJzL25ld3MvcmVsZWFzZXMtMjAyNC1wbGF5b2Zmcy0yNDA0MTTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
-            },
-            {
-                "title": "How to watch NBA playoffs opening weekend, from Cavs vs Magic to Nuggets vs Lakers - Akron Beacon Journal",
-                "description": "How to watch NBA playoffs opening weekend, from Cavs vs Magic to Nuggets vs Lakers  Akron Beacon Journal",
-                "published date": "Sat, 20 Apr 2024 09:32:46 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9zcG9ydHMvbmJhLzIwMjQvMDQvMjAvaG93LXRvLXdhdGNoLW5iYS1wbGF5b2Zmcy13aGF0LXRpbWUtY2hhbm5lbC1jYXZzLW1hZ2ljLWxha2Vycy1udWdnZXRzLXN1bnMtd29sdmVzLXNpeGVycy1rbmlja3MvNzMzODQ5MDkwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Playoff-bound Cavs rest Donovan Mitchell, others in loss to Hornets - Akron Beacon Journal",
+                "description": "Playoff-bound Cavs rest Donovan Mitchell, others in loss to Hornets  Akron Beacon Journal",
+                "published date": "Sun, 14 Apr 2024 21:56:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9zcG9ydHMvcHJvL2NhdnMvMjAyNC8wNC8xNC9jbGV2ZWxhbmQtY2F2cy1jaGFybG90dGUtaG9ybmV0cy1jYXZzLW5iYS1wbGF5b2Zmcy1kb25vdmFuLW1pdGNoZWxsLWRhcml1cy1nYXJsYW5kLzczMzE5MTQ0MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.beaconjournal.com",
                     "title": "Akron Beacon Journal"
                 }
             },
             {
-                "title": "NBA Exec: Donovan Mitchell Trade Rumors 'Very Real' Ahead of Cavs' 2024 Playoffs - Bleacher Report",
-                "description": "NBA Exec: Donovan Mitchell Trade Rumors 'Very Real' Ahead of Cavs' 2024 Playoffs  Bleacher Report",
-                "published date": "Fri, 19 Apr 2024 20:56:26 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE3NzAwLW5iYS1leGVjLWRvbm92YW4tbWl0Y2hlbGwtdHJhZGUtcnVtb3JzLXZlcnktcmVhbC1haGVhZC1vZi1jYXZzLTIwMjQtcGxheW9mZnPSAYkBaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTE3NzAwLW5iYS1leGVjLWRvbm92YW4tbWl0Y2hlbGwtdHJhZGUtcnVtb3JzLXZlcnktcmVhbC1haGVhZC1vZi1jYXZzLTIwMjQtcGxheW9mZnMuYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Cleveland Cavaliers Official Fan Guide, 2024 NBA Playoffs - NBA.com",
+                "description": "Cleveland Cavaliers Official Fan Guide, 2024 NBA Playoffs  NBA.com",
+                "published date": "Tue, 16 Apr 2024 19:48:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm5iYS5jb20vY2F2YWxpZXJzL25ld3MvcmVsZWFzZXMtMjAyNC1wbGF5b2ZmLWd1aWRlLTI0MDQxNtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
                 }
             }
         ]
     },
     {
         "name": "Arsenal",
-        "summary": "The news articles focus on Arsenal's Premier League title aspirations and recent matches. There is a preview of their upcoming game against Wolves, including how to watch it live. Sporting News provides a schedule of Arsenal's remaining fixtures and a prediction for their points total in the title race. The Athletic analyzes Arsenal's loss to Aston Villa, which damaged their title hopes. NBC Sports reports on manager Mikel Arteta's comments about the title race after the Aston Villa loss, emphasizing that \"the moment is now.\" Arsenal.com provides a transcript of Arteta's pre-Wolves press conference. PCGamesN lists cheat codes for the Arsenal video game. ESPN analyzes Arsenal's 1-0 loss to Bayern Munich in the UEFA Champions League. Tom's Guide offers instructions on how to watch the Wolves vs. Arsenal match live online and on TV.",
+        "summary": "Arsenal's title hopes have been dealt a blow with a 2-0 loss to Aston Villa, giving Manchester City a boost in the title race. The defeat leaves Arsenal's title bid in the balance, as Unai Emery's side must now focus on their remaining fixtures and hope for favorable results from their rivals. Despite the setback, Arsenal's manager, Mikel Arteta, remains confident and believes \"the moment is now\" for his team to challenge for the Premier League title. Arsenal's next match is against Wolves, and they will be hoping to return to winning ways and maintain their position at the top of the table.",
         "items": [
             {
                 "title": "Wolves vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere - CNET",
@@ -448,10 +448,20 @@
                 }
             },
             {
-                "title": "How Arsenal\u2019s Premier League title hopes were dented by Aston Villa\u2019s late show - The Athletic",
-                "description": "How Arsenal\u2019s Premier League title hopes were dented by Aston Villa\u2019s late show  The Athletic",
-                "published date": "Sun, 14 Apr 2024 21:38:13 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdGhlYXRobGV0aWMuY29tL2xpdmUtYmxvZ3MvYXJzZW5hbC1hc3Rvbi12aWxsYS1saXZlLXVwZGF0ZXMtcHJlbWllci1sZWFndWUtc2NvcmUtcmVzdWx0L0ZVd3o3TDZRODQxZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Arsenal's title hopes hit with 2-0 loss to Villa as Man City get boost - Reuters",
+                "description": "Arsenal's title hopes hit with 2-0 loss to Villa as Man City get boost  Reuters",
+                "published date": "Sun, 14 Apr 2024 18:48:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9zb2NjZXIvYXJzZW5hbC1zdWZmZXItMi0wLWxvc3MtdmlsbGEtaGFuZC1tYW4tY2l0eS10aXRsZS1yYWNlLWJvb3N0LTIwMjQtMDQtMTQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.reuters.com",
+                    "title": "Reuters"
+                }
+            },
+            {
+                "title": "The Briefing: Arsenal 0 Aston Villa 2: Unai Emery's side leave Arsenal's title bid in the balance - The Athletic",
+                "description": "The Briefing: Arsenal 0 Aston Villa 2: Unai Emery's side leave Arsenal's title bid in the balance  The Athletic",
+                "published date": "Sun, 14 Apr 2024 18:45:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0MDkwNTgvMjAyNC8wNC8xNC9hcnNlbmFsLWFzdG9uLXZpbGxhLXJlc3VsdC1wcmVtaWVyLWxlYWd1ZS1hbmFseXNpcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://theathletic.com",
                     "title": "The Athletic"
@@ -478,13 +488,13 @@
                 }
             },
             {
-                "title": "Bayern - Arsenal: times, how to watch on TV, stream online | UEFA Champions League - AS USA",
-                "description": "Bayern - Arsenal: times, how to watch on TV, stream online | UEFA Champions League  AS USA",
-                "published date": "Wed, 17 Apr 2024 19:01:10 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vZW4uYXMuY29tL3NvY2Nlci9iYXllcm4tYXJzZW5hbC10aW1lcy1ob3ctdG8td2F0Y2gtb24tdHYtc3RyZWFtLW9ubGluZS11ZWZhLWNoYW1waW9ucy1sZWFndWUtbi_SAXZodHRwczovL2VuLmFzLmNvbS9zb2NjZXIvYmF5ZXJuLWFyc2VuYWwtdGltZXMtaG93LXRvLXdhdGNoLW9uLXR2LXN0cmVhbS1vbmxpbmUtdWVmYS1jaGFtcGlvbnMtbGVhZ3VlLW4vP291dHB1dFR5cGU9YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Wolves 0-2 Arsenal: Leandro Trossard and Martin Odegaard fire Mikel Arteta's side back to top of Premier League - Eurosport COM",
+                "description": "Wolves 0-2 Arsenal: Leandro Trossard and Martin Odegaard fire Mikel Arteta's side back to top of Premier League  Eurosport COM",
+                "published date": "Sat, 20 Apr 2024 21:37:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmV1cm9zcG9ydC5jb20vZm9vdGJhbGwvcHJlbWllci1sZWFndWUvMjAyMy0yMDI0L3dvbHZlcy12LWFyc2VuYWwtcHJlbWllci1sZWFndWUtbGl2ZV9zdG8xMDEwODAzNC9zdG9yeS5zaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://en.as.com",
-                    "title": "AS USA"
+                    "href": "https://www.eurosport.com",
+                    "title": "Eurosport COM"
                 }
             },
             {
@@ -498,16 +508,6 @@
                 }
             },
             {
-                "title": "Arsenal vs Aston Villa 0-2: Premier League \u2013 as it happened - Al Jazeera English",
-                "description": "Arsenal vs Aston Villa 0-2: Premier League \u2013 as it happened  Al Jazeera English",
-                "published date": "Sun, 14 Apr 2024 20:17:35 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzL2xpdmVibG9nLzIwMjQvNC8xNC9saXZlLWFyc2VuYWwtdnMtYXN0b24tdmlsbGEtcHJlbWllci1sZWFndWXSAWJodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9zcG9ydHMvbGl2ZWJsb2cvMjAyNC80LzE0L2xpdmUtYXJzZW5hbC12cy1hc3Rvbi12aWxsYS1wcmVtaWVyLWxlYWd1ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
-                }
-            },
-            {
                 "title": "Arsenal codes April 2024 - PCGamesN",
                 "description": "Arsenal codes April 2024  PCGamesN",
                 "published date": "Mon, 15 Apr 2024 20:05:21 GMT",
@@ -518,20 +518,20 @@
                 }
             },
             {
-                "title": "Wolves vs Arsenal live stream: How to watch Premier League game online and on TV, team news - Tom's Guide",
-                "description": "Wolves vs Arsenal live stream: How to watch Premier League game online and on TV, team news  Tom's Guide",
-                "published date": "Sat, 20 Apr 2024 17:49:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRvbXNndWlkZS5jb20vZW50ZXJ0YWlubWVudC9zcG9ydHMvd2F0Y2gtd29sdmVzLXZzLWFyc2VuYWwtbGl2ZS1zdHJlYW0tcHJlbWllci1sZWFndWUtMjMtMjTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "How Bayern Munich beat Arsenal 1-0 to advance to Champions League semi-finals - The Athletic",
+                "description": "How Bayern Munich beat Arsenal 1-0 to advance to Champions League semi-finals  The Athletic",
+                "published date": "Wed, 17 Apr 2024 22:40:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlYXRobGV0aWMuY29tL2xpdmUtYmxvZ3MvYmF5ZXJuLW11bmljaC1hcnNlbmFsLWxpdmUtdXBkYXRlcy1jaGFtcGlvbnMtbGVhZ3VlLXNjb3JlLXJlc3VsdC8yOW15WEk5NlJ2dVEv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.tomsguide.com",
-                    "title": "Tom's Guide"
+                    "href": "https://theathletic.com",
+                    "title": "The Athletic"
                 }
             }
         ]
     },
     {
         "name": "Bruins",
-        "summary": "Will John Forslund leave the Seattle Kraken for the Boston Bruins? The Bruins are set to face the Toronto Maple Leafs in the first round of the Stanley Cup Playoffs, with Game 1 scheduled for Saturday. The Bruins clinched the Atlantic Division title, but some experts believe it may not be the best outcome for their playoff hopes. The team has been preparing for the playoffs, and Jeremy Swayman's performance in Game 1 against the Maple Leafs has excited fans. Despite their strong regular season performance, the Bruins still have many scenarios to consider for their playoff run.",
+        "summary": "The Boston Bruins are making headlines as they navigate the NHL playoffs. Speculation swirls around the future of announcer John Forslund, who may be eyeing a move to the Bruins. Meanwhile, longtime Bruins broadcaster Jack Edwards has announced his retirement at the end of the season. On the ice, the Bruins opened the playoffs with a 5-1 victory over the Maple Leafs, but they suffered a setback in their series against the Capitals, losing 2-0. Despite this, the Bruins are still in contention for the Atlantic Division title, but some experts believe it may not be the best strategic move for their playoff hopes. The team's playoff schedule has been announced, with the first-round series against the Maple Leafs set to begin on Saturday. Bruins goalie Jeremy Swayman has shown strong performance in the playoffs, while fellow player Auston Matthews has impressed for the Maple Leafs. Overall, the Bruins are facing both challenges and opportunities as they navigate the playoffs and prepare for the future.",
         "items": [
             {
                 "title": "Will John Forslund leave for the Boston Bruins? - Davy Jones Locker Room",
@@ -544,33 +544,33 @@
                 }
             },
             {
-                "title": "Need to Know: Round 1 | Bruins-Maple Leafs | Boston Bruins - NHL.com",
-                "description": "Need to Know: Round 1 | Bruins-Maple Leafs | Boston Bruins  NHL.com",
-                "published date": "Sun, 21 Apr 2024 05:57:10 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm5obC5jb20vYnJ1aW5zL25ld3MvbmVlZC10by1rbm93LXJvdW5kLTEtYnJ1aW5zLW1hcGxlLWxlYWZz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Jack Edwards, Voice of the Boston Bruins, Announces Retirement at Conclusion of 2023-24 Season | Boston Bruins - NHL.com",
+                "description": "Jack Edwards, Voice of the Boston Bruins, Announces Retirement at Conclusion of 2023-24 Season | Boston Bruins  NHL.com",
+                "published date": "Tue, 16 Apr 2024 21:02:42 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5obC5jb20vYnJ1aW5zL25ld3MvamFjay1lZHdhcmRzLXZvaWNlLW9mLXRoZS1ib3N0b24tYnJ1aW5zLWFubm91bmNlcy1yZXRpcmVtZW50LWF0LWNvbmNsdXNpb24tb2YtMjAyMy0yNC1zZWFzb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nhl.com",
                     "title": "NHL.com"
                 }
             },
             {
-                "title": "Bruins-Leafs schedule announced: 1st-round series to begin on Saturday - Boston.com",
-                "description": "Bruins-Leafs schedule announced: 1st-round series to begin on Saturday  Boston.com",
-                "published date": "Fri, 19 Apr 2024 12:53:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vc3BvcnRzL2Jvc3Rvbi1icnVpbnMvMjAyNC8wNC8xOS9icnVpbnMtbGVhZnMtc2NoZWR1bGUtYW5ub3VuY2VkLTFzdC1yb3VuZC1zZXJpZXMtdG8tYmVnaW4tb24tc2F0dXJkYXkv0gGDAWh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vc3BvcnRzL2Jvc3Rvbi1icnVpbnMvMjAyNC8wNC8xOS9icnVpbnMtbGVhZnMtc2NoZWR1bGUtYW5ub3VuY2VkLTFzdC1yb3VuZC1zZXJpZXMtdG8tYmVnaW4tb24tc2F0dXJkYXkvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.boston.com",
-                    "title": "Boston.com"
-                }
-            },
-            {
                 "title": "Bruins romp to 5-1 win to open playoffs against Maple Leafs - NBC Boston",
                 "description": "Bruins romp to 5-1 win to open playoffs against Maple Leafs  NBC Boston",
-                "published date": "Sun, 21 Apr 2024 03:22:54 GMT",
+                "published date": "Sun, 21 Apr 2024 02:55:37 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9zcG9ydHMvYm9zdG9uLWJydWlucy1wbGF5b2Zmcy1nYW1lLTEvMzM0NTEwOC_SAVJodHRwczovL3d3dy5uYmNib3N0b24uY29tL25ld3Mvc3BvcnRzL2Jvc3Rvbi1icnVpbnMtcGxheW9mZnMtZ2FtZS0xLzMzNDUxMDgvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nbcboston.com",
                     "title": "NBC Boston"
+                }
+            },
+            {
+                "title": "Capitals beat the Bruins 2-0 to move one win away from making the playoffs - The Associated Press",
+                "description": "Capitals beat the Bruins 2-0 to move one win away from making the playoffs  The Associated Press",
+                "published date": "Tue, 16 Apr 2024 02:19:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JydWlucy1jYXBpdGFscy1zY29yZS0wZDIzNjA1MTY0ZDNlYjU4NTYzNTkzNjExM2VhYmIzYtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
@@ -584,13 +584,13 @@
                 }
             },
             {
-                "title": "Stanley Cup Playoffs picks, odds: Expert predictions for Maple Leafs vs. Bruins and Hurricanes vs. Islanders - The Athletic",
-                "description": "Stanley Cup Playoffs picks, odds: Expert predictions for Maple Leafs vs. Bruins and Hurricanes vs. Islanders  The Athletic",
-                "published date": "Sat, 20 Apr 2024 04:01:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0MjcxOTkvMjAyNC8wNC8yMC9uaGwtcGxheW9mZnMtcGlja3MtbGVhZnMtYnJ1aW5zLWh1cnJpY2FuZXMtaXNsYW5kZXJzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Bruins-Leafs schedule announced: 1st-round series to begin on Saturday - Boston.com",
+                "description": "Bruins-Leafs schedule announced: 1st-round series to begin on Saturday  Boston.com",
+                "published date": "Fri, 19 Apr 2024 12:53:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vc3BvcnRzL2Jvc3Rvbi1icnVpbnMvMjAyNC8wNC8xOS9icnVpbnMtbGVhZnMtc2NoZWR1bGUtYW5ub3VuY2VkLTFzdC1yb3VuZC1zZXJpZXMtdG8tYmVnaW4tb24tc2F0dXJkYXkv0gGDAWh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vc3BvcnRzL2Jvc3Rvbi1icnVpbnMvMjAyNC8wNC8xOS9icnVpbnMtbGVhZnMtc2NoZWR1bGUtYW5ub3VuY2VkLTFzdC1yb3VuZC1zZXJpZXMtdG8tYmVnaW4tb24tc2F0dXJkYXkvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
+                    "href": "https://www.boston.com",
+                    "title": "Boston.com"
                 }
             },
             {
@@ -604,6 +604,26 @@
                 }
             },
             {
+                "title": "Bruins' Jeremy Swayman takes a big step toward playoff form - The Athletic",
+                "description": "Bruins' Jeremy Swayman takes a big step toward playoff form  The Athletic",
+                "published date": "Tue, 16 Apr 2024 03:31:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0MTgzOTIvMjAyNC8wNC8xNS9icnVpbnMtcGxheW9mZnMtamVyZW15LXN3YXltYW4v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://theathletic.com",
+                    "title": "The Athletic"
+                }
+            },
+            {
+                "title": "Boston Bruins broadcaster Jack Edwards to retire at end of season - WCVB Boston",
+                "description": "Boston Bruins broadcaster Jack Edwards to retire at end of season  WCVB Boston",
+                "published date": "Tue, 16 Apr 2024 22:34:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LndjdmIuY29tL2FydGljbGUvamFjay1lZHdhcmRzLWJvc3Rvbi1icnVpbnMtcmV0aXJlbWVudC82MDUxMzI4MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wcvb.com",
+                    "title": "WCVB Boston"
+                }
+            },
+            {
                 "title": "Jeremy Swayman, Bruins Excite NHL Fans in Game 1 Win vs. Auston Matthews, Maple Leafs - Bleacher Report",
                 "description": "Jeremy Swayman, Bruins Excite NHL Fans in Game 1 Win vs. Auston Matthews, Maple Leafs  Bleacher Report",
                 "published date": "Sun, 21 Apr 2024 03:10:17 GMT",
@@ -612,138 +632,12 @@
                     "href": "https://bleacherreport.com",
                     "title": "Bleacher Report"
                 }
-            },
-            {
-                "title": "Bruins Begin Preparations for Stanley Cup Playoffs | Boston Bruins - NHL.com",
-                "description": "Bruins Begin Preparations for Stanley Cup Playoffs | Boston Bruins  NHL.com",
-                "published date": "Thu, 18 Apr 2024 23:40:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5obC5jb20vYnJ1aW5zL25ld3MvYnJ1aW5zLWJlZ2luLXByZXBhcmF0aW9ucy1mb3Itc3RhbmxleS1jdXAtcGxheW9mZnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nhl.com",
-                    "title": "NHL.com"
-                }
-            },
-            {
-                "title": "Who will Bruins play in first round of Stanley Cup Playoffs? They\u2019ll find out Tuesday. - Boston.com",
-                "description": "Who will Bruins play in first round of Stanley Cup Playoffs? They\u2019ll find out Tuesday.  Boston.com",
-                "published date": "Tue, 16 Apr 2024 10:18:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5ib3N0b24uY29tL3Nwb3J0cy9ib3N0b24tYnJ1aW5zLzIwMjQvMDQvMTYvYm9zdG9uLWJydWlucy1zdGFubGV5LWN1cC1wbGF5b2Zmcy1tYXRjaHVwcy1uaGwtaG9ja2V5LW1hcGxlLWxlYWZzLXBhbnRoZXJzLWxpZ2h0bmluZy_SAZMBaHR0cHM6Ly93d3cuYm9zdG9uLmNvbS9zcG9ydHMvYm9zdG9uLWJydWlucy8yMDI0LzA0LzE2L2Jvc3Rvbi1icnVpbnMtc3RhbmxleS1jdXAtcGxheW9mZnMtbWF0Y2h1cHMtbmhsLWhvY2tleS1tYXBsZS1sZWFmcy1wYW50aGVycy1saWdodG5pbmcvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.boston.com",
-                    "title": "Boston.com"
-                }
-            }
-        ]
-    },
-    {
-        "name": "LeBron James",
-        "summary": "In recent news, LeBron James has asserted his status as the \"G.O.A.T.\" (Greatest of All Time) in response to his son's playful jibe calling him \"trash.\" Moreover, renowned sports journalist Skip Bayless argues that James surpasses Michael Jordan as the GOAT. Meanwhile, James has been named to Team USA's squad for the 2024 Paris Olympics. Despite his injury status for Game 1 against the Denver Nuggets, James and the Lakers still managed to secure a playoff rematch. Meanwhile, behind-the-scenes footage has emerged revealing that the New York Knicks attempted to recruit James in 2010 using a presentation featuring \"The Sopranos,\" Donald Trump, and more. James has also made headlines due to his tattoo being used in the video game \"NBA2K,\" leading to a legal battle. Additionally, experts predict that the upcoming NBA playoffs will present significant challenges for both James and Stephen Curry. Lastly, James and JJ Redick have launched a new podcast that promises to elevate basketball discourse.",
-        "items": [
-            {
-                "title": "LeBron James says he's the 'G.O.A.T.' after son calls him 'trash' - Los Angeles Times",
-                "description": "LeBron James says he's the 'G.O.A.T.' after son calls him 'trash'  Los Angeles Times",
-                "published date": "Fri, 19 Apr 2024 21:03:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL3Nwb3J0cy9zdG9yeS8yMDI0LTA0LTE5L2xlYnJvbi1qYW1lcy1zb24tYnJ5Y2UtdmlkZW8tdHJhc2gtdGFsay1nb2F00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
-                }
-            },
-            {
-                "title": "Here's why LeBron James, not Michael Jordan, is the GOAT - Salon",
-                "description": "Here's why LeBron James, not Michael Jordan, is the GOAT  Salon",
-                "published date": "Sat, 20 Apr 2024 17:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA0LzIwL2xlYnJvbi1qYW1lcy1uYmEtbWljaGFlbC1qb3JkYW4tZ29hdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.salon.com",
-                    "title": "Salon"
-                }
-            },
-            {
-                "title": "LeBron James headlines Team USA\u2019s 2024 Paris Olympics men\u2019s basketball squad - CNN",
-                "description": "LeBron James headlines Team USA\u2019s 2024 Paris Olympics men\u2019s basketball squad  CNN",
-                "published date": "Wed, 17 Apr 2024 12:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8xNy9zcG9ydC9sZWJyb24tamFtZXMtaGVhZGxpbmVzLXVzYS0yMDI0LXBhcmlzLW9seW1waWNzLW1lbnMtYmFza2V0YmFsbC1zcXVhZC1zcHQtaW50bC9pbmRleC5odG1s0gF2aHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNC8xNy9zcG9ydC9sZWJyb24tamFtZXMtaGVhZGxpbmVzLXVzYS0yMDI0LXBhcmlzLW9seW1waWNzLW1lbnMtYmFza2V0YmFsbC1zcXVhZC1zcHQtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            },
-            {
-                "title": "LeBron James and the Lakers beat Pelicans in play-in, earn a playoff rematch with the Nuggets - The Associated Press",
-                "description": "LeBron James and the Lakers beat Pelicans in play-in, earn a playoff rematch with the Nuggets  The Associated Press",
-                "published date": "Wed, 17 Apr 2024 05:02:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2xha2Vycy1wZWxpY2Fucy1zY29yZS01MTJiMzFkOTMwMmMyNTExODQyZjhkZTdhYTY4NzI1ZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "James Gandolfini Reprised Tony Soprano in 2010 to Help Recruit LeBron James to the Knicks \u2014 the Video Footage Has Debuted Online After 14 Years - Variety",
-                "description": "James Gandolfini Reprised Tony Soprano in 2010 to Help Recruit LeBron James to the Knicks \u2014 the Video Footage Has Debuted Online After 14 Years  Variety",
-                "published date": "Tue, 16 Apr 2024 21:35:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2phbWVzLWdhbmRvbGZpbmktdG9ueS1zb3ByYW5vLWxlYnJvbi1qYW1lcy12aWRlby0xMjM1OTcyOTU4L9IBYWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2phbWVzLWdhbmRvbGZpbmktdG9ueS1zb3ByYW5vLWxlYnJvbi1qYW1lcy12aWRlby0xMjM1OTcyOTU4L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "LeBron James' Injury Status for Game 1 vs. Denver Nuggets - Sports Illustrated",
-                "description": "LeBron James' Injury Status for Game 1 vs. Denver Nuggets  Sports Illustrated",
-                "published date": "Sat, 20 Apr 2024 18:59:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEvbnVnZ2V0cy9sZWJyb24tamFtZXMtaW5qdXJ5LXN0YXR1cy1nYW1lLTEtbGFrZXJzLW51Z2dldHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Knicks' alleged 2010 pitch to LeBron James featured \u2018The Sopranos,' Donald Trump and more - NBC New York",
-                "description": "Knicks' alleged 2010 pitch to LeBron James featured \u2018The Sopranos,' Donald Trump and more  NBC New York",
-                "published date": "Tue, 16 Apr 2024 20:05:05 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5uYmNuZXd5b3JrLmNvbS9uZXdzL3Nwb3J0cy9uYmEva25pY2tzLWFsbGVnZWQtMjAxMC1waXRjaC10by1sZWJyb24tamFtZXMtZmVhdHVyZWQtdGhlLXNvcHJhbm9zLWRvbmFsZC10cnVtcC1hbmQtbW9yZS81MzI1ODE2L9IBjwFodHRwczovL3d3dy5uYmNuZXd5b3JrLmNvbS9uZXdzL3Nwb3J0cy9uYmEva25pY2tzLWFsbGVnZWQtMjAxMC1waXRjaC10by1sZWJyb24tamFtZXMtZmVhdHVyZWQtdGhlLXNvcHJhbm9zLWRvbmFsZC10cnVtcC1hbmQtbW9yZS81MzI1ODE2Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnewyork.com",
-                    "title": "NBC New York"
-                }
-            },
-            {
-                "title": "LeBron James\u2019 ink heads to court in trial pitting Cleveland Heights tattoo artist against makers of \u2018NBA2K\u2019 v - cleveland.com",
-                "description": "LeBron James\u2019 ink heads to court in trial pitting Cleveland Heights tattoo artist against makers of \u2018NBA2K\u2019 v  cleveland.com",
-                "published date": "Mon, 15 Apr 2024 09:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5jbGV2ZWxhbmQuY29tL2NvdXJ0LWp1c3RpY2UvMjAyNC8wNC9sZWJyb24tamFtZXMtaW5rLWhlYWRzLXRvLWNvdXJ0LWluLXRyaWFsLXBpdHRpbmctY2xldmVsYW5kLWhlaWdodHMtdGF0dG9vLWFydGlzdC1hZ2FpbnN0LW1ha2Vycy1vZi1uYmEyay12aWRlby1nYW1lcy5odG1s0gG4AWh0dHBzOi8vd3d3LmNsZXZlbGFuZC5jb20vY291cnQtanVzdGljZS8yMDI0LzA0L2xlYnJvbi1qYW1lcy1pbmstaGVhZHMtdG8tY291cnQtaW4tdHJpYWwtcGl0dGluZy1jbGV2ZWxhbmQtaGVpZ2h0cy10YXR0b28tYXJ0aXN0LWFnYWluc3QtbWFrZXJzLW9mLW5iYTJrLXZpZGVvLWdhbWVzLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cleveland.com",
-                    "title": "cleveland.com"
-                }
-            },
-            {
-                "title": "NBA playoffs 2024 -- Never been harder for LeBron, Steph - ESPN",
-                "description": "NBA playoffs 2024 -- Never been harder for LeBron, Steph  ESPN",
-                "published date": "Tue, 16 Apr 2024 14:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzM5OTUwNDExL25iYS1wbGF5b2Zmcy0yMDI0LW5ldmVyLWhhcmRlci1sZWJyb24tc3RlcGjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "LeBron James and JJ Redick's new podcast takes hoops discourse to new level - The Athletic",
-                "description": "LeBron James and JJ Redick's new podcast takes hoops discourse to new level  The Athletic",
-                "published date": "Tue, 16 Apr 2024 13:13:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0MTE3OTIvMjAyNC8wNC8xNi9sZWJyb24tamFtZXMtamotcmVkaWNrLW1pbmQtdGhlLWdhbWUtcG9kY2FzdC1iYXNrZXRiYWxsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
-                }
             }
         ]
     },
     {
         "name": "Chicago Bulls",
-        "summary": "Following their 112-91 win over the Bulls in the Eastern play-in finale, the Miami Heat advanced to play the Boston Celtics. The Bulls, who lost to the Atlanta Hawks in the Play-In Tournament, are considered to be stuck in a cycle of mediocrity. The Hawks and Bulls faced off in the Play-In Tournament with 15 ESPN analysts predicting a Bulls victory. The Heat's win over the Bulls is available to watch live on various channels and streaming platforms, including Business Insider and Yahoo Sports. Bulls players Coby White and DeMar DeRozan received praise from fans for their performance in the Play-In Game against the Hawks.",
+        "summary": "In the NBA Eastern Conference Play-In Tournament, the Miami Heat clinched a playoff berth by defeating the Chicago Bulls 112-91. The Bulls lost their previous Play-In game against the Atlanta Hawks. Despite the loss, Bulls players Coby White and DeMar DeRozan received praise for their performance. Injuries were also a concern for both the Bulls and Heat heading into the Heat's series against the Boston Celtics. The media discussed the Bulls' struggles to achieve sustained success and their upcoming matchup against the Hawks, with various predictions and betting odds being reported.",
         "items": [
             {
                 "title": "The Heat are headed to Boston after ousting the Bulls 112-91 in East play-in finale - The Associated Press",
@@ -786,16 +680,6 @@
                 }
             },
             {
-                "title": "All 15 ESPN Analysts Pick Chicago Bulls To Defeat Atlanta Hawks In Tomorrow's Play-In Game - Sports Illustrated",
-                "description": "All 15 ESPN Analysts Pick Chicago Bulls To Defeat Atlanta Hawks In Tomorrow's Play-In Game  Sports Illustrated",
-                "published date": "Tue, 16 Apr 2024 22:40:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEvaGF3a3MvbmV3cy9hbGwtMTUtZXNwbi1hbmFseXN0cy1waWNrLWNoaWNhZ28tYnVsbHMtdG8tZGVmZWF0LWF0bGFudGEtaGF3a3MtaW4tdG9tb3Jyb3dzLXBsYXktaW4tZ2FtZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
                 "title": "Atlanta Hawks vs Chicago Bulls Apr 17, 2024 Game Summary - NBA.com",
                 "description": "Atlanta Hawks vs Chicago Bulls Apr 17, 2024 Game Summary  NBA.com",
                 "published date": "Thu, 18 Apr 2024 05:37:30 GMT",
@@ -803,26 +687,6 @@
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
-                }
-            },
-            {
-                "title": "Atlanta Hawks vs. Chicago Bulls: Predictions, picks and odds for NBA Play-in Tournament - USA TODAY",
-                "description": "Atlanta Hawks vs. Chicago Bulls: Predictions, picks and odds for NBA Play-in Tournament  USA TODAY",
-                "published date": "Wed, 17 Apr 2024 10:17:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL3BsYXlvZmZzLzIwMjQvMDQvMTcvaGF3a3MtdnMtYnVsbHMtcHJlZGljdGlvbnMtb2Rkcy83MzM0NDg1ODAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Where to watch Miami Heat vs. Chicago Bulls: Live stream NBA play-in tournament - Business Insider",
-                "description": "Where to watch Miami Heat vs. Chicago Bulls: Live stream NBA play-in tournament  Business Insider",
-                "published date": "Fri, 19 Apr 2024 20:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZ3VpZGVzL3N0cmVhbWluZy93aGVyZS10by13YXRjaC1taWFtaS1oZWF0LXZzLWNoaWNhZ28tYnVsbHMtbmJhLXBsYXktaW4tMjAyNNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.businessinsider.com",
-                    "title": "Business Insider"
                 }
             },
             {
@@ -836,6 +700,26 @@
                 }
             },
             {
+                "title": "Atlanta Hawks vs. Chicago Bulls: Predictions, picks and odds for NBA Play-in Tournament - USA TODAY",
+                "description": "Atlanta Hawks vs. Chicago Bulls: Predictions, picks and odds for NBA Play-in Tournament  USA TODAY",
+                "published date": "Wed, 17 Apr 2024 10:17:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL3BsYXlvZmZzLzIwMjQvMDQvMTcvaGF3a3MtdnMtYnVsbHMtcHJlZGljdGlvbnMtb2Rkcy83MzM0NDg1ODAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Chicago Bulls And Miami Heat Injury Reports - Sports Illustrated",
+                "description": "Chicago Bulls And Miami Heat Injury Reports  Sports Illustrated",
+                "published date": "Fri, 19 Apr 2024 20:50:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vbmJhL2Zhc3RicmVhay9uZXdzL2NoaWNhZ28tYnVsbHMtYW5kLW1pYW1pLWhlYXQtaW5qdXJ5LXJlcG9ydHMtcGxheS1pbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
                 "title": "Bulls' Coby White, DeMar DeRozan Applauded by NBA Fans for Play-In Game Win vs. Hawks - Bleacher Report",
                 "description": "Bulls' Coby White, DeMar DeRozan Applauded by NBA Fans for Play-In Game Win vs. Hawks  Bleacher Report",
                 "published date": "Thu, 18 Apr 2024 04:11:36 GMT",
@@ -844,12 +728,22 @@
                     "href": "https://bleacherreport.com",
                     "title": "Bleacher Report"
                 }
+            },
+            {
+                "title": "Bulls-Hawks: Who has edge in Play-In matchup? - NBC Sports Chicago",
+                "description": "Bulls-Hawks: Who has edge in Play-In matchup?  NBC Sports Chicago",
+                "published date": "Wed, 17 Apr 2024 13:14:07 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5iY3Nwb3J0c2NoaWNhZ28uY29tL25iYS9jaGljYWdvLWJ1bGxzL2J1bGxzLWFuYWx5c2lzL2J1bGxzLWhhd2tzLXdoby1oYXMtZWRnZS1pbi1wbGF5LWluLW1hdGNodXAvNTU1MzQ3L9IBe2h0dHBzOi8vd3d3Lm5iY3Nwb3J0c2NoaWNhZ28uY29tL25iYS9jaGljYWdvLWJ1bGxzL2J1bGxzLWFuYWx5c2lzL2J1bGxzLWhhd2tzLXdoby1oYXMtZWRnZS1pbi1wbGF5LWluLW1hdGNodXAvNTU1MzQ3Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcsportschicago.com",
+                    "title": "NBC Sports Chicago"
+                }
             }
         ]
     },
     {
         "name": "TikTok ban",
-        "summary": "Congress is actively considering banning TikTok in the United States due to concerns about its potential ties to the Chinese government and its access to sensitive user data. The House of Representatives has passed a bill that would prohibit TikTok's operation in the country unless it is sold to a US company. While the bill faces an uncertain fate in the Senate, recent votes suggest an increased likelihood of passage. However, experts caution that even if a ban is enacted, it could take time to implement and may face legal challenges. Additionally, some lawmakers have expressed concerns that a ban could limit free speech and economic growth.",
+        "summary": "Congress is considering legislation that could ban TikTok, the popular video-sharing app. The House of Representatives has already voted in favor of a bill that would ban TikTok or require it to be sold to an American company. The bill now moves to the Senate, where it faces an uncertain future. The Biden administration has also expressed concerns about TikTok, citing national security risks. TikTok has denied these allegations, and says it does not share user data with the Chinese government. If the bill passes the Senate and is signed into law, it would be a major escalation in the ongoing tech war between the United States and China.",
         "items": [
             {
                 "title": "Can Congress actually ban TikTok? - Vox.com",
@@ -859,16 +753,6 @@
                 "publisher": {
                     "href": "https://www.vox.com",
                     "title": "Vox.com"
-                }
-            },
-            {
-                "title": "Bill to ban TikTok or require its sale passes House - NPR",
-                "description": "Bill to ban TikTok or require its sale passes House  NPR",
-                "published date": "Sat, 20 Apr 2024 17:29:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8yMC8xMjQ1NTk0NTg5L2hvdXNlLWFwcHJvdmVzLWJpbGwtdGlrdG9rLWJhbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.npr.org",
-                    "title": "NPR"
                 }
             },
             {
@@ -882,13 +766,13 @@
                 }
             },
             {
-                "title": "Potential TikTok ban bill is more likely to pass. Here\u2019s what to expect - The Washington Post",
-                "description": "Potential TikTok ban bill is more likely to pass. Here\u2019s what to expect  The Washington Post",
-                "published date": "Fri, 19 Apr 2024 14:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDQvMTkvdGlrdG9rLWJhbi1iaWxsLWNvbmdyZXNzLWZvcmVpZ24tYWlkLXZvdGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Bill to ban TikTok or require its sale passes House - NPR",
+                "description": "Bill to ban TikTok or require its sale passes House  NPR",
+                "published date": "Sat, 20 Apr 2024 17:29:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8yMC8xMjQ1NTk0NTg5L2hvdXNlLWFwcHJvdmVzLWJpbGwtdGlrdG9rLWJhbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
+                    "href": "https://www.npr.org",
+                    "title": "NPR"
                 }
             },
             {
@@ -912,23 +796,23 @@
                 }
             },
             {
-                "title": "A TikTok ban is wrapped in Speaker Johnson's foreign aid package: What happens next? - ABC News",
-                "description": "A TikTok ban is wrapped in Speaker Johnson's foreign aid package: What happens next?  ABC News",
-                "published date": "Thu, 18 Apr 2024 22:03:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvdGlrdG9rLWJhbi1ob3VzZS1zcGVha2VyLWpvaG5zb24tZm9yZWlnbi1haWQtcGFja2FnZS13aGF0cy1uZXh0L3N0b3J5P2lkPTEwOTM5MTMzNNIBdmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3Rpa3Rvay1iYW4taG91c2Utc3BlYWtlci1qb2huc29uLWZvcmVpZ24tYWlkLXBhY2thZ2Utd2hhdHMtbmV4dC9zdG9yeT9pZD0xMDkzOTEzMzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
-                }
-            },
-            {
-                "title": "House passes legislation that could ban TikTok in the US amid high-stakes vote on foreign aid - CNN",
-                "description": "House passes legislation that could ban TikTok in the US amid high-stakes vote on foreign aid  CNN",
-                "published date": "Sat, 20 Apr 2024 17:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jbm4uY29tLzIwMjQvMDQvMjAvdGVjaC9ob3VzZS1wYXNzZXMtbGVnaXNsYXRpb24tdGhhdC1jb3VsZC1iYW4tdGlrdG9rLWluLXRoZS11cy1hbWlkLWhpZ2gtc3Rha2VzLXZvdGUtb24tZm9yZWlnbi1haWQvaW5kZXguaHRtbNIBhQFodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA0LzIwL3RlY2gvaG91c2UtcGFzc2VzLWxlZ2lzbGF0aW9uLXRoYXQtY291bGQtYmFuLXRpa3Rvay1pbi10aGUtdXMtYW1pZC1oaWdoLXN0YWtlcy12b3RlLW9uLWZvcmVpZ24tYWlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "The House just voted on a potential TikTok ban (again). Now what? - CNN",
+                "description": "The House just voted on a potential TikTok ban (again). Now what?  CNN",
+                "published date": "Sun, 21 Apr 2024 01:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8yMC90ZWNoL3Rpa3Rvay1iYW4tZXhwbGFpbmVkL2luZGV4Lmh0bWzSATxodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA0LzIwL3RlY2gvdGlrdG9rLWJhbi1leHBsYWluZWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cnn.com",
                     "title": "CNN"
+                }
+            },
+            {
+                "title": "Potential TikTok ban bill is more likely to pass. Here\u2019s what to expect - The Washington Post",
+                "description": "Potential TikTok ban bill is more likely to pass. Here\u2019s what to expect  The Washington Post",
+                "published date": "Fri, 19 Apr 2024 14:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDQvMTkvdGlrdG9rLWJhbi1iaWxsLWNvbmdyZXNzLWZvcmVpZ24tYWlkLXZvdGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.washingtonpost.com",
+                    "title": "The Washington Post"
                 }
             },
             {
@@ -950,12 +834,22 @@
                     "href": "https://www.barrons.com",
                     "title": "Barron's"
                 }
+            },
+            {
+                "title": "U.S.-China Internet War Intensifies as House Passes TikTok Ban - The Wall Street Journal",
+                "description": "U.S.-China Internet War Intensifies as House Passes TikTok Ban  The Wall Street Journal",
+                "published date": "Sat, 20 Apr 2024 19:13:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndzai5jb20vdGVjaC91LXMtY2hpbmEtaW50ZXJuZXQtd2FyLWludGVuc2lmaWVzLWFzLWhvdXNlLXBhc3Nlcy10aWt0b2stYmFuLTdkMTlmZjA10gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wsj.com",
+                    "title": "The Wall Street Journal"
+                }
             }
         ]
     },
     {
         "name": "Record Store Day 2024",
-        "summary": "Record Store Day 2024, a celebration of independent record stores, is scheduled for April 20. In Chicago, the event will feature exclusive album releases, live music, and sales. Seattle-area record stores will also participate with special vinyl releases and events. Nationally, the event will include highly sought-after exclusive releases such as Olivia Rodrigo and Noah Kahan collaborations, Talking Heads, Laufey, Pearl Jam, and more. Many independent record stores across the country, including those in metro Phoenix, Massachusetts, and elsewhere, will take part in the celebration to support their local music communities.",
+        "summary": "Record Store Day 2024 is approaching, and various cities have announced their plans. Chicago's festivities include exclusive releases, sales, and live music. Seattle has a list of participating record stores. USA Today highlights special vinyl releases on April 20th, including those by Olivia Rodrigo, Noah Kahan, and Pearl Jam. Variety features a \"Most Wanted\" list of records, including Talking Heads, Laufey, and Ateez. Chicago Reader provides a comprehensive guide to the event, while Brooklyn Magazine recommends the best shops in the borough. Billboard selects the best exclusive releases, and the Knoxville News Sentinel speculates about Taylor Swift's potential involvement. CBS Boston lists Massachusetts shops participating in the event, while The Columbus Dispatch discusses the significance of Record Store Day and Swift's rumored involvement.",
         "items": [
             {
                 "title": "Your Guide To Record Store Day 2024 In Chicago: Exclusive Drops, Sales, Live Music And More - Block Club Chicago",
@@ -988,6 +882,16 @@
                 }
             },
             {
+                "title": "Record Store Day 2024's Most Wanted: Olivia Rodrigo & Noah Kahan, Talking Heads, Laufey, Pearl Jam, Ateez, David ... - Variety",
+                "description": "Record Store Day 2024's Most Wanted: Olivia Rodrigo & Noah Kahan, Talking Heads, Laufey, Pearl Jam, Ateez, David ...  Variety",
+                "published date": "Sat, 20 Apr 2024 15:06:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdmFyaWV0eS5jb20vbGlzdHMvcmVjb3JkLXN0b3JlLWRheS1tb3N0LXdhbnRlZC1vbGl2aWEtcm9kcmlnby1ub2FoLWthaGFuLXBlYXJsLWphbS1hdGVlei_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
                 "title": "The Reader\u2019s Guide to Record Store Day 2024 - Chicago Reader",
                 "description": "The Reader\u2019s Guide to Record Store Day 2024  Chicago Reader",
                 "published date": "Wed, 17 Apr 2024 20:32:20 GMT",
@@ -995,6 +899,16 @@
                 "publisher": {
                     "href": "https://chicagoreader.com",
                     "title": "Chicago Reader"
+                }
+            },
+            {
+                "title": "Brooklyn's best shops for Record Store Day 2024, or any day - Brooklyn Magazine",
+                "description": "Brooklyn's best shops for Record Store Day 2024, or any day  Brooklyn Magazine",
+                "published date": "Thu, 18 Apr 2024 18:55:06 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmJrbWFnLmNvbS8yMDI0LzA0LzE4L2Jyb29rbHlucy1iZXN0LXNob3BzLWZvci1yZWNvcmQtc3RvcmUtZGF5LTIwMjQtb3ItYW55LWRheS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.bkmag.com",
+                    "title": "Brooklyn Magazine"
                 }
             },
             {
@@ -1008,43 +922,13 @@
                 }
             },
             {
-                "title": "Record Store Day 2024's Most Wanted: Olivia Rodrigo & Noah Kahan, Talking Heads, Laufey, Pearl Jam, Ateez, David ... - Variety",
-                "description": "Record Store Day 2024's Most Wanted: Olivia Rodrigo & Noah Kahan, Talking Heads, Laufey, Pearl Jam, Ateez, David ...  Variety",
-                "published date": "Sat, 20 Apr 2024 15:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdmFyaWV0eS5jb20vbGlzdHMvcmVjb3JkLXN0b3JlLWRheS1tb3N0LXdhbnRlZC1vbGl2aWEtcm9kcmlnby1ub2FoLWthaGFuLXBlYXJsLWphbS1hdGVlei_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Taylor Swift may be involved with Record Store Day, if fans are right - Knoxville News Sentinel",
+                "description": "Taylor Swift may be involved with Record Store Day, if fans are right  Knoxville News Sentinel",
+                "published date": "Thu, 18 Apr 2024 19:04:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5rbm94bmV3cy5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA0LzE4L3RheWxvci1zd2lmdC1tYXktYmUtaW52b2x2ZWQtd2l0aC1yZWNvcmQtc3RvcmUtZGF5LWlmLWZhbnMtYXJlLXJpZ2h0LzczMzY4MDY2MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "Record Store Day 2024: What releases should you be looking out for? - Euronews",
-                "description": "Record Store Day 2024: What releases should you be looking out for?  Euronews",
-                "published date": "Sun, 21 Apr 2024 05:20:04 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9jdWx0dXJlLzIwMjQvMDQvMTkvcmVjb3JkLXN0b3JlLWRheS0yMDI0LXdoYXQtcmVsZWFzZXMtc2hvdWxkLXlvdS1iZS1sb29raW5nLW91dC1mb3LSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.euronews.com",
-                    "title": "Euronews"
-                }
-            },
-            {
-                "title": "What is Record Store Day, and how is Taylor Swift's 'The Tortured Poets Department' involved? - The Columbus Dispatch",
-                "description": "What is Record Store Day, and how is Taylor Swift's 'The Tortured Poets Department' involved?  The Columbus Dispatch",
-                "published date": "Fri, 19 Apr 2024 19:44:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmRpc3BhdGNoLmNvbS9zdG9yeS9uZXdzLzIwMjQvMDQvMTkvdGF5bG9yLXN3aWZ0cy10b3J0dXJlZC1wb2V0cy1kZXBhcnRtZW50LXBhcnQtb2YtcmVjb3JkLXN0b3JlLWRheS83MzM4MzYzMjAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.dispatch.com",
-                    "title": "The Columbus Dispatch"
-                }
-            },
-            {
-                "title": "When is Record Store Day 2024? How independent stores are celebrating RSD in metro Phoenix - The Arizona Republic",
-                "description": "When is Record Store Day 2024? How independent stores are celebrating RSD in metro Phoenix  The Arizona Republic",
-                "published date": "Thu, 18 Apr 2024 12:09:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA0LzE4L3JlY29yZC1zdG9yZS1kYXktMjAyNC1waG9lbml4LzczMzYxMTgzMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
+                    "href": "https://www.knoxnews.com",
+                    "title": "Knoxville News Sentinel"
                 }
             },
             {
@@ -1056,12 +940,22 @@
                     "href": "https://www.cbsnews.com",
                     "title": "CBS Boston"
                 }
+            },
+            {
+                "title": "What is Record Store Day, and how is Taylor Swift's 'The Tortured Poets Department' involved? - The Columbus Dispatch",
+                "description": "What is Record Store Day, and how is Taylor Swift's 'The Tortured Poets Department' involved?  The Columbus Dispatch",
+                "published date": "Fri, 19 Apr 2024 19:44:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmRpc3BhdGNoLmNvbS9zdG9yeS9uZXdzLzIwMjQvMDQvMTkvdGF5bG9yLXN3aWZ0cy10b3J0dXJlZC1wb2V0cy1kZXBhcnRtZW50LXBhcnQtb2YtcmVjb3JkLXN0b3JlLWRheS83MzM4MzYzMjAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.dispatch.com",
+                    "title": "The Columbus Dispatch"
+                }
             }
         ]
     },
     {
         "name": "Nashville vs Inter Miami",
-        "summary": "On Saturday, Inter Miami CF will host Nashville SC in a highly anticipated Major League Soccer match. The match will feature the debut of Lionel Messi, who recently joined Inter Miami. Messi is one of the greatest soccer players of all time, and his presence is sure to draw a large crowd. The match will be televised on several networks, including MLSsoccer.com, CBS Sports, and FOX Sports. Nashville SC is coming off a disappointing loss to the New England Revolution, but they will be looking to bounce back against Inter Miami. The match is expected to be close, and it could have implications for the playoff race.",
+        "summary": "On Saturday, Inter Miami CF will host Nashville SC in a highly anticipated Major League Soccer (MLS) match. All eyes will be on Lionel Messi, who is set to make his debut for Inter Miami. The match will be available to watch and stream on various platforms, including MLSsoccer.com and CBS Sports. Nashville SC is coming off a disappointing loss to Inter Miami, where Messi scored two goals in a 3-1 defeat. Experts predict that Inter Miami has a strong chance of securing a victory in this matchup, with Messi expected to play a crucial role. The match is expected to draw a large audience, with fans eager to witness Messi's impact on the league and Inter Miami's performance.",
         "items": [
             {
                 "title": "Match Preview: Inter Miami CF Set to Host Nashville SC on Saturday - Inter Miami CF",
@@ -1084,23 +978,13 @@
                 }
             },
             {
-                "title": "Lionel Messi scores twice as Nashville SC falls to Inter Miami - Tennessean",
-                "description": "Lionel Messi scores twice as Nashville SC falls to Inter Miami  Tennessean",
+                "title": "Lionel Messi strikes again as Nashville SC loses to Inter Miami in MLS match - Tennessean",
+                "description": "Lionel Messi strikes again as Nashville SC loses to Inter Miami in MLS match  Tennessean",
                 "published date": "Sun, 21 Apr 2024 01:56:27 GMT",
                 "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9zcG9ydHMvbmFzaHZpbGxlc2MvMjAyNC8wNC8yMC9uYXNodmlsbGUtc2MtbGlvbmVsLW1lc3NpLWludGVyLW1pYW1pLXNjb3JlLXVwZGF0ZXMtbWxzLWNoYXNlLXN0YWRpdW0vNzMyOTIwNjYwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.tennessean.com",
                     "title": "Tennessean"
-                }
-            },
-            {
-                "title": "Messi fit, Alba out for Inter Miami vs. Nashville on Saturday. What else you should know - Miami Herald",
-                "description": "Messi fit, Alba out for Inter Miami vs. Nashville on Saturday. What else you should know  Miami Herald",
-                "published date": "Fri, 19 Apr 2024 18:49:01 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9zcG9ydHMvbWxzL2ludGVyLW1pYW1pL2FydGljbGUyODc4NDE5OTUuaHRtbNIBSGh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9zcG9ydHMvbWxzL2ludGVyLW1pYW1pL2FydGljbGUyODc4NDE5OTUuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.miamiherald.com",
-                    "title": "Miami Herald"
                 }
             },
             {
@@ -1111,6 +995,16 @@
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "Lionel Messi scores two goals, Inter Miami stays atop MLS with 3-1 win over Nashville - Miami Herald",
+                "description": "Lionel Messi scores two goals, Inter Miami stays atop MLS with 3-1 win over Nashville  Miami Herald",
+                "published date": "Sun, 21 Apr 2024 03:48:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9zcG9ydHMvbWxzL2ludGVyLW1pYW1pL2FydGljbGUyODc4NDIxMTAuaHRtbNIBSGh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9zcG9ydHMvbWxzL2ludGVyLW1pYW1pL2FydGljbGUyODc4NDIxMTAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.miamiherald.com",
+                    "title": "Miami Herald"
                 }
             },
             {
@@ -1126,7 +1020,7 @@
             {
                 "title": "Inter Miami CF vs Nashville SC - April 20, 2024 - FOX Sports",
                 "description": "Inter Miami CF vs Nashville SC - April 20, 2024  FOX Sports",
-                "published date": "Sun, 21 Apr 2024 01:19:41 GMT",
+                "published date": "Sun, 21 Apr 2024 05:53:45 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc29jY2VyL21scy1pbnRlci1taWFtaS1jZi12cy1uYXNodmlsbGUtc2MtYXByLTIwLTIwMjQtZ2FtZS1ib3hzY29yZS0xMzMxMDXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.foxsports.com",
@@ -1154,20 +1048,20 @@
                 }
             },
             {
-                "title": "How to watch Inter Miami vs. Nashville SC (4/20/24): Live stream, time, TV, channel for MLS game - NJ.com",
-                "description": "How to watch Inter Miami vs. Nashville SC (4/20/24): Live stream, time, TV, channel for MLS game  NJ.com",
-                "published date": "Sat, 20 Apr 2024 11:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5qLmNvbS9zcG9ydHMvMjAyNC8wNC9ob3ctdG8td2F0Y2gtaW50ZXItbWlhbWktdnMtbmFzaHZpbGxlLXNjLTQyMDI0LWxpdmUtc3RyZWFtLXRpbWUtdHYtY2hhbm5lbC1mb3ItbWxzLWdhbWUuaHRtbNIBjQFodHRwczovL3d3dy5uai5jb20vc3BvcnRzLzIwMjQvMDQvaG93LXRvLXdhdGNoLWludGVyLW1pYW1pLXZzLW5hc2h2aWxsZS1zYy00MjAyNC1saXZlLXN0cmVhbS10aW1lLXR2LWNoYW5uZWwtZm9yLW1scy1nYW1lLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Inter Miami vs Nashville Highlights, MLS: MIA 3-1 NSH; Messi scores two, assists another in comfortable win for Miami - Sportstar",
+                "description": "Inter Miami vs Nashville Highlights, MLS: MIA 3-1 NSH; Messi scores two, assists another in comfortable win for Miami  Sportstar",
+                "published date": "Sun, 21 Apr 2024 02:26:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3Nwb3J0c3Rhci50aGVoaW5kdS5jb20vZm9vdGJhbGwvaW50ZXItbWlhbWktdnMtbmFzaHZpbGxlLWxpdmUtc2NvcmUtbWxzLW1hdGNoLXVwZGF0ZXMtc3RyZWFtaW5nLWluZm8tbWlhLW5hcy1oaWdobGlnaHRzL2FydGljbGU2ODA4OTIxOS5lY2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nj.com",
-                    "title": "NJ.com"
+                    "href": "https://sportstar.thehindu.com",
+                    "title": "Sportstar"
                 }
             }
         ]
     },
     {
         "name": "Tesla Model Y",
-        "summary": "Tesla has announced price reductions across various models in the United States, including the Model Y, Model X, and Model S. The Model Y, in particular, has witnessed a drop to its lowest price ever. This move follows a challenging week for the company and comes as Tesla faces increasing competition, particularly from the Fisker Ocean electric SUV. The price cuts align with Tesla's recent strategy shift, which includes reducing the cost of its vehicles and expanding its FSD offerings. Meanwhile, reports indicate that the Model Y Juniper competitor has been filmed undergoing a battery swap at a NIO station, while Kelley Blue Book has published a comparison between the 2024 Tesla Model Y and 2024 Audi Q4 e-tron.",
+        "summary": "Tesla has reduced pricing on its Model Y, S, and X vehicles in the United States by $2,000. This move comes after a difficult week for the company and is likely an attempt to boost sales and reduce inventory. Additionally, Tesla is ending its referral program, which may contribute to the lower prices. Meanwhile, the electric vehicle landscape is becoming more competitive, with the Fisker Ocean emerging as a potential threat to Tesla's dominance.",
         "items": [
             {
                 "title": "Tesla cuts U.S. prices on its Model Y, S and X vehicles after a difficult week - NBC News",
@@ -1177,16 +1071,6 @@
                 "publisher": {
                     "href": "https://www.nbcnews.com",
                     "title": "NBC News"
-                }
-            },
-            {
-                "title": "Tesla cuts US prices of Models Y, X, S by $2000 - Reuters",
-                "description": "Tesla cuts US prices of Models Y, X, S by $2000  Reuters",
-                "published date": "Sat, 20 Apr 2024 09:44:42 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3Rlc2xhLWN1dHMtdXMtcHJpY2VzLW1vZGVscy15LXgtcy1ieS0yMDAwLTIwMjQtMDQtMjAv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters"
                 }
             },
             {
@@ -1200,6 +1084,16 @@
                 }
             },
             {
+                "title": "Tesla cuts US prices of Models Y, X, S by $2000 - Reuters",
+                "description": "Tesla cuts US prices of Models Y, X, S by $2000  Reuters",
+                "published date": "Sat, 20 Apr 2024 05:32:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3Rlc2xhLWN1dHMtdXMtcHJpY2VzLW1vZGVscy15LXgtcy1ieS0yMDAwLTIwMjQtMDQtMjAv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.reuters.com",
+                    "title": "Reuters"
+                }
+            },
+            {
                 "title": "Tesla Model Y vs. Fisker Ocean Electric SUV Comparison: A Flashy Threat to Tesla's Dominance - MotorTrend",
                 "description": "Tesla Model Y vs. Fisker Ocean Electric SUV Comparison: A Flashy Threat to Tesla's Dominance  MotorTrend",
                 "published date": "Thu, 18 Apr 2024 12:56:15 GMT",
@@ -1207,6 +1101,16 @@
                 "publisher": {
                     "href": "https://www.motortrend.com",
                     "title": "MotorTrend"
+                }
+            },
+            {
+                "title": "Tesla Model Y Cheaper Than Ever in USA - CleanTechnica",
+                "description": "Tesla Model Y Cheaper Than Ever in USA  CleanTechnica",
+                "published date": "Sun, 21 Apr 2024 10:35:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2xlYW50ZWNobmljYS5jb20vMjAyNC8wNC8yMC90ZXNsYS1tb2RlbC15LWNoZWFwZXItdGhhbi1ldmVyLWluLXVzYS_SAVBodHRwczovL2NsZWFudGVjaG5pY2EuY29tLzIwMjQvMDQvMjAvdGVzbGEtbW9kZWwteS1jaGVhcGVyLXRoYW4tZXZlci1pbi11c2EvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://cleantechnica.com",
+                    "title": "CleanTechnica"
                 }
             },
             {
@@ -1220,23 +1124,13 @@
                 }
             },
             {
-                "title": "Tesla Model Y Cheaper Than Ever in USA - CleanTechnica",
-                "description": "Tesla Model Y Cheaper Than Ever in USA  CleanTechnica",
-                "published date": "Sun, 21 Apr 2024 05:50:47 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2xlYW50ZWNobmljYS5jb20vMjAyNC8wNC8yMC90ZXNsYS1tb2RlbC15LWNoZWFwZXItdGhhbi1ldmVyLWluLXVzYS_SAVBodHRwczovL2NsZWFudGVjaG5pY2EuY29tLzIwMjQvMDQvMjAvdGVzbGEtbW9kZWwteS1jaGVhcGVyLXRoYW4tZXZlci1pbi11c2EvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tesla cuts Model Y, X and S prices in the US and says it's ending the referral program - Engadget",
+                "description": "Tesla cuts Model Y, X and S prices in the US and says it's ending the referral program  Engadget",
+                "published date": "Sat, 20 Apr 2024 17:23:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS90ZXNsYS1jdXRzLW1vZGVsLXkteC1hbmQtcy1wcmljZXMtaW4tdGhlLXVzLWFuZC1zYXlzLWl0cy1lbmRpbmctdGhlLXJlZmVycmFsLXByb2dyYW0tMTcyMzExNjYyLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://cleantechnica.com",
-                    "title": "CleanTechnica"
-                }
-            },
-            {
-                "title": "Tesla Slashes EV, FSD Prices In Latest Strategy Shift - Investor's Business Daily",
-                "description": "Tesla Slashes EV, FSD Prices In Latest Strategy Shift  Investor's Business Daily",
-                "published date": "Sun, 21 Apr 2024 05:05:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZXNsYS1jdXRzLW1vZGVsLXktcy14LXByaWNlcy1lYXJuaW5ncy1sb29tL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.investors.com",
-                    "title": "Investor's Business Daily"
+                    "href": "https://www.engadget.com",
+                    "title": "Engadget"
                 }
             },
             {
@@ -1250,6 +1144,16 @@
                 }
             },
             {
+                "title": "Tesla Cut Model S, Model X And Model Y Prices By $2,000 - InsideEVs",
+                "description": "Tesla Cut Model S, Model X And Model Y Prices By $2,000  InsideEVs ",
+                "published date": "Sat, 20 Apr 2024 22:20:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vaW5zaWRlZXZzLmNvbS9uZXdzLzcxNjgzNy90ZXNsYS1jdXQtbW9kZWxzLW1vZGVseC1tb2RlbHktcHJpY2VzL9IBTGh0dHBzOi8vaW5zaWRlZXZzLmNvbS9uZXdzLzcxNjgzNy90ZXNsYS1jdXQtbW9kZWxzLW1vZGVseC1tb2RlbHktcHJpY2VzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://insideevs.com",
+                    "title": "InsideEVs"
+                }
+            },
+            {
                 "title": "Tesla cuts prices of Model Y, Model X, Model S vehicles in US - The Economic Times",
                 "description": "Tesla cuts prices of Model Y, Model X, Model S vehicles in US  The Economic Times",
                 "published date": "Sat, 20 Apr 2024 03:37:17 GMT",
@@ -1258,33 +1162,13 @@
                     "href": "https://m.economictimes.com",
                     "title": "The Economic Times"
                 }
-            },
-            {
-                "title": "2024 Tesla Model Y vs. 2024 Audi Q4 e-tron Comparison - Kelley Blue Book",
-                "description": "2024 Tesla Model Y vs. 2024 Audi Q4 e-tron Comparison  Kelley Blue Book ",
-                "published date": "Thu, 18 Apr 2024 16:41:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmtiYi5jb20vY29tcGFyaXNvbi90ZXNsYS1tb2RlbC15LXZzLWF1ZGktcTQtZS10cm9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.kbb.com",
-                    "title": "Kelley Blue Book"
-                }
             }
         ]
     },
     {
         "name": "Howie Schwab",
-        "summary": "Howie Schwab, a veteran ESPN producer and the star of the popular trivia show \"Stump the Schwab,\" has passed away at age 63. Schwab's death has sparked an outpouring of tributes from the sports media world, who remember him as a talented producer and a beloved figure in the industry.",
+        "summary": "Howie Schwab, a celebrated figure in sports media, passed away at the age of 63. Schwab gained recognition as the host of \"Stump the Schwab,\" a popular ESPN sports trivia show. His legacy also includes his work as a producer for ESPN, where he made significant contributions behind the scenes. Schwab's passing has deeply saddened the sports world, with tributes pouring in from colleagues, fans, and sports enthusiasts alike.",
         "items": [
-            {
-                "title": "Howie Schwab, longtime ESPN producer, star of trivia show, dies - ESPN",
-                "description": "Howie Schwab, longtime ESPN producer, star of trivia show, dies  ESPN",
-                "published date": "Sat, 20 Apr 2024 14:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVzcG4uY29tL2VzcG4vc3RvcnkvXy9pZC8zOTk4MDcwNi9ob3dpZS1zY2h3YWItbG9uZy1lc3BuLXByb2R1Y2VyLXN0YXItdHJpdmlhLXNob3ctZGllc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
             {
                 "title": "Longtime ESPNer Howie Schwab, star of 'Stump the Schwab' sports trivia show, dies at 63 - USA TODAY",
                 "description": "Longtime ESPNer Howie Schwab, star of 'Stump the Schwab' sports trivia show, dies at 63  USA TODAY",
@@ -1296,13 +1180,13 @@
                 }
             },
             {
-                "title": "Howie Schwab, legendary ESPN behind-the-scenes producer, dies at 63 - The Athletic",
-                "description": "Howie Schwab, legendary ESPN behind-the-scenes producer, dies at 63  The Athletic",
-                "published date": "Sat, 20 Apr 2024 21:53:52 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0MzE2MTQvMjAyNC8wNC8yMC9ob3dpZS1zY2h3YWItZXNwbi1wcm9kdWNlci1vYml0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Howie Schwab, longtime ESPN producer, star of trivia show, dies - ESPN",
+                "description": "Howie Schwab, longtime ESPN producer, star of trivia show, dies  ESPN",
+                "published date": "Sat, 20 Apr 2024 14:33:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVzcG4uY29tL2VzcG4vc3RvcnkvXy9pZC8zOTk4MDcwNi9ob3dpZS1zY2h3YWItbG9uZy1lc3BuLXByb2R1Y2VyLXN0YXItdHJpdmlhLXNob3ctZGllc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
                 }
             },
             {
@@ -1316,13 +1200,23 @@
                 }
             },
             {
-                "title": "Howie Schwab Dies: Star Of ESPN\u2019s \u2018Stump The Schwab\u2019 Was 63 - Deadline",
-                "description": "Howie Schwab Dies: Star Of ESPN\u2019s \u2018Stump The Schwab\u2019 Was 63  Deadline",
-                "published date": "Sat, 20 Apr 2024 15:22:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDQvaG93aWUtc2Nod2FiLWRlYWQtc3Rhci1lc3BuLXN0dW1wLXRoZS1zY2h3YWItd2FzLTYzLW9iaXR1YXJ5LTEyMzU4OTA4NTQv0gFpaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNC9ob3dpZS1zY2h3YWItZGVhZC1zdGFyLWVzcG4tc3R1bXAtdGhlLXNjaHdhYi13YXMtNjMtb2JpdHVhcnktMTIzNTg5MDg1NC9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Howie Schwab, legendary ESPN behind-the-scenes producer, dies at 63 - The Athletic",
+                "description": "Howie Schwab, legendary ESPN behind-the-scenes producer, dies at 63  The Athletic",
+                "published date": "Sat, 20 Apr 2024 21:53:52 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0MzE2MTQvMjAyNC8wNC8yMC9ob3dpZS1zY2h3YWItZXNwbi1wcm9kdWNlci1vYml0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://deadline.com",
-                    "title": "Deadline"
+                    "href": "https://theathletic.com",
+                    "title": "The Athletic"
+                }
+            },
+            {
+                "title": "Howie Schwab, former ESPN star, dead at 63 - New York Post",
+                "description": "Howie Schwab, former ESPN star, dead at 63  New York Post ",
+                "published date": "Sat, 20 Apr 2024 15:22:24 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9mb3JtZXItZXNwbi1zdGFyLWhvd2llLXNjaHdhYi1kZWFkLWF0LTYzL9IBUmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9mb3JtZXItZXNwbi1zdGFyLWhvd2llLXNjaHdhYi1kZWFkLWF0LTYzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
                 }
             },
             {
@@ -1336,13 +1230,13 @@
                 }
             },
             {
-                "title": "Howie Schwab, former ESPN star, dead at 63 - New York Post",
-                "description": "Howie Schwab, former ESPN star, dead at 63  New York Post ",
-                "published date": "Sat, 20 Apr 2024 15:22:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9mb3JtZXItZXNwbi1zdGFyLWhvd2llLXNjaHdhYi1kZWFkLWF0LTYzL9IBUmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9mb3JtZXItZXNwbi1zdGFyLWhvd2llLXNjaHdhYi1kZWFkLWF0LTYzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Howie Schwab Dies: Star Of ESPN\u2019s \u2018Stump The Schwab\u2019 Was 63 - Deadline",
+                "description": "Howie Schwab Dies: Star Of ESPN\u2019s \u2018Stump The Schwab\u2019 Was 63  Deadline",
+                "published date": "Sat, 20 Apr 2024 15:22:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDQvaG93aWUtc2Nod2FiLWRlYWQtc3Rhci1lc3BuLXN0dW1wLXRoZS1zY2h3YWItd2FzLTYzLW9iaXR1YXJ5LTEyMzU4OTA4NTQv0gFpaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNC9ob3dpZS1zY2h3YWItZGVhZC1zdGFyLWVzcG4tc3R1bXAtdGhlLXNjaHdhYi13YXMtNjMtb2JpdHVhcnktMTIzNTg5MDg1NC9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
+                    "href": "https://deadline.com",
+                    "title": "Deadline"
                 }
             },
             {
@@ -1366,20 +1260,20 @@
                 }
             },
             {
-                "title": "ESPN Game Show Star Howie Schwab Dead At 63 - HuffPost",
-                "description": "ESPN Game Show Star Howie Schwab Dead At 63  HuffPost",
-                "published date": "Sat, 20 Apr 2024 14:46:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9ob3dpZS1zY2h3YWItZGVhZF9uXzY2MjNkMTNkZTRiMDE2N2Y3YmY1MGJkZdIBT2h0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9ob3dpZS1zY2h3YWItZGVhZF9uXzY2MjNkMTNkZTRiMDE2N2Y3YmY1MGJkZS9hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Howie Schwab dead at 63: Dick Vitale announces passing of the star of hit trivia show 'Stump the Schwab' and l - Daily Mail",
+                "description": "Howie Schwab dead at 63: Dick Vitale announces passing of the star of hit trivia show 'Stump the Schwab' and l  Daily Mail",
+                "published date": "Sat, 20 Apr 2024 14:20:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zcG9ydC9vdGhlcnNwb3J0cy9hcnRpY2xlLTEzMzMxMDg3L2hvd2llLXNjaHdhYi1kZWFkLXNhdHMtZGljay12aXRhbGUtZXNwbi5odG1s0gFvaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL3Nwb3J0L290aGVyc3BvcnRzL2FydGljbGUtMTMzMzEwODcvYW1wL2hvd2llLXNjaHdhYi1kZWFkLXNhdHMtZGljay12aXRhbGUtZXNwbi5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.huffpost.com",
-                    "title": "HuffPost"
+                    "href": "https://www.dailymail.co.uk",
+                    "title": "Daily Mail"
                 }
             }
         ]
     },
     {
         "name": "Carolina Hurricanes",
-        "summary": "The Carolina Hurricanes are set to begin their NHL playoff journey, taking on the New York Islanders in the first round. The series, which begins in Raleigh, will feature a matchup between two teams with strong goaltending and scoring depth. Hurricanes coach Rod Brind'Amour has been building towards this moment, aiming to establish a perennial contender in Carolina, and the team will face a tough test in the Islanders, who are making their first playoff appearance since 2022. Canes fans can catch the action on TV, streaming platforms, or at PNC Arena, where the team will aim to earn a Game 1 victory. The projected lineup for the Hurricanes includes Frederik Andersen as starting goaltender, Seth Jarvis at left wing, Martin Necas at center, and Andrei Svechnikov at right wing on the top line, while the Islanders will counter with Ilya Sorokin in net.",
+        "summary": "The Carolina Hurricanes are set to face off against the New York Islanders in the opening round of the NHL playoffs. The Canes have been a perennial contender in recent years, and they're hoping to make a deep run in the postseason this year. The Islanders, meanwhile, are a young and up-and-coming team that could be a dark horse in the playoffs. The series is expected to be a close one, and it could go either way. The Hurricanes will have home-ice advantage, but the Islanders have a lot of talent and they're playing with confidence. It should be a great series to watch.",
         "items": [
             {
                 "title": "What to know before the Carolina Hurricanes play in the NHL playoffs - Axios",
@@ -1422,23 +1316,13 @@
                 }
             },
             {
-                "title": "Carolina Hurricanes to face New York Islanders in first round of Stanley Cup playoffs - Statesville Record & Landmark",
-                "description": "Carolina Hurricanes to face New York Islanders in first round of Stanley Cup playoffs  Statesville Record & Landmark",
-                "published date": "Wed, 17 Apr 2024 13:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3N0YXRlc3ZpbGxlLmNvbS9zcG9ydHMvaGlnaC1zY2hvb2wvaG9ja2V5L2Nhcm9saW5hLWh1cnJpY2FuZXMtdG8tZmFjZS1uZXcteW9yay1pc2xhbmRlcnMtaW4tZmlyc3Qtcm91bmQtb2Ytc3RhbmxleS1jdXAtcGxheW9mZnMvYXJ0aWNsZV85MzllZjkzYS1mY2EyLTExZWUtOTcxYy1iMzI0MDIyMmIwNDAuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Carolina Hurricanes tough out Game 1 win over New York Islanders to open NHL playoffs - Raleigh News & Observer",
+                "description": "Carolina Hurricanes tough out Game 1 win over New York Islanders to open NHL playoffs  Raleigh News & Observer",
+                "published date": "Sun, 21 Apr 2024 02:12:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL25obC9jYXJvbGluYS1odXJyaWNhbmVzL2FydGljbGUyODc4NDgyNTAuaHRtbNIBUWh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL25obC9jYXJvbGluYS1odXJyaWNhbmVzL2FydGljbGUyODc4NDgyNTAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://statesville.com",
-                    "title": "Statesville Record & Landmark"
-                }
-            },
-            {
-                "title": "Islanders vs. Hurricanes matchups, prediction: Goaltending tandem, scoring depth will shape series - New York Post",
-                "description": "Islanders vs. Hurricanes matchups, prediction: Goaltending tandem, scoring depth will shape series  New York Post ",
-                "published date": "Sat, 20 Apr 2024 03:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzE5L3Nwb3J0cy9pc2xhbmRlcnMtdnMtaHVycmljYW5lcy1tYXRjaHVwcy1wcmVkaWN0aW9uLWluLTIwMjQtbmhsLXBsYXlvZmZzL9IBamh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzE5L3Nwb3J0cy9pc2xhbmRlcnMtdnMtaHVycmljYW5lcy1tYXRjaHVwcy1wcmVkaWN0aW9uLWluLTIwMjQtbmhsLXBsYXlvZmZzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
+                    "href": "https://www.newsobserver.com",
+                    "title": "Raleigh News & Observer"
                 }
             },
             {
@@ -1452,13 +1336,13 @@
                 }
             },
             {
-                "title": "Carolina Hurricanes tough out Game 1 win over New York Islanders to open NHL playoffs - Raleigh News & Observer",
-                "description": "Carolina Hurricanes tough out Game 1 win over New York Islanders to open NHL playoffs  Raleigh News & Observer",
-                "published date": "Sun, 21 Apr 2024 02:12:58 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL25obC9jYXJvbGluYS1odXJyaWNhbmVzL2FydGljbGUyODc4NDgyNTAuaHRtbNIBUWh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL25obC9jYXJvbGluYS1odXJyaWNhbmVzL2FydGljbGUyODc4NDgyNTAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Islanders vs. Hurricanes matchups, prediction: Goaltending tandem, scoring depth will shape series - New York Post",
+                "description": "Islanders vs. Hurricanes matchups, prediction: Goaltending tandem, scoring depth will shape series  New York Post ",
+                "published date": "Sat, 20 Apr 2024 03:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzE5L3Nwb3J0cy9pc2xhbmRlcnMtdnMtaHVycmljYW5lcy1tYXRjaHVwcy1wcmVkaWN0aW9uLWluLTIwMjQtbmhsLXBsYXlvZmZzL9IBamh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzE5L3Nwb3J0cy9pc2xhbmRlcnMtdnMtaHVycmljYW5lcy1tYXRjaHVwcy1wcmVkaWN0aW9uLWluLTIwMjQtbmhsLXBsYXlvZmZzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.newsobserver.com",
-                    "title": "Raleigh News & Observer"
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
                 }
             },
             {
@@ -1472,20 +1356,136 @@
                 }
             },
             {
-                "title": "Projected Lineup: Round 1, Game 1 vs. NYI | Carolina Hurricanes - NHL.com",
-                "description": "Projected Lineup: Round 1, Game 1 vs. NYI | Carolina Hurricanes  NHL.com",
-                "published date": "Sat, 20 Apr 2024 18:59:20 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm5obC5jb20vaHVycmljYW5lcy9uZXdzL3Byb2plY3RlZC1saW5ldXAtcm91bmQtMS1nYW1lLTEtdnMtbnlp0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NYI@CAR: Kuznetsov scores goal against Semyon Varlamov | Carolina Hurricanes - NHL.com",
+                "description": "NYI@CAR: Kuznetsov scores goal against Semyon Varlamov | Carolina Hurricanes  NHL.com",
+                "published date": "Sat, 20 Apr 2024 21:19:59 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5obC5jb20vaHVycmljYW5lcy92aWRlby9ueWktY2FyLWt1em5ldHNvdi1zY29yZXMtZ29hbC1hZ2FpbnN0LXNlbXlvbi12YXJsYW1vdi02MzUxMzMwMzExMTEy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nhl.com",
                     "title": "NHL.com"
+                }
+            },
+            {
+                "title": "Carolina Hurricanes to face New York Islanders in first round of Stanley Cup playoffs - Raleigh News & Observer",
+                "description": "Carolina Hurricanes to face New York Islanders in first round of Stanley Cup playoffs  Raleigh News & Observer",
+                "published date": "Tue, 16 Apr 2024 16:46:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL25obC9jYXJvbGluYS1odXJyaWNhbmVzL2FydGljbGUyODc3MTQ4NjUuaHRtbNIBUWh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL25obC9jYXJvbGluYS1odXJyaWNhbmVzL2FydGljbGUyODc3MTQ4NjUuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.newsobserver.com",
+                    "title": "Raleigh News & Observer"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Juan Soto",
+        "summary": "Juan Soto's performance continues to be a major news topic. He hit a 3-run home run in the Yankees' victory over the Rays. Rumors suggest that the Yankees will prioritize signing Soto in free agency, potentially even in a mega-swap with the Mets. However, Soto has also been criticized for a controversial play where he ran over an opponent. Despite this, his electrifying home run helped the Yankees secure a victory and earn him recognition on Ben Verlander's Team of the Week. A New York Post article mentions a potential trade between Soto and Pete Alonso, with Soto potentially moving to the Mets. Additionally, Soto has faced criticism from a NY host, who believes he is not fulfilling his role as \"the guy.\"",
+        "items": [
+            {
+                "title": "Juan Soto hits 3-run home run as Yankees beat Rays - MLB.com",
+                "description": "Juan Soto hits 3-run home run as Yankees beat Rays  MLB.com",
+                "published date": "Sat, 20 Apr 2024 05:03:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy9qdWFuLXNvdG8taGl0cy0zLXJ1bi1ob21lLXJ1bi1hcy15YW5rZWVzLWJlYXQtcmF5c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.mlb.com",
+                    "title": "MLB.com"
+                }
+            },
+            {
+                "title": "MLB Rumors: Juan Soto Contract Will Be Yankees' 'Top Priority' in FA Amid Mets Buzz - Bleacher Report",
+                "description": "MLB Rumors: Juan Soto Contract Will Be Yankees' 'Top Priority' in FA Amid Mets Buzz  Bleacher Report",
+                "published date": "Fri, 19 Apr 2024 06:22:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE3NjA2LW1sYi1ydW1vcnMtanVhbi1zb3RvLWNvbnRyYWN0LXdpbGwtYmUteWFua2Vlcy10b3AtcHJpb3JpdHktaW4tZmEtYW1pZC1tZXRzLWJ1enrSAYwBaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTE3NjA2LW1sYi1ydW1vcnMtanVhbi1zb3RvLWNvbnRyYWN0LXdpbGwtYmUteWFua2Vlcy10b3AtcHJpb3JpdHktaW4tZmEtYW1pZC1tZXRzLWJ1enouYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
+                }
+            },
+            {
+                "title": "Juan Soto's controversial play where he runs over an opponent to avoid a double play - Marca.com",
+                "description": "Juan Soto's controversial play where he runs over an opponent to avoid a double play  Marca.com",
+                "published date": "Mon, 15 Apr 2024 03:10:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1hcmNhLmNvbS9lbi9tbGIvbmV3LXlvcmsteWFua2Vlcy8yMDI0LzA0LzE1LzY2MWM5YTdhNDYxNjNmOTg1NThiNDVhNy5odG1s0gFWaHR0cHM6Ly9hbXAubWFyY2EuY29tL2VuL21sYi9uZXcteW9yay15YW5rZWVzLzIwMjQvMDQvMTUvNjYxYzlhN2E0NjE2M2Y5ODU1OGI0NWE3Lmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.marca.com",
+                    "title": "Marca.com"
+                }
+            },
+            {
+                "title": "Juan Soto and Pete Alonso could trade places in free agency mega-swap scenario - New York Post",
+                "description": "Juan Soto and Pete Alonso could trade places in free agency mega-swap scenario  New York Post ",
+                "published date": "Fri, 19 Apr 2024 01:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzE4L3Nwb3J0cy9qdWFuLXNvdG8tYW5kLXBldGUtYWxvbnNvLWNvdWxkLXRyYWRlLXBsYWNlcy1pbi1mcmVlLWFnZW5jeS1tZWdhLXN3YXAtc2NlbmFyaW8v0gF4aHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDQvMTgvc3BvcnRzL2p1YW4tc290by1hbmQtcGV0ZS1hbG9uc28tY291bGQtdHJhZGUtcGxhY2VzLWluLWZyZWUtYWdlbmN5LW1lZ2Etc3dhcC1zY2VuYXJpby9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
+            },
+            {
+                "title": "Yankees\u2019 Juan Soto takes more heat from NY host: He\u2019s not acting like \u2018the guy\u2019 - NJ.com",
+                "description": "Yankees\u2019 Juan Soto takes more heat from NY host: He\u2019s not acting like \u2018the guy\u2019  NJ.com",
+                "published date": "Mon, 15 Apr 2024 19:13:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5qLmNvbS9zcG9ydHMvMjAyNC8wNC95YW5rZWVzLWp1YW4tc290by10YWtlcy1tb3JlLWhlYXQtZnJvbS1ueS1ob3N0LWhlcy1ub3QtYWN0aW5nLWxpa2UtdGhlLWd1eS5odG1s0gGAAWh0dHBzOi8vd3d3Lm5qLmNvbS9zcG9ydHMvMjAyNC8wNC95YW5rZWVzLWp1YW4tc290by10YWtlcy1tb3JlLWhlYXQtZnJvbS1ueS1ob3N0LWhlcy1ub3QtYWN0aW5nLWxpa2UtdGhlLWd1eS5odG1sP291dHB1dFR5cGU9YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nj.com",
+                    "title": "NJ.com"
+                }
+            },
+            {
+                "title": "Yankees Will Make 'Big Play' To Sign Superstar Juan Soto To Massive Deal - Sports Illustrated",
+                "description": "Yankees Will Make 'Big Play' To Sign Superstar Juan Soto To Massive Deal  Sports Illustrated",
+                "published date": "Thu, 18 Apr 2024 18:43:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnNpLmNvbS9tbGIveWFua2Vlcy95YW5rZWVzLXdpbGwtbWFrZS1iaWctcGxheS10by1zaWduLXN1cGVyc3Rhci1qdWFuLXNvdG8tdG8tbWFzc2l2ZS1kZWFs0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "Juan Soto's electrifying home run highlights a sterling Yankees victory - NorthJersey.com",
+                "description": "Juan Soto's electrifying home run highlights a sterling Yankees victory  NorthJersey.com",
+                "published date": "Sat, 20 Apr 2024 03:43:24 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5ub3J0aGplcnNleS5jb20vc3Rvcnkvc3BvcnRzL21sYi95YW5rZWVzLzIwMjQvMDQvMTkvanVhbi1zb3Rvcy1lbGVjdHJpZnlpbmctaG9tZS1ydW4taGlnaGxpZ2h0cy1hLXN0ZXJsaW5nLXlhbmtlZXMtdmljdG9yeS83MzM4MTkwMTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.northjersey.com",
+                    "title": "NorthJersey.com"
+                }
+            },
+            {
+                "title": "Yankees' Juan Soto: Belts third homer - CBS Sports",
+                "description": "Yankees' Juan Soto: Belts third homer  CBS Sports",
+                "published date": "Sun, 14 Apr 2024 14:22:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vZmFudGFzeS9iYXNlYmFsbC9uZXdzL3lhbmtlZXMtanVhbi1zb3RvLWJlbHRzLXRoaXJkLWhvbWVyL9IBWGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vZmFudGFzeS9iYXNlYmFsbC9uZXdzL3lhbmtlZXMtanVhbi1zb3RvLWJlbHRzLXRoaXJkLWhvbWVyL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "Juan Soto's 3-run homer in 5-run 7th inning lifts Yankees over Rays 5-3 - ABC News",
+                "description": "Juan Soto's 3-run homer in 5-run 7th inning lifts Yankees over Rays 5-3  ABC News",
+                "published date": "Sat, 20 Apr 2024 02:52:10 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYWJjbmV3cy5nby5jb20vU3BvcnRzL3dpcmVTdG9yeS9qdWFuLXNvdG9zLTMtcnVuLWhvbWVyLTUtcnVuLTd0aC0xMDk0NDYyMzLSAVZodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9TcG9ydHMvd2lyZVN0b3J5L2p1YW4tc290b3MtMy1ydW4taG9tZXItNS1ydW4tN3RoLTEwOTQ0NjIzMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
+                }
+            },
+            {
+                "title": "Juan Soto, Mike Trout headline Ben Verlander's Team of the Week - FOX Sports",
+                "description": "Juan Soto, Mike Trout headline Ben Verlander's Team of the Week  FOX Sports",
+                "published date": "Mon, 15 Apr 2024 17:44:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9tbGIvanVhbi1zb3RvLW1pa2UtdHJvdXQtaGVhZGxpbmUtYmVuLXZlcmxhbmRlcnMtdGVhbS1vZi10aGUtd2Vla9IBY2h0dHBzOi8vYW1wLmZveHNwb3J0cy5jb20vc3Rvcmllcy9tbGIvanVhbi1zb3RvLW1pa2UtdHJvdXQtaGVhZGxpbmUtYmVuLXZlcmxhbmRlcnMtdGVhbS1vZi10aGUtd2Vlaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.foxsports.com",
+                    "title": "FOX Sports"
                 }
             }
         ]
     },
     {
         "name": "John Sterling",
-        "summary": "Yankees radio broadcaster John Sterling has retired after 36 seasons and 5,631 games. Sterling, known for his enthusiastic calls, announced his retirement on Thursday, citing fatigue as a factor in his decision. Sterling thanked the Yankees and their fans for their support and said he \"leaves very, very happy.\" Several media outlets and websites have covered Sterling's retirement, including MLB.com, Pinstripe Alley, Spectrum News NY1, NorthJersey.com, NBC New York, CBS Sports, The Athletic, Democrat & Chronicle, The New York Times, and Yahoo Sports.",
+        "summary": "Legendary Yankees radio broadcaster John Sterling has announced his retirement after 36 seasons and 5,631 games behind the microphone. Sterling, known for his enthusiastic and distinctive style, has been a beloved figure in the Yankees organization and among fans. His iconic home run call, \"It is high, it is far, it is gone,\" has become synonymous with Yankees baseball. Sterling's retirement marks the end of an era, having provided the soundtrack to countless Yankees victories and memorable moments. He leaves with a legacy of exceptional broadcasting and a lasting impact on the sport.",
         "items": [
             {
                 "title": "Legendary Yankees radio voice John Sterling retires: 'I leave very, very happy' - MLB.com",
@@ -1495,6 +1495,16 @@
                 "publisher": {
                     "href": "https://www.mlb.com",
                     "title": "MLB.com"
+                }
+            },
+            {
+                "title": "John Sterling honored by Yankees for 36 seasons and 5,631 games as broadcaster - NBC New York",
+                "description": "John Sterling honored by Yankees for 36 seasons and 5,631 games as broadcaster  NBC New York",
+                "published date": "Sat, 20 Apr 2024 21:55:57 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3lvcmsuY29tL25ld3Mvc3BvcnRzL2pvaG4tc3RlcmxpbmctaG9ub3JlZC1ieS15YW5rZWVzLWZvci0zNi1zZWFzb25zLWFuZC01NjMxLWdhbWVzLWFzLWJyb2FkY2FzdGVyLzUzMzkxNzIv0gGDAWh0dHBzOi8vd3d3Lm5iY25ld3lvcmsuY29tL25ld3Mvc3BvcnRzL2pvaG4tc3RlcmxpbmctaG9ub3JlZC1ieS15YW5rZWVzLWZvci0zNi1zZWFzb25zLWFuZC01NjMxLWdhbWVzLWFzLWJyb2FkY2FzdGVyLzUzMzkxNzIvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnewyork.com",
+                    "title": "NBC New York"
                 }
             },
             {
@@ -1528,16 +1538,6 @@
                 }
             },
             {
-                "title": "John Sterling honored by Yankees for 36 seasons and 5,631 games as broadcaster - NBC New York",
-                "description": "John Sterling honored by Yankees for 36 seasons and 5,631 games as broadcaster  NBC New York",
-                "published date": "Sat, 20 Apr 2024 21:55:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3lvcmsuY29tL25ld3Mvc3BvcnRzL2pvaG4tc3RlcmxpbmctaG9ub3JlZC1ieS15YW5rZWVzLWZvci0zNi1zZWFzb25zLWFuZC01NjMxLWdhbWVzLWFzLWJyb2FkY2FzdGVyLzUzMzkxNzIv0gGDAWh0dHBzOi8vd3d3Lm5iY25ld3lvcmsuY29tL25ld3Mvc3BvcnRzL2pvaG4tc3RlcmxpbmctaG9ub3JlZC1ieS15YW5rZWVzLWZvci0zNi1zZWFzb25zLWFuZC01NjMxLWdhbWVzLWFzLWJyb2FkY2FzdGVyLzUzMzkxNzIvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnewyork.com",
-                    "title": "NBC New York"
-                }
-            },
-            {
                 "title": "John Sterling, legendary Yankees broadcaster, announces retirement: 'I leave very, very happy' - CBS Sports",
                 "description": "John Sterling, legendary Yankees broadcaster, announces retirement: 'I leave very, very happy'  CBS Sports",
                 "published date": "Mon, 15 Apr 2024 21:50:23 GMT",
@@ -1558,16 +1558,6 @@
                 }
             },
             {
-                "title": "Why is John Sterling leaving? Yankees radio announcer retires - Democrat & Chronicle",
-                "description": "Why is John Sterling leaving? Yankees radio announcer retires  Democrat & Chronicle",
-                "published date": "Tue, 16 Apr 2024 15:05:18 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRlbW9jcmF0YW5kY2hyb25pY2xlLmNvbS9zdG9yeS9zcG9ydHMvMjAyNC8wNC8xNi9qb2huLXN0ZXJsaW5nLXJldGlyaW5nLW5ldy15b3JrLXlhbmtlZXMtbWxiLzczMzQwMDIyMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.democratandchronicle.com",
-                    "title": "Democrat & Chronicle"
-                }
-            },
-            {
                 "title": "After 5631 Yankees Games, John Sterling Calls His Own Walk-Off - The New York Times",
                 "description": "After 5631 Yankees Games, John Sterling Calls His Own Walk-Off  The New York Times",
                 "published date": "Tue, 16 Apr 2024 23:26:10 GMT",
@@ -1578,10 +1568,20 @@
                 }
             },
             {
-                "title": "Retiring Yankees broadcaster John Sterling says feeling 'really tired' prompted decision - Yahoo Sports",
-                "description": "Retiring Yankees broadcaster John Sterling says feeling 'really tired' prompted decision  Yahoo Sports",
-                "published date": "Sat, 20 Apr 2024 19:29:54 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9yZXRpcmluZy15YW5rZWVzLWJyb2FkY2FzdGVyLWpvaG4tc3Rlcmxpbmctc2F5cy1mZWVsaW5nLXJlYWxseS10aXJlZC1wcm9tcHRlZC1kZWNpc2lvbi0xOTI5NTM1MjIuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Why is John Sterling leaving? Yankees radio announcer retires - Democrat & Chronicle",
+                "description": "Why is John Sterling leaving? Yankees radio announcer retires  Democrat & Chronicle",
+                "published date": "Tue, 16 Apr 2024 15:05:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRlbW9jcmF0YW5kY2hyb25pY2xlLmNvbS9zdG9yeS9zcG9ydHMvMjAyNC8wNC8xNi9qb2huLXN0ZXJsaW5nLXJldGlyaW5nLW5ldy15b3JrLXlhbmtlZXMtbWxiLzczMzQwMDIyMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.democratandchronicle.com",
+                    "title": "Democrat & Chronicle"
+                }
+            },
+            {
+                "title": "Longtime voice of Yankees John Sterling is retiring, effective immediately - Yahoo Sports",
+                "description": "Longtime voice of Yankees John Sterling is retiring, effective immediately  Yahoo Sports",
+                "published date": "Mon, 15 Apr 2024 23:14:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9sb25ndGltZS12b2ljZS1vZi15YW5rZWVzLWpvaG4tc3RlcmxpbmctaXMtcmV0aXJpbmctZWZmZWN0aXZlLWltbWVkaWF0ZWx5LTIxMjcxODA2NC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://sports.yahoo.com",
                     "title": "Yahoo Sports"
@@ -1591,8 +1591,18 @@
     },
     {
         "name": "Stephanie Sparks",
-        "summary": "Stephanie Sparks, a renowned Golf Channel host and former professional golfer, passed away at the age of 50. She was best known for her role as co-host of the reality series 'Big Break' on Golf Channel. Sparks' passing has been met with an outpouring of tributes and condolences from the golfing community and beyond, highlighting her popularity and impact within the sport.",
+        "summary": "Stephanie Sparks, a renowned Golf Channel host and former professional golfer, has passed away at the age of 50. Sparks was best known for hosting the reality series \"Big Break\" on the Golf Channel, where she showcased her golf expertise and personable demeanor. Her sudden passing has sent shockwaves through the golf community, leaving tributes and condolences pouring in from colleagues, fans, and admirers.",
         "items": [
+            {
+                "title": "Former GC host Sparks passes away at age 50 - NBC Sports",
+                "description": "Former GC host Sparks passes away at age 50  NBC Sports",
+                "published date": "Sun, 21 Apr 2024 01:10:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vd2F0Y2gvZ29sZi1jZW50cmFsL2Zvcm1lci1nb2xmLWNoYW5uZWwtYmlnLWJyZWFrLWNvLWhvc3Qtc3RlcGhhbmllLXNwYXJrcy1kaWVzLWF0LWFnZS01MNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcsports.com",
+                    "title": "NBC Sports"
+                }
+            },
             {
                 "title": "Golf Channel \u2018Big Break\u2019 co-host Stephanie Sparks dies at age 50 - GolfDigest.com",
                 "description": "Golf Channel \u2018Big Break\u2019 co-host Stephanie Sparks dies at age 50  GolfDigest.com",
@@ -1624,23 +1634,13 @@
                 }
             },
             {
-                "title": "Stephanie Sparks, co-host of Golf Channel's 'Big Break' series, dies at 50 - NBC Sports",
-                "description": "Stephanie Sparks, co-host of Golf Channel's 'Big Break' series, dies at 50  NBC Sports",
-                "published date": "Sat, 20 Apr 2024 17:52:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vZ29sZi9uZXdzL3N0ZXBoYW5pZS1zcGFya3MtY28taG9zdC1vZi1nb2xmLWNoYW5uZWxzLWJpZy1icmVhay1zZXJpZXMtZGllcy1hdC01MNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Stephanie Sparks Dies: Host Of The Golf Channel\u2019s \u2018Big Break\u2019 Reality Series Was 50 - Deadline",
+                "description": "Stephanie Sparks Dies: Host Of The Golf Channel\u2019s \u2018Big Break\u2019 Reality Series Was 50  Deadline",
+                "published date": "Sat, 20 Apr 2024 16:23:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDQvc3RlcGhhbmllLXNwYXJrcy1kZWFkLWhvc3QtZ29sZi1jaGFubmVscy1iaWctYnJlYWstcmVhbGl0eS1zZXJpZXMtd2FzLTUwLW9iaXR1YXJ5LTEyMzU4OTA4NjMv0gF-aHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNC9zdGVwaGFuaWUtc3BhcmtzLWRlYWQtaG9zdC1nb2xmLWNoYW5uZWxzLWJpZy1icmVhay1yZWFsaXR5LXNlcmllcy13YXMtNTAtb2JpdHVhcnktMTIzNTg5MDg2My9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcsports.com",
-                    "title": "NBC Sports"
-                }
-            },
-            {
-                "title": "Golf Channel broadcaster Stephanie Sparks dead at 50 - New York Post",
-                "description": "Golf Channel broadcaster Stephanie Sparks dead at 50  New York Post ",
-                "published date": "Sat, 20 Apr 2024 18:29:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9nb2xmLWNoYW5uZWwtYnJvYWRjYXN0ZXItc3RlcGhhbmllLXNwYXJrcy1kZWFkLWF0LTUwL9IBXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9nb2xmLWNoYW5uZWwtYnJvYWRjYXN0ZXItc3RlcGhhbmllLXNwYXJrcy1kZWFkLWF0LTUwL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
+                    "href": "https://deadline.com",
+                    "title": "Deadline"
                 }
             },
             {
@@ -1654,13 +1654,23 @@
                 }
             },
             {
-                "title": "Stephanie Sparks Dies: Host Of The Golf Channel\u2019s \u2018Big Break\u2019 Reality Series Was 50 - Deadline",
-                "description": "Stephanie Sparks Dies: Host Of The Golf Channel\u2019s \u2018Big Break\u2019 Reality Series Was 50  Deadline",
-                "published date": "Sat, 20 Apr 2024 16:23:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDQvc3RlcGhhbmllLXNwYXJrcy1kZWFkLWhvc3QtZ29sZi1jaGFubmVscy1iaWctYnJlYWstcmVhbGl0eS1zZXJpZXMtd2FzLTUwLW9iaXR1YXJ5LTEyMzU4OTA4NjMv0gF-aHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNC9zdGVwaGFuaWUtc3BhcmtzLWRlYWQtaG9zdC1nb2xmLWNoYW5uZWxzLWJpZy1icmVhay1yZWFsaXR5LXNlcmllcy13YXMtNTAtb2JpdHVhcnktMTIzNTg5MDg2My9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Stephanie Sparks, former college golf star, host of \u2018Big Break\u2019 reality show, dead at 50 - KIRO Seattle",
+                "description": "Stephanie Sparks, former college golf star, host of \u2018Big Break\u2019 reality show, dead at 50  KIRO Seattle",
+                "published date": "Sat, 20 Apr 2024 20:05:59 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5raXJvNy5jb20vbmV3cy90cmVuZGluZy9zdGVwaGFuaWUtc3BhcmtzLWZvcm1lci1jb2xsZWdlLWdvbGYtc3Rhci1ob3N0LWJpZy1icmVhay1yZWFsaXR5LXNob3ctZGVhZC01MC9JSkxHUFBKVDRWR1hWR0pUR1U1UlBSVDIzSS_SAZwBaHR0cHM6Ly93d3cua2lybzcuY29tL25ld3MvdHJlbmRpbmcvc3RlcGhhbmllLXNwYXJrcy1mb3JtZXItY29sbGVnZS1nb2xmLXN0YXItaG9zdC1iaWctYnJlYWstcmVhbGl0eS1zaG93LWRlYWQtNTAvSUpMR1BQSlQ0VkdYVkdKVEdVNVJQUlQyM0kvP291dHB1dFR5cGU9YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://deadline.com",
-                    "title": "Deadline"
+                    "href": "https://www.kiro7.com",
+                    "title": "KIRO Seattle"
+                }
+            },
+            {
+                "title": "Golf Channel broadcaster Stephanie Sparks dead at 50 - New York Post",
+                "description": "Golf Channel broadcaster Stephanie Sparks dead at 50  New York Post ",
+                "published date": "Sat, 20 Apr 2024 18:29:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9nb2xmLWNoYW5uZWwtYnJvYWRjYXN0ZXItc3RlcGhhbmllLXNwYXJrcy1kZWFkLWF0LTUwL9IBXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzIwL3Nwb3J0cy9nb2xmLWNoYW5uZWwtYnJvYWRjYXN0ZXItc3RlcGhhbmllLXNwYXJrcy1kZWFkLWF0LTUwL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
                 }
             },
             {
@@ -1682,22 +1692,12 @@
                     "href": "https://heavy.com",
                     "title": "Heavy.com"
                 }
-            },
-            {
-                "title": "Stephanie Sparks dead at 50 with cause of death for Golf Channel host and former LPGA star\u2019s passing u... - The US Sun",
-                "description": "Stephanie Sparks dead at 50 with cause of death for Golf Channel host and former LPGA star\u2019s passing u...  The US Sun",
-                "published date": "Sat, 20 Apr 2024 17:14:46 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoZS1zdW4uY29tL3Nwb3J0LzExMTQ1NzIxL3N0ZXBoYW5pZS1zcGFya3MtZ29sZi1jaGFubmVsLWNhdXNlLW9mLWRlYXRoLXVua25vd24v0gFgaHR0cHM6Ly93d3cudGhlLXN1bi5jb20vc3BvcnQvMTExNDU3MjEvc3RlcGhhbmllLXNwYXJrcy1nb2xmLWNoYW5uZWwtY2F1c2Utb2YtZGVhdGgtdW5rbm93bi9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.the-sun.com",
-                    "title": "The US Sun"
-                }
             }
         ]
     },
     {
         "name": "Cybertruck recall",
-        "summary": "Tesla has announced a major recall of its Cybertruck electric pickup truck, affecting nearly 4,000 vehicles. The recall is due to a faulty accelerator pedal that can stick, potentially causing unintended acceleration. This marks Tesla's largest recall in several years and comes at a challenging time for CEO Elon Musk, who is facing scrutiny over Twitter's handling of misinformation and other issues. The Cybertruck has been delayed several times and is now expected to enter production in 2023. The accelerator pedal issue has added to the truck's woes, with Tesla announcing a fix involving the installation of rivets. The recall is a setback for Tesla and may further dent its reputation for quality control.",
+        "summary": "Tesla has issued a massive recall of 3,878 Cybertrucks due to a faulty accelerator pedal. The recall, which is the largest in the company's history, affects all Cybertrucks produced to date. The issue stems from a soapy substance that can accumulate on the pedal, causing it to stick in the depressed position. This could lead to unintended acceleration and increase the risk of a crash. The recall marks the latest setback for Tesla, which has faced a series of production delays and technical issues with the Cybertruck. The recall comes at a particularly difficult time for Elon Musk, the company's CEO, who is also embroiled in a legal battle over his acquisition of Twitter.",
         "items": [
             {
                 "title": "Tesla Will Recall Cybertruck in Latest Setback - The New York Times",
@@ -1717,6 +1717,16 @@
                 "publisher": {
                     "href": "https://www.npr.org",
                     "title": "NPR"
+                }
+            },
+            {
+                "title": "Tesla to recall 3878 Cybertrucks over faulty accelerator pedal, NHTSA says - Reuters",
+                "description": "Tesla to recall 3878 Cybertrucks over faulty accelerator pedal, NHTSA says  Reuters",
+                "published date": "Fri, 19 Apr 2024 18:35:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3Rlc2xhLXJlY2FsbC0zODc4LWN5YmVydHJ1Y2tzLW5odHNhLXNheXMtMjAyNC0wNC0xOS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.reuters.com",
+                    "title": "Reuters"
                 }
             },
             {
@@ -1740,13 +1750,13 @@
                 }
             },
             {
-                "title": "Tesla to recall 3878 Cybertrucks over faulty accelerator pedal, NHTSA says - Reuters",
-                "description": "Tesla to recall 3878 Cybertrucks over faulty accelerator pedal, NHTSA says  Reuters",
-                "published date": "Fri, 19 Apr 2024 18:35:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3Rlc2xhLXJlY2FsbC0zODc4LWN5YmVydHJ1Y2tzLW5odHNhLXNheXMtMjAyNC0wNC0xOS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tesla announces Cybertruck recall at the worst possible time for Elon Musk - MSNBC",
+                "description": "Tesla announces Cybertruck recall at the worst possible time for Elon Musk  MSNBC",
+                "published date": "Sat, 20 Apr 2024 18:23:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1zbmJjLmNvbS90aGUtcmVpZG91dC9yZWlkb3V0LWJsb2cvdGVzbGEtcmVjYWxsLWVsb24tbXVzay1yY25hMTQ4NjM10gE9aHR0cHM6Ly93d3cubXNuYmMuY29tL21zbmJjL2FtcC9zaG93cy9yZWlkb3V0L2Jsb2cvcmNuYTE0ODYzNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters"
+                    "href": "https://www.msnbc.com",
+                    "title": "MSNBC"
                 }
             },
             {
@@ -1770,10 +1780,10 @@
                 }
             },
             {
-                "title": "Tesla\u2019s fixing recalled Cybertruck pedals with this rivet installation - The Verge",
-                "description": "Tesla\u2019s fixing recalled Cybertruck pedals with this rivet installation  The Verge",
-                "published date": "Sat, 20 Apr 2024 22:15:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzQvMjAvMjQxMzU4NzYvdGVzbGEtY3liZXJ0cnVjay1hY2NlbGVyYXRvci1wZWRhbC1yZWNhbGwtZml40gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tesla recalls all 3878 Cybertrucks over faulty accelerator pedal - The Verge",
+                "description": "Tesla recalls all 3878 Cybertrucks over faulty accelerator pedal  The Verge",
+                "published date": "Fri, 19 Apr 2024 12:53:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzQvMTkvMjQxMzQ3NTMvdGVzbGEtcmVjYWxsLWN5YmVydHJ1Y2stZmF1bHR5LWFjY2VsZXJhdG9yLXBlZGFsLW5odHNhLWRlZmVjdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.theverge.com",
                     "title": "The Verge"
@@ -1788,57 +1798,123 @@
                     "href": "https://www.wired.com",
                     "title": "WIRED"
                 }
-            },
-            {
-                "title": "Tesla announces Cybertruck recall at the worst possible time for Elon Musk - MSNBC",
-                "description": "Tesla announces Cybertruck recall at the worst possible time for Elon Musk  MSNBC",
-                "published date": "Sat, 20 Apr 2024 18:23:01 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1zbmJjLmNvbS90aGUtcmVpZG91dC9yZWlkb3V0LWJsb2cvdGVzbGEtcmVjYWxsLWVsb24tbXVzay1yY25hMTQ4NjM10gE9aHR0cHM6Ly93d3cubXNuYmMuY29tL21zbmJjL2FtcC9zaG93cy9yZWlkb3V0L2Jsb2cvcmNuYTE0ODYzNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.msnbc.com",
-                    "title": "MSNBC"
-                }
             }
         ]
     },
     {
-        "name": "Ryan Garcia vs Devin Haney",
-        "summary": "In a major upset, Ryan Garcia defeated Devin Haney by majority decision in their highly anticipated boxing match. Garcia's victory came as a shock to many, as Haney was the favorite heading into the bout. Garcia outboxed Haney throughout the fight, landing more punches and controlling the pace. The judges scored the fight 116-112, 115-113, and 114-114 in favor of Garcia. The victory is a significant milestone for Garcia, who is now poised to challenge for a world title.",
+        "name": "NBA playoffs 2024",
+        "summary": "The 2024 NBA playoffs have commenced, with the teams that have clinched spots being highlighted on NBA.com. ESPN's playoff tracker provides updates on playoffs, play-in, and bracket information. NBC Philadelphia ranks the eight first-round matchups, while Yahoo Sports offers schedules, results, matchups, and previews for every first-round series. CBS Sports provides the schedule and information on how to watch the playoffs online, on TV, and via live stream. NBC DFW includes the bracket, schedule, and key information for Round 1. ABC announces its schedule for broadcasting the playoffs, while CBS News details how to watch the playoffs free with Hulu + Live TV. USA TODAY presents the first-round schedule, times, TV information, key stats, and players to watch. CNET offers a comprehensive guide to the playoffs, including the schedule, matchups, TV times, and how to watch today's games.",
         "items": [
             {
-                "title": "Devin Haney vs. Ryan Garcia full results: Garcia upsets Haney by majority decision - Yahoo Sports",
-                "description": "Devin Haney vs. Ryan Garcia full results: Garcia upsets Haney by majority decision  Yahoo Sports",
-                "published date": "Sun, 21 Apr 2024 05:34:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9saXZlL2RldmluLWhhbmV5LXZzLXJ5YW4tZ2FyY2lhLWZ1bGwtcmVzdWx0cy1nYXJjaWEtdXBzZXRzLWhhbmV5LWJ5LW1ham9yaXR5LWRlY2lzaW9uLTAwMDAyMzM3My5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "2024 NBA Playoffs: Teams that clinched a playoff spot - NBA.com",
+                "description": "2024 NBA Playoffs: Teams that clinched a playoff spot  NBA.com",
+                "published date": "Tue, 16 Apr 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1wbGF5b2Zmcy1jbGluY2hpbmctc2NlbmFyaW9z0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
+            },
+            {
+                "title": "2024 NBA postseason tracker: Playoffs, play-in, bracket - ESPN",
+                "description": "2024 NBA postseason tracker: Playoffs, play-in, bracket  ESPN",
+                "published date": "Sat, 20 Apr 2024 01:47:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzM5NjYxMTQ3LzIwMjQtbmJhLXBsYXlvZmZzLXRyYWNrZXItcGxheS1wb3N0c2Vhc29uLXNwb3Rz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "Ranking the 8 first-round matchups in the 2024 NBA playoffs - NBC Philadelphia",
+                "description": "Ranking the 8 first-round matchups in the 2024 NBA playoffs  NBC Philadelphia",
+                "published date": "Sat, 20 Apr 2024 08:38:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9zcG9ydHMvbmJhL3JhbmtpbmctZmlyc3Qtcm91bmQtbWF0Y2h1cHMtMjAyNC1uYmEtcGxheW9mZnMvMzgzNTA1Ny_SAW1odHRwczovL3d3dy5uYmNwaGlsYWRlbHBoaWEuY29tL25ld3Mvc3BvcnRzL25iYS9yYW5raW5nLWZpcnN0LXJvdW5kLW1hdGNodXBzLTIwMjQtbmJhLXBsYXlvZmZzLzM4MzUwNTcvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcphiladelphia.com",
+                    "title": "NBC Philadelphia"
+                }
+            },
+            {
+                "title": "2024 NBA Playoffs: Schedules, results, matchups and previews for every first-round series - Yahoo Sports",
+                "description": "2024 NBA Playoffs: Schedules, results, matchups and previews for every first-round series  Yahoo Sports",
+                "published date": "Sat, 20 Apr 2024 15:39:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS8yMDI0LW5iYS1wbGF5b2Zmcy1zY2hlZHVsZXMtcmVzdWx0cy1tYXRjaHVwcy1hbmQtcHJldmlld3MtZm9yLWV2ZXJ5LWZpcnN0LXJvdW5kLXNlcmllcy0xODAwNDU4NzcuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://sports.yahoo.com",
                     "title": "Yahoo Sports"
                 }
             },
             {
-                "title": "Ryan Garcia defeats Devin Haney by majority decision: Round-by-round fight analysis - USA TODAY",
-                "description": "Ryan Garcia defeats Devin Haney by majority decision: Round-by-round fight analysis  USA TODAY",
-                "published date": "Sun, 21 Apr 2024 05:20:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvYm94aW5nLzIwMjQvMDQvMjAvZGV2aW4taGFuZXktcnlhbi1nYXJjaWEtZmlnaHQtbGl2ZS11cGRhdGVzLWhpZ2hsaWdodHMvNzMzOTI2MjIwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "2024 NBA playoffs schedule: How to watch playoff basketball online, TV channel, live stream, games today - CBS Sports",
+                "description": "2024 NBA playoffs schedule: How to watch playoff basketball online, TV channel, live stream, games today  CBS Sports",
+                "published date": "Sun, 21 Apr 2024 03:04:40 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLXBsYXlvZmZzLXNjaGVkdWxlLWhvdy10by13YXRjaC1wbGF5b2ZmLWJhc2tldGJhbGwtb25saW5lLXR2LWNoYW5uZWwtbGl2ZS1zdHJlYW0tZ2FtZXMtdG9kYXkv0gGMAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmJhL25ld3MvMjAyNC1uYmEtcGxheW9mZnMtc2NoZWR1bGUtaG93LXRvLXdhdGNoLXBsYXlvZmYtYmFza2V0YmFsbC1vbmxpbmUtdHYtY2hhbm5lbC1saXZlLXN0cmVhbS1nYW1lcy10b2RheS9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "The NBA playoff field is set. Here's the bracket, schedule and more to know for Round 1 - NBC DFW",
+                "description": "The NBA playoff field is set. Here's the bracket, schedule and more to know for Round 1  NBC DFW",
+                "published date": "Fri, 19 Apr 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5iY2Rmdy5jb20vbmV3cy9zcG9ydHMvbmJhL25iYS1wbGF5b2Zmcy0yMDI0LWJyYWNrZXQtZmlyc3Qtcm91bmQtbWF0Y2h1cHMtc2NoZWR1bGUtaG93LXRvLXdhdGNoLzM1MTY4Mzcv0gF6aHR0cHM6Ly93d3cubmJjZGZ3LmNvbS9uZXdzL3Nwb3J0cy9uYmEvbmJhLXBsYXlvZmZzLTIwMjQtYnJhY2tldC1maXJzdC1yb3VuZC1tYXRjaHVwcy1zY2hlZHVsZS1ob3ctdG8td2F0Y2gvMzUxNjgzNy8_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcdfw.com",
+                    "title": "NBC DFW"
+                }
+            },
+            {
+                "title": "Watch the 2024 NBA Playoffs on ABC: See the Schedule - ABC",
+                "description": "Watch the 2024 NBA Playoffs on ABC: See the Schedule  ABC",
+                "published date": "Thu, 18 Apr 2024 23:11:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYWJjLmNvbS9uZXdzL2luc2lkZXIvd2F0Y2gtdGhlLTIwMjQtbmJhLXBsYXlvZmZzLW9uLWFiYy1zZWUtdGhlLTIwMjQtbmJhLXBsYXlvZmZzLXNjaGVkdWxl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://abc.com",
+                    "title": "ABC"
+                }
+            },
+            {
+                "title": "How to watch the 2024 NBA Playoffs free with Hulu + Live TV - CBS News",
+                "description": "How to watch the 2024 NBA Playoffs free with Hulu + Live TV  CBS News",
+                "published date": "Wed, 17 Apr 2024 19:39:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRoZS0yMDI0LW5iYS1wbGF5b2Zmcy13aXRoLWh1bHUtbGl2ZS10di_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
+                }
+            },
+            {
+                "title": "2024 NBA playoffs: First-round schedule, times, TV info, key stats, who to watch - USA TODAY",
+                "description": "2024 NBA playoffs: First-round schedule, times, TV info, key stats, who to watch  USA TODAY",
+                "published date": "Wed, 17 Apr 2024 12:14:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhLzIwMjQvMDQvMTcvMjAyNC1uYmEtcGxheW9mZnMtZmlyc3Qtcm91bmQtc2NoZWR1bGUtdGltZXMtdHYtaW5mby83MzM0ODIzMjAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
                 }
             },
             {
-                "title": "Ryan Garcia defeats Devin Haney in stunning upset victory - Los Angeles Times",
-                "description": "Ryan Garcia defeats Devin Haney in stunning upset victory  Los Angeles Times",
-                "published date": "Sun, 21 Apr 2024 04:02:31 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL3Nwb3J0cy9saXZlYmxvZy9yeWFuLWdhcmNpYS1kZXZpbi1oYW5leS1saXZlLXVwZGF0ZXMtc3RhcnQtdGltZS1iZXR0aW5nLW9kZHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Today's Games - CNET",
+                "description": "NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Today's Games  CNET",
+                "published date": "Sat, 20 Apr 2024 19:50:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL25iYS1wbGF5b2Zmcy0yMDI0LXNjaGVkdWxlLW1hdGNodXBzLXR2LXRpbWVzLWhvdy10by13YXRjaC10b2RheXMtZ2FtZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
+                    "href": "https://www.cnet.com",
+                    "title": "CNET"
                 }
-            },
+            }
+        ]
+    },
+    {
+        "name": "Ryan Garcia vs Devin Haney",
+        "summary": "In a highly anticipated boxing match, Devin Haney faced off against Ryan Garcia. The fight card featured several other bouts, with the main event taking place at the Barclays Center in New York. Haney entered the fight as the favorite, but Garcia pulled off an upset victory by majority decision. The fight was marked by intense buildup, with Garcia shocking the world with his performance. Experts had varying predictions for the outcome, with some favoring Haney and others seeing a potential upset by Garcia. The full results of the fight have been released, detailing Garcia's victory and the undercard results. Garcia's upset win has generated significant discussion and excitement in the boxing world.",
+        "items": [
             {
-                "title": "Devin Haney vs. Ryan Garcia: Fight card, odds, results, start time, date, rumors, location, complete guide - CBS Sports",
-                "description": "Devin Haney vs. Ryan Garcia: Fight card, odds, results, start time, date, rumors, location, complete guide  CBS Sports",
-                "published date": "Sun, 21 Apr 2024 03:00:00 GMT",
+                "title": "Devin Haney vs. Ryan Garcia: Results, highlights, fight card, winners, complete guide - CBS Sports",
+                "description": "Devin Haney vs. Ryan Garcia: Results, highlights, fight card, winners, complete guide  CBS Sports",
+                "published date": "Sun, 21 Apr 2024 06:54:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2JveGluZy9uZXdzL2RldmluLWhhbmV5LXZzLXJ5YW4tZ2FyY2lhLWZpZ2h0LWNhcmQtb2Rkcy1yZXN1bHRzLXN0YXJ0LXRpbWUtZGF0ZS1ydW1vcnMtbG9jYXRpb24tY29tcGxldGUtZ3VpZGUv0gGMAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vYm94aW5nL25ld3MvZGV2aW4taGFuZXktdnMtcnlhbi1nYXJjaWEtZmlnaHQtY2FyZC1vZGRzLXJlc3VsdHMtc3RhcnQtdGltZS1kYXRlLXJ1bW9ycy1sb2NhdGlvbi1jb21wbGV0ZS1ndWlkZS9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbssports.com",
@@ -1846,53 +1922,53 @@
                 }
             },
             {
-                "title": "Ryan Garcia tweets timeline: History of disturbing comments, 'Bohemian Grove' rant as Garcia says he's cleared for ... - Sporting News",
-                "description": "Ryan Garcia tweets timeline: History of disturbing comments, 'Bohemian Grove' rant as Garcia says he's cleared for ...  Sporting News",
-                "published date": "Fri, 19 Apr 2024 13:04:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNwb3J0aW5nbmV3cy5jb20vdXMvYm94aW5nL25ld3Mvcnlhbi1nYXJjaWEtdHdlZXRzLXRpbWVsaW5lLWNvbW1lbnRzL2I5ODM3ZmZkZDRkNGI4NTI4ZDc0Y2RhYtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Devin Haney vs. Ryan Garcia: Predictions, picks, odds - USA TODAY",
+                "description": "Devin Haney vs. Ryan Garcia: Predictions, picks, odds  USA TODAY",
+                "published date": "Mon, 15 Apr 2024 20:25:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvYm94aW5nLzIwMjQvMDQvMTUvZGV2aW4taGFuZXktcnlhbi1nYXJjaWEtcHJlZGljdGlvbnMtb2Rkcy83MzMzMTY0MDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.sportingnews.com",
-                    "title": "Sporting News"
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
                 }
             },
             {
-                "title": "Ryan Garcia wins stunning majority decision over Devin Haney \u2013 live reaction - The Guardian",
-                "description": "Ryan Garcia wins stunning majority decision over Devin Haney \u2013 live reaction  The Guardian",
-                "published date": "Sun, 21 Apr 2024 02:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9saXZlLzIwMjQvYXByLzIwL2RldmluLWhhbmV5LXYtcnlhbi1nYXJjaWEtd2JjLXN1cGVyLWxpZ2h0d2VpZ2h0LWNoYW1waW9uc2hpcC1saXZl0gF0aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0L2xpdmUvMjAyNC9hcHIvMjAvZGV2aW4taGFuZXktdi1yeWFuLWdhcmNpYS13YmMtc3VwZXItbGlnaHR3ZWlnaHQtY2hhbXBpb25zaGlwLWxpdmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Devin Haney vs. Ryan Garcia: Fight card, date, odds, start time - El Paso Times",
+                "description": "Devin Haney vs. Ryan Garcia: Fight card, date, odds, start time  El Paso Times",
+                "published date": "Fri, 19 Apr 2024 13:54:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmVscGFzb3RpbWVzLmNvbS9zdG9yeS9zcG9ydHMvYm94aW5nLzIwMjQvMDQvMTkvcnlhbi1nYXJjaWEtdnMtZGV2aW4taGFuZXktZGF0ZS10aW1lLW9kZHMvNzMzNzQ2MTYwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.theguardian.com",
-                    "title": "The Guardian"
+                    "href": "https://www.elpasotimes.com",
+                    "title": "El Paso Times"
                 }
             },
             {
-                "title": "Devin Haney vs. Ryan Garcia in progress: Live updates, results, highlights - DAZN",
-                "description": "Devin Haney vs. Ryan Garcia in progress: Live updates, results, highlights  DAZN",
-                "published date": "Sun, 21 Apr 2024 04:45:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmRhem4uY29tL2VuLUdCL25ld3MvYm94aW5nL2RldmluLWhhbmV5LXZzLXJ5YW4tZ2FyY2lhLWxpdmUtdXBkYXRlcy1yZXN1bHRzLWhpZ2hsaWdodHMvMW1ubjJhc3ltcWc4ODFwOGdjYzVtcGdxeTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Ryan Garcia Vs. Devin Haney Results: King Ry Shocks The World With Win - Forbes",
+                "description": "Ryan Garcia Vs. Devin Haney Results: King Ry Shocks The World With Win  Forbes",
+                "published date": "Sun, 21 Apr 2024 05:48:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJpYW5tYXppcXVlLzIwMjQvMDQvMjEvcnlhbi1nYXJjaWEtdnMtZGV2aW4taGFuZXktcmVzdWx0cy1raW5nLXJ5LXNob2Nrcy10aGUtd29ybGQtd2l0aC13aW4v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
+                "title": "Devin Haney vs. Ryan Garcia preview, prediction: What to expect after wild buildup - Yahoo Sports",
+                "description": "Devin Haney vs. Ryan Garcia preview, prediction: What to expect after wild buildup  Yahoo Sports",
+                "published date": "Fri, 19 Apr 2024 19:03:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9kZXZpbi1oYW5leS12cy1yeWFuLWdhcmNpYS1wcmV2aWV3LXByZWRpY3Rpb24td2hhdC10by1leHBlY3QtYWZ0ZXItd2lsZC1idWlsZHVwLTE5MDA1ODIxOS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "Devin Haney vs. Ryan Garcia - Former Haney rival makes prediction for big fight - dazn.com",
+                "description": "Devin Haney vs. Ryan Garcia - Former Haney rival makes prediction for big fight  dazn.com",
+                "published date": "Wed, 17 Apr 2024 10:00:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5kYXpuLmNvbS9lbi1VUy9uZXdzL2JveGluZy9kZXZpbi1oYW5leS12cy1yeWFuLWdhcmNpYS1mb3JtZXItaGFuZXktcml2YWwtbWFrZXMtcHJlZGljdGlvbi1mb3ItYmlnLWZpZ2h0L3E2OWl0MTRjdHhpcjFoajhwcnp1dXM3cDPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.dazn.com",
-                    "title": "DAZN"
-                }
-            },
-            {
-                "title": "Garcia vs Haney LIVE: Latest fight updates and results tonight - The Independent",
-                "description": "Garcia vs Haney LIVE: Latest fight updates and results tonight  The Independent",
-                "published date": "Sun, 21 Apr 2024 05:54:56 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3Nwb3J0L2JveGluZy9oYW5leS1nYXJjaWEtZmlnaHQtc3RyZWFtLXVwZGF0ZXMtYjI1MzE5ODkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.independent.co.uk",
-                    "title": "The Independent"
-                }
-            },
-            {
-                "title": "Devin Haney vs. Ryan Garcia: Fight Odds, Live Stream, Predictions - Bleacher Report",
-                "description": "Devin Haney vs. Ryan Garcia: Fight Odds, Live Stream, Predictions  Bleacher Report",
-                "published date": "Sat, 20 Apr 2024 11:09:05 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE3NjcxLWRldmluLWhhbmV5LXZzLXJ5YW4tZ2FyY2lhLWZpZ2h0LW9kZHMtbGl2ZS1zdHJlYW0tcHJlZGljdGlvbnPSAXpodHRwczovL3N5bmRpY2F0aW9uLmJsZWFjaGVycmVwb3J0LmNvbS9hbXAvMTAxMTc2NzEtZGV2aW4taGFuZXktdnMtcnlhbi1nYXJjaWEtZmlnaHQtb2Rkcy1saXZlLXN0cmVhbS1wcmVkaWN0aW9ucy5hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
+                    "title": "dazn.com"
                 }
             },
             {
@@ -1904,12 +1980,42 @@
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
                 }
+            },
+            {
+                "title": "Ryan Garcia vs. Devin Haney: Best photos from fight, buildup to bout at Barclays - USA TODAY",
+                "description": "Ryan Garcia vs. Devin Haney: Best photos from fight, buildup to bout at Barclays  USA TODAY",
+                "published date": "Sun, 21 Apr 2024 03:33:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9waWN0dXJlLWdhbGxlcnkvc3BvcnRzL2JveGluZy8yMDI0LzA0LzIwL3J5YW4tZ2FyY2lhLWRldmluLWhhbmV5LWZpZ2h0LXBob3Rvcy83MzM5NjM1MzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Devin Haney Vs. Ryan Garcia: Odds, Records, Prediction (Updated With Betting Results) - Forbes",
+                "description": "Devin Haney Vs. Ryan Garcia: Odds, Records, Prediction (Updated With Betting Results)  Forbes",
+                "published date": "Sat, 20 Apr 2024 13:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvam9zaGthdHpvd2l0ei8yMDI0LzA0LzIwL2RldmluLWhhbmV5LXZzLXJ5YW4tZ2FyY2lhLW9kZHMtcmVjb3Jkcy1wcmVkaWN0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
+                "title": "Devin Haney vs. Ryan Garcia full results: Garcia upsets Haney by majority decision - Yahoo Sports",
+                "description": "Devin Haney vs. Ryan Garcia full results: Garcia upsets Haney by majority decision  Yahoo Sports",
+                "published date": "Sun, 21 Apr 2024 05:56:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9saXZlL2RldmluLWhhbmV5LXZzLXJ5YW4tZ2FyY2lhLWZ1bGwtcmVzdWx0cy1nYXJjaWEtdXBzZXRzLWhhbmV5LWJ5LW1ham9yaXR5LWRlY2lzaW9uLTAwMDAyMzM3My5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
             }
         ]
     },
     {
         "name": "Mandisa",
-        "summary": "Mandisa Hundley, a former \"American Idol\" contestant and Grammy-winning Christian musician, was found dead at age 47 at her home in the Nashville, Tennessee area. The investigation into her death is ongoing. Mandisa was known for her powerful voice and uplifting Christian songs, earning her a devoted following. She first gained recognition as a finalist on the fifth season of \"American Idol\" and later released several successful albums and singles. Her death has shocked and saddened the music industry and fans alike, with tributes pouring in from fellow artists and celebrities.",
+        "summary": "Mandisa, a Grammy-winning singer and \"American Idol\" alum, has passed away at the age of 47. The circumstances surrounding her death are currently under investigation. Mandisa was a beloved figure in the music industry, known for her powerful vocals and inspirational songs. Her impact is evident in the outpouring of grief and tributes from fellow \"American Idol\" alumni, including Paula Abdul and Taylor Hicks. The news of her passing has sent shockwaves through the music world and has left her fans mourning the loss of a talented and influential artist.",
         "items": [
             {
                 "title": "Investigation underway after 'American Idol' alum Mandisa found dead - Tennessean",
@@ -1952,6 +2058,16 @@
                 }
             },
             {
+                "title": "Mandisa Dead: Paula Abdul, Taylor Hicks, More 'American Idol' Alum React - PEOPLE",
+                "description": "Mandisa Dead: Paula Abdul, Taylor Hicks, More 'American Idol' Alum React  PEOPLE",
+                "published date": "Fri, 19 Apr 2024 19:40:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vcGVvcGxlLmNvbS9tYW5kaXNhLWRlYWQtYW1lcmljYW4taWRvbC1hbHVtLXJlYWN0aW9ucy10cmlidXRlcy04NjM2MDA40gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://people.com",
+                    "title": "PEOPLE"
+                }
+            },
+            {
                 "title": "Mandisa, 'American Idol' singer and Grammy winner, dies at 47 - NBC News",
                 "description": "Mandisa, 'American Idol' singer and Grammy winner, dies at 47  NBC News",
                 "published date": "Fri, 19 Apr 2024 17:11:14 GMT",
@@ -1982,16 +2098,6 @@
                 }
             },
             {
-                "title": "'American Idol' alum Mandisa found dead at Nashville-area home - Courier Journal",
-                "description": "'American Idol' alum Mandisa found dead at Nashville-area home  Courier Journal",
-                "published date": "Sat, 20 Apr 2024 15:34:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNvdXJpZXItam91cm5hbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA0LzIwL21hbmRpc2EtZGVhZC1hdC00Ny83MzM5NTc4NzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.courier-journal.com",
-                    "title": "Courier Journal"
-                }
-            },
-            {
                 "title": "Mandisa, 'American Idol' star and Grammy-winning Christian music singer, dies at 47 - Los Angeles Times",
                 "description": "Mandisa, 'American Idol' star and Grammy-winning Christian music singer, dies at 47  Los Angeles Times",
                 "published date": "Fri, 19 Apr 2024 16:18:45 GMT",
@@ -2002,119 +2108,13 @@
                 }
             },
             {
-                "title": "Mandisa, 'American Idol' Alum and Gospel Singer, Dies at 47 - TODAY",
-                "description": "Mandisa, 'American Idol' Alum and Gospel Singer, Dies at 47  TODAY",
-                "published date": "Fri, 19 Apr 2024 20:10:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnRvZGF5LmNvbS9wb3BjdWx0dXJlL211c2ljL21hbmRpc2EtYW1lcmljYW4taWRvbC1jaHJpc3RpYW4tc2luZ2VyLWRpZXMtcmNuYTE0ODU1ONIBKmh0dHBzOi8vd3d3LnRvZGF5LmNvbS90b2RheS9hbXAvcmNuYTE0ODU1OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "'American Idol' alum Mandisa found dead at Nashville-area home - Courier Journal",
+                "description": "'American Idol' alum Mandisa found dead at Nashville-area home  Courier Journal",
+                "published date": "Sat, 20 Apr 2024 15:34:19 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNvdXJpZXItam91cm5hbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA0LzIwL21hbmRpc2EtZGVhZC1hdC00Ny83MzM5NTc4NzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.today.com",
-                    "title": "TODAY"
-                }
-            }
-        ]
-    },
-    {
-        "name": "FA Cup",
-        "summary": "The FA Cup, one of the oldest football competitions in the world, will undergo significant changes next season. Replays after drawn matches will be eliminated, and the final will take place on the penultimate weekend of the season. This is a major departure from the traditional format, which had included replays since the competition's inception in 1871. The changes are intended to reduce fixture congestion and ease player workload, especially during the later stages of the tournament.",
-        "items": [
-            {
-                "title": "FA Cup replays to be scrapped from next season - ESPN",
-                "description": "FA Cup replays to be scrapped from next season  ESPN",
-                "published date": "Thu, 18 Apr 2024 11:02:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9zdG9yeS9fL2lkLzM5OTY3MTY3L2ZhLWN1cC1yZXBsYXlzLXNjcmFwcGVkLTIwMjQtMjUtc2Vhc29u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "FA Cup replays scrapped, final to be played on penultimate weekend of season - The Athletic",
-                "description": "FA Cup replays scrapped, final to be played on penultimate weekend of season  The Athletic",
-                "published date": "Thu, 18 Apr 2024 16:07:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0MDg2ODYvMjAyNC8wNC8xOC9mYS1jdXAtcmVwbGF5cy1zY3JhcHBlZC1maW5hbC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
-                }
-            },
-            {
-                "title": "Where to watch Manchester City vs. Chelsea live stream: FA Cup live online, TV channel, prediction, time, odds - CBS Sports",
-                "description": "Where to watch Manchester City vs. Chelsea live stream: FA Cup live online, TV channel, prediction, time, odds  CBS Sports",
-                "published date": "Sat, 20 Apr 2024 15:04:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL3NvY2Nlci9uZXdzL3doZXJlLXRvLXdhdGNoLW1hbmNoZXN0ZXItY2l0eS12cy1jaGVsc2VhLWxpdmUtc3RyZWFtLWZhLWN1cC1saXZlLW9ubGluZS10di1jaGFubmVsLXByZWRpY3Rpb24tc3RhcnQtdGltZS_SAZQBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9zb2NjZXIvbmV3cy93aGVyZS10by13YXRjaC1tYW5jaGVzdGVyLWNpdHktdnMtY2hlbHNlYS1saXZlLXN0cmVhbS1mYS1jdXAtbGl2ZS1vbmxpbmUtdHYtY2hhbm5lbC1wcmVkaWN0aW9uLXN0YXJ0LXRpbWUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "Watch FA Cup Semifinal Soccer: Livestream Man City vs. Chelsea From Anywhere - CNET",
-                "description": "Watch FA Cup Semifinal Soccer: Livestream Man City vs. Chelsea From Anywhere  CNET",
-                "published date": "Sat, 20 Apr 2024 13:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL3dhdGNoLWZhLWN1cC1zZW1pZmluYWwtc29jY2VyLWxpdmVzdHJlYW0tbWFuLWNpdHktdnMtY2hlbHNlYS1mcm9tLWFueXdoZXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
-                }
-            },
-            {
-                "title": "Are there replays in the FA Cup 2023/24? What happens if matches end in a draw - Sporting News",
-                "description": "Are there replays in the FA Cup 2023/24? What happens if matches end in a draw  Sporting News",
-                "published date": "Thu, 18 Apr 2024 11:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNwb3J0aW5nbmV3cy5jb20vdXMvc29jY2VyL25ld3MvYXJlLXRoZXJlLXJlcGxheXMtZmEtY3VwLTIwMjMtMjQtd2hhdC1oYXBwZW5zLW1hdGNoZXMtZHJhdy8xMDY1MTY2MmFhYzI0NjU5NjVlOWI5YTHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.sportingnews.com",
-                    "title": "Sporting News"
-                }
-            },
-            {
-                "title": "Manchester City vs Chelsea 1-0: FA Cup semifinal \u2013 as it happened - Al Jazeera English",
-                "description": "Manchester City vs Chelsea 1-0: FA Cup semifinal \u2013 as it happened  Al Jazeera English",
-                "published date": "Sat, 20 Apr 2024 19:07:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzL2xpdmVibG9nLzIwMjQvNC8yMC9saXZlLW1hbmNoZXN0ZXItY2l0eS12cy1jaGVsc2VhLWZhLWN1cC1zZW1pZmluYWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
-                }
-            },
-            {
-                "title": "Manchester City 1-0 Chelsea: Bernardo Silva pushes City to FA Cup Final - NBC Sports",
-                "description": "Manchester City 1-0 Chelsea: Bernardo Silva pushes City to FA Cup Final  NBC Sports",
-                "published date": "Sat, 20 Apr 2024 10:13:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vc29jY2VyL25ld3MvbWFuY2hlc3Rlci1jaXR5LXZzLWNoZWxzZWEtaG93LXRvLXdhdGNoLWZhLWN1cC1zZW1pZmluYWwtbGl2ZS10ZWFtLW5ld3MtdXBkYXRlc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcsports.com",
-                    "title": "NBC Sports"
-                }
-            },
-            {
-                "title": "Manchester City vs. Chelsea 2024 livestream: Watch FA Cup for free - Mashable",
-                "description": "Manchester City vs. Chelsea 2024 livestream: Watch FA Cup for free  Mashable",
-                "published date": "Sat, 20 Apr 2024 04:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvbWFuY2hlc3Rlci1jaXR5LWNoZWxzZWEtZmEtY3VwLWxpdmUtc3RyZWFtLWZvci1mcmVl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://mashable.com",
-                    "title": "Mashable"
-                }
-            },
-            {
-                "title": "EFL Statement: FA Cup Replays - The English Football League - EFL",
-                "description": "EFL Statement: FA Cup Replays - The English Football League  EFL",
-                "published date": "Fri, 19 Apr 2024 12:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vZWZsLmNvbS9uZXdzLzIwMjQvYXByaWwvMTkvZWZsLXN0YXRlbWVudC0tZmEtY3VwLXJlcGxheXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://efl.com",
-                    "title": "EFL"
-                }
-            },
-            {
-                "title": "Manchester City 1-0 Chelsea: FA Cup semi-final result from Wembley as Bernardo Silva strikes late to clinch victory for ... - Eurosport COM",
-                "description": "Manchester City 1-0 Chelsea: FA Cup semi-final result from Wembley as Bernardo Silva strikes late to clinch victory for ...  Eurosport COM",
-                "published date": "Sat, 20 Apr 2024 18:17:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmV1cm9zcG9ydC5jb20vZm9vdGJhbGwvdGhlLWVtaXJhdGVzLWZhLWN1cC8yMDIzLTIwMjQvbGl2ZS1tYW5jaGVzdGVyLWNpdHktY2hlbHNlYV9tdGMxNDg0Mzk2L2xpdmUtY29tbWVudGFyeS5zaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.eurosport.com",
-                    "title": "Eurosport COM"
+                    "href": "https://www.courier-journal.com",
+                    "title": "Courier Journal"
                 }
             }
         ]
