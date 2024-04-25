@@ -1,107 +1,179 @@
 [
     {
+        "title": "'The Last Timbit': Tim Hortons musical coming to Toronto - CP24",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNwMjQuY29tL2VudGVydGFpbm1lbnQtbmV3cy90aGUtbGFzdC10aW1iaXQtdGltLWhvcnRvbnMtbXVzaWNhbC1jb21pbmctdG8tdG9yb250by0xLjY4NjEzMTHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 11:51:00 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
+    },
+    {
+        "title": "How a Toronto comedian found a viral audience impersonating the Barefoot Contessa, Ina Garten - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy50aGVzdGFyLmNvbS9lbnRlcnRhaW5tZW50L2hvdy1hLXRvcm9udG8tY29tZWRpYW4tZm91bmQtYS12aXJhbC1hdWRpZW5jZS1pbXBlcnNvbmF0aW5nLXRoZS1iYXJlZm9vdC1jb250ZXNzYS1pbmEtZ2FydGVuL2FydGljbGVfYzZlZWI4NWEtMDFiOC0xMWVmLWFkNGQtOGY3MWE3YWE4OWI0Lmh0bWzSAbgBaHR0cHM6Ly93d3cudGhlc3Rhci5jb20vZW50ZXJ0YWlubWVudC9ob3ctYS10b3JvbnRvLWNvbWVkaWFuLWZvdW5kLWEtdmlyYWwtYXVkaWVuY2UtaW1wZXJzb25hdGluZy10aGUtYmFyZWZvb3QtY29udGVzc2EtaW5hLWdhcnRlbi9hcnRpY2xlX2M2ZWViODVhLTAxYjgtMTFlZi1hZDRkLThmNzFhN2FhODliNC5hbXAuaHRtbA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 09:00:00 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
+    },
+    {
+        "title": "Man shot and killed in violent home invasion at Etobicoke townhouse, police say - CP24",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvbWFuLXNob3QtYW5kLWtpbGxlZC1pbi12aW9sZW50LWhvbWUtaW52YXNpb24tYXQtZXRvYmljb2tlLXRvd25ob3VzZS1wb2xpY2Utc2F5LTEuNjg2MTU3M9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 15:14:00 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
+    },
+    {
+        "title": "Grocery store is permanently closing all Toronto locations - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmJsb2d0by5jb20vZWF0X2RyaW5rLzIwMjQvMDQvb3JnYW5pYy1nYXJhZ2UtdG9yb250by1jbG9zaW5nLWFsbC1sb2NhdGlvbnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 19:03:03 GMT",
+        "source_url": "https://www.blogto.com",
+        "source_name": "blogTO"
+    },
+    {
+        "title": "Boutique hotel boom: First of five upscale properties popping up in downtown Toronto to open this fall - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy50aGVzdGFyLmNvbS9idXNpbmVzcy9ib3V0aXF1ZS1ob3RlbC1ib29tLWZpcnN0LW9mLWZpdmUtdXBzY2FsZS1wcm9wZXJ0aWVzLXBvcHBpbmctdXAtaW4tZG93bnRvd24tdG9yb250by10by1vcGVuL2FydGljbGVfMzc1NTFjMjItMDI0Ny0xMWVmLWI2ZDItZmI0ZjUwY2EwNGY1Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 22:00:00 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
+    },
+    {
+        "title": "Uniqlo is opening a new Toronto store this week - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmJsb2d0by5jb20vZmFzaGlvbl9zdHlsZS8yMDI0LzA0L3VuaXFsby10b3JvbnRvLXNjYXJib3JvdWdoLXRvd24tY2VudHJlLW9wZW5pbmcv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 15:32:23 GMT",
+        "source_url": "https://www.blogto.com",
+        "source_name": "blogTO"
+    },
+    {
+        "title": "In Toronto, a lakeside retreat - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcmVhbC1lc3RhdGUvdG9yb250by9hcnRpY2xlLWluLXRvcm9udG8tYS1sYWtlc2lkZS1yZXRyZWF0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 13:00:00 GMT",
+        "source_url": "https://www.theglobeandmail.com",
+        "source_name": "The Globe and Mail"
+    },
+    {
+        "title": "Toronto unveils new and improved sidewalk litter bins - CP24",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jcDI0LmNvbS9uZXdzL2ktbGl0ZXJhbGx5LWluaGVyaXRlZC1hLW1lc3MtY2hvdy1zYXlzLWFzLWNpdHktdW52ZWlscy1uZXctYW5kLWltcHJvdmVkLXNpZGV3YWxrLWxpdHRlci1iaW5zLTEuNjg2MTgxM9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 17:15:19 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
+    },
+    {
+        "title": "Huge lineup of people looking to apply at restaurant shows reality of Toronto job market - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmJsb2d0by5jb20vZWF0X2RyaW5rLzIwMjQvMDQvaHVnZS1saW5ldXAtcmVzdGF1cmFudC10b3JvbnRvLWpvYi1tYXJrZXQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 19:24:13 GMT",
+        "source_url": "https://www.blogto.com",
+        "source_name": "blogTO"
+    },
+    {
+        "title": "Man wanted in unprovoked assault of woman in Etobicoke - CityNews Toronto",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI1L21hbi13YW50ZWQtZXRvYmljb2tlLWFzc2F1bHQtcGhvdG9zLXJlbGVhc2VkL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 12:36:00 GMT",
+        "source_url": "https://toronto.citynews.ca",
+        "source_name": "CityNews Toronto"
+    },
+    {
+        "title": "A glimmer of hope in the midst of Toronto's affordability crisis - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9vcGluaW9uL3N0YXItY29sdW1uaXN0cy9hLWdsaW1tZXItb2YtaG9wZS1pbi10aGUtbWlkc3Qtb2YtdG9yb250b3MtYWZmb3JkYWJpbGl0eS1jcmlzaXMvYXJ0aWNsZV82ZTk2ZWI1Yy0wMjUxLTExZWYtYTAyYi1lYjI0YWY5MjUxMzkuaHRtbNIBpQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9vcGluaW9uL3N0YXItY29sdW1uaXN0cy9hLWdsaW1tZXItb2YtaG9wZS1pbi10aGUtbWlkc3Qtb2YtdG9yb250b3MtYWZmb3JkYWJpbGl0eS1jcmlzaXMvYXJ0aWNsZV82ZTk2ZWI1Yy0wMjUxLTExZWYtYTAyYi1lYjI0YWY5MjUxMzkuYW1wLmh0bWw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 15:36:03 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
+    },
+    {
+        "title": "Major construction closes Highway 401 lane for months through west Toronto | insauga - insauga.com",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lmluc2F1Z2EuY29tL21ham9yLWNvbnN0cnVjdGlvbi1jbG9zZXMtaGlnaHdheS00MDEtbGFuZS1mb3ItbW9udGhzLXRocm91Z2gtd2VzdC10b3JvbnRvL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 15:14:09 GMT",
+        "source_url": "https://www.insauga.com",
+        "source_name": "insauga.com"
+    },
+    {
+        "title": "Toronto's most scenic skating rink is gone forever but here's what's replacing it - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L3Rvcm9udG8tbW9zdC1zY2VuaWMtc2thdGluZy1yaW5rLW5vLW1vcmUtcmVwbGFjaW5nL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 21:04:11 GMT",
+        "source_url": "https://www.blogto.com",
+        "source_name": "blogTO"
+    },
+    {
+        "title": "Toronto sees huge revenue jump from parking fees. Here\u2019s how much you paid - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNDQ5MDc0L3Rvcm9udG8tcGFya2luZy1wcmljZXMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 17:30:52 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
+    },
+    {
+        "title": "Man dead after reported push from downtown balcony: Toronto police - CP24",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvbWFuLWRlYWQtYWZ0ZXItcmVwb3J0ZWQtcHVzaC1mcm9tLWRvd250b3duLWJhbGNvbnktdG9yb250by1wb2xpY2UtMS42ODYxMzU20gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 12:27:50 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
+    },
+    {
+        "title": "Seven new 'supertall' buildings are coming to Toronto \u2014 is that a good thing? - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy50aGVzdGFyLmNvbS9yZWFsLWVzdGF0ZS9zZXZlbi1uZXctc3VwZXJ0YWxsLWJ1aWxkaW5ncy1hcmUtY29taW5nLXRvLXRvcm9udG8taXMtdGhhdC1hLWdvb2QtdGhpbmcvYXJ0aWNsZV81ZTc3MWY5NC0wMGRmLTExZWYtOThlMC0xMzA0YTIwMDI1ZjUuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 09:00:00 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
+    },
+    {
+        "title": "New Indigenous loan guarantee program a 'really big deal,' Freeland says at Toronto conference - CTV News Toronto",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3Rvcm9udG8uY3R2bmV3cy5jYS9uZXctaW5kaWdlbm91cy1sb2FuLWd1YXJhbnRlZS1wcm9ncmFtLWEtcmVhbGx5LWJpZy1kZWFsLWZyZWVsYW5kLXNheXMtYXQtdG9yb250by1jb25mZXJlbmNlLTEuNjg2MTEyNdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 02:02:00 GMT",
+        "source_url": "https://toronto.ctvnews.ca",
+        "source_name": "CTV News Toronto"
+    },
+    {
         "title": "3 bars in Toronto have just been ranked among the best in North America - blogTO",
         "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmJsb2d0by5jb20vZWF0X2RyaW5rLzIwMjQvMDQvdG9yb250by1iYXJzLXJhbmtlZC1iZXN0LW5vcnRoLWFtZXJpY2Ev0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 17:00:55 GMT",
+        "pub_date": "Wed, 24 Apr 2024 16:50:03 GMT",
         "source_url": "https://www.blogto.com",
         "source_name": "blogTO"
     },
     {
-        "title": "Does a dangerous dog live near you? You can now find out as new measures to protect public go into effect - CityNews Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI0L2Rhbmdlcm91cy1kb2dzLXRvcm9udG8tcnVsZXMv0gEA?oc=5",
+        "title": "Beloved Toronto patio at risk of closing over licensing dispute - CityNews Toronto",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS92aWRlby8yMDI0LzA0LzI0L2JlbG92ZWQtdG9yb250by1wYXRpby1hdC1yaXNrLW9mLWNsb3Npbmctb3Zlci1saWNlbnNpbmctZGlzcHV0ZS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 19:08:00 GMT",
+        "pub_date": "Wed, 24 Apr 2024 21:51:37 GMT",
         "source_url": "https://toronto.citynews.ca",
         "source_name": "CityNews Toronto"
     },
     {
-        "title": "Suspect stabs stranger after bumping into them: Toronto police - CP24",
-        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jcDI0LmNvbS9uZXdzL3Rvcm9udG8tcG9saWNlLXJlbGVhc2UtdmlkZW9zLW9mLXN1c3BlY3Qtd2hvLWFsbGVnZWRseS1idW1wZWQtaW50by1zdHJhbmdlci1hbmQtc3RhYmJlZC10aGVtLTEuNjg2MDYyNdIBAA?oc=5",
+        "title": "On the \u2018frontline\u2019: Toronto-area residents hiring security firms to fight auto theft - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNDQzOTkzL2F1dG8tdGhlZnRzLXRvcm9udG8tc2VjdXJpdHktZ3VhcmRzL9IBTGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNDQzOTkzL2F1dG8tdGhlZnRzLXRvcm9udG8tc2VjdXJpdHktZ3VhcmRzL2FtcC8?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 22:58:05 GMT",
-        "source_url": "https://www.cp24.com",
-        "source_name": "CP24"
+        "pub_date": "Thu, 25 Apr 2024 08:00:15 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
     },
     {
-        "title": "Shortest flight out of Toronto is so pointless that Google actually suggests a train - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmJsb2d0by5jb20vdHJhdmVsLzIwMjQvMDQvc2hvcnRlc3QtZmxpZ2h0LXRvcm9udG8v0gEA?oc=5",
+        "title": "His signs were everywhere in Toronto mayor's race last year. Now Edward Gong wants to be Mississauga mayor - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS9oaXMtc2lnbnMtd2VyZS1ldmVyeXdoZXJlLWluLXRvcm9udG8tbWF5b3JzLXJhY2UtbGFzdC15ZWFyLW5vdy1lZHdhcmQtZ29uZy13YW50cy10by9hcnRpY2xlXzQwODE1ZmI2LTAzMmEtMTFlZi1hYTE0LWQ3ZGM4MzI2NjkyYy5odG1s0gGqAWh0dHBzOi8vd3d3LnRoZXN0YXIuY29tL25ld3MvZ3RhL2hpcy1zaWducy13ZXJlLWV2ZXJ5d2hlcmUtaW4tdG9yb250by1tYXlvcnMtcmFjZS1sYXN0LXllYXItbm93LWVkd2FyZC1nb25nLXdhbnRzLXRvL2FydGljbGVfNDA4MTVmYjYtMDMyYS0xMWVmLWFhMTQtZDdkYzgzMjY2OTJjLmFtcC5odG1s?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 13:11:04 GMT",
-        "source_url": "https://www.blogto.com",
-        "source_name": "blogTO"
-    },
-    {
-        "title": "New condo sales in the Toronto area hit low not seen since financial crisis - CP24",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvbmV3LWNvbmRvLXNhbGVzLWluLXRoZS10b3JvbnRvLWFyZWEtaGl0LWxvdy1ub3Qtc2Vlbi1zaW5jZS1maW5hbmNpYWwtY3Jpc2lzLTEuNjg2MDQ4ONIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 20:19:02 GMT",
-        "source_url": "https://www.cp24.com",
-        "source_name": "CP24"
-    },
-    {
-        "title": "Toronto under a frost advisory but temperatures could hit low 20s over the weekend - CityNews Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI0L2Zyb3N0LWFkdmlzb3J5LXdpbmQtY2hpbGwtdG9yb250by13ZWF0aGVyLXNwcmluZy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 15:54:00 GMT",
-        "source_url": "https://toronto.citynews.ca",
-        "source_name": "CityNews Toronto"
-    },
-    {
-        "title": "10 things to do in Toronto this weekend - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmJsb2d0by5jb20vcmFkYXIvMjAyNC8wNC90aGluZ3MtZG8tdG9yb250by13ZWVrZW5kLWFwcmlsLTI2L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 05:04:51 GMT",
-        "source_url": "https://www.blogto.com",
-        "source_name": "blogTO"
-    },
-    {
-        "title": "Jewelry store robbery in Toronto captured on video - CP24",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNwMjQuY29tL25ld3Mvc3VzcGVjdHMtd2F2aW5nLXdlYXBvbnMtc21hc2hpbmctZ2xhc3MtaW4tdG9yb250by1qZXdlbHJ5LXN0b3JlLXJvYmJlcnktY2F1Z2h0LW9uLXZpZGVvLTEuNjg1OTgyOdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 13:20:00 GMT",
-        "source_url": "https://www.cp24.com",
-        "source_name": "CP24"
-    },
-    {
-        "title": "A new hip in 4 weeks instead of months: These Toronto doctors' plan to cut surgical wait times is seeing results - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2NhbmFkYS9hLW5ldy1oaXAtaW4tNC13ZWVrcy1pbnN0ZWFkLW9mLW1vbnRocy10aGVzZS10b3JvbnRvLWRvY3RvcnMtcGxhbi10by1jdXQvYXJ0aWNsZV84ZTkwMTQyNi1mZTYyLTExZWUtYWNkMy1hYjQ3ODExNGJhNWUuaHRtbNIBogFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2NhbmFkYS9hLW5ldy1oaXAtaW4tNC13ZWVrcy1pbnN0ZWFkLW9mLW1vbnRocy10aGVzZS10b3JvbnRvLWRvY3RvcnMtcGxhbi10by1jdXQvYXJ0aWNsZV84ZTkwMTQyNi1mZTYyLTExZWUtYWNkMy1hYjQ3ODExNGJhNWUuYW1wLmh0bWw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 20:08:00 GMT",
+        "pub_date": "Thu, 25 Apr 2024 17:36:00 GMT",
         "source_url": "https://www.thestar.com",
         "source_name": "Toronto Star"
     },
     {
-        "title": "Ontario to do away with sick note requirement for short absences - Toronto Sun",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdG9yb250b3N1bi5jb20vbmV3cy9wcm92aW5jaWFsL29udGFyaW8tdG8tZG8tYXdheS13aXRoLXNpY2stbm90ZS1yZXF1aXJlbWVudC1mb3Itc2hvcnQtYWJzZW5jZXPSAQA?oc=5",
+        "title": "News Roundup for April 25, 2024 | UrbanToronto - Urban Toronto",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdXJiYW50b3JvbnRvLmNhL25ld3MvMjAyNC8wNC9uZXdzLXJvdW5kdXAtYXByaWwtMjUtMjAyNC41NTgwNdIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 18:10:40 GMT",
-        "source_url": "https://torontosun.com",
-        "source_name": "Toronto Sun"
-    },
-    {
-        "title": "Toronto's most cursed intersection appears to finally finish years-long construction - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L3Rvcm9udG8teW9uZ2UtZWdsaW50b24taW50ZXJzZWN0aW9uLWNvbnN0cnVjdGlvbi_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 16:44:13 GMT",
-        "source_url": "https://www.blogto.com",
-        "source_name": "blogTO"
-    },
-    {
-        "title": "Toronto Catholic school board will not fly 'pro-life' flag in May - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS90b3JvbnRvLWNhdGhvbGljLXNjaG9vbC1ib2FyZC13aWxsLW5vdC1mbHktcHJvLWxpZmUtZmxhZy1pbi1tYXkvYXJ0aWNsZV85YThkMjJhMC0wMTkxLTExZWYtYWRjZi0zM2IxMWViZGQzNTQuaHRtbNIBlgFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS90b3JvbnRvLWNhdGhvbGljLXNjaG9vbC1ib2FyZC13aWxsLW5vdC1mbHktcHJvLWxpZmUtZmxhZy1pbi1tYXkvYXJ0aWNsZV85YThkMjJhMC0wMTkxLTExZWYtYWRjZi0zM2IxMWViZGQzNTQuYW1wLmh0bWw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 15:33:00 GMT",
-        "source_url": "https://www.thestar.com",
-        "source_name": "Toronto Star"
-    },
-    {
-        "title": "Man seriously injured in North York highrise fire - CityNews Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI0L2hpZ2hyaXNlLWZpcmUtdHJldGhld2V5LW5vcnRoLXlvcmsv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 13:50:00 GMT",
-        "source_url": "https://toronto.citynews.ca",
-        "source_name": "CityNews Toronto"
+        "pub_date": "Thu, 25 Apr 2024 13:46:37 GMT",
+        "source_url": "https://urbantoronto.ca",
+        "source_name": "Urban Toronto"
     },
     {
         "title": "Prospective renter shocked by Toronto landlord's ridiculous house rules - Toronto Sun",
@@ -112,164 +184,20 @@
         "source_name": "Toronto Sun"
     },
     {
-        "title": "A weather advisory in effect in Toronto and other cities in southern Ontario | insauga - insauga.com",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lmluc2F1Z2EuY29tL2Etd2VhdGhlci1hZHZpc29yeS1pbi1lZmZlY3QtaW4tdG9yb250by1hbmQtb3RoZXItY2l0aWVzLWluLXNvdXRoZXJuLW9udGFyaW8v0gEA?oc=5",
+        "title": "New Toronto subway station under construction will be topped by two towers - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L3Rvcm9udG8tc3Vid2F5LXN0YXRpb24tY29uc3RydWN0aW9uLXRvcHBlZC10b3dlcnMv0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 21:57:27 GMT",
-        "source_url": "https://www.insauga.com",
-        "source_name": "insauga.com"
-    },
-    {
-        "title": "I wish our politicians saw what I did when I had to visit two Toronto emergency rooms recently - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy50aGVzdGFyLmNvbS9vcGluaW9uL2NvbnRyaWJ1dG9ycy9pLXdpc2gtb3VyLXBvbGl0aWNpYW5zLXNhdy13aGF0LWktZGlkLXdoZW4taS1oYWQtdG8tdmlzaXQtdHdvLXRvcm9udG8vYXJ0aWNsZV8yMWM5ZGVjYS0wMGU4LTExZWYtYWRiNy0zYmIwZGNhNThmNTMuaHRtbNIBqAFodHRwczovL3d3dy50aGVzdGFyLmNvbS9vcGluaW9uL2NvbnRyaWJ1dG9ycy9pLXdpc2gtb3VyLXBvbGl0aWNpYW5zLXNhdy13aGF0LWktZGlkLXdoZW4taS1oYWQtdG8tdmlzaXQtdHdvLXRvcm9udG8vYXJ0aWNsZV8yMWM5ZGVjYS0wMGU4LTExZWYtYWRiNy0zYmIwZGNhNThmNTMuYW1wLmh0bWw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 09:30:00 GMT",
-        "source_url": "https://www.thestar.com",
-        "source_name": "Toronto Star"
-    },
-    {
-        "title": "Two matching megacomplexes to totally transform Toronto neighbourhood - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJsb2d0by5jb20vcmVhbC1lc3RhdGUtdG9yb250by8yMDI0LzA0LzExMC0xNTAtZWdsaW50b24tYXZlbnVlLWVhc3QtdG9yb250by_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 14:53:16 GMT",
+        "pub_date": "Thu, 25 Apr 2024 18:48:58 GMT",
         "source_url": "https://www.blogto.com",
         "source_name": "blogTO"
     },
     {
-        "title": "Man critically injured after fall in downtown Toronto: paramedics - CTV News Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL21hbi1jcml0aWNhbGx5LWluanVyZWQtYWZ0ZXItZmFsbC1pbi1kb3dudG93bi10b3JvbnRvLXBhcmFtZWRpY3MtMS42ODYwMjcz0gEA?oc=5",
+        "title": "CCLA presses for action after Toronto police chief comments on Zameer acquittal - CP24",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvY2NsYS1wcmVzc2VzLWZvci1hY3Rpb24tYWZ0ZXItdG9yb250by1wb2xpY2UtY2hpZWYtY29tbWVudHMtb24temFtZWVyLWFjcXVpdHRhbC0xLjY4NjE5NDDSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 17:40:00 GMT",
-        "source_url": "https://toronto.ctvnews.ca",
-        "source_name": "CTV News Toronto"
-    },
-    {
-        "title": "That's Some Arm | UrbanToronto - Urban Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vdXJiYW50b3JvbnRvLmNhL25ld3MvMjAyNC8wNC90aGF0cy1zb21lLWFybS41NTc4NNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 10:01:06 GMT",
-        "source_url": "https://urbantoronto.ca",
-        "source_name": "Urban Toronto"
-    },
-    {
-        "title": "Toronto was named one of the best cities in the world for millennials and here's why - Narcity Canada",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5hcmNpdHkuY29tL3Rvcm9udG8vYmVzdC1wbGFjZXMtdG8tbGl2ZS1pbi1jYW5hZGEtdG9yb250by1taWxsZW5uaWFsc9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 17:58:29 GMT",
-        "source_url": "https://www.narcity.com",
-        "source_name": "Narcity Canada"
-    },
-    {
-        "title": "Toronto to end the month with April showers and see a warm, cloudy start to May - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS90b3JvbnRvLXRvLWVuZC10aGUtbW9udGgtd2l0aC1hcHJpbC1zaG93ZXJzLWFuZC1zZWUtYS13YXJtLWNsb3VkeS1zdGFydC10by9hcnRpY2xlX2ZlMmI5MmM0LTAyM2ItMTFlZi05NzUxLTBiNDYxZTcxYzdkMy5odG1s0gGhAWh0dHBzOi8vd3d3LnRoZXN0YXIuY29tL25ld3MvZ3RhL3Rvcm9udG8tdG8tZW5kLXRoZS1tb250aC13aXRoLWFwcmlsLXNob3dlcnMtYW5kLXNlZS1hLXdhcm0tY2xvdWR5LXN0YXJ0LXRvL2FydGljbGVfZmUyYjkyYzQtMDIzYi0xMWVmLTk3NTEtMGI0NjFlNzFjN2QzLmFtcC5odG1s?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 14:10:00 GMT",
-        "source_url": "https://www.thestar.com",
-        "source_name": "Toronto Star"
-    },
-    {
-        "title": "A Toronto food bank is fighting to keep some services running ahead of on site city-run construction plans - NOW Toronto",
-        "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL25vd3Rvcm9udG8uY29tL25ld3MvYS10b3JvbnRvLWZvb2QtYmFuay1pcy1maWdodGluZy10by1rZWVwLWRyb3AtaW4tbWVhbC1zZXJ2aWNlcy1ydW5uaW5nLWFoZWFkLW9mLWNpdHktcnVuLWNvbnN0cnVjdGlvbi1wbGFucy1pbi1pdHMtYnVpbGRpbmcv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 17:52:09 GMT",
-        "source_url": "https://nowtoronto.com",
-        "source_name": "NOW Toronto"
-    },
-    {
-        "title": "Ontario is about to change the speed limits on some major highways - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L29udGFyaW8tY2hhbmdlLXNwZWVkLWxpbWl0cy1oaWdod2F5cy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 13:49:19 GMT",
-        "source_url": "https://www.blogto.com",
-        "source_name": "blogTO"
-    },
-    {
-        "title": "Fickle home buyers tiptoe into spring market - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcmVhbC1lc3RhdGUvdG9yb250by9hcnRpY2xlLWZpY2tsZS1ob21lLWJ1eWVycy10aXB0b2UtaW50by1zcHJpbmctbWFya2V0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 12:00:00 GMT",
-        "source_url": "https://www.theglobeandmail.com",
-        "source_name": "The Globe and Mail"
-    },
-    {
-        "title": "News Roundup for April 24, 2024 | UrbanToronto - Urban Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdXJiYW50b3JvbnRvLmNhL25ld3MvMjAyNC8wNC9uZXdzLXJvdW5kdXAtYXByaWwtMjQtMjAyNC41NTc4NdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 13:48:45 GMT",
-        "source_url": "https://urbantoronto.ca",
-        "source_name": "Urban Toronto"
-    },
-    {
-        "title": "Toronto taxpayers reportedly spent over $30M on paying suspended cops since 2013, but new legislation might change that - NOW Toronto",
-        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL25vd3Rvcm9udG8uY29tL25ld3MvdG9yb250by10YXhwYXllcnMtcmVwb3J0ZWRseS1zcGVudC1vdmVyLTMwbS1vbi1wYXlpbmctc3VzcGVuZGVkLWNvcHMtc2luY2UtMjAxMy1idXQtbmV3LWxlZ2lzbGF0aW9uLW1pZ2h0LWNoYW5nZS10aGF0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 02:45:55 GMT",
-        "source_url": "https://nowtoronto.com",
-        "source_name": "NOW Toronto"
-    },
-    {
-        "title": "Waxahatchee \u2014 starring golden-voiced Katie Crutchfield \u2014 showcased an artist on the rise at its three-star Toronto concert - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy50aGVzdGFyLmNvbS9lbnRlcnRhaW5tZW50L211c2ljL3dheGFoYXRjaGVlLXN0YXJyaW5nLWdvbGRlbi12b2ljZWQta2F0aWUtY3J1dGNoZmllbGQtc2hvd2Nhc2VkLWFuLWFydGlzdC1vbi10aGUtcmlzZS1hdC1pdHMtdGhyZWUvYXJ0aWNsZV8yNDBiMThjYy0wMjZjLTExZWYtODhlOS0xN2E3NTNhMGU2MDkuaHRtbNIBwwFodHRwczovL3d3dy50aGVzdGFyLmNvbS9lbnRlcnRhaW5tZW50L211c2ljL3dheGFoYXRjaGVlLXN0YXJyaW5nLWdvbGRlbi12b2ljZWQta2F0aWUtY3J1dGNoZmllbGQtc2hvd2Nhc2VkLWFuLWFydGlzdC1vbi10aGUtcmlzZS1hdC1pdHMtdGhyZWUvYXJ0aWNsZV8yNDBiMThjYy0wMjZjLTExZWYtODhlOS0xN2E3NTNhMGU2MDkuYW1wLmh0bWw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 21:30:00 GMT",
-        "source_url": "https://www.thestar.com",
-        "source_name": "Toronto Star"
-    },
-    {
-        "title": "Sinking boat tour in Dominican Republic had Toronto couple onboard | CTV News - CTV News Toronto",
-        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3Rvcm9udG8uY3R2bmV3cy5jYS9vbmUtb2YtdGhlLXNpbmdsZS1tb3N0LXRlcnJpZnlpbmctdGhpbmdzLWV2ZXItY2FuYWRpYW4tY291cGxlLWFtb25nLXRvdXJpc3RzLW9uLXNpbmtpbmctc2FpbGluZy1ib2F0LXRvdXItYWJyb2FkLTEuNjg1ODg0MtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 09:56:15 GMT",
-        "source_url": "https://toronto.ctvnews.ca",
-        "source_name": "CTV News Toronto"
-    },
-    {
-        "title": "Two longtime grocery stores just shut down in Toronto | Dished - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZGFpbHloaXZlLmNvbS90b3JvbnRvL2dyb2Nlcnktc3RvcmVzLXNodXQtZG93bi10b3JvbnRv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Apr 2024 22:57:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Ontario temperatures about to spike and it will feel like 30 degrees this weekend - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L29udGFyaW8tdGVtcGVyYXR1cmVzLWZlZWwtMzAtZGVncmVlcy13ZWVrZW5kL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 15:07:13 GMT",
-        "source_url": "https://www.blogto.com",
-        "source_name": "blogTO"
-    },
-    {
-        "title": "Hidden waterways beneath Toronto could help transform its future - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2RheWxpZ2h0aW5nLXRvcm9udG8tMS43MTgyNDc40gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxODI0Nzg?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 08:00:00 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "These Toronto bars were just named among the best in North America for 2024 - Narcity Canada",
-        "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm5hcmNpdHkuY29tL3Rvcm9udG8vdG9yb250by1iYXJzLWJlc3QtaW4tbm9ydGgtYW1lcmljYdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 20:15:35 GMT",
-        "source_url": "https://www.narcity.com",
-        "source_name": "Narcity Canada"
-    },
-    {
-        "title": "Suspect sought after assault at East York home - CityNews Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI0L3N1c3BlY3Qtc291Z2h0LWFmdGVyLWFzc2F1bHQtYXQtZWFzdC15b3JrLWhvbWUv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 15:47:00 GMT",
-        "source_url": "https://toronto.citynews.ca",
-        "source_name": "CityNews Toronto"
-    },
-    {
-        "title": "The Jameson Distillery on Tour is coming to Toronto for a limited time | Listed - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZGFpbHloaXZlLmNvbS90b3JvbnRvL3Rvcm9udG8tamFtZXNvbi1kaXN0aWxsZXJ5LW9uLXRvdXItc3RhY2t0LW1hcmtldNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 18:03:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
+        "pub_date": "Thu, 25 Apr 2024 18:32:00 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
     },
     {
         "title": "This Toronto hotel is getting Taylor Swift-themed floors and rooms and here's a first look - Narcity Canada",
@@ -280,172 +208,268 @@
         "source_name": "Narcity Canada"
     },
     {
-        "title": "Secret walled-off staircase is all that remains of long-lost Toronto train station - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L3NlY3JldC13YWxsZWQtc3RhaXJjYXNlLWxvc3QtdG9yb250by10cmFpbi1zdGF0aW9uL9IBAA?oc=5",
+        "title": "Smoother sailing, restaurants say, as city says it\u2019s on track to have majority of Caf\u00e9TO patios open by May long weekend - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy50aGVzdGFyLmNvbS9idXNpbmVzcy9zbW9vdGhlci1zYWlsaW5nLXJlc3RhdXJhbnRzLXNheS1hcy1jaXR5LXNheXMtaXQtcy1vbi10cmFjay10by1oYXZlLW1ham9yaXR5LW9mL2FydGljbGVfOTNiN2YxYmUtMDI1Mi0xMWVmLWJhZTgtMWY2MjE2NjA1ODQ4Lmh0bWzSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 17:40:27 GMT",
-        "source_url": "https://www.blogto.com",
-        "source_name": "blogTO"
-    },
-    {
-        "title": "Toronto rent prices fell for a third straight month, while this city saw the highest yearly increase in Ontario - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9yZWFsLWVzdGF0ZS90b3JvbnRvLXJlbnQtcHJpY2VzLWZlbGwtZm9yLWEtdGhpcmQtc3RyYWlnaHQtbW9udGgtd2hpbGUtdGhpcy1jaXR5LXNhdy10aGUtaGlnaGVzdC9hcnRpY2xlXzA1Yjk3ZDNhLTAyNGItMTFlZi04ODkwLWEzODlhM2E4OTlhNC5odG1s0gGtAWh0dHBzOi8vd3d3LnRoZXN0YXIuY29tL3JlYWwtZXN0YXRlL3Rvcm9udG8tcmVudC1wcmljZXMtZmVsbC1mb3ItYS10aGlyZC1zdHJhaWdodC1tb250aC13aGlsZS10aGlzLWNpdHktc2F3LXRoZS1oaWdoZXN0L2FydGljbGVfMDViOTdkM2EtMDI0Yi0xMWVmLTg4OTAtYTM4OWEzYTg5OWE0LmFtcC5odG1s?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 18:05:00 GMT",
+        "pub_date": "Thu, 25 Apr 2024 10:00:00 GMT",
         "source_url": "https://www.thestar.com",
         "source_name": "Toronto Star"
     },
     {
-        "title": "'Serious health risks': Unauthorized sexual enhancement products seized in Toronto - CP24",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNwMjQuY29tL25ld3Mvc2VyaW91cy1oZWFsdGgtcmlza3MtdW5hdXRob3JpemVkLXNleHVhbC1lbmhhbmNlbWVudC1wcm9kdWN0cy1zZWl6ZWQtaW4tdG9yb250by0xLjY4NTg1MDjSAQA?oc=5",
+        "title": "Tickets To Go On Sale Next Month for THE LION KING Toronto Production - BroadwayWorld",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3Rvcm9udG8vYXJ0aWNsZS9UaWNrZXRzLVRvLUdvLU9uLVNhbGUtTmV4dC1Nb250aC1mb3ItVEhFLUxJT04tS0lORy1Ub3JvbnRvLVByb2R1Y3Rpb24tMjAyNDA0MjXSAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 17:12:20 GMT",
-        "source_url": "https://www.cp24.com",
-        "source_name": "CP24"
+        "pub_date": "Thu, 25 Apr 2024 17:05:24 GMT",
+        "source_url": "https://www.broadwayworld.com",
+        "source_name": "BroadwayWorld"
     },
     {
-        "title": "Toronto Star bestsellers for April 24, 2024 | Things To Do | toronto.com - Toronto.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy50b3JvbnRvLmNvbS90aGluZ3MtdG8tZG8vYm9va3MvdG9yb250by1zdGFyLWJlc3RzZWxsZXJzLWZvci1hcHJpbC0yNC0yMDI0L2FydGljbGVfMTQ5ZDNjMDYtOWM0Ni01YjYzLThjMDgtOTg1ZDA2NjUyOWUxLmh0bWzSAQA?oc=5",
+        "title": "I tried 5 popular dating apps in Toronto and here's which ones are best for relationships - Narcity Canada",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm5hcmNpdHkuY29tL3Rvcm9udG8vYmVzdC1kYXRpbmctYXBwcy1zZXJpb3VzLXJlbGF0aW9uc2hpcHMtdG9yb250b9IBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 18:46:00 GMT",
-        "source_url": "https://www.toronto.com",
-        "source_name": "Toronto.com"
+        "pub_date": "Thu, 25 Apr 2024 15:33:00 GMT",
+        "source_url": "https://www.narcity.com",
+        "source_name": "Narcity Canada"
     },
     {
-        "title": "Canada's most wanted list: Toronto suspect in fatal shooting at No. 1 | Globalnews.ca - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNDQzODE5L2NhbmFkYS1tb3N0LXdhbnRlZC1saXN0LXRvcm9udG8tc3VzcGVjdC0yMDI0L9IBAA?oc=5",
+        "title": "Late-April weather varies as El Nino weakens - CTV News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jdHZuZXdzLmNhL2NsaW1hdGUtYW5kLWVudmlyb25tZW50L2ZhaXItaW4tb250YXJpby1mbHVycmllcy1pbi1sYWJyYWRvci13ZWF0aGVyLXN5c3RlbXMtbWFrZS1mb3ItYW4tZXJyYXRpYy1zcHJpbmctMS42ODYwNjk10gEA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 15:39:18 GMT",
-        "source_url": "https://globalnews.ca",
-        "source_name": "Global News"
+        "pub_date": "Wed, 24 Apr 2024 22:34:00 GMT",
+        "source_url": "https://www.ctvnews.ca",
+        "source_name": "CTV News"
     },
     {
-        "title": "Avontuura's Wanderer Guides Designed For Architecture Buffs to Geek-out in Toronto, and Worldwide | UrbanToronto - Urban Toronto",
-        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3VyYmFudG9yb250by5jYS9uZXdzLzIwMjQvMDQvYXZvbnR1dXJhcy13YW5kZXJlci1ndWlkZXMtZGVzaWduZWQtYXJjaGl0ZWN0dXJlLWJ1ZmZzLWdlZWstb3V0LXRvcm9udG8tYW5kLXdvcmxkd2lkZS41NTc0MtIBAA?oc=5",
+        "title": "Hot Docs and other things to do in Toronto this weekend - Toronto Sun",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdG9yb250b3N1bi5jb20vbmV3cy9sb2NhbC1uZXdzL2hvdC1kb2NzLWFuZC1vdGhlci10aGluZ3MtdG8tZG8taW4tdG9yb250by10aGlzLXdlZWtlbmTSAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 18:38:52 GMT",
-        "source_url": "https://urbantoronto.ca",
-        "source_name": "Urban Toronto"
+        "pub_date": "Thu, 25 Apr 2024 21:00:47 GMT",
+        "source_url": "https://torontosun.com",
+        "source_name": "Toronto Sun"
     },
     {
-        "title": "\"A Day in the Life\" with Interdisciplinary Artist Biba Esaad - Toronto Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vdG9yb250b2d1YXJkaWFuLmNvbS8yMDI0LzA0L3Rvcm9udG8tYXJ0aXN0LWJpYmEtZXNhYWQv0gEA?oc=5",
+        "title": "Toronto is now less affordable than both Tokyo and Melbourne - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmJsb2d0by5jb20vcmVhbC1lc3RhdGUtdG9yb250by8yMDI0LzA0L3Rvcm9udG8tbGVzcy1hZmZvcmRhYmxlLXRva3lvLW1lbGJvdXJuZS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 09:26:14 GMT",
-        "source_url": "https://torontoguardian.com",
-        "source_name": "Toronto Guardian"
-    },
-    {
-        "title": "Some Pearson heist gold was melted in basement of Toronto-area jewelry store, police believe - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS9zb21lLXBlYXJzb24taGVpc3QtZ29sZC13YXMtbWVsdGVkLWluLWJhc2VtZW50LW9mLXRvcm9udG8tYXJlYS1qZXdlbHJ5LXN0b3JlLXBvbGljZS1iZWxpZXZlL2FydGljbGVfZGQ0NTRkYzItMDE4YS0xMWVmLWE5OTItNTNhMmNhNjdjMGFkLmh0bWzSAbIBaHR0cHM6Ly93d3cudGhlc3Rhci5jb20vbmV3cy9ndGEvc29tZS1wZWFyc29uLWhlaXN0LWdvbGQtd2FzLW1lbHRlZC1pbi1iYXNlbWVudC1vZi10b3JvbnRvLWFyZWEtamV3ZWxyeS1zdG9yZS1wb2xpY2UtYmVsaWV2ZS9hcnRpY2xlX2RkNDU0ZGMyLTAxOGEtMTFlZi1hOTkyLTUzYTJjYTY3YzBhZC5hbXAuaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Apr 2024 19:15:00 GMT",
-        "source_url": "https://www.thestar.com",
-        "source_name": "Toronto Star"
-    },
-    {
-        "title": "TOOR Hotel opening in Toronto this summer - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmJsb2d0by5jb20vdHJhdmVsLzIwMjQvMDQvdG9vci1ob3RlbC10b3JvbnRvL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 20:54:25 GMT",
+        "pub_date": "Thu, 25 Apr 2024 20:29:02 GMT",
         "source_url": "https://www.blogto.com",
         "source_name": "blogTO"
     },
     {
-        "title": "Motorcyclist rushed to trauma centre after Etobicoke collision - CP24",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvbWFuLXJ1c2hlZC10by10cmF1bWEtY2VudHJlLWFmdGVyLW1vdG9yY3ljbGUtcGlja3VwLXRydWNrLWNvbGxpZGUtaW4tZXRvYmljb2tlLTEuNjg1OTY0OdIBAA?oc=5",
+        "title": "A Toronto food bank is fighting to keep some services running ahead of on site city-run construction plans - NOW Toronto",
+        "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL25vd3Rvcm9udG8uY29tL25ld3MvYS10b3JvbnRvLWZvb2QtYmFuay1pcy1maWdodGluZy10by1rZWVwLWRyb3AtaW4tbWVhbC1zZXJ2aWNlcy1ydW5uaW5nLWFoZWFkLW9mLWNpdHktcnVuLWNvbnN0cnVjdGlvbi1wbGFucy1pbi1pdHMtYnVpbGRpbmcv0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 10:36:45 GMT",
-        "source_url": "https://www.cp24.com",
-        "source_name": "CP24"
-    },
-    {
-        "title": "Co-op apartment along the Rosedale Ravine gets two offers - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vcmVhbC1lc3RhdGUvdG9yb250by9hcnRpY2xlLWNvLW9wLWFwYXJ0bWVudC1hbG9uZy10aGUtcm9zZWRhbGUtcmF2aW5lLWdldHMtdHdvLW9mZmVycy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Apr 2024 13:00:00 GMT",
-        "source_url": "https://www.theglobeandmail.com",
-        "source_name": "The Globe and Mail"
-    },
-    {
-        "title": "Ford faces calls to apologize over Umar Zameer \u2018heinous crime\u2019 bail post - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNDQ3NDY4L2RvdWctZm9yZC11bWFyLXphbWVlci1zb2NpYWwtbWVkaWEtcG9zdC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 19:35:18 GMT",
-        "source_url": "https://globalnews.ca",
-        "source_name": "Global News"
-    },
-    {
-        "title": "Beloved Toronto patio at risk of closing over licensing dispute - CityNews Toronto",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS92aWRlby8yMDI0LzA0LzI0L2JlbG92ZWQtdG9yb250by1wYXRpby1hdC1yaXNrLW9mLWNsb3Npbmctb3Zlci1saWNlbnNpbmctZGlzcHV0ZS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 21:58:10 GMT",
-        "source_url": "https://toronto.citynews.ca",
-        "source_name": "CityNews Toronto"
-    },
-    {
-        "title": "Torontonians are reacting to roof-riding trend after teen critically injured in latest GO train incident - NOW Toronto",
-        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL25vd3Rvcm9udG8uY29tL25ld3MvdG9yb250b250aWFucy1hcmUtcmVhY3RpbmctdG8tcm9vZi1yaWRpbmctdHJlbmQtYWZ0ZXItdGVlbi1jcml0aWNhbGx5LWluanVyZWQtaW4tbGF0ZXN0LWdvLXRyYWluLWluY2lkZW50L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Apr 2024 15:29:46 GMT",
+        "pub_date": "Wed, 24 Apr 2024 19:28:44 GMT",
         "source_url": "https://nowtoronto.com",
         "source_name": "NOW Toronto"
     },
     {
-        "title": "This Canadian duo is behind some of opera's biggest blockbusters \u2014 including one coming to Toronto - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9lbnRlcnRhaW5tZW50L3N0YWdlL3RoaXMtY2FuYWRpYW4tZHVvLWlzLWJlaGluZC1zb21lLW9mLW9wZXJhcy1iaWdnZXN0LWJsb2NrYnVzdGVycy1pbmNsdWRpbmctb25lLWNvbWluZy10by10b3JvbnRvL2FydGljbGVfY2U2NmZlMzYtMDBjYy0xMWVmLWJlMWEtMjc4NjMwOGViNTFiLmh0bWzSAcEBaHR0cHM6Ly93d3cudGhlc3Rhci5jb20vZW50ZXJ0YWlubWVudC9zdGFnZS90aGlzLWNhbmFkaWFuLWR1by1pcy1iZWhpbmQtc29tZS1vZi1vcGVyYXMtYmlnZ2VzdC1ibG9ja2J1c3RlcnMtaW5jbHVkaW5nLW9uZS1jb21pbmctdG8tdG9yb250by9hcnRpY2xlX2NlNjZmZTM2LTAwY2MtMTFlZi1iZTFhLTI3ODYzMDhlYjUxYi5hbXAuaHRtbA?oc=5",
+        "title": "Frost advisory issued for Toronto with frigid temperatures expected overnight Thursday - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS9mcm9zdC1hZHZpc29yeS1pc3N1ZWQtZm9yLXRvcm9udG8td2l0aC1mcmlnaWQtdGVtcGVyYXR1cmVzLWV4cGVjdGVkLW92ZXJuaWdodC10aHVyc2RheS9hcnRpY2xlX2NhNDEyMzcwLTAyZWEtMTFlZi05YWRmLTEzNzllZWYxZTdiZi5odG1s0gGtAWh0dHBzOi8vd3d3LnRoZXN0YXIuY29tL25ld3MvZ3RhL2Zyb3N0LWFkdmlzb3J5LWlzc3VlZC1mb3ItdG9yb250by13aXRoLWZyaWdpZC10ZW1wZXJhdHVyZXMtZXhwZWN0ZWQtb3Zlcm5pZ2h0LXRodXJzZGF5L2FydGljbGVfY2E0MTIzNzAtMDJlYS0xMWVmLTlhZGYtMTM3OWVlZjFlN2JmLmFtcC5odG1s?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 15:00:00 GMT",
+        "pub_date": "Thu, 25 Apr 2024 11:15:00 GMT",
         "source_url": "https://www.thestar.com",
         "source_name": "Toronto Star"
     },
     {
-        "title": "Shimmy | UrbanToronto - Urban Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vdXJiYW50b3JvbnRvLmNhL25ld3MvMjAyNC8wNC9zaGltbXkuNTU3NjbSAQA?oc=5",
+        "title": "Homicide unit investigating after man found dead inside Scarborough apartment - CP24",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvaG9taWNpZGUtdW5pdC1pbnZlc3RpZ2F0aW5nLWFmdGVyLW1hbi1mb3VuZC1kZWFkLWluc2lkZS1zY2FyYm9yb3VnaC1hcGFydG1lbnQtMS42ODYxNDA00gEA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 10:00:20 GMT",
-        "source_url": "https://urbantoronto.ca",
-        "source_name": "Urban Toronto"
+        "pub_date": "Thu, 25 Apr 2024 13:15:00 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
     },
     {
-        "title": "City targets Toronto's 'bad faith' landlords with more inspections - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2NpdHktYXBwcm92ZXMtcmVudHNhZmV0by1jaGFuZ2VzLTEuNzE4MTM0NdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTgxMzQ1?oc=5",
+        "title": "Toronto was named one of the best cities in the world for millennials and here's why - Narcity Canada",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5hcmNpdHkuY29tL3Rvcm9udG8vYmVzdC1wbGFjZXMtdG8tbGl2ZS1pbi1jYW5hZGEtdG9yb250by1taWxsZW5uaWFsc9IBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 13:39:13 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
+        "pub_date": "Wed, 24 Apr 2024 17:58:29 GMT",
+        "source_url": "https://www.narcity.com",
+        "source_name": "Narcity Canada"
     },
     {
-        "title": "Toronto neighbourhoods are having a massive spring yard sale - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmJsb2d0by5jb20vcmFkYXIvMjAyNC8wNC90b3JvbnRvLXlhcmQtc2FsZS1uZWlnaGJvdXJob29kcy_SAQA?oc=5",
+        "title": "Toronto might be causing your hair loss - The Toronto Observer",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdG9yb250b29ic2VydmVyLmNhLzIwMjQvMDQvMjUvdG9yb250by1taWdodC1iZS1jYXVzaW5nLXlvdXItaGFpci1sb3NzL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 16:40:14 GMT",
+        "pub_date": "Thu, 25 Apr 2024 13:57:29 GMT",
+        "source_url": "https://torontoobserver.ca",
+        "source_name": "The Toronto Observer"
+    },
+    {
+        "title": "TD courts foreign students amid Canada's cap on study permits - Toronto Sun",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdG9yb250b3N1bi5jb20vYnVzaW5lc3MvbW9uZXktbmV3cy90ZC1jb3VydHMtZm9yZWlnbi1zdHVkZW50cy1hbWlkLWNhbmFkYXMtY2FwLW9uLXN0dWR5LXBlcm1pdHPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 13:22:36 GMT",
+        "source_url": "https://torontosun.com",
+        "source_name": "Toronto Sun"
+    },
+    {
+        "title": "How the super rich shop for homes in Toronto - CTV News Toronto",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL3ZpZGVvL2MyOTEwNDU2LWhvdy10aGUtc3VwZXItcmljaC1zaG9wLWZvci1ob21lcy1pbi10b3JvbnRv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 03:06:00 GMT",
+        "source_url": "https://toronto.ctvnews.ca",
+        "source_name": "CTV News Toronto"
+    },
+    {
+        "title": "TTC staff 'hire' lost dog found in Toronto lot for the day and one even took it home - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L3R0Yy1zdGFmZi1oaXJlLWxvc3QtZG9nLXRvcm9udG8v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 20:43:52 GMT",
         "source_url": "https://www.blogto.com",
         "source_name": "blogTO"
     },
     {
-        "title": "Major construction, lane closures return to Hwy. 401 on Wednesday - CityNews Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzIzL2hpZ2h3YXktNDAxLWxhbmUtY2xvc3VyZXMtY29uc3RydWN0aW9uLXRvcm9udG8v0gEA?oc=5",
+        "title": "These 17 Toronto restaurants were ranked as some of the best places for brunch in Canada - Narcity Canada",
+        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5hcmNpdHkuY29tL3Rvcm9udG8vdG9yb250by1yZXN0YXVyYW50cy1iZXN0LWJydW5jaC0yMDI00gEA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 18:49:00 GMT",
-        "source_url": "https://toronto.citynews.ca",
-        "source_name": "CityNews Toronto"
+        "pub_date": "Thu, 25 Apr 2024 18:54:17 GMT",
+        "source_url": "https://www.narcity.com",
+        "source_name": "Narcity Canada"
     },
     {
-        "title": "Toronto's April 24 forecast: Chance of showers | News | toronto.com - Toronto.com",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRvcm9udG8uY29tL25ld3MvdG9yb250b3MtYXByaWwtMjQtZm9yZWNhc3QtY2hhbmNlLW9mLXNob3dlcnMvYXJ0aWNsZV8zMjhhMDY4MC0wYzY4LTVhOTMtOTgyNi1lNDI5NThlOTA2NDAuaHRtbNIBAA?oc=5",
+        "title": "Toronto's April 25 forecast: Sunny | News | toronto.com - Toronto.com",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRvcm9udG8uY29tL25ld3MvdG9yb250b3MtYXByaWwtMjUtZm9yZWNhc3Qtc3VubnkvYXJ0aWNsZV8xZjlmMjMyNy0zNTc0LTVhNjUtYjdmMS0xZmEzY2NhZDg3ODguaHRtbNIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 10:04:53 GMT",
+        "pub_date": "Thu, 25 Apr 2024 10:04:53 GMT",
         "source_url": "https://www.toronto.com",
         "source_name": "Toronto.com"
     },
     {
-        "title": "'It's discriminatory': Individuals refused entry to Ontario legislature for wearing keffiyeh - CP24",
-        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvaXQtcy1kaXNjcmltaW5hdG9yeS1pbmRpdmlkdWFscy1yZWZ1c2VkLWVudHJ5LXRvLW9udGFyaW8tbGVnaXNsYXR1cmUtZm9yLXdlYXJpbmcta2VmZml5ZWgtMS42ODU4NDIx0gEA?oc=5",
+        "title": "New condo sales in the Toronto area hit low not seen since financial crisis - CP24",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvbmV3LWNvbmRvLXNhbGVzLWluLXRoZS10b3JvbnRvLWFyZWEtaGl0LWxvdy1ub3Qtc2Vlbi1zaW5jZS1maW5hbmNpYWwtY3Jpc2lzLTEuNjg2MDQ4ONIBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 19:36:56 GMT",
+        "pub_date": "Wed, 24 Apr 2024 20:19:02 GMT",
         "source_url": "https://www.cp24.com",
         "source_name": "CP24"
+    },
+    {
+        "title": "A new hip in 4 weeks instead of months: These Toronto doctors' plan to cut surgical wait times is seeing results - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2NhbmFkYS9hLW5ldy1oaXAtaW4tNC13ZWVrcy1pbnN0ZWFkLW9mLW1vbnRocy10aGVzZS10b3JvbnRvLWRvY3RvcnMtcGxhbi10by1jdXQvYXJ0aWNsZV84ZTkwMTQyNi1mZTYyLTExZWUtYWNkMy1hYjQ3ODExNGJhNWUuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 20:08:00 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
+    },
+    {
+        "title": "Suspect sought after assault at East York home - CityNews Toronto",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI0L3N1c3BlY3Qtc291Z2h0LWFmdGVyLWFzc2F1bHQtYXQtZWFzdC15b3JrLWhvbWUv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 15:47:00 GMT",
+        "source_url": "https://toronto.citynews.ca",
+        "source_name": "CityNews Toronto"
+    },
+    {
+        "title": "Harry Jerome's daughter wants famed sprinter's name removed from embattled charity's awards - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2hhcnJ5LWplcm9tZS1kYXVnaHRlci1iYnBhLTEuNzE4MzY0NdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTgzNjQ1?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 22:35:03 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "SUNshine Girl Krista - Toronto Sun",
+        "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdG9yb250b3N1bi5jb20vc3Vuc2hpbmUtZ2lybHMvc3Vuc2hpbmUtZ2lybC1rcmlzdGEtN9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 06:08:13 GMT",
+        "source_url": "https://torontosun.com",
+        "source_name": "Toronto Sun"
+    },
+    {
+        "title": "Striking AGO workers reach tentative deal: union - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2Fnby1zdHJpa2UtdGVudGF0aXZlLWRlYWwtMS43MTg0NDU10gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxODQ0NTU?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 15:07:11 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "This free Jameson whiskey pop-up is bringing a taste of Dublin to Toronto for a limited time - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJsb2d0by5jb20vc3BvbnNvcmVkLzIwMjQvMDQvdG9yb250by1qYW1lc29uLWRpc3RpbGxlcnktb24tdG91ci1zdGFja3QtbWFya2V0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 18:07:30 GMT",
+        "source_url": "https://www.blogto.com",
+        "source_name": "blogTO"
+    },
+    {
+        "title": "MPP Sarah Jama asked to leave Ontario legislature for wearing a keffiyeh - CityNews Toronto",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI1L21wcC1zYXJhaC1qYW1hLWFza2VkLXRvLWxlYXZlLW9udGFyaW8tbGVnaXNsYXR1cmUtZm9yLXdlYXJpbmctYS1rZWZmaXllaC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 15:36:00 GMT",
+        "source_url": "https://toronto.citynews.ca",
+        "source_name": "CityNews Toronto"
+    },
+    {
+        "title": "Proposals for pair of East Toronto rental buildings to be discussed at May 7 meeting - Hamilton Spectator",
+        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy50aGVzcGVjLmNvbS9uZXdzL2NhbmFkYS9wcm9wb3NhbHMtZm9yLXBhaXItb2YtZWFzdC10b3JvbnRvLXJlbnRhbC1idWlsZGluZ3MtdG8tYmUtZGlzY3Vzc2VkLWF0LW1heS03LW1lZXRpbmcvYXJ0aWNsZV8zZDdiYTE1OS00MDU5LTUxZjEtOTExYy0zYmI3NDAyNDIzNDcuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 16:58:07 GMT",
+        "source_url": "https://www.thespec.com",
+        "source_name": "Hamilton Spectator"
+    },
+    {
+        "title": "Global News at 5:30 Toronto: April 24, 2024 - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ0ODQ4NC9nbG9iYWwtbmV3cy1hdC01MzAtdG9yb250by1hcHJpbC0yNC0yMDI00gFSaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL3ZpZGVvLzEwNDQ4NDg0L2dsb2JhbC1uZXdzLWF0LTUzMC10b3JvbnRvLWFwcmlsLTI0LTIwMjQvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 22:54:00 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
+    },
+    {
+        "title": "Toronto Catholic school board will not fly 'pro-life' flag in May - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS90b3JvbnRvLWNhdGhvbGljLXNjaG9vbC1ib2FyZC13aWxsLW5vdC1mbHktcHJvLWxpZmUtZmxhZy1pbi1tYXkvYXJ0aWNsZV85YThkMjJhMC0wMTkxLTExZWYtYWRjZi0zM2IxMWViZGQzNTQuaHRtbNIBlgFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS90b3JvbnRvLWNhdGhvbGljLXNjaG9vbC1ib2FyZC13aWxsLW5vdC1mbHktcHJvLWxpZmUtZmxhZy1pbi1tYXkvYXJ0aWNsZV85YThkMjJhMC0wMTkxLTExZWYtYWRjZi0zM2IxMWViZGQzNTQuYW1wLmh0bWw?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 15:33:00 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
+    },
+    {
+        "title": "Toronto taxpayers reportedly spent over $30M on paying suspended cops since 2013, but new legislation might change that - NOW Toronto",
+        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL25vd3Rvcm9udG8uY29tL25ld3MvdG9yb250by10YXhwYXllcnMtcmVwb3J0ZWRseS1zcGVudC1vdmVyLTMwbS1vbi1wYXlpbmctc3VzcGVuZGVkLWNvcHMtc2luY2UtMjAxMy1idXQtbmV3LWxlZ2lzbGF0aW9uLW1pZ2h0LWNoYW5nZS10aGF0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 00:08:04 GMT",
+        "source_url": "https://nowtoronto.com",
+        "source_name": "NOW Toronto"
+    },
+    {
+        "title": "Hot Docs boss says 'future of the organization is in jeopardy' as festival launches - CP24",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jcDI0LmNvbS9lbnRlcnRhaW5tZW50LW5ld3MvaG90LWRvY3MtYm9zcy1zYXlzLWZ1dHVyZS1vZi10aGUtb3JnYW5pemF0aW9uLWlzLWluLWplb3BhcmR5LWFzLWZlc3RpdmFsLWxhdW5jaGVzLTEuNjg2MTE1MtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 02:21:00 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
+    },
+    {
+        "title": "Simcoe County Rovers FC make history in Toronto - CTV News Barrie",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYmFycmllLmN0dm5ld3MuY2EvbW9iaWxlL3NpbWNvZS1jb3VudHktcm92ZXJzLWZjLW1ha2UtaGlzdG9yeS1pbi10b3JvbnRvLTEuNjg2MTE3MtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 02:45:40 GMT",
+        "source_url": "https://barrie.ctvnews.ca",
+        "source_name": "CTV News Barrie"
+    },
+    {
+        "title": "BREAKING: SCSU Vice-President Equity resigns after allegations of antisemitism in town hall speech - Varsity",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3RoZXZhcnNpdHkuY2EvMjAyNC8wNC8yNS9icmVha2luZy1zY3N1LXZpY2UtcHJlc2lkZW50LWVxdWl0eS1yZXNpZ25zLWFmdGVyLWFsbGVnYXRpb25zLW9mLWFudGlzZW1pdGlzbS1pbi10b3duLWhhbGwtc3BlZWNoL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 15:30:01 GMT",
+        "source_url": "https://thevarsity.ca",
+        "source_name": "Varsity"
+    },
+    {
+        "title": "Two longtime grocery stores just shut down in Toronto | Dished - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZGFpbHloaXZlLmNvbS90b3JvbnRvL2dyb2Nlcnktc3RvcmVzLXNodXQtZG93bi10b3JvbnRv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 23 Apr 2024 22:57:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Toronto's most cursed intersection appears to finally finish years-long construction - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L3Rvcm9udG8teW9uZ2UtZWdsaW50b24taW50ZXJzZWN0aW9uLWNvbnN0cnVjdGlvbi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 16:16:05 GMT",
+        "source_url": "https://www.blogto.com",
+        "source_name": "blogTO"
     },
     {
         "title": "Lottery winner chooses massive lump sum over $25,000 a year for life | Canada - Daily Hive",
@@ -456,83 +480,75 @@
         "source_name": "Daily Hive"
     },
     {
-        "title": "Toronto's Eaton Centre opens new food hall designed to feel like a cosmopolitan train station - NOW Toronto",
-        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbm93dG9yb250by5jb20vY3VsdHVyZS90b3JvbnRvcy1lYXRvbi1jZW50cmUtb3BlbnMtbmV3LWZvb2QtaGFsbC1kZXNpZ25lZC10by1mZWVsLWxpa2UtYS1jb3Ntb3BvbGl0YW4tdHJhaW4tc3RhdGlvbi_SAQA?oc=5",
+        "title": "That's Some Arm | UrbanToronto - Urban Toronto",
+        "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vdXJiYW50b3JvbnRvLmNhL25ld3MvMjAyNC8wNC90aGF0cy1zb21lLWFybS41NTc4NNIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 17:14:11 GMT",
-        "source_url": "https://nowtoronto.com",
-        "source_name": "NOW Toronto"
-    },
-    {
-        "title": "Six burning questions facing the Toronto Police Service in the wake of the Umar Zameer verdict - Toronto Star",
-        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS9zaXgtYnVybmluZy1xdWVzdGlvbnMtZmFjaW5nLXRoZS10b3JvbnRvLXBvbGljZS1zZXJ2aWNlLWluLXRoZS13YWtlLW9mLXRoZS11bWFyLXphbWVlci9hcnRpY2xlXzYxY2Q3MjI4LTAxOTktMTFlZi1hMzQyLWZiMzdkODQzOTY0NS5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 20:45:00 GMT",
-        "source_url": "https://www.thestar.com",
-        "source_name": "Toronto Star"
-    },
-    {
-        "title": "Hassan Phills picked comedy over basketball \u2014 and it paid off - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNiYy5jYS9hcnRzL2hhc3Nhbi1waGlsbHMtcGlja2VkLWNvbWVkeS1vdmVyLWJhc2tldGJhbGwtYW5kLWl0LXBhaWQtb2ZmLTEuNzE4MzUzNdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTgzNTM1?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 18:37:59 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "What is a halal mortgage: Experts explain - CityNews Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI0L2V4cGVydHMtZGlzcGVsLW15dGhzLWFib3V0LWhhbGFsLW1vcnRnYWdlcy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 20:40:00 GMT",
-        "source_url": "https://toronto.citynews.ca",
-        "source_name": "CityNews Toronto"
-    },
-    {
-        "title": "THE SCOOP | Not-For-Profit Euterpe: Music Is The Key Received Three-Year Grow Grant - Ludwig Van",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lmx1ZHdpZy12YW4uY29tL3Rvcm9udG8vMjAyNC8wNC8yNC9zY29vcC1ub3QtcHJvZml0LWV1dGVycGUtbXVzaWMta2V5LXJlY2VpdmVkLXRocmVlLXllYXItZ3Jvdy1ncmFudC_SAXRodHRwczovL3d3dy5sdWR3aWctdmFuLmNvbS90b3JvbnRvLzIwMjQvMDQvMjQvc2Nvb3Atbm90LXByb2ZpdC1ldXRlcnBlLW11c2ljLWtleS1yZWNlaXZlZC10aHJlZS15ZWFyLWdyb3ctZ3JhbnQvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Apr 2024 17:29:51 GMT",
-        "source_url": "https://www.ludwig-van.com",
-        "source_name": "Ludwig Van"
-    },
-    {
-        "title": "Almost nobody believes Toronto's Eglinton Crosstown LRT will open this year - blogTO",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJsb2d0by5jb20vY2l0eS8yMDI0LzA0L25vYm9keS1iZWxpZXZlcy10b3JvbnRvLWVnbGludG9uLWNyb3NzdG93bi1scnQtb3Blbi_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Apr 2024 15:32:57 GMT",
-        "source_url": "https://www.blogto.com",
-        "source_name": "blogTO"
-    },
-    {
-        "title": "News Roundup for April 23, 2024 | UrbanToronto - Urban Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdXJiYW50b3JvbnRvLmNhL25ld3MvMjAyNC8wNC9uZXdzLXJvdW5kdXAtYXByaWwtMjMtMjAyNC41NTc2N9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Apr 2024 13:47:03 GMT",
+        "pub_date": "Wed, 24 Apr 2024 10:01:06 GMT",
         "source_url": "https://urbantoronto.ca",
         "source_name": "Urban Toronto"
     },
     {
-        "title": "Thai restaurants in Toronto that aren't Pai but are just as delicious as the celeb hot-spot - Narcity Canada",
-        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5hcmNpdHkuY29tL3Rvcm9udG8vdGhhaS1yZXN0YXVyYW50cy1pbi10b3JvbnRvLXRoYXQtYXJlbnQtcGFpLWp1c3QtYXMtZGVsaWNpb3Vz0gEA?oc=5",
+        "title": "Toronto rent prices fell for a third straight month, while this city saw the highest yearly increase in Ontario - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9yZWFsLWVzdGF0ZS90b3JvbnRvLXJlbnQtcHJpY2VzLWZlbGwtZm9yLWEtdGhpcmQtc3RyYWlnaHQtbW9udGgtd2hpbGUtdGhpcy1jaXR5LXNhdy10aGUtaGlnaGVzdC9hcnRpY2xlXzA1Yjk3ZDNhLTAyNGItMTFlZi04ODkwLWEzODlhM2E4OTlhNC5odG1s0gGtAWh0dHBzOi8vd3d3LnRoZXN0YXIuY29tL3JlYWwtZXN0YXRlL3Rvcm9udG8tcmVudC1wcmljZXMtZmVsbC1mb3ItYS10aGlyZC1zdHJhaWdodC1tb250aC13aGlsZS10aGlzLWNpdHktc2F3LXRoZS1oaWdoZXN0L2FydGljbGVfMDViOTdkM2EtMDI0Yi0xMWVmLTg4OTAtYTM4OWEzYTg5OWE0LmFtcC5odG1s?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 20:01:32 GMT",
-        "source_url": "https://www.narcity.com",
-        "source_name": "Narcity Canada"
+        "pub_date": "Wed, 24 Apr 2024 18:05:00 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
     },
     {
-        "title": "Why this Toronto MPP supports a keffiyeh ban - CTV News Toronto",
-        "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vdG9yb250by5jdHZuZXdzLmNhL21vYmlsZS92aWRlbz9jbGlwSWQ9MjkwOTYyNNIBAA?oc=5",
+        "title": "Estate of Tupac Shakur sends cease-and-desist letter to Drake over AI vocals - CP24",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNwMjQuY29tL2VudGVydGFpbm1lbnQtbmV3cy9lc3RhdGUtb2YtdHVwYWMtc2hha3VyLXNlbmRzLWNlYXNlLWFuZC1kZXNpc3QtbGV0dGVyLXRvLWRyYWtlLW92ZXItYWktdm9jYWxzLTEuNjg2MjEyNdIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Apr 2024 01:59:00 GMT",
+        "pub_date": "Thu, 25 Apr 2024 21:27:13 GMT",
+        "source_url": "https://www.cp24.com",
+        "source_name": "CP24"
+    },
+    {
+        "title": "Writers Guild of Canada authorizes strike as bargaining continues with producers - Hamilton Spectator",
+        "link": "https://news.google.com/rss/articles/CBMizwFodHRwczovL3d3dy50aGVzcGVjLmNvbS9lbnRlcnRhaW5tZW50L3dyaXRlcnMtZ3VpbGQtb2YtY2FuYWRhLWF1dGhvcml6ZXMtc3RyaWtlLWFzLWJhcmdhaW5pbmctY29udGludWVzLXdpdGgtcHJvZHVjZXJzL2FydGljbGVfNzQ3MjAxMGYtNjhjNC01OTNlLTljNWItYmIzOThjYjZjMDk3Lmh0bWw_bGlfc291cmNlPWJhc2UmbGlfbWVkaXVtPWVudGVydGFpbm1lbnTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 16:05:29 GMT",
+        "source_url": "https://www.thespec.com",
+        "source_name": "Hamilton Spectator"
+    },
+    {
+        "title": "Cineplex drive-by shootings footage in Toronto released - CTV News Toronto",
+        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3Rvcm9udG8uY3R2bmV3cy5jYS9wb2xpY2UtcmVsZWFzZS1mb290YWdlLW9mLXN1c3BlY3QtdmVoaWNsZS1pbi00LWRyaXZlLWJ5LXNob290aW5ncy1hdC10b3JvbnRvLWFyZWEtbW92aWUtdGhlYXRyZXMtMS42ODYxNjg50gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 16:13:26 GMT",
         "source_url": "https://toronto.ctvnews.ca",
         "source_name": "CTV News Toronto"
     },
     {
-        "title": "No injuries after fire at townhouse complex in Toronto - CP24",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3Mvbm8taW5qdXJpZXMtYWZ0ZXItZmlyZS1hdC10b3duaG91c2UtY29tcGxleC1ub3J0aC1vZi10aGUtYW5uZXgtMS42ODU3OTM20gEA?oc=5",
+        "title": "Shortest flight out of Toronto is so pointless that Google actually suggests a train - blogTO",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmJsb2d0by5jb20vdHJhdmVsLzIwMjQvMDQvc2hvcnRlc3QtZmxpZ2h0LXRvcm9udG8v0gEA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Apr 2024 09:47:32 GMT",
-        "source_url": "https://www.cp24.com",
-        "source_name": "CP24"
+        "pub_date": "Wed, 24 Apr 2024 12:56:46 GMT",
+        "source_url": "https://www.blogto.com",
+        "source_name": "blogTO"
+    },
+    {
+        "title": "Jewish student sues over 'toxic, antisemitic working environment' at Toronto Metropolitan University - CityNews Toronto",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA0LzI1L2pld2lzaC1zdHVkZW50LXN1ZXMtdG9yb250by1tZXRyb3BvbGl0YW4tdW5pdmVyc2l0eS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 21:14:00 GMT",
+        "source_url": "https://toronto.citynews.ca",
+        "source_name": "CityNews Toronto"
+    },
+    {
+        "title": "Young First Nations hockey player carries Leafs' flag | CTV News - CTV News London",
+        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2xvbmRvbi5jdHZuZXdzLmNhL2EtZmlyc3QtbmF0aW9ucy15b3VuZy1mZW1hbGUtaG9ja2V5LXBsYXllci1iZWFycy10aGUtdG9yb250by1tYXBsZS1sZWFmcy1mbGFnLWJlZm9yZS1wbGF5b2ZmLWdhbWUtMS42ODYyMjIx0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Apr 2024 21:40:53 GMT",
+        "source_url": "https://london.ctvnews.ca",
+        "source_name": "CTV News London"
+    },
+    {
+        "title": "As Toronto harbour gets louder, what\u2019s being done about it? - Toronto Star",
+        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50aGVzdGFyLmNvbS9uZXdzL2d0YS9yZXNpZGVudHMtc2F5LXRvcm9udG9zLWhhcmJvdXItaXMtZ2V0dGluZy1sb3VkZXItaGVyZXMtdGhlLXBsYW4tdG8tdHVybi10aGUtbm9pc2UtZG93bi9hcnRpY2xlXzg5MTI4MDlhLTAyNjUtMTFlZi1iMzQxLTFiMTgyYmQ3OGVlMS5odG1s0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Apr 2024 21:46:00 GMT",
+        "source_url": "https://www.thestar.com",
+        "source_name": "Toronto Star"
     }
 ]
