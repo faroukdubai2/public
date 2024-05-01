@@ -1,21 +1,137 @@
 [
     {
+        "name": "AMD stock",
+        "summary": "AMD's recent earnings and market outlook have sparked mixed reactions from investors. While the company's AI revenue projections have risen, its in-line Q1 earnings report and disappointing data center outlook have caused its stock to fluctuate. Some analysts believe that purchasing AMD stock before earnings is prudent, while others suggest selling due to potential volatility. The company's $4 billion AI chip sales forecast has boosted its revenue prospects, but the stock has still faced declines following the release of its Q1 results. Investors are advised to brace for a potential wild ride in AMD's stock price due to the conflicting signals emerging from the company's performance and market sentiment.",
+        "items": [
+            {
+                "title": "Should You Buy AMD Stock Before Earnings? - Yahoo Finance",
+                "description": "Should You Buy AMD Stock Before Earnings?  Yahoo Finance",
+                "published date": "Wed, 24 Apr 2024 20:31:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9idXktYW1kLXN0b2NrLWVhcm5pbmdzLTIwMjExNzI5OS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://finance.yahoo.com",
+                    "title": "Yahoo Finance"
+                }
+            },
+            {
+                "title": "AMD Stock Tumbles as Full-Year Data Center Outlook Disappoints - Investopedia",
+                "description": "AMD Stock Tumbles as Full-Year Data Center Outlook Disappoints  Investopedia",
+                "published date": "Wed, 01 May 2024 01:34:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vYW1kLXN0b2NrLXR1bWJsZXMtYXMtZnVsbC15ZWFyLWRhdGEtY2VudGVyLW91dGxvb2stZGlzYXBwb2ludHMtODY0MTU2MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.investopedia.com",
+                    "title": "Investopedia"
+                }
+            },
+            {
+                "title": "Should You Buy AMD Stock Before Earnings? - The Motley Fool",
+                "description": "Should You Buy AMD Stock Before Earnings?  The Motley Fool",
+                "published date": "Wed, 24 Apr 2024 20:21:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA0LzI0L3Nob3VsZC15b3UtYnV5LWFtZC1zdG9jay1iZWZvcmUtZWFybmluZ3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fool.com",
+                    "title": "The Motley Fool"
+                }
+            },
+            {
+                "title": "AMD says it will sell $4 billion in AI chips this year; stock drops on in-line forecast - CNBC",
+                "description": "AMD says it will sell $4 billion in AI chips this year; stock drops on in-line forecast  CNBC",
+                "published date": "Tue, 30 Apr 2024 20:24:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDQvMzAvYW1kLWdhbWluZy1yZXZlbnVlLWZhbGxzLTQ4cGVyY2VudC15ZWFyLW92ZXIteWVhci1hbmQtdGhlLXN0b2NrLWlzLWRvd24uaHRtbNIBcGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA0LzMwL2FtZC1nYW1pbmctcmV2ZW51ZS1mYWxscy00OHBlcmNlbnQteWVhci1vdmVyLXllYXItYW5kLXRoZS1zdG9jay1pcy1kb3duLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnbc.com",
+                    "title": "CNBC"
+                }
+            },
+            {
+                "title": "AMD Earnings Are Out. The Stock Is Dropping. - Barron's",
+                "description": "AMD Earnings Are Out. The Stock Is Dropping.  Barron's",
+                "published date": "Wed, 01 May 2024 09:02:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2FtZC1lYXJuaW5ncy1zdG9jay1wcmljZS01ODM2YTUwZdIBRmh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FtcC9hcnRpY2xlcy9hbWQtZWFybmluZ3Mtc3RvY2stcHJpY2UtNTgzNmE1MGU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.barrons.com",
+                    "title": "Barron's"
+                }
+            },
+            {
+                "title": "Brace Yourself: Why AMD Stock's Earnings Could Trigger a Wild Ride for Investors - InvestorPlace",
+                "description": "Brace Yourself: Why AMD Stock's Earnings Could Trigger a Wild Ride for Investors  InvestorPlace",
+                "published date": "Wed, 01 May 2024 01:46:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vaW52ZXN0b3JwbGFjZS5jb20vMjAyNC8wNC9icmFjZS15b3Vyc2VsZi13aHktYW1kLXN0b2Nrcy1lYXJuaW5ncy1jb3VsZC10cmlnZ2VyLWEtd2lsZC1yaWRlLWZvci1pbnZlc3RvcnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://investorplace.com",
+                    "title": "InvestorPlace"
+                }
+            },
+            {
+                "title": "AMD boosts its outlook for AI revenue, but stock still falls - MarketWatch",
+                "description": "AMD boosts its outlook for AI revenue, but stock still falls  MarketWatch",
+                "published date": "Wed, 01 May 2024 00:08:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS9hbWRzLWdhbWluZy1jaGlwLXNhbGVzLWRyb3AtbmVhcmx5LTUwLWFuZC1zdG9jay1mYWxscy0zLTQ0YzEyM2Qz0gFmaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9zdG9yeS9hbWRzLWdhbWluZy1jaGlwLXNhbGVzLWRyb3AtbmVhcmx5LTUwLWFuZC1zdG9jay1mYWxscy0zLTQ0YzEyM2Qz?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.marketwatch.com",
+                    "title": "MarketWatch"
+                }
+            },
+            {
+                "title": "Chipmaker AMD Delivers In-Line Q1 Earnings Report, Q2 Outlook - Investor's Business Daily",
+                "description": "Chipmaker AMD Delivers In-Line Q1 Earnings Report, Q2 Outlook  Investor's Business Daily",
+                "published date": "Tue, 30 Apr 2024 21:21:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L2FtZC1zdG9jay1hZHZhbmNlZC1taWNyby1kZXZpY2VzLXExLTIwMjQtZWFybmluZ3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.investors.com",
+                    "title": "Investor's Business Daily"
+                }
+            },
+            {
+                "title": "'Time to Sell,' Says Investor About AMD Stock - TipRanks.com - TipRanks",
+                "description": "'Time to Sell,' Says Investor About AMD Stock - TipRanks.com  TipRanks",
+                "published date": "Sun, 28 Apr 2024 19:41:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnRpcHJhbmtzLmNvbS9uZXdzL3RpbWUtdG8tc2VsbC1zYXlzLWludmVzdG9yLWFib3V0LWFtZC1zdG9ja9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.tipranks.com",
+                    "title": "TipRanks"
+                }
+            },
+            {
+                "title": "Analysts reboot AMD stock price target ahead of earnings - TheStreet",
+                "description": "Analysts reboot AMD stock price target ahead of earnings  TheStreet",
+                "published date": "Mon, 29 Apr 2024 16:47:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vdGVjaG5vbG9neS9hbmFseXN0cy1yZWJvb3QtYW1kLXN0b2NrLXByaWNlLXRhcmdldC1haGVhZC1vZi1lYXJuaW5nc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thestreet.com",
+                    "title": "TheStreet"
+                }
+            }
+        ]
+    },
+    {
         "name": "UCLA",
         "summary": "",
         "items": [
             {
-                "title": "Student protesters reach a deal with Northwestern University that sparks criticism from all sides - The Associated Press",
-                "description": "Student protesters reach a deal with Northwestern University that sparks criticism from all sides  The Associated Press",
-                "published date": "Wed, 01 May 2024 05:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRod2VzdGVybi1zdHVkZW50cy1pc3JhZWwtcGFsZXN0aW5pYW5zLXByb3Rlc3QtYzM2OTgxOThmMTNjOTg2ZDZiYzIzOGZmOTYwODFmOWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "UCLA campus protests: Counterprotesters attack pro-Palestinian camp - Los Angeles Times",
+                "description": "UCLA campus protests: Counterprotesters attack pro-Palestinian camp  Los Angeles Times",
+                "published date": "Wed, 01 May 2024 13:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNC0zMC91Y2xhLW1vdmVzLXRvLXNodXQtZG93bi1wcm8tcGFsZXN0aW5pYW4tZW5jYW1wbWVudC1hcy11bmxhd2Z1bNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
+                    "href": "https://www.latimes.com",
+                    "title": "Los Angeles Times"
                 }
             },
             {
-                "title": "Clashes break out at UCLA amid dueling demonstrations between pro-Palestinian and pro-Israeli protesters - KABC-TV",
-                "description": "Clashes break out at UCLA amid dueling demonstrations between pro-Palestinian and pro-Israeli protesters  KABC-TV",
+                "title": "Pro-Israel counter-protesters attempt to storm encampment, sparking violence - Daily Bruin",
+                "description": "Pro-Israel counter-protesters attempt to storm encampment, sparking violence  Daily Bruin",
+                "published date": "Wed, 01 May 2024 08:13:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZGFpbHlicnVpbi5jb20vMjAyNC8wNS8wMS9wcm8taXNyYWVsLWNvdW50ZXItcHJvdGVzdGVycy1hdHRlbXB0LXRvLXN0b3JtLWVuY2FtcG1lbnQtc3BhcmtpbmctdmlvbGVuY2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://dailybruin.com",
+                    "title": "Daily Bruin"
+                }
+            },
+            {
+                "title": "UCLA violence: Clashes break out amid dueling demonstrations between pro-Palestinian and pro-Israeli protesters - KABC-TV",
+                "description": "UCLA violence: Clashes break out amid dueling demonstrations between pro-Palestinian and pro-Israeli protesters  KABC-TV",
                 "published date": "Wed, 01 May 2024 08:56:07 GMT",
                 "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL2FiYzcuY29tL2NsYXNoZXMtYnJlYWstb3V0LWF0LXVjbGEtYW1pZC1kdWVsaW5nLWRlbW9uc3RyYXRpb25zLWJldHdlZW4tcHJvLXBhbGVzdGluaWFuLWFuZC1wcm8taXNyYWVsaS1wcm90ZXN0ZXJzLzE0NzQ5MjQ2L9IBhwFodHRwczovL2FiYzcuY29tL2FtcC9jbGFzaGVzLWJyZWFrLW91dC1hdC11Y2xhLWFtaWQtZHVlbGluZy1kZW1vbnN0cmF0aW9ucy1iZXR3ZWVuLXByby1wYWxlc3Rpbmlhbi1hbmQtcHJvLWlzcmFlbGktcHJvdGVzdGVycy8xNDc0OTI0Ni8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
@@ -24,19 +140,9 @@
                 }
             },
             {
-                "title": "Campus protests live updates: Police respond to violent clashes at UCLA; hundreds arrested after occupied Columbia ... - NBC News",
-                "description": "Campus protests live updates: Police respond to violent clashes at UCLA; hundreds arrested after occupied Columbia ...  NBC News",
-                "published date": "Wed, 01 May 2024 11:56:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9saXZlLWJsb2cvY2FtcHVzLXByb3Rlc3RzLWxpdmUtdXBkYXRlcy12aW9sZW50LWNsYXNoZXMtdWNsYS1ueXBkLWNsZWFyLWNvbHVtYmlhLXJjbmExNTAxNTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
-                }
-            },
-            {
-                "title": "College protests live updates: Violence erupts at UCLA encampment - USA TODAY",
-                "description": "College protests live updates: Violence erupts at UCLA encampment  USA TODAY",
-                "published date": "Wed, 01 May 2024 11:22:17 GMT",
+                "title": "College protests live updates: Violence at UCLA; 300 arrested in NYC - USA TODAY",
+                "description": "College protests live updates: Violence at UCLA; 300 arrested in NYC  USA TODAY",
+                "published date": "Wed, 01 May 2024 14:03:45 GMT",
                 "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA1LzAxL2NvbGxlZ2Utd2FyLXByb3Rlc3RzLWxpdmUtdXBkYXRlcy11Y2xhLXZpb2xlbmNlLzczNTIzNjY2MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
@@ -44,19 +150,19 @@
                 }
             },
             {
-                "title": "UCLA community organizes encampment in response to national call for escalation - Daily Bruin",
-                "description": "UCLA community organizes encampment in response to national call for escalation  Daily Bruin",
-                "published date": "Thu, 25 Apr 2024 18:19:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vZGFpbHlicnVpbi5jb20vMjAyNC8wNC8yNS91Y2xhLWNvbW11bml0eS1vcmdhbml6ZXMtZW5jYW1wbWVudC1pbi1yZXNwb25zZS10by1uYXRpb25hbC1jYWxsLWZvci1lc2NhbGF0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Campus protests live updates: Police respond to violent clashes at UCLA; hundreds arrested at Columbia - NBC News",
+                "description": "Campus protests live updates: Police respond to violent clashes at UCLA; hundreds arrested at Columbia  NBC News",
+                "published date": "Wed, 01 May 2024 13:48:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9saXZlLWJsb2cvY2FtcHVzLXByb3Rlc3RzLWxpdmUtdXBkYXRlcy12aW9sZW50LWNsYXNoZXMtdWNsYS1ueXBkLWNsZWFyLWNvbHVtYmlhLXJjbmExNTAxNTnSATVodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9saXZlLWJsb2cvcmNuYTE1MDE1OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://dailybruin.com",
-                    "title": "Daily Bruin"
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             },
             {
                 "title": "College protests live updates: UCLA calls in LAPD, police make arrests at Columbia - The Washington Post",
                 "description": "College protests live updates: UCLA calls in LAPD, police make arrests at Columbia  The Washington Post",
-                "published date": "Wed, 01 May 2024 11:16:59 GMT",
+                "published date": "Wed, 01 May 2024 14:34:20 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lZHVjYXRpb24vMjAyNC8wNS8wMS9jb2x1bWJpYS11bml2ZXJzaXR5LXByb3Rlc3RzLXBhbGVzdGluZS1saXZlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.washingtonpost.com",
@@ -64,50 +170,156 @@
                 }
             },
             {
-                "title": "Newsom, state leaders stay mum about pro-Palestinian protest at UCLA - NBC Los Angeles",
-                "description": "Newsom, state leaders stay mum about pro-Palestinian protest at UCLA  NBC Los Angeles",
-                "published date": "Wed, 01 May 2024 02:57:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvbmV3c29tLXN0YXRlLWxlYWRlcnMtc3RheS1tdW0tYWJvdXQtcHJvLXBhbGVzdGluaWFuLXByb3Rlc3QtYXQtdWNsYS8zNDAxNDkzL9IBe2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvbmV3c29tLXN0YXRlLWxlYWRlcnMtc3RheS1tdW0tYWJvdXQtcHJvLXBhbGVzdGluaWFuLXByb3Rlc3QtYXQtdWNsYS8zNDAxNDkzLz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Pepper spray and firecrackers thrown during protester clash at UCLA - NBC Los Angeles",
+                "description": "Pepper spray and firecrackers thrown during protester clash at UCLA  NBC Los Angeles",
+                "published date": "Wed, 01 May 2024 14:02:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvcGVwcGVyLXNwcmF5LWFuZC1maXJlY3JhY2tlcnMtdGhyb3duLWR1cmluZy1wcm90ZXN0ZXItY2xhc2gtYXQtdWNsYS8zNDAxNTY3L9IBe2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvcGVwcGVyLXNwcmF5LWFuZC1maXJlY3JhY2tlcnMtdGhyb3duLWR1cmluZy1wcm90ZXN0ZXItY2xhc2gtYXQtdWNsYS8zNDAxNTY3Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nbclosangeles.com",
                     "title": "NBC Los Angeles"
                 }
             },
             {
-                "title": "Video shows protests at UCLA as violent confrontation breaks out - CNN",
-                "description": "Video shows protests at UCLA as violent confrontation breaks out  CNN",
-                "published date": "Wed, 01 May 2024 08:42:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3VzLzIwMjQvMDUvMDEvdWNsYS1wcm90ZXN0cy13ZWRuZXNkYXktbGRuLXZweC5jbm7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates - CNN",
+                "description": "Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates  CNN",
+                "published date": "Wed, 01 May 2024 13:56:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vYnVzaW5lc3MvbGl2ZS1uZXdzL3VuaXZlcnNpdHktcHJvdGVzdHMtZ2F6YS0wNS0wMS0yNC9pbmRleC5odG1s0gFXaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vYnVzaW5lc3MvbGl2ZS1uZXdzL3VuaXZlcnNpdHktcHJvdGVzdHMtZ2F6YS0wNS0wMS0yNC9pbmRleC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cnn.com",
                     "title": "CNN"
                 }
             },
             {
-                "title": "UCLA clashes: Pro-Palestinian protesters attacked by Israel supporters - Al Jazeera English",
-                "description": "UCLA clashes: Pro-Palestinian protesters attacked by Israel supporters  Al Jazeera English",
-                "published date": "Wed, 01 May 2024 11:23:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzUvMS91Y2xhLWNsYXNoZXMtcHJvLXBhbGVzdGluaWFuLXByb3Rlc3RlcnMtYXR0YWNrZWQtYnktaXNyYWVsLXN1cHBvcnRlcnPSAXFodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNS8xL3VjbGEtY2xhc2hlcy1wcm8tcGFsZXN0aW5pYW4tcHJvdGVzdGVycy1hdHRhY2tlZC1ieS1pc3JhZWwtc3VwcG9ydGVycw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "College Protests Live Updates: UCLA Calls in Police as Clashes Escalate at Campuses - The New York Times",
+                "description": "College Protests Live Updates: UCLA Calls in Police as Clashes Escalate at Campuses  The New York Times",
+                "published date": "Wed, 01 May 2024 13:52:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wNS8wMS9ueXJlZ2lvbi9jb2x1bWJpYS11bml2ZXJzaXR5LXByb3Rlc3Rz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
                 }
             },
             {
-                "title": "DEI Meets Plagiarism at UCLA - City Journal",
-                "description": "DEI Meets Plagiarism at UCLA  City Journal",
-                "published date": "Thu, 25 Apr 2024 13:41:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmNpdHktam91cm5hbC5vcmcvYXJ0aWNsZS9kZWktbWVldHMtcGxhZ2lhcmlzbS1hdC11Y2xh0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "UCLA declares Palestine encampment unlawful, USC president in talks with protesters - LA Daily News",
+                "description": "UCLA declares Palestine encampment unlawful, USC president in talks with protesters  LA Daily News",
+                "published date": "Tue, 30 Apr 2024 20:48:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRhaWx5bmV3cy5jb20vMjAyNC8wNC8zMC9wYWxlc3RpbmUtcHJvdGVzdHMtdWNsYS1vcGVucy1pbnF1aXJ5LXVzYy1wcmVzaWRlbnQtaW4tdGFsa3Mtd2l0aC1wcm90ZXN0ZXJzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.city-journal.org",
-                    "title": "City Journal"
+                    "href": "https://www.dailynews.com",
+                    "title": "LA Daily News"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mike Johnson",
+        "summary": "Mike Johnson, the newly appointed House Speaker, has faced a wave of controversy during his raucous visit to Columbia University. Protesters heckled Johnson, while House Democrats pledged to protect him against a potential ouster attempt by Representative Marjorie Taylor Greene. However, Johnson's lack of fundraising success compared to his predecessor Kevin McCarthy has also drawn attention. Additionally, Democrats have criticized Johnson's antisemitism vote, prompting accusations of wrongdoing. The New York Times has defended Johnson, citing the importance of defending democracy, but the Washington Post has highlighted concerns about Johnson's fundraising capabilities.",
+        "items": [
+            {
+                "title": "Opinion | For the Sake of Democracy, Celebrate Mike Johnson - The New York Times",
+                "description": "Opinion | For the Sake of Democracy, Celebrate Mike Johnson  The New York Times",
+                "published date": "Thu, 25 Apr 2024 16:13:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMjUvb3Bpbmlvbi9taWtlLWpvaG5zb24tdWtyYWluZS1haWQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Johnson demands Biden send in National Guard during raucous Columbia visit - POLITICO",
+                "description": "Johnson demands Biden send in National Guard during raucous Columbia visit  POLITICO",
+                "published date": "Thu, 25 Apr 2024 01:27:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDQvMjQvbWlrZS1qb2huc29uLWNvbHVtYmlhLW5hdGlvbmFsLWd1YXJkLTAwMTU0MTk50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.politico.com",
+                    "title": "POLITICO"
+                }
+            },
+            {
+                "title": "House Democrats announce they would save Speaker Mike Johnson if Marjorie Taylor Greene triggers her effort to oust him - CNN",
+                "description": "House Democrats announce they would save Speaker Mike Johnson if Marjorie Taylor Greene triggers her effort to oust him  CNN",
+                "published date": "Wed, 01 May 2024 00:59:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8zMC9wb2xpdGljcy9ob3VzZS1kZW1vY3JhdHMtc3BlYWtlci1qb2huc29uL2luZGV4Lmh0bWzSAUtodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA0LzMwL3BvbGl0aWNzL2hvdXNlLWRlbW9jcmF0cy1zcGVha2VyLWpvaG5zb24?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
+                }
+            },
+            {
+                "title": "Mike Johnson and the troubled history of recent Republican speakers - NPR",
+                "description": "Mike Johnson and the troubled history of recent Republican speakers  NPR",
+                "published date": "Sat, 27 Apr 2024 09:00:42 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8yNy8xMjQ3Mzk1NTcyL21pa2Utam9obnNvbi1ob3VzZS1zcGVha2Vycy1yZXB1YmxpY2Fu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.npr.org",
+                    "title": "NPR"
+                }
+            },
+            {
+                "title": "House speaker Mike Johnson heckled by protesters in tense Columbia campus visit - BBC.com",
+                "description": "House speaker Mike Johnson heckled by protesters in tense Columbia campus visit  BBC.com",
+                "published date": "Wed, 24 Apr 2024 21:50:35 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjg4OTMxODXSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY4ODkzMTg1LmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.bbc.com",
+                    "title": "BBC.com"
+                }
+            },
+            {
+                "title": "House Democratic leaders say they would help save Speaker Mike Johnson's job - NBC News",
+                "description": "House Democratic leaders say they would help save Speaker Mike Johnson's job  NBC News",
+                "published date": "Tue, 30 Apr 2024 19:39:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL2NvbmdyZXNzL2hvdXNlLWRlbW9jcmF0aWMtbGVhZGVycy1zYXktaGVscC1zcGVha2VyLW1pa2Utam9obnNvbnMtam9iLXJjbmExNDk5ODbSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTQ5OTg2?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
+                }
+            },
+            {
+                "title": "Democrats vow to protect Speaker Mike Johnson from being ousted from office - The Associated Press",
+                "description": "Democrats vow to protect Speaker Mike Johnson from being ousted from office  The Associated Press",
+                "published date": "Tue, 30 Apr 2024 21:50:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NwZWFrZXItbWlrZS1qb2huc29uLW1hcmpvcmllLXRheWxvci1ncmVlbmUtbW90aW9uLXRvLXZhY2F0ZS01NTIxNjlmM2U4MzFhYjhmYjNiYWFjZmRmNzZjMmQ4MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Mike Johnson calls ouster attempt against him \u2018wrong for the country\u2019 \u2013 live - The Guardian US",
+                "description": "Mike Johnson calls ouster attempt against him \u2018wrong for the country\u2019 \u2013 live  The Guardian US",
+                "published date": "Wed, 01 May 2024 13:55:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2xpdmUvMjAyNC9tYXkvMDEvc3BlYWtlci1taWtlLWpvaG5zb24tbWFyam9yaWUtdGF5bG9yLWdyZWVuZS11cGRhdGVz0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvbGl2ZS8yMDI0L21heS8wMS9zcGVha2VyLW1pa2Utam9obnNvbi1tYXJqb3JpZS10YXlsb3ItZ3JlZW5lLXVwZGF0ZXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.theguardian.com",
+                    "title": "The Guardian US"
+                }
+            },
+            {
+                "title": "Democrats fume at Mike Johnson over antisemitism vote - Axios",
+                "description": "Democrats fume at Mike Johnson over antisemitism vote  Axios",
+                "published date": "Tue, 30 Apr 2024 22:28:53 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA0LzMwL2hvdXNlLWRlbW9jcmF0cy1taWtlLWpvaG5zb24tYW50aXNlbWl0aXNt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
+                }
+            },
+            {
+                "title": "Mike Johnson hasn\u2019t matched Kevin McCarthy\u2019s fundraising prowess \u2014 yet - The Washington Post",
+                "description": "Mike Johnson hasn\u2019t matched Kevin McCarthy\u2019s fundraising prowess \u2014 yet  The Washington Post",
+                "published date": "Tue, 30 Apr 2024 13:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lbGVjdGlvbnMvMjAyNC8wNC8zMC9taWtlLWpvaG5zb24taG91c2UtcmVwdWJsaWNhbi1mdW5kcmFpc2luZy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.washingtonpost.com",
+                    "title": "The Washington Post"
                 }
             }
         ]
     },
     {
         "name": "Brian McCardie",
-        "summary": "",
+        "summary": "Prominent actor Brian McCardie, known for his roles in esteemed productions such as \"Line of Duty,\" \"Rob Roy,\" and \"Outlander,\" passed away at the age of 59. The news of his sudden death at his residence has sparked an outpouring of tributes and remembrances from friends, colleagues, and admirers within the entertainment industry.",
         "items": [
             {
                 "title": "Brian McCardie, \u2018Line of Duty\u2019 Actor, Dies at 59 - Variety",
@@ -152,11 +364,21 @@
             {
                 "title": "Line of Duty actor Brian McCardie dies at 59 - BBC.com",
                 "description": "Line of Duty actor Brian McCardie dies at 59  BBC.com",
-                "published date": "Tue, 30 Apr 2024 14:33:08 GMT",
+                "published date": "Tue, 30 Apr 2024 14:32:31 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG4xdnpncXJsM2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRuMXZ6Z3FybDNvLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.bbc.com",
                     "title": "BBC.com"
+                }
+            },
+            {
+                "title": "Brian McCardie, 'Outlander' Actor, Dead at 59 - Parade Magazine",
+                "description": "Brian McCardie, 'Outlander' Actor, Dead at 59  Parade Magazine",
+                "published date": "Tue, 30 Apr 2024 14:15:59 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vcGFyYWRlLmNvbS9uZXdzL2JyaWFuLW1jY2FyZGllLW91dGxhbmRlci1hY3Rvci1kZWFkLTU50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://parade.com",
+                    "title": "Parade Magazine"
                 }
             },
             {
@@ -198,22 +420,12 @@
                     "href": "https://www.the-sun.com",
                     "title": "The US Sun"
                 }
-            },
-            {
-                "title": "Line of Duty and Outlander star Brian McCardie dead at 59: Tributes pour in for 'wonderful and passionate acto - Daily Mail",
-                "description": "Line of Duty and Outlander star Brian McCardie dead at 59: Tributes pour in for 'wonderful and passionate acto  Daily Mail",
-                "published date": "Tue, 30 Apr 2024 12:58:58 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTMzNjY4ODMvTGluZS1EdXR5LU91dGxhbmRlci1zdGFyLUJyaWFuLU1jQ2FyZGllLWRlYWQtQWN0b3ItNTktcGFzc2VzLWF3YXktc3VkZGVubHktaGVhcnRicm9rZW4tc2lzdGVyLXBheXMtdHJpYnV0ZS5odG1s0gGqAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMzM2Njg4My9hbXAvTGluZS1EdXR5LU91dGxhbmRlci1zdGFyLUJyaWFuLU1jQ2FyZGllLWRlYWQtQWN0b3ItNTktcGFzc2VzLWF3YXktc3VkZGVubHktaGVhcnRicm9rZW4tc2lzdGVyLXBheXMtdHJpYnV0ZS5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.dailymail.co.uk",
-                    "title": "Daily Mail"
-                }
             }
         ]
     },
     {
         "name": "Kendrick Lamar",
-        "summary": "",
+        "summary": "Kendrick Lamar and Drake's ongoing feud has taken a new turn with Lamar's release of the song \"Euphoria,\" which is widely seen as a diss track targeting Drake. The song contains several explicit references to Drake, criticizing his songwriting, business practices, and personal life. The release of \"Euphoria\" has generated significant discussion and speculation, with some suggesting that it may have influenced a recent artificial intelligence-generated rap battle between Lamar and Drake. Lamar's diss track has also sparked controversy, with some critics accusing him of being overly negative and aggressive in his lyrics. However, Lamar has defended his actions, stating that he is \"proud\" of the song and its message. The release of \"Euphoria\" highlights the ongoing rivalry between Lamar and Drake, which has escalated in recent years due to perceived slights and competitive tensions.",
         "items": [
             {
                 "title": "On 'Euphoria,' Kendrick Lamar is Drake's biggest hater \u2014 and proud of it - NPR",
@@ -238,21 +450,11 @@
             {
                 "title": "In the Battle of Drake vs. Kendrick Lamar, A.I. Is Playing Spoiler - The New York Times",
                 "description": "In the Battle of Drake vs. Kendrick Lamar, A.I. Is Playing Spoiler  The New York Times",
-                "published date": "Tue, 30 Apr 2024 16:59:26 GMT",
+                "published date": "Tue, 30 Apr 2024 17:15:10 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMzAvYXJ0cy9tdXNpYy9kcmFrZS1rZW5kcmljay1sYW1hci1yYXAtYmVlZi1haS1mYWtlcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nytimes.com",
                     "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Kendrick Lamar's Hardest Drake Disses on 'Euphoria' - Vulture",
-                "description": "Kendrick Lamar's Hardest Drake Disses on 'Euphoria'  Vulture",
-                "published date": "Tue, 30 Apr 2024 20:40:44 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnZ1bHR1cmUuY29tL2FydGljbGUva2VuZHJpY2stbGFtYXItZHJha2UtZGlzcy1ldXBob3JpYS1iZXN0LWx5cmljcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.vulture.com",
-                    "title": "Vulture"
                 }
             },
             {
@@ -266,6 +468,16 @@
                 }
             },
             {
+                "title": "Kendrick Lamar's Hardest Drake Disses on 'Euphoria' - Vulture",
+                "description": "Kendrick Lamar's Hardest Drake Disses on 'Euphoria'  Vulture",
+                "published date": "Tue, 30 Apr 2024 20:40:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnZ1bHR1cmUuY29tL2FydGljbGUva2VuZHJpY2stbGFtYXItZHJha2UtZGlzcy1ldXBob3JpYS1iZXN0LWx5cmljcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.vulture.com",
+                    "title": "Vulture"
+                }
+            },
+            {
                 "title": "Kendrick Lamar drops brutal Drake diss track 'Euphoria' amid feud: Listen - USA TODAY",
                 "description": "Kendrick Lamar drops brutal Drake diss track 'Euphoria' amid feud: Listen  USA TODAY",
                 "published date": "Tue, 30 Apr 2024 17:55:01 GMT",
@@ -273,16 +485,6 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Kendrick Lamar Fires Back at Drake on New Diss Track \u2018Euphoria\u2019 - Variety",
-                "description": "Kendrick Lamar Fires Back at Drake on New Diss Track \u2018Euphoria\u2019  Variety",
-                "published date": "Tue, 30 Apr 2024 16:26:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9tdXNpYy9uZXdzL2tlbmRyaWNrLWxhbWFyLWV1cGhvcmlhLWRyYWtlLWRpc3MtdHJhY2stMTIzNTk4NzE1MC_SAVxodHRwczovL3ZhcmlldHkuY29tLzIwMjQvbXVzaWMvbmV3cy9rZW5kcmljay1sYW1hci1ldXBob3JpYS1kcmFrZS1kaXNzLXRyYWNrLTEyMzU5ODcxNTAvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
                 }
             },
             {
@@ -296,6 +498,26 @@
                 }
             },
             {
+                "title": "Kendrick Lamar one-ups Drake thanks to support from Tupac's estate - Business Insider",
+                "description": "Kendrick Lamar one-ups Drake thanks to support from Tupac's estate  Business Insider",
+                "published date": "Wed, 01 May 2024 02:07:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20va2VuZHJpY2stbGFtYXItZHJha2UtZmV1ZC10dXBhYy0yMDI0LTTSAUpodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2tlbmRyaWNrLWxhbWFyLWRyYWtlLWZldWQtdHVwYWMtMjAyNC00P2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.businessinsider.com",
+                    "title": "Business Insider"
+                }
+            },
+            {
+                "title": "Kendrick Lamar Fires Back at Drake on New Diss Track \u2018Euphoria\u2019 - Variety",
+                "description": "Kendrick Lamar Fires Back at Drake on New Diss Track \u2018Euphoria\u2019  Variety",
+                "published date": "Tue, 30 Apr 2024 16:26:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9tdXNpYy9uZXdzL2tlbmRyaWNrLWxhbWFyLWV1cGhvcmlhLWRyYWtlLWRpc3MtdHJhY2stMTIzNTk4NzE1MC_SAVxodHRwczovL3ZhcmlldHkuY29tLzIwMjQvbXVzaWMvbmV3cy9rZW5kcmljay1sYW1hci1ldXBob3JpYS1kcmFrZS1kaXNzLXRyYWNrLTEyMzU5ODcxNTAvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
                 "title": "Kendrick Lamar's 12 Best Drake Diss Lyrics From 'Euphoria' - Billboard",
                 "description": "Kendrick Lamar's 12 Best Drake Diss Lyrics From 'Euphoria'  Billboard",
                 "published date": "Tue, 30 Apr 2024 20:32:39 GMT",
@@ -304,22 +526,12 @@
                     "href": "https://www.billboard.com",
                     "title": "Billboard"
                 }
-            },
-            {
-                "title": "Kendrick Lamar responds to Drake in new diss track 'Euphoria' - Los Angeles Times",
-                "description": "Kendrick Lamar responds to Drake in new diss track 'Euphoria'  Los Angeles Times",
-                "published date": "Tue, 30 Apr 2024 19:48:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2VudGVydGFpbm1lbnQtYXJ0cy9tdXNpYy9zdG9yeS8yMDI0LTA0LTMwL2tlbmRyaWNrLWxhbWFyLWRpc3MtdHJhY2stZHJha2UtZXVwaG9yaWHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
-                }
             }
         ]
     },
     {
         "name": "Knicks",
-        "summary": "",
+        "summary": "The ongoing NBA Playoffs series between the New York Knicks and Philadelphia 76ers has been filled with intense competition. In Game 3, Joel Embiid led the 76ers to a victory, scoring 50 points. Despite the Knicks' strong performance in Game 4, the 76ers managed to cut the deficit to 2-1 in Game 5. Fans are eagerly anticipating Game 6, with the tip-off time now revealed. The series has been marked by controversial officiating, particularly in Game 2, where Knicks coach Tom Thibodeau expressed his dissatisfaction.",
         "items": [
             {
                 "title": "Knicks-76ers: 5 takeaways as Joel Embiid drops 50 in big Game 3 win - NBA.com",
@@ -352,6 +564,16 @@
                 }
             },
             {
+                "title": "Sixers vs. Knicks Game 6 Tip-Off Time Revealed - Sports Illustrated",
+                "description": "Sixers vs. Knicks Game 6 Tip-Off Time Revealed  Sports Illustrated",
+                "published date": "Wed, 01 May 2024 11:45:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvNzZlcnMvbmV3cy9zaXhlcnMta25pY2tzLWdhbWUtNi10aXAtb2ZmLXRpbWUtcmV2ZWFsZWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
                 "title": "Jalen Brunson, Knicks put 76ers on brink of elimination with Game 4 win - USA TODAY",
                 "description": "Jalen Brunson, Knicks put 76ers on brink of elimination with Game 4 win  USA TODAY",
                 "published date": "Sun, 28 Apr 2024 20:27:22 GMT",
@@ -359,6 +581,16 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Sixers 112, Knicks 106: \"I want to cry right now.\" - Posting and Toasting",
+                "description": "Sixers 112, Knicks 106: \"I want to cry right now.\"  Posting and Toasting",
+                "published date": "Wed, 01 May 2024 11:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnBvc3RpbmdhbmR0b2FzdGluZy5jb20vMjAyNC81LzEvMjQxNDYwODYvc2l4ZXJzLTExMi1rbmlja3MtMTA2LWktd2FudC10by1jcnktcmlnaHQtbm930gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.postingandtoasting.com",
+                    "title": "Posting and Toasting"
                 }
             },
             {
@@ -400,58 +632,28 @@
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
                 }
-            },
-            {
-                "title": "76ers 125-114 Knicks (Apr 25, 2024) Final Score - ESPN",
-                "description": "76ers 125-114 Knicks (Apr 25, 2024) Final Score  ESPN",
-                "published date": "Fri, 26 Apr 2024 04:07:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9nYW1lL18vZ2FtZUlkLzQwMTY1NTEwNy9rbmlja3MtNzZlcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "Knicks' Jalen Brunson says he has to be 'flat-out better' in Game 3 vs. 76ers - New York Post",
-                "description": "Knicks' Jalen Brunson says he has to be 'flat-out better' in Game 3 vs. 76ers  New York Post ",
-                "published date": "Thu, 25 Apr 2024 01:53:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzI0L3Nwb3J0cy9rbmlja3MtamFsZW4tYnJ1bnNvbi1zYXlzLWhlLWhhcy10by1iZS1mbGF0LW91dC1iZXR0ZXIv0gFgaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDQvMjQvc3BvcnRzL2tuaWNrcy1qYWxlbi1icnVuc29uLXNheXMtaGUtaGFzLXRvLWJlLWZsYXQtb3V0LWJldHRlci9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
             }
         ]
     },
     {
         "name": "Real Madrid",
-        "summary": "",
+        "summary": "Real Madrid earned a hard-fought draw against Bayern Munich in the Champions League semi-final first leg on Tuesday. Despite injuries and a tough start, Real Madrid managed to level the score at 2-2. Bayern Munich initially took the lead with goals from Joshua Kimmich and Sadio Mane, but Real Madrid fought back with goals from Karim Benzema and \u00c9der Milit\u00e3o. The match was closely contested, with both teams showing determination and resilience. The result leaves the tie finely poised heading into the second leg at the Santiago Bernab\u00e9u.",
         "items": [
             {
-                "title": "Real Madrid's First Defensive Addition For Next Season Identified, AS Reports - Forbes",
-                "description": "Real Madrid's First Defensive Addition For Next Season Identified, AS Reports  Forbes",
-                "published date": "Thu, 25 Apr 2024 21:45:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NhbWxldmVyaWRnZS8yMDI0LzA0LzI1L3JlYWwtbWFkcmlkcy1maXJzdC1kZWZlbnNpdmUtYWRkaXRpb24tZm9yLW5leHQtc2Vhc29uLWlkZW50aWZpZWQtYXMtcmVwb3J0cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "How Real Madrid fought back to draw with Bayern Munich in the Champions League on Tuesday - The Athletic",
+                "description": "How Real Madrid fought back to draw with Bayern Munich in the Champions League on Tuesday  The Athletic",
+                "published date": "Wed, 01 May 2024 13:17:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlYXRobGV0aWMuY29tL2xpdmUtYmxvZ3MvYmF5ZXJuLW11bmljaC1yZWFsLW1hZHJpZC1saXZlLXVwZGF0ZXMtY2hhbXBpb25zLWxlYWd1ZS1zY29yZS1yZXN1bHQvTExZMHhFTGlGMGozL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
+                    "href": "https://theathletic.com",
+                    "title": "The Athletic"
                 }
             },
             {
-                "title": "\u2018Extraordinary\u2019 teenage star scores on debut start as Real Madrid nears La Liga title - CNN",
-                "description": "\u2018Extraordinary\u2019 teenage star scores on debut start as Real Madrid nears La Liga title  CNN",
-                "published date": "Sat, 27 Apr 2024 12:14:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8yNy9zcG9ydC90ZWVuYWdlLXN0YXItcmVhbC1tYWRyaWQtbGEtbGlnYS1zcHQtaW50bC9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNC8yNy9zcG9ydC90ZWVuYWdlLXN0YXItcmVhbC1tYWRyaWQtbGEtbGlnYS1zcHQtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            },
-            {
-                "title": "Real Madrid, Bayern Munich trade comebacks to leave Champions League semifinal level after first leg - Yahoo Sports",
-                "description": "Real Madrid, Bayern Munich trade comebacks to leave Champions League semifinal level after first leg  Yahoo Sports",
-                "published date": "Tue, 30 Apr 2024 21:13:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9yZWFsLW1hZHJpZC1iYXllcm4tbXVuaWNoLXRyYWRlLWNvbWViYWNrcy10by1sZWF2ZS1jaGFtcGlvbnMtbGVhZ3VlLXNlbWlmaW5hbC1sZXZlbC1hZnRlci1maXJzdC1sZWctMTc1NDU4MDkwLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Champions League semifinals live updates: Bayern Munich vs. Real Madrid highlights, analysis - Yahoo Sports",
+                "description": "Champions League semifinals live updates: Bayern Munich vs. Real Madrid highlights, analysis  Yahoo Sports",
+                "published date": "Tue, 30 Apr 2024 20:49:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9jaGFtcGlvbnMtbGVhZ3VlLXNlbWlmaW5hbHMtbGl2ZS11cGRhdGVzLWJheWVybi1tdW5pY2gtdnMtcmVhbC1tYWRyaWQtaGlnaGxpZ2h0cy1hbmFseXNpcy0xNzU0NTgyNDkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://sports.yahoo.com",
                     "title": "Yahoo Sports"
@@ -468,10 +670,10 @@
                 }
             },
             {
-                "title": "How Barcelona's rescheduled match helps Real Madrid in Champions League - ESPN",
-                "description": "How Barcelona's rescheduled match helps Real Madrid in Champions League  ESPN",
-                "published date": "Thu, 25 Apr 2024 10:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9zdG9yeS9fL2lkLzQwMDIwODk1L2hvdy1yZXNjaGVkdWxlZC1iYXJjZWxvbmEtbGFsaWdhLW1hdGNoLWhlbHBzLXJlYWwtbWFkcmlkLWNoYW1waW9ucy1sZWFndWXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Bayern Munich 2-2 Real Madrid (Apr 30, 2024) Final Score - ESPN",
+                "description": "Bayern Munich 2-2 Real Madrid (Apr 30, 2024) Final Score  ESPN",
+                "published date": "Tue, 30 Apr 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9tYXRjaC9fL2dhbWVJZC83MDIwNTYvcmVhbC1tYWRyaWQtYmF5ZXJuLW11bmljaNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.espn.com",
                     "title": "ESPN"
@@ -488,16 +690,6 @@
                 }
             },
             {
-                "title": "Bayern Munich vs Real Madrid live updates: Vinicius Jr penalty secures 2-2 draw in Champions League semi-final - The Athletic",
-                "description": "Bayern Munich vs Real Madrid live updates: Vinicius Jr penalty secures 2-2 draw in Champions League semi-final  The Athletic",
-                "published date": "Tue, 30 Apr 2024 23:35:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGhlYXRobGV0aWMuY29tL2xpdmUtYmxvZ3MvYmF5ZXJuLW11bmljaC1yZWFsLW1hZHJpZC1saXZlLXVwZGF0ZXMtY2hhbXBpb25zLWxlYWd1ZS1zY29yZS1yZXN1bHQvTExZMHhFTGlGMGozL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
-                }
-            },
-            {
                 "title": "Cocky Real Madrid Claim Made By Bayern Munich Boss Thomas Tuchel - Forbes",
                 "description": "Cocky Real Madrid Claim Made By Bayern Munich Boss Thomas Tuchel  Forbes",
                 "published date": "Sat, 27 Apr 2024 07:16:33 GMT",
@@ -508,20 +700,40 @@
                 }
             },
             {
-                "title": "Real Madrid 1-0 Real Sociedad (Apr 26, 2024) Game Analysis - ESPN",
-                "description": "Real Madrid 1-0 Real Sociedad (Apr 26, 2024) Game Analysis  ESPN",
-                "published date": "Fri, 26 Apr 2024 21:56:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmVzcG4uY29tL3NvY2Nlci9yZXBvcnQvXy9nYW1lSWQvNjc0MzMy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Bayern Munich vs Real Madrid 2-2: Champions League- as it happened - Al Jazeera English",
+                "description": "Bayern Munich vs Real Madrid 2-2: Champions League- as it happened  Al Jazeera English",
+                "published date": "Tue, 30 Apr 2024 21:18:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzL2xpdmVibG9nLzIwMjQvNC8zMC9saXZlLWJheWVybi1tdW5pY2gtdnMtcmVhbC1tYWRyaWQtY2hhbXBpb25zLWxlYWd1ZS1zZW1pZmluYWxz0gF1aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzL2xpdmVibG9nLzIwMjQvNC8zMC9saXZlLWJheWVybi1tdW5pY2gtdnMtcmVhbC1tYWRyaWQtY2hhbXBpb25zLWxlYWd1ZS1zZW1pZmluYWxz?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
                 }
             },
             {
-                "title": "Champions League semifinals live updates: Bayern Munich vs. Real Madrid highlights, analysis - Yahoo Sports",
-                "description": "Champions League semifinals live updates: Bayern Munich vs. Real Madrid highlights, analysis  Yahoo Sports",
-                "published date": "Tue, 30 Apr 2024 20:49:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9jaGFtcGlvbnMtbGVhZ3VlLXNlbWlmaW5hbHMtbGl2ZS11cGRhdGVzLWJheWVybi1tdW5pY2gtdnMtcmVhbC1tYWRyaWQtaGlnaGxpZ2h0cy1hbmFseXNpcy0xNzU0NTgyNDkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "\u2018Extraordinary\u2019 teenage star scores on debut start as Real Madrid nears La Liga title - CNN",
+                "description": "\u2018Extraordinary\u2019 teenage star scores on debut start as Real Madrid nears La Liga title  CNN",
+                "published date": "Sat, 27 Apr 2024 12:14:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8yNy9zcG9ydC90ZWVuYWdlLXN0YXItcmVhbC1tYWRyaWQtbGEtbGlnYS1zcHQtaW50bC9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNC8yNy9zcG9ydC90ZWVuYWdlLXN0YXItcmVhbC1tYWRyaWQtbGEtbGlnYS1zcHQtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
+                }
+            },
+            {
+                "title": "Watch Champions League Semifinal: Livestream Bayern Munich vs. Real Madrid From Anywhere - CNET",
+                "description": "Watch Champions League Semifinal: Livestream Bayern Munich vs. Real Madrid From Anywhere  CNET",
+                "published date": "Tue, 30 Apr 2024 16:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jbmV0LmNvbS90ZWNoL3NlcnZpY2VzLWFuZC1zb2Z0d2FyZS93YXRjaC1jaGFtcGlvbnMtbGVhZ3VlLXNlbWlmaW5hbC1saXZlc3RyZWFtLWJheWVybi1tdW5pY2gtdnMtcmVhbC1tYWRyaWQtZnJvbS1hbnl3aGVyZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnet.com",
+                    "title": "CNET"
+                }
+            },
+            {
+                "title": "Champions League semifinals live updates: Bayern Munich vs. Real Madrid lineups, highlights, analysis - Yahoo Sports",
+                "description": "Champions League semifinals live updates: Bayern Munich vs. Real Madrid lineups, highlights, analysis  Yahoo Sports",
+                "published date": "Tue, 30 Apr 2024 19:36:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9jaGFtcGlvbnMtbGVhZ3VlLXNlbWlmaW5hbHMtbGl2ZS11cGRhdGVzLWJheWVybi1tdW5pY2gtdnMtcmVhbC1tYWRyaWQtbGluZXVwcy1oaWdobGlnaHRzLWFuYWx5c2lzLTE3NTQ1ODA4My5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://sports.yahoo.com",
                     "title": "Yahoo Sports"
@@ -531,13 +743,13 @@
     },
     {
         "name": "Columbia University",
-        "summary": "",
+        "summary": "Amidst ongoing protests related to the Israeli-Palestinian conflict, Columbia University has encountered disruptions. Police intervened at Hamilton Hall, clearing protesters and making arrests. Across the nation, college campuses witnessed similar protests, including UCLA seeking LAPD assistance. NYC's mayor attributed the unrest to external agitators. Protesters occupied Hamilton Hall at Columbia, leading to a standoff with the administration. An open letter from a pro-Palestinian activist in Israel expressed solidarity with the demonstrators. Campus updates indicate a widespread escalation in protests, with police present at multiple universities. Additionally, protesters at Columbia University caused property damage hours after disciplinary action was announced for student demonstrators. The situation remains fluid, with ongoing live updates on campus unrest across the country.",
         "items": [
             {
-                "title": "How Columbia University's complex history with the student protest movement echoes into today - The Associated Press",
-                "description": "How Columbia University's complex history with the student protest movement echoes into today  The Associated Press",
-                "published date": "Wed, 01 May 2024 00:48:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbHVtYmlhLWdhemEtY2FtcHVzLXByb3Rlc3RzLTE5NjgtNTA1ZjlkYTNhZWY1Y2U3YTlmN2Q2ZWI5NjJkYWNiNWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Police clear protestors from Columbia's Hamilton Hall after college seeks help - The Associated Press",
+                "description": "Police clear protestors from Columbia's Hamilton Hall after college seeks help  The Associated Press",
+                "published date": "Wed, 01 May 2024 04:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1wYWxlc3Rpbmlhbi1jYW1wdXMtc3R1ZGVudC1wcm90ZXN0cy13YXItOGIwZDNhMGNlZGIxN2Y1ZTg5MmM2Y2E0M2JiZGY2MjjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
@@ -554,33 +766,43 @@
                 }
             },
             {
-                "title": "What Happened to Columbia University? - Merion West",
-                "description": "What Happened to Columbia University?  Merion West",
-                "published date": "Wed, 24 Apr 2024 19:02:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbWVyaW9ud2VzdC5jb20vMjAyNC8wNC8yNC93aGF0LWhhcHBlbmVkLXRvLWNvbHVtYmlhLXVuaXZlcnNpdHkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://merionwest.com",
-                    "title": "Merion West"
-                }
-            },
-            {
-                "title": "College protests: Protesters, police clash at Texas, Columbia begins suspensions - The Associated Press",
-                "description": "College protests: Protesters, police clash at Texas, Columbia begins suspensions  The Associated Press",
-                "published date": "Tue, 30 Apr 2024 02:40:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1wYWxlc3Rpbmlhbi1jYW1wdXMtc3R1ZGVudC1wcm90ZXN0cy13YXItMTllZDkxOWZmNmZmOTU3M2E4YWRkNGVjNjdlMjYxODHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
                 "title": "College protests live updates: UCLA calls in LAPD, police make arrests at Columbia - The Washington Post",
                 "description": "College protests live updates: UCLA calls in LAPD, police make arrests at Columbia  The Washington Post",
-                "published date": "Wed, 01 May 2024 11:16:59 GMT",
+                "published date": "Wed, 01 May 2024 14:34:20 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lZHVjYXRpb24vMjAyNC8wNS8wMS9jb2x1bWJpYS11bml2ZXJzaXR5LXByb3Rlc3RzLXBhbGVzdGluZS1saXZlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.washingtonpost.com",
                     "title": "The Washington Post"
+                }
+            },
+            {
+                "title": "College protests updates: NYC mayor blames 'outside agitators' for protests - ABC News",
+                "description": "College protests updates: NYC mayor blames 'outside agitators' for protests  ABC News",
+                "published date": "Tue, 30 Apr 2024 22:07:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvbGl2ZS11cGRhdGVzL2NvbGxlZ2UtcHJvdGVzdHMtaXNyYWVsLXBhbGVzdGluZS13YXIvP2lkPTEwOTczNDk0NtIBXmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL2xpdmUtdXBkYXRlcy9jb2xsZWdlLXByb3Rlc3RzLWlzcmFlbC1wYWxlc3RpbmUtd2FyLz9pZD0xMDk3MzQ5NDY?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
+                }
+            },
+            {
+                "title": "Police Clear Building at Columbia and Arrest Dozens of Protesters - The New York Times",
+                "description": "Police Clear Building at Columbia and Arrest Dozens of Protesters  The New York Times",
+                "published date": "Wed, 01 May 2024 14:38:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wNC8zMC9ueXJlZ2lvbi9jb2x1bWJpYS1wcm90ZXN0cy1jb2xsZWdl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Protesters at Columbia University have begun occupying a campus building - NPR",
+                "description": "Protesters at Columbia University have begun occupying a campus building  NPR",
+                "published date": "Tue, 30 Apr 2024 08:06:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8zMC8xMjQ4MDEyNjE5L2NvbHVtYmlhLXVuaXZlcnNpdHktcGFsZXN0aW5lLXByb3Rlc3Rz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.npr.org",
+                    "title": "NPR"
                 }
             },
             {
@@ -604,40 +826,30 @@
                 }
             },
             {
-                "title": "Protesters at Columbia University have begun occupying a campus building - NPR",
-                "description": "Protesters at Columbia University have begun occupying a campus building  NPR",
-                "published date": "Tue, 30 Apr 2024 08:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8zMC8xMjQ4MDEyNjE5L2NvbHVtYmlhLXVuaXZlcnNpdHktcGFsZXN0aW5lLXByb3Rlc3Rz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates - CNN",
+                "description": "Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates  CNN",
+                "published date": "Wed, 01 May 2024 13:56:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vYnVzaW5lc3MvbGl2ZS1uZXdzL3VuaXZlcnNpdHktcHJvdGVzdHMtZ2F6YS0wNS0wMS0yNC9pbmRleC5odG1s0gFXaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vYnVzaW5lc3MvbGl2ZS1uZXdzL3VuaXZlcnNpdHktcHJvdGVzdHMtZ2F6YS0wNS0wMS0yNC9pbmRleC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.npr.org",
-                    "title": "NPR"
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
-                "title": "Police Clear Building at Columbia and Arrest Dozens of Protesters - The New York Times",
-                "description": "Police Clear Building at Columbia and Arrest Dozens of Protesters  The New York Times",
-                "published date": "Wed, 01 May 2024 07:52:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyNC8wNC8zMC9ueXJlZ2lvbi9jb2x1bWJpYS1wcm90ZXN0cy1jb2xsZWdl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Protesters break windows at Columbia University hours after school starts suspending student demonstrators - NBC News",
+                "description": "Protesters break windows at Columbia University hours after school starts suspending student demonstrators  NBC News",
+                "published date": "Mon, 29 Apr 2024 13:08:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9jb2x1bWJpYS11bml2ZXJzaXR5LXByZXNpZGVudC1zYXlzLW5lZ290aWF0aW9ucy1wcm90ZXN0ZXJzLXN0YWxsZWQtc2NoLXJjbmExNDk3NTXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "My Week Inside Columbia's Gaza Solidarity Encampment \u2013 Mother Jones - Mother Jones",
-                "description": "My Week Inside Columbia's Gaza Solidarity Encampment \u2013 Mother Jones  Mother Jones",
-                "published date": "Sat, 27 Apr 2024 00:08:29 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9wb2xpdGljcy8yMDI0LzA0L215LXdlZWstaW5zaWRlLWNvbHVtYmlhcy1nYXphLXNvbGlkYXJpdHktZW5jYW1wbWVudC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.motherjones.com",
-                    "title": "Mother Jones"
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             }
         ]
     },
     {
         "name": "Bruins",
-        "summary": "",
+        "summary": "The Boston Bruins moved closer to advancing to the next round of the NHL playoffs after defeating the Toronto Maple Leafs 3-1 in Game 3. Brad Marchand broke the team's playoff goals record in the victory. Despite losing Auston Matthews to injury, the Maple Leafs managed to extend the series with an overtime win in Game 4. The two teams will face off again in Game 5, with the Bruins needing to win just one more game to advance. The Bruins have been criticized for their performance in the series, with some experts suggesting that the Maple Leafs are simply the better team. However, the Bruins remain confident and are making adjustments in order to close out the series.",
         "items": [
             {
                 "title": "Marchand breaks team playoff goals mark, Bruins beat Maple Leafs 3-1 to move within win of advancing - The Associated Press",
@@ -670,16 +882,6 @@
                 }
             },
             {
-                "title": "Maple Leafs extend series with overtime win over Bruins - NBC Boston",
-                "description": "Maple Leafs extend series with overtime win over Bruins  NBC Boston",
-                "published date": "Wed, 01 May 2024 02:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9zcG9ydHMvYm9zdG9uLWJydWlucy10b3JvbnRvLW1hcGxlLWxlYWZzLWdhbWUtNS8zMzU1Mzc2L9IBXWh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9zcG9ydHMvYm9zdG9uLWJydWlucy10b3JvbnRvLW1hcGxlLWxlYWZzLWdhbWUtNS8zMzU1Mzc2Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcboston.com",
-                    "title": "NBC Boston"
-                }
-            },
-            {
                 "title": "Need to Know: Bruins vs. Maple Leafs | Game 5 | Boston Bruins - NHL.com",
                 "description": "Need to Know: Bruins vs. Maple Leafs | Game 5 | Boston Bruins  NHL.com",
                 "published date": "Tue, 30 Apr 2024 17:28:17 GMT",
@@ -687,6 +889,16 @@
                 "publisher": {
                     "href": "https://www.nhl.com",
                     "title": "NHL.com"
+                }
+            },
+            {
+                "title": "Maple Leafs extend series with overtime win over Bruins - NBC Boston",
+                "description": "Maple Leafs extend series with overtime win over Bruins  NBC Boston",
+                "published date": "Wed, 01 May 2024 02:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9zcG9ydHMvYm9zdG9uLWJydWlucy10b3JvbnRvLW1hcGxlLWxlYWZzLWdhbWUtNS8zMzU1Mzc2L9IBXWh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9zcG9ydHMvYm9zdG9uLWJydWlucy10b3JvbnRvLW1hcGxlLWxlYWZzLWdhbWUtNS8zMzU1Mzc2Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcboston.com",
+                    "title": "NBC Boston"
                 }
             },
             {
@@ -720,20 +932,20 @@
                 }
             },
             {
-                "title": "Bruins beat Leafs, taking back home ice advantage in playoff series - NBC Boston",
-                "description": "Bruins beat Leafs, taking back home ice advantage in playoff series  NBC Boston",
-                "published date": "Thu, 25 Apr 2024 01:51:49 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9zcG9ydHMvYnJ1aW5zLWxlYWZzLWdhbWUtMy8zMzQ5MDk3L9IBSGh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9zcG9ydHMvYnJ1aW5zLWxlYWZzLWdhbWUtMy8zMzQ5MDk3Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Bruins vs. Leafs Game 5 lineup: Projected lines, pairings, goalies - Yahoo Sports",
+                "description": "Bruins vs. Leafs Game 5 lineup: Projected lines, pairings, goalies  Yahoo Sports",
+                "published date": "Tue, 30 Apr 2024 19:32:33 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9icnVpbnMtdnMtbGVhZnMtZ2FtZS01LTE2MjEzNjI0Mi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcboston.com",
-                    "title": "NBC Boston"
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
                 }
             },
             {
-                "title": "Marchand Sets Bruins' Playoff Goals Mark as Boston Opens Up 3-1 Series Lead | Boston Bruins - NHL.com",
-                "description": "Marchand Sets Bruins' Playoff Goals Mark as Boston Opens Up 3-1 Series Lead | Boston Bruins  NHL.com",
-                "published date": "Sun, 28 Apr 2024 05:20:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm5obC5jb20vYnJ1aW5zL25ld3MvYm9zdG9uLWJydWlucy10b3JvbnRvLW1hcGxlLWxlYWZzLWdhbWUtNC1yZWNhcC1hcHJpbC0yNy14OTg0M9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Bruins Get Back to Work Ahead of Game 4 in Toronto | Boston Bruins - NHL.com",
+                "description": "Bruins Get Back to Work Ahead of Game 4 in Toronto | Boston Bruins  NHL.com",
+                "published date": "Fri, 26 Apr 2024 20:19:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5obC5jb20vYnJ1aW5zL25ld3MvYnJ1aW5zLWdldC1iYWNrLXRvLXdvcmstYWhlYWQtb2YtZ2FtZS00LWluLXRvcm9udG_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nhl.com",
                     "title": "NHL.com"
@@ -742,8 +954,114 @@
         ]
     },
     {
+        "name": "76ers vs Knicks",
+        "summary": "The Philadelphia 76ers and New York Knicks are facing off in a heated playoff series, with the 76ers taking Game 3 with Embiid's impressive performance. Game 5 is scheduled with streaming and viewing options available. Game 4 predictions, odds, and TV information are provided for those interested in following the series. Ticket prices and predictions for Game 5 are also available. CBS Sports offers playoff picks and best bets for Game 3.",
+        "items": [
+            {
+                "title": "Knicks-76ers: 5 takeaways as Joel Embiid drops 50 in big Game 3 win - NBA.com",
+                "description": "Knicks-76ers: 5 takeaways as Joel Embiid drops 50 in big Game 3 win  NBA.com",
+                "published date": "Fri, 26 Apr 2024 05:46:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9rbmlja3MtNzZlcnMtdGFrZWF3YXlzLWdhbWUtMy0yMDI0LW5iYS1wbGF5b2Zmc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
+            },
+            {
+                "title": "How to watch the Philadelphia 76ers vs. New York Knicks NBA Playoffs game tonight: Game 5 streaming options, more - CBS News",
+                "description": "How to watch the Philadelphia 76ers vs. New York Knicks NBA Playoffs game tonight: Game 5 streaming options, more  CBS News",
+                "published date": "Tue, 30 Apr 2024 21:49:46 GMT",
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRoZS1waGlsYWRlbHBoaWEtNzZlcnMtdnMtbmV3LXlvcmsta25pY2tzLW5iYS1wbGF5b2Zmcy1nYW1lLXRvbmlnaHQtZ2FtZS01L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
+                }
+            },
+            {
+                "title": "Knicks vs. 76ers odds, score prediction, time: 2024 NBA playoff picks, Game 5 best bets by proven model - CBS Sports",
+                "description": "Knicks vs. 76ers odds, score prediction, time: 2024 NBA playoff picks, Game 5 best bets by proven model  CBS Sports",
+                "published date": "Tue, 30 Apr 2024 21:08:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2tuaWNrcy12cy03NmVycy1vZGRzLXNjb3JlLXByZWRpY3Rpb24tdGltZS0yMDI0LW5iYS1wbGF5b2ZmLXBpY2tzLWdhbWUtNS1iZXN0LWJldHMtYnktcHJvdmVuLW1vZGVsL9IBigFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2tuaWNrcy12cy03NmVycy1vZGRzLXNjb3JlLXByZWRpY3Rpb24tdGltZS0yMDI0LW5iYS1wbGF5b2ZmLXBpY2tzLWdhbWUtNS1iZXN0LWJldHMtYnktcHJvdmVuLW1vZGVsL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "Sixers vs. Knicks Game 6 Tip-Off Time Revealed - Sports Illustrated",
+                "description": "Sixers vs. Knicks Game 6 Tip-Off Time Revealed  Sports Illustrated",
+                "published date": "Wed, 01 May 2024 11:45:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvNzZlcnMvbmV3cy9zaXhlcnMta25pY2tzLWdhbWUtNi10aXAtb2ZmLXRpbWUtcmV2ZWFsZWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "76ers 125-114 Knicks (Apr 25, 2024) Final Score - ESPN",
+                "description": "76ers 125-114 Knicks (Apr 25, 2024) Final Score  ESPN",
+                "published date": "Fri, 26 Apr 2024 04:07:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9nYW1lL18vZ2FtZUlkLzQwMTY1NTEwNy9rbmlja3MtNzZlcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "Knicks vs. 76ers: Game 4 predictions, odds, TV schedule for NBA Eastern Conference series - USA TODAY",
+                "description": "Knicks vs. 76ers: Game 4 predictions, odds, TV schedule for NBA Eastern Conference series  USA TODAY",
+                "published date": "Sun, 28 Apr 2024 10:08:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhLzIwMjQvMDQvMjgva25pY2tzLXZzLTc2ZXJzLWdhbWUtNC1wcmVkaWN0aW9ucy83MzQ4NDc2OTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "NY Knicks vs Philadelphia 76ers ticket prices, prediction for Game 5 - NorthJersey.com",
+                "description": "NY Knicks vs Philadelphia 76ers ticket prices, prediction for Game 5  NorthJersey.com",
+                "published date": "Mon, 29 Apr 2024 17:31:24 GMT",
+                "url": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5ub3J0aGplcnNleS5jb20vc3Rvcnkvc3BvcnRzL25iYS9rbmlja3MvMjAyNC8wNC8yOS9ueS1rbmlja3MtdnMtcGhpbGFkZWxwaGlhLTc2ZXJzLXRpY2tldC1wcmljZXMtZ2FtZS01LXByZWRpY3Rpb24tYmV0dGluZy1saW5lLXR1ZXNkYXkvNzM0OTg3NTYwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.northjersey.com",
+                    "title": "NorthJersey.com"
+                }
+            },
+            {
+                "title": "Knicks vs. 76ers prediction: NBA playoffs Game 5 odds, pick, bets - New York Post",
+                "description": "Knicks vs. 76ers prediction: NBA playoffs Game 5 odds, pick, bets  New York Post ",
+                "published date": "Tue, 30 Apr 2024 18:45:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL3Nwb3J0cy9rbmlja3MtdnMtNzZlcnMtcHJlZGljdGlvbi1uYmEtcGxheW9mZnMtZ2FtZS01LW9kZHMtcGljay1iZXRzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
+            },
+            {
+                "title": "Knicks-Sixers: 5 takeaways from dramatic Game 4 - NBA.com",
+                "description": "Knicks-Sixers: 5 takeaways from dramatic Game 4  NBA.com",
+                "published date": "Mon, 29 Apr 2024 00:51:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9rbmlja3Mtc2l4ZXJzLXRha2Vhd2F5cy1nYW1lLTQtMjAyNC1uYmEtcGxheW9mZnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
+            },
+            {
+                "title": "Knicks vs. 76ers odds, score prediction, time: 2024 NBA playoff picks, Game 3 best bets by proven model - CBS Sports",
+                "description": "Knicks vs. 76ers odds, score prediction, time: 2024 NBA playoff picks, Game 3 best bets by proven model  CBS Sports",
+                "published date": "Thu, 25 Apr 2024 21:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2tuaWNrcy12cy03NmVycy1vZGRzLXNjb3JlLXByZWRpY3Rpb24tdGltZS0yMDI0LW5iYS1wbGF5b2ZmLXBpY2tzLWdhbWUtMy1iZXN0LWJldHMtYnktcHJvdmVuLW1vZGVsL9IBigFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2tuaWNrcy12cy03NmVycy1vZGRzLXNjb3JlLXByZWRpY3Rpb24tdGltZS0yMDI0LW5iYS1wbGF5b2ZmLXBpY2tzLWdhbWUtMy1iZXN0LWJldHMtYnktcHJvdmVuLW1vZGVsL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            }
+        ]
+    },
+    {
         "name": "Jennifer Aniston",
-        "summary": "Jennifer Aniston, the renowned actress, is venturing into producing with a reimagined version of the classic film \"9 to 5\" for 20th Century Studios. She will collaborate with Diablo Cody, the writer of \"Juno,\" to bring this project to life. Aniston's beauty and hair care brand, LolaVie, has recently launched a sculpting paste for taming flyaways. This reimagining marks a modern take on the original film that highlighted workplace inequality and female empowerment. Aniston's involvement in the project has generated significant media attention, with outlets such as Variety, CNN Underscored, The Hollywood Reporter, Rolling Stone, The Guardian, Entertainment Weekly News, and Salon reporting on her role. Additionally, Aniston has updated her hairstyle, embracing an angular \"Rachel\" twist to her short bob.",
+        "summary": "Jennifer Aniston is set to produce a reimagined version of the classic 1980 film \"9 to 5\" for 20th Century Studios. The new film will be written by Diablo Cody, who penned the Oscar-winning screenplay for \"Juno.\" Aniston will also launch a new sculpting paste for her hair care brand, LolaVie, designed to tame flyaways. Additionally, a source close to the production has revealed that Aniston underwent cosmetic procedures that left her feeling \"overfilled.\" The upcoming \"9 to 5\" remake is part of a trend of reimagining classic films, such as the recent \"Top Gun: Maverick\" and the upcoming \"Scream VI.\" The original \"9 to 5\" starred Jane Fonda, Lily Tomlin, and Dolly Parton as three working women who plot to overthrow their sexist boss.",
         "items": [
             {
                 "title": "Jennifer Aniston to Produce \u20189 to 5\u2019 Reimagining for 20th Century Studios - Variety",
@@ -816,16 +1134,6 @@
                 }
             },
             {
-                "title": "Jennifer Aniston refreshes her short bob haircut with an angular 'Rachel' twist - Yahoo Canada Shine On",
-                "description": "Jennifer Aniston refreshes her short bob haircut with an angular 'Rachel' twist  Yahoo Canada Shine On",
-                "published date": "Sun, 28 Apr 2024 02:10:50 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL2plbm5pZmVyLWFuaXN0b24tcmVmcmVzaGVzLWhlci1zaG9ydC0xMDUwMDAzNzIuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://ca.style.yahoo.com",
-                    "title": "Yahoo Canada Shine On"
-                }
-            },
-            {
                 "title": "Jennifer Aniston went from having \u2018great work\u2019 to being \u2018overfilled\u2019 \u2013 doc reveals giveaways that she\u2019s had... - The US Sun",
                 "description": "Jennifer Aniston went from having \u2018great work\u2019 to being \u2018overfilled\u2019 \u2013 doc reveals giveaways that she\u2019s had...  The US Sun",
                 "published date": "Mon, 29 Apr 2024 13:48:12 GMT",
@@ -844,12 +1152,22 @@
                     "href": "https://www.salon.com",
                     "title": "Salon"
                 }
+            },
+            {
+                "title": "Jennifer Aniston and David Schwimmer in mini Friends 'reunion' for first time since Matthew Perry's death - Yahoo Singapore News",
+                "description": "Jennifer Aniston and David Schwimmer in mini Friends 'reunion' for first time since Matthew Perry's death  Yahoo Singapore News",
+                "published date": "Wed, 24 Apr 2024 23:00:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vamVubmlmZXItYW5pc3Rvbi1kYXZpZC1zY2h3aW1tZXItbWluaS0xMjQ1Mjc0OTcuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sg.news.yahoo.com",
+                    "title": "Yahoo Singapore News"
+                }
             }
         ]
     },
     {
         "name": "Orlando Magic",
-        "summary": "",
+        "summary": "In the 2023 NBA Playoffs, the Orlando Magic tied the series against the Cleveland Cavaliers by dominating the second half of Game 2. Game 5 of the matchup will be played in Cleveland, with streaming options available through CBS News. Despite facing defensive pressure from the Cavaliers, the Magic remain composed and optimistic for the upcoming game. Fans can purchase tickets for Game 6 at the Kia Center starting at $63. Magic point guard Cole Anthony expressed frustration after the team's loss in Game 4, while ESPN highlights the Cavaliers' impressive defense in the series. The Akron Beacon Journal provides a prediction for Game 3. Yahoo Sports showcases top plays from Game 2, and The Athletic recognizes the strong camaraderie within the Orlando Magic team.",
         "items": [
             {
                 "title": "Orlando Magic Take Control in Second Half to Even Up Series Against Cleveland Cavaliers - NBA.com",
@@ -872,10 +1190,10 @@
                 }
             },
             {
-                "title": "How to watch the Cleveland Cavaliers vs. Orlando Magic NBA Playoffs game tonight: Game 4 livestream options, more - CBS News",
-                "description": "How to watch the Cleveland Cavaliers vs. Orlando Magic NBA Playoffs game tonight: Game 4 livestream options, more  CBS News",
-                "published date": "Sat, 27 Apr 2024 05:06:47 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9lc3NlbnRpYWxzL2hvdy10by13YXRjaC10b2RheXMtY2F2YWxpZXJzLXZzLW1hZ2ljLW5iYS1wbGF5b2Zmcy1nYW1lLWdhbWUtNC1saXZlc3RyZWFtLW9wdGlvbnMtc3RhcnQtdGltZS1hbmQtbW9yZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "How to watch the Orlando Magic vs. Cleveland Cavaliers NBA Playoffs game tonight: Game 5 streaming options, more - CBS News",
+                "description": "How to watch the Orlando Magic vs. Cleveland Cavaliers NBA Playoffs game tonight: Game 5 streaming options, more  CBS News",
+                "published date": "Tue, 30 Apr 2024 21:48:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRoZS1vcmxhbmRvLW1hZ2ljLXZzLWNsZXZlbGFuZC1jYXZhbGllcnMtbmJhLXBsYXlvZmZzLWdhbWUtNS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbsnews.com",
                     "title": "CBS News"
@@ -932,6 +1250,16 @@
                 }
             },
             {
+                "title": "Top Plays from Orlando Magic vs. Cleveland Cavaliers - Yahoo Sports",
+                "description": "Top Plays from Orlando Magic vs. Cleveland Cavaliers  Yahoo Sports",
+                "published date": "Fri, 26 Apr 2024 01:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS90b3AtcGxheXMtb3JsYW5kby1tYWdpYy12cy0wMTMwMjgxMTUuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
                 "title": "The Orlando Magic have a superpower, and it's love (for each other) - The Athletic",
                 "description": "The Orlando Magic have a superpower, and it's love (for each other)  The Athletic",
                 "published date": "Mon, 29 Apr 2024 09:06:12 GMT",
@@ -940,128 +1268,12 @@
                     "href": "https://theathletic.com",
                     "title": "The Athletic"
                 }
-            },
-            {
-                "title": "Orlando Magic at Cleveland Cavaliers: Game 5 Preview - NBA.com",
-                "description": "Orlando Magic at Cleveland Cavaliers: Game 5 Preview  NBA.com",
-                "published date": "Tue, 30 Apr 2024 13:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5iYS5jb20vbWFnaWMvbmV3cy9vcmxhbmRvLW1hZ2ljLWNsZXZlbGFuZC1jYXZhbGllcnMtZ2FtZS01LXByZXZpZXctcGFvbG8tYmFuY2hlcm8tZnJhbnotd2FnbmVyLTIwMjQwNDMw0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Tyrese Maxey",
-        "summary": "",
-        "items": [
-            {
-                "title": "Philadelphia 76ers guard Tyrese Maxey does his grandmother proud - Andscape",
-                "description": "Philadelphia 76ers guard Tyrese Maxey does his grandmother proud  Andscape",
-                "published date": "Thu, 25 Apr 2024 13:01:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYW5kc2NhcGUuY29tL2ZlYXR1cmVzL3BoaWxhZGVscGhpYS03NmVycy1ndWFyZC10eXJlc2UtbWF4ZXktZG9lcy1oaXMtZ3JhbmRtb3RoZXItcHJvdWQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://andscape.com",
-                    "title": "Andscape"
-                }
-            },
-            {
-                "title": "LeBron James Celebrates Tyrese Maxey's Shot vs. Knicks - Sports Illustrated",
-                "description": "LeBron James Celebrates Tyrese Maxey's Shot vs. Knicks  Sports Illustrated",
-                "published date": "Wed, 01 May 2024 02:37:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvNzZlcnMvbmV3cy9sZWJyb24tamFtZXMtY2VsZWJyYXRlcy10eXJlc2UtbWF4ZXktc2hvdC1rbmlja3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Tyrese Maxey sends game to OT as 76ers force Game 6 against Knicks - USA TODAY",
-                "description": "Tyrese Maxey sends game to OT as 76ers force Game 6 against Knicks  USA TODAY",
-                "published date": "Wed, 01 May 2024 02:59:47 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL3BsYXlvZmZzLzIwMjQvMDQvMzAvNzZlcnMtZm9yY2UtZ2FtZS02LWtuaWNrcy10eXJlc2UtbWF4ZXktb3ZlcnRpbWUvNzM1MjA5MTgwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Tyrese Maxey shocks Knicks with insane 3-pointer to force Game 5 overtime after wild 76ers run - New York Post",
-                "description": "Tyrese Maxey shocks Knicks with insane 3-pointer to force Game 5 overtime after wild 76ers run  New York Post ",
-                "published date": "Wed, 01 May 2024 04:42:26 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL3Nwb3J0cy90eXJlc2UtbWF4ZXktc2hvY2tzLWtuaWNrcy13aXRoLWluc2FuZS0zLXBvaW50ZXItdG8tZm9yY2UtZ2FtZS01LW90L9IBbWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL3Nwb3J0cy90eXJlc2UtbWF4ZXktc2hvY2tzLWtuaWNrcy13aXRoLWluc2FuZS0zLXBvaW50ZXItdG8tZm9yY2UtZ2FtZS01LW90L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
-                "title": "Tyrese Maxey Thrills NBA Fans as Joel Embiid, 76ers Force Game 6 vs. Brunson, Knicks - Bleacher Report",
-                "description": "Tyrese Maxey Thrills NBA Fans as Joel Embiid, 76ers Force Game 6 vs. Brunson, Knicks  Bleacher Report",
-                "published date": "Wed, 01 May 2024 02:37:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE5MzUwLXR5cmVzZS1tYXhleS10aHJpbGxzLW5iYS1mYW5zLWFzLWpvZWwtZW1iaWlkLTc2ZXJzLWZvcmNlLWdhbWUtNi12cy1icnVuc29uLWtuaWNrc9IBjgFodHRwczovL3N5bmRpY2F0aW9uLmJsZWFjaGVycmVwb3J0LmNvbS9hbXAvMTAxMTkzNTAtdHlyZXNlLW1heGV5LXRocmlsbHMtbmJhLWZhbnMtYXMtam9lbC1lbWJpaWQtNzZlcnMtZm9yY2UtZ2FtZS02LXZzLWJydW5zb24ta25pY2tzLmFtcC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
-                "title": "Philadelphia 76ers beat New York Knicks behind Tyrese Maxey in NBA - The News Journal",
-                "description": "Philadelphia 76ers beat New York Knicks behind Tyrese Maxey in NBA  The News Journal",
-                "published date": "Wed, 01 May 2024 02:11:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5kZWxhd2FyZW9ubGluZS5jb20vc3Rvcnkvc3BvcnRzL25iYS8yMDI0LzA0LzMwL3BoaWxhZGVscGhpYS03NmVycy1iZWF0LW5ldy15b3JrLWtuaWNrcy1iZWhpbmQtdHlyZXNlLW1heGV5LWluLW5iYS83MzUwMDQ4MDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.delawareonline.com",
-                    "title": "The News Journal"
-                }
-            },
-            {
-                "title": "Tyrese Maxey News, Stats, Splits, Game Log, Contract, Rumors and More - ClutchPoints",
-                "description": "Tyrese Maxey News, Stats, Splits, Game Log, Contract, Rumors and More  ClutchPoints",
-                "published date": "Wed, 24 Apr 2024 19:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vY2x1dGNocG9pbnRzLmNvbS9uYmEvcGxheWVycy9iMjQ4MDliYi90eXJlc2UtbWF4ZXnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://clutchpoints.com",
-                    "title": "ClutchPoints"
-                }
-            },
-            {
-                "title": "Tyrese Maxey saves Sixers from elimination with huge finish in OT win that cuts Knicks' lead to 3-2 - The Associated Press",
-                "description": "Tyrese Maxey saves Sixers from elimination with huge finish in OT win that cuts Knicks' lead to 3-2  The Associated Press",
-                "published date": "Wed, 01 May 2024 03:29:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1wbGF5b2Zmcy1rbmlja3MtNzZlcnMtc2NvcmUtZjRiZGNjNDViOWRjOWQyZDkyMzFiNDhjZTZjNGJjZmHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "Tyrese Maxey has his signature moment, saving 76ers in Madison Square Garden - The Athletic",
-                "description": "Tyrese Maxey has his signature moment, saving 76ers in Madison Square Garden  The Athletic",
-                "published date": "Wed, 01 May 2024 09:02:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0NjI3OTcvMjAyNC8wNS8wMS90eXJlc2UtbWF4ZXktc2l4ZXJzLWtuaWNrcy1uYmEtcGxheW9mZnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
-                }
-            },
-            {
-                "title": "Tyrese Maxey saved the Sixers' season with one of the toughest playoff performances ever - Yahoo Sports",
-                "description": "Tyrese Maxey saved the Sixers' season with one of the toughest playoff performances ever  Yahoo Sports",
-                "published date": "Wed, 01 May 2024 06:43:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS90eXJlc2UtbWF4ZXktc2F2ZWQtdGhlLXNpeGVycy1zZWFzb24td2l0aC1vbmUtb2YtdGhlLXRvdWdoZXN0LXBsYXlvZmYtcGVyZm9ybWFuY2VzLWV2ZXItMDY0MzM4NDU4Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
-                }
             }
         ]
     },
     {
         "name": "Pachuca  Am\u00e9rica",
-        "summary": "",
+        "summary": "Pachuca and Club America faced off in a thrilling Concacaf Champions Cup match on April 30, 2024. The game was streamed live online and broadcast on various TV channels. Pachuca emerged victorious with a 2-1 scoreline. Highlights of the match include goals and key moments. Viewers can find the match on US TV and international channels. The game was a nail-biter, with both teams fighting for victory until the end. In the end, Pachuca's performance was enough to secure the win.",
         "items": [
             {
                 "title": "Pachuca v America | Highlights - Concacaf",
@@ -1086,21 +1298,11 @@
             {
                 "title": "Goals and Highlights: Pachuca 2-1 America in CONCACAF Champions Cup 2024 - VAVEL.com",
                 "description": "Goals and Highlights: Pachuca 2-1 America in CONCACAF Champions Cup 2024  VAVEL.com",
-                "published date": "Wed, 01 May 2024 04:27:45 GMT",
+                "published date": "Wed, 01 May 2024 04:26:53 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnZhdmVsLmNvbS9lbi11cy9saXZlLzIwMjQvMDUvMDEvMTE4MTA4Ny1wYWNodWNhLWNsdWItYW1lcmljYS5odG1s0gFRaHR0cHM6Ly93d3cudmF2ZWwuY29tL2VuLXVzL2xpdmUvMjAyNC8wNS8wMS8xMTgxMDg3LXBhY2h1Y2EtY2x1Yi1hbWVyaWNhLmFtcC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.vavel.com",
                     "title": "VAVEL.com"
-                }
-            },
-            {
-                "title": "Pachuca vs. Club America: How to watch, TV channel - Pro Soccer Wire",
-                "description": "Pachuca vs. Club America: How to watch, TV channel  Pro Soccer Wire",
-                "published date": "Mon, 29 Apr 2024 23:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vcHJvc29jY2Vyd2lyZS51c2F0b2RheS5jb20vMjAyNC8wNC8yOS9wYWNodWNhLXZzLWNsdWItYW1lcmljYS1ob3ctdG8td2F0Y2gtdHYtY2hhbm5lbC0yL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://prosoccerwire.usatoday.com",
-                    "title": "Pro Soccer Wire"
                 }
             },
             {
@@ -1134,16 +1336,6 @@
                 }
             },
             {
-                "title": "Where to watch Pachuca vs Club America Live for FREE in the USA: 2024 Concacaf Champions Cup Second Leg Sem... - Bolavip",
-                "description": "Where to watch Pachuca vs Club America Live for FREE in the USA: 2024 Concacaf Champions Cup Second Leg Sem...  Bolavip",
-                "published date": "Mon, 29 Apr 2024 17:48:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL2JvbGF2aXAuY29tL2VuL3NvY2Nlci93aGVyZS10by13YXRjaC1wYWNodWNhLXZzLWNsdWItYW1lcmljYS1saXZlLWZvci1mcmVlLWluLXRoZS11c2EtMjAyNC1jb25jYWNhZi1jaGFtcGlvbnMtY3VwLXNlY29uZC1sZWctc2VtaWZpbmFs0gGSAWh0dHBzOi8vYm9sYXZpcC5jb20vZW4vYW1wL3NvY2Nlci93aGVyZS10by13YXRjaC1wYWNodWNhLXZzLWNsdWItYW1lcmljYS1saXZlLWZvci1mcmVlLWluLXRoZS11c2EtMjAyNC1jb25jYWNhZi1jaGFtcGlvbnMtY3VwLXNlY29uZC1sZWctc2VtaWZpbmFs?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bolavip.com",
-                    "title": "Bolavip"
-                }
-            },
-            {
                 "title": "Pachuca 2-1 Am\u00e9rica (Apr 30, 2024) Game Analysis - ESPN",
                 "description": "Pachuca 2-1 Am\u00e9rica (Apr 30, 2024) Game Analysis  ESPN",
                 "published date": "Wed, 01 May 2024 04:59:52 GMT",
@@ -1154,20 +1346,40 @@
                 }
             },
             {
-                "title": "Pachuca vs Am\u00e9rica - May 01, 2024 - FOX Sports",
-                "description": "Pachuca vs Am\u00e9rica - May 01, 2024  FOX Sports",
-                "published date": "Wed, 01 May 2024 07:20:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc29jY2VyL2NvbmNhY2FmLWNoYW1waW9ucy1sZWFndWUtcGFjaHVjYS12cy1hbWVyaWNhLWFwci0zMC0yMDI0LWdhbWUtYm94c2NvcmUtMTQzNjY50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Preview: Pachuca vs. Club America - prediction, team news, lineups - Sports Mole",
+                "description": "Preview: Pachuca vs. Club America - prediction, team news, lineups  Sports Mole",
+                "published date": "Sun, 28 Apr 2024 05:44:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5zcG9ydHNtb2xlLmNvLnVrL2Zvb3RiYWxsL3BhY2h1Y2EvY29uY2FjYWYtY2hhbXBpb25zLWxlYWd1ZS9wcmV2aWV3L3ByZXZpZXctcGFjaHVjYS12cy1hbWVyaWNhLXByZWRpY3Rpb24tdGVhbS1uZXdzLWxpbmV1cHNfNTQyMzkxLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
+                    "href": "https://www.sportsmole.co.uk",
+                    "title": "Sports Mole"
+                }
+            },
+            {
+                "title": "Am\u00e9rica crash out of Champions Cup at the hands of Pachuca - OneFootball - English",
+                "description": "Am\u00e9rica crash out of Champions Cup at the hands of Pachuca  OneFootball - English",
+                "published date": "Wed, 01 May 2024 03:27:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vb25lZm9vdGJhbGwuY29tL2VuL25ld3MvYW1lcmljYS1jcmFzaC1vdXQtb2YtY2hhbXBpb25zLWN1cC1hdC10aGUtaGFuZHMtb2YtcGFjaHVjYS0zOTQyNjY3NtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://onefootball.com",
+                    "title": "OneFootball - English"
+                }
+            },
+            {
+                "title": "Club Am\u00e9rica and Pachuca battle it out to a 1-1 draw in the first leg of the CCC Semis - FMF State Of Mind",
+                "description": "Club Am\u00e9rica and Pachuca battle it out to a 1-1 draw in the first leg of the CCC Semis  FMF State Of Mind",
+                "published date": "Mon, 29 Apr 2024 15:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5mbWZzdGF0ZW9mbWluZC5jb20vMjAyNC80LzI5LzI0MTM4OTE4L2NsdWItYW1lcmljYS1hbmQtcGFjaHVjYS1iYXR0bGUtaXQtb3V0LXRvLWEtMS0xLWRyYXctaW4tdGhlLWZpcnN0LWxlZy1vZi10aGUtY2NjLXNlbWlz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fmfstateofmind.com",
+                    "title": "FMF State Of Mind"
                 }
             }
         ]
     },
     {
         "name": "Barbra Streisand Melissa McCarthy",
-        "summary": "",
+        "summary": "Barbra Streisand's recent query to Melissa McCarthy about Ozempic, a weight-loss drug, has sparked controversy and prompted public discussion. Streisand has since apologized for her question, while McCarthy has responded, emphasizing that it's crucial to avoid body-shaming and respect individual choices. The incident has ignited a dialogue about the sensitivity surrounding weight and the importance of respectful conversations.",
         "items": [
             {
                 "title": "Melissa McCarthy Responds to Streisand's Ozempic Question, Babs Apologizes - TMZ",
@@ -1192,7 +1404,7 @@
             {
                 "title": "Barbra Streisand\u2019s Ozempic Comment to Melissa McCarthy Prompts a Conversation - The New York Times",
                 "description": "Barbra Streisand\u2019s Ozempic Comment to Melissa McCarthy Prompts a Conversation  The New York Times",
-                "published date": "Wed, 01 May 2024 00:17:12 GMT",
+                "published date": "Wed, 01 May 2024 04:10:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMzAvc3R5bGUvb3plbXBpYy1iYXJicmEtc3RyZWlzYW5kLW1lbGlzc2EtbWNjYXJ0aHkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nytimes.com",
@@ -1202,7 +1414,7 @@
             {
                 "title": "Barbra Streisand publicly asks Melissa McCarthy about Ozempic, sparking debate on weight and shaming - ABC News",
                 "description": "Barbra Streisand publicly asks Melissa McCarthy about Ozempic, sparking debate on weight and shaming  ABC News",
-                "published date": "Tue, 30 Apr 2024 21:45:00 GMT",
+                "published date": "Wed, 01 May 2024 14:16:15 GMT",
                 "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYWJjbmV3cy5nby5jb20vR01BL1dlbGxuZXNzL2JhcmJyYS1zdHJlaXNhbmQtcHVibGljbHktYXNrcy1tZWxpc3NhLW1jY2FydGh5LW96ZW1waWMtc3Bhcmtpbmcvc3Rvcnk_aWQ9MTA5Nzg3MTM00gF7aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvR01BL1dlbGxuZXNzL2JhcmJyYS1zdHJlaXNhbmQtcHVibGljbHktYXNrcy1tZWxpc3NhLW1jY2FydGh5LW96ZW1waWMtc3Bhcmtpbmcvc3Rvcnk_aWQ9MTA5Nzg3MTM0?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://abcnews.go.com",
@@ -1242,7 +1454,7 @@
             {
                 "title": "Barbra Streisand Surprised by Backlash Over Her Melissa McCarthy Ozempic Comment - Hollywood Reporter",
                 "description": "Barbra Streisand Surprised by Backlash Over Her Melissa McCarthy Ozempic Comment  Hollywood Reporter",
-                "published date": "Tue, 30 Apr 2024 21:02:08 GMT",
+                "published date": "Wed, 01 May 2024 07:55:23 GMT",
                 "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbmV3cy9nZW5lcmFsLW5ld3MvYmFyYnJhLXN0cmVpc2FuZC1yZXNwb25kcy1iYWNrbGFzaC1tZWxpc3NhLW1jY2FydGh5LW96ZW1waWMtY29tbWVudC0xMjM1ODg3MjI5L9IBhwFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbmV3cy9nZW5lcmFsLW5ld3MvYmFyYnJhLXN0cmVpc2FuZC1yZXNwb25kcy1iYWNrbGFzaC1tZWxpc3NhLW1jY2FydGh5LW96ZW1waWMtY29tbWVudC0xMjM1ODg3MjI5L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.hollywoodreporter.com",
@@ -1272,8 +1484,432 @@
         ]
     },
     {
-        "name": "Probe",
+        "name": "Amazon stock",
         "summary": "",
+        "items": [
+            {
+                "title": "Amazon Stock: Q1 Report Shows Big Earnings Gains, AI Boosting Cloud - Investor's Business Daily",
+                "description": "Amazon Stock: Q1 Report Shows Big Earnings Gains, AI Boosting Cloud  Investor's Business Daily",
+                "published date": "Wed, 01 May 2024 12:37:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L2FtYXpvbi1zdG9jay1nYWlucy1vbi1lYXJuaW5ncy1iZWF0LXN0cm9uZy1jbG91ZC1ncm93dGgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.investors.com",
+                    "title": "Investor's Business Daily"
+                }
+            },
+            {
+                "title": "Amazon Stock Gains After Topping Market Expectations - Forbes",
+                "description": "Amazon Stock Gains After Topping Market Expectations  Forbes",
+                "published date": "Tue, 30 Apr 2024 21:02:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2VndW5vbGFrb3llbmlrYW4vMjAyNC8wNC8zMC9hbWF6b24tc3RvY2stanVtcHMtY2xvc2VyLXRvLXJlY29yZC1oaWdoLW9uLWVhcm5pbmdzLWJvb3N0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
+                "title": "Why Amazon Stock Was Moving Higher Today - The Motley Fool",
+                "description": "Why Amazon Stock Was Moving Higher Today  The Motley Fool",
+                "published date": "Fri, 26 Apr 2024 20:57:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA0LzI2L3doeS1hbWF6b24td2FzLW1vdmluZy1oaWdoZXItdG9kYXkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fool.com",
+                    "title": "The Motley Fool"
+                }
+            },
+            {
+                "title": "Amazon stock gets a bump after beating Wall Street predictions - Supermarket News",
+                "description": "Amazon stock gets a bump after beating Wall Street predictions  Supermarket News",
+                "published date": "Tue, 30 Apr 2024 21:25:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnN1cGVybWFya2V0bmV3cy5jb20vbmV3cy9hbWF6b24tc3RvY2stZ2V0cy1idW1wLWFmdGVyLWJlYXRpbmctd2FsbC1zdHJlZXQtcHJlZGljdGlvbnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.supermarketnews.com",
+                    "title": "Supermarket News"
+                }
+            },
+            {
+                "title": "Amazon stock pops after earnings beat - Yahoo Finance",
+                "description": "Amazon stock pops after earnings beat  Yahoo Finance",
+                "published date": "Wed, 01 May 2024 14:43:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hbWF6b24tc3RvY2stcG9wcy1hZnRlci1lYXJuaW5ncy1iZWF0LTIwMTExMzMwNi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://finance.yahoo.com",
+                    "title": "Yahoo Finance"
+                }
+            },
+            {
+                "title": "Amazon stock: E-commerce giant reports strong Q1 results - The Associated Press",
+                "description": "Amazon stock: E-commerce giant reports strong Q1 results  The Associated Press",
+                "published date": "Tue, 30 Apr 2024 22:40:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FtYXpvbi1yZXN1bHRzLWVhcm5pbmdzLWF3cy1haS00N2UxMjE1MGQzNmY2MWQwNDIwZWU0NzQ2NzNkZGU2NdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Stocks making the biggest moves after hours: Amazon, Starbucks, Pinterest, Advanced Micro Devices and more - CNBC",
+                "description": "Stocks making the biggest moves after hours: Amazon, Starbucks, Pinterest, Advanced Micro Devices and more  CNBC",
+                "published date": "Tue, 30 Apr 2024 21:14:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDQvMzAvc3RvY2tzLW1ha2luZy10aGUtYmlnZ2VzdC1tb3Zlcy1hZnRlci1ob3Vycy1hbXpuLXNidXgtcGlucy1hbWQtYW5kLW1vcmUuaHRtbNIBcGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA0LzMwL3N0b2Nrcy1tYWtpbmctdGhlLWJpZ2dlc3QtbW92ZXMtYWZ0ZXItaG91cnMtYW16bi1zYnV4LXBpbnMtYW1kLWFuZC1tb3JlLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnbc.com",
+                    "title": "CNBC"
+                }
+            },
+            {
+                "title": "Amazon Earnings Are Out. Stock Jumps on Strong Growth for AWS. - Barron's",
+                "description": "Amazon Earnings Are Out. Stock Jumps on Strong Growth for AWS.  Barron's",
+                "published date": "Tue, 30 Apr 2024 21:22:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2FtYXpvbi1lYXJuaW5ncy1zdG9jay1wcmljZS1lY2JkMDk1OdIBSWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FtcC9hcnRpY2xlcy9hbWF6b24tZWFybmluZ3Mtc3RvY2stcHJpY2UtZWNiZDA5NTk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.barrons.com",
+                    "title": "Barron's"
+                }
+            },
+            {
+                "title": "Amazon results beat estimates, revenue forecast misses - Reuters",
+                "description": "Amazon results beat estimates, revenue forecast misses  Reuters",
+                "published date": "Wed, 01 May 2024 03:59:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYW1hem9uLWZvcmVjYXN0cy1xdWFydGVybHktcmV2ZW51ZS1iZWxvdy1lc3RpbWF0ZXMtMjAyNC0wNC0zMC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.reuters.com",
+                    "title": "Reuters"
+                }
+            },
+            {
+                "title": "Amazon Earnings Today: Revenue, Net Income Beat Estimates - The Wall Street Journal",
+                "description": "Amazon Earnings Today: Revenue, Net Income Beat Estimates  The Wall Street Journal",
+                "published date": "Tue, 30 Apr 2024 22:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS9zdG9jay1tYXJrZXQtdG9kYXktZWFybmluZ3MtMDQtMzAtMjAyNC9jYXJkL2FtYXpvbi1lYXJuaW5ncy10b2RheS13aGF0LXRvLWV4cGVjdC1KTmxXMGFwd011TTNpc05FZGhKRdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wsj.com",
+                    "title": "The Wall Street Journal"
+                }
+            }
+        ]
+    },
+    {
+        "name": "The Veil",
+        "summary": "Elisabeth Moss stars in FX's new espionage thriller 'The Veil,' with reviews offering mixed opinions. While some praise Moss's performance and the show's sharp writing and engaging qualities, others criticize its amateurish portrayal of espionage and its failure to fully utilize Moss's talents. Some reviewers specifically note the show's uneven pacing and lack of sustained intrigue over its six episodes, despite a promising premiere. Overall, the show's strengths and weaknesses appear to be tightly interwoven, making it a polarizing watch for viewers seeking a captivating spy drama.",
+        "items": [
+            {
+                "title": "Review: Elisabeth Moss stars as a spy gone rogue in FX's thriller 'The Veil' - Los Angeles Times",
+                "description": "Review: Elisabeth Moss stars as a spy gone rogue in FX's thriller 'The Veil'  Los Angeles Times",
+                "published date": "Mon, 29 Apr 2024 19:08:40 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2VudGVydGFpbm1lbnQtYXJ0cy90di9zdG9yeS8yMDI0LTA0LTI5L3RoZS12ZWlsLXJldmlldy1lbGlzYWJldGgtbW9zcy1odWx10gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.latimes.com",
+                    "title": "Los Angeles Times"
+                }
+            },
+            {
+                "title": "Elisabeth Moss Stuns in FX\u2019s Fascinating Spy Thriller \u2018The Veil\u2019: TV Review - Variety",
+                "description": "Elisabeth Moss Stuns in FX\u2019s Fascinating Spy Thriller \u2018The Veil\u2019: TV Review  Variety",
+                "published date": "Tue, 30 Apr 2024 13:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9yZXZpZXdzL3RoZS12ZWlsLXJldmlldy1meC0xMjM1OTgzODQ1L9IBRmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9yZXZpZXdzL3RoZS12ZWlsLXJldmlldy1meC0xMjM1OTgzODQ1L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
+                "title": "'The Veil' Review: Elisabeth Moss Series Is Espionage Amateur Hour - IndieWire",
+                "description": "'The Veil' Review: Elisabeth Moss Series Is Espionage Amateur Hour  IndieWire",
+                "published date": "Tue, 30 Apr 2024 14:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vY3JpdGljaXNtL3Nob3dzL3RoZS12ZWlsLXJldmlldy1lbGlzYWJldGgtbW9zcy1zZXJpZXMtYmFkLTEyMzQ5NzgyMDQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.indiewire.com",
+                    "title": "IndieWire"
+                }
+            },
+            {
+                "title": "'The Veil' Calamitously Miscasts Elisabeth Moss: TV Review | TIME - TIME",
+                "description": "'The Veil' Calamitously Miscasts Elisabeth Moss: TV Review | TIME  TIME",
+                "published date": "Tue, 30 Apr 2024 12:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vdGltZS5jb20vNjk3MDAxMy90aGUtdmVpbC1yZXZpZXctZWxpc2FiZXRoLW1vc3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://time.com",
+                    "title": "TIME"
+                }
+            },
+            {
+                "title": "Elisabeth Moss' 'The Veil' Is the Silliest Spy Show in Years - The Daily Beast",
+                "description": "Elisabeth Moss' 'The Veil' Is the Silliest Spy Show in Years  The Daily Beast",
+                "published date": "Tue, 30 Apr 2024 08:42:51 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL29ic2Vzc2VkL2VsaXNhYmV0aC1tb3NzLXRoZS12ZWlsLXJldmlldy1zaWxsaWVzdC1zcHktc2hvdy1pbi15ZWFyc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thedailybeast.com",
+                    "title": "The Daily Beast"
+                }
+            },
+            {
+                "title": "The Veil Review - IGN",
+                "description": "The Veil Review  IGN",
+                "published date": "Wed, 24 Apr 2024 17:31:24 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvdGhlLXZlaWwtcmV2aWV3LWVsaXNhYmV0aC1tb3NzLWZ4LWh1bHXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.ign.com",
+                    "title": "IGN"
+                }
+            },
+            {
+                "title": "Sharp Writing, Excellent Cast Keep Spy Thriller The Veil Engaging | TV/Streaming - Roger Ebert",
+                "description": "Sharp Writing, Excellent Cast Keep Spy Thriller The Veil Engaging | TV/Streaming  Roger Ebert",
+                "published date": "Wed, 24 Apr 2024 16:02:04 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnJvZ2VyZWJlcnQuY29tL3N0cmVhbWluZy90aGUtdmVpbC1meC1yZXZpZXfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.rogerebert.com",
+                    "title": "Roger Ebert"
+                }
+            },
+            {
+                "title": "\u2018The Veil\u2019 Review: Steven Knight\u2019s FX/Hulu Thriller Series Can\u2019t Keep Up With Star Elisabeth Moss - Hollywood Reporter",
+                "description": "\u2018The Veil\u2019 Review: Steven Knight\u2019s FX/Hulu Thriller Series Can\u2019t Keep Up With Star Elisabeth Moss  Hollywood Reporter",
+                "published date": "Wed, 24 Apr 2024 16:00:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1yZXZpZXdzL3RoZS12ZWlsLXJldmlldy1lbGlzYWJldGgtbW9zcy1zdGV2ZW4ta25pZ2h0LWZ4LWh1bHUtMTIzNTg3OTU5OS_SAXRodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vdHYvdHYtcmV2aWV3cy90aGUtdmVpbC1yZXZpZXctZWxpc2FiZXRoLW1vc3Mtc3RldmVuLWtuaWdodC1meC1odWx1LTEyMzU4Nzk1OTkvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.hollywoodreporter.com",
+                    "title": "Hollywood Reporter"
+                }
+            },
+            {
+                "title": "After exciting premiere, Hulu thriller 'The Veil' bogs down over six episodes - Chicago Sun-Times",
+                "description": "After exciting premiere, Hulu thriller 'The Veil' bogs down over six episodes  Chicago Sun-Times",
+                "published date": "Tue, 30 Apr 2024 00:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vbW92aWVzLWFuZC10di8yMDI0LzA0LzI5L3RoZS12ZWlsLXJldmlldy1odWx1LWZ4LWVsaXNhYmV0aC1tb3Nz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://chicago.suntimes.com",
+                    "title": "Chicago Sun-Times"
+                }
+            },
+            {
+                "title": "'The Veil' Review: Elisabeth Moss Kicks Ass, Takes Names, Treads Water - Rolling Stone",
+                "description": "'The Veil' Review: Elisabeth Moss Kicks Ass, Takes Names, Treads Water  Rolling Stone",
+                "published date": "Tue, 30 Apr 2024 13:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vdHYtbW92aWVzL3R2LW1vdmllLXJldmlld3MvdGhlLXZlaWwtcmV2aWV3LWVsaXNhYmV0aC1tb3NzLTEyMzUwMTEyMjIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.rollingstone.com",
+                    "title": "Rolling Stone"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Rob Marciano",
+        "summary": "ABC News has parted ways with meteorologist Rob Marciano amidst reports of anger issues and complaints about his behavior. According to sources, Marciano was fired after a period of alleged outbursts and inappropriate conduct. The network has not publicly disclosed the specific reasons for his departure, but various news outlets have reported on the complaints and Marciano's subsequent exit. The news of his termination comes after 10 years with ABC News and a prominent role on \"Good Morning America.\"",
+        "items": [
+            {
+                "title": "ABC News weatherman Rob Marciano fired after 'anger' issues: sources - New York Post",
+                "description": "ABC News weatherman Rob Marciano fired after 'anger' issues: sources  New York Post ",
+                "published date": "Tue, 30 Apr 2024 22:31:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL21lZGlhL2FiYy1uZXdzLXdlYXRoZXJtYW4tcm9iLW1hcmNpYW5vLWZpcmVkLWFmdGVyLWFuZ2VyLWlzc3Vlcy1zb3VyY2VzL9IBamh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL21lZGlhL2FiYy1uZXdzLXdlYXRoZXJtYW4tcm9iLW1hcmNpYW5vLWZpcmVkLWFmdGVyLWFuZ2VyLWlzc3Vlcy1zb3VyY2VzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
+            },
+            {
+                "title": "'Good Morning America' Meteorologist Rob Marciano Out at ABC News - PEOPLE",
+                "description": "'Good Morning America' Meteorologist Rob Marciano Out at ABC News  PEOPLE",
+                "published date": "Tue, 30 Apr 2024 21:46:28 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGVvcGxlLmNvbS9yb2ItbWFyY2lhbm8tZ29vZC1tb3JuaW5nLWFtZXJpY2EtbWV0ZW9yb2xvZ2lzdC1vdXQtYXQtYWJjLW5ld3MtODY0MTQzOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://people.com",
+                    "title": "PEOPLE"
+                }
+            },
+            {
+                "title": "ABC News meteorologist Rob Marciano fired over 'anger' issues, complaints about behavior - Page Six",
+                "description": "ABC News meteorologist Rob Marciano fired over 'anger' issues, complaints about behavior  Page Six",
+                "published date": "Tue, 30 Apr 2024 21:10:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3BhZ2VzaXguY29tLzIwMjQvMDQvMzAvZW50ZXJ0YWlubWVudC9hYmMtbmV3cy13ZWF0aGVybWFuLXJvYi1tYXJjaWFuby1maXJlZC1hZnRlci1hbmdlci1pc3N1ZXMtY29tcGxhaW50cy1hYm91dC1iZWhhdmlvci_SAYUBaHR0cHM6Ly9wYWdlc2l4LmNvbS8yMDI0LzA0LzMwL2VudGVydGFpbm1lbnQvYWJjLW5ld3Mtd2VhdGhlcm1hbi1yb2ItbWFyY2lhbm8tZmlyZWQtYWZ0ZXItYW5nZXItaXNzdWVzLWNvbXBsYWludHMtYWJvdXQtYmVoYXZpb3IvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://pagesix.com",
+                    "title": "Page Six"
+                }
+            },
+            {
+                "title": "ABC News Meteorologist Rob Marciano Exits - Variety",
+                "description": "ABC News Meteorologist Rob Marciano Exits  Variety",
+                "published date": "Tue, 30 Apr 2024 20:31:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2FiYy1uZXdzLW1ldGVvcm9sb2dpc3Qtcm9iLW1hcmNpYW5vLWV4aXQtMTIzNTk4NzczMy_SAVlodHRwczovL3ZhcmlldHkuY29tLzIwMjQvdHYvbmV3cy9hYmMtbmV3cy1tZXRlb3JvbG9naXN0LXJvYi1tYXJjaWFuby1leGl0LTEyMzU5ODc3MzMvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
+                "title": "ABC News Meteorologist Rob Marciano Out at the Network - Hollywood Reporter",
+                "description": "ABC News Meteorologist Rob Marciano Out at the Network  Hollywood Reporter",
+                "published date": "Tue, 30 Apr 2024 20:18:05 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2FiYy1uZXdzLXJvYi1tYXJjaWFuby1vdXQtZ29vZC1tb3JuaW5nLWFtZXJpY2EtMTIzNTg4NzIyMC_SAWtodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vdHYvdHYtbmV3cy9hYmMtbmV3cy1yb2ItbWFyY2lhbm8tb3V0LWdvb2QtbW9ybmluZy1hbWVyaWNhLTEyMzU4ODcyMjAvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.hollywoodreporter.com",
+                    "title": "Hollywood Reporter"
+                }
+            },
+            {
+                "title": "Rob Marciano is out at ABC News, 'GMA' after 10 years - USA TODAY",
+                "description": "Rob Marciano is out at ABC News, 'GMA' after 10 years  USA TODAY",
+                "published date": "Tue, 30 Apr 2024 20:59:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3R2LzIwMjQvMDQvMzAvcm9iLW1hcmNpYW5vLW1ldGVvcm9sb2dpc3QtZXhpdHMtYWJjLW5ld3MvNzM1MTcxNzIwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "ABC News Meteorologist Rob Marciano Abruptly Exits Network - TheWrap",
+                "description": "ABC News Meteorologist Rob Marciano Abruptly Exits Network  TheWrap",
+                "published date": "Tue, 30 Apr 2024 21:05:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3JvYi1tYXJjaWFuby1nb29kLW1vcm5pbmctYW1lcmljYS1tZXRlb3JvbG9naXN0LWV4aXRzLWFiYy1uZXdzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thewrap.com",
+                    "title": "TheWrap"
+                }
+            },
+            {
+                "title": "Meteorologist Rob Marciano Out At ABC News - Deadline",
+                "description": "Meteorologist Rob Marciano Out At ABC News  Deadline",
+                "published date": "Tue, 30 Apr 2024 21:25:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDQvcm9iLW1hcmNpYW5vLWFiYy1uZXdzLWV4aXQtMTIzNTkwMDMzNy_SAUdodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzA0L3JvYi1tYXJjaWFuby1hYmMtbmV3cy1leGl0LTEyMzU5MDAzMzcvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://deadline.com",
+                    "title": "Deadline"
+                }
+            },
+            {
+                "title": "ABC News fires weather man Rob Marciano for 'anger management issues' - The Independent",
+                "description": "ABC News fires weather man Rob Marciano for 'anger management issues'  The Independent",
+                "published date": "Wed, 01 May 2024 00:12:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvcm9iLW1hcmNpYW5vLWFiYy1uZXdzLWFuZ2VyLW1hbmFnZW1lbnQtYjI1Mzc1NDAuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.independent.co.uk",
+                    "title": "The Independent"
+                }
+            },
+            {
+                "title": "Meteorologist Rob Marciano fired by ABC News after complaints: reports - New York Daily News",
+                "description": "Meteorologist Rob Marciano fired by ABC News after complaints: reports  New York Daily News",
+                "published date": "Tue, 30 Apr 2024 22:18:40 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzA0LzMwL3JvYi1tYXJjaWFuby1maXJlZC1hYmMtbmV3cy1jb21wbGFpbnRzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nydailynews.com",
+                    "title": "New York Daily News"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mike Trout",
+        "summary": "",
+        "items": [
+            {
+                "title": "Former MVP Mike Trout needs surgery on torn meniscus. The Angels hope he can return this season - The Associated Press",
+                "description": "Former MVP Mike Trout needs surgery on torn meniscus. The Angels hope he can return this season  The Associated Press",
+                "published date": "Wed, 01 May 2024 01:38:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FuZ2Vscy1taWtlLXRyb3V0LWluanVyZWQtaW5qdXJ5LTBiZGQ0MTM2ZmUxZGM1ZmQzNWI4YjdmZWQyM2YxZDE20gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Angels star Mike Trout needs knee surgery for torn meniscus - ESPN",
+                "description": "Angels star Mike Trout needs knee surgery for torn meniscus  ESPN",
+                "published date": "Tue, 30 Apr 2024 22:14:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVzcG4uY29tL21sYi9zdG9yeS9fL2lkLzQwMDU5MzQ3L2FuZ2Vscy1zdXBlcnN0YXItbWlrZS10cm91dC1uZWVkcy1rbmVlLXN1cmdlcnktc291cmNlcy1zYXnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "Angels star Mike Trout to undergo knee surgery - FOX Sports",
+                "description": "Angels star Mike Trout to undergo knee surgery  FOX Sports",
+                "published date": "Tue, 30 Apr 2024 22:21:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9tbGIvYW5nZWxzLXN0YXItbWlrZS10cm91dC10by11bmRlcmdvLWtuZWUtc3VyZ2VyedIBVGh0dHBzOi8vYW1wLmZveHNwb3J0cy5jb20vc3Rvcmllcy9tbGIvYW5nZWxzLXN0YXItbWlrZS10cm91dC10by11bmRlcmdvLWtuZWUtc3VyZ2VyeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.foxsports.com",
+                    "title": "FOX Sports"
+                }
+            },
+            {
+                "title": "Mike Trout injury history: MLB star sidelined again with fourth serious issue in as many years - CBS Sports",
+                "description": "Mike Trout injury history: MLB star sidelined again with fourth serious issue in as many years  CBS Sports",
+                "published date": "Wed, 01 May 2024 00:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9uZXdzL21pa2UtdHJvdXQtaW5qdXJ5LWhpc3RvcnktbWxiLXN0YXItc2lkZWxpbmVkLWFnYWluLXdpdGgtZm91cnRoLXNlcmlvdXMtaXNzdWUtaW4tYXMtbWFueS15ZWFycy_SAYUBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9tbGIvbmV3cy9taWtlLXRyb3V0LWluanVyeS1oaXN0b3J5LW1sYi1zdGFyLXNpZGVsaW5lZC1hZ2Fpbi13aXRoLWZvdXJ0aC1zZXJpb3VzLWlzc3VlLWluLWFzLW1hbnkteWVhcnMvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "Angels star Mike Trout to have surgery for torn meniscus, will be out indefinitely - USA TODAY",
+                "description": "Angels star Mike Trout to have surgery for torn meniscus, will be out indefinitely  USA TODAY",
+                "published date": "Tue, 30 Apr 2024 23:07:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbWxiL2FuZ2Vscy8yMDI0LzA0LzMwL21pa2UtdHJvdXQtdG9ybi1tZW5pc2N1cy1zdXJnZXJ5LzczNTE5MTQ1MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Angels\u2019 Mike Trout undergoing knee surgery for torn meniscus, expected to return this season - The Athletic",
+                "description": "Angels\u2019 Mike Trout undergoing knee surgery for torn meniscus, expected to return this season  The Athletic",
+                "published date": "Tue, 30 Apr 2024 22:34:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0NjIxNTQvMjAyNC8wNC8zMC9taWtlLXRyb3V0LWtuZWUtc3VyZ2VyeS1hbmdlbHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://theathletic.com",
+                    "title": "The Athletic"
+                }
+            },
+            {
+                "title": "Mike Trout to undergo knee surgery, which isn't expected to be season-ending - Yahoo Sports",
+                "description": "Mike Trout to undergo knee surgery, which isn't expected to be season-ending  Yahoo Sports",
+                "published date": "Tue, 30 Apr 2024 23:03:54 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9taWtlLXRyb3V0LXRvLXVuZGVyZ28ta25lZS1zdXJnZXJ5LXdoaWNoLWlzbnQtZXhwZWN0ZWQtdG8tYmUtc2Vhc29uLWVuZGluZy0yMjEwNTYxNDUuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "Mike Trout out again and will undergo knee surgery as Angels flounder - Los Angeles Times",
+                "description": "Mike Trout out again and will undergo knee surgery as Angels flounder  Los Angeles Times",
+                "published date": "Wed, 01 May 2024 01:37:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL3Nwb3J0cy9hbmdlbHMvc3RvcnkvMjAyNC0wNC0zMC90cm91dC1vdXQtYWdhaW4tYXMtYW5nZWxzLWZsb3VuZGVyLWFpbWxlc3NsedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.latimes.com",
+                    "title": "Los Angeles Times"
+                }
+            },
+            {
+                "title": "Mike Trout needs knee surgery - MLB.com",
+                "description": "Mike Trout needs knee surgery  MLB.com",
+                "published date": "Wed, 01 May 2024 07:18:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy9taWtlLXRyb3V0LWtuZWUtc3VyZ2VyedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.mlb.com",
+                    "title": "MLB.com"
+                }
+            },
+            {
+                "title": "Angels News: Mike Trout to Undergo Knee Surgery, Will Be Out Indefinitely - Sports Illustrated",
+                "description": "Angels News: Mike Trout to Undergo Knee Surgery, Will Be Out Indefinitely  Sports Illustrated",
+                "published date": "Tue, 30 Apr 2024 22:21:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnNpLmNvbS9tbGIvYW5nZWxzL2FuZ2Vscy1uZXdzLW1pa2UtdHJvdXQtdG8tdW5kZXJnby1rbmVlLXN1cmdlcnktd2lsbC1iZS1vdXQtaW5kZWZpbml0ZWx50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Probe",
+        "summary": "Various probes are underway across different industries: Change Healthcare is investigating a major data breach; the EU is probing Meta for disinformation; McKinsey is facing a criminal probe for its role in the opioid crisis; the US is investigating Tesla's Autopilot system after a fatal crash; NASA has successfully received data from its Psyche asteroid probe; New Jersey counties are requesting a state investigation based on watchdog reports; Trump is implicated in an investigation into 2020 Michigan fake electors; the George Norcross probe in New Jersey sheds light on a contractor's downfall; a long-term investigation uncovers Big Oil's climate strategies; and despite his wife's corruption investigation, Spanish Prime Minister S\u00e1nchez intends to remain in office.",
         "items": [
             {
                 "title": "Change Healthcare Grinds Through Massive Breach Probe - The Wall Street Journal",
@@ -1306,13 +1942,13 @@
                 }
             },
             {
-                "title": "Spain PM Sanchez considers resigning after wife is targeted by judicial probe - NBC News",
-                "description": "Spain PM Sanchez considers resigning after wife is targeted by judicial probe  NBC News",
-                "published date": "Thu, 25 Apr 2024 12:08:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvc3BhaW4tcHJpbWUtbWluaXN0ZXItcGVkcm8tc2FuY2hlei1zdGVwcy1iYWNrLXdpZmUtanVkaWNpYWwtcHJvYmUtcmNuYTE0OTMwNdIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNDkzMDU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tesla facing federal probe days after fatal Autopilot crash in Monroe - The Seattle Times",
+                "description": "Tesla facing federal probe days after fatal Autopilot crash in Monroe  The Seattle Times",
+                "published date": "Mon, 29 Apr 2024 13:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3RyYW5zcG9ydGF0aW9uL3Rlc2xhLWZhY2luZy1mZWRlcmFsLXByb2JlLWRheXMtYWZ0ZXItZmF0YWwtYXV0b3BpbG90LWNyYXNoLWluLW1vbnJvZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
+                    "href": "https://www.seattletimes.com",
+                    "title": "The Seattle Times"
                 }
             },
             {
@@ -1323,26 +1959,6 @@
                 "publisher": {
                     "href": "https://www.space.com",
                     "title": "Space.com"
-                }
-            },
-            {
-                "title": "What a years-long probe of Big Oil reveals about its climate strategy - The Washington Post",
-                "description": "What a years-long probe of Big Oil reveals about its climate strategy  The Washington Post",
-                "published date": "Tue, 30 Apr 2024 16:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjQvMDQvMzAvb2lsLWNvbXBhbmllcy1jbGltYXRlLWRvY3VtZW50cy1kZW1vY3JhdHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
-                }
-            },
-            {
-                "title": "Tesla facing federal probe days after fatal Autopilot crash in Monroe - The Seattle Times",
-                "description": "Tesla facing federal probe days after fatal Autopilot crash in Monroe  The Seattle Times",
-                "published date": "Mon, 29 Apr 2024 13:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL3RyYW5zcG9ydGF0aW9uL3Rlc2xhLWZhY2luZy1mZWRlcmFsLXByb2JlLWRheXMtYWZ0ZXItZmF0YWwtYXV0b3BpbG90LWNyYXNoLWluLW1vbnJvZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.seattletimes.com",
-                    "title": "The Seattle Times"
                 }
             },
             {
@@ -1374,118 +1990,32 @@
                     "href": "https://www.inquirer.com",
                     "title": "The Philadelphia Inquirer"
                 }
-            }
-        ]
-    },
-    {
-        "name": "Mike Trout",
-        "summary": "",
-        "items": [
+            },
             {
-                "title": "Angels star Mike Trout to undergo knee surgery - FOX Sports",
-                "description": "Angels star Mike Trout to undergo knee surgery  FOX Sports",
-                "published date": "Tue, 30 Apr 2024 22:21:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9tbGIvYW5nZWxzLXN0YXItbWlrZS10cm91dC10by11bmRlcmdvLWtuZWUtc3VyZ2VyedIBVGh0dHBzOi8vYW1wLmZveHNwb3J0cy5jb20vc3Rvcmllcy9tbGIvYW5nZWxzLXN0YXItbWlrZS10cm91dC10by11bmRlcmdvLWtuZWUtc3VyZ2VyeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "What a years-long probe of Big Oil reveals about its climate strategy - The Washington Post",
+                "description": "What a years-long probe of Big Oil reveals about its climate strategy  The Washington Post",
+                "published date": "Tue, 30 Apr 2024 16:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjQvMDQvMzAvb2lsLWNvbXBhbmllcy1jbGltYXRlLWRvY3VtZW50cy1kZW1vY3JhdHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
+                    "href": "https://www.washingtonpost.com",
+                    "title": "The Washington Post"
                 }
             },
             {
-                "title": "Mike Trout injury history: MLB star sidelined again with fourth serious issue in as many years - CBS Sports",
-                "description": "Mike Trout injury history: MLB star sidelined again with fourth serious issue in as many years  CBS Sports",
-                "published date": "Wed, 01 May 2024 00:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9uZXdzL21pa2UtdHJvdXQtaW5qdXJ5LWhpc3RvcnktbWxiLXN0YXItc2lkZWxpbmVkLWFnYWluLXdpdGgtZm91cnRoLXNlcmlvdXMtaXNzdWUtaW4tYXMtbWFueS15ZWFycy_SAYUBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9tbGIvbmV3cy9taWtlLXRyb3V0LWluanVyeS1oaXN0b3J5LW1sYi1zdGFyLXNpZGVsaW5lZC1hZ2Fpbi13aXRoLWZvdXJ0aC1zZXJpb3VzLWlzc3VlLWluLWFzLW1hbnkteWVhcnMvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Spanish PM S\u00e1nchez says he'll continue in office after days of reflection over wife's corruption probe - NBC News",
+                "description": "Spanish PM S\u00e1nchez says he'll continue in office after days of reflection over wife's corruption probe  NBC News",
+                "published date": "Mon, 29 Apr 2024 09:50:19 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvc3BhaW5zLXBtLXNhbmNoZXotY29udGludWUtb2ZmaWNlLXdpZmUtY29ycnVwdGlvbi1wcm9iZS1yY25hMTQ5NzM30gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0OTczNw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "Mike Trout needs knee surgery - MLB.com",
-                "description": "Mike Trout needs knee surgery  MLB.com",
-                "published date": "Wed, 01 May 2024 07:18:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy9taWtlLXRyb3V0LWtuZWUtc3VyZ2VyedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.mlb.com",
-                    "title": "MLB.com"
-                }
-            },
-            {
-                "title": "Mike Trout to undergo knee surgery, which isn't expected to be season-ending - Yahoo Sports",
-                "description": "Mike Trout to undergo knee surgery, which isn't expected to be season-ending  Yahoo Sports",
-                "published date": "Tue, 30 Apr 2024 23:03:54 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9taWtlLXRyb3V0LXRvLXVuZGVyZ28ta25lZS1zdXJnZXJ5LXdoaWNoLWlzbnQtZXhwZWN0ZWQtdG8tYmUtc2Vhc29uLWVuZGluZy0yMjEwNTYxNDUuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
-                }
-            },
-            {
-                "title": "Angels\u2019 Mike Trout undergoing knee surgery for torn meniscus, expected to return this season - The Athletic",
-                "description": "Angels\u2019 Mike Trout undergoing knee surgery for torn meniscus, expected to return this season  The Athletic",
-                "published date": "Tue, 30 Apr 2024 22:32:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0NjIxNTQvMjAyNC8wNC8zMC9taWtlLXRyb3V0LWtuZWUtc3VyZ2VyeS1hbmdlbHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
-                }
-            },
-            {
-                "title": "Mike Trout out again and will undergo knee surgery as Angels flounder - Los Angeles Times",
-                "description": "Mike Trout out again and will undergo knee surgery as Angels flounder  Los Angeles Times",
-                "published date": "Wed, 01 May 2024 01:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL3Nwb3J0cy9hbmdlbHMvc3RvcnkvMjAyNC0wNC0zMC90cm91dC1vdXQtYWdhaW4tYXMtYW5nZWxzLWZsb3VuZGVyLWFpbWxlc3NsedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
-                }
-            },
-            {
-                "title": "Angels star Mike Trout to have surgery for torn meniscus, will be out indefinitely - USA TODAY",
-                "description": "Angels star Mike Trout to have surgery for torn meniscus, will be out indefinitely  USA TODAY",
-                "published date": "Tue, 30 Apr 2024 23:07:49 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbWxiL2FuZ2Vscy8yMDI0LzA0LzMwL21pa2UtdHJvdXQtdG9ybi1tZW5pc2N1cy1zdXJnZXJ5LzczNTE5MTQ1MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Angels News: Mike Trout to Undergo Knee Surgery, Will Be Out Indefinitely - Sports Illustrated",
-                "description": "Angels News: Mike Trout to Undergo Knee Surgery, Will Be Out Indefinitely  Sports Illustrated",
-                "published date": "Tue, 30 Apr 2024 22:21:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnNpLmNvbS9tbGIvYW5nZWxzL2FuZ2Vscy1uZXdzLW1pa2UtdHJvdXQtdG8tdW5kZXJnby1rbmVlLXN1cmdlcnktd2lsbC1iZS1vdXQtaW5kZWZpbml0ZWx50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Angels star Mike Trout needs knee surgery for torn meniscus - ESPN",
-                "description": "Angels star Mike Trout needs knee surgery for torn meniscus  ESPN",
-                "published date": "Tue, 30 Apr 2024 22:14:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVzcG4uY29tL21sYi9zdG9yeS9fL2lkLzQwMDU5MzQ3L2FuZ2Vscy1zdXBlcnN0YXItbWlrZS10cm91dC1uZWVkcy1rbmVlLXN1cmdlcnktc291cmNlcy1zYXnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "Mike Trout reportedly needs knee surgery, not expected to miss rest of MLB season - DraftKings",
-                "description": "Mike Trout reportedly needs knee surgery, not expected to miss rest of MLB season  DraftKings",
-                "published date": "Tue, 30 Apr 2024 22:12:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL2RrbmV0d29yay5kcmFmdGtpbmdzLmNvbS8yMDI0LzQvMzAvMjQxNDU4NjIvbWlrZS10cm91dC1pbmp1cnktbmV3cy1kZXRhaWxzLW1sYi1sb3MtYW5nZWxlcy1hbmdlbHMtb3V0ZmllbGQtd2lsbC1oZS1taXNzLXJlc3Qtc2Vhc29uLWJhY2t1cC1pbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://dknetwork.draftkings.com",
-                    "title": "DraftKings"
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             }
         ]
     },
     {
         "name": "Joel Embiid",
-        "summary": "",
+        "summary": "In Game 3 of the Knicks-76ers playoff series, Joel Embiid led his team to a 125-114 victory with a remarkable 50-point performance, despite his diagnosis with Bell's palsy. While his teammates praised his determination, the Knicks accused Embiid of dirty tactics in a foul on Mitchell Robinson. Despite speculation about the wisdom of Embiid playing the entire second half, some experts suggest it may have been a distraction from a larger issue. Embiid's medical condition has recently been identified as Bell's palsy, a facial paralysis disorder. In the aftermath of the game, Embiid also revealed that he had missed a shootaround before Game 5 due to a migraine, adding to the intrigue surrounding his health status.",
         "items": [
             {
                 "title": "Joel Embiid scores 50 points to lead 76ers past Knicks 125-114 to cut deficit to 2-1 - The Associated Press",
@@ -1538,16 +2068,6 @@
                 }
             },
             {
-                "title": "What to know about Bell's palsy, the facial paralysis affecting Joel Embiid - ABC News",
-                "description": "What to know about Bell's palsy, the facial paralysis affecting Joel Embiid  ABC News",
-                "published date": "Wed, 01 May 2024 02:41:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSGVhbHRoL3dpcmVTdG9yeS9iZWxscy1wYWxzeS1mYWNpYWwtcGFyYWx5c2lzLWFmZmVjdGluZy1qb2VsLWVtYmlpZC0xMDk2OTM0OTDSAWhodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9IZWFsdGgvd2lyZVN0b3J5L2JlbGxzLXBhbHN5LWZhY2lhbC1wYXJhbHlzaXMtYWZmZWN0aW5nLWpvZWwtZW1iaWlkLTEwOTY5MzQ5MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
-                }
-            },
-            {
                 "title": "Knicks call Joel Embiid's Game 3 antics dirty - USA TODAY",
                 "description": "Knicks call Joel Embiid's Game 3 antics dirty  USA TODAY",
                 "published date": "Fri, 26 Apr 2024 05:30:27 GMT",
@@ -1586,535 +2106,15 @@
                     "href": "https://www.cbsnews.com",
                     "title": "CBS Philly"
                 }
-            }
-        ]
-    },
-    {
-        "name": "Amazon stock",
-        "summary": "",
-        "items": [
-            {
-                "title": "Amazon Stock Gains On Earnings Beat, Strong Cloud Growth - Investor's Business Daily",
-                "description": "Amazon Stock Gains On Earnings Beat, Strong Cloud Growth  Investor's Business Daily",
-                "published date": "Tue, 30 Apr 2024 21:44:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L2FtYXpvbi1zdG9jay1nYWlucy1vbi1lYXJuaW5ncy1iZWF0LXN0cm9uZy1jbG91ZC1ncm93dGgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.investors.com",
-                    "title": "Investor's Business Daily"
-                }
             },
             {
-                "title": "Amazon stock pops after earnings beat - Yahoo Finance",
-                "description": "Amazon stock pops after earnings beat  Yahoo Finance",
-                "published date": "Wed, 01 May 2024 08:11:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hbWF6b24tc3RvY2stcG9wcy1hZnRlci1lYXJuaW5ncy1iZWF0LTIwMTExMzMwNi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://finance.yahoo.com",
-                    "title": "Yahoo Finance"
-                }
-            },
-            {
-                "title": "Amazon Stock Gains After Topping Market Expectations - Forbes",
-                "description": "Amazon Stock Gains After Topping Market Expectations  Forbes",
-                "published date": "Tue, 30 Apr 2024 21:02:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2VndW5vbGFrb3llbmlrYW4vMjAyNC8wNC8zMC9hbWF6b24tc3RvY2stanVtcHMtY2xvc2VyLXRvLXJlY29yZC1oaWdoLW9uLWVhcm5pbmdzLWJvb3N0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
-                "title": "Why Amazon Stock Was Moving Higher Today - The Motley Fool",
-                "description": "Why Amazon Stock Was Moving Higher Today  The Motley Fool",
-                "published date": "Fri, 26 Apr 2024 20:57:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA0LzI2L3doeS1hbWF6b24td2FzLW1vdmluZy1oaWdoZXItdG9kYXkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.fool.com",
-                    "title": "The Motley Fool"
-                }
-            },
-            {
-                "title": "Amazon stock gets a bump after beating Wall Street predictions - Supermarket News",
-                "description": "Amazon stock gets a bump after beating Wall Street predictions  Supermarket News",
-                "published date": "Tue, 30 Apr 2024 21:25:56 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnN1cGVybWFya2V0bmV3cy5jb20vbmV3cy9hbWF6b24tc3RvY2stZ2V0cy1idW1wLWFmdGVyLWJlYXRpbmctd2FsbC1zdHJlZXQtcHJlZGljdGlvbnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.supermarketnews.com",
-                    "title": "Supermarket News"
-                }
-            },
-            {
-                "title": "Amazon stock: E-commerce giant reports strong Q1 results - The Associated Press",
-                "description": "Amazon stock: E-commerce giant reports strong Q1 results  The Associated Press",
-                "published date": "Tue, 30 Apr 2024 22:40:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FtYXpvbi1yZXN1bHRzLWVhcm5pbmdzLWF3cy1haS00N2UxMjE1MGQzNmY2MWQwNDIwZWU0NzQ2NzNkZGU2NdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "Stocks making the biggest moves after hours: Amazon, Starbucks, Pinterest, Advanced Micro Devices and more - CNBC",
-                "description": "Stocks making the biggest moves after hours: Amazon, Starbucks, Pinterest, Advanced Micro Devices and more  CNBC",
-                "published date": "Tue, 30 Apr 2024 21:14:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDQvMzAvc3RvY2tzLW1ha2luZy10aGUtYmlnZ2VzdC1tb3Zlcy1hZnRlci1ob3Vycy1hbXpuLXNidXgtcGlucy1hbWQtYW5kLW1vcmUuaHRtbNIBcGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA0LzMwL3N0b2Nrcy1tYWtpbmctdGhlLWJpZ2dlc3QtbW92ZXMtYWZ0ZXItaG91cnMtYW16bi1zYnV4LXBpbnMtYW1kLWFuZC1tb3JlLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnbc.com",
-                    "title": "CNBC"
-                }
-            },
-            {
-                "title": "Amazon Earnings Are Out. Stock Jumps on Strong Growth for AWS. - Barron's",
-                "description": "Amazon Earnings Are Out. Stock Jumps on Strong Growth for AWS.  Barron's",
-                "published date": "Tue, 30 Apr 2024 21:09:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2FtYXpvbi1lYXJuaW5ncy1zdG9jay1wcmljZS1lY2JkMDk1OdIBSWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FtcC9hcnRpY2xlcy9hbWF6b24tZWFybmluZ3Mtc3RvY2stcHJpY2UtZWNiZDA5NTk?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.barrons.com",
-                    "title": "Barron's"
-                }
-            },
-            {
-                "title": "Amazon results beat estimates, revenue forecast misses - Reuters",
-                "description": "Amazon results beat estimates, revenue forecast misses  Reuters",
-                "published date": "Wed, 01 May 2024 03:59:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYW1hem9uLWZvcmVjYXN0cy1xdWFydGVybHktcmV2ZW51ZS1iZWxvdy1lc3RpbWF0ZXMtMjAyNC0wNC0zMC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters"
-                }
-            },
-            {
-                "title": "Analysts reboot Amazon stock price target ahead of earnings - TheStreet",
-                "description": "Analysts reboot Amazon stock price target ahead of earnings  TheStreet",
-                "published date": "Thu, 25 Apr 2024 00:05:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vaW52ZXN0aW5nL3N0b2Nrcy9hbmFseXN0cy1yZWJvb3QtYW1hem9uLXN0b2NrLXByaWNlLXRhcmdldC1haGVhZC1vZi1lYXJuaW5nc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thestreet.com",
-                    "title": "TheStreet"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Rob Marciano",
-        "summary": "",
-        "items": [
-            {
-                "title": "ABC News weatherman Rob Marciano fired after 'anger' issues: sources - New York Post",
-                "description": "ABC News weatherman Rob Marciano fired after 'anger' issues: sources  New York Post ",
-                "published date": "Tue, 30 Apr 2024 22:31:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL21lZGlhL2FiYy1uZXdzLXdlYXRoZXJtYW4tcm9iLW1hcmNpYW5vLWZpcmVkLWFmdGVyLWFuZ2VyLWlzc3Vlcy1zb3VyY2VzL9IBamh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL21lZGlhL2FiYy1uZXdzLXdlYXRoZXJtYW4tcm9iLW1hcmNpYW5vLWZpcmVkLWFmdGVyLWFuZ2VyLWlzc3Vlcy1zb3VyY2VzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Joel Embiid misses shootaround with migraine before Game 5 vs. Knicks - New York Post",
+                "description": "Joel Embiid misses shootaround with migraine before Game 5 vs. Knicks  New York Post ",
+                "published date": "Tue, 30 Apr 2024 15:18:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL3Nwb3J0cy9qb2VsLWVtYmlpZC1taXNzZXMtc2hvb3Rhcm91bmQtd2l0aC1taWdyYWluZS1iZWZvcmUtZ2FtZS01L9IBZGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA0LzMwL3Nwb3J0cy9qb2VsLWVtYmlpZC1taXNzZXMtc2hvb3Rhcm91bmQtd2l0aC1taWdyYWluZS1iZWZvcmUtZ2FtZS01L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://nypost.com",
                     "title": "New York Post"
-                }
-            },
-            {
-                "title": "ABC News Meteorologist Rob Marciano Exits - Variety",
-                "description": "ABC News Meteorologist Rob Marciano Exits  Variety",
-                "published date": "Tue, 30 Apr 2024 20:31:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2FiYy1uZXdzLW1ldGVvcm9sb2dpc3Qtcm9iLW1hcmNpYW5vLWV4aXQtMTIzNTk4NzczMy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "ABC News Meteorologist Rob Marciano Out at the Network - Hollywood Reporter",
-                "description": "ABC News Meteorologist Rob Marciano Out at the Network  Hollywood Reporter",
-                "published date": "Tue, 30 Apr 2024 20:18:05 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2FiYy1uZXdzLXJvYi1tYXJjaWFuby1vdXQtZ29vZC1tb3JuaW5nLWFtZXJpY2EtMTIzNTg4NzIyMC_SAWtodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vdHYvdHYtbmV3cy9hYmMtbmV3cy1yb2ItbWFyY2lhbm8tb3V0LWdvb2QtbW9ybmluZy1hbWVyaWNhLTEyMzU4ODcyMjAvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.hollywoodreporter.com",
-                    "title": "Hollywood Reporter"
-                }
-            },
-            {
-                "title": "ABC News Meteorologist Rob Marciano Abruptly Exits Network - TheWrap",
-                "description": "ABC News Meteorologist Rob Marciano Abruptly Exits Network  TheWrap",
-                "published date": "Tue, 30 Apr 2024 21:05:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3JvYi1tYXJjaWFuby1nb29kLW1vcm5pbmctYW1lcmljYS1tZXRlb3JvbG9naXN0LWV4aXRzLWFiYy1uZXdzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thewrap.com",
-                    "title": "TheWrap"
-                }
-            },
-            {
-                "title": "Rob Marciano, 'ABC World News Tonight' and 'GMA' meteorologist, exits ABC News after 10 years - USA TODAY",
-                "description": "Rob Marciano, 'ABC World News Tonight' and 'GMA' meteorologist, exits ABC News after 10 years  USA TODAY",
-                "published date": "Tue, 30 Apr 2024 20:59:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3R2LzIwMjQvMDQvMzAvcm9iLW1hcmNpYW5vLW1ldGVvcm9sb2dpc3QtZXhpdHMtYWJjLW5ld3MvNzM1MTcxNzIwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "'Good Morning America' Meteorologist Rob Marciano Out at ABC News - PEOPLE",
-                "description": "'Good Morning America' Meteorologist Rob Marciano Out at ABC News  PEOPLE",
-                "published date": "Tue, 30 Apr 2024 21:46:28 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGVvcGxlLmNvbS9yb2ItbWFyY2lhbm8tZ29vZC1tb3JuaW5nLWFtZXJpY2EtbWV0ZW9yb2xvZ2lzdC1vdXQtYXQtYWJjLW5ld3MtODY0MTQzOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://people.com",
-                    "title": "PEOPLE"
-                }
-            },
-            {
-                "title": "ABC News fires weather man Rob Marciano for 'anger management issues' - The Independent",
-                "description": "ABC News fires weather man Rob Marciano for 'anger management issues'  The Independent",
-                "published date": "Wed, 01 May 2024 00:12:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvcm9iLW1hcmNpYW5vLWFiYy1uZXdzLWFuZ2VyLW1hbmFnZW1lbnQtYjI1Mzc1NDAuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.independent.co.uk",
-                    "title": "The Independent"
-                }
-            },
-            {
-                "title": "Meteorologist Rob Marciano Out At ABC News - Deadline",
-                "description": "Meteorologist Rob Marciano Out At ABC News  Deadline",
-                "published date": "Tue, 30 Apr 2024 21:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDQvcm9iLW1hcmNpYW5vLWFiYy1uZXdzLWV4aXQtMTIzNTkwMDMzNy_SAUdodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzA0L3JvYi1tYXJjaWFuby1hYmMtbmV3cy1leGl0LTEyMzU5MDAzMzcvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://deadline.com",
-                    "title": "Deadline"
-                }
-            },
-            {
-                "title": "ABC News weatherman Rob Marciano fired over \u2018anger\u2019 issues, complaints about behavior - Page Six",
-                "description": "ABC News weatherman Rob Marciano fired over \u2018anger\u2019 issues, complaints about behavior  Page Six",
-                "published date": "Tue, 30 Apr 2024 21:10:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3BhZ2VzaXguY29tLzIwMjQvMDQvMzAvZW50ZXJ0YWlubWVudC9hYmMtbmV3cy13ZWF0aGVybWFuLXJvYi1tYXJjaWFuby1maXJlZC1hZnRlci1hbmdlci1pc3N1ZXMtY29tcGxhaW50cy1hYm91dC1iZWhhdmlvci_SAYUBaHR0cHM6Ly9wYWdlc2l4LmNvbS8yMDI0LzA0LzMwL2VudGVydGFpbm1lbnQvYWJjLW5ld3Mtd2VhdGhlcm1hbi1yb2ItbWFyY2lhbm8tZmlyZWQtYWZ0ZXItYW5nZXItaXNzdWVzLWNvbXBsYWludHMtYWJvdXQtYmVoYXZpb3IvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://pagesix.com",
-                    "title": "Page Six"
-                }
-            },
-            {
-                "title": "Rob Marciano out as ABC News, 'GMA' meteorologist after 10 years - Entertainment Weekly News",
-                "description": "Rob Marciano out as ABC News, 'GMA' meteorologist after 10 years  Entertainment Weekly News",
-                "published date": "Tue, 30 Apr 2024 22:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZXcuY29tL3JvYi1tYXJjaWFuby1vdXQtYWJjLW5ld3MtZ21hLW1ldGVvcm9sb2dpc3QtODY0MTQ3MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://ew.com",
-                    "title": "Entertainment Weekly News"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Tony Nominations 2024",
-        "summary": "",
-        "items": [
-            {
-                "title": "Tony Awards 2024: Everything We Know So Far About This Year\u2019s Ceremony - Vogue",
-                "description": "Tony Awards 2024: Everything We Know So Far About This Year\u2019s Ceremony  Vogue",
-                "published date": "Tue, 30 Apr 2024 13:49:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnZvZ3VlLmNvbS9hcnRpY2xlL2V2ZXJ5dGhpbmctd2Uta25vdy1zby1mYXItYWJvdXQtdGhlLTIwMjQtdG9ueS1hd2FyZHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.vogue.com",
-                    "title": "Vogue"
-                }
-            },
-            {
-                "title": "Tony Awards 2024: 'Hell's Kitchen,' 'Stereophonic' lead with 13 nominations each - The Associated Press",
-                "description": "Tony Awards 2024: 'Hell's Kitchen,' 'Stereophonic' lead with 13 nominations each  The Associated Press",
-                "published date": "Tue, 30 Apr 2024 17:23:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3Rvbnktbm9taW5hdGlvbnMtMjAyNC01YTM0NjkyYjIzOTkxZTA5ZTY4YjNjODhiYjMxMGJlZtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "Tony Nominations 2024: Biggest Snubs and Surprises - The New York Times",
-                "description": "Tony Nominations 2024: Biggest Snubs and Surprises  The New York Times",
-                "published date": "Tue, 30 Apr 2024 16:03:09 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMzAvdGhlYXRlci90b255LW5vbWluYXRpb25zLXNudWJzLXN1cnByaXNlcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Tony Award nominations 2024: Full list of nominees and analysis - The Washington Post",
-                "description": "Tony Award nominations 2024: Full list of nominees and analysis  The Washington Post",
-                "published date": "Tue, 30 Apr 2024 20:29:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lbnRlcnRhaW5tZW50L3RoZWF0ZXIvMjAyNC8wNC8zMC90b255LWF3YXJkLW5vbWluYXRpb25zLTIwMjQtbGlzdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
-                }
-            },
-            {
-                "title": "2024 Tony Awards Nominations Predictions - Variety",
-                "description": "2024 Tony Awards Nominations Predictions  Variety",
-                "published date": "Mon, 29 Apr 2024 13:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vdmFyaWV0eS5jb20vbGlzdHMvMjAyNC10b255cy1hd2FyZHMtcHJlZGljdGlvbnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "Tony Awards 2024 Nominations Full List - Vulture",
-                "description": "Tony Awards 2024 Nominations Full List  Vulture",
-                "published date": "Tue, 30 Apr 2024 13:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnZ1bHR1cmUuY29tL2FydGljbGUvdG9ueS1hd2FyZHMtMjAyNC1ub21pbmF0aW9ucy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.vulture.com",
-                    "title": "Vulture"
-                }
-            },
-            {
-                "title": "Tony Nominees 2024: 'Hell's Kitchen,' 'Stereophonic' each have 13 nominations - NPR",
-                "description": "Tony Nominees 2024: 'Hell's Kitchen,' 'Stereophonic' each have 13 nominations  NPR",
-                "published date": "Tue, 30 Apr 2024 14:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8zMC8xMjQ3OTQ2MDY5L3Rvbnktbm9taW5lZXMtbmFtZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.npr.org",
-                    "title": "NPR"
-                }
-            },
-            {
-                "title": "Tony Awards 2024: Nominations, where to stream, date, eligible shows - USA TODAY",
-                "description": "Tony Awards 2024: Nominations, where to stream, date, eligible shows  USA TODAY",
-                "published date": "Tue, 30 Apr 2024 00:14:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L211c2ljLzIwMjQvMDQvMjkvdG9ueS1hd2FyZHMtMjAyNC1ob3ctdG8td2F0Y2gtbm9taW5hdGlvbnMvNzM1MDcxNTQwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Full list of 2024 Tony Award nominations for 2023-2024 Broadway season - NorthJersey.com",
-                "description": "Full list of 2024 Tony Award nominations for 2023-2024 Broadway season  NorthJersey.com",
-                "published date": "Tue, 30 Apr 2024 13:55:52 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5ub3J0aGplcnNleS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC90aGVhdGVyLzIwMjQvMDQvMzAvZnVsbC1saXN0LW9mLTIwMjQtdG9ueS1hd2FyZC1ub21pbmF0aW9ucy1mb3ItMjAyMy0yMDI0LWJyb2Fkd2F5LXNlYXNvbi83MzUwNDQ0MDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.northjersey.com",
-                    "title": "NorthJersey.com"
-                }
-            },
-            {
-                "title": "2024 Tony Awards nominations announced to honor the best of Broadway. See the list of nominees here. - CBS News",
-                "description": "2024 Tony Awards nominations announced to honor the best of Broadway. See the list of nominees here.  CBS News",
-                "published date": "Tue, 30 Apr 2024 12:30:10 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvMjAyNC10b255LWF3YXJkcy1ub21pbmF0aW9ucy1saXN0L9IBQ2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzLzIwMjQtdG9ueS1hd2FyZHMtbm9taW5hdGlvbnMtbGlzdC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            }
-        ]
-    },
-    {
-        "name": "The Veil",
-        "summary": "",
-        "items": [
-            {
-                "title": "Review: Elisabeth Moss stars as a spy gone rogue in FX's thriller 'The Veil' - Los Angeles Times",
-                "description": "Review: Elisabeth Moss stars as a spy gone rogue in FX's thriller 'The Veil'  Los Angeles Times",
-                "published date": "Mon, 29 Apr 2024 19:08:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2VudGVydGFpbm1lbnQtYXJ0cy90di9zdG9yeS8yMDI0LTA0LTI5L3RoZS12ZWlsLXJldmlldy1lbGlzYWJldGgtbW9zcy1odWx10gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
-                }
-            },
-            {
-                "title": "Elisabeth Moss Stuns in FX\u2019s Fascinating Spy Thriller \u2018The Veil\u2019: TV Review - Variety",
-                "description": "Elisabeth Moss Stuns in FX\u2019s Fascinating Spy Thriller \u2018The Veil\u2019: TV Review  Variety",
-                "published date": "Tue, 30 Apr 2024 13:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9yZXZpZXdzL3RoZS12ZWlsLXJldmlldy1meC0xMjM1OTgzODQ1L9IBRmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9yZXZpZXdzL3RoZS12ZWlsLXJldmlldy1meC0xMjM1OTgzODQ1L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "'The Veil' Review: Elisabeth Moss Series Is Espionage Amateur Hour - IndieWire",
-                "description": "'The Veil' Review: Elisabeth Moss Series Is Espionage Amateur Hour  IndieWire",
-                "published date": "Tue, 30 Apr 2024 14:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vY3JpdGljaXNtL3Nob3dzL3RoZS12ZWlsLXJldmlldy1lbGlzYWJldGgtbW9zcy1zZXJpZXMtYmFkLTEyMzQ5NzgyMDQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.indiewire.com",
-                    "title": "IndieWire"
-                }
-            },
-            {
-                "title": "'The Veil' Calamitously Miscasts Elisabeth Moss: TV Review | TIME - TIME",
-                "description": "'The Veil' Calamitously Miscasts Elisabeth Moss: TV Review | TIME  TIME",
-                "published date": "Tue, 30 Apr 2024 12:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vdGltZS5jb20vNjk3MDAxMy90aGUtdmVpbC1yZXZpZXctZWxpc2FiZXRoLW1vc3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://time.com",
-                    "title": "TIME"
-                }
-            },
-            {
-                "title": "The Veil Review - IGN",
-                "description": "The Veil Review  IGN",
-                "published date": "Wed, 24 Apr 2024 17:31:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvdGhlLXZlaWwtcmV2aWV3LWVsaXNhYmV0aC1tb3NzLWZ4LWh1bHXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.ign.com",
-                    "title": "IGN"
-                }
-            },
-            {
-                "title": "Elisabeth Moss' 'The Veil' Is the Silliest Spy Show in Years - The Daily Beast",
-                "description": "Elisabeth Moss' 'The Veil' Is the Silliest Spy Show in Years  The Daily Beast",
-                "published date": "Tue, 30 Apr 2024 08:42:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL29ic2Vzc2VkL2VsaXNhYmV0aC1tb3NzLXRoZS12ZWlsLXJldmlldy1zaWxsaWVzdC1zcHktc2hvdy1pbi15ZWFyc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thedailybeast.com",
-                    "title": "The Daily Beast"
-                }
-            },
-            {
-                "title": "Sharp Writing, Excellent Cast Keep Spy Thriller The Veil Engaging | TV/Streaming - Roger Ebert",
-                "description": "Sharp Writing, Excellent Cast Keep Spy Thriller The Veil Engaging | TV/Streaming  Roger Ebert",
-                "published date": "Wed, 24 Apr 2024 16:02:04 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnJvZ2VyZWJlcnQuY29tL3N0cmVhbWluZy90aGUtdmVpbC1meC1yZXZpZXfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.rogerebert.com",
-                    "title": "Roger Ebert"
-                }
-            },
-            {
-                "title": "After exciting premiere, Hulu thriller 'The Veil' bogs down over six episodes - Chicago Sun-Times",
-                "description": "After exciting premiere, Hulu thriller 'The Veil' bogs down over six episodes  Chicago Sun-Times",
-                "published date": "Tue, 30 Apr 2024 00:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vbW92aWVzLWFuZC10di8yMDI0LzA0LzI5L3RoZS12ZWlsLXJldmlldy1odWx1LWZ4LWVsaXNhYmV0aC1tb3Nz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://chicago.suntimes.com",
-                    "title": "Chicago Sun-Times"
-                }
-            },
-            {
-                "title": "'The Veil' Review: Elisabeth Moss Kicks Ass, Takes Names, Treads Water - Rolling Stone",
-                "description": "'The Veil' Review: Elisabeth Moss Kicks Ass, Takes Names, Treads Water  Rolling Stone",
-                "published date": "Tue, 30 Apr 2024 13:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vdHYtbW92aWVzL3R2LW1vdmllLXJldmlld3MvdGhlLXZlaWwtcmV2aWV3LWVsaXNhYmV0aC1tb3NzLTEyMzUwMTEyMjIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.rollingstone.com",
-                    "title": "Rolling Stone"
-                }
-            },
-            {
-                "title": "The Veil Review: Elisabeth Moss Covers Well-Worn Spy Territory - Paste Magazine",
-                "description": "The Veil Review: Elisabeth Moss Covers Well-Worn Spy Territory  Paste Magazine",
-                "published date": "Wed, 24 Apr 2024 16:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBhc3RlbWFnYXppbmUuY29tL3R2L2Z4LWh1bHUvdGhlLXZlaWwtcmV2aWV30gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.pastemagazine.com",
-                    "title": "Paste Magazine"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Pelicans",
-        "summary": "",
-        "items": [
-            {
-                "title": "New Orleans Pelicans News, Scores, Status, Schedule - NBA - CBS Sports",
-                "description": "New Orleans Pelicans News, Scores, Status, Schedule - NBA  CBS Sports",
-                "published date": "Tue, 30 Apr 2024 03:11:55 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmJhL3RlYW1zL05PL25ldy1vcmxlYW5zLXBlbGljYW5zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "Thunder-Pelicans: 5 takeaways as Oklahoma City rolls in Game 2 - NBA.com",
-                "description": "Thunder-Pelicans: 5 takeaways as Oklahoma City rolls in Game 2  NBA.com",
-                "published date": "Thu, 25 Apr 2024 11:37:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy90aHVuZGVyLXBlbGljYW5zLXRha2Vhd2F5cy1nYW1lLTItMjAyNC1uYmEtcGxheW9mZnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
-            },
-            {
-                "title": "Thunder 106-85 Pelicans (Apr 27, 2024) Final Score - ESPN",
-                "description": "Thunder 106-85 Pelicans (Apr 27, 2024) Final Score  ESPN",
-                "published date": "Sat, 27 Apr 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9nYW1lL18vZ2FtZUlkLzQwMTY1NTA3Ny90aHVuZGVyLXBlbGljYW5z0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "How to watch the OKC Thunder vs. New Orleans Pelicans NBA Playoffs game tonight: Game 3 livestream options, more - CBS News",
-                "description": "How to watch the OKC Thunder vs. New Orleans Pelicans NBA Playoffs game tonight: Game 3 livestream options, more  CBS News",
-                "published date": "Sat, 27 Apr 2024 04:10:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRvZGF5cy1va2MtdGh1bmRlci12cy1uZXctb3JsZWFucy1wZWxpY2Fucy1uYmEtcGxheW9mZnMtZ2FtZS0zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
-                "title": "NBA Rumors: Pelicans, Jazz Expected to Aggressively Pursue Trades in 2024 Offseason - Bleacher Report",
-                "description": "NBA Rumors: Pelicans, Jazz Expected to Aggressively Pursue Trades in 2024 Offseason  Bleacher Report",
-                "published date": "Tue, 30 Apr 2024 16:16:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTE5MjI5LW5iYS1ydW1vcnMtcGVsaWNhbnMtamF6ei1leHBlY3RlZC10by1hZ2dyZXNzaXZlbHktcHVyc3VlLXRyYWRlcy1pbi0yMDI0LW9mZnNlYXNvbtIBjgFodHRwczovL3N5bmRpY2F0aW9uLmJsZWFjaGVycmVwb3J0LmNvbS9hbXAvMTAxMTkyMjktbmJhLXJ1bW9ycy1wZWxpY2Fucy1qYXp6LWV4cGVjdGVkLXRvLWFnZ3Jlc3NpdmVseS1wdXJzdWUtdHJhZGVzLWluLTIwMjQtb2Zmc2Vhc29uLmFtcC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
-                "title": "What To Expect From The Thunder And Pelicans As Series Moves To New Orleans For Game 3 - Forbes",
-                "description": "What To Expect From The Thunder And Pelicans As Series Moves To New Orleans For Game 3  Forbes",
-                "published date": "Thu, 25 Apr 2024 22:46:50 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL25pY2hvbGFzY3JhaW4vMjAyNC8wNC8yNS93aGF0LXRvLWV4cGVjdC1mcm9tLXRodW5kZXItYW5kLXBlbGljYW5zLWFzLXNlcmllcy1tb3Zlcy10by1uZXctb3JsZWFucy1mb3ItZ2FtZS0zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
-                "title": "B/R Trade Proposal Sends Trae Young To The Pelicans For a Package of Players And A Pick - Sports Illustrated",
-                "description": "B/R Trade Proposal Sends Trae Young To The Pelicans For a Package of Players And A Pick  Sports Illustrated",
-                "published date": "Wed, 24 Apr 2024 20:52:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvaGF3a3MvbmV3cy9iL3ItdHJhZGUtcHJvcG9zYWwtc2VuZHMtdHJhZS15b3VuZy10by10aGUtcGVsaWNhbnMtZm9yLWEtcGFja2FnZS1vZi1wbGF5ZXJzLWFuZC1hLXBpY2vSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Thunder vs. Pelicans: Game 3 predictions, odds, TV schedule for Western Conference series - USA TODAY",
-                "description": "Thunder vs. Pelicans: Game 3 predictions, odds, TV schedule for Western Conference series  USA TODAY",
-                "published date": "Sat, 27 Apr 2024 19:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhLzIwMjQvMDQvMjcvdGh1bmRlci12cy1wZWxpY2Fucy1nYW1lLTMtcHJlZGljdGlvbi83MzQ3MTQxMTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "'It's not acceptable': Pelicans implode vs. Thunder, and now their season is on the brink - The Athletic",
-                "description": "'It's not acceptable': Pelicans implode vs. Thunder, and now their season is on the brink  The Athletic",
-                "published date": "Thu, 25 Apr 2024 13:51:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzU0NDQ2NjAvMjAyNC8wNC8yNS9wZWxpY2Fucy10aHVuZGVyLW5iYS1wbGF5b2Zmcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theathletic.com",
-                    "title": "The Athletic"
-                }
-            },
-            {
-                "title": "Thunder vs. Pelicans odds, score prediction, time: 2024 NBA playoff picks, Game 4 best bets from proven model - CBS Sports",
-                "description": "Thunder vs. Pelicans odds, score prediction, time: 2024 NBA playoff picks, Game 4 best bets from proven model  CBS Sports",
-                "published date": "Mon, 29 Apr 2024 22:59:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL3RodW5kZXItdnMtcGVsaWNhbnMtb2Rkcy1zY29yZS1wcmVkaWN0aW9uLXRpbWUtMjAyNC1uYmEtcGxheW9mZi1waWNrcy1nYW1lLTQtYmVzdC1iZXRzLWZyb20tcHJvdmVuLW1vZGVsL9IBkAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL3RodW5kZXItdnMtcGVsaWNhbnMtb2Rkcy1zY29yZS1wcmVkaWN0aW9uLXRpbWUtMjAyNC1uYmEtcGxheW9mZi1waWNrcy1nYW1lLTQtYmVzdC1iZXRzLWZyb20tcHJvdmVuLW1vZGVsL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
                 }
             }
         ]
