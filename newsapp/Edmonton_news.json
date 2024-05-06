@@ -9,7 +9,7 @@
     },
     {
         "title": "Would you buy an Edmonton Transit T-shirt? - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi93b3VsZC15b3UtYnV5LWFuLWVkbW9udG9uLXRyYW5zaXQtdC1zaGlydC0xLjcxOTE5MTTSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzE5MTkxNA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi93b3VsZC15b3UtYnV5LWFuLWVkbW9udG9uLXRyYW5zaXQtdC1zaGlydC0xLjcxOTE5MTTSAQA?oc=5",
         "description": [],
         "pub_date": "Sun, 05 May 2024 15:37:45 GMT",
         "source_url": "https://www.cbc.ca",
@@ -57,7 +57,7 @@
     },
     {
         "title": "Grand Markets Edmonton reopens and expands for the season - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ3NTc3MC9ncmFuZC1tYXJrZXRzLWVkbW9udG9uLXJlb3BlbnMtYW5kLWV4cGFuZHMtZm9yLXRoZS1zZWFzb24v0gFjaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL3ZpZGVvLzEwNDc1NzcwL2dyYW5kLW1hcmtldHMtZWRtb250b24tcmVvcGVucy1hbmQtZXhwYW5kcy1mb3ItdGhlLXNlYXNvbi9hbXAv?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ3NTc3MC9ncmFuZC1tYXJrZXRzLWVkbW9udG9uLXJlb3BlbnMtYW5kLWV4cGFuZHMtZm9yLXRoZS1zZWFzb27SAWNodHRwczovL2dsb2JhbG5ld3MuY2EvdmlkZW8vMTA0NzU3NzAvZ3JhbmQtbWFya2V0cy1lZG1vbnRvbi1yZW9wZW5zLWFuZC1leHBhbmRzLWZvci10aGUtc2Vhc29uL2FtcC8?oc=5",
         "description": [],
         "pub_date": "Sun, 05 May 2024 17:49:06 GMT",
         "source_url": "https://globalnews.ca",
@@ -88,12 +88,20 @@
         "source_name": "CBC.ca"
     },
     {
-        "title": "Little Potato Company unveils new high-tech facility in Nisku - CTV News Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9ub3RoaW5nLWludG8tc29tZXRoaW5nLWxpdHRsZS1wb3RhdG9lcy10dXJuLWludG8tYmlnLXN1Y2Nlc3MtZm9yLWVkbW9udG9uLWNvbXBhbnktMS42ODcxNjA40gEA?oc=5",
+        "title": "Ponoka's Sharon Schwab honoured by the Community Learning Network - Ponoka News",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnBvbm9rYW5ld3MuY29tL2xvY2FsLW5ld3MvcG9ub2thcy1zaGFyb24tc2Nod2FiLWhvbm91cmVkLWJ5LXRoZS1jb21tdW5pdHktbGVhcm5pbmctbmV0d29yay03MzU0MDUx0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 23:23:00 GMT",
-        "source_url": "https://edmonton.ctvnews.ca",
-        "source_name": "CTV News Edmonton"
+        "pub_date": "Sun, 05 May 2024 23:30:00 GMT",
+        "source_url": "https://www.ponokanews.com",
+        "source_name": "Ponoka News"
+    },
+    {
+        "title": "Lots of fun spring events at The Butternut Tree | Watch News Videos Online - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2OTgxMy9sb3RzLW9mLWZ1bi1zcHJpbmctZXZlbnRzLWF0LXRoZS1idXR0ZXJudXQtdHJlZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 04 May 2024 18:40:10 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
     },
     {
         "title": "Three to See Edmonton Events: Dancing Plague, Dawn of the Dead and Star Wars Bad Batch finale - Edmonton Journal",
@@ -104,12 +112,28 @@
         "source_name": "Edmonton Journal"
     },
     {
-        "title": "City and Citadel Theatre reach agreement on lease - CityNews Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMy9jaXR5LWFuZC1jaXRhZGVsLXRoZWF0cmUtcmVhY2gtYWdyZWVtZW50LW9uLWxlYXNlL9IBXmh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMy9jaXR5LWFuZC1jaXRhZGVsLXRoZWF0cmUtcmVhY2gtYWdyZWVtZW50LW9uLWxlYXNlL2FtcC8?oc=5",
+        "title": "Little Potato Company unveils new high-tech facility in Nisku - CTV News Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9ub3RoaW5nLWludG8tc29tZXRoaW5nLWxpdHRsZS1wb3RhdG9lcy10dXJuLWludG8tYmlnLXN1Y2Nlc3MtZm9yLWVkbW9udG9uLWNvbXBhbnktMS42ODcxNjA40gEA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 22:05:35 GMT",
+        "pub_date": "Thu, 02 May 2024 23:23:00 GMT",
+        "source_url": "https://edmonton.ctvnews.ca",
+        "source_name": "CTV News Edmonton"
+    },
+    {
+        "title": "On healing path, Edmonton seniors spend day at mall with police officers - CityNews Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wNS9lZG1vbnRvbi1zZW5pb3JzLXNob3BwaW5nLWRheS1wb2xpY2Utb2ZmaWNlcnMv0gFaaHR0cHM6Ly9lZG1vbnRvbi5jaXR5bmV3cy5jYS8yMDI0LzA1LzA1L2VkbW9udG9uLXNlbmlvcnMtc2hvcHBpbmctZGF5LXBvbGljZS1vZmZpY2Vycy9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Sun, 05 May 2024 23:17:28 GMT",
         "source_url": "https://edmonton.citynews.ca",
         "source_name": "CityNews Edmonton"
+    },
+    {
+        "title": "'Flamingo car' drawing attention on Alberta roads - Lakeland TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lmxha2VsYW5kdG9kYXkuY2EvYmV5b25kLWxvY2FsL2ZsYW1pbmdvLWNhci1kcmF3aW5nLWF0dGVudGlvbi1vbi1hbGJlcnRhLXJvYWRzLTg2OTgxNTPSAWVodHRwczovL3d3dy5sYWtlbGFuZHRvZGF5LmNhL2FtcC9iZXlvbmQtbG9jYWwvZmxhbWluZ28tY2FyLWRyYXdpbmctYXR0ZW50aW9uLW9uLWFsYmVydGEtcm9hZHMtODY5ODE1Mw?oc=5",
+        "description": [],
+        "pub_date": "Sun, 05 May 2024 18:15:00 GMT",
+        "source_url": "https://www.lakelandtoday.ca",
+        "source_name": "Lakeland TODAY"
     },
     {
         "title": "Alberta Municipalities hasn't been asked for input on bill giving cabinet new powers - Stettler Independent",
@@ -120,12 +144,12 @@
         "source_name": "Stettler Independent"
     },
     {
-        "title": "\u2018Star Wars: The Empire Strikes Back\u2019 concert coming to Edmonton - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2OTc3My9zdGFyLXdhcnMtdGhlLWVtcGlyZS1zdHJpa2VzLWJhY2stY29uY2VydC1jb21pbmctdG8tZWRtb250b24v0gFmaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL3ZpZGVvLzEwNDY5NzczL3N0YXItd2Fycy10aGUtZW1waXJlLXN0cmlrZXMtYmFjay1jb25jZXJ0LWNvbWluZy10by1lZG1vbnRvbi9hbXAv?oc=5",
+        "title": "Edmonton's SunRise building aims for affordability and sustainability - Edmonton Journal",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9idXNpbmVzcy9yZWFsLWVzdGF0ZS9lZG1vbnRvbnMtc3VucmlzZS1idWlsZGluZy1kb3dudG93bi1hZmZvcmRhYmlsaXR5LXN1c3RhaW5hYmlsaXR50gEA?oc=5",
         "description": [],
-        "pub_date": "Sat, 04 May 2024 18:18:07 GMT",
-        "source_url": "https://globalnews.ca",
-        "source_name": "Global News"
+        "pub_date": "Thu, 02 May 2024 15:20:36 GMT",
+        "source_url": "https://edmontonjournal.com",
+        "source_name": "Edmonton Journal"
     },
     {
         "title": "2SLGBTQ+ youth organization shutting down in St. Albert - Mountain View TODAY",
@@ -136,12 +160,12 @@
         "source_name": "Mountain View TODAY"
     },
     {
-        "title": "Top works in Edmonton music, film, visual art and books take $100000 in prizes - Edmonton Journal",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9lbnRlcnRhaW5tZW50L2xvY2FsLWFydHMvMjAyNC1lZG1vbnRvbi1hcnRzLXByaXplcy12YXJzY29uYS10aGVhdHJl0gEA?oc=5",
+        "title": "\u2018Star Wars: The Empire Strikes Back\u2019 concert coming to Edmonton - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2OTc3My9zdGFyLXdhcnMtdGhlLWVtcGlyZS1zdHJpa2VzLWJhY2stY29uY2VydC1jb21pbmctdG8tZWRtb250b24v0gFmaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL3ZpZGVvLzEwNDY5NzczL3N0YXItd2Fycy10aGUtZW1waXJlLXN0cmlrZXMtYmFjay1jb25jZXJ0LWNvbWluZy10by1lZG1vbnRvbi9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 02:35:42 GMT",
-        "source_url": "https://edmontonjournal.com",
-        "source_name": "Edmonton Journal"
+        "pub_date": "Sat, 04 May 2024 18:18:07 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
     },
     {
         "title": "shoppers unsure about Loblaw boycott | CTV News - CTV News Edmonton",
@@ -152,44 +176,20 @@
         "source_name": "CTV News Edmonton"
     },
     {
-        "title": "Edmonton looks to create more affordable housing - CityNews Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMi9lZG1vbnRvbi1sb29rcy10by1jcmVhdGUtbW9yZS1hZmZvcmRhYmxlLWhvdXNpbmcv0gFdaHR0cHM6Ly9lZG1vbnRvbi5jaXR5bmV3cy5jYS8yMDI0LzA1LzAyL2VkbW9udG9uLWxvb2tzLXRvLWNyZWF0ZS1tb3JlLWFmZm9yZGFibGUtaG91c2luZy9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 22:08:08 GMT",
-        "source_url": "https://edmonton.citynews.ca",
-        "source_name": "CityNews Edmonton"
-    },
-    {
-        "title": "Edmonton suspects arrested in connection to Nijjar\u2019s death to return to B.C. - Global News",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2ODY0OC9lZG1vbnRvbi1zdXNwZWN0cy1hcnJlc3RlZC1pbi1jb25uZWN0aW9uLXRvLW5pamphcnMtZGVhdGgtdG8tcmV0dXJuLXRvLWItYy_SAXRodHRwczovL2dsb2JhbG5ld3MuY2EvdmlkZW8vMTA0Njg2NDgvZWRtb250b24tc3VzcGVjdHMtYXJyZXN0ZWQtaW4tY29ubmVjdGlvbi10by1uaWpqYXJzLWRlYXRoLXRvLXJldHVybi10by1iLWMvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 20:22:29 GMT",
-        "source_url": "https://globalnews.ca",
-        "source_name": "Global News"
-    },
-    {
-        "title": "Seniors take a step toward healing with the EPS with \u201cOperation Sole\u201d - CFWE",
-        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vY2Z3ZXJhZGlvLmNhLzIwMjQvMDUvMDMvc2VuaW9ycy10YWtlLWEtc3RlcC10b3dhcmQtaGVhbGluZy13aXRoLXRoZS1lcHMtd2l0aC1vcGVyYXRpb24tc29sZS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 19:27:03 GMT",
-        "source_url": "https://cfweradio.ca",
-        "source_name": "CFWE"
-    },
-    {
-        "title": "Boyle Street receives $21M from federal government for central Edmonton hub - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9ib3lsZS1zdHJlZXQtMjEtbWlsbGlvbi1mZWRlcmFsLXByb2dyYW0tMS43MTkzNzUy0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxOTM3NTI?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 20:53:21 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
         "title": "Show Review: Leaf Rapids leaves an unforgettable mark in Edmonton - The Gateway Online",
         "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdGhlZ2F0ZXdheW9ubGluZS5jYS8yMDI0LzA1L3Nob3ctcmV2aWV3LWxlYWYtcmFwaWRzLWxlYXZlcy1hbi11bmZvcmdldHRhYmxlLW1hcmstaW4tZWRtb250b24v0gEA?oc=5",
         "description": [],
         "pub_date": "Wed, 01 May 2024 15:15:56 GMT",
         "source_url": "https://thegatewayonline.ca",
         "source_name": "The Gateway Online"
+    },
+    {
+        "title": "City of Edmonton, Citadel Theatre approve new 10-year lease deal - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9jaXR5LW9mLWVkbW9udG9uLWNpdGFkZWwtdGhlYXRyZS1hcHByb3ZlLW5ldy0xMC15ZWFyLWxlYXNlLWRlYWwtMS43MTg5MjY00gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxODkyNjQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 18:22:58 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
     },
     {
         "title": "Business owners fed up with years of construction along 103 Street - CityNews Edmonton",
@@ -200,20 +200,20 @@
         "source_name": "CityNews Edmonton"
     },
     {
-        "title": "Edmonton man, 52, dead after head-on collision on Highway 44 - Edmonton Journal",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWRtb250b24tbWFuLTUyLWRlYWQtYWZ0ZXItaGVhZC1vbi1jb2xsaXNpb24tb24taGlnaHdheS00NNIBAA?oc=5",
+        "title": "Top works in Edmonton music, film, visual art and books take $100000 in prizes - Edmonton Journal",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9lbnRlcnRhaW5tZW50L2xvY2FsLWFydHMvMjAyNC1lZG1vbnRvbi1hcnRzLXByaXplcy12YXJzY29uYS10aGVhdHJl0gEA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 17:43:34 GMT",
+        "pub_date": "Thu, 02 May 2024 02:35:42 GMT",
         "source_url": "https://edmontonjournal.com",
         "source_name": "Edmonton Journal"
     },
     {
-        "title": "EPSB brings back SRO program to mixed reaction - CTV News Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9yZWFjdGlvbnMtbWl4ZWQtYWZ0ZXItZWRtb250b24tcHVibGljLXNjaG9vbHMtdm90ZXMtdG8tcmVpbnN0YXRlLXNjaG9vbC1yZXNvdXJjZS1vZmZpY2Vycy0xLjY4Njk2NDLSAQA?oc=5",
+        "title": "Police find man dead in charred wreckage 3 months after Edmonton fire - Mountain View TODAY",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm1vdW50YWludmlld3RvZGF5LmNhL2JleW9uZC1sb2NhbC9wb2xpY2UtZmluZC1tYW4tZGVhZC1pbi1jaGFycmVkLXdyZWNrYWdlLTMtbW9udGhzLWFmdGVyLWVkbW9udG9uLWZpcmUtODY5NzM0MtIBf2h0dHBzOi8vd3d3Lm1vdW50YWludmlld3RvZGF5LmNhL2FtcC9iZXlvbmQtbG9jYWwvcG9saWNlLWZpbmQtbWFuLWRlYWQtaW4tY2hhcnJlZC13cmVja2FnZS0zLW1vbnRocy1hZnRlci1lZG1vbnRvbi1maXJlLTg2OTczNDI?oc=5",
         "description": [],
-        "pub_date": "Sat, 04 May 2024 17:17:27 GMT",
-        "source_url": "https://edmonton.ctvnews.ca",
-        "source_name": "CTV News Edmonton"
+        "pub_date": "Sat, 04 May 2024 13:15:00 GMT",
+        "source_url": "https://www.mountainviewtoday.ca",
+        "source_name": "Mountain View TODAY"
     },
     {
         "title": "5 best Edmonton food events to check out in May | Dished - Daily Hive",
@@ -224,12 +224,12 @@
         "source_name": "Daily Hive"
     },
     {
-        "title": "Art Gallery of Alberta showcases Indigenous Artists in Records of Remembrance Exhibition - CFWE",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vY2Z3ZXJhZGlvLmNhLzIwMjQvMDUvMDIvYXJ0LWdhbGxlcnktb2YtYWxiZXJ0YS1zaG93Y2FzZXMtaW5kaWdlbm91cy1hcnRpc3RzLWluLXJlY29yZHMtb2YtcmVtZW1icmFuY2UtZXhoaWJpdGlvbi_SAQA?oc=5",
+        "title": "EPSB brings back SRO program to mixed reaction - CTV News Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9yZWFjdGlvbnMtbWl4ZWQtYWZ0ZXItZWRtb250b24tcHVibGljLXNjaG9vbHMtdm90ZXMtdG8tcmVpbnN0YXRlLXNjaG9vbC1yZXNvdXJjZS1vZmZpY2Vycy0xLjY4Njk2NDLSAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 20:20:27 GMT",
-        "source_url": "https://cfweradio.ca",
-        "source_name": "CFWE"
+        "pub_date": "Sat, 04 May 2024 17:17:27 GMT",
+        "source_url": "https://edmonton.ctvnews.ca",
+        "source_name": "CTV News Edmonton"
     },
     {
         "title": "Black leaders accuse Edmonton city administration of obstructing anti-racism plan - CBC.ca",
@@ -240,10 +240,18 @@
         "source_name": "CBC.ca"
     },
     {
-        "title": "Lots of fun spring events at The Butternut Tree - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2OTgxMy9sb3RzLW9mLWZ1bi1zcHJpbmctZXZlbnRzLWF0LXRoZS1idXR0ZXJudXQtdHJlZS_SAVlodHRwczovL2dsb2JhbG5ld3MuY2EvdmlkZW8vMTA0Njk4MTMvbG90cy1vZi1mdW4tc3ByaW5nLWV2ZW50cy1hdC10aGUtYnV0dGVybnV0LXRyZWUvYW1wLw?oc=5",
+        "title": "Edmonton looks to create more affordable housing - CityNews Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMi9lZG1vbnRvbi1sb29rcy10by1jcmVhdGUtbW9yZS1hZmZvcmRhYmxlLWhvdXNpbmcv0gFdaHR0cHM6Ly9lZG1vbnRvbi5jaXR5bmV3cy5jYS8yMDI0LzA1LzAyL2VkbW9udG9uLWxvb2tzLXRvLWNyZWF0ZS1tb3JlLWFmZm9yZGFibGUtaG91c2luZy9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Sat, 04 May 2024 18:40:10 GMT",
+        "pub_date": "Thu, 02 May 2024 22:08:08 GMT",
+        "source_url": "https://edmonton.citynews.ca",
+        "source_name": "CityNews Edmonton"
+    },
+    {
+        "title": "What happened to Michelle Lee Hadwen? Tips sought in 2009 homicide of Edmonton woman - Global News",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2OTE2Ni93aGF0LWhhcHBlbmVkLXRvLW1pY2hlbGxlLWxlZS1oYWR3ZW4tdGlwcy1zb3VnaHQtaW4tMjAwOS1ob21pY2lkZS1vZi1lZG1vbnRvbi13b21hbi_SAX1odHRwczovL2dsb2JhbG5ld3MuY2EvdmlkZW8vMTA0NjkxNjYvd2hhdC1oYXBwZW5lZC10by1taWNoZWxsZS1sZWUtaGFkd2VuLXRpcHMtc291Z2h0LWluLTIwMDktaG9taWNpZGUtb2YtZWRtb250b24td29tYW4vYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 23:55:12 GMT",
         "source_url": "https://globalnews.ca",
         "source_name": "Global News"
     },
@@ -256,12 +264,12 @@
         "source_name": "Daily Hive"
     },
     {
-        "title": "Edmonton's SunRise building aims for affordability and sustainability - Edmonton Journal",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9idXNpbmVzcy9yZWFsLWVzdGF0ZS9lZG1vbnRvbnMtc3VucmlzZS1idWlsZGluZy1kb3dudG93bi1hZmZvcmRhYmlsaXR5LXN1c3RhaW5hYmlsaXR50gEA?oc=5",
+        "title": "Art Gallery of Alberta showcases Indigenous Artists in Records of Remembrance Exhibition - CFWE",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vY2Z3ZXJhZGlvLmNhLzIwMjQvMDUvMDIvYXJ0LWdhbGxlcnktb2YtYWxiZXJ0YS1zaG93Y2FzZXMtaW5kaWdlbm91cy1hcnRpc3RzLWluLXJlY29yZHMtb2YtcmVtZW1icmFuY2UtZXhoaWJpdGlvbi_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 15:20:36 GMT",
-        "source_url": "https://edmontonjournal.com",
-        "source_name": "Edmonton Journal"
+        "pub_date": "Thu, 02 May 2024 20:20:27 GMT",
+        "source_url": "https://cfweradio.ca",
+        "source_name": "CFWE"
     },
     {
         "title": "CFB struggling to keep community pantry stocked due to lack of donations - The Gateway Online",
@@ -272,52 +280,12 @@
         "source_name": "The Gateway Online"
     },
     {
-        "title": "Ice District hosting EDM event Bomfest again - CTV News Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9hcm1pbi12YW4tYnV1cmVuLXRvLWhlYWRsaW5lLWVsZWN0cm9uaWMtbXVzaWMtZmVzdGl2YWwtYXQtaWNlLWRpc3RyaWN0LTEuNjg2OTI2M9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 18:40:06 GMT",
-        "source_url": "https://edmonton.ctvnews.ca",
-        "source_name": "CTV News Edmonton"
-    },
-    {
-        "title": "1 man arrested after fatal assault near 118 Avenue, 90 Street: EPS - CityNews Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wNC9hcnJlc3QtZmF0YWwtYXNzYXVsdC_SAUFodHRwczovL2VkbW9udG9uLmNpdHluZXdzLmNhLzIwMjQvMDUvMDQvYXJyZXN0LWZhdGFsLWFzc2F1bHQvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 04 May 2024 20:07:30 GMT",
-        "source_url": "https://edmonton.citynews.ca",
-        "source_name": "CityNews Edmonton"
-    },
-    {
         "title": "Letters, April 30: Premier Danielle Smith the saviour of Alberta cities? - Edmonton Sun",
         "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZWRtb250b25zdW4uY29tL29waW5pb24vbGV0dGVycy1hcHJpbC0zMC1wcmVtaWVyLWRhbmllbGxlLXNtaXRoLXRoZS1zYXZpb3VyLW9mLWFsYmVydGEtY2l0aWVz0gEA?oc=5",
         "description": [],
         "pub_date": "Tue, 30 Apr 2024 12:05:42 GMT",
         "source_url": "https://edmontonsun.com",
         "source_name": "Edmonton Sun"
-    },
-    {
-        "title": "A massive shopping plaza is in the works for a big area in Sherwood Park | Urbanized - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9zaGVyd29vZC1wYXJrLXNob3BwaW5nLXBsYXphLWJhc2VsaW5lLXJvYWQtYnJvYWRtb29y0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 14:42:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Exhibit Review: \u2018Creating Beauty - A Watercolour Exhibition\u2019 at the AGA - The Gateway Online",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlZ2F0ZXdheW9ubGluZS5jYS8yMDI0LzA1L2V4aGliaXQtcmV2aWV3LWNyZWF0aW5nLWJlYXV0eS1hLXdhdGVyY29sb3VyLWV4aGliaXRpb24tYXQtdGhlLWFnYS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 20:12:37 GMT",
-        "source_url": "https://thegatewayonline.ca",
-        "source_name": "The Gateway Online"
-    },
-    {
-        "title": "\u2018Paw Patrol Live!\u2019 coming to Edmonton in May - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ1OTYyNi9wYXctcGF0cm9sLWxpdmUtY29taW5nLXRvLWVkbW9udG9uLWluLW1hedIBU2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ1OTYyNi9wYXctcGF0cm9sLWxpdmUtY29taW5nLXRvLWVkbW9udG9uLWluLW1heS9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 15:32:00 GMT",
-        "source_url": "https://globalnews.ca",
-        "source_name": "Global News"
     },
     {
         "title": "Canadian Armed Forces conduct 'road move' on highways north of Edmonton Friday - Edmonton Journal",
@@ -344,6 +312,30 @@
         "source_name": "Daily Hive"
     },
     {
+        "title": "\u2018Paw Patrol Live!\u2019 coming to Edmonton in May - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ1OTYyNi9wYXctcGF0cm9sLWxpdmUtY29taW5nLXRvLWVkbW9udG9uLWluLW1hedIBU2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ1OTYyNi9wYXctcGF0cm9sLWxpdmUtY29taW5nLXRvLWVkbW9udG9uLWluLW1heS9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 15:32:00 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
+    },
+    {
+        "title": "Exhibit Review: \u2018Creating Beauty - A Watercolour Exhibition\u2019 at the AGA - The Gateway Online",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlZ2F0ZXdheW9ubGluZS5jYS8yMDI0LzA1L2V4aGliaXQtcmV2aWV3LWNyZWF0aW5nLWJlYXV0eS1hLXdhdGVyY29sb3VyLWV4aGliaXRpb24tYXQtdGhlLWFnYS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 20:12:37 GMT",
+        "source_url": "https://thegatewayonline.ca",
+        "source_name": "The Gateway Online"
+    },
+    {
+        "title": "1 man arrested after fatal assault near 118 Avenue, 90 Street: EPS - CityNews Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wNC9hcnJlc3QtZmF0YWwtYXNzYXVsdC_SAUFodHRwczovL2VkbW9udG9uLmNpdHluZXdzLmNhLzIwMjQvMDUvMDQvYXJyZXN0LWZhdGFsLWFzc2F1bHQvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Sat, 04 May 2024 20:07:30 GMT",
+        "source_url": "https://edmonton.citynews.ca",
+        "source_name": "CityNews Edmonton"
+    },
+    {
         "title": "Norquest College celebrates its students with Completion Ceremony - Wetaskiwin Times Advertiser",
         "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LndldGFza2l3aW50aW1lcy5jb20vbmV3cy9ub3JxdWVzdC1jb2xsZWdlLWNlbGVicmF0ZXMtc3R1ZGVudHMtd2l0aC1jb21wbGV0aW9uLWNlcmVtb2550gEA?oc=5",
         "description": [],
@@ -352,108 +344,12 @@
         "source_name": "Wetaskiwin Times Advertiser"
     },
     {
-        "title": "EVENT: 2024 Alberta Women Entrepreneur Awards - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9jb21tdW5pdHkvZXZlbnQtMjAyNC1hbGJlcnRhLXdvbWVuLWVudHJlcHJlbmV1ci1hd2FyZHMtMS43MTg2NTg40gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxODY1ODg?oc=5",
+        "title": "A massive shopping plaza is in the works for a big area in Sherwood Park | Urbanized - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9zaGVyd29vZC1wYXJrLXNob3BwaW5nLXBsYXphLWJhc2VsaW5lLXJvYWQtYnJvYWRtb29y0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 01 May 2024 17:53:02 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "All three suspects in Nijjar homicide were living in Edmonton - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2ODQ4Ny9hbGwtdGhyZWUtc3VzcGVjdHMtaW4tbmlqamFyLWhvbWljaWRlLXdlcmUtbGl2aW5nLWluLWVkbW9udG9uL9IBZ2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2ODQ4Ny9hbGwtdGhyZWUtc3VzcGVjdHMtaW4tbmlqamFyLWhvbWljaWRlLXdlcmUtbGl2aW5nLWluLWVkbW9udG9uL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 19:45:37 GMT",
-        "source_url": "https://globalnews.ca",
-        "source_name": "Global News"
-    },
-    {
-        "title": "Life Cycle: A month-long cycling challenge in June, in support of the Stollery Children's Hospital and the Alberta Children's Hospital - CFWE",
-        "link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL2Nmd2VyYWRpby5jYS8yMDI0LzA1LzAyL2xpZmUtY3ljbGUtYS1tb250aC1sb25nLWN5Y2xpbmctY2hhbGxlbmdlLWluLWp1bmUtaW4tc3VwcG9ydC1vZi10aGUtc3RvbGxlcnktY2hpbGRyZW5zLWhvc3BpdGFsLWFuZC10aGUtYWxiZXJ0YS1jaGlsZHJlbnMtaG9zcGl0YWwv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 17:49:57 GMT",
-        "source_url": "https://cfweradio.ca",
-        "source_name": "CFWE"
-    },
-    {
-        "title": "Federal government allocates $500 million for youth mental health - The Gateway Online",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdGhlZ2F0ZXdheW9ubGluZS5jYS8yMDI0LzA1L2ZlZGVyYWwtZ292ZXJubWVudC1hbGxvY2F0ZXMtNTAwLW1pbGxpb24tZm9yLXlvdXRoLW1lbnRhbC1oZWFsdGgv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 03:03:09 GMT",
-        "source_url": "https://thegatewayonline.ca",
-        "source_name": "The Gateway Online"
-    },
-    {
-        "title": "Sherwood Park Quilt Guild show returns this weekend - The Sherwood Park-Strathcona County News",
-        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnNoZXJ3b29kcGFya25ld3MuY29tL25ld3MvbG9jYWwtbmV3cy9zaGVyd29vZC1wYXJrLXF1aWx0LWd1aWxkLXNob3ctcmV0dXJucy10aGlzLXdlZWtlbmTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 17:11:26 GMT",
-        "source_url": "https://www.sherwoodparknews.com",
-        "source_name": "The Sherwood Park-Strathcona County News"
-    },
-    {
-        "title": "One day later, Alberta restores funding for low-income transit in Edmonton and Calgary - Edmonton Journal",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL3BvbGl0aWNzL29uZS1kYXktbGF0ZXItYWxiZXJ0YS1yZXN0b3Jlcy1mdW5kaW5nLWZvci1sb3ctaW5jb21lLXRyYW5zaXQtaW4tZWRtb250b24tYW5kLWNhbGdhcnnSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 23:02:06 GMT",
-        "source_url": "https://edmontonjournal.com",
-        "source_name": "Edmonton Journal"
-    },
-    {
-        "title": "Free Cinco de Mayo Eve event being held in the ICE District this weekend | Listed - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9jaW5jby1kZS1tYXlvLWVkbW9udG9uLWljZS1kaXN0cmljdNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 20:17:00 GMT",
+        "pub_date": "Thu, 02 May 2024 14:42:00 GMT",
         "source_url": "https://dailyhive.com",
         "source_name": "Daily Hive"
-    },
-    {
-        "title": "Treat Mom To A Bruch At The AGA - CFWE",
-        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vY2Z3ZXJhZGlvLmNhLzIwMjQvMDUvMDEvdHJlYXQtbW9tLXRvLWEtYnJ1Y2gtYXQtdGhlLWFnYS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 14:06:20 GMT",
-        "source_url": "https://cfweradio.ca",
-        "source_name": "CFWE"
-    },
-    {
-        "title": "Strathcona Food Bank marks 40th anniversary milestone - The Sherwood Park-Strathcona County News",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNoZXJ3b29kcGFya25ld3MuY29tL25ld3Mvc3RyYXRoY29uYS1mb29kLWJhbmstbWFya3MtNDB0aC1hbm5pdmVyc2FyeS1taWxlc3RvbmXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 18:07:24 GMT",
-        "source_url": "https://www.sherwoodparknews.com",
-        "source_name": "The Sherwood Park-Strathcona County News"
-    },
-    {
-        "title": "police report overall crime rate down, violent crime rate up | CTV News - CTV News Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9jaXR5LWNyaW1lLXJhdGUtZHJvcHMtNy0yLXdoaWxlLXZpb2xlbnQtY3JpbWUtc2V2ZXJpdHktcmlzZXMtNy0zLWFubnVhbC1wb2xpY2UtZGF0YS0xLjY4NzE1MDHSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 22:51:00 GMT",
-        "source_url": "https://edmonton.ctvnews.ca",
-        "source_name": "CTV News Edmonton"
-    },
-    {
-        "title": "Edmonton's Princess Theatre closed three years ago and it still hasn't sold | Urbanized - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9wcmluY2Vzcy10aGVhdHJlLWVkbW9udG9uLXN0aWxsLWZvci1zYWxl0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 17:38:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "EICS Capital Plan approved - The Sherwood Park-Strathcona County News",
-        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zaGVyd29vZHBhcmtuZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvbmV3LWVpY3MtdGhyZWUteWVhci1jYXBpdGFsLXBsYW4taGlnaGxpZ2h0cy1uZWVkLWZvci1rLTQtcmVwbGFjZW1lbnQtc2Nob29sLWluLXNoZXJ3b29kLXBhcmvSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 17:51:55 GMT",
-        "source_url": "https://www.sherwoodparknews.com",
-        "source_name": "The Sherwood Park-Strathcona County News"
-    },
-    {
-        "title": "Barriers for businesses inside the ICE District Plaza - Global News",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2NDAwNi9iYXJyaWVycy1mb3ItYnVzaW5lc3Nlcy1pbnNpZGUtdGhlLWljZS1kaXN0cmljdC1wbGF6YdIBX2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2NDAwNi9iYXJyaWVycy1mb3ItYnVzaW5lc3Nlcy1pbnNpZGUtdGhlLWljZS1kaXN0cmljdC1wbGF6YS9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 00:49:48 GMT",
-        "source_url": "https://globalnews.ca",
-        "source_name": "Global News"
     },
     {
         "title": "Tuesday's letters: Council deserves thanks for bold vision - Edmonton Journal",
@@ -464,10 +360,90 @@
         "source_name": "Edmonton Journal"
     },
     {
-        "title": "Edmonton man, 47, dies in Saturday motorcycle crash in Strathcona County - The Sherwood Park-Strathcona County News",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNoZXJ3b29kcGFya25ld3MuY29tL25ld3MvZWRtb250b24tbWFuLTQ3LWRpZXMtaW4tc2F0dXJkYXktbW90b3JjeWNsZS1jcmFzaC1pbi1zdHJhdGhjb25hLWNvdW50edIBAA?oc=5",
+        "title": "Ice District hosting EDM event Bomfest again - CTV News Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9hcm1pbi12YW4tYnV1cmVuLXRvLWhlYWRsaW5lLWVsZWN0cm9uaWMtbXVzaWMtZmVzdGl2YWwtYXQtaWNlLWRpc3RyaWN0LTEuNjg2OTI2M9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 17:41:58 GMT",
+        "pub_date": "Wed, 01 May 2024 18:40:06 GMT",
+        "source_url": "https://edmonton.ctvnews.ca",
+        "source_name": "CTV News Edmonton"
+    },
+    {
+        "title": "EVENT: 2024 Alberta Women Entrepreneur Awards - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9jb21tdW5pdHkvZXZlbnQtMjAyNC1hbGJlcnRhLXdvbWVuLWVudHJlcHJlbmV1ci1hd2FyZHMtMS43MTg2NTg40gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxODY1ODg?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 17:53:02 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Life Cycle: A month-long cycling challenge in June, in support of the Stollery Children's Hospital and the Alberta Children's Hospital - CFWE",
+        "link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL2Nmd2VyYWRpby5jYS8yMDI0LzA1LzAyL2xpZmUtY3ljbGUtYS1tb250aC1sb25nLWN5Y2xpbmctY2hhbGxlbmdlLWluLWp1bmUtaW4tc3VwcG9ydC1vZi10aGUtc3RvbGxlcnktY2hpbGRyZW5zLWhvc3BpdGFsLWFuZC10aGUtYWxiZXJ0YS1jaGlsZHJlbnMtaG9zcGl0YWwv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 17:49:57 GMT",
+        "source_url": "https://cfweradio.ca",
+        "source_name": "CFWE"
+    },
+    {
+        "title": "All three suspects in Nijjar homicide were living in Edmonton - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2ODQ4Ny9hbGwtdGhyZWUtc3VzcGVjdHMtaW4tbmlqamFyLWhvbWljaWRlLXdlcmUtbGl2aW5nLWluLWVkbW9udG9uL9IBZ2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2ODQ4Ny9hbGwtdGhyZWUtc3VzcGVjdHMtaW4tbmlqamFyLWhvbWljaWRlLXdlcmUtbGl2aW5nLWluLWVkbW9udG9uL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 19:45:37 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
+    },
+    {
+        "title": "Edmonton's Princess Theatre closed three years ago and it still hasn't sold | Urbanized - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9wcmluY2Vzcy10aGVhdHJlLWVkbW9udG9uLXN0aWxsLWZvci1zYWxl0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 17:38:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Federal government allocates $500 million for youth mental health - The Gateway Online",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdGhlZ2F0ZXdheW9ubGluZS5jYS8yMDI0LzA1L2ZlZGVyYWwtZ292ZXJubWVudC1hbGxvY2F0ZXMtNTAwLW1pbGxpb24tZm9yLXlvdXRoLW1lbnRhbC1oZWFsdGgv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 03:03:09 GMT",
+        "source_url": "https://thegatewayonline.ca",
+        "source_name": "The Gateway Online"
+    },
+    {
+        "title": "Treat Mom To A Bruch At The AGA - CFWE",
+        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vY2Z3ZXJhZGlvLmNhLzIwMjQvMDUvMDEvdHJlYXQtbW9tLXRvLWEtYnJ1Y2gtYXQtdGhlLWFnYS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 14:06:20 GMT",
+        "source_url": "https://cfweradio.ca",
+        "source_name": "CFWE"
+    },
+    {
+        "title": "Sherwood Park Quilt Guild show returns this weekend - The Sherwood Park-Strathcona County News",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnNoZXJ3b29kcGFya25ld3MuY29tL25ld3MvbG9jYWwtbmV3cy9zaGVyd29vZC1wYXJrLXF1aWx0LWd1aWxkLXNob3ctcmV0dXJucy10aGlzLXdlZWtlbmTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 17:11:26 GMT",
+        "source_url": "https://www.sherwoodparknews.com",
+        "source_name": "The Sherwood Park-Strathcona County News"
+    },
+    {
+        "title": "weather for May 3: Warming up | CTV News - CTV News Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9lZG1vbnRvbi1hcmVhLXdlYXRoZXIvam9zaC1jbGFzc2VuLXMtZm9yZWNhc3Qtc3VubnktZW5kLXRvLWEtd2V0LXdlZWstMS42ODcyMjAw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 13:53:11 GMT",
+        "source_url": "https://edmonton.ctvnews.ca",
+        "source_name": "CTV News Edmonton"
+    },
+    {
+        "title": "Bespoke designs: Kanvi Homes named Builder of the Year-Small Volume - Edmonton Journal",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9saWZlL2hvbWVzL2Jlc3Bva2UtZGVzaWducy1rYW52aS1ob21lcy1uYW1lZC1idWlsZGVyLW9mLXRoZS15ZWFyLXNtYWxsLXZvbHVtZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 15:30:39 GMT",
+        "source_url": "https://edmontonjournal.com",
+        "source_name": "Edmonton Journal"
+    },
+    {
+        "title": "Strathcona Food Bank marks 40th anniversary milestone - The Sherwood Park-Strathcona County News",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNoZXJ3b29kcGFya25ld3MuY29tL25ld3Mvc3RyYXRoY29uYS1mb29kLWJhbmstbWFya3MtNDB0aC1hbm5pdmVyc2FyeS1taWxlc3RvbmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 18:07:24 GMT",
         "source_url": "https://www.sherwoodparknews.com",
         "source_name": "The Sherwood Park-Strathcona County News"
     },
@@ -480,20 +456,28 @@
         "source_name": "Daily Hive"
     },
     {
+        "title": "Edmonton suspects arrested in connection to Nijjar\u2019s death to return to B.C. - Global News",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2ODY0OC9lZG1vbnRvbi1zdXNwZWN0cy1hcnJlc3RlZC1pbi1jb25uZWN0aW9uLXRvLW5pamphcnMtZGVhdGgtdG8tcmV0dXJuLXRvLWItYy_SAXRodHRwczovL2dsb2JhbG5ld3MuY2EvdmlkZW8vMTA0Njg2NDgvZWRtb250b24tc3VzcGVjdHMtYXJyZXN0ZWQtaW4tY29ubmVjdGlvbi10by1uaWpqYXJzLWRlYXRoLXRvLXJldHVybi10by1iLWMvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 20:22:29 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
+    },
+    {
+        "title": "EICS Capital Plan approved - The Sherwood Park-Strathcona County News",
+        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zaGVyd29vZHBhcmtuZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvbmV3LWVpY3MtdGhyZWUteWVhci1jYXBpdGFsLXBsYW4taGlnaGxpZ2h0cy1uZWVkLWZvci1rLTQtcmVwbGFjZW1lbnQtc2Nob29sLWluLXNoZXJ3b29kLXBhcmvSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 17:51:55 GMT",
+        "source_url": "https://www.sherwoodparknews.com",
+        "source_name": "The Sherwood Park-Strathcona County News"
+    },
+    {
         "title": "Analysts weigh in on Capital Power killing plant near Edmonton | CTV News - CTV News Edmonton",
         "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9maW5hbmNpYWwtdGVjaG5vbG9neS1yaXNrcy1saWtlbHktZGVsYXllZC1hbGJlcnRhLWNhcmJvbi1jYXB0dXJlLXByb2plY3QtYW5hbHlzdHMtMS42ODcyMDQ10gEA?oc=5",
         "description": [],
         "pub_date": "Fri, 03 May 2024 12:36:10 GMT",
         "source_url": "https://edmonton.ctvnews.ca",
         "source_name": "CTV News Edmonton"
-    },
-    {
-        "title": "RCMP charge Edmonton man for child sexual assault - CityNews Edmonton",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMi9yY21wLWNoYXJnZS1lZG1vbnRvbi1tYW4tZm9yLWNoaWxkLXNleHVhbC1hc3NhdWx0L9IBXmh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMi9yY21wLWNoYXJnZS1lZG1vbnRvbi1tYW4tZm9yLWNoaWxkLXNleHVhbC1hc3NhdWx0L2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 21:18:48 GMT",
-        "source_url": "https://edmonton.citynews.ca",
-        "source_name": "CityNews Edmonton"
     },
     {
         "title": "City will pay to demolish Dwayne's Home in Edmonton - Edmonton Journal",
@@ -504,20 +488,28 @@
         "source_name": "Edmonton Journal"
     },
     {
+        "title": "Edmonton appeal board to make permit call on overdose prevention site - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2NjU5Ny9lZG1vbnRvbi1hcHBlYWwtYm9hcmQtdG8tbWFrZS1wZXJtaXQtY2FsbC1vbi1vdmVyZG9zZS1wcmV2ZW50aW9uLXNpdGXSAW9odHRwczovL2dsb2JhbG5ld3MuY2EvdmlkZW8vMTA0NjY1OTcvZWRtb250b24tYXBwZWFsLWJvYXJkLXRvLW1ha2UtcGVybWl0LWNhbGwtb24tb3ZlcmRvc2UtcHJldmVudGlvbi1zaXRlL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 00:02:35 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
+    },
+    {
+        "title": "RCMP charge Edmonton man for child sexual assault - CityNews Edmonton",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMi9yY21wLWNoYXJnZS1lZG1vbnRvbi1tYW4tZm9yLWNoaWxkLXNleHVhbC1hc3NhdWx0L9IBXmh0dHBzOi8vZWRtb250b24uY2l0eW5ld3MuY2EvMjAyNC8wNS8wMi9yY21wLWNoYXJnZS1lZG1vbnRvbi1tYW4tZm9yLWNoaWxkLXNleHVhbC1hc3NhdWx0L2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 21:18:48 GMT",
+        "source_url": "https://edmonton.citynews.ca",
+        "source_name": "CityNews Edmonton"
+    },
+    {
         "title": "How to enjoy the Oilers playoff action for free or cheap in Edmonton | Curated - Daily Hive",
         "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9lbmpveS1vaWxlcnMtcGxheW9mZnMtY2hlYXAtZnJlZS1lZG1vbnRvbtIBAA?oc=5",
         "description": [],
         "pub_date": "Thu, 02 May 2024 21:17:00 GMT",
         "source_url": "https://dailyhive.com",
         "source_name": "Daily Hive"
-    },
-    {
-        "title": "Police, family plead for information in unsolved 2009 death of First Nations woman in Edmonton - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9taWNoZWxsZS1oYWR3ZW4taG9taWNpZGUtMS43MTkzOTU40gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxOTM5NTg?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 23:25:55 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
     },
     {
         "title": "Sherwood Park high school presents 'The Little Mermaid' in ambitious 6-night musical production - CTV News Edmonton",
@@ -528,34 +520,42 @@
         "source_name": "CTV News Edmonton"
     },
     {
-        "title": "Edmonton suspect guilty on six charges in Southern Alberta home invasion - Mountain View TODAY",
-        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1vdW50YWludmlld3RvZGF5LmNhL2JleW9uZC1sb2NhbC9lZG1vbnRvbi1zdXNwZWN0LWd1aWx0eS1vbi1zaXgtY2hhcmdlcy1pbi1zb3V0aGVybi1hbGJlcnRhLWhvbWUtaW52YXNpb24tODY3NzM1MtIBggFodHRwczovL3d3dy5tb3VudGFpbnZpZXd0b2RheS5jYS9hbXAvYmV5b25kLWxvY2FsL2VkbW9udG9uLXN1c3BlY3QtZ3VpbHR5LW9uLXNpeC1jaGFyZ2VzLWluLXNvdXRoZXJuLWFsYmVydGEtaG9tZS1pbnZhc2lvbi04Njc3MzUy?oc=5",
+        "title": "Barriers for businesses inside the ICE District Plaza - Global News",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2NDAwNi9iYXJyaWVycy1mb3ItYnVzaW5lc3Nlcy1pbnNpZGUtdGhlLWljZS1kaXN0cmljdC1wbGF6YdIBX2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS92aWRlby8xMDQ2NDAwNi9iYXJyaWVycy1mb3ItYnVzaW5lc3Nlcy1pbnNpZGUtdGhlLWljZS1kaXN0cmljdC1wbGF6YS9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Tue, 30 Apr 2024 23:48:38 GMT",
-        "source_url": "https://www.mountainviewtoday.ca",
-        "source_name": "Mountain View TODAY"
+        "pub_date": "Thu, 02 May 2024 00:49:48 GMT",
+        "source_url": "https://globalnews.ca",
+        "source_name": "Global News"
     },
     {
-        "title": "An early look inside L'OCA Quality Market in Sherwood Park and it's WILD | Dished - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9sb2NhLXF1YWxpdHktbWFya2V0LXNoZXJ3b29kLXBhcmstaW5zaWRl0gEA?oc=5",
+        "title": "Edmonton man, 52, dead after head-on collision on Highway 44 - Edmonton Journal",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWRtb250b24tbWFuLTUyLWRlYWQtYWZ0ZXItaGVhZC1vbi1jb2xsaXNpb24tb24taGlnaHdheS00NNIBAA?oc=5",
         "description": [],
-        "pub_date": "Sat, 04 May 2024 00:14:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Edmonton weather: Mild winds and sunny skies mean a spring weekend we can actually enjoy - Edmonton Journal",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL2VkbW9udG9uLXdlYXRoZXItbWlsZC13aW5kcy1hbmQtc3Vubnktc2tpZXMtbWVhbi1hLXNwcmluZy13ZWVrZW5kLXdlLWNhbi1hY3R1YWxseS1lbmpvedIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 13:48:17 GMT",
+        "pub_date": "Fri, 03 May 2024 17:43:34 GMT",
         "source_url": "https://edmontonjournal.com",
         "source_name": "Edmonton Journal"
     },
     {
-        "title": "Body of 70-year-old Edmonton man found in building wreckage, 3 months after fire - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvZWRtb250b24vYm9keS1vZi03MC15ZWFyLW9sZC1lZG1vbnRvbi1tYW4tZm91bmQtaW4tYnVpbGRpbmctd3JlY2thZ2UtMy1tb250aHMtYWZ0ZXItZmlyZS0xLjcxOTM4OTbSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzE5Mzg5Ng?oc=5",
+        "title": "Free Cinco de Mayo Eve event being held in the ICE District this weekend | Listed - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZGFpbHloaXZlLmNvbS9lZG1vbnRvbi9jaW5jby1kZS1tYXlvLWVkbW9udG9uLWljZS1kaXN0cmljdNIBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 23:43:28 GMT",
+        "pub_date": "Fri, 03 May 2024 20:17:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Edmonton suspect guilty on six charges in Southern Alberta home invasion - Mountain View TODAY",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1vdW50YWludmlld3RvZGF5LmNhL2JleW9uZC1sb2NhbC9lZG1vbnRvbi1zdXNwZWN0LWd1aWx0eS1vbi1zaXgtY2hhcmdlcy1pbi1zb3V0aGVybi1hbGJlcnRhLWhvbWUtaW52YXNpb24tODY3NzM1MtIBggFodHRwczovL3d3dy5tb3VudGFpbnZpZXd0b2RheS5jYS9hbXAvYmV5b25kLWxvY2FsL2VkbW9udG9uLXN1c3BlY3QtZ3VpbHR5LW9uLXNpeC1jaGFyZ2VzLWluLXNvdXRoZXJuLWFsYmVydGEtaG9tZS1pbnZhc2lvbi04Njc3MzUy?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 23:45:00 GMT",
+        "source_url": "https://www.mountainviewtoday.ca",
+        "source_name": "Mountain View TODAY"
+    },
+    {
+        "title": "Police, family plead for information in unsolved 2009 death of First Nations woman in Edmonton - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9taWNoZWxsZS1oYWR3ZW4taG9taWNpZGUtMS43MTkzOTU40gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxOTM5NTg?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 23:25:55 GMT",
         "source_url": "https://www.cbc.ca",
         "source_name": "CBC.ca"
     }
