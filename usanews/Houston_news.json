@@ -1,29 +1,8 @@
 [
     {
-        "title": "When will the power be back on? CenterPoint gives Saturday update, saying they're working to have most customers up by Wednesday - KHOU.com",
+        "title": "When will the power be back on? CenterPoint sends out map showing estimated restoration dates - KHOU.com",
         "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvd2VhdGhlci93aGVuLXdpbGwtcG93ZXItYmUtYmFjay1vbi1ob3VzdG9uLXRleGFzLzI4NS01MjU1NGQ4Ni0yMDhlLTQ5MWItYWMzZC1iOTJiN2JmYWVmMmbSAQA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvd2VhdGhlci93aGVuLXdpbGwtcG93ZXItYmUtYmFjay1vbi1ob3VzdG9uLXRleGFzLzI4NS01MjU1NGQ4Ni0yMDhlLTQ5MWItYWMzZC1iOTJiN2JmYWVmMmbSAQA?oc=5",
-                "text": "When will the power be back on? CenterPoint gives Saturday update, saying they're working to have most customers up by Wednesday"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvY2VudGVycG9pbnQtZW5lcmd5LXBvd2VyLWhvdXN0b24tc2V2ZXJlLXdlYXRoZXItdGV4YXMvMTQ4Mzg1Mzcv0gEA?oc=5",
-                "text": "Storm recovery in Houston: CenterPoint works to restore electricity to customer by Wednesday after storms damage area"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvd2VhdGhlci9oaXNkLXJldHVybi1jbGFzcy1ob3VzdG9uLXRleGFzLXN0b3Jtcy8yODUtZmY0ZDI1NjItMDU2Ny00ODFlLWE0ZTktM2U1MmQ0MjBhMDZh0gEA?oc=5",
-                "text": "Will Houston ISD have school Monday? HISD superintendent answers | khou.com"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd2VhdGhlci5jb20vc3Rvcm1zL3NldmVyZS92aWRlby90b3JuYWRvLWNhdWdodC1vbi1zdXJ2ZWlsbGFuY2UtY2FtZXJh0gEA?oc=5",
-                "text": "Tornado Caught On Surveillance Camera - Videos from The Weather Channel"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dlYXRoZXIvMjAyNC8wNS8xOC90ZXhhcy13ZWF0aGVyLXBvd2VyLW91dGFnZS1tYXAvNzM3NDg3MzQwMDcv0gEA?oc=5",
-                "text": "Texas power outage map: Nearly 450,000 without power from storms"
-            }
-        ],
+        "description": [],
         "pub_date": "Sat, 18 May 2024 17:07:00 GMT",
         "source_url": "https://www.khou.com",
         "source_name": "KHOU.com"
@@ -45,10 +24,18 @@
         "source_name": "KHOU.com"
     },
     {
-        "title": "Houston boil water notice: 100,000 gallons of wastewater contaminates private drinking water supply wells - KTRK-TV",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvYm9pbC13YXRlci1ub3RpY2UtY2l0eS1vZi1ob3VzdG9uLXdhc3Rld2F0ZXItcHJpdmF0ZS13ZWxsLzE0ODM0NzcyL9IBAA?oc=5",
+        "title": "Volunteers with Mercy Chefs provide hot meals for Houstonians without power - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTkvdm9sdW50ZWVycy13aXRoLW1lcmN5LWNoZWZzLXByb3ZpZGUtaG90LW1lYWxzLWZvci1ob3VzdG9uaWFucy13aXRob3V0LXBvd2VyL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Sat, 18 May 2024 01:48:41 GMT",
+        "pub_date": "Sun, 19 May 2024 02:45:35 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Great Wolfe Lodge indoor water park to open Houston location before Labor Day - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvZ3JlYXQtd29sZmUtbG9kZ2Utd2F0ZXItcGFyay1ob3VzdG9uLWxvY2F0aW9uLWluZG9vci1wYXJrcy1jdWx0dXJlbWFwLzE0ODM5MzY3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 23:47:22 GMT",
         "source_url": "https://abc13.com",
         "source_name": "KTRK-TV"
     },
@@ -61,12 +48,12 @@
         "source_name": "CultureMap Houston"
     },
     {
-        "title": "Houston power outage hacks: How to survive without electricity - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL25ld3MvaG91c3Rvbi10ZXhhcy90cmVuZGluZy9hcnRpY2xlL3Bvd2VyLW91dGFnZS1oYWNrcy1jaGFyZ2UtMTk0NjQwNDIucGhw0gEA?oc=5",
+        "title": "Houston's hot and humid stretch continues. - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL3dlYXRoZXIvMjAyNC8wNS8xOC9hYm92ZS1hdmVyYWdlLXRlbXBlcmF0dXJlcy10aGlzLXdlZWtlbmQtaW4taG91c3Rvbi_SAQA?oc=5",
         "description": [],
-        "pub_date": "Fri, 17 May 2024 19:12:05 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
+        "pub_date": "Sat, 18 May 2024 12:06:34 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
     },
     {
         "title": "Houston stabbing: Woman kills man after physical altercation, police say - FOX 26 Houston",
@@ -77,6 +64,14 @@
         "source_name": "FOX 26 Houston"
     },
     {
+        "title": "Storm recovery in Houston: CenterPoint works to restore electricity to customer by Wednesday after storms damage area - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvY2VudGVycG9pbnQtZW5lcmd5LXBvd2VyLWhvdXN0b24tc2V2ZXJlLXdlYXRoZXItdGV4YXMvMTQ4Mzg1Mzcv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 23:03:45 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "KTRK-TV"
+    },
+    {
         "title": "Houston restaurants and bar open and closed after storms - Houston Chronicle ",
         "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL2Zvb2QtY3VsdHVyZS9yZXN0YXVyYW50cy1iYXJzL2FydGljbGUvaG91c3Rvbi1yZXN0YXVyYW50cy1vcGVuLWNsb3NlZC1zdG9ybS0xOTQ2NDcwNC5waHDSAQA?oc=5",
         "description": [],
@@ -85,68 +80,20 @@
         "source_name": "Houston Chronicle "
     },
     {
-        "title": "Houston mayor and Hidalgo's first joint event gets awkward - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNocm9uLmNvbS9uZXdzL2FydGljbGUvaGlkYWxnby13aGl0bWlyZS1wcmVzcy1jb25mZXJlbmNlLTE5NDY0MDgzLnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 19:05:45 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "Plan Your Memorial Day Weekend: May 23 to 27, 2024 - 365 Things to Do in Houston",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vMzY1dGhpbmdzaW5ob3VzdG9uLmNvbS8yMDI0LzA1LzE4L3RoaW5ncy10by1kby1tZW1vcmlhbC1kYXktd2Vla2VuZC1ob3VzdG9uLW1heS0yMy0yNy0yMDI0L9IBZ2h0dHBzOi8vMzY1dGhpbmdzaW5ob3VzdG9uLmNvbS8yMDI0LzA1LzE4L3RoaW5ncy10by1kby1tZW1vcmlhbC1kYXktd2Vla2VuZC1ob3VzdG9uLW1heS0yMy0yNy0yMDI0Lz9hbXA?oc=5",
+        "title": "Things To Do for Memorial Day Weekend in Houston: May 23-27, 2024 | 365 Houston - 365 Things to Do in Houston",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vMzY1dGhpbmdzaW5ob3VzdG9uLmNvbS8yMDI0LzA1LzE4L3RoaW5ncy10by1kby1tZW1vcmlhbC1kYXktd2Vla2VuZC1ob3VzdG9uLW1heS0yMy0yNy0yMDI0L9IBAA?oc=5",
         "description": [],
         "pub_date": "Sat, 18 May 2024 19:23:21 GMT",
         "source_url": "https://365thingsinhouston.com",
         "source_name": "365 Things to Do in Houston"
     },
     {
-        "title": "Houston ranks No. 7 in new report in best cities in the United States for retirees - KTRK-TV",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvaG91c3Rvbi1yYW5rcy1pbi10b3AtMTAtYmVzdC1jaXRpZXMtZm9yLXJldGlyZWVzLXRleGFzLWN1bHR1cmVtYXAvMTQ4MzkwNDYv0gEA?oc=5",
+        "title": "Houston boil water notice: 100,000 gallons of wastewater contaminates private drinking water supply wells - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvYm9pbC13YXRlci1ub3RpY2UtY2l0eS1vZi1ob3VzdG9uLXdhc3Rld2F0ZXItcHJpdmF0ZS13ZWxsLzE0ODM0NzcyL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Sat, 18 May 2024 22:29:57 GMT",
+        "pub_date": "Sat, 18 May 2024 01:48:41 GMT",
         "source_url": "https://abc13.com",
         "source_name": "KTRK-TV"
-    },
-    {
-        "title": "Complete roadway closure on SH-249 following vehicle fire - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL25ld3MvbG9jYWwvMjAyNC8wNS8xOS9jb21wbGV0ZS1yb2Fkd2F5LWNsb3N1cmUtb24tc2gtMjQ5LWZvbGxvd2luZy12ZWhpY2xlLWZpcmUv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 00:33:51 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Houston late-night favorite embroiled in ownership dispute - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNocm9uLmNvbS9mb29kL2FydGljbGUveW95b3MtaG90LWRvZy1vd25lci1maWdodC0xOTQ1ODEzNy5waHDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 10:19:12 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "East Houston TPC chemical plant released fiery flare during storm - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL2J1c2luZXNzL2VuZXJneS9hcnRpY2xlL2ZsYXJpbmctYWlyLXBvbGx1dGlvbi1zdG9ybS1ob3VzdG9uLTE5NDYzMTQwLnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 17:21:18 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Brazosport Facts Events - MIKE's Somebody Fine Me Trouble Tour - Houston - Brazosport Facts",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGhlZmFjdHMuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQvMTA0ODQ5NDkxbi1taWtlLXMtc29tZWJvZHktZmluZS1tZS10cm91YmxlLXRvdXItaG91c3RvbtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 18:11:36 GMT",
-        "source_url": "https://thefacts.com",
-        "source_name": "Brazosport Facts"
-    },
-    {
-        "title": "High Prices Meet High Demand In Houston, 'The Most Interesting Condo Market In The Country' - Bisnow",
-        "link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5iaXNub3cuY29tL2hvdXN0b24vbmV3cy9jb21tZXJjaWFsLXJlYWwtZXN0YXRlL2hpZ2gtcHJpY2VzLW1lZXQtaGlnaC1kZW1hbmQtaW4taG91c3Rvbi10aGUtbW9zdC1pbnRlcmVzdGluZy1jb25kby1tYXJrZXQtaW4tdGhlLWNvdW50cnktMTI0MzA20gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 01:01:51 GMT",
-        "source_url": "https://www.bisnow.com",
-        "source_name": "Bisnow"
     },
     {
         "title": "Houston is behaving! Authorities report no looting incidents - KPRC Click2Houston",
@@ -157,10 +104,26 @@
         "source_name": "KPRC Click2Houston"
     },
     {
-        "title": "City of Houston considers selling 2.99 acres to TxDOT for I-45 expansion - KTRK-TV",
-        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2FiYzEzLmNvbS9wb3N0L2ktNDUtZXhwYW5zaW9uLXByb2plY3QtaG91c3Rvbi1jb25zaWRlcnMtc2VsbGluZy0yOTktYWNyZXMtYWxvbmctd2hpdGUtb2FrLWJheW91LXR4ZG90LWNvbnN0cnVjdGlvbi8xNDgyODA2OC_SAQA?oc=5",
+        "title": "Brazosport Facts Events - MIKE's Somebody Fine Me Trouble Tour - Houston - Brazosport Facts",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGhlZmFjdHMuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQvMTA0ODQ5NDkxbi1taWtlLXMtc29tZWJvZHktZmluZS1tZS10cm91YmxlLXRvdXItaG91c3RvbtIBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 17 May 2024 00:48:23 GMT",
+        "pub_date": "Sat, 18 May 2024 18:11:36 GMT",
+        "source_url": "https://thefacts.com",
+        "source_name": "Brazosport Facts"
+    },
+    {
+        "title": "Houston power outage hacks: How to survive without electricity - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL25ld3MvaG91c3Rvbi10ZXhhcy90cmVuZGluZy9hcnRpY2xlL3Bvd2VyLW91dGFnZS1oYWNrcy1jaGFyZ2UtMTk0NjQwNDIucGhw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 17 May 2024 19:12:05 GMT",
+        "source_url": "https://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
+        "title": "'Ancient' oak tree falls on ABC13 Meteorologist Kevin Roth's house - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2FiYzEzLmNvbS9wb3N0L3RleGFzLXN0b3JtLWRhbWFnZS1vYWstdHJlZS1mYWxscy1vbi1hYmMxMy1tZXRlb3JvbG9naXN0LWtldmluLXJvdGhzLXlhcmQtd2VzdC1ob3VzdG9uLXN0cm9uZy13aW5kcy8xNDgzMzcxMC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 17 May 2024 21:47:43 GMT",
         "source_url": "https://abc13.com",
         "source_name": "KTRK-TV"
     },
@@ -173,20 +136,12 @@
         "source_name": "CultureMap Houston"
     },
     {
-        "title": "'Crazy Rich Asians' author Kevin Kwan releases new book - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNocm9uLmNvbS9jdWx0dXJlL2FydGljbGUvaG91c3Rvbi1rZXZpbi1rd2FuLW5ldy1ib29rLTE5NDU1MDUzLnBocNIBAA?oc=5",
+        "title": "Annise Parker Presides Over Her Last Houston Victory Fund Event - outsmartmagazine.com",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm91dHNtYXJ0bWFnYXppbmUuY29tLzIwMjQvMDUvYW5uaXNlLXBhcmtlci1yZXRpcmluZy1sZ2J0cS12aWN0b3J5LWZ1bmQv0gEA?oc=5",
         "description": [],
-        "pub_date": "Fri, 17 May 2024 10:20:52 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "List: Red Cross shelters offering aid to storm-affected residents and pets - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL25ld3MvbG9jYWwvMjAyNC8wNS8xOC9saXN0LXJlZC1jcm9zcy1zaGVsdGVycy1vZmZlcmluZy1haWQtdG8tc3Rvcm0tYWZmZWN0ZWQtcmVzaWRlbnRzLWFuZC1wZXRzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 11:17:57 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
+        "pub_date": "Sun, 19 May 2024 01:56:15 GMT",
+        "source_url": "https://www.outsmartmagazine.com",
+        "source_name": "outsmartmagazine.com"
     },
     {
         "title": "Houston orchestra performs by cellphone light after storm - Houston Chronicle ",
@@ -197,12 +152,20 @@
         "source_name": "Houston Chronicle "
     },
     {
-        "title": "RENOWNED HOUSTON CIVIL RIGHTS LEADER, DIES AT 95 - African American News and Issues",
-        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vYWZyYW1uZXdzLmNvbS9yZW5vd25lZC1ob3VzdG9uLWNpdmlsLXJpZ2h0cy1sZWFkZXItZGllcy1hdC05NS_SAQA?oc=5",
+        "title": "'Crazy Rich Asians' author Kevin Kwan releases new book - Chron",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNocm9uLmNvbS9jdWx0dXJlL2FydGljbGUvaG91c3Rvbi1rZXZpbi1rd2FuLW5ldy1ib29rLTE5NDU1MDUzLnBocNIBAA?oc=5",
         "description": [],
-        "pub_date": "Sat, 18 May 2024 16:38:51 GMT",
-        "source_url": "https://aframnews.com",
-        "source_name": "African American News and Issues"
+        "pub_date": "Fri, 17 May 2024 10:20:52 GMT",
+        "source_url": "https://www.chron.com",
+        "source_name": "Chron"
+    },
+    {
+        "title": "'God bless you:' Neighbors helping neighbors trough their darkest days after tornado - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTgvZ29kLWJsZXNzLXlvdS1uZWlnaGJvcnMtaGVscGluZy1uZWlnaGJvcnMtdHJvdWdoLXRoZWlyLWRhcmtlc3QtZGF5cy1hZnRlci10b3JuYWRvL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 01:42:46 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
     },
     {
         "title": "ABC7 news anchor to tell story on legacy about Niesi soldiers during World War II at Alley Theatre - KTRK-TV",
@@ -213,22 +176,6 @@
         "source_name": "KTRK-TV"
     },
     {
-        "title": "Redevelopment authority willing to make modifications to Shepherd-Durham project, Houston mayor says - Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5ob3VzdG9ucHVibGljbWVkaWEub3JnL2FydGljbGVzL25ld3MvdHJhbnNwb3J0YXRpb24vMjAyNC8wNS8xNi80ODc3NzcvcmVkZXZlbG9wbWVudC1hdXRob3JpdHktd2lsbGluZy10by1tYWtlLW1vZGlmaWNhdGlvbnMtdG8tc2hlcGhlcmQtZHVyaGFtLXByb2plY3QtaG91c3Rvbi1tYXlvci1zYXlzL9IBvAFodHRwczovL3d3dy5ob3VzdG9ucHVibGljbWVkaWEub3JnL2FydGljbGVzL25ld3MvdHJhbnNwb3J0YXRpb24vMjAyNC8wNS8xNi80ODc3NzcvcmVkZXZlbG9wbWVudC1hdXRob3JpdHktd2lsbGluZy10by1tYWtlLW1vZGlmaWNhdGlvbnMtdG8tc2hlcGhlcmQtZHVyaGFtLXByb2plY3QtaG91c3Rvbi1tYXlvci1zYXlzLz9hbXA9MQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 21:50:20 GMT",
-        "source_url": "https://www.houstonpublicmedia.org",
-        "source_name": "Houston Public Media"
-    },
-    {
-        "title": "Does insurance cover spoiled food during power outages? - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL25ld3MvbG9jYWwvMjAyNC8wNS8xNy9kb2VzLWluc3VyYW5jZS1jb3Zlci1zcG9pbGVkLWZvb2QtZHVyaW5nLXBvd2VyLW91dGFnZXMv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 12:04:06 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
         "title": "Brazosport Facts Events - Slater Live: Houston, TX - Brazosport Facts",
         "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlZmFjdHMuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQvMTA0OTk1NzQ5bi1zbGF0ZXItbGl2ZS1ob3VzdG9uLXR40gEA?oc=5",
         "description": [],
@@ -237,44 +184,20 @@
         "source_name": "Brazosport Facts"
     },
     {
-        "title": "Homeless couple's dog shot by HPD, according to police and couple - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL25ld3MvaG91c3Rvbi10ZXhhcy9ob3VzaW5nL2FydGljbGUvaG9tZWxlc3MtY291cGxlLWRvZy1zaG90LWJ5LXBvbGljZS0xOTQ0OTE1My5waHDSAQA?oc=5",
+        "title": "East Houston TPC chemical plant released fiery flare during storm - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL2J1c2luZXNzL2VuZXJneS9hcnRpY2xlL2ZsYXJpbmctYWlyLXBvbGx1dGlvbi1zdG9ybS1ob3VzdG9uLTE5NDYzMTQwLnBocNIBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 17 May 2024 11:10:31 GMT",
+        "pub_date": "Fri, 17 May 2024 17:21:18 GMT",
         "source_url": "https://www.houstonchronicle.com",
         "source_name": "Houston Chronicle "
     },
     {
-        "title": "Houston's best rave party of the 2000s is back for one night - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNocm9uLmNvbS9jdWx0dXJlL211c2ljL2FydGljbGUvaG91c3Rvbi1yYXZlLXBhcnR5LTE5NDYwMTA1LnBocNIBAA?oc=5",
+        "title": "How long does food stay good in the fridge after power goes out - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvd2VhdGhlci9yZWZyaWdlcmF0b3ItZnJlZXplci1mb29kLXBvd2VyLW91dGFnZXMvMjg1LTZkNmVhMTY3LTg3MmUtNDEzYi04ZTg1LWJmMTNjOWM5OWNmYtIBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 16 May 2024 21:03:50 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "How to stay safe during a tornado threat - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5raG91LmNvbS9hcnRpY2xlL3dlYXRoZXIvdG9ybmFkby13YXJuaW5ncy1pbi1ob3VzdG9uLWFyZWEtaG93LXRvLXByb3RlY3QteW91cnNlbGYtYW5kLXlvdXItZmFtaWx5LzI4NS01MTZiNjE0Zi1kNDBiLTQ5NTMtYmNlNi0zYzRiZGFjYWMzMzXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 23:30:00 GMT",
+        "pub_date": "Fri, 17 May 2024 05:52:00 GMT",
         "source_url": "https://www.khou.com",
         "source_name": "KHOU.com"
-    },
-    {
-        "title": "ABC7 Eyewitness News anchor David Ono to present 'Defining Courage' at Alley Theatre - KTRK-TV",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvYWJjNy1hbmNob3ItZGF2aWQtb25vLWFsbGV5LXRoZWF0cmUtc2hvdy1kZWZpbmluZy1jb3VyYWdlLWNvbWVzLXRvLWhvdXN0b24tb24tbWF5LTIwLzE0ODM4NDM5L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 21:37:08 GMT",
-        "source_url": "https://abc13.com",
-        "source_name": "KTRK-TV"
-    },
-    {
-        "title": "Houston ISD's Mike Miles says his team saved the district from falling off a fiscal cliff with tough cuts - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTYvbGl2ZS1ob3VzdG9uLWlzZC1zdXBlcmludGVuZGVudC1taWtlLW1pbGVzLWdpdmVzLWJ1ZGdldC11cGRhdGUtYW5zd2Vycy1xdWVzdGlvbnMtYW1pZC1ncm93aW5nLWNhbGxzLWZvci1pbnZlc3RpZ2F0aW9uL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 20:51:58 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
     },
     {
         "title": "Investigation into Fatal Crash at 4400 North Freeway \u2013 City of Houston | Newsroom - City of Houston | Newsroom",
@@ -285,28 +208,60 @@
         "source_name": "City of Houston | Newsroom"
     },
     {
-        "title": "Great Austin chefs hit the road for Houston's Southern Smoke Festival in 2024 - CultureMap Austin",
-        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL2F1c3Rpbi5jdWx0dXJlbWFwLmNvbS9uZXdzL3Jlc3RhdXJhbnRzLWJhcnMvaG91c3Rvbi1zLXNvdXRoZXJuLXNtb2tlLWZlc3RpdmFsLWZpcmVzLXVwLWxvYWRlZC0yMDI0LWxpbmV1cC1vZi1zdGFyLWNoZWZzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 19:38:00 GMT",
-        "source_url": "https://austin.culturemap.com",
-        "source_name": "CultureMap Austin"
-    },
-    {
-        "title": "Houston mayor says return to transit basics delivers 'bold things' - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ob3VzdG9uY2hyb25pY2xlLmNvbS9uZXdzL2hvdXN0b24tdGV4YXMvdHJhbnNwb3J0YXRpb24vYXJ0aWNsZS93aGl0bWlyZS10YWctbW9iaWxpdHktdHhkb3QtbWV0cm8tYmljeWNsaW5nLTE5NDU5NDQ0LnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 22:32:58 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
         "title": "AANHPI Amplified at Avenida Houston | Live Music Event in Houston, TX - Visit Houston",
         "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnZpc2l0aG91c3RvbnRleGFzLmNvbS9ldmVudC9hYW5ocGktYW1wbGlmaWVkLWF0LWF2ZW5pZGEtaG91c3Rvbi8xMDQzNjMv0gEA?oc=5",
         "description": [],
         "pub_date": "Sat, 18 May 2024 16:28:20 GMT",
         "source_url": "https://www.visithoustontexas.com",
         "source_name": "Visit Houston"
+    },
+    {
+        "title": "Houston mayor and Hidalgo's first joint event gets awkward - Chron",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNocm9uLmNvbS9uZXdzL2FydGljbGUvaGlkYWxnby13aGl0bWlyZS1wcmVzcy1jb25mZXJlbmNlLTE5NDY0MDgzLnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 17 May 2024 19:05:45 GMT",
+        "source_url": "https://www.chron.com",
+        "source_name": "Chron"
+    },
+    {
+        "title": "High Prices Meet High Demand In Houston, 'The Most Interesting Condo Market In The Country' - Bisnow",
+        "link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5iaXNub3cuY29tL2hvdXN0b24vbmV3cy9jb21tZXJjaWFsLXJlYWwtZXN0YXRlL2hpZ2gtcHJpY2VzLW1lZXQtaGlnaC1kZW1hbmQtaW4taG91c3Rvbi10aGUtbW9zdC1pbnRlcmVzdGluZy1jb25kby1tYXJrZXQtaW4tdGhlLWNvdW50cnktMTI0MzA20gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 17 May 2024 01:01:51 GMT",
+        "source_url": "https://www.bisnow.com",
+        "source_name": "Bisnow"
+    },
+    {
+        "title": "Houston ranks No. 7 in new report in best cities in the United States for retirees - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvaG91c3Rvbi1yYW5rcy1pbi10b3AtMTAtYmVzdC1jaXRpZXMtZm9yLXJldGlyZWVzLXRleGFzLWN1bHR1cmVtYXAvMTQ4MzkwNDYv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 22:29:57 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "KTRK-TV"
+    },
+    {
+        "title": "Rescued Pets Movement seeks donations after storm knocks out portion of facility's roof - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTgvcmVzY3VlZC1wZXRzLW1vdmVtZW50LXNlZWtzLWRvbmF0aW9ucy1hZnRlci1zdG9ybS1rbm9ja3Mtb3V0LXBvcnRpb24tb2YtZmFjaWxpdHlzLXJvb2Yv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 21:50:33 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "How to stay safe during a tornado threat - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5raG91LmNvbS9hcnRpY2xlL3dlYXRoZXIvdG9ybmFkby13YXJuaW5ncy1pbi1ob3VzdG9uLWFyZWEtaG93LXRvLXByb3RlY3QteW91cnNlbGYtYW5kLXlvdXItZmFtaWx5LzI4NS01MTZiNjE0Zi1kNDBiLTQ5NTMtYmNlNi0zYzRiZGFjYWMzMzXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 16 May 2024 23:30:00 GMT",
+        "source_url": "https://www.khou.com",
+        "source_name": "KHOU.com"
+    },
+    {
+        "title": "Houston late-night favorite embroiled in ownership dispute - Chron",
+        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNocm9uLmNvbS9mb29kL2FydGljbGUveW95b3MtaG90LWRvZy1vd25lci1maWdodC0xOTQ1ODEzNy5waHDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 17 May 2024 10:19:12 GMT",
+        "source_url": "https://www.chron.com",
+        "source_name": "Chron"
     },
     {
         "title": "Design experts and real estate pros celebrate posh plumbing brand's Houston return - CultureMap Houston",
@@ -317,6 +272,22 @@
         "source_name": "CultureMap Houston"
     },
     {
+        "title": "Redevelopment authority willing to make modifications to Shepherd-Durham project, Houston mayor says - Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5ob3VzdG9ucHVibGljbWVkaWEub3JnL2FydGljbGVzL25ld3MvdHJhbnNwb3J0YXRpb24vMjAyNC8wNS8xNi80ODc3NzcvcmVkZXZlbG9wbWVudC1hdXRob3JpdHktd2lsbGluZy10by1tYWtlLW1vZGlmaWNhdGlvbnMtdG8tc2hlcGhlcmQtZHVyaGFtLXByb2plY3QtaG91c3Rvbi1tYXlvci1zYXlzL9IBvAFodHRwczovL3d3dy5ob3VzdG9ucHVibGljbWVkaWEub3JnL2FydGljbGVzL25ld3MvdHJhbnNwb3J0YXRpb24vMjAyNC8wNS8xNi80ODc3NzcvcmVkZXZlbG9wbWVudC1hdXRob3JpdHktd2lsbGluZy10by1tYWtlLW1vZGlmaWNhdGlvbnMtdG8tc2hlcGhlcmQtZHVyaGFtLXByb2plY3QtaG91c3Rvbi1tYXlvci1zYXlzLz9hbXA9MQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 16 May 2024 21:50:20 GMT",
+        "source_url": "https://www.houstonpublicmedia.org",
+        "source_name": "Houston Public Media"
+    },
+    {
+        "title": "Things to do in Houston: Greek Fest, The Music of Star Wars - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL2VudGVydGFpbm1lbnQvc3BlY2lhbF9ldmVudHMvYXJ0aWNsZS90aGluZ3MtdG8tZG8taG91c3Rvbi1zdGFyLXdhcnMtMTk0NTk0MjcucGhw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 16 May 2024 11:14:20 GMT",
+        "source_url": "https://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
         "title": "Beltway 8 closes lanes at Bellaire Blvd. for several days - CW39 Houston",
         "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY3czOS5jb20vbmV3cy9iZWx0d2F5LTgtY2xvc2VzLWxhbmVzLWF0LWJlbGxhaXJlLWJsdmQtZm9yLXNldmVyYWwtZGF5cy_SAVNodHRwczovL2N3MzkuY29tL25ld3MvYmVsdHdheS04LWNsb3Nlcy1sYW5lcy1hdC1iZWxsYWlyZS1ibHZkLWZvci1zZXZlcmFsLWRheXMvYW1wLw?oc=5",
         "description": [],
@@ -325,44 +296,76 @@
         "source_name": "CW39 Houston"
     },
     {
-        "title": "Houston power players unveil River Oaks' newest party spot - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNocm9uLmNvbS9mb29kL2FydGljbGUvaG91c3Rvbi1uaWdodGxpZmUtY2xlLWZhbmN5cy10ZXhhcy0xOTQ2NDE1My5waHDSAQA?oc=5",
+        "title": "Here's what you need to know before starting your generator during power outages across Houston area - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzLzIwMjQvMDUvMTcvaGVyZXMtd2hhdC15b3UtbmVlZC10by1rbm93LWJlZm9yZS1zdGFydGluZy15b3VyLWdlbmVyYXRvci1kdXJpbmctcG93ZXItb3V0YWdlcy1hY3Jvc3MtaG91c3Rvbi1hcmVhL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 17 May 2024 21:51:21 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "Summer weather in Houston: Above-average heat and rain predicted - FOX 26 Houston",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveDI2aG91c3Rvbi5jb20vbmV3cy9ob3VzdG9ucy1zdW1tZXItd2VhdGhlci1hYm92ZS1hdmVyYWdlLWhlYXQtYW5kLXJhaW4tcHJlZGljdGVk0gFjaHR0cHM6Ly93d3cuZm94MjZob3VzdG9uLmNvbS9uZXdzL2hvdXN0b25zLXN1bW1lci13ZWF0aGVyLWFib3ZlLWF2ZXJhZ2UtaGVhdC1hbmQtcmFpbi1wcmVkaWN0ZWQuYW1w?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 19:34:26 GMT",
-        "source_url": "https://www.fox26houston.com",
-        "source_name": "FOX 26 Houston"
-    },
-    {
-        "title": "'Grave concerns': Rep. Sylvia Garcia calls for federal audit into Houston ISD Sup. Mike Miles' Colorado school - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTYvZ3JhdmUtY29uY2VybnMtcmVwLXN5bHZpYS1nYXJjaWEtY2FsbHMtZm9yLWZlZGVyYWwtYXVkaXQtaW50by1ob3VzdG9uLWlzZC1zdXAtbWlrZS1taWxlcy1jb2xvcmFkby1zY2hvb2wv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 17:01:48 GMT",
+        "pub_date": "Fri, 17 May 2024 20:27:22 GMT",
         "source_url": "https://www.click2houston.com",
         "source_name": "KPRC Click2Houston"
     },
     {
-        "title": "In the Houston area, who's in charge of what during a major storm - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL3BvbGl0aWNzL2hvdXN0b24vYXJ0aWNsZS9oYXJyaXMtY291bnR5LW1ham9yLXN0b3JtLXJlc3BvbnNlLTE5NDI5NDU3LnBocNIBAA?oc=5",
+        "title": "Houston Galleria to undergo multimillion-dollar renovation - Chron",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNocm9uLmNvbS9uZXdzL2hvdXN0b24tdGV4YXMvYXJ0aWNsZS9nYWxsZXJpYS1ob3VzdG9uLXJlbm92YXRpb25zLTE5NDY1NTUyLnBocNIBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 16 May 2024 20:47:48 GMT",
+        "pub_date": "Sat, 18 May 2024 15:59:24 GMT",
+        "source_url": "https://www.chron.com",
+        "source_name": "Chron"
+    },
+    {
+        "title": "City of Houston considers selling 2.99 acres to TxDOT for I-45 expansion - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2FiYzEzLmNvbS9wb3N0L2ktNDUtZXhwYW5zaW9uLXByb2plY3QtaG91c3Rvbi1jb25zaWRlcnMtc2VsbGluZy0yOTktYWNyZXMtYWxvbmctd2hpdGUtb2FrLWJheW91LXR4ZG90LWNvbnN0cnVjdGlvbi8xNDgyODA2OC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 17 May 2024 00:48:23 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "KTRK-TV"
+    },
+    {
+        "title": "These Houston Restaurants Are Still Closed After the Derecho Storm - houstonfoodfinder.com",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vaG91c3RvbmZvb2RmaW5kZXIuY29tL25ld3MvdGhlc2UtaG91c3Rvbi1yZXN0YXVyYW50cy1hcmUtc3RpbGwtY2xvc2VkLWFmdGVyLXRoZS1kZXJlY2hvLXN0b3JtL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 21:45:00 GMT",
+        "source_url": "https://houstonfoodfinder.com",
+        "source_name": "houstonfoodfinder.com"
+    },
+    {
+        "title": "Houston's best rave party of the 2000s is back for one night - Chron",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNocm9uLmNvbS9jdWx0dXJlL211c2ljL2FydGljbGUvaG91c3Rvbi1yYXZlLXBhcnR5LTE5NDYwMTA1LnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 16 May 2024 21:03:50 GMT",
+        "source_url": "https://www.chron.com",
+        "source_name": "Chron"
+    },
+    {
+        "title": "Houston ISD's Mike Miles says his team saved the district from falling off a fiscal cliff with tough cuts - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTYvbGl2ZS1ob3VzdG9uLWlzZC1zdXBlcmludGVuZGVudC1taWtlLW1pbGVzLWdpdmVzLWJ1ZGdldC11cGRhdGUtYW5zd2Vycy1xdWVzdGlvbnMtYW1pZC1ncm93aW5nLWNhbGxzLWZvci1pbnZlc3RpZ2F0aW9uL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 16 May 2024 20:51:58 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "ABC7 Eyewitness News anchor David Ono to present 'Defining Courage' at Alley Theatre - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvYWJjNy1hbmNob3ItZGF2aWQtb25vLWFsbGV5LXRoZWF0cmUtc2hvdy1kZWZpbmluZy1jb3VyYWdlLWNvbWVzLXRvLWhvdXN0b24tb24tbWF5LTIwLzE0ODM4NDM5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 21:37:08 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "KTRK-TV"
+    },
+    {
+        "title": "Houston mayor says return to transit basics delivers 'bold things' - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ob3VzdG9uY2hyb25pY2xlLmNvbS9uZXdzL2hvdXN0b24tdGV4YXMvdHJhbnNwb3J0YXRpb24vYXJ0aWNsZS93aGl0bWlyZS10YWctbW9iaWxpdHktdHhkb3QtbWV0cm8tYmljeWNsaW5nLTE5NDU5NDQ0LnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 16 May 2024 22:32:58 GMT",
         "source_url": "https://www.houstonchronicle.com",
         "source_name": "Houston Chronicle "
     },
     {
-        "title": "Houston's population surge: A beacon of southern growth - FOX 26 Houston",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmZveDI2aG91c3Rvbi5jb20vbmV3cy9ob3VzdG9ucy1wb3B1bGF0aW9uLXN1cmdlLWEtYmVhY29uLW9mLXNvdXRoZXJuLWdyb3d0aNIBW2h0dHBzOi8vd3d3LmZveDI2aG91c3Rvbi5jb20vbmV3cy9ob3VzdG9ucy1wb3B1bGF0aW9uLXN1cmdlLWEtYmVhY29uLW9mLXNvdXRoZXJuLWdyb3d0aC5hbXA?oc=5",
+        "title": "Severe Weather Updates - houston food bank",
+        "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmhvdXN0b25mb29kYmFuay5vcmcvc2V2ZXJlLXdlYXRoZXItdXBkYXRlcy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 16 May 2024 18:22:06 GMT",
-        "source_url": "https://www.fox26houston.com",
-        "source_name": "FOX 26 Houston"
+        "pub_date": "Sun, 19 May 2024 00:57:43 GMT",
+        "source_url": "https://www.houstonfoodbank.org",
+        "source_name": "houston food bank"
     },
     {
         "title": "13 Alert Traffic: Pedestrian killed in crash on Highway 90 in east Harris County - KTRK-TV",
@@ -373,28 +376,36 @@
         "source_name": "KTRK-TV"
     },
     {
-        "title": "Congresswoman calls for audit of pandemic-era federal funds received by HISD - FOX 26 Houston",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmZveDI2aG91c3Rvbi5jb20vbmV3cy9ob3VzdG9uLWlzZC1idWRnZXQtZnVuZGluZy1hdWRpdC1wYW5kZW1pYy1mZWRlcmFsLWZ1bmRz0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 19:03:13 GMT",
-        "source_url": "https://www.fox26houston.com",
-        "source_name": "FOX 26 Houston"
-    },
-    {
-        "title": "Study says Houston has one of the lowest inflation problems, but do our pockets beg to differ? - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9tb25leS8yMDI0LzA1LzE2L3N0dWR5LXNheXMtaG91c3Rvbi1oYXMtb25lLW9mLXRoZS1sb3dlc3QtaW5mbGF0aW9uLXByb2JsZW1zLWJ1dC1kby1vdXItcG9ja2V0cy1iZWctdG8tZGlmZmVyL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 17:50:54 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
         "title": "Houston news: WWII veteran, 92, cheated out of $300,000, feds say - KHOU.com",
         "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvbmV3cy9jcmltZS9lbGRlci1mcmF1ZC13b3JsZC13YXItaWktdmV0ZXJhbi1ob3VzdG9uLzI4NS0zYjU4ZmNlNS0xZmI5LTQzMjYtYmIwMC00NTIyMzA3OGY4MmXSAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 16 May 2024 22:18:00 GMT",
         "source_url": "https://www.khou.com",
         "source_name": "KHOU.com"
+    },
+    {
+        "title": "List: Red Cross shelters offering aid to storm-affected residents and pets - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL25ld3MvbG9jYWwvMjAyNC8wNS8xOC9saXN0LXJlZC1jcm9zcy1zaGVsdGVycy1vZmZlcmluZy1haWQtdG8tc3Rvcm0tYWZmZWN0ZWQtcmVzaWRlbnRzLWFuZC1wZXRzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 11:17:57 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Great Austin chefs hit the road for Houston's Southern Smoke Festival in 2024 - CultureMap Austin",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL2F1c3Rpbi5jdWx0dXJlbWFwLmNvbS9uZXdzL3Jlc3RhdXJhbnRzLWJhcnMvaG91c3Rvbi1zLXNvdXRoZXJuLXNtb2tlLWZlc3RpdmFsLWZpcmVzLXVwLWxvYWRlZC0yMDI0LWxpbmV1cC1vZi1zdGFyLWNoZWZzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 16 May 2024 19:38:00 GMT",
+        "source_url": "https://austin.culturemap.com",
+        "source_name": "CultureMap Austin"
+    },
+    {
+        "title": "Midtown drivers still traveling under leaning power pole: 'Definitely a hazard' - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvaG91c3Rvbi13aW5kc3Rvcm0tdGV4YXMtdG9ybmFkby1kYW1hZ2UtY2VudGVycG9pbnQtcG93ZXItcG9sZXMtZG93bi1taWR0b3duLXN0b3JtLzE0ODM0Njk5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 01:43:41 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "KTRK-TV"
     },
     {
         "title": "Houston storm aftermath: SPCA hundreds of wild animals being cared for after destructive storms hit southeast Texas - KTRK-TV",
@@ -405,34 +416,26 @@
         "source_name": "KTRK-TV"
     },
     {
-        "title": "Texas Ranks Third State with Worst Mental Health Support - CW39 Houston",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vY3czOS5jb20vbmV3cy9oZWFsdGgtMi90ZXhhcy1yYW5rcy10aGlyZC1zdGF0ZS13aXRoLXdvcnN0LW1lbnRhbC1oZWFsdGgtc3VwcG9ydC_SAVxodHRwczovL2N3MzkuY29tL25ld3MvaGVhbHRoLTIvdGV4YXMtcmFua3MtdGhpcmQtc3RhdGUtd2l0aC13b3JzdC1tZW50YWwtaGVhbHRoLXN1cHBvcnQvYW1wLw?oc=5",
+        "title": "Houston, Texas storms: Senior facility remains without power - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5raG91LmNvbS9hcnRpY2xlL3dlYXRoZXIvc2VuaW9ycy1wb3dlci1pbmRlcGVuZGVudC1saXZpbmctZmFjaWxpdHktaG91c3Rvbi1oZWlnaHRzLzI4NS0zNjE2ZDk3Yy05Y2Q0LTQ0NzYtYjEwNS0zZWRlOGE4NTZmOGLSAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 18 May 2024 16:00:00 GMT",
-        "source_url": "https://cw39.com",
-        "source_name": "CW39 Houston"
-    },
-    {
-        "title": "Search for Houston police chief continues; DPD chief is staying - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5raG91LmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvZGFsbGFzLXBvbGljZS1jaGllZi1lZGRpZS1nYXJjaWEtbm90LWNvbWluZy10by1ob3VzdG9uLzI4NS02NGRkZTBmMC00M2Y1LTQ5NmYtOTk0MS01MzMyMDg4NTczYTTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 18:29:00 GMT",
+        "pub_date": "Sun, 19 May 2024 03:23:00 GMT",
         "source_url": "https://www.khou.com",
         "source_name": "KHOU.com"
     },
     {
-        "title": "Ask 2: Is it okay to turn on your hazard lights while driving in inclement weather? - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTcvYXNrLTItaXMtaXQtb2theS10by10dXJuLW9uLXlvdXItaGF6YXJkLWxpZ2h0cy13aGlsZS1kcml2aW5nLWluLWluY2xlbWVudC13ZWF0aGVyL9IBAA?oc=5",
+        "title": "Useful tips on how to sort through storm debris during cleanup - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL25ld3MvbG9jYWwvMjAyNC8wNS8xNy91c2VmdWwtdGlwcy1vbi1ob3ctdG8tc29ydC10aHJvdWdoLXN0b3JtLWRlYnJpcy1kdXJpbmctY2xlYW51cC_SAQA?oc=5",
         "description": [],
-        "pub_date": "Fri, 17 May 2024 20:01:40 GMT",
+        "pub_date": "Fri, 17 May 2024 16:17:43 GMT",
         "source_url": "https://www.click2houston.com",
         "source_name": "KPRC Click2Houston"
     },
     {
-        "title": "Metro PD lieutenant accused of hitting her ex with work SUV - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL25ld3MvaG91c3Rvbi10ZXhhcy9jcmltZS9hcnRpY2xlL2hvdXN0b24tbWV0cm8tcGQtZXgtYm95ZnJpZW5kLXN1di0xOTQ2MTk2MS5waHDSAQA?oc=5",
+        "title": "Houston storm prep: What to have in your emergency kit - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL25ld3MvaG91c3Rvbi10ZXhhcy90cmVuZGluZy9hcnRpY2xlL3N0b3JtLWh1cnJpY2FuZS1lbWVyZ2VuY3kta2l0LXByZXAtMTk0NjM2NzgucGhw0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 16 May 2024 20:12:43 GMT",
+        "pub_date": "Fri, 17 May 2024 15:25:24 GMT",
         "source_url": "https://www.houstonchronicle.com",
         "source_name": "Houston Chronicle "
     },
@@ -445,86 +448,6 @@
         "source_name": "KFDM-TV News"
     },
     {
-        "title": "Houston Galleria to undergo multimillion-dollar renovation - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNocm9uLmNvbS9uZXdzL2hvdXN0b24tdGV4YXMvYXJ0aWNsZS9nYWxsZXJpYS1ob3VzdG9uLXJlbm92YXRpb25zLTE5NDY1NTUyLnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 15:59:24 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "Man accused in ambush at SE Houston gas station that killed son of Dominican politician appears in court - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTYvbWFuLWFjY3VzZWQtaW4tYW1idXNoLWF0LXNlLWhvdXN0b24tZ2FzLXN0YXRpb24tdGhhdC1raWxsZWQtc29uLW9mLWRvbWluaWNhbi1wb2xpdGljaWFuLWFwcGVhcnMtaW4tY291cnQv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 20:04:06 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Midtown drivers still traveling under leaning power pole: 'Definitely a hazard' - KTRK-TV",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvaG91c3Rvbi13aW5kc3Rvcm0tdGV4YXMtdG9ybmFkby1kYW1hZ2UtY2VudGVycG9pbnQtcG93ZXItcG9sZXMtZG93bi1taWR0b3duLXN0b3JtLzE0ODM0Njk5L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 01:43:41 GMT",
-        "source_url": "https://abc13.com",
-        "source_name": "KTRK-TV"
-    },
-    {
-        "title": "'Ancient' oak tree falls on ABC13 Meteorologist Kevin Roth's house - KTRK-TV",
-        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2FiYzEzLmNvbS9wb3N0L3RleGFzLXN0b3JtLWRhbWFnZS1vYWstdHJlZS1mYWxscy1vbi1hYmMxMy1tZXRlb3JvbG9naXN0LWtldmluLXJvdGhzLXlhcmQtd2VzdC1ob3VzdG9uLXN0cm9uZy13aW5kcy8xNDgzMzcxMC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 21:47:43 GMT",
-        "source_url": "https://abc13.com",
-        "source_name": "KTRK-TV"
-    },
-    {
-        "title": "Useful tips on how to sort through storm debris during cleanup - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL25ld3MvbG9jYWwvMjAyNC8wNS8xNy91c2VmdWwtdGlwcy1vbi1ob3ctdG8tc29ydC10aHJvdWdoLXN0b3JtLWRlYnJpcy1kdXJpbmctY2xlYW51cC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 16:17:43 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Texas judge orders new election after GOP lawsuit challenged 2022 election result in Houston area - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL25ld3MvcG9saXRpY3MvYXJ0aWNsZS90ZXhhcy1qdWRnZS1vcmRlcnMtbmV3LWVsZWN0aW9uLWFmdGVyLWdvcC1sYXdzdWl0LTE5NDYyMDU0LnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 18:22:06 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Video appears to show funnel cloud in Cypress area - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNsaWNrMmhvdXN0b24uY29tL3ZpZGVvL25ld3MvMjAyNC8wNS8xNi92aWRlby1hcHBlYXJzLXRvLXNob3ctZnVubmVsLWNsb3VkLWluLWN5cHJlc3MtYXJlYS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 23:48:12 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Crescent and SilverBow to merge in $2B deal focused on Eagle Ford - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL2J1c2luZXNzL2VuZXJneS9hcnRpY2xlL2NyZXNjZW50LXNpbHZlcmJvdy1vaWwtbWVyZ2VyLTE5NDYxODgzLnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 16 May 2024 18:56:59 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Houston storm prep: What to have in your emergency kit - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL25ld3MvaG91c3Rvbi10ZXhhcy90cmVuZGluZy9hcnRpY2xlL3N0b3JtLWh1cnJpY2FuZS1lbWVyZ2VuY3kta2l0LXByZXAtMTk0NjM2NzgucGhw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 15:25:24 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Houston storms May 16: How to safely use a generator | khou.com - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvbmV3cy9sb2NhbC9ob3VzdG9uLXN0b3Jtcy1nZW5lcmF0b3Itc2FmZXR5LzI4NS1mYjFhZjgwYS1jOWNhLTRiYzAtYmJmYS02OTQ1OWFlODRlNznSAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 17 May 2024 04:36:00 GMT",
-        "source_url": "https://www.khou.com",
-        "source_name": "KHOU.com"
-    },
-    {
         "title": "Houston, Texas flooding | Parts of Southeast Texas at high risk - KHOU.com",
         "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvd2VhdGhlci9ob3VzdG9uLXRleGFzLWhpZ2gtcmlzay1mbG9vZGluZy1yYWluZmFsbC8yODUtZjcwOTZlZmQtMTY0MC00NDZjLWE0MmEtOGM4Mjc2OWJlNzcy0gEA?oc=5",
         "description": [],
@@ -533,12 +456,37 @@
         "source_name": "KHOU.com"
     },
     {
-        "title": "Houston distributes water as more than 500,000 remain without power after devastating storms - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd2VhdGhlci9ob3VzdG9uLWRpc3RyaWJ1dGVzLXdhdGVyLTUwMDAwMC1yZW1haW4tcG93ZXItZGV2YXN0YXRpbmctc3Rvcm1zLXJjbmExNTI5MDjSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTUyOTA4?oc=5",
+        "title": "Hundreds of thousands still without power amid high temperatures after deadly storms in Houston area - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xOC93ZWF0aGVyL2hvdXN0b24tc3Rvcm1zLXBvd2VyLXNldmVyZS13ZWF0aGVyLXNvdXRoL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA1LzE4L3dlYXRoZXIvaG91c3Rvbi1zdG9ybXMtcG93ZXItc2V2ZXJlLXdlYXRoZXItc291dGg?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xOC93ZWF0aGVyL2hvdXN0b24tc3Rvcm1zLXBvd2VyLXNldmVyZS13ZWF0aGVyLXNvdXRoL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA1LzE4L3dlYXRoZXIvaG91c3Rvbi1zdG9ybXMtcG93ZXItc2V2ZXJlLXdlYXRoZXItc291dGg?oc=5",
+                "text": "Hundreds of thousands still without power amid high temperatures after deadly storms in Houston area"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL2FjY3VzdG9tZWQtZGlzYXN0ZXJzLWhvdXN0b24tZGlkbi10LTE0MTUzNDY5OS5odG1s0gEA?oc=5",
+                "text": "Accustomed to Disasters, Houston Didn't See This One Coming"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vYWJjMTMuY29tL3ZpZGVvQ2xpcC8xNDg0MDIxMi_SAQA?oc=5",
+                "text": "Cleanup underway in Cypress area after tornado hits area"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd2VhdGhlci5jb20vc3Rvcm1zL3NldmVyZS92aWRlby90b3JuYWRvLWNhdWdodC1vbi1zdXJ2ZWlsbGFuY2UtY2FtZXJh0gEA?oc=5",
+                "text": "Tornado Caught On Surveillance Camera - Videos from The Weather Channel"
+            }
+        ],
+        "pub_date": "Sun, 19 May 2024 03:26:00 GMT",
+        "source_url": "https://www.cnn.com",
+        "source_name": "CNN"
+    },
+    {
+        "title": "Verbal fight turns fatal after woman stabs man at southeast Houston apartment complex - KTRK-TV",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvaG91c3Rvbi1kZWFkbHktc3RhYmJpbmctd2VuZGEtY3VsbGVuLXBhcmstYXBhcnRtZW50LWNvdXBsZS1maWdodC8xNDgzOTM5OS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 18 May 2024 17:02:11 GMT",
-        "source_url": "https://www.nbcnews.com",
-        "source_name": "NBC News"
+        "pub_date": "Sat, 18 May 2024 23:52:22 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "KTRK-TV"
     },
     {
         "title": "Houston storms leave 7 dead, buildings shattered and power outages may last weeks - AccuWeather",
@@ -549,6 +497,22 @@
         "source_name": "AccuWeather"
     },
     {
+        "title": "FOX 26 Houston Weather Forecast - FOX 26 Houston",
+        "link": "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmZveDI2aG91c3Rvbi5jb20vdmlkZW8vMTQ1ODA1OdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 23:43:00 GMT",
+        "source_url": "https://www.fox26houston.com",
+        "source_name": "FOX 26 Houston"
+    },
+    {
+        "title": "What Happens Next For People In Houston? - Videos from The Weather Channel - The Weather Channel",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd2VhdGhlci5jb20vbmV3cy93ZWF0aGVyL3ZpZGVvL3doYXQtaGFwcGVucy1uZXh0LWZvci1wZW9wbGUtaW4taG91c3RvbtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 12:45:19 GMT",
+        "source_url": "https://weather.com",
+        "source_name": "The Weather Channel"
+    },
+    {
         "title": "Powerful storm causes multiple deaths and widespread damage in Houston - NBC News",
         "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25pZ2h0bHktbmV3cy92aWRlby9wb3dlcmZ1bC1zdG9ybS1jYXVzZS1tdWx0aXBsZS1kZWF0aHMtYW5kLXdpZGVzcHJlYWQtZGFtYWdlLWluLWhvdXN0b24tMjExMTYyNjkzOTQw0gE3aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAtdmlkZW8vbW12bzIxMTE2MjY5Mzk0MA?oc=5",
         "description": [],
@@ -557,12 +521,12 @@
         "source_name": "NBC News"
     },
     {
-        "title": "Verbal fight turns fatal after woman stabs man at southeast Houston apartment complex - KTRK-TV",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYWJjMTMuY29tL3Bvc3QvaG91c3Rvbi1kZWFkbHktc3RhYmJpbmctd2VuZGEtY3VsbGVuLXBhcmstYXBhcnRtZW50LWNvdXBsZS1maWdodC8xNDgzOTM5OS_SAQA?oc=5",
+        "title": "Building heat & humidity to turn dangerous for those without power following deadly Houston storms - AccuWeather",
+        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5hY2N1d2VhdGhlci5jb20vZW4vc2V2ZXJlLXdlYXRoZXIvYnVpbGRpbmctaGVhdC1odW1pZGl0eS10by10dXJuLWRhbmdlcm91cy1mb3ItdGhvc2Utd2l0aG91dC1wb3dlci1mb2xsb3dpbmctZGVhZGx5LWhvdXN0b24tc3Rvcm1zLzE2NTEzNTfSAZoBaHR0cHM6Ly93d3cuYWNjdXdlYXRoZXIuY29tL2VuL3NldmVyZS13ZWF0aGVyL2J1aWxkaW5nLWhlYXQtaHVtaWRpdHktdG8tdHVybi1kYW5nZXJvdXMtZm9yLXRob3NlLXdpdGhvdXQtcG93ZXItZm9sbG93aW5nLWRlYWRseS1ob3VzdG9uLXN0b3Jtcy8xNjUxMzU3L2FtcA?oc=5",
         "description": [],
-        "pub_date": "Sat, 18 May 2024 23:52:22 GMT",
-        "source_url": "https://abc13.com",
-        "source_name": "KTRK-TV"
+        "pub_date": "Fri, 17 May 2024 18:15:05 GMT",
+        "source_url": "https://www.accuweather.com",
+        "source_name": "AccuWeather"
     },
     {
         "title": "Mosquitoes are swarming Houston after flooding, storms and warm weather - The Washington Post",
@@ -594,20 +558,43 @@
         "source_name": "The Washington Post"
     },
     {
-        "title": "What Happens Next For People In Houston? - Videos from The Weather Channel - The Weather Channel",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd2VhdGhlci5jb20vbmV3cy93ZWF0aGVyL3ZpZGVvL3doYXQtaGFwcGVucy1uZXh0LWZvci1wZW9wbGUtaW4taG91c3RvbtIBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd2VhdGhlci5jb20vbmV3cy93ZWF0aGVyL3ZpZGVvL3doYXQtaGFwcGVucy1uZXh0LWZvci1wZW9wbGUtaW4taG91c3RvbtIBAA?oc=5",
-                "text": "What Happens Next For People In Houston? - Videos from The Weather Channel"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL2ZveC0yNi1ob3VzdG9uLXdlYXRoZXItZm9yZWNhc3QtMjM0MzU5OTQ3Lmh0bWzSAQA?oc=5",
-                "text": "FOX 26 Houston Weather Forecast"
-            }
-        ],
-        "pub_date": "Sat, 18 May 2024 12:45:19 GMT",
-        "source_url": "https://weather.com",
-        "source_name": "The Weather Channel"
+        "title": "Houston Mayor Whitmire\u2019s proposed 2025 city budget focuses on public safety, infrastructure without raising taxes - Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMiwwFodHRwczovL3d3dy5ob3VzdG9ucHVibGljbWVkaWEub3JnL2FydGljbGVzL25ld3MvY2l0eS1vZi1ob3VzdG9uLzIwMjQvMDUvMTQvNDg3MzkxL2hvdXN0b24tbWF5b3Itd2hpdG1pcmVzLXByb3Bvc2VkLTIwMjUtY2l0eS1idWRnZXQtZm9jdXNlcy1vbi1wdWJsaWMtc2FmZXR5LWluZnJhc3RydWN0dXJlLXdpdGhvdXQtcmFpc2luZy10YXhlcy_SAckBaHR0cHM6Ly93d3cuaG91c3RvbnB1YmxpY21lZGlhLm9yZy9hcnRpY2xlcy9uZXdzL2NpdHktb2YtaG91c3Rvbi8yMDI0LzA1LzE0LzQ4NzM5MS9ob3VzdG9uLW1heW9yLXdoaXRtaXJlcy1wcm9wb3NlZC0yMDI1LWNpdHktYnVkZ2V0LWZvY3VzZXMtb24tcHVibGljLXNhZmV0eS1pbmZyYXN0cnVjdHVyZS13aXRob3V0LXJhaXNpbmctdGF4ZXMvP2FtcD0x?oc=5",
+        "description": [],
+        "pub_date": "Tue, 14 May 2024 21:32:42 GMT",
+        "source_url": "https://www.houstonpublicmedia.org",
+        "source_name": "Houston Public Media"
+    },
+    {
+        "title": "The Northern Lights are visible in parts of Southeast Texas tonight, for real - Space City Weather",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BhY2VjaXR5d2VhdGhlci5jb20vdGhlLW5vcnRoZXJuLWxpZ2h0cy1hcmUtdmlzaWJsZS1pbi1wYXJ0cy1vZi1zb3V0aGVhc3QtdGV4YXMtdG9uaWdodC1mb3ItcmVhbC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 11 May 2024 02:23:03 GMT",
+        "source_url": "https://spacecityweather.com",
+        "source_name": "Space City Weather"
+    },
+    {
+        "title": "City of Houston, METRO break ground on improvement project that will stretch six miles on Westheimer - Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5ob3VzdG9ucHVibGljbWVkaWEub3JnL2FydGljbGVzL2luZnJhc3RydWN0dXJlLzIwMjQvMDUvMDcvNDg2ODYyL2NpdHktb2YtaG91c3Rvbi1tZXRyby1icmVhay1ncm91bmQtb24taW1wcm92ZW1lbnQtcHJvamVjdC10aGF0LXdpbGwtc3RyZXRjaC1zaXgtbWlsZXMtb24td2VzdGhlaW1lci_SAbcBaHR0cHM6Ly93d3cuaG91c3RvbnB1YmxpY21lZGlhLm9yZy9hcnRpY2xlcy9pbmZyYXN0cnVjdHVyZS8yMDI0LzA1LzA3LzQ4Njg2Mi9jaXR5LW9mLWhvdXN0b24tbWV0cm8tYnJlYWstZ3JvdW5kLW9uLWltcHJvdmVtZW50LXByb2plY3QtdGhhdC13aWxsLXN0cmV0Y2gtc2l4LW1pbGVzLW9uLXdlc3RoZWltZXIvP2FtcD0x?oc=5",
+        "description": [],
+        "pub_date": "Tue, 07 May 2024 07:00:00 GMT",
+        "source_url": "https://www.houstonpublicmedia.org",
+        "source_name": "Houston Public Media"
+    },
+    {
+        "title": "'This is not the time:' Harris County judge, Houston mayor clash during severe weather press conference - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMTcvdGhpcy1pcy1ub3QtdGhlLXRpbWUtaGFycmlzLWNvdW50eS1qdWRnZS1ob3VzdG9uLW1heW9yLXNlZW1pbmdseS1jbGFzaC1kdXJpbmctc2V2ZXJlLXdlYXRoZXItcHJlc3MtY29uZmVyZW5jZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 17 May 2024 16:56:04 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Strong thunderstorms are inbound to the Houston area: Please be weather aware this afternoon - Space City Weather",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vc3BhY2VjaXR5d2VhdGhlci5jb20vc3Ryb25nLXRodW5kZXJzdG9ybXMtYXJlLWluYm91bmQtdG8tdGhlLWhvdXN0b24tYXJlYS1wbGVhc2UtYmUtd2VhdGhlci1hd2FyZS10aGlzLWFmdGVybm9vbi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 13 May 2024 18:14:28 GMT",
+        "source_url": "https://spacecityweather.com",
+        "source_name": "Space City Weather"
     }
 ]
