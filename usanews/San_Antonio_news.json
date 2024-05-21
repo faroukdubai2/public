@@ -1,13 +1,5 @@
 [
     {
-        "title": "10 new Asian restaurants opening in San Antonio - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vZm9vZC9hcnRpY2xlL25ldy1hc2lhbi1yZXN0YXVyYW50cy0xOTQ2MDA5My5waHDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 09:11:52 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
-    },
-    {
         "title": "Registration for San Antonio Parks & Recreation summer dance and music classes open Thursday - KSAT San Antonio",
         "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5rc2F0LmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMjAvcmVnaXN0cmF0aW9uLWZvci1zYW4tYW50b25pby1wYXJrcy1yZWNyZWF0aW9uLXN1bW1lci1kYW5jZS1hbmQtbXVzaWMtY2xhc3Nlcy1vcGVuLXRodXJzZGF5L9IBAA?oc=5",
         "description": [],
@@ -16,12 +8,20 @@
         "source_name": "KSAT San Antonio"
     },
     {
-        "title": "Man arrested for armed robbery at park near Texas university - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3JvYmJlcnktc2FuLWFudG9uaW8tcGFyay0xOTQ2ODUwMy5waHDSAQA?oc=5",
+        "title": "10 new Asian restaurants opening in San Antonio - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vZm9vZC9hcnRpY2xlL25ldy1hc2lhbi1yZXN0YXVyYW50cy0xOTQ2MDA5My5waHDSAQA?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 20:06:50 GMT",
+        "pub_date": "Mon, 20 May 2024 09:11:52 GMT",
         "source_url": "https://www.mysanantonio.com",
         "source_name": "mySA"
+    },
+    {
+        "title": "Two teenagers hospitalized after drive-by shooting near downtown, SAPD says - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtzYXQuY29tL25ld3MvbG9jYWwvMjAyNC8wNS8yMS90d28tdGVlbmFnZXJzLWhvc3BpdGFsaXplZC1hZnRlci1kcml2ZS1ieS1zaG9vdGluZy1uZWFyLWRvd250b3duLXNhcGQtc2F5cy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 21 May 2024 02:36:29 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
     },
     {
         "title": "Toyota plans $531.7 million expansion to add 400 jobs in San Antonio - San Antonio Express-News",
@@ -32,6 +32,38 @@
         "source_name": "San Antonio Express-News"
     },
     {
+        "title": "San Antonio sees trend-breaking drop in home prices in 2024 - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vcmVhbGVzdGF0ZS9hcnRpY2xlL3Nhbi1hbnRvbmlvLXJlYWwtZXN0YXRlLXByaWNlcy1kcm9wLTE5NDY3OTc2LnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 17:23:45 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
+    },
+    {
+        "title": "Council members want more 'equity' in senior assistance program to prevent code violations - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5rc2F0LmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMjEvY291bmNpbC1tZW1iZXJzLXdhbnQtbW9yZS1lcXVpdHktaW4tc2VuaW9yLWFzc2lzdGFuY2UtcHJvZ3JhbS10by1wcmV2ZW50LWNvZGUtdmlvbGF0aW9ucy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 21 May 2024 00:58:06 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
+    },
+    {
+        "title": "Whataburger 'lost their way,' entrepreneur says in viral video - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9idXNpbmVzcy9hcnRpY2xlL3doYXRhYnVyZ2VyLWxvc3Qtd2F5LXRlY2gtZW50cmVwcmVuZXVyLXNheXMtMTk0NjcwMTAucGhw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 16:07:30 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "Man arrested for armed robbery at park near Texas university - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3JvYmJlcnktc2FuLWFudG9uaW8tcGFyay0xOTQ2ODUwMy5waHDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 20:06:50 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
+    },
+    {
         "title": "'Common ground' sought as River Road ecosystem restoration heads into design phase - San Antonio Report",
         "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vc2FuYW50b25pb3JlcG9ydC5vcmcvcml2ZXItcm9hZC1lY29zeXN0ZW0tcmVzdG9yYXRpb24tcHJvamVjdC1wdWJsaWMtaW5wdXQtZGVzaWduLXBoYXNlL9IBAA?oc=5",
         "description": [],
@@ -40,10 +72,10 @@
         "source_name": "San Antonio Report"
     },
     {
-        "title": "Whataburger 'lost their way,' entrepreneur says in viral video - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9idXNpbmVzcy9hcnRpY2xlL3doYXRhYnVyZ2VyLWxvc3Qtd2F5LXRlY2gtZW50cmVwcmVuZXVyLXNheXMtMTk0NjcwMTAucGhw0gEA?oc=5",
+        "title": "Concert review: Stevie Nicks casts a spell on San Antonio fans - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9lbnRlcnRhaW5tZW50L2FydGljbGUvc3RldmllLW5pY2tzLXNhbi1hbnRvbmlvLTE5NDY0MTUwLnBocNIBAA?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 16:07:30 GMT",
+        "pub_date": "Sun, 19 May 2024 17:05:11 GMT",
         "source_url": "https://www.expressnews.com",
         "source_name": "San Antonio Express-News"
     },
@@ -56,36 +88,12 @@
         "source_name": "KSAT San Antonio"
     },
     {
-        "title": "Loop 1604 now six lanes across in north San Antonio - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS90cmFmZmljL25ldy1sYW5lcy1vcGVuZWQtbG9vcC0xNjA0LXR4ZG90LXNhbi1hbnRvbmlvLWxvb3AtMTYwNC1ub3J0aC1leHBhbnNpb24tcHJvamVjdC8yNzMtZGM1MWZlMGYtZDIwYi00MDBkLThkNTUtOTliMzU5ODQ2NWQy0gEA?oc=5",
+        "title": "When will it end? Downtown construction puts up roadblocks to business - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL3doZW4td2lsbC1pdC1lbmQtZG93bnRvd24tY29uc3RydWN0aW9uLXB1dHMtdXAtcm9hZGJsb2Nrcy10by1idXNpbmVzcy8yNzMtOTM4MjZiNzctZmE1My00NTVmLTgyNWEtZjcxNzMzYjhjM2Qw0gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 16:14:00 GMT",
+        "pub_date": "Tue, 21 May 2024 03:32:00 GMT",
         "source_url": "https://www.kens5.com",
         "source_name": "KENS5.com"
-    },
-    {
-        "title": "Concert review: Stevie Nicks casts a spell on San Antonio fans - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9lbnRlcnRhaW5tZW50L2FydGljbGUvc3RldmllLW5pY2tzLXNhbi1hbnRvbmlvLTE5NDY0MTUwLnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 17:05:11 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "Sweat-N-Serve event welcomes community members to work out, volunteer on Memorial Day - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5rc2F0LmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMjAvc3dlYXQtbi1zZXJ2ZS1ldmVudC13ZWxjb21lcy1jb21tdW5pdHktbWVtYmVycy10by13b3JrLW91dC12b2x1bnRlZXItb24tbWVtb3JpYWwtZGF5L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 16:13:58 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "San Antonio workshop aims to boost mental health awareness in small businesses - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbmV3czRzYW5hbnRvbmlvLmNvbS9uZXdzL2luc3RhZ3JhbS9zYW4tYW50b25pby13b3Jrc2hvcC1haW1zLXRvLWJvb3N0LW1lbnRhbC1oZWFsdGgtYXdhcmVuZXNzLWluLXNtYWxsLWJ1c2luZXNzZXPSAX1odHRwczovL25ld3M0c2FuYW50b25pby5jb20vYW1wL25ld3MvaW5zdGFncmFtL3Nhbi1hbnRvbmlvLXdvcmtzaG9wLWFpbXMtdG8tYm9vc3QtbWVudGFsLWhlYWx0aC1hd2FyZW5lc3MtaW4tc21hbGwtYnVzaW5lc3Nlcw?oc=5",
-        "description": [],
-        "pub_date": "Tue, 21 May 2024 00:43:07 GMT",
-        "source_url": "https://news4sanantonio.com",
-        "source_name": "WOAI"
     },
     {
         "title": "Chef brings whole hog, smoked meat to San Antonio dive bar - mySA",
@@ -104,26 +112,26 @@
         "source_name": "WOAI"
     },
     {
-        "title": "After long absence, mussels return to upper San Antonio River - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvc2FuLWFudG9uaW8tcml2ZXItbXVzc2Vscy1yZWludHJvZHVjdGlvbi0xOTQ1OTY0NS5waHDSAQA?oc=5",
+        "title": "Study: San Antonio ranks among worst U.S. cities for bed bugs - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvc2FuLWFudG9uaW8tcmFua3MtYW1vbmctd29yc3QtdS1zLWNpdGllcy1iZWQtMTk0NjY4NjkucGhw0gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 09:11:18 GMT",
+        "pub_date": "Sun, 19 May 2024 22:42:02 GMT",
         "source_url": "https://www.expressnews.com",
         "source_name": "San Antonio Express-News"
     },
     {
-        "title": "Peso Pluma pushes back summer concert date in San Antonio - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnNhY3VycmVudC5jb20vbXVzaWMvcGVzby1wbHVtYS1wdXNoZXMtYmFjay1zdW1tZXItY29uY2VydC1kYXRlLWluLXNhbi1hbnRvbmlvLTM0NTkzMTUy0gEA?oc=5",
+        "title": "Kirk Franklin's 2024 Reunion Tour hits San Antonio with star-studded lineup - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9raXJrLWZyYW5rbGlucy0yMDI0LXJldW5pb24tdG91ci1oaXRzLXNhbi1hbnRvbmlvLXdpdGgtc3Rhci1zdHVkZGVkLWxpbmV1cC1nb3NwZWwtZnJvc3QtYmFuay1jZW50ZXItc3BlY2lhbC1ndWVzdHMtdG91ci1kYXRlcy1pY29uc9IBrgFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vYW1wL25ld3MvbG9jYWwva2lyay1mcmFua2xpbnMtMjAyNC1yZXVuaW9uLXRvdXItaGl0cy1zYW4tYW50b25pby13aXRoLXN0YXItc3R1ZGRlZC1saW5ldXAtZ29zcGVsLWZyb3N0LWJhbmstY2VudGVyLXNwZWNpYWwtZ3Vlc3RzLXRvdXItZGF0ZXMtaWNvbnM?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 14:28:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
+        "pub_date": "Mon, 20 May 2024 16:38:07 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
     },
     {
-        "title": "Council members want more 'equity' in senior assistance program to prevent code violations - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5rc2F0LmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMjEvY291bmNpbC1tZW1iZXJzLXdhbnQtbW9yZS1lcXVpdHktaW4tc2VuaW9yLWFzc2lzdGFuY2UtcHJvZ3JhbS10by1wcmV2ZW50LWNvZGUtdmlvbGF0aW9ucy_SAQA?oc=5",
+        "title": "Sweat-N-Serve event welcomes community members to work out, volunteer on Memorial Day - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5rc2F0LmNvbS9uZXdzL2xvY2FsLzIwMjQvMDUvMjAvc3dlYXQtbi1zZXJ2ZS1ldmVudC13ZWxjb21lcy1jb21tdW5pdHktbWVtYmVycy10by13b3JrLW91dC12b2x1bnRlZXItb24tbWVtb3JpYWwtZGF5L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 21 May 2024 00:58:06 GMT",
+        "pub_date": "Mon, 20 May 2024 16:13:58 GMT",
         "source_url": "https://www.ksat.com",
         "source_name": "KSAT San Antonio"
     },
@@ -136,26 +144,26 @@
         "source_name": "CultureMap San Antonio"
     },
     {
-        "title": "State lawmaker calls for new hotline for dangerous dog reports in San Antonio - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5uZXdzNHNhbmFudG9uaW8uY29tL25ld3MvdHJvdWJsZS1zaG9vdGVycy9zdGF0ZS1sYXdtYWtlci1jYWxscy1mb3ItbmV3LWhvdGxpbmUtZm9yLWRhbmdlcm91cy1kb2ctcmVwb3J0cy1pbi1zYW4tYW50b25pby1sb2NhbC1uZXdzLW5lYXItbWXSAZYBaHR0cHM6Ly9uZXdzNHNhbmFudG9uaW8uY29tL2FtcC9uZXdzL3Ryb3VibGUtc2hvb3RlcnMvc3RhdGUtbGF3bWFrZXItY2FsbHMtZm9yLW5ldy1ob3RsaW5lLWZvci1kYW5nZXJvdXMtZG9nLXJlcG9ydHMtaW4tc2FuLWFudG9uaW8tbG9jYWwtbmV3cy1uZWFyLW1l?oc=5",
+        "title": "Loop 1604 now six lanes across in north San Antonio - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS90cmFmZmljL25ldy1sYW5lcy1vcGVuZWQtbG9vcC0xNjA0LXR4ZG90LXNhbi1hbnRvbmlvLWxvb3AtMTYwNC1ub3J0aC1leHBhbnNpb24tcHJvamVjdC8yNzMtZGM1MWZlMGYtZDIwYi00MDBkLThkNTUtOTliMzU5ODQ2NWQy0gEA?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 23:25:38 GMT",
-        "source_url": "https://www.news4sanantonio.com",
-        "source_name": "WOAI"
-    },
-    {
-        "title": "Two people shot in east side drive by shooting, SAPD says - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL3NhcGQtc2FuLWFudG9uaW8tZHJpdmUtYnktc2hvb3RpbmctZWFzdC1zaWRlLW1pdHRtYW4tc3RyZWV0LWp1dmVuaWxlLXNob3QvMjczLWY0ZGZlNzk4LThlOTUtNDFlYS1iYTc3LWFkNWFhYjZjNDI5ONIBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 04:00:00 GMT",
+        "pub_date": "Mon, 20 May 2024 16:14:00 GMT",
         "source_url": "https://www.kens5.com",
         "source_name": "KENS5.com"
     },
     {
-        "title": "Study: San Antonio ranks among worst U.S. cities for bed bugs - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvc2FuLWFudG9uaW8tcmFua3MtYW1vbmctd29yc3QtdS1zLWNpdGllcy1iZWQtMTk0NjY4NjkucGhw0gEA?oc=5",
+        "title": "San Antonio workshop aims to boost mental health awareness in small businesses - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbmV3czRzYW5hbnRvbmlvLmNvbS9uZXdzL2luc3RhZ3JhbS9zYW4tYW50b25pby13b3Jrc2hvcC1haW1zLXRvLWJvb3N0LW1lbnRhbC1oZWFsdGgtYXdhcmVuZXNzLWluLXNtYWxsLWJ1c2luZXNzZXPSAX1odHRwczovL25ld3M0c2FuYW50b25pby5jb20vYW1wL25ld3MvaW5zdGFncmFtL3Nhbi1hbnRvbmlvLXdvcmtzaG9wLWFpbXMtdG8tYm9vc3QtbWVudGFsLWhlYWx0aC1hd2FyZW5lc3MtaW4tc21hbGwtYnVzaW5lc3Nlcw?oc=5",
         "description": [],
-        "pub_date": "Sun, 19 May 2024 22:42:02 GMT",
+        "pub_date": "Tue, 21 May 2024 00:43:07 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
+    },
+    {
+        "title": "After long absence, mussels return to upper San Antonio River - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvc2FuLWFudG9uaW8tcml2ZXItbXVzc2Vscy1yZWludHJvZHVjdGlvbi0xOTQ1OTY0NS5waHDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 09:11:18 GMT",
         "source_url": "https://www.expressnews.com",
         "source_name": "San Antonio Express-News"
     },
@@ -168,10 +176,26 @@
         "source_name": "mySA"
     },
     {
-        "title": "Kirk Franklin's 2024 Reunion Tour hits San Antonio with star-studded lineup - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9raXJrLWZyYW5rbGlucy0yMDI0LXJldW5pb24tdG91ci1oaXRzLXNhbi1hbnRvbmlvLXdpdGgtc3Rhci1zdHVkZGVkLWxpbmV1cC1nb3NwZWwtZnJvc3QtYmFuay1jZW50ZXItc3BlY2lhbC1ndWVzdHMtdG91ci1kYXRlcy1pY29uc9IBrgFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vYW1wL25ld3MvbG9jYWwva2lyay1mcmFua2xpbnMtMjAyNC1yZXVuaW9uLXRvdXItaGl0cy1zYW4tYW50b25pby13aXRoLXN0YXItc3R1ZGRlZC1saW5ldXAtZ29zcGVsLWZyb3N0LWJhbmstY2VudGVyLXNwZWNpYWwtZ3Vlc3RzLXRvdXItZGF0ZXMtaWNvbnM?oc=5",
+        "title": "German airline\u2019s SA launch key to city\u2019s global plan - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5hbnRvbmlvL25ld3MvMjAyNC8wNS8yMC9nZXJtYW4tYWlybGluZS1sYXVuY2gtZ2xvYmFsLXBsYW0uaHRtbNIBYWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5hbnRvbmlvL25ld3MvMjAyNC8wNS8yMC9nZXJtYW4tYWlybGluZS1sYXVuY2gtZ2xvYmFsLXBsYW0uYW1wLmh0bWw?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 16:38:07 GMT",
+        "pub_date": "Mon, 20 May 2024 17:50:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
+        "title": "Man wounded after shots are fired at home just west of downtown, SAPD says - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmtzYXQuY29tL25ld3MvbG9jYWwvMjAyNC8wNS8yMC9tYW4td291bmRlZC1hZnRlci1zaG90cy1hcmUtZmlyZWQtYXQtaG9tZS1qdXN0LXdlc3Qtb2YtZG93bnRvd24tc2FwZC1zYXlzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 10:36:56 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
+    },
+    {
+        "title": "State lawmaker calls for new hotline for dangerous dog reports in San Antonio - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vbmV3cy90cm91YmxlLXNob290ZXJzL3N0YXRlLWxhd21ha2VyLWNhbGxzLWZvci1uZXctaG90bGluZS1mb3ItZGFuZ2Vyb3VzLWRvZy1yZXBvcnRzLWluLXNhbi1hbnRvbmlvLWxvY2FsLW5ld3MtbmVhci1tZdIBlgFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vYW1wL25ld3MvdHJvdWJsZS1zaG9vdGVycy9zdGF0ZS1sYXdtYWtlci1jYWxscy1mb3ItbmV3LWhvdGxpbmUtZm9yLWRhbmdlcm91cy1kb2ctcmVwb3J0cy1pbi1zYW4tYW50b25pby1sb2NhbC1uZXdzLW5lYXItbWU?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 23:25:38 GMT",
         "source_url": "https://news4sanantonio.com",
         "source_name": "WOAI"
     },
@@ -184,36 +208,20 @@
         "source_name": "UT Health San Antonio"
     },
     {
-        "title": "CLEAR Alert for missing 32-year-old man discontinued - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmtzYXQuY29tL25ld3MvbG9jYWwvMjAyNC8wNS8yMC9jbGVhci1hbGVydC1pc3N1ZWQtZm9yLW1pc3NpbmctMzIteWVhci1vbGQtbWFuL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 09:46:46 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "German airline\u2019s SA launch key to city\u2019s global plan - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5hbnRvbmlvL25ld3MvMjAyNC8wNS8yMC9nZXJtYW4tYWlybGluZS1sYXVuY2gtZ2xvYmFsLXBsYW0uaHRtbNIBYWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5hbnRvbmlvL25ld3MvMjAyNC8wNS8yMC9nZXJtYW4tYWlybGluZS1sYXVuY2gtZ2xvYmFsLXBsYW0uYW1wLmh0bWw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 17:50:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "San Antonio sees trend-breaking drop in home prices in 2024 - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vcmVhbGVzdGF0ZS9hcnRpY2xlL3Nhbi1hbnRvbmlvLXJlYWwtZXN0YXRlLXByaWNlcy1kcm9wLTE5NDY3OTc2LnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 17:23:45 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
-    },
-    {
         "title": "San Antonio's CentroMed hacked again, patients' personal data accessed - San Antonio Express-News",
         "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9idXNpbmVzcy9hcnRpY2xlL3Nhbi1hbnRvbmlvLXMtY2VudHJvbWVkLWhhY2tlZC1hZ2Fpbi1wYXRpZW50cy0xOTQ2NzkxMy5waHDSAQA?oc=5",
         "description": [],
         "pub_date": "Mon, 20 May 2024 23:10:05 GMT",
         "source_url": "https://www.expressnews.com",
         "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "Central Texas air quality levels threaten sensitive groups - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy93ZWF0aGVyL2FydGljbGUvYWlyLXF1YWxpdHktdGV4YXMtMTk0Njc4MDcucGhw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 21 May 2024 00:02:59 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
     },
     {
         "title": "Ollie's bids for 11 Texas 99 Cents Only Stores - Laredo Morning Times",
@@ -232,28 +240,12 @@
         "source_name": "San Antonio Current"
     },
     {
-        "title": "Feel the spooky vibes at the Psychic + Spirit Fest - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmtzYXQuY29tL3ZpZGVvL3NhLWxpdmUvMjAyNC8wNS8yMC9mZWVsLXRoZS1zcG9va3ktdmliZXMtYXQtdGhlLXBzeWNoaWMtc3Bpcml0LWZlc3Qv0gEA?oc=5",
+        "title": "SAPD searching for missing woman with intellectual disability - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL3BvbGljZS1zZWFyY2hpbmctZm9yLW1pc3NpbmctMzIteWVhci1vbGQtd29tYW4td2l0aC1pbnRlbGxlY3R1YWwtZGlzYWJpbGl0eS1zYXBkLXNhbi1hbnRvbmlvLXRleGFzLWZpbmQvMjczLWE0ODk1ZGM2LWM3YTQtNGQ5OC05MzZhLTAxODE2N2RiYTA1NdIBAA?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 02:44:30 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "Interest rates kept apartment transactions down last year. This year is already worse. - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5hbnRvbmlvL25ld3MvMjAyNC8wNS8yMC9hcGFydG1lbnQtdHJhbnNhY3Rpb24tZGVjbGluZS1zaGFycGVyLWxhc3QteWVhci5odG1s0gFvaHR0cHM6Ly93d3cuYml6am91cm5hbHMuY29tL3NhbmFudG9uaW8vbmV3cy8yMDI0LzA1LzIwL2FwYXJ0bWVudC10cmFuc2FjdGlvbi1kZWNsaW5lLXNoYXJwZXItbGFzdC15ZWFyLmFtcC5odG1s?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 12:41:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "Central Texas air quality levels threaten sensitive groups - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy93ZWF0aGVyL2FydGljbGUvYWlyLXF1YWxpdHktdGV4YXMtMTk0Njc4MDcucGhw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 21 May 2024 00:02:59 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
+        "pub_date": "Sun, 19 May 2024 20:09:00 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
     },
     {
         "title": "Bexar County addresses a 33% rise in suicide rates with wellness conference - WOAI",
@@ -262,6 +254,14 @@
         "pub_date": "Mon, 20 May 2024 12:57:06 GMT",
         "source_url": "https://news4sanantonio.com",
         "source_name": "WOAI"
+    },
+    {
+        "title": "Interest rates kept apartment transactions down last year. This year is already worse. - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zYW5hbnRvbmlvL25ld3MvMjAyNC8wNS8yMC9hcGFydG1lbnQtdHJhbnNhY3Rpb24tZGVjbGluZS1zaGFycGVyLWxhc3QteWVhci5odG1s0gFvaHR0cHM6Ly93d3cuYml6am91cm5hbHMuY29tL3NhbmFudG9uaW8vbmV3cy8yMDI0LzA1LzIwL2FwYXJ0bWVudC10cmFuc2FjdGlvbi1kZWNsaW5lLXNoYXJwZXItbGFzdC15ZWFyLmFtcC5odG1s?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 12:41:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
     },
     {
         "title": "Census: San Antonio Growing Faster Than Austin - iHeart",
@@ -280,28 +280,20 @@
         "source_name": "San Antonio Report"
     },
     {
+        "title": "Family mourns the loss of San Antonio man hit and killed while riding scooter on the south side - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS9uZXdzL2xvY2FsL21hbi1oaXQtYW5kLWtpbGxlZC13aGlsZS1yaWRpbmctc2Nvb3Rlci1vbi1zYW4tYW50b25pby1zb3V0aC1zaWRlLWVkd2FyZC1lZGRpZS1mZXJuYW5kZXotZmFtaWx5LW1vdXJucy1sb3NzLzI3My0zYjk4NGE5Mi1jYWJiLTRkYTItYjcxYS1jZDY1OWY0MzAwZDHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 21 May 2024 01:57:00 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
+    },
+    {
         "title": "Former drug runner gets new life, says 'prison saved me' - San Antonio Express-News",
         "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvY3J5c3RhbC1yZXllcy1nb29kd2lsbC0xOTQ1MjUwMC5waHDSAQA?oc=5",
         "description": [],
         "pub_date": "Mon, 20 May 2024 09:11:18 GMT",
         "source_url": "https://www.expressnews.com",
         "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "Endangered missing alert issued for woman last seen three days ago - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmtzYXQuY29tL25ld3MvbG9jYWwvMjAyNC8wNS8xOS9lbmRhbmdlcmVkLW1pc3NpbmctYWxlcnQtaXNzdWVkLWZvci13b21hbi1sYXN0LXNlZW4tdGhyZWUtZGF5cy1hZ28v0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 20:11:21 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "San Antonio City Council approves new $49.5M budget for workforce program - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc2FuLWFudG9uaW8vbm9ydGgtc2FuLWFudG9uaW8vZ292ZXJubWVudC8yMDI0LzA1LzIwL3Nhbi1hbnRvbmlvLWNpdHktY291bmNpbC1hcHByb3Zlcy1uZXctNDk1bS1idWRnZXQtZm9yLXdvcmtmb3JjZS1wcm9ncmFtL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 05:00:00 GMT",
-        "source_url": "https://communityimpact.com",
-        "source_name": "Community Impact"
     },
     {
         "title": "Hundreds face eviction in San Antonio housing crisis - mySA",
@@ -312,16 +304,32 @@
         "source_name": "mySA"
     },
     {
-        "title": "Savor the past: San Antonio event highlights historic Aguas Frescas - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmV3czRzYW5hbnRvbmlvLmNvbS9uZXdzL2xvY2FsL3Nhdm9yLXRoZS1wYXN0LXNhbi1hbnRvbmlvLWV2ZW50LWhpZ2hsaWdodHMtaGlzdG9yaWMtYWd1YXMtZnJlc2Nhc9IBbWh0dHBzOi8vbmV3czRzYW5hbnRvbmlvLmNvbS9hbXAvbmV3cy9sb2NhbC9zYXZvci10aGUtcGFzdC1zYW4tYW50b25pby1ldmVudC1oaWdobGlnaHRzLWhpc3RvcmljLWFndWFzLWZyZXNjYXM?oc=5",
+        "title": "Savor the past: San Antonio event highlights historic Aguas Frescas - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZveHNhbmFudG9uaW8uY29tL25ld3NsZXR0ZXItZGFpbHkvc2F2b3ItdGhlLXBhc3Qtc2FuLWFudG9uaW8tZXZlbnQtaGlnaGxpZ2h0cy1oaXN0b3JpYy1hZ3Vhcy1mcmVzY2Fz0gFxaHR0cHM6Ly9mb3hzYW5hbnRvbmlvLmNvbS9hbXAvbmV3c2xldHRlci1kYWlseS9zYXZvci10aGUtcGFzdC1zYW4tYW50b25pby1ldmVudC1oaWdobGlnaHRzLWhpc3RvcmljLWFndWFzLWZyZXNjYXM?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 12:23:29 GMT",
-        "source_url": "https://news4sanantonio.com",
-        "source_name": "WOAI"
+        "pub_date": "Mon, 20 May 2024 12:22:46 GMT",
+        "source_url": "https://www.foxsanantonio.com",
+        "source_name": "FOX 29"
     },
     {
-        "title": "San Antonio Congress member proposes $4.6M security project for North East ISD - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc2FuLWFudG9uaW8vbm9ydGgtc2FuLWFudG9uaW8vZWR1Y2F0aW9uLzIwMjQvMDUvMjAvc2FuLWFudG9uaW8tY29uZ3Jlc3MtbWVtYmVyLXByb3Bvc2VzLTQ2bS1zZWN1cml0eS1wcm9qZWN0LWZvci1ub3J0aC1lYXN0LWlzZC_SAQA?oc=5",
+        "title": "San Antonio City Council approves new $49.5M budget for workforce program - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc2FuLWFudG9uaW8vbm9ydGgtc2FuLWFudG9uaW8vZ292ZXJubWVudC8yMDI0LzA1LzIwL3Nhbi1hbnRvbmlvLWNpdHktY291bmNpbC1hcHByb3Zlcy1uZXctNDk1bS1idWRnZXQtZm9yLXdvcmtmb3JjZS1wcm9ncmFtL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 05:00:00 GMT",
+        "source_url": "https://communityimpact.com",
+        "source_name": "Community Impact"
+    },
+    {
+        "title": "JFS Run Wild Run Carefree 5k Run and Walk for Mental Wellness - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5rc2F0LmNvbS9lbnRlcnRhaW5tZW50L2NhbGVuZGFycy8jIS9kZXRhaWxzL2pmcy1ydW4td2lsZC1ydW4tY2FyZWZyZWUtNWstcnVuLWFuZC13YWxrLWZvci1tZW50YWwtd2VsbG5lc3MvMTM1NjU2MDIvMjAyNC0wNS0xOVQwNdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 19 May 2024 20:01:28 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
+    },
+    {
+        "title": "San Antonio-area pet rescue group launches new virtual foster program - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc2FuLWFudG9uaW8vbm9ydGgtc2FuLWFudG9uaW8vbm9ucHJvZml0LzIwMjQvMDUvMjAvc2FuLWFudG9uaW8tYXJlYS1wZXQtcmVzY3VlLWdyb3VwLWxhdW5jaGVzLW5ldy12aXJ0dWFsLWZvc3Rlci1wcm9ncmFtL9IBAA?oc=5",
         "description": [],
         "pub_date": "Mon, 20 May 2024 05:00:00 GMT",
         "source_url": "https://communityimpact.com",
@@ -352,100 +360,12 @@
         "source_name": "San Antonio Express-News"
     },
     {
-        "title": "San Antonio-area pet rescue group launches new virtual foster program - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc2FuLWFudG9uaW8vbm9ydGgtc2FuLWFudG9uaW8vbm9ucHJvZml0LzIwMjQvMDUvMjAvc2FuLWFudG9uaW8tYXJlYS1wZXQtcmVzY3VlLWdyb3VwLWxhdW5jaGVzLW5ldy12aXJ0dWFsLWZvc3Rlci1wcm9ncmFtL9IBAA?oc=5",
+        "title": "San Antonio Congress member proposes $4.6M security project for North East ISD - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc2FuLWFudG9uaW8vbm9ydGgtc2FuLWFudG9uaW8vZWR1Y2F0aW9uLzIwMjQvMDUvMjAvc2FuLWFudG9uaW8tY29uZ3Jlc3MtbWVtYmVyLXByb3Bvc2VzLTQ2bS1zZWN1cml0eS1wcm9qZWN0LWZvci1ub3J0aC1lYXN0LWlzZC_SAQA?oc=5",
         "description": [],
         "pub_date": "Mon, 20 May 2024 05:00:00 GMT",
         "source_url": "https://communityimpact.com",
         "source_name": "Community Impact"
-    },
-    {
-        "title": "JFS Run Wild Run Carefree 5k Run and Walk for Mental Wellness - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5rc2F0LmNvbS9lbnRlcnRhaW5tZW50L2NhbGVuZGFycy8jIS9kZXRhaWxzL2pmcy1ydW4td2lsZC1ydW4tY2FyZWZyZWUtNWstcnVuLWFuZC13YWxrLWZvci1tZW50YWwtd2VsbG5lc3MvMTM1NjU2MDIvMjAyNC0wNS0xOVQwNdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 20:01:28 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "Dominion Rotary Car Show Revved Up San Antonio with Blood Drive - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3M0c2FuYW50b25pby5jb20vbmV3cy9pbnN0YWdyYW0vZG9taW5pb24tcm90YXJ5LWNhci1zaG93LXJldnZlZC11cC1zYW4tYW50b25pby13aXRoLWJsb29kLWRyaXZl0gFuaHR0cHM6Ly9uZXdzNHNhbmFudG9uaW8uY29tL2FtcC9uZXdzL2luc3RhZ3JhbS9kb21pbmlvbi1yb3RhcnktY2FyLXNob3ctcmV2dmVkLXVwLXNhbi1hbnRvbmlvLXdpdGgtYmxvb2QtZHJpdmU?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 18:56:56 GMT",
-        "source_url": "https://www.news4sanantonio.com",
-        "source_name": "WOAI"
-    },
-    {
-        "title": "Guests enjoy pi\u00f1ata-making at Briscoe; museum plans more events - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS9uZXdzL2NvbW11bml0eS9waW5hdGEtbWFraW5nLWF0LWJyaXNjb2Utd2VzdGVybi1hcnQtbXVzZXVtLW1vcmUtZXZlbnRzLXNhbi1hbnRvbmlvLzI3My1mNjE1MDRmYS00Yzc4LTQwZGUtODA1NC0wNTdiMDk2MDY4YTXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 21:23:00 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
-    },
-    {
-        "title": "Victoria Commons offers variety of floor plans, ideal location in San Antonio - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc3BvbnNvcmVkL3Nwb25zb3JlZC8yMDI0LzA1LzE5L3ZpY3RvcmlhLWNvbW1vbnMtb2ZmZXJzLXZhcmlldHktb2YtZmxvb3ItcGxhbnMtaWRlYWwtbG9jYXRpb24taW4tc2FuLWFudG9uaW8v0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 22:45:54 GMT",
-        "source_url": "https://communityimpact.com",
-        "source_name": "Community Impact"
-    },
-    {
-        "title": "Everything we saw at the Hot Water Music and Quicksand show in San Antonio - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zYWN1cnJlbnQuY29tL3NhbmFudG9uaW8vZXZlcnl0aGluZy13ZS1zYXctYXQtdGhlLWhvdC13YXRlci1tdXNpYy1hbmQtcXVpY2tzYW5kLXNob3ctaW4tc2FuLWFudG9uaW8vU2xpZGVzaG93LzM0NTgzODM10gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 06:49:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
-    },
-    {
-        "title": "San Antonio City Council considers mandatory spay-neuter policy for stray dogs - FOX 29",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZveHNhbmFudG9uaW8uY29tL25ld3MvaW5zdGFncmFtL3Nhbi1hbnRvbmlvLWNpdHktY291bmNpbC1jb25zaWRlcnMtbWFuZGF0b3J5LXNwYXktbmV1dGVyLXBvbGljeS1mb3Itc3RyYXktZG9nc9IBe2h0dHBzOi8vZm94c2FuYW50b25pby5jb20vYW1wL25ld3MvaW5zdGFncmFtL3Nhbi1hbnRvbmlvLWNpdHktY291bmNpbC1jb25zaWRlcnMtbWFuZGF0b3J5LXNwYXktbmV1dGVyLXBvbGljeS1mb3Itc3RyYXktZG9ncw?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 14:53:15 GMT",
-        "source_url": "https://www.foxsanantonio.com",
-        "source_name": "FOX 29"
-    },
-    {
-        "title": "Texas scooter rider dies after head-on collision with vehicle - mySA",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3Nhbi1hbnRvbmlvLXNjb290ZXItcmlkZXItZGllcy0xOTQ2NTcxOS5waHDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 20:03:09 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
-    },
-    {
-        "title": "San Antonio school systems' 2025 outlook? Big money problems. - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2VkdWNhdGlvbi9hcnRpY2xlL3Nhbi1hbnRvbmlvLXNjaG9vbC1zeXN0ZW1zLTIwMjUtb3V0bG9vay1iaWctMTk0NDkwNTkucGhw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 09:13:07 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "RentWise SA hosts renter's rights information sessions, helps tenants stay informed - FOX 29",
-        "link": "https://news.google.com/rss/articles/CBMizQFodHRwczovL2ZveHNhbmFudG9uaW8uY29tL25ld3NsZXR0ZXItZGFpbHkvcmVudHdpc2Utc2EtaG9zdHMtcmVudGVycy1yaWdodHMtaW5mb3JtYXRpb24tc2Vzc2lvbnMtaGVscHMtdGVuYW50cy1zdGF5LWluZm9ybWVkLXJlbnRlcnMtbGFuZGxvcmQtYXBhcnRtZW50LWNvbXBsZXgtbW92aW5nLWV2aWN0aW9uLWhlbHAtbGF3eWVyLWFzc2lzdGFuY2UtbGl2aW5n0gHRAWh0dHBzOi8vZm94c2FuYW50b25pby5jb20vYW1wL25ld3NsZXR0ZXItZGFpbHkvcmVudHdpc2Utc2EtaG9zdHMtcmVudGVycy1yaWdodHMtaW5mb3JtYXRpb24tc2Vzc2lvbnMtaGVscHMtdGVuYW50cy1zdGF5LWluZm9ybWVkLXJlbnRlcnMtbGFuZGxvcmQtYXBhcnRtZW50LWNvbXBsZXgtbW92aW5nLWV2aWN0aW9uLWhlbHAtbGF3eWVyLWFzc2lzdGFuY2UtbGl2aW5n?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 22:02:43 GMT",
-        "source_url": "https://foxsanantonio.com",
-        "source_name": "FOX 29"
-    },
-    {
-        "title": "As seen on SA Live - Monday, May 20, 2024 - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmtzYXQuY29tL3NhLWxpdmUvMjAyNC8wNS8yMC9hcy1zZWVuLW9uLXNhLWxpdmUtbW9uZGF5LW1heS0yMC0yMDI0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 17:00:52 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "San Antonio's Elotitos Corn Bar launches the Edgar Special, embracing viral haircut trends - KEYE TV CBS Austin",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vY2JzYXVzdGluLmNvbS9uZXdzL29mZmJlYXQvc2FuLWFudG9uaW9zLWVsb3RpdG9zLWNvcm4tYmFyLWxhdW5jaGVzLXRoZS1lZGdhci1zcGVjaWFsLWVtYnJhY2luZy12aXJhbC1oYWlyY3V0LXRyZW5kc9IBf2h0dHBzOi8vY2JzYXVzdGluLmNvbS9hbXAvbmV3cy9vZmZiZWF0L3Nhbi1hbnRvbmlvcy1lbG90aXRvcy1jb3JuLWJhci1sYXVuY2hlcy10aGUtZWRnYXItc3BlY2lhbC1lbWJyYWNpbmctdmlyYWwtaGFpcmN1dC10cmVuZHM?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 15:47:09 GMT",
-        "source_url": "https://cbsaustin.com",
-        "source_name": "KEYE TV CBS Austin"
     },
     {
         "title": "Meeting between two men ends with one stabbed in stomach - KENS5.com",
@@ -456,76 +376,44 @@
         "source_name": "KENS5.com"
     },
     {
-        "title": "Meals on Wheels delivers fans, cooling kits to vulnerable San Antonians - FOX 29",
-        "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL2ZveHNhbmFudG9uaW8uY29tL25ld3NsZXR0ZXItZGFpbHkvbWVhbHMtb24td2hlZWxzLWRlbGl2ZXJzLWZhbnMtY29vbGluZy1raXRzLXRvLXZ1bG5lcmFibGUtc2FuLWFudG9uaWFucy1sb2NhbC1uZXdzLW5lYXItbWUtc3ByaW5nLXN1bW1lci1oZWF0LXdlYXRoZXLSAQA?oc=5",
+        "title": "Dominion Rotary Car Show Revved Up San Antonio with Blood Drive - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3czRzYW5hbnRvbmlvLmNvbS9uZXdzL2luc3RhZ3JhbS9kb21pbmlvbi1yb3RhcnktY2FyLXNob3ctcmV2dmVkLXVwLXNhbi1hbnRvbmlvLXdpdGgtYmxvb2QtZHJpdmXSAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 18 May 2024 20:17:50 GMT",
-        "source_url": "https://foxsanantonio.com",
-        "source_name": "FOX 29"
+        "pub_date": "Sun, 19 May 2024 18:56:56 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
     },
     {
-        "title": "Jukebox musical Rock of Ages strutting into San Antonio's Tobin Center - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNhY3VycmVudC5jb20vYXJ0cy9qdWtlYm94LW11c2ljYWwtcm9jay1vZi1hZ2VzLXN0cnV0dGluZy1pbnRvLXNhbi1hbnRvbmlvcy10b2Jpbi1jZW50ZXItMzQ1OTQyOTbSAQA?oc=5",
+        "title": "FRIDA Fest coming to The Rock Box this July - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmtzYXQuY29tL25ld3MvbG9jYWwvMjAyNC8wNS8yMC9mcmlkYS1mZXN0LWNvbWluZy10by10aGUtcm9jay1ib3gtdGhpcy1qdWx5L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Mon, 20 May 2024 17:29:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
-    },
-    {
-        "title": "City inks deal with JBSA to offer job training to vets, dependents - San Antonio Report",
-        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vc2FuYW50b25pb3JlcG9ydC5vcmcvY2l0eS1qYnNhLWpvYi10cmFpbmluZy12ZXRlcmFucy1kZXBlbmRlbnRzLXdpdGhpbi1iZXhhci1jb3VudHkv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 20:51:27 GMT",
-        "source_url": "https://sanantonioreport.org",
-        "source_name": "San Antonio Report"
-    },
-    {
-        "title": "Vehicle with woman inside hit by train after stopped on tracks - Laredo Morning Times",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmxtdG9ubGluZS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3dvbWFuLWhpdC10cmFpbi1zYW4tYW50b25pby0xOTQ2NTQ3My5waHDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 20:24:02 GMT",
-        "source_url": "https://www.lmtonline.com",
-        "source_name": "Laredo Morning Times"
-    },
-    {
-        "title": "SA Food Bank and CPS Energy in Houston with relief supplies following severe storms - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5rZW5zNS5jb20vdmlkZW8vbmV3cy9sb2NhbC90ZXhhcy9zYS1mb29kLWJhbmstYW5kLWNwcy1lbmVyZ3ktaW4taG91c3Rvbi13aXRoLXJlbGllZi1zdXBwbGllcy1mb2xsb3dpbmctc2V2ZXJlLXN0b3Jtcy8yNzMtNDJiZTI1Y2UtN2QzOC00NTMyLTlkMTEtY2YyNDUwOTFlM2Y20gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 22:09:00 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
-    },
-    {
-        "title": "Southwest Side mosquito pool tests positive for West Nile Virus - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvd2VzdC1uaWxlLXZpcnVzLWZvdW5kLXNvdXRod2VzdC1zaWRlLW1vc3F1aXRvLTE5NDY2NjQyLnBocNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 19 May 2024 17:08:30 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "In Play: San Antonio screenwriter Paco Farias discusses latest script for golf drama The Long Game - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5zYWN1cnJlbnQuY29tL21vdmllcy10di9pbi1wbGF5LXNhbi1hbnRvbmlvLXNjcmVlbndyaXRlci1wYWNvLWZhcmlhcy1kaXNjdXNzZXMtbGF0ZXN0LXNjcmlwdC1mb3ItZ29sZi1kcmFtYS10aGUtbG9uZy1nYW1lLTM0NTc4NTc40gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 18 May 2024 13:36:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
-    },
-    {
-        "title": "SA Live & Frozen the Musical Sweepstakes - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmtzYXQuY29tL3NhLWxpdmUvMjAyNC8wNS8yMC9zYS1saXZlLWZyb3plbi10aGUtbXVzaWNhbC1zd2VlcHN0YWtlcy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 May 2024 15:17:47 GMT",
+        "pub_date": "Mon, 20 May 2024 13:36:25 GMT",
         "source_url": "https://www.ksat.com",
         "source_name": "KSAT San Antonio"
     },
     {
-        "title": "Man shot near Olmos Park softball fields, uncooperative with police - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5uZXdzNHNhbmFudG9uaW8uY29tL25ld3MvbG9jYWwvbWFuLXNob3QtbmVhci1vbG1vcy1wYXJrLXNvZnRiYWxsLWZpZWxkcy11bmNvb3BlcmF0aXZlLXdpdGgtcG9saWNlLWd1bi12aW9sZW5jZS1jZW50cmFsLXNhbi1hbnRvbmlv0gGOAWh0dHBzOi8vbmV3czRzYW5hbnRvbmlvLmNvbS9hbXAvbmV3cy9sb2NhbC9tYW4tc2hvdC1uZWFyLW9sbW9zLXBhcmstc29mdGJhbGwtZmllbGRzLXVuY29vcGVyYXRpdmUtd2l0aC1wb2xpY2UtZ3VuLXZpb2xlbmNlLWNlbnRyYWwtc2FuLWFudG9uaW8?oc=5",
+        "title": "Victoria Commons offers variety of floor plans, ideal location in San Antonio - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2NvbW11bml0eWltcGFjdC5jb20vc3BvbnNvcmVkL3Nwb25zb3JlZC8yMDI0LzA1LzE5L3ZpY3RvcmlhLWNvbW1vbnMtb2ZmZXJzLXZhcmlldHktb2YtZmxvb3ItcGxhbnMtaWRlYWwtbG9jYXRpb24taW4tc2FuLWFudG9uaW8v0gEA?oc=5",
         "description": [],
-        "pub_date": "Sun, 19 May 2024 15:55:11 GMT",
-        "source_url": "https://www.news4sanantonio.com",
-        "source_name": "WOAI"
+        "pub_date": "Sun, 19 May 2024 22:45:54 GMT",
+        "source_url": "https://communityimpact.com",
+        "source_name": "Community Impact"
+    },
+    {
+        "title": "San Antonio City Council considers mandatory spay-neuter policy for stray dogs - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vZm94c2FuYW50b25pby5jb20vbmV3cy9pbnN0YWdyYW0vc2FuLWFudG9uaW8tY2l0eS1jb3VuY2lsLWNvbnNpZGVycy1tYW5kYXRvcnktc3BheS1uZXV0ZXItcG9saWN5LWZvci1zdHJheS1kb2dz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 19 May 2024 14:52:54 GMT",
+        "source_url": "https://foxsanantonio.com",
+        "source_name": "FOX 29"
+    },
+    {
+        "title": "Everything we saw at the Hot Water Music and Quicksand show in San Antonio - San Antonio Current",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zYWN1cnJlbnQuY29tL3NhbmFudG9uaW8vZXZlcnl0aGluZy13ZS1zYXctYXQtdGhlLWhvdC13YXRlci1tdXNpYy1hbmQtcXVpY2tzYW5kLXNob3ctaW4tc2FuLWFudG9uaW8vU2xpZGVzaG93LzM0NTgzODM10gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 19 May 2024 06:49:00 GMT",
+        "source_url": "https://www.sacurrent.com",
+        "source_name": "San Antonio Current"
     },
     {
         "title": "SAISD academy celebrates 5 years of MAS - Spectrum News",
@@ -536,6 +424,30 @@
         "source_name": "Spectrum News"
     },
     {
+        "title": "Southwest Side mosquito pool tests positive for West Nile Virus - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2FydGljbGUvd2VzdC1uaWxlLXZpcnVzLWZvdW5kLXNvdXRod2VzdC1zaWRlLW1vc3F1aXRvLTE5NDY2NjQyLnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 19 May 2024 17:08:30 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "Man shot near Olmos Park softball fields, uncooperative with police - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9tYW4tc2hvdC1uZWFyLW9sbW9zLXBhcmstc29mdGJhbGwtZmllbGRzLXVuY29vcGVyYXRpdmUtd2l0aC1wb2xpY2UtZ3VuLXZpb2xlbmNlLWNlbnRyYWwtc2FuLWFudG9uaW_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 19 May 2024 15:55:11 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
+    },
+    {
+        "title": "Neighborhood Eats | Munching our way through spring 2024 - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5rZW5zNS5jb20vdmlkZW8vZW50ZXJ0YWlubWVudC9kaW5pbmcvbmVpZ2hib3Job29kLWVhdHMvbmVpZ2hib3Job29kLWVhdHMtbXVuY2hpbmctb3VyLXdheS10aHJvdWdoLXNwcmluZy0yMDI0LzI3My1lNmVjM2RhYy0zOTcyLTQxNjUtYmVjZC0yMjI5MGNkNGI1ODjSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 21 May 2024 01:40:00 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
+    },
+    {
         "title": "Mina & Dimi's Greek House to relocate in San Antonio - mySA",
         "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vZm9vZC9hcnRpY2xlL21pbmEtZGltaXMtcmVsb2NhdGlvbi0xOTQ2Nzg3NS5waHDSAQA?oc=5",
         "description": [],
@@ -544,11 +456,99 @@
         "source_name": "mySA"
     },
     {
-        "title": "Neighborhood Eats | Munching our way through spring 2024 - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5rZW5zNS5jb20vdmlkZW8vZW50ZXJ0YWlubWVudC9kaW5pbmcvbmVpZ2hib3Job29kLWVhdHMvbmVpZ2hib3Job29kLWVhdHMtbXVuY2hpbmctYW5kLWdydWJiaW5nLW91ci13YXktdGhyb3VnaC1zcHJpbmctMjAyNC8yNzMtOWM0MGNhMjMtNGUyZC00NjAzLWI4YmEtYzJjNjQ5M2RmM2M30gEA?oc=5",
+        "title": "As seen on SA Live - Monday, May 20, 2024 - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmtzYXQuY29tL3NhLWxpdmUvMjAyNC8wNS8yMC9hcy1zZWVuLW9uLXNhLWxpdmUtbW9uZGF5LW1heS0yMC0yMDI0L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 17 May 2024 22:22:00 GMT",
+        "pub_date": "Mon, 20 May 2024 17:00:52 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
+    },
+    {
+        "title": "In Play: San Antonio screenwriter Paco Farias discusses latest script for golf drama The Long Game - San Antonio Current",
+        "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5zYWN1cnJlbnQuY29tL21vdmllcy10di9pbi1wbGF5LXNhbi1hbnRvbmlvLXNjcmVlbndyaXRlci1wYWNvLWZhcmlhcy1kaXNjdXNzZXMtbGF0ZXN0LXNjcmlwdC1mb3ItZ29sZi1kcmFtYS10aGUtbG9uZy1nYW1lLTM0NTc4NTc40gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 13:36:00 GMT",
+        "source_url": "https://www.sacurrent.com",
+        "source_name": "San Antonio Current"
+    },
+    {
+        "title": "Major accident occurred Friday night after car crashes into guardrail - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZm94c2FuYW50b25pby5jb20vbmV3c2xldHRlci1kYWlseS9tYWpvci1hY2NpZGVudC1hZnRlci1jYXItY3Jhc2hlcy1pbnRvLWd1YXJkcmFpbNIBXmh0dHBzOi8vZm94c2FuYW50b25pby5jb20vYW1wL25ld3NsZXR0ZXItZGFpbHkvbWFqb3ItYWNjaWRlbnQtYWZ0ZXItY2FyLWNyYXNoZXMtaW50by1ndWFyZHJhaWw?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 15:49:05 GMT",
+        "source_url": "https://foxsanantonio.com",
+        "source_name": "FOX 29"
+    },
+    {
+        "title": "City inks deal with JBSA to offer job training to vets, dependents - San Antonio Report",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vc2FuYW50b25pb3JlcG9ydC5vcmcvY2l0eS1qYnNhLWpvYi10cmFpbmluZy12ZXRlcmFucy1kZXBlbmRlbnRzLXdpdGhpbi1iZXhhci1jb3VudHkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 20:51:27 GMT",
+        "source_url": "https://sanantonioreport.org",
+        "source_name": "San Antonio Report"
+    },
+    {
+        "title": "NAMRU San Antonio spotlights Dr. Dao Ho during Asian American, Native Hawaiian, and Pacifi - jbsa.mil",
+        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lmpic2EubWlsL05ld3MvTmV3cy9BcnRpY2xlLzM3ODE1MzEvbmFtcnUtc2FuLWFudG9uaW8tc3BvdGxpZ2h0cy1kci1kYW8taG8tZHVyaW5nLWFzaWFuLWFtZXJpY2FuLW5hdGl2ZS1oYXdhaWlhbi1hbi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 17:29:56 GMT",
+        "source_url": "https://www.jbsa.mil",
+        "source_name": "jbsa.mil"
+    },
+    {
+        "title": "Jukebox musical Rock of Ages strutting into San Antonio's Tobin Center - San Antonio Current",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNhY3VycmVudC5jb20vYXJ0cy9qdWtlYm94LW11c2ljYWwtcm9jay1vZi1hZ2VzLXN0cnV0dGluZy1pbnRvLXNhbi1hbnRvbmlvcy10b2Jpbi1jZW50ZXItMzQ1OTQyOTbSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 17:29:00 GMT",
+        "source_url": "https://www.sacurrent.com",
+        "source_name": "San Antonio Current"
+    },
+    {
+        "title": "At the Briscoe, San Antonians create their own pi\u00f1atas and learn about their religious origins - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5rZW5zNS5jb20vYXJ0aWNsZS9uZXdzL2NvbW11bml0eS9waW5hdGEtbWFraW5nLWF0LWJyaXNjb2Utd2VzdGVybi1hcnQtbXVzZXVtLW1vcmUtZXZlbnRzLXNhbi1hbnRvbmlvLzI3My1mNjE1MDRmYS00Yzc4LTQwZGUtODA1NC0wNTdiMDk2MDY4YTXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 21:23:00 GMT",
         "source_url": "https://www.kens5.com",
         "source_name": "KENS5.com"
+    },
+    {
+        "title": "RentWise SA hosts renter's rights information sessions, helps tenants stay informed - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMiyQFodHRwczovL25ld3M0c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9yZW50d2lzZS1zYS1ob3N0cy1yZW50ZXJzLXJpZ2h0cy1pbmZvcm1hdGlvbi1zZXNzaW9ucy1oZWxwcy10ZW5hbnRzLXN0YXktaW5mb3JtZWQtcmVudGVycy1sYW5kbG9yZC1hcGFydG1lbnQtY29tcGxleC1tb3ZpbmctZXZpY3Rpb24taGVscC1sYXd5ZXItYXNzaXN0YW5jZS1saXZpbmfSAc0BaHR0cHM6Ly9uZXdzNHNhbmFudG9uaW8uY29tL2FtcC9uZXdzL2xvY2FsL3JlbnR3aXNlLXNhLWhvc3RzLXJlbnRlcnMtcmlnaHRzLWluZm9ybWF0aW9uLXNlc3Npb25zLWhlbHBzLXRlbmFudHMtc3RheS1pbmZvcm1lZC1yZW50ZXJzLWxhbmRsb3JkLWFwYXJ0bWVudC1jb21wbGV4LW1vdmluZy1ldmljdGlvbi1oZWxwLWxhd3llci1hc3Npc3RhbmNlLWxpdmluZw?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 13:10:47 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
+    },
+    {
+        "title": "San Antonio school systems' 2025 outlook? Big money problems. - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmV4cHJlc3NuZXdzLmNvbS9uZXdzL2VkdWNhdGlvbi9hcnRpY2xlL3Nhbi1hbnRvbmlvLXNjaG9vbC1zeXN0ZW1zLTIwMjUtb3V0bG9vay1iaWctMTk0NDkwNTkucGhw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 19 May 2024 09:13:07 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "Meals on Wheels delivers fans, cooling kits to vulnerable San Antonians - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL2ZveHNhbmFudG9uaW8uY29tL25ld3NsZXR0ZXItZGFpbHkvbWVhbHMtb24td2hlZWxzLWRlbGl2ZXJzLWZhbnMtY29vbGluZy1raXRzLXRvLXZ1bG5lcmFibGUtc2FuLWFudG9uaWFucy1sb2NhbC1uZXdzLW5lYXItbWUtc3ByaW5nLXN1bW1lci1oZWF0LXdlYXRoZXLSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 18 May 2024 20:17:50 GMT",
+        "source_url": "https://foxsanantonio.com",
+        "source_name": "FOX 29"
+    },
+    {
+        "title": "Weed call turns violent involving Texas police - mySA",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm15c2FuYW50b25pby5jb20vbmV3cy9sb2NhbC9hcnRpY2xlL3Nhbi1hbnRvbmlvLXNob290aW5nLTE5NDY3NjcxLnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 12:46:22 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
+    },
+    {
+        "title": "SA Live & Frozen the Musical Sweepstakes - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmtzYXQuY29tL3NhLWxpdmUvMjAyNC8wNS8yMC9zYS1saXZlLWZyb3plbi10aGUtbXVzaWNhbC1zd2VlcHN0YWtlcy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 20 May 2024 15:17:47 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
     }
 ]
