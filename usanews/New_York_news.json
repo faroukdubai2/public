@@ -1,1 +1,626 @@
-[]
+[
+    {
+        "title": "NYPD issues advisory ahead of Israel Day on Fifth Parade - NBC New York",
+        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5iY25ld3lvcmsuY29tL25ld3MvbG9jYWwvaXNyYWVsLWRheS1wYXJhZGUtbnljLzU0NjQzMDEv0gFKaHR0cHM6Ly93d3cubmJjbmV3eW9yay5jb20vbmV3cy9sb2NhbC9pc3JhZWwtZGF5LXBhcmFkZS1ueWMvNTQ2NDMwMS8_YW1wPTE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 16:13:42 GMT",
+        "source_url": "https://www.nbcnewyork.com",
+        "source_name": "NBC New York"
+    },
+    {
+        "title": "Jessica Chastain lists NYC home for $7.45M - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3JlYWwtZXN0YXRlL2plc3NpY2EtY2hhc3RhaW4tbGlzdHMtbnljLWhvbWUtZm9yLTctNDVtL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:58:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "Former President Trump found guilty in NYC criminal trial - Spectrum News NY1",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbnkxLmNvbS9ueWMvYWxsLWJvcm91Z2hzL3BvbGl0aWNzLzIwMjQvMDUvMzAvdHJ1bXAtbWFuaGF0dGFuLWh1c2gtbW9uZXktdHJpYWwtdmVyZGljdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:07:00 GMT",
+        "source_url": "https://ny1.com",
+        "source_name": "Spectrum News NY1"
+    },
+    {
+        "title": "Key Bronx Lawmakers Yet to Back Crucial Legislation for Bronx Casino - THE CITY",
+        "link": "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy50aGVjaXR5Lm55Yy8yMDI0LzA1LzMwL2Jyb254LWNhc2luby1iYWxseXMtZ2FtYmxlLXBhcmtzLWFsaWVuYXRpb24vP3V0bV9zb3VyY2U9bmV3c3Nob3djYXNlJnV0bV9tZWRpdW09Z25ld3MmdXRtX2NhbXBhaWduPUNEQXFFQWdBS2djSUNqQzE5TUVMTU5lUDJRTXduczNiQVEmdXRtX2NvbnRlbnQ9cnVuZG93btIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:10:51 GMT",
+        "source_url": "https://www.thecity.nyc",
+        "source_name": "THE CITY"
+    },
+    {
+        "title": "\u2018Booze Patrol\u2019 Sheriffs Had \u2018Man-Cave\u2019 Full of Stolen COVID Liquor \u2014 But Escaped Criminal Charges - THE CITY",
+        "link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy50aGVjaXR5Lm55Yy8yMDI0LzA1LzMxL2Jvb3plLXBhdHJvbC1zaGVyaWZmcy1uby1jaGFyZ2VzLz91dG1fc291cmNlPW5ld3NzaG93Y2FzZSZ1dG1fbWVkaXVtPWduZXdzJnV0bV9jYW1wYWlnbj1DREFxRUFnQUtnY0lDakMxOU1FTE1OZVAyUU13bnMzYkFRJnV0bV9jb250ZW50PXJ1bmRvd27SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 09:00:00 GMT",
+        "source_url": "https://www.thecity.nyc",
+        "source_name": "THE CITY"
+    },
+    {
+        "title": "Public Hospital Residents Win Contract Deal, Reaching Parity With Private Peers - THE CITY",
+        "link": "https://news.google.com/rss/articles/CBMi4gFodHRwczovL3d3dy50aGVjaXR5Lm55Yy8yMDI0LzA1LzI5L2NvbW1pdHRlZS1pbnRlcm5zLXJlc2lkZW50cy1zZWl1LWhlYWx0aC1ob3NwaXRhbHMtY29ycG9yYXRpb24tY29udHJhY3QtcGF5LXBhcml0eS8_dXRtX3NvdXJjZT1uZXdzc2hvd2Nhc2UmdXRtX21lZGl1bT1nbmV3cyZ1dG1fY2FtcGFpZ249Q0RBcUVBZ0FLZ2NJQ2pDMTlNRUxNTmVQMlFNd25zM2JBUSZ1dG1fY29udGVudD1ydW5kb3du0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 18:22:16 GMT",
+        "source_url": "https://www.thecity.nyc",
+        "source_name": "THE CITY"
+    },
+    {
+        "title": "Live Updates: Trump Lashes Out After Conviction in Misleading Speech - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMipgNodHRwczovL3d3dy5ueXRpbWVzLmNvbS9saXZlLzIwMjQvMDUvMzEvbnlyZWdpb24vdHJ1bXAtbmV3cy1ndWlsdHktdmVyZGljdD91dG1fc291cmNlPW5ld3NzaG93Y2FzZSZ1dG1fbWVkaXVtPWduZXdzJnV0bV9jYW1wYWlnbj1DREFRbEpERnQ4aXR2TEtvQVJqLXM3bXpoS3VLeUpNQktnOElBQ29IQ0Fvd2p1dUtBekNXcnp3JnV0bV9jb250ZW50PXJ1bmRvd24mZ2FhX2F0PWxhJmdhYV9uPUFSVEotVTg3SjBJeFlVa2JZUV9sR19MMlBLa2UwSGhiMUhhU0YwNU1BNHUydno3S0gzWFU4UHNZdU9DbWYtcV9MMTE3VzJJYUpYejRtUSUzRCUzRCZnYWFfdHM9NjY1YTI1MTAmZ2FhX3NpZz16TldvVjVVVHY5QjN2QWlIVWRXbWFxeEZqblIwR0szZ09VbjN6Tlk3endDb1FIdUpFY0kyZjYwRVRXajNHazhkdWNiT2Q1Ym03TDRWM1ZVLWs1OEF3USUzRCUzRNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 18:14:58 GMT",
+        "source_url": "https://www.nytimes.com",
+        "source_name": "The New York Times"
+    },
+    {
+        "title": "Will It Matter? Searching for Clues in the Polls About a Trump Conviction. - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiqgNodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI0LzA1LzMwL3Vwc2hvdC9wb2xsaW5nLXRydW1wLXZlcmRpY3QtY29udmljdGlvbi5odG1sP3V0bV9zb3VyY2U9bmV3c3Nob3djYXNlJnV0bV9tZWRpdW09Z25ld3MmdXRtX2NhbXBhaWduPUNEQVFsSkRGdDhpdHZMS29BUmotczdtemhLdUt5Sk1CS2c4SUFDb0hDQW93anV1S0F6Q1dyencmdXRtX2NvbnRlbnQ9cnVuZG93biZnYWFfYXQ9ZyZnYWFfbj1BUlRKLVVfZXF2a2dPbENOYUwzRHBhYU15VGtudmEyZm9EZDNfYkxmSWV1LUZpdzdWeVprNmVFdzliajN0MEgyV09XQTUxZFVRRFprUFElM0QlM0QmZ2FhX3RzPTY2NWEyNTEwJmdhYV9zaWc9dXZRWWxGR3hGRThUbk42THNneUlVdHBwMUJ3NEhIekhkYnZDX0dIQlJZby1aQ0hIMGhiU3V1NkZBa3RSTUFNOVJiRllwOWVvckJ4TFYxXzVsa1N2bEElM0QlM0TSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:23:00 GMT",
+        "source_url": "https://www.nytimes.com",
+        "source_name": "The New York Times"
+    },
+    {
+        "title": "Biden Outlines Cease-fire Proposal to End War in Gaza - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMipANodHRwczovL3d3dy5ueXRpbWVzLmNvbS9saXZlLzIwMjQvMDUvMzEvd29ybGQvaXNyYWVsLWdhemEtd2FyLWhhbWFzLXJhZmFoP3V0bV9zb3VyY2U9bmV3c3Nob3djYXNlJnV0bV9tZWRpdW09Z25ld3MmdXRtX2NhbXBhaWduPUNEQVFsSkRGdDhpdHZMS29BUmotczdtemhLdUt5Sk1CS2c4SUFDb0hDQW93anV1S0F6Q1dyencmdXRtX2NvbnRlbnQ9cnVuZG93biZnYWFfYXQ9ZyZnYWFfbj1BUlRKLVU5UVE3OS1ObTRpN0ItS0pHNkNxalA2OTV2YnZtU2Zzb0kwRGl0eWJpMTVZZHU1eDllQ3dfUFNGYTdQMElvMHNoeGhaSmFUb1ElM0QlM0QmZ2FhX3RzPTY2NWEyNTEwJmdhYV9zaWc9Q0FQZW83M3hwaXA0MWRoWmFUckQxYTFPQl9XVExaNVlXeHZ6V1JESTJLLUMtbllfS1Boc0ptZUtvSkZPSUg4WHk5bVVmSzZNYWgtUHhxTkY1UWVIYmclM0QlM0TSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 18:23:00 GMT",
+        "source_url": "https://www.nytimes.com",
+        "source_name": "The New York Times"
+    },
+    {
+        "title": "Trump says he will appeal historic conviction - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgNodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC91cy93aGl0ZS1ob3VzZS1yYWNlLXBsdW5nZXMtaW50by11bmNoYXJ0ZWQtdGVycml0b3J5LXRydW1wLWF3YWl0cy1qdWx5LXNlbnRlbmNpbmctMjAyNC0wNS0zMS8_dXRtX3NvdXJjZT1uZXdzc2hvd2Nhc2UmdXRtX21lZGl1bT1nbmV3cyZ1dG1fY2FtcGFpZ249Q0RBcURRZ0FLZ1lJQ2pDM29Bd3dzQ1l3cUxpREF3JnV0bV9jb250ZW50PXJ1bmRvd24mZ2FhX2F0PWxhJmdhYV9uPUFSVEotVV9USDZqa19DcWpKNmNPcFFzbnZUOERFQ2JKUXhOa2ZHOURMNFY0c0hWXzkwem9PYnJmSldKblROSXhZMHBqUm1jRENJNWlQZyUzRCUzRCZnYWFfdHM9NjY1YTI1MTAmZ2FhX3NpZz13UVF5eGthaFU5STVqQV9hV3NTeVh0TzE1QWNPNkg5Snh6N29abGtlMWMtWktXeS1yVGx3T2lQZjhpSERDU05yR3VGZlQ3ODRBcG5hcDRtVE5IQjdlZyUzRCUzRNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 17:14:39 GMT",
+        "source_url": "https://www.reuters.com",
+        "source_name": "Reuters"
+    },
+    {
+        "title": "Trump supporters call for riots, violent attacks after verdict - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirANodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC91cy90cnVtcC1zdXBwb3J0ZXJzLWNhbGwtcmlvdHMtdmlvbGVudC1yZXRyaWJ1dGlvbi1hZnRlci12ZXJkaWN0LTIwMjQtMDUtMzEvP3V0bV9zb3VyY2U9bmV3c3Nob3djYXNlJnV0bV9tZWRpdW09Z25ld3MmdXRtX2NhbXBhaWduPUNEQXFEUWdBS2dZSUNqQzNvQXd3c0NZd3FMaURBdyZ1dG1fY29udGVudD1ydW5kb3duJmdhYV9hdD1nJmdhYV9uPUFSVEotVTlZcno5a0xrMjBPdjhwQVFrbExDTFltTjd0cG9JbjhFQWJXRmljbElzNjA2WlJha0NYNjJucjVtb3ktZHB0Mjd5cWt6em93USUzRCUzRCZnYWFfdHM9NjY1YTI1MTAmZ2FhX3NpZz1IUGdhaXRkMGxYV2RFajI1MnloYnZWOVpkUjJobTZaQnBBZUpqbXZkTUJLcEp0MWVqdDJ2dFFoeWFiS2FITC1Yay1vblBReTNmMm1ETExMeC1SdjNLQSUzRCUzRNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 16:01:00 GMT",
+        "source_url": "https://www.reuters.com",
+        "source_name": "Reuters"
+    },
+    {
+        "title": "After Trump's conviction, jury is still out on political damage - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqQNodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC91cy9hZnRlci10cnVtcHMtY29udmljdGlvbi1qdXJ5LWlzLXN0aWxsLW91dC1wb2xpdGljYWwtZGFtYWdlLTIwMjQtMDUtMzEvP3V0bV9zb3VyY2U9bmV3c3Nob3djYXNlJnV0bV9tZWRpdW09Z25ld3MmdXRtX2NhbXBhaWduPUNEQXFEUWdBS2dZSUNqQzNvQXd3c0NZd3FMaURBdyZ1dG1fY29udGVudD1ydW5kb3duJmdhYV9hdD1nJmdhYV9uPUFSVEotVTgteFRGMXEwTE1XTTZOaDFzQmdFWUNqUThHZ2VsdFBsRkhNMVVqVVE4X0Nad0MzSGpJOVh1SE5WeksyOGEzSmszMGF3UEU3USUzRCUzRCZnYWFfdHM9NjY1YTI1MTAmZ2FhX3NpZz11RVBkc3FkOHVoNWdHdUxndzN2cWlJNVFGRTNxamJIbjBHelN1X19GMUlTNThwUlZZQXBEd0NBdzZBb1JiclhHR19EWmdxZVJSZTh2SVZFaC1sVWgwdyUzRCUzRNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 12:07:00 GMT",
+        "source_url": "https://www.reuters.com",
+        "source_name": "Reuters"
+    },
+    {
+        "title": "New York Comedy Club Announces Summer Opening - iLovetheUpperWestSide.com - I Love the Upper West Side",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vaWxvdmV0aGV1cHBlcndlc3RzaWRlLmNvbS9uZXcteW9yay1jb21lZHktY2x1Yi1hbm5vdW5jZXMtc3VtbWVyLW9wZW5pbmcv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 19:24:48 GMT",
+        "source_url": "https://ilovetheupperwestside.com",
+        "source_name": "I Love the Upper West Side"
+    },
+    {
+        "title": "Best Restaurants and Bars for NYC Summer Weekends - Eater NY",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbnkuZWF0ZXIuY29tLzIwMjQvNS8zMS8yNDE2NjU2NS9uZXcteW9yay1jaXR5LXN1bW1lci1yZXN0YXVyYW50cy1hbmQtYmFyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:50:59 GMT",
+        "source_url": "https://ny.eater.com",
+        "source_name": "Eater NY"
+    },
+    {
+        "title": "DOE head condemns pro-Palestine walkout planned for NYC schools Friday - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3VzLW5ld3MvZG9lLWhlYWQtY29uZGVtbnMtcHJvLXBhbGVzdGluZS13YWxrb3V0LXBsYW5uZWQtZm9yLW55Yy1zY2hvb2xzLWZyaWRheS_SAXFodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8zMC91cy1uZXdzL2RvZS1oZWFkLWNvbmRlbW5zLXByby1wYWxlc3RpbmUtd2Fsa291dC1wbGFubmVkLWZvci1ueWMtc2Nob29scy1mcmlkYXkvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 23:09:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "Which New York Italian Restaurant Sells the Best Red Sauce? - Eater NY",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbnkuZWF0ZXIuY29tLzIwMjQvNS8zMC8yNDE2NTExNS9iZXN0LW55Yy1pdGFsaWFuLXJlc3RhdXJhbnQtc2F1Y2VzLW1hcmluYXJh0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 13:27:51 GMT",
+        "source_url": "https://ny.eater.com",
+        "source_name": "Eater NY"
+    },
+    {
+        "title": "Adams administration says migrants relocated from Rotterdam Super 8 will not be sent to NYC - Times Union ",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRpbWVzdW5pb24uY29tL25ld3MvYXJ0aWNsZS9taWdyYW50cy1tb3ZlZC1yb3R0ZXJkYW0tc3VwZXItOC1ub3Qtc2VudC1uZXcteW9yay0xOTQ4ODAxMS5waHDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:59:11 GMT",
+        "source_url": "https://www.timesunion.com",
+        "source_name": "Times Union "
+    },
+    {
+        "title": "Live in Andy Warhol's former NYC rowhouse for $6.19M - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3JlYWwtZXN0YXRlL2xpdmUtaW4tYW5keS13YXJob2xzLWZvcm1lci1ueWMtcm93aG91c2UtZm9yLTYtMTltL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:14:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "A New York City nonprofit helps blind riders take bike rides. I rolled with them. - Gothamist",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZ290aGFtaXN0LmNvbS9hcnRzLWVudGVydGFpbm1lbnQvYS1uZXcteW9yay1jaXR5LW5vbnByb2ZpdC1oZWxwcy1ibGluZC1yaWRlcnMtdGFrZS1iaWtlLXJpZGVzLWktcm9sbGVkLXdpdGgtdGhlbdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:01:00 GMT",
+        "source_url": "https://gothamist.com",
+        "source_name": "Gothamist"
+    },
+    {
+        "title": "Man Shot on Henry Hudson Parkway - iLovetheUpperWestSide.com - I Love the Upper West Side",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vaWxvdmV0aGV1cHBlcndlc3RzaWRlLmNvbS9tYW4tc2hvdC1vbi1oZW5yeS1odWRzb24tcGFya3dheS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 14:31:11 GMT",
+        "source_url": "https://ilovetheupperwestside.com",
+        "source_name": "I Love the Upper West Side"
+    },
+    {
+        "title": "NYC, bracing for another round of Canadian wildfire smoke this summer, works on response - New York Daily News",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzA1LzMwL255Yy1icmFjaW5nLWZvci1hbm90aGVyLXJvdW5kLW9mLWNhbmFkaWFuLXdpbGRmaXJlLXNtb2tlLXRoaXMtc3VtbWVyLXdvcmtzLW9uLXJlc3BvbnNlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:44:56 GMT",
+        "source_url": "https://www.nydailynews.com",
+        "source_name": "New York Daily News"
+    },
+    {
+        "title": "Trump's gains in NYC point to GOP's multiracial future - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL29waW5pb24vdHJ1bXBzLWdhaW5zLWluLW55Yy1wb2ludC10by1nb3BzLW11bHRpcmFjaWFsLWZ1dHVyZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 20:37:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "NYC is set to unlock its Section 8 waitlist. But don't wait to apply. - Gothamist",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZ290aGFtaXN0LmNvbS9uZXdzL255Yy1pcy1zZXQtdG8tdW5sb2NrLWl0cy1zZWN0aW9uLTgtd2FpdGxpc3QtYnV0LWRvbnQtd2FpdC10by1hcHBsedIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:01:00 GMT",
+        "source_url": "https://gothamist.com",
+        "source_name": "Gothamist"
+    },
+    {
+        "title": "NYC songwriting camp Anti Social Camp returns with Miranda Lambert, Cults, Rob Thomas & more - Brooklyn Vegan",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmJyb29rbHludmVnYW4uY29tL255Yy1zb25nd3JpdGluZy1jYW1wLWFudGktc29jaWFsLWNhbXAtcmV0dXJucy13aXRoLW1pcmFuZGEtbGFtYmVydC1jdWx0cy1yb2ItdGhvbWFzLW1vcmUv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:57:48 GMT",
+        "source_url": "https://www.brooklynvegan.com",
+        "source_name": "Brooklyn Vegan"
+    },
+    {
+        "title": "Gov. Kathy Hochul considers smartphone ban in New York schools - WABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYWJjN255LmNvbS9wb3N0L3NvY2lhbC1tZWRpYS1raWRzLWhvY2h1bC1jb25zaWRlcnMtc21hcnRwaG9uZS1iYW4tc2Nob29scy8xNDg5MDg5Ny_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 00:03:18 GMT",
+        "source_url": "https://abc7ny.com",
+        "source_name": "WABC-TV"
+    },
+    {
+        "title": "NYC homeowners get $14k incentive for climate-friendly upgrades. Here's who qualifies. - Gothamist",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZ290aGFtaXN0LmNvbS9uZXdzL255Yy1ob21lb3duZXJzLWdldC0xNGstaW5jZW50aXZlLWZvci1jbGltYXRlLWZyaWVuZGx5LXVwZ3JhZGVzLWhlcmVzLXdoby1xdWFsaWZpZXPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:01:00 GMT",
+        "source_url": "https://gothamist.com",
+        "source_name": "Gothamist"
+    },
+    {
+        "title": "Truckers sue NY over controversial $15 congestion toll to enter Manhattan - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3VzLW5ld3MvdHJ1Y2tlcnMtc3VlLW55LW92ZXItY29udHJvdmVyc2lhbC0xNS1jb25nZXN0aW9uLXRvbGwtdG8tZW50ZXItbWFuaGF0dGFuL9IBc2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3VzLW5ld3MvdHJ1Y2tlcnMtc3VlLW55LW92ZXItY29udHJvdmVyc2lhbC0xNS1jb25nZXN0aW9uLXRvbGwtdG8tZW50ZXItbWFuaGF0dGFuL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 00:22:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "Mayor Eric Adams announces new measures to prepare for extreme weather in NYC - WABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYWJjN255LmNvbS9wb3N0L255Yy13ZWF0aGVyLW1heW9yLWVyaWMtYWRhbXMtYW5ub3VuY2VzLW5ldy1tZWFzdXJlcy8xNDg5MTI1MC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:26:15 GMT",
+        "source_url": "https://abc7ny.com",
+        "source_name": "WABC-TV"
+    },
+    {
+        "title": "NYC DOT Reminds New Yorkers of Closures on Brooklyn-Queens Expressway This Weekend, June 1-3 for Necessary Deck Repair Work; Motorists Should Avoid the BQE in Brooklyn - nyc.gov",
+        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55Yy5nb3YvaHRtbC9kb3QvaHRtbC9wcjIwMjQvYnFlLWNsb3N1cmUtdGhpcy13ZWVrZW5kLnNodG1s0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 14:59:45 GMT",
+        "source_url": "https://www.nyc.gov",
+        "source_name": "nyc.gov"
+    },
+    {
+        "title": "NYC's 'last-mile' delivery warehouses face a potential reckoning with regulation - Gothamist",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZ290aGFtaXN0LmNvbS9uZXdzL255Y3MtbGFzdC1taWxlLWRlbGl2ZXJ5LXdhcmVob3VzZXMtZmFjZS1hLXBvdGVudGlhbC1yZWNrb25pbmctd2l0aC1yZWd1bGF0aW9u0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:01:32 GMT",
+        "source_url": "https://gothamist.com",
+        "source_name": "Gothamist"
+    },
+    {
+        "title": "Key Bronx Lawmakers Yet to Back Crucial Legislation for Bronx Casino - THE CITY",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoZWNpdHkubnljLzIwMjQvMDUvMzAvYnJvbngtY2FzaW5vLWJhbGx5cy1nYW1ibGUtcGFya3MtYWxpZW5hdGlvbi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:10:51 GMT",
+        "source_url": "https://www.thecity.nyc",
+        "source_name": "THE CITY"
+    },
+    {
+        "title": "NYC events: Your ultimate guide to 200+ summer activities - amNY",
+        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmFtbnkuY29tL2VudGVydGFpbm1lbnQvdGhpbmdzLXRvLWRvL255Yy1ldmVudHMtc3VtbWVyLTIwMjQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 11:00:37 GMT",
+        "source_url": "https://www.amny.com",
+        "source_name": "amNY"
+    },
+    {
+        "title": "Illegal immigrant wanted on warrant now suspected in fatal shooting outside NYC building - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3VzLW5ld3MvaWxsZWdhbC1pbW1pZ3JhbnQtd2FudGVkLW9uLXdhcnJhbnQtbm93LWNoYXJnZWQtaW4tZmF0YWwtc2hvb3Rpbmctb3V0c2lkZS1ueWMtYnVpbGRpbmcv0gGBAWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3VzLW5ld3MvaWxsZWdhbC1pbW1pZ3JhbnQtd2FudGVkLW9uLXdhcnJhbnQtbm93LWNoYXJnZWQtaW4tZmF0YWwtc2hvb3Rpbmctb3V0c2lkZS1ueWMtYnVpbGRpbmcvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:47:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "Mayor Adams hit with another ticket for rodents at his Brooklyn home as NYC rat sightings remain elevated - New York Daily News",
+        "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5ueWRhaWx5bmV3cy5jb20vMjAyNC8wNS8zMC9tYXlvci1hZGFtcy1oaXQtd2l0aC1hbm90aGVyLXRpY2tldC1mb3Itcm9kZW50cy1hdC1oaXMtYnJvb2tseW4taG9tZS1hcy1ueWMtcmF0LXNpZ2h0aW5ncy1yZW1haW4tZWxldmF0ZWQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:02:52 GMT",
+        "source_url": "https://www.nydailynews.com",
+        "source_name": "New York Daily News"
+    },
+    {
+        "title": "Early Addition: Times have been better for NYC's pizza blue bloods - Gothamist",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZ290aGFtaXN0LmNvbS9uZXdzL2Vhcmx5LWFkZGl0aW9uLXRpbWVzLWhhdmUtYmVlbi1iZXR0ZXItZm9yLW55Y3MtcGl6emEtYmx1ZS1ibG9vZHPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 14:01:34 GMT",
+        "source_url": "https://gothamist.com",
+        "source_name": "Gothamist"
+    },
+    {
+        "title": "New York senator demands answers on undistributed state funds meant for veterans - WRGB",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vY2JzNmFsYmFueS5jb20vbmV3cy95b3UtcGFpZC1mb3ItaXQvbmV3LXlvcmstc2VuYXRvci1kZW1hbmRzLWFuc3dlcnMtb24tdW5kaXN0cmlidXRlZC1zdGF0ZS1mdW5kcy1tZWFudC1mb3ItdmV0ZXJhbnPSAYABaHR0cHM6Ly9jYnM2YWxiYW55LmNvbS9hbXAvbmV3cy95b3UtcGFpZC1mb3ItaXQvbmV3LXlvcmstc2VuYXRvci1kZW1hbmRzLWFuc3dlcnMtb24tdW5kaXN0cmlidXRlZC1zdGF0ZS1mdW5kcy1tZWFudC1mb3ItdmV0ZXJhbnM?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 19:32:05 GMT",
+        "source_url": "https://cbs6albany.com",
+        "source_name": "WRGB"
+    },
+    {
+        "title": "7 Things to do in New York City, May 31-June 2 - New York Daily News",
+        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzA1LzMwL3RoaW5ncy10by1kby1ueWMtbWF5LTMxLWp1bmUtMi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 12:38:41 GMT",
+        "source_url": "https://www.nydailynews.com",
+        "source_name": "New York Daily News"
+    },
+    {
+        "title": "Bronx Pol Wants City to Exempt Campaign Donor From Idling Law - Streetsblog New York City - Streetsblog New York City",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbnljLnN0cmVldHNibG9nLm9yZy8yMDI0LzA1LzMwL2Jyb254LXBvbC13YW50cy1jaXR5LXRvLWV4ZW1wdC1jYW1wYWlnbi1kb25vci1mcm9tLWlkbGluZy1sYXfSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:17:00 GMT",
+        "source_url": "https://nyc.streetsblog.org",
+        "source_name": "Streetsblog New York City"
+    },
+    {
+        "title": "Longtime Staten Islander wants to be first person to use medical aid in dying in New York: \u2018I\u2019m suffering mor - SILive.com",
+        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5zaWxpdmUuY29tL25ld3MvMjAyNC8wNS9sb25ndGltZS1zdGF0ZW4taXNsYW5kZXItd2FudHMtdG8tYmUtZmlyc3QtcGVyc29uLXRvLXVzZS1tZWRpY2FsLWFpZC1pbi1keWluZy1pbi1uZXcteW9yay1pbS1zdWZmZXJpbmctbW9yZS10aGFuLXlvdS1jYW4taW1hZ2luZS5odG1s0gG4AWh0dHBzOi8vd3d3LnNpbGl2ZS5jb20vbmV3cy8yMDI0LzA1L2xvbmd0aW1lLXN0YXRlbi1pc2xhbmRlci13YW50cy10by1iZS1maXJzdC1wZXJzb24tdG8tdXNlLW1lZGljYWwtYWlkLWluLWR5aW5nLWluLW5ldy15b3JrLWltLXN1ZmZlcmluZy1tb3JlLXRoYW4teW91LWNhbi1pbWFnaW5lLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 09:50:00 GMT",
+        "source_url": "https://www.silive.com",
+        "source_name": "SILive.com"
+    },
+    {
+        "title": "'No Love City' gang leader sentenced for shooting NYC rival crew in fight over his stolen gold chain: prosecutors - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8zMC91cy1uZXdzL255Yy1uby1sb3ZlLWNpdHktZ2FuZy1sZWFkZXItc2VudGVuY2VkLWZvci1zaG9vdGluZy1yaXZhbC1jcmV3LWluLWZpZ2h0LW92ZXItaGlzLXN0b2xlbi1nb2xkLWNoYWluLXByb3NlY3V0b3JzL9IBmQFodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8zMC91cy1uZXdzL255Yy1uby1sb3ZlLWNpdHktZ2FuZy1sZWFkZXItc2VudGVuY2VkLWZvci1zaG9vdGluZy1yaXZhbC1jcmV3LWluLWZpZ2h0LW92ZXItaGlzLXN0b2xlbi1nb2xkLWNoYWluLXByb3NlY3V0b3JzL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:59:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "New York's crackdown on illicit weed stores is swift, finally - Crain's New York Business",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNyYWluc25ld3lvcmsuY29tL2Nhbm5hYmlzL25ldy15b3JrLWlsbGVnYWwtd2VlZC1jcmFja2Rvd24tZmluYWxseS1zd2lmdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 19:09:12 GMT",
+        "source_url": "https://www.crainsnewyork.com",
+        "source_name": "Crain's New York Business"
+    },
+    {
+        "title": "Thirst no more: It's no longer illegal to hand out water to New York voters - Gothamist",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZ290aGFtaXN0LmNvbS9uZXdzL3RoaXJzdC1uby1tb3JlLWl0cy1uby1sb25nZXItaWxsZWdhbC10by1oYW5kLW91dC13YXRlci10by1uZXcteW9yay12b3RlcnPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 19:53:00 GMT",
+        "source_url": "https://gothamist.com",
+        "source_name": "Gothamist"
+    },
+    {
+        "title": "How to Support NYC First Responders | Z100 New York | Elvis Duran - z100.iheart.com",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vejEwMC5paGVhcnQuY29tL2ZlYXR1cmVkL2VsdmlzLWR1cmFuL2NvbnRlbnQvMjAyNC0wNS0zMS1ob3ctdG8tc3VwcG9ydC1ueWMtZmlyc3QtcmVzcG9uZGVycy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:53:00 GMT",
+        "source_url": "https://z100.iheart.com",
+        "source_name": "z100.iheart.com"
+    },
+    {
+        "title": "Late-Session Bill Would Add More NYC Neighborhoods to Basement Legalization Plan - City Limits",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vY2l0eWxpbWl0cy5vcmcvMjAyNC8wNS8zMC9sYXRlLXNlc3Npb24tYmlsbC13b3VsZC1hZGQtbW9yZS1ueWMtbmVpZ2hib3Job29kcy10by1iYXNlbWVudC1sZWdhbGl6YXRpb24tcGxhbi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 12:41:57 GMT",
+        "source_url": "https://citylimits.org",
+        "source_name": "City Limits"
+    },
+    {
+        "title": "We pay $1600 a month for a 1-bedroom apartment in Brooklyn: What it's like to live with my in-laws - NBC New York",
+        "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5uYmNuZXd5b3JrLmNvbS9uZXdzL25hdGlvbmFsLWludGVybmF0aW9uYWwvd2UtcGF5LTE2MDAtYS1tb250aC1mb3ItYS0xLWJlZHJvb20tYXBhcnRtZW50LWluLWJyb29rbHluLXdoYXQtaXRzLWxpa2UtdG8tbGl2ZS13aXRoLW15LWluLWxhd3MvNTQ2NTQ0Ni_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 18:24:24 GMT",
+        "source_url": "https://www.nbcnewyork.com",
+        "source_name": "NBC New York"
+    },
+    {
+        "title": "New York-Presbyterian demands $25M to sever ties with union health plan - Crain's New York Business",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNyYWluc25ld3lvcmsuY29tL2hlYWx0aC1wdWxzZS9uZXcteW9yay1wcmVzYnl0ZXJpYW4tZGVtYW5kcy0yNW0tc2V2ZXItdGllcy0zMmJqcy1oZWFsdGgtcGxhbtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 09:30:00 GMT",
+        "source_url": "https://www.crainsnewyork.com",
+        "source_name": "Crain's New York Business"
+    },
+    {
+        "title": "Advocate groups rally to demand NYC take action against rise of antisemitic attacks - WABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYWJjN255LmNvbS9wb3N0L255Yy1oYXRlLWNyaW1lLXJhbGx5LWdyb3Vwcy1nYXRoZXItZGVtYW5kLWNpdHkvMTQ4OTExODAv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 16:38:13 GMT",
+        "source_url": "https://abc7ny.com",
+        "source_name": "WABC-TV"
+    },
+    {
+        "title": "NYC\u2019s top lawyer officially leaves as Adams admin lobbies for Randy Mastro as replacement - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3VzLW5ld3Mvbnljcy10b3AtbGF3eWVyLW9mZmljaWFsbHktbGVhdmVzLWFzLWFkYW1zLWFkbWluLWxvYmJpZXMtZm9yLXJhbmR5LW1hc3Ryby_SAXRodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8zMC91cy1uZXdzL255Y3MtdG9wLWxhd3llci1vZmZpY2lhbGx5LWxlYXZlcy1hcy1hZGFtcy1hZG1pbi1sb2JiaWVzLWZvci1yYW5keS1tYXN0cm8vYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 20:43:22 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "Philippine Independence Day Parade celebrates Filipino culture in NYC - PIX11 New York News",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vcGl4MTEuY29tL2FhcGktaGVyaXRhZ2UtbW9udGgvcGhpbGlwcGluZS1pbmRlcGVuZGVuY2UtZGF5LXBhcmFkZS1jZWxlYnJhdGVzLWZpbGlwaW5vLWN1bHR1cmUtaW4tbnljL9IBcGh0dHBzOi8vcGl4MTEuY29tL2FhcGktaGVyaXRhZ2UtbW9udGgvcGhpbGlwcGluZS1pbmRlcGVuZGVuY2UtZGF5LXBhcmFkZS1jZWxlYnJhdGVzLWZpbGlwaW5vLWN1bHR1cmUtaW4tbnljL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 16:19:49 GMT",
+        "source_url": "https://pix11.com",
+        "source_name": "PIX11 New York News"
+    },
+    {
+        "title": "Bronx, NY - Woman Killed in Hit & Run Crash on Washington Ave - MetroLaw",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbWV0cm9sYXcuY29tL2Jyb254LW55LXdvbWFuLWtpbGxlZC1pbi1oaXQtcnVuLWNyYXNoLW9uLXdhc2hpbmd0b24tYXZlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 15:04:42 GMT",
+        "source_url": "https://metrolaw.com",
+        "source_name": "MetroLaw"
+    },
+    {
+        "title": "Straphangers brace for G train summertime shutdown - Spectrum News NY1",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbnkxLmNvbS9ueWMvYnJvb2tseW4vbmV3cy8yMDI0LzA1LzMxL3N0cmFwaGFuZ2Vycy1icmFjZS1mb3ItZy10cmFpbi1zaHV0ZG93btIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 16:22:00 GMT",
+        "source_url": "https://ny1.com",
+        "source_name": "Spectrum News NY1"
+    },
+    {
+        "title": "What's up this weekend? Events for 6/1 - 6/2 - WABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vYWJjN255LmNvbS9wb3N0L3dlZWtlbmQtZXZlbnRzLTYxLTYyLzE0ODk1MzY2L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 15:14:46 GMT",
+        "source_url": "https://abc7ny.com",
+        "source_name": "WABC-TV"
+    },
+    {
+        "title": "Investing in NYC's youth in foster care - New York Daily News",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzA1LzMwL2ludmVzdGluZy1pbi1ueWNzLXlvdXRoLWluLWZvc3Rlci1jYXJlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 09:00:08 GMT",
+        "source_url": "https://www.nydailynews.com",
+        "source_name": "New York Daily News"
+    },
+    {
+        "title": "Nine (mostly) free things to do in New York City this June - Gothamist",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZ290aGFtaXN0LmNvbS9hcnRzLWVudGVydGFpbm1lbnQvbmluZS1tb3N0bHktZnJlZS10aGluZ3MtdG8tZG8taW4tbmV3LXlvcmstY2l0eS10aGlzLWp1bmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 12:31:00 GMT",
+        "source_url": "https://gothamist.com",
+        "source_name": "Gothamist"
+    },
+    {
+        "title": "Laundromat Losses + SOS Peter - W42ST magazine",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdzQyc3QuY29tL3Bvc3QvbmV3c2xldHRlci8lRjAlOUYlQTclQkEtbGF1bmRyb21hdC1sb3NzZXMtJUYwJTlGJTg2JTk4LXNvcy1wZXRlci_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:04:24 GMT",
+        "source_url": "https://w42st.com",
+        "source_name": "W42ST magazine"
+    },
+    {
+        "title": "Tensions between City Hall and the City Council spill into full view - City & State New York",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpdGljcy8yMDI0LzA1L3RlbnNpb25zLWJldHdlZW4tY2l0eS1oYWxsLWFuZC1jaXR5LWNvdW5jaWwtc3BpbGwtZnVsbC12aWV3LzM5Njk3Ni_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 08:00:00 GMT",
+        "source_url": "https://www.cityandstateny.com",
+        "source_name": "City & State New York"
+    },
+    {
+        "title": "Katharine Hepburn's former NYC home lists for $7.2M \u2014 with her mirrored vanity still inside - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzI5L3JlYWwtZXN0YXRlL2thdGhhcmluZS1oZXBidXJucy1mb3JtZXItbnljLWhvbWUtbGlzdHMtZm9yLTctMm0v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 21:03:14 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "DOT Announces Next Series of Cross Bronx Expressway Workshops - CityLand",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNpdHlsYW5kbnljLm9yZy9kb3QtYW5ub3VuY2VzLW5leHQtc2VyaWVzLW9mLWNyb3NzLWJyb254LWV4cHJlc3N3YXktd29ya3Nob3BzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 09:00:24 GMT",
+        "source_url": "https://www.citylandnyc.org",
+        "source_name": "CityLand"
+    },
+    {
+        "title": "NYC Breaks Ground On New BK 553-Seat Middle School - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vcGF0Y2guY29tL25ldy15b3JrL2Jyb29rbHluL255Yy1icmVha3MtZ3JvdW5kLW5ldy1iay01NTMtc2VhdC1taWRkbGUtc2Nob29s0gFjaHR0cHM6Ly9wYXRjaC5jb20vbmV3LXlvcmsvYnJvb2tseW4vYW1wLzMxNzY2NDU3L255Yy1icmVha3MtZ3JvdW5kLW9uLW5ldy1iay01NTMtc2VhdC1taWRkbGUtc2Nob29s?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:24:04 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Off-duty FDNY firefighter saves man from burning apartment in Prospect Park, Brooklyn - WABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYWJjN255LmNvbS9wb3N0L2Jyb29rbHluLWZpcmUtb2ZmLWR1dHktZmRueS1maXJlZmlnaHRlci1zYXZlcy1tYW4vMTQ4OTU3NDYv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 17:03:52 GMT",
+        "source_url": "https://abc7ny.com",
+        "source_name": "WABC-TV"
+    },
+    {
+        "title": "Opinion: New York's Legislature Must Act to Address Utility Outages in NYCHA - City Limits",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vY2l0eWxpbWl0cy5vcmcvMjAyNC8wNS8zMC9vcGluaW9uLW5ldy15b3Jrcy1sZWdpc2xhdHVyZS1tdXN0LWFjdC10by1hZGRyZXNzLXV0aWxpdHktb3V0YWdlcy1pbi1ueWNoYS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:37:35 GMT",
+        "source_url": "https://citylimits.org",
+        "source_name": "City Limits"
+    },
+    {
+        "title": "Inspector general: Digidog dodged disclosures - City & State New York",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNpdHlhbmRzdGF0ZW55LmNvbS9wb2xpY3kvMjAyNC8wNS9pbnNwZWN0b3ItZ2VuZXJhbC1kaWdpZG9nLWRvZGdlZC1kaXNjbG9zdXJlcy8zOTcwMDQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:06:39 GMT",
+        "source_url": "https://www.cityandstateny.com",
+        "source_name": "City & State New York"
+    },
+    {
+        "title": "Solving the Staffing Crisis Facing NYC\u2019s Human Services Organizations - Center for an Urban Future",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnljZnV0dXJlLm9yZy9yZXNlYXJjaC9zb2x2aW5nLXRoZS1zdGFmZmluZy1jcmlzaXMtZmFjaW5nLWh1bWFuLXNlcnZpY2VzLW9yZ2FuaXphdGlvbnMtaW4tbnlj0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 04:42:25 GMT",
+        "source_url": "https://nycfuture.org",
+        "source_name": "Center for an Urban Future"
+    },
+    {
+        "title": "12 New Yorkers convicted Trump \u2212 but he never fully fit in to New York City - The Advocate",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnN0YW1mb3JkYWR2b2NhdGUuY29tL25ld3MvYXJ0aWNsZS8xMi1uZXcteW9ya2Vycy1jb252aWN0ZWQtdHJ1bXAtYnV0LWhlLW5ldmVyLTE5NDg4MjY0LnBocNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 15:29:14 GMT",
+        "source_url": "https://www.stamfordadvocate.com",
+        "source_name": "The Advocate"
+    },
+    {
+        "title": "Reach the beach: Vintage subway trains will ride to the Rockaways and Coney Island this summer - 6Sqft",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LjZzcWZ0LmNvbS9yZWFjaC10aGUtYmVhY2gtdmludGFnZS1zdWJ3YXktdHJhaW5zLXdpbGwtcmlkZS10by10aGUtcm9ja2F3YXlzLWFuZC1jb25leS1pc2xhbmQtdGhpcy1zdW1tZXIv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 18:02:36 GMT",
+        "source_url": "https://www.6sqft.com",
+        "source_name": "6Sqft"
+    },
+    {
+        "title": "Family of Killed Bronx Cyclist Demands DOT Finish Washington Bridge Bike Lane - Streetsblog New York City - Streetsblog New York City",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbnljLnN0cmVldHNibG9nLm9yZy8yMDI0LzA1LzMwL2ZhbWlseS1vZi1raWxsZWQtYnJvbngtY3ljbGlzdC1kZW1hbmRzLWRvdC1maW5pc2gtd2FzaGluZ3Rvbi1icmlkZ2UtYmlrZS1sYW5l0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 04:02:00 GMT",
+        "source_url": "https://nyc.streetsblog.org",
+        "source_name": "Streetsblog New York City"
+    },
+    {
+        "title": "NYC Council campaigning to finish adding 151 new public bathrooms - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzMwL3VzLW5ld3MvbnljLWNvdW5jaWwtY2FtcGFpZ25pbmctdG8tZmluaXNoLWFkZGluZy0xNTEtbmV3LXB1YmxpYy1iYXRocm9vbXMv0gFsaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDUvMzAvdXMtbmV3cy9ueWMtY291bmNpbC1jYW1wYWlnbmluZy10by1maW5pc2gtYWRkaW5nLTE1MS1uZXctcHVibGljLWJhdGhyb29tcy9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 23:12:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    },
+    {
+        "title": "N.Y. Gov. Hochul announces the state\u2019s first-ever Youth Workers Bill of Rights; here\u2019s what to know - SILive.com",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5zaWxpdmUuY29tL25ld3MvMjAyNC8wNS9ueS1nb3YtaG9jaHVsLWFubm91bmNlcy10aGUtc3RhdGVzLWZpcnN0LWV2ZXIteW91dGgtd29ya2Vycy1iaWxsLW9mLXJpZ2h0cy1oZXJlcy13aGF0LXRvLWtub3cuaHRtbNIBlQFodHRwczovL3d3dy5zaWxpdmUuY29tL25ld3MvMjAyNC8wNS9ueS1nb3YtaG9jaHVsLWFubm91bmNlcy10aGUtc3RhdGVzLWZpcnN0LWV2ZXIteW91dGgtd29ya2Vycy1iaWxsLW9mLXJpZ2h0cy1oZXJlcy13aGF0LXRvLWtub3cuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 21:22:00 GMT",
+        "source_url": "https://www.silive.com",
+        "source_name": "SILive.com"
+    },
+    {
+        "title": "Adams brings back hidden tax that will cause NYC water bills to skyrocket - amNY",
+        "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmFtbnkuY29tL25ld3MvYWRhbXMtaGlkZGVuLXRheC1ueWMtd2F0ZXItYmlsbHMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 19:30:08 GMT",
+        "source_url": "https://www.amny.com",
+        "source_name": "amNY"
+    },
+    {
+        "title": "NYC's all-gender Miss Subways competition is back this weekend in Coney Island - Time Out",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL25ld3lvcmsvbmV3cy93aG8td2lsbC13aW4tdGhlLXRyYW5zaXQtdGlhcmEtYXQtbnljcy1hbGwtZ2VuZGVyLW1pc3Mtc3Vid2F5cy1jb21wZXRpdGlvbi0wNTI5MjTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 18:15:32 GMT",
+        "source_url": "https://www.timeout.com",
+        "source_name": "Time Out"
+    },
+    {
+        "title": "Three shot, including two teens, in separate NYC shootings - New York Daily News",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzA1LzI5L3RocmVlLXNob3QtaW5jbHVkaW5nLXR3by10ZWVucy1pbi1zZXBhcmF0ZS1ueWMtc2hvb3RpbmdzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 02:26:04 GMT",
+        "source_url": "https://www.nydailynews.com",
+        "source_name": "New York Daily News"
+    },
+    {
+        "title": "Amtrak expands Valley Flyer service with evening runs to and from Valley to NYC - GazetteNET",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmdhemV0dGVuZXQuY29tL1ZhbGxleS1GbHllci1sYXVuY2hlcy1uaWdodHRpbWUtc2VydmljZS1iZXR3ZWVuLUdyZWVuZmllbGQtYW5kLU5ldy1Zb3JrLUNpdHktNTUzMzUxMzbSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 19:42:38 GMT",
+        "source_url": "https://www.gazettenet.com",
+        "source_name": "GazetteNET"
+    },
+    {
+        "title": "Opponents launch ad campaign to fight direct alcohol shipment bill - Spectrum News NY1",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbnkxLmNvbS9ueWMvbWFuaGF0dGFuL3BvbGl0aWNzLzIwMjQvMDUvMzAvYWQtY2FtcGFpZ24tbGF1bmNoZWQtdG8tZmlnaHQtZGlyZWN0LWFsY29ob2wtc2hpcG1lbnQtYmlsbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:11:00 GMT",
+        "source_url": "https://ny1.com",
+        "source_name": "Spectrum News NY1"
+    },
+    {
+        "title": "2 different New Jersey cities are dirtier than New York City, study says - FOX 29 Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzLzItZGlmZmVyZW50LW5ldy1qZXJzZXktY2l0aWVzLWRpcnRpZXItdGhhbi1uZXcteW9yay1jaXR5LXN0dWR5LXNheXPSAWJodHRwczovL3d3dy5mb3gyOS5jb20vbmV3cy8yLWRpZmZlcmVudC1uZXctamVyc2V5LWNpdGllcy1kaXJ0aWVyLXRoYW4tbmV3LXlvcmstY2l0eS1zdHVkeS1zYXlzLmFtcA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 16:44:20 GMT",
+        "source_url": "https://www.fox29.com",
+        "source_name": "FOX 29 Philadelphia"
+    },
+    {
+        "title": "H+H residents reach tentative deal, winning pay parity with private sector counterparts - Crain's New York Business",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNyYWluc25ld3lvcmsuY29tL2hlYWx0aC1wdWxzZS9uZXcteW9yay1jaXR5LWhlYWx0aC1ob3NwaXRhbHMtcmVzaWRlbnRzLXJlYWNoLXRlbnRhdGl2ZS1kZWFsLXdpbm5pbmctcGF5LXBhcml0edIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 20:42:26 GMT",
+        "source_url": "https://www.crainsnewyork.com",
+        "source_name": "Crain's New York Business"
+    },
+    {
+        "title": "NYPD asks for help finding dog stolen from Bronx apartment building - NBC New York",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY25ld3lvcmsuY29tL25ld3MvbG9jYWwvbnlwZC1hc2tzLWZvci1oZWxwLWZpbmRpbmctZG9nLXN0b2xlbi1mcm9tLWJyb254LWFwYXJ0bWVudC1idWlsZGluZy81NDU4NDM3L9IBeGh0dHBzOi8vd3d3Lm5iY25ld3lvcmsuY29tL25ld3MvbG9jYWwvbnlwZC1hc2tzLWZvci1oZWxwLWZpbmRpbmctZG9nLXN0b2xlbi1mcm9tLWJyb254LWFwYXJ0bWVudC1idWlsZGluZy81NDU4NDM3Lz9hbXA9MQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 01:00:12 GMT",
+        "source_url": "https://www.nbcnewyork.com",
+        "source_name": "NBC New York"
+    },
+    {
+        "title": "NY man charged in PA for fraud, identity theft - PAHomePage.com",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnBhaG9tZXBhZ2UuY29tL25ld3MvY3JpbWUtY291cnRzL255LW1hbi1jaGFyZ2VkLWluLXBhLWZvci1mcmF1ZC1pZGVudGl0eS10aGVmdC_SAV9odHRwczovL3d3dy5wYWhvbWVwYWdlLmNvbS9uZXdzL2NyaW1lLWNvdXJ0cy9ueS1tYW4tY2hhcmdlZC1pbi1wYS1mb3ItZnJhdWQtaWRlbnRpdHktdGhlZnQvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 19:30:10 GMT",
+        "source_url": "https://www.pahomepage.com",
+        "source_name": "PAHomePage.com"
+    },
+    {
+        "title": "Harvey Weinstein may face another indictment in NY as new sexual harassment claims surface: DA - New York Post ",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8yOS91cy1uZXdzL2hhcnZleS13ZWluc3RlaW4tbWF5LWZhY2UtYW5vdGhlci1pbmRpY3RtZW50LWluLW55LWFzLW5ldy1zZXh1YWwtaGFyYXNzbWVudC1jbGFpbXMtc3VyZmFjZS1kYS_SAYgBaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDUvMjkvdXMtbmV3cy9oYXJ2ZXktd2VpbnN0ZWluLW1heS1mYWNlLWFub3RoZXItaW5kaWN0bWVudC1pbi1ueS1hcy1uZXctc2V4dWFsLWhhcmFzc21lbnQtY2xhaW1zLXN1cmZhY2UtZGEvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 20:36:00 GMT",
+        "source_url": "https://nypost.com",
+        "source_name": "New York Post "
+    }
+]
