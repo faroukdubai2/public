@@ -1,1 +1,562 @@
-[]
+[
+    {
+        "title": "Verizon outages reported in Chicago area Thursday evening - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvdmVyaXpvbi1vdXRhZ2VzLXJlcG9ydGVkLWluLWNoaWNhZ28tYXJlYS10aHVyc2RheS1ldmVuaW5nLzM0NTEzNTMv0gFuaHR0cHM6Ly93d3cubmJjY2hpY2Fnby5jb20vbmV3cy9sb2NhbC92ZXJpem9uLW91dGFnZXMtcmVwb3J0ZWQtaW4tY2hpY2Fnby1hcmVhLXRodXJzZGF5LWV2ZW5pbmcvMzQ1MTM1My8_YW1wPTE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 02:46:28 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Michigan Avenue, once a picture-perfect postcard, is now a depressing mess - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL2NoaWNhZ28uc3VudGltZXMuY29tL290aGVyLXZpZXdzLzIwMjQvMDUvMzEvbWljaGlnYW4tYXZlbnVlLWdyaW0tZGVwcmVzc2luZy1tZXNzLW9uY2UtYmVhdXRpZnVsLXJpY2hhcmQtZGFsZXktYnJhbmRvbi1qb2huc29uLWNhcm9sLWZlbHNlbnRoYWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:30:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Here's why Matt Rife suddenly postponed his 8 sold-out Chicago shows - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvaGVyZXMtd2h5LW1hdHQtcmlmZS1zdWRkZW5seS1wb3N0cG9uZWQtaGlzLTgtc29sZC1vdXQtY2hpY2Fnby1zaG93cy8zNDUxMTMxL9IBeGh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvaGVyZXMtd2h5LW1hdHQtcmlmZS1zdWRkZW5seS1wb3N0cG9uZWQtaGlzLTgtc29sZC1vdXQtY2hpY2Fnby1zaG93cy8zNDUxMTMxLz9hbXA9MQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 04:15:15 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Chicago to provide free sidewalk snow removal services in four areas, Mayor Brandon Johnson announces - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDI0LzA1LzMxL2NoaWNhZ28tZnJlZS1zaWRld2Fsay1zbm93LXJlbW92YWwtcGlsb3Qv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 17:11:27 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "The Ultimate Guide To Chicago Ice Cream 2024: 110+ Spots For Scoops, Popsicles, Gelato, Italian Ice And More - Block Club Chicago",
+        "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL2Jsb2NrY2x1YmNoaWNhZ28ub3JnLzIwMjQvMDUvMzEvdGhlLXVsdGltYXRlLWd1aWRlLXRvLWNoaWNhZ28taWNlLWNyZWFtLTIwMjQtMTAwLXNwb3RzLWZvci1zY29vcHMtcG9wc2ljbGVzLWdlbGF0by1pdGFsaWFuLWljZS1hbmQtbW9yZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 14:22:00 GMT",
+        "source_url": "https://blockclubchicago.org",
+        "source_name": "Block Club Chicago"
+    },
+    {
+        "title": "Chicago man shoots woman he knows in face after thinking someone was breaking into home: police - FOX 32 Chicago",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZveDMyY2hpY2Fnby5jb20vbmV3cy9jaGljYWdvLW1hbi1zaG9vdHMtd29tYW4taGUta25vd3MtZmFjZS1hZnRlci10aGlua2luZy1zb21lb25lLWJyZWFraW5nLWhvbWUtcG9saWNl0gF4aHR0cHM6Ly93d3cuZm94MzJjaGljYWdvLmNvbS9uZXdzL2NoaWNhZ28tbWFuLXNob290cy13b21hbi1oZS1rbm93cy1mYWNlLWFmdGVyLXRoaW5raW5nLXNvbWVvbmUtYnJlYWtpbmctaG9tZS1wb2xpY2UuYW1w?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:44:27 GMT",
+        "source_url": "https://www.fox32chicago.com",
+        "source_name": "FOX 32 Chicago"
+    },
+    {
+        "title": "15 Things To Do Outside In Chicago This June: Kayak, Bike, Hike And Volunteer - Block Club Chicago",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYmxvY2tjbHViY2hpY2Fnby5vcmcvMjAyNC8wNS8zMS8xNS10aGluZ3MtdG8tZG8tb3V0c2lkZS1pbi1jaGljYWdvLXRoaXMtanVuZS1rYXlhay1iaWtlLWhpa2UtYW5kLXZvbHVudGVlci_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:28:00 GMT",
+        "source_url": "https://blockclubchicago.org",
+        "source_name": "Block Club Chicago"
+    },
+    {
+        "title": "Northern lights to illuminate skies Friday. Will they be visible in the Chicago area? - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS9uZXdzL2xvY2FsL25vcnRoZXJuLWxpZ2h0cy10by1pbGx1bWluYXRlLXNraWVzLWZyaWRheS13aWxsLXRoZXktYmUtdmlzaWJsZS1pbi10aGUtY2hpY2Fnby1hcmVhLzM0NTE2MDEv0gGIAWh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvbm9ydGhlcm4tbGlnaHRzLXRvLWlsbHVtaW5hdGUtc2tpZXMtZnJpZGF5LXdpbGwtdGhleS1iZS12aXNpYmxlLWluLXRoZS1jaGljYWdvLWFyZWEvMzQ1MTYwMS8_YW1wPTE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 18:17:13 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Russian propaganda push expected in Chicago for Democratic National Convention, experts say - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vdGhlLXdhdGNoZG9ncy8yMDI0LzA1LzMxL3J1c3NpYS1wcm9wb2dhbmRhLWRlbW9jcmF0aWMtbmF0aW9uYWwtY29udmVudGlvbi1kbmMtY2hpY2Fnb9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:30:32 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Chicago Public Schools' academic struggles top Chicagoans' concerns - Illinois Policy",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmlsbGlub2lzcG9saWN5Lm9yZy9jaGljYWdvLXB1YmxpYy1zY2hvb2xzLWFjYWRlbWljLXN0cnVnZ2xlcy10b3AtY2hpY2Fnb2Fucy1jb25jZXJucy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:00:09 GMT",
+        "source_url": "https://www.illinoispolicy.org",
+        "source_name": "Illinois Policy"
+    },
+    {
+        "title": "Standoff in Chicago: Suspected shooter turns gun on himself - WGN TV Chicago",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd2dudHYuY29tL25ld3MvY2hpY2Fnby1uZXdzL21hbi1hcnJlc3RlZC1hZnRlci1ob2xkaW5nLWd1bi10by1oaXMtaGVhZC1pbi1zdHJlZXQtb24tY2hpY2Fnb3Mtc291dGgtc2lkZS_SAXRodHRwczovL3dnbnR2LmNvbS9uZXdzL2NoaWNhZ28tbmV3cy9tYW4tYXJyZXN0ZWQtYWZ0ZXItaG9sZGluZy1ndW4tdG8taGlzLWhlYWQtaW4tc3RyZWV0LW9uLWNoaWNhZ29zLXNvdXRoLXNpZGUvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 11:24:37 GMT",
+        "source_url": "https://wgntv.com",
+        "source_name": "WGN TV Chicago"
+    },
+    {
+        "title": "man charged in COVID-19 test billing scheme - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vMjAyNC8wNS8zMS9jaGljYWdvLW1hbi1jaGFyZ2VkLWluLXNjaGVtZS10by1iaWxsLTYtMi1taWxsaW9uLXRvLW1lZGljYXJlLWluLW9uZS1tb250aC1mb3ItY292aWQtdGVzdHMtbmV2ZXItcGVyZm9ybWVkL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 17:54:53 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "Migrants in Chicago find ways to adjust to life in their new city - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vaW1taWdyYXRpb24vMjAyNC8wNS8zMS9taWdyYW50cy1hZGp1c3QtbGlmZS1pbi10aGVpci1uZXctY2l0eS1sZWFybmluZy1lbmdsaXNo0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 11:00:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Weather in Chicago today: Rain, storms as meteorological summer begins - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL3dlYXRoZXIvYXMtbWV0ZW9yb2xvZ2ljYWwtc3VtbWVyLWJlZ2lucy1yYWluLXN0b3Jtcy1sb29tLWluLXRoZS1jaGljYWdvLWZvcmVjYXN0LzM0NTE1MjYv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 15:47:33 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Despite lackluster response to his Springfield agenda, Mayor Brandon Johnson vows: 'We keep demanding' - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDI0LzA1LzMxL21heW9yLWJyYW5kb24tam9obnNvbi1zcHJpbmdmaWVsZC1hZ2VuZGEv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 11:00:00 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "Pilsen fire damages 2 homes, cars; CFD on scene - WLS-TV",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYWJjN2NoaWNhZ28uY29tL3Bvc3QvY2hpY2Fnby1maXJlLWRhbWFnZXMtMi1ob21lcy1jYXJzLTE4dGgtcGxhY2UvMTQ4OTE0MTQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 16:55:04 GMT",
+        "source_url": "https://abc7chicago.com",
+        "source_name": "WLS-TV"
+    },
+    {
+        "title": "Pitchfork Reveals 2024 Music Festival Food Lineup - Eater Chicago",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vY2hpY2Fnby5lYXRlci5jb20vMjAyNC81LzMwLzI0MTY3Mzk5L3BpdGNoZm9yay1tdXNpYy1mZXN0aXZhbC1mb29kLXZlbmRvci1saW5ldXAtMjAyNC1jaGljYWdvLXVuaW9uLXBhcmvSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 13:00:00 GMT",
+        "source_url": "https://chicago.eater.com",
+        "source_name": "Eater Chicago"
+    },
+    {
+        "title": "Gorgeous Friday in Chicago, with a small chop on Lake Michigan\u2026 - WGN TV Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd2dudHYuY29tL3dlYXRoZXIvd2VhdGhlci1ibG9nL2dvcmdlb3VzLWZyaWRheS1pbi1jaGljYWdvLXdpdGgtYS1zbWFsbC1jaG9wLW9uLWxha2UtbWljaGlnYW4v0gFpaHR0cHM6Ly93Z250di5jb20vd2VhdGhlci93ZWF0aGVyLWJsb2cvZ29yZ2VvdXMtZnJpZGF5LWluLWNoaWNhZ28td2l0aC1hLXNtYWxsLWNob3Atb24tbGFrZS1taWNoaWdhbi9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 07:35:30 GMT",
+        "source_url": "https://wgntv.com",
+        "source_name": "WGN TV Chicago"
+    },
+    {
+        "title": "Chicago Fashion Week Is Coming This Fall - Block Club Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYmxvY2tjbHViY2hpY2Fnby5vcmcvMjAyNC8wNS8zMC9jaGljYWdvLWZhc2hpb24td2Vlay1pcy1jb21pbmctdGhpcy1mYWxsL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:07:21 GMT",
+        "source_url": "https://blockclubchicago.org",
+        "source_name": "Block Club Chicago"
+    },
+    {
+        "title": "Illinois officials \u2018tremendously concerned' about REAL ID deadline, Giannoulias says - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS9uZXdzL2xvY2FsL2NoaWNhZ28tcG9saXRpY3MvdHJlbWVuZG91c2x5LWNvbmNlcm5lZC1pbGxpbm9pcy1vZmZpY2lhbHMtcmVhbC1pZC1kZWFkbGluZS13b3JyaWVzLzM0NTA2ODUv0gGIAWh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvY2hpY2Fnby1wb2xpdGljcy90cmVtZW5kb3VzbHktY29uY2VybmVkLWlsbGlub2lzLW9mZmljaWFscy1yZWFsLWlkLWRlYWRsaW5lLXdvcnJpZXMvMzQ1MDY4NS8_YW1wPTE?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:53:24 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Chicago shooting kills man on East 69th Place in Grand Crossing after gunman shoot through door: CPD - WLS-TV",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYWJjN2NoaWNhZ28uY29tL3Bvc3QvY2hpY2Fnby1zaG9vdGluZy1raWxscy1tYW4tZWFzdC02OXRoLXBsYWNlLWdyYW5kLzE0ODk1MzY3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:54:49 GMT",
+        "source_url": "https://abc7chicago.com",
+        "source_name": "WLS-TV"
+    },
+    {
+        "title": "Chicago has its problems, but it's still a city to enjoy - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL2NoaWNhZ28uc3VudGltZXMuY29tL2NvbHVtbmlzdHMvMjAyNC8wNS8zMC9kb3dudG93bi1jcmltZS1ob21lbGVzcy1taWdyYW50cy1kbmMtZGVtb2NyYXRpYy1jb252ZW50aW9uLXBvbGl0aWNzLXByb3Rlc3RzLXRvdXJpc23SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:30:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "How Chicago forgot about its blues history - Chicago Reader",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vY2hpY2Fnb3JlYWRlci5jb20vbXVzaWMvYmx1ZXMtZmVzdGl2YWwtYXJjaGl2ZXMtcHVibGljLWhhcm9sZC13YXNoaW5ndG9uLWxpYnJhcnkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:06:33 GMT",
+        "source_url": "https://chicagoreader.com",
+        "source_name": "Chicago Reader"
+    },
+    {
+        "title": "CTA president Dorval Carter testifies before Chicago City Council's Transportation Committee - WLS-TV",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL3Bvc3QvY3RhLXByZXNpZGVudC1kb3J2YWwtY2FydGVyLXRlc3RpZmllcy1jaGljYWdvLWNpdHktY291bmNpbC8xNDg5MjExOS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 23:07:36 GMT",
+        "source_url": "https://abc7chicago.com",
+        "source_name": "WLS-TV"
+    },
+    {
+        "title": "Sam Zell's North Side Apartment Redevelopment Hits Market - The Real Deal",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2NoaWNhZ28vMjAyNC8wNS8zMC9zYW0temVsbHMtbm9ydGgtc2lkZS1hcGFydG1lbnQtcmVkZXZlbG9wbWVudC1oaXRzLW1hcmtldC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 23:00:00 GMT",
+        "source_url": "https://therealdeal.com",
+        "source_name": "The Real Deal"
+    },
+    {
+        "title": "Details revealed for inaugural Sundance Institute event in Chicago - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvZGV0YWlscy1yZXZlYWxlZC1mb3ItaW5hdWd1cmFsLXN1bmRhbmNlLWluc3RpdHV0ZS1ldmVudC1pbi1jaGljYWdvLzM0NTEyOTkv0gF3aHR0cHM6Ly93d3cubmJjY2hpY2Fnby5jb20vbmV3cy9sb2NhbC9kZXRhaWxzLXJldmVhbGVkLWZvci1pbmF1Z3VyYWwtc3VuZGFuY2UtaW5zdGl0dXRlLWV2ZW50LWluLWNoaWNhZ28vMzQ1MTI5OS8_YW1wPTE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 02:08:39 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Chicago woman gets 30 years for helping mother kill pregnant teen who had child cut from her womb - WKOW",
+        "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy53a293LmNvbS9uZXdzL2NoaWNhZ28td29tYW4tZ2V0cy0zMC15ZWFycy1mb3ItaGVscGluZy1tb3RoZXIta2lsbC1wcmVnbmFudC10ZWVuLXdoby1oYWQtY2hpbGQtY3V0L2FydGljbGVfZGIyYzJiNDEtNGNjNC01MWRhLWJmOTAtMjg2ODJhMTc5Zjg5Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 20:15:19 GMT",
+        "source_url": "https://www.wkow.com",
+        "source_name": "WKOW"
+    },
+    {
+        "title": "'The Bear' on cable: FX to show Season 1 of hit Chicago show next week - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vbW92aWVzLWFuZC10di8yMDI0LzA1LzMwL3RoZS1iZWFyLWZ4LWNhYmxlLXNlYXNvbi0zLXRyYWlsZXItaHVsdS1jaGljYWdv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 18:45:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Chicago Police Training 'Insufficient' For Protests At Democratic National Convention, Watchdog Warns - Block Club Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL2Jsb2NrY2x1YmNoaWNhZ28ub3JnLzIwMjQvMDUvMzEvY2hpY2Fnby1wb2xpY2UtdHJhaW5pbmctaW5zdWZmaWNpZW50LWZvci1wcm90ZXN0cy1hdC1kZW1vY3JhdGljLW5hdGlvbmFsLWNvbnZlbnRpb24td2F0Y2hkb2ctd2FybnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 13:33:00 GMT",
+        "source_url": "https://blockclubchicago.org",
+        "source_name": "Block Club Chicago"
+    },
+    {
+        "title": "Man accused of shipping 'suicide drug' around the world - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDI0LzA1LzMwL21hbi1hY2N1c2VkLWluLWNoaWNhZ28tb2Ytc2hpcHBpbmctc3VpY2lkZS1kcnVnLWFyb3VuZC10aGUtd29ybGQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 19:34:29 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "Where Chicago ranks as best U.S. city for raising a family - WGN TV Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd2dudHYuY29tL25ld3MvY2hpY2Fnby1uZXdzL3doZXJlLWNoaWNhZ28tcmFua3MtYXMtYmVzdC11LXMtY2l0eS1mb3ItcmFpc2luZy1hLWZhbWlseS_SAWJodHRwczovL3dnbnR2LmNvbS9uZXdzL2NoaWNhZ28tbmV3cy93aGVyZS1jaGljYWdvLXJhbmtzLWFzLWJlc3QtdS1zLWNpdHktZm9yLXJhaXNpbmctYS1mYW1pbHkvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:25:00 GMT",
+        "source_url": "https://wgntv.com",
+        "source_name": "WGN TV Chicago"
+    },
+    {
+        "title": "Today\u2019s Headlines for Thursday, May 30 - Streetsblog Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vY2hpLnN0cmVldHNibG9nLm9yZy8yMDI0LzA1LzMwL3RvZGF5cy1oZWFkbGluZXMtZm9yLXRodXJzZGF5LW1heS0zMC0y0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 13:57:00 GMT",
+        "source_url": "https://chi.streetsblog.org",
+        "source_name": "Streetsblog Chicago"
+    },
+    {
+        "title": "What is a \u2018Parade of Planets' and will you be able to see it this June? Here's what to know - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS93ZWF0aGVyL3doYXQtaXMtYS1wYXJhZGUtb2YtcGxhbmV0cy1hbmQtd2lsbC15b3UtYmUtYWJsZS10by1zZWUtaXQtdGhpcy1qdW5lLWhlcmVzLXdoYXQtdG8ta25vdy8zNDUwNDQxL9IBiQFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS93ZWF0aGVyL3doYXQtaXMtYS1wYXJhZGUtb2YtcGxhbmV0cy1hbmQtd2lsbC15b3UtYmUtYWJsZS10by1zZWUtaXQtdGhpcy1qdW5lLWhlcmVzLXdoYXQtdG8ta25vdy8zNDUwNDQxLz9hbXA9MQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:45:35 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "One of Sean 'Diddy' Combs' accusers is from Chicago. Who is Lil Rod? - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC1hbmQtY3VsdHVyZS8yMDI0LzA1LzMwL3NlYW4tZGlkZHktY29tYnMtd2hvLWlzLWxpbC1yb2QtY2hpY2Fnb9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:48:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Chicago reacts to Trump verdict, from 'I couldn't be happier' to 'It's a witch hunt' - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDI0LzA1LzMwL2NoaWNhZ28tcmVhY3RzLXRvLXRydW1wLXZlcmRpY3QtZnJvbS1pLWNvdWxkbnQtYmUtaGFwcGllci10by1pdHMtYS13aXRjaC1odW50L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 01:54:58 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "Chicago Offers Largest Subsidies for Office-to-Resi Conversions - The Real Deal",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2NoaWNhZ28vMjAyNC8wNS8zMC9jaGljYWdvLW9mZmVycy1sYXJnZXN0LXN1YnNpZGllcy1mb3Itb2ZmaWNlLXRvLXJlc2ktY29udmVyc2lvbnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 14:00:00 GMT",
+        "source_url": "https://therealdeal.com",
+        "source_name": "The Real Deal"
+    },
+    {
+        "title": "14-year-old boy shot, critically injured in Lawndale, Chicago police say - WLS-TV",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYWJjN2NoaWNhZ28uY29tL3Bvc3QvY2hpY2Fnby1zaG9vdGluZy0xNC15ZWFyLWJveS1zaG90LWNyaXRpY2FsbHktaW5qdXJlZC8xNDg5MzU1MC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 03:19:51 GMT",
+        "source_url": "https://abc7chicago.com",
+        "source_name": "WLS-TV"
+    },
+    {
+        "title": "Measles Outbreak In Chicago Contained, City Says - Block Club Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYmxvY2tjbHViY2hpY2Fnby5vcmcvMjAyNC8wNS8zMC9tZWFzbGVzLW91dGJyZWFrLWluLWNoaWNhZ28tY29udGFpbmVkLWNpdHktc2F5cy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 18:30:00 GMT",
+        "source_url": "https://blockclubchicago.org",
+        "source_name": "Block Club Chicago"
+    },
+    {
+        "title": "PAUL ROBESON: MAN OF THE PEOPLE A New Jazz Poetry Opera To Have Chicago Premiere In 8 Days - BroadwayWorld",
+        "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5icm9hZHdheXdvcmxkLmNvbS9jaGljYWdvL2FydGljbGUvUEFVTC1ST0JFU09OLU1BTi1PRi1USEUtUEVPUExFQS1OZXctSmF6ei1Qb2V0cnktT3BlcmEtVG8tSGF2ZS1DaGljYWdvLVByZW1pZXJlLUluLTgtRGF5cy0yMDI0MDUzMNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 03:03:36 GMT",
+        "source_url": "https://www.broadwayworld.com",
+        "source_name": "BroadwayWorld"
+    },
+    {
+        "title": "Pastor Corey Brooks: Illinois Democrats think they can magically cure the crime devastating Chicago with a few words \u2013 FOX News - Wirepoints",
+        "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3dpcmVwb2ludHMub3JnL3Bhc3Rvci1jb3JleS1icm9va3MtaWxsaW5vaXMtZGVtb2NyYXRzLXRoaW5rLXRoZXktY2FuLW1hZ2ljYWxseS1jdXJlLXRoZS1jcmltZS1kZXZhc3RhdGluZy1jaGljYWdvLXdpdGgtYS1mZXctd29yZHMtZm94LW5ld3Mv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 14:43:45 GMT",
+        "source_url": "https://wirepoints.org",
+        "source_name": "Wirepoints"
+    },
+    {
+        "title": "Windy City Smokeout announces more details about 2024 festival - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvd2luZHktY2l0eS1zbW9rZW91dC1hbm5vdW5jZXMtbW9yZS1kZXRhaWxzLWFib3V0LTIwMjQtZmVzdGl2YWwvMzQ1MDY1OS_SAXNodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS9uZXdzL2xvY2FsL3dpbmR5LWNpdHktc21va2VvdXQtYW5ub3VuY2VzLW1vcmUtZGV0YWlscy1hYm91dC0yMDI0LWZlc3RpdmFsLzM0NTA2NTkvP2FtcD0x?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 23:07:31 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Search the database: Chicago Public Schools release FY2025 budget - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDI0LzA1LzMwL3NlYXJjaC10aGUtZGF0YWJhc2UtY2hpY2Fnby1wdWJsaWMtc2Nob29scy1yZWxlYXNlLWZ5MjAyNS1idWRnZXQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:41:27 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "Legendary music producer Jimmy Jam says Chicago House music inspired many of his music hits - WGN TV Chicago",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd2dudHYuY29tL21vcm5pbmctbmV3cy9sZWdlbmRhcnktbXVzaWMtcHJvZHVjZXItamltbXktamFtLXNheXMtY2hpY2Fnby1ob3VzZS1tdXNpYy1pbnNwaXJlZC1tYW55LW9mLWhpcy1tdXNpYy1oaXRzL9IBf2h0dHBzOi8vd2dudHYuY29tL21vcm5pbmctbmV3cy9sZWdlbmRhcnktbXVzaWMtcHJvZHVjZXItamltbXktamFtLXNheXMtY2hpY2Fnby1ob3VzZS1tdXNpYy1pbnNwaXJlZC1tYW55LW9mLWhpcy1tdXNpYy1oaXRzL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:08:57 GMT",
+        "source_url": "https://wgntv.com",
+        "source_name": "WGN TV Chicago"
+    },
+    {
+        "title": "Chicagoans find confidence and adventure sailing on Lake Michigan - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vY2hpY2Fnby5zdW50aW1lcy5jb20vYWdlLXdlbGwveW91ci10aW1lL2NoaWNhZ29hbnMtZmluZC1jb25maWRlbmNlLWFuZC1hZHZlbnR1cmUtc2FpbGluZy1vbi1sYWtlLW1pY2hpZ2Fu0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 11:30:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Chicago home prices clear milestones - Crain's Chicago Business",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNoaWNhZ29idXNpbmVzcy5jb20vY3JhaW5zLWRhaWx5LWdpc3QvY2hpY2Fnby1ob21lLXByaWNlcy1jbGVhci1taWxlc3RvbmVz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 10:30:00 GMT",
+        "source_url": "https://www.chicagobusiness.com",
+        "source_name": "Crain's Chicago Business"
+    },
+    {
+        "title": "Chicago's Inspector General report finds CPD made improvements when it comes to large gatherings - Audacy",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmF1ZGFjeS5jb20vd3hydC9uZXdzL2xvY2FsL2NpZy1yZXBvcnQtZmluZHMtY3BkLW1hZGUtaW1wcm92ZW1lbnRzLXJlbGF0ZWQtdG8tZ2F0aGVyaW5nc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 00:42:51 GMT",
+        "source_url": "https://www.audacy.com",
+        "source_name": "Audacy"
+    },
+    {
+        "title": "Hindu diaspora in Chicago is watching India's elections, divided over Modi - WBEZ Chicago",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndiZXoub3JnL2NoaWNhZ28vMjAyNC8wNS8zMS9oaW5kdS1kaWFzcG9yYS1pbi1jaGljYWdvLWlzLXdhdGNoaW5nLWluZGlhcy1lbGVjdGlvbnMtZGl2aWRlZC1vdmVyLW1vZGnSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 12:52:00 GMT",
+        "source_url": "https://www.wbez.org",
+        "source_name": "WBEZ Chicago"
+    },
+    {
+        "title": "Chicago Westside Sports offers free youth baseball, life skills development - FOX 32 Chicago",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZveDMyY2hpY2Fnby5jb20vbmV3cy9jaGljYWdvLXdlc3RzaWRlLXNwb3J0cy1vZmZlcnMtZnJlZS15b3V0aC1iYXNlYmFsbC1saWZlLXNraWxscy1kZXZlbG9wbWVudNIBcGh0dHBzOi8vd3d3LmZveDMyY2hpY2Fnby5jb20vbmV3cy9jaGljYWdvLXdlc3RzaWRlLXNwb3J0cy1vZmZlcnMtZnJlZS15b3V0aC1iYXNlYmFsbC1saWZlLXNraWxscy1kZXZlbG9wbWVudC5hbXA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 12:28:40 GMT",
+        "source_url": "https://www.fox32chicago.com",
+        "source_name": "FOX 32 Chicago"
+    },
+    {
+        "title": "What to do in Chicago: Circus Vazquez, fringe theater and Beyond Wonderland on Northerly Island - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jaGljYWdvdHJpYnVuZS5jb20vMjAyNC8wNS8zMS93aGF0LXRvLWRvLWluLWNoaWNhZ28tY2lyY3VzLXZhenF1ZXotZnJpbmdlLXRoZWF0ZXItYW5kLWJleW9uZC13b25kZXJsYW5kLW9uLW5vcnRoZXJseS1pc2xhbmQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 11:00:28 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "Chicago Air & Water Show shifts dates to avoid DNC conflict - WGN TV Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd2dudHYuY29tL25ld3MvY2hpY2Fnby1uZXdzL2NoaWNhZ28tYWlyLXdhdGVyLXNob3ctMjAyNC_SAURodHRwczovL3dnbnR2LmNvbS9uZXdzL2NoaWNhZ28tbmV3cy9jaGljYWdvLWFpci13YXRlci1zaG93LTIwMjQvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 18:16:06 GMT",
+        "source_url": "https://wgntv.com",
+        "source_name": "WGN TV Chicago"
+    },
+    {
+        "title": "Things to do this weekend: 57th Street Art Fair, Anitta, Gospel Music Fest - Axios",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9jaGljYWdvLzIwMjQvMDUvMzAvc3RyZWV0LWFydC1mYWlyLWFuaXR0YS1nb3NwZWwtbXVzaWMtZmVzdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:01:55 GMT",
+        "source_url": "https://www.axios.com",
+        "source_name": "Axios"
+    },
+    {
+        "title": "Chicagoans in food deserts can't 'Save A Lot' when there's no store in sight - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2NoaWNhZ28uc3VudGltZXMuY29tL2VkaXRvcmlhbHMvMjAyNC8wNS8zMC9zYXZlLWEtbG90LXllbGxvdy1iYW5hbmEtZm9vZC1kZXNlcnQtZ3JvY2VyaWVzLWNoaWNhZ28tc291dGgtd2VzdC1zaWRlcy1lZGl0b3JpYWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 11:33:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Chicago co-working spaces to try this summer - Axios",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9jaGljYWdvLzIwMjQvMDUvMzEvcmVtb3RlLXdvcmstc3VtbWVyLW9mZmljZS1zcGFjZS1jb3dvcmtpbmfSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 11:22:24 GMT",
+        "source_url": "https://www.axios.com",
+        "source_name": "Axios"
+    },
+    {
+        "title": "Yes, cicadas are still emerging in Illinois. Here's how long it could last - NBC Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS9jaWNhZGFzLWlsbGlub2lzLWNoaWNhZ28tMjAyNC95ZXMtY2ljYWRhcy1hcmUtc3RpbGwtZW1lcmdpbmctaW4taWxsaW5vaXMtaGVyZXMtaG93LWxvbmctaXQtY291bGQtbGFzdC8zNDQ5ODU0L9IBjwFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS9jaWNhZGFzLWlsbGlub2lzLWNoaWNhZ28tMjAyNC95ZXMtY2ljYWRhcy1hcmUtc3RpbGwtZW1lcmdpbmctaW4taWxsaW5vaXMtaGVyZXMtaG93LWxvbmctaXQtY291bGQtbGFzdC8zNDQ5ODU0Lz9hbXA9MQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 03:07:33 GMT",
+        "source_url": "https://www.nbcchicago.com",
+        "source_name": "NBC Chicago"
+    },
+    {
+        "title": "Lessons from building a successful real estate podcast - Chicago Agent magazine",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vY2hpY2Fnb2FnZW50bWFnYXppbmUuY29tLzIwMjQvMDUvMzAvbGVzc29ucy1mcm9tLWJ1aWxkaW5nLWEtc3VjY2Vzc2Z1bC1yZWFsLWVzdGF0ZS1wb2RjYXN0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 04:20:19 GMT",
+        "source_url": "https://chicagoagentmagazine.com",
+        "source_name": "Chicago Agent magazine"
+    },
+    {
+        "title": "Chicago woman found not guilty in case involving stolen police car, injured officer - FOX 32 Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZveDMyY2hpY2Fnby5jb20vbmV3cy9jaGljYWdvLXdvbWFuLWZvdW5kLW5vdC1ndWlsdHktc3RvbGVuLXBvbGljZS1jYXItaW5qdXJlZC1vZmZpY2Vy0gFmaHR0cHM6Ly93d3cuZm94MzJjaGljYWdvLmNvbS9uZXdzL2NoaWNhZ28td29tYW4tZm91bmQtbm90LWd1aWx0eS1zdG9sZW4tcG9saWNlLWNhci1pbmp1cmVkLW9mZmljZXIuYW1w?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 20:10:42 GMT",
+        "source_url": "https://www.fox32chicago.com",
+        "source_name": "FOX 32 Chicago"
+    },
+    {
+        "title": "Record-breaking heatwave to hit Central Valley of California next week; June opens warm in Chicago - WGN TV Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3dnbnR2LmNvbS93ZWF0aGVyL3dlYXRoZXItYmxvZy9yZWNvcmQtYnJlYWtpbmctaGVhdHdhdmUtdG8taGl0LWNlbnRyYWwtdmFsbGV5LW9mLWNhbGlmb3JuaWEtbmV4dC13ZWVrLWp1bmUtb3BlbnMtd2FybS1pbi1jaGljYWdvL9IBjQFodHRwczovL3dnbnR2LmNvbS93ZWF0aGVyL3dlYXRoZXItYmxvZy9yZWNvcmQtYnJlYWtpbmctaGVhdHdhdmUtdG8taGl0LWNlbnRyYWwtdmFsbGV5LW9mLWNhbGlmb3JuaWEtbmV4dC13ZWVrLWp1bmUtb3BlbnMtd2FybS1pbi1jaGljYWdvL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 05:05:00 GMT",
+        "source_url": "https://wgntv.com",
+        "source_name": "WGN TV Chicago"
+    },
+    {
+        "title": "Op-ed: Chicago should re-embrace the Cradle to Classroom program - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDI0LzA1LzMxL29waW5pb24tY2hpY2Fnby1wb3ZlcnR5LWNyYWRsZS10by1jbGFzc3Jvb20tc3VwcG9ydC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 11:00:34 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "Chicago farmers markets 2024: A guide for city and suburbs - WBEZ Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LndiZXoub3JnL2Zvb2QtZHJpbmsvMjAyNC8wNS8zMS9jaGljYWdvLWZhcm1lcnMtbWFya2V0cy0yMDI0LWEtZ3VpZGUtZm9yLXRoZS1jaXR5LWFuZC1zdWJ1cmJz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:30:00 GMT",
+        "source_url": "https://www.wbez.org",
+        "source_name": "WBEZ Chicago"
+    },
+    {
+        "title": "Job: Executive Producer - ABC7 Chicago - WLS-TV",
+        "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL3Bvc3Qvam9iLWV4ZWN1dGl2ZS1wcm9kdWNlci8xNDg5MjQ3Ny_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:02:13 GMT",
+        "source_url": "https://abc7chicago.com",
+        "source_name": "WLS-TV"
+    },
+    {
+        "title": "The Beautiful City Project to Present JESUS CHRIST SUPERSTAR in June - BroadwayWorld",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL2NoaWNhZ28vYXJ0aWNsZS9UaGUtQmVhdXRpZnVsLUNpdHktUHJvamVjdC10by1QcmVzZW50LUpFU1VTLUNIUklTVC1TVVBFUlNUQVItaW4tSnVuZS0yMDI0MDUzMNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 20:13:36 GMT",
+        "source_url": "https://www.broadwayworld.com",
+        "source_name": "BroadwayWorld"
+    },
+    {
+        "title": "Give Ald. Ramirez-Rosa a leadership post on City Council again - Chicago Sun-Times",
+        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL2NoaWNhZ28uc3VudGltZXMuY29tL2xldHRlcnMtdG8tdGhlLWVkaXRvci8yMDI0LzA1LzMwL2FsZC1yYW1pcmV6LXJvc2EtbGVhZGVyc2hpcC1wb3N0LWNpdHktY291bmNpbC1jb3BhLWFuZHJlYS1rZXJzdGVuLWFib3J0aW9uLWRydWdzLWNpY2FkYXMtbGV0dGVyc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 19:00:00 GMT",
+        "source_url": "https://chicago.suntimes.com",
+        "source_name": "Chicago Sun-Times"
+    },
+    {
+        "title": "Baker, Chicago Dogs hang on for slim victory over Cleburne - Daily Herald",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRhaWx5aGVyYWxkLmNvbS8yMDI0MDUzMC9jaGljYWdvLWRvZ3MvYmFrZXItY2hpY2Fnby1kb2dzLWhhbmctb24tZm9yLXNsaW0tdmljdG9yeS1vdmVyLWNsZWJ1cm5lL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 03:51:53 GMT",
+        "source_url": "https://www.dailyherald.com",
+        "source_name": "Daily Herald"
+    },
+    {
+        "title": "Keeping Life Sciences Sites \u2014 And Tenants \u2014 Safe Through Collaboration And Attention To Detail - Bisnow",
+        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5iaXNub3cuY29tL2NoaWNhZ28vbmV3cy9saWZlLXNjaWVuY2VzL2tlZXBpbmctbGlmZS1zY2llbmNlcy1zaXRlcy1hbmQtdGVuYW50cy1zYWZlLXRocm91Z2gtY29sbGFib3JhdGlvbi1hbmQtYXR0ZW50aW9uLXRvLWRldGFpbC0xMjQzNzDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 02:19:31 GMT",
+        "source_url": "https://www.bisnow.com",
+        "source_name": "Bisnow"
+    },
+    {
+        "title": "Bill Snyder\u2019s weekend weather outlook: June 1st - WGN Radio - Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd2ducmFkaW8uY29tL2pvaG4tbGFuZGVja2VyL2JpbGwtc255ZGVycy13ZWVrZW5kLXdlYXRoZXItb3V0bG9vay1qdW5lLWZpcnN0L9IBWGh0dHBzOi8vd2ducmFkaW8uY29tL2pvaG4tbGFuZGVja2VyL2JpbGwtc255ZGVycy13ZWVrZW5kLXdlYXRoZXItb3V0bG9vay1qdW5lLWZpcnN0L2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 01:52:06 GMT",
+        "source_url": "https://wgnradio.com",
+        "source_name": "WGN Radio - Chicago"
+    },
+    {
+        "title": "Illinois budget includes $20M aimed at repairing cuts to sexual assault crisis services \u2013 NBC5 (Chicago) - Wirepoints",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd2lyZXBvaW50cy5vcmcvaWxsaW5vaXMtYnVkZ2V0LWluY2x1ZGVzLTIwbS1haW1lZC1hdC1yZXBhaXJpbmctY3V0cy10by1zZXh1YWwtYXNzYXVsdC1jcmlzaXMtc2VydmljZXMtbmJjNS1jaGljYWdvL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 03:10:40 GMT",
+        "source_url": "https://wirepoints.org",
+        "source_name": "Wirepoints"
+    },
+    {
+        "title": "Letters: City Council grandstanding won't stop Mayor Brandon Johnson from ending ShotSpotter - Chicago Tribune",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNoaWNhZ290cmlidW5lLmNvbS8yMDI0LzA1LzMxL2xldHRlcnMtMDUzMTI0LWJyYW5kb24tam9obnNvbi1zaG90c3BvdHRlci_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 10:59:39 GMT",
+        "source_url": "https://www.chicagotribune.com",
+        "source_name": "Chicago Tribune"
+    },
+    {
+        "title": "11th annual 'Party 4 Peace' to honor Chicago gun violence victim Hadiya Pendleton - WLS-TV",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYWJjN2NoaWNhZ28uY29tL3Bvc3QvMTF0aC1hbm51YWwtcGFydHktNC1wZWFjZS1ob25vci1oYWRpeWEtcGVuZGxldG9uLzE0ODkzMDcwL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 01:57:07 GMT",
+        "source_url": "https://abc7chicago.com",
+        "source_name": "WLS-TV"
+    },
+    {
+        "title": "Tiny Home Summit 2.0 convenes experts to explore affordable, small-scale housing on June 13 - Windy City Times",
+        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3dpbmR5Y2l0eXRpbWVzLmNvbS8yMDI0LzA1LzMwL3RpbnktaG9tZS1zdW1taXQtMi0wLWNvbnZlbmVzLWV4cGVydHMtdG8tZXhwbG9yZS1hZmZvcmRhYmxlLXNtYWxsLXNjYWxlLWhvdXNpbmctb24tanVuZS0xMy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 23:19:28 GMT",
+        "source_url": "https://windycitytimes.com",
+        "source_name": "Windy City Times"
+    },
+    {
+        "title": "PAWS Chicago\u2019s Angels with Tails returns this weekend - WGN Radio - Chicago",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd2ducmFkaW8uY29tL2xpc2EtZGVudC9wYXdzLWNoaWNhZ29zLWFuZ2Vscy13aXRoLXRhaWxzLXJldHVybnMtdGhpcy13ZWVrZW5kL9IBWGh0dHBzOi8vd2ducmFkaW8uY29tL2xpc2EtZGVudC9wYXdzLWNoaWNhZ29zLWFuZ2Vscy13aXRoLXRhaWxzLXJldHVybnMtdGhpcy13ZWVrZW5kL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:32:36 GMT",
+        "source_url": "https://wgnradio.com",
+        "source_name": "WGN Radio - Chicago"
+    }
+]
