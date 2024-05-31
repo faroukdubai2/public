@@ -1,21 +1,5 @@
 [
     {
-        "title": "Bruce Springsteen has canceled shows in Europe owing to vocal issues - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9lbnRlcnRhaW5tZW50L211c2ljL2JydWNlLXNwcmluZ3N0ZWVuLXBvc3Rwb25lZC1zaG93cy1ldXJvcGUtdm9jYWwtaXNzdWVzLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 16:42:41 GMT",
-        "source_url": "https://www.inquirer.com",
-        "source_name": "The Philadelphia Inquirer"
-    },
-    {
-        "title": "Mouse Turds, Other Health Issues Close Popular Philly Deli - Patch",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9waGlsYWRlbHBoaWEvbW91c2UtdHVyZHMtb3RoZXItaGVhbHRoLWlzc3Vlcy1jbG9zZS1wb3B1bGFyLXBoaWxseS1kZWxp0gFyaHR0cHM6Ly9wYXRjaC5jb20vcGVubnN5bHZhbmlhL3BoaWxhZGVscGhpYS9hbXAvMzE3NjU3NjAvbW91c2UtdHVyZHMtb3RoZXItaGVhbHRoLWlzc3Vlcy1jbG9zZS1wb3B1bGFyLXBoaWxseS1kZWxp?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 17:18:06 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
         "title": "Prom season in Philadelphia means going all out on castles, gowns, flowers | Opinion - The Philadelphia Inquirer",
         "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9vcGluaW9uL3BoaWxhZGVscGhpYS1wcm9tLWNpbmRlcmVsbGEtdHJldmEtaGFycmlzLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
         "description": [],
@@ -24,12 +8,28 @@
         "source_name": "The Philadelphia Inquirer"
     },
     {
+        "title": "Mouse Turds, Other Health Issues Close Popular Philly Deli - Philadelphia, PA Patch",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9waGlsYWRlbHBoaWEvbW91c2UtdHVyZHMtb3RoZXItaGVhbHRoLWlzc3Vlcy1jbG9zZS1wb3B1bGFyLXBoaWxseS1kZWxp0gFyaHR0cHM6Ly9wYXRjaC5jb20vcGVubnN5bHZhbmlhL3BoaWxhZGVscGhpYS9hbXAvMzE3NjU3NjAvbW91c2UtdHVyZHMtb3RoZXItaGVhbHRoLWlzc3Vlcy1jbG9zZS1wb3B1bGFyLXBoaWxseS1kZWxp?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:18:06 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Philadelphia, PA Patch"
+    },
+    {
         "title": "Philadelphia police conducting internal investigation after teens in stolen car kill motorcyclist - WPVI-TV",
         "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovLzZhYmMuY29tL3Bvc3QvcGhpbGFkZWxwaGlhLXBvbGljZS1pbnRlcm5hbC1pbnZlc3RpZ2F0aW9uLWZyb250LXN0cmVldC1jcmFzaC1odW50aW5nLXBhcmstYXZlbnVlLW1vdG9yY3ljbGlzdC1raWxsZWQvMTQ4OTEwNzcv0gEA?oc=5",
         "description": [],
         "pub_date": "Thu, 30 May 2024 15:42:18 GMT",
         "source_url": "https://6abc.com",
         "source_name": "WPVI-TV"
+    },
+    {
+        "title": "Donald Trump's campaign office in Philly opens Tuesday - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9wb2xpdGljcy9lbGVjdGlvbi90cnVtcC1jYW1wYWlnbi1vZmZpY2UtcGhpbGFkZWxwaGlhLWJpZGVuLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:33:32 GMT",
+        "source_url": "https://www.inquirer.com",
+        "source_name": "The Philadelphia Inquirer"
     },
     {
         "title": "Cash flow: Philly residents could get money in settlement over 2023 water scare - NBC Philadelphia",
@@ -48,6 +48,22 @@
         "source_name": "WPVI-TV"
     },
     {
+        "title": "New video of homicide outside Philadelphia bar as man, woman sought by police - FOX 29 Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL25ldy12aWRlby1ob21pY2lkZS1vdXRzaWRlLXBoaWxhZGVscGhpYS1iYXItbWFuLXdvbWFuLXNvdWdodC1wb2xpY2XSAWJodHRwczovL3d3dy5mb3gyOS5jb20vbmV3cy9uZXctdmlkZW8taG9taWNpZGUtb3V0c2lkZS1waGlsYWRlbHBoaWEtYmFyLW1hbi13b21hbi1zb3VnaHQtcG9saWNlLmFtcA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:30:35 GMT",
+        "source_url": "https://www.fox29.com",
+        "source_name": "FOX 29 Philadelphia"
+    },
+    {
+        "title": "Philly-area Coke bottler forgoes plastic bottle carriers in favor of recyclable cardboard - PhillyVoice.com",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnBoaWxseXZvaWNlLmNvbS9jb2tlLXBoaWxhZGVscGhpYS1kaXN0cmlidXRvci1jYXJkYm9hcmQtbGliZXJ0eS1jb2NhLWNvbGEtbm8tcGxhc3RpYy_SAWVodHRwczovL3d3dy5waGlsbHl2b2ljZS5jb20vY29rZS1waGlsYWRlbHBoaWEtZGlzdHJpYnV0b3ItY2FyZGJvYXJkLWxpYmVydHktY29jYS1jb2xhLW5vLXBsYXN0aWMvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 05:01:00 GMT",
+        "source_url": "https://www.phillyvoice.com",
+        "source_name": "PhillyVoice.com"
+    },
+    {
         "title": "Things to do this weekend in Pa., N.J. and Del. - WHYY",
         "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd2h5eS5vcmcvYXJ0aWNsZXMvdGhpbmdzLXRvLWRvLW1heS0yMDI0LWxhc3Qtd2Vla2VuZC1waGlsYWRlbHBoaWEtbmV3LWplcnNleS1kZWxhd2FyZS_SAQA?oc=5",
         "description": [],
@@ -64,52 +80,20 @@
         "source_name": "New Jersey Monitor"
     },
     {
+        "title": "'We're missing a unicorn': Local real estate developers ready for another life sciences success story - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waGlsYWRlbHBoaWEvbmV3cy8yMDI0LzA1LzMwL2xpZmUtc2NpZW5jZXMtZGV2ZWxvcG1lbnQtdGVuYW50LWRlbWFuZC1sZWFzaW5nLmh0bWzSAXFodHRwczovL3d3dy5iaXpqb3VybmFscy5jb20vcGhpbGFkZWxwaGlhL25ld3MvMjAyNC8wNS8zMC9saWZlLXNjaWVuY2VzLWRldmVsb3BtZW50LXRlbmFudC1kZW1hbmQtbGVhc2luZy5hbXAuaHRtbA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 00:53:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
         "title": "Man killed after being struck by vehicle while crossing street in Philadelphia's Juniata Park - WPVI-TV",
         "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vNmFiYy5jb20vcG9zdC9waGlsYWRlbHBoaWEtaGl0LXJ1bi1tYW4ta2lsbGVkLWNyb3NzaW5nLXN0cmVldC1hZnRlci8xNDg5MDA5NC_SAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 30 May 2024 18:37:09 GMT",
         "source_url": "https://6abc.com",
         "source_name": "WPVI-TV"
-    },
-    {
-        "title": "Philly-area Coke bottler forgoes plastic bottle carriers in favor of recyclable cardboard - PhillyVoice.com",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnBoaWxseXZvaWNlLmNvbS9jb2tlLXBoaWxhZGVscGhpYS1kaXN0cmlidXRvci1jYXJkYm9hcmQtbGliZXJ0eS1jb2NhLWNvbGEtbm8tcGxhc3RpYy_SAWVodHRwczovL3d3dy5waGlsbHl2b2ljZS5jb20vY29rZS1waGlsYWRlbHBoaWEtZGlzdHJpYnV0b3ItY2FyZGJvYXJkLWxpYmVydHktY29jYS1jb2xhLW5vLXBsYXN0aWMvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 05:01:00 GMT",
-        "source_url": "https://www.phillyvoice.com",
-        "source_name": "PhillyVoice.com"
-    },
-    {
-        "title": "Ellen DeGeneres Bringing Farewell Standup Tour To Philadelphia - Patch",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9waGlsYWRlbHBoaWEvZWxsZW4tZGVnZW5lcmVzLWJyaW5naW5nLWZhcmV3ZWxsLXN0YW5kdXAtdG91ci1waGlsYWRlbHBoaWHSAXdodHRwczovL3BhdGNoLmNvbS9wZW5uc3lsdmFuaWEvcGhpbGFkZWxwaGlhL2FtcC8zMTc2Mzg4NS9lbGxlbi1kZWdlbmVyZXMtYnJpbmdpbmctZmFyZXdlbGwtc3RhbmR1cC10b3VyLXRvLXBoaWxhZGVscGhpYQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 14:25:23 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
-        "title": "Cirque du Soleil performs in Philadelphia for the first time - PHL17 Philadelphia ",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vcGhsMTcuY29tL25hdGlvbmFsLW5ld3MvY2lycXVlLWR1LXNvbGVpbC1wZXJmb3Jtcy1pbi1waGlsYWRlbHBoaWEtZm9yLXRoZS1maXJzdC10aW1lL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 09:20:37 GMT",
-        "source_url": "https://phl17.com",
-        "source_name": "PHL17 Philadelphia "
-    },
-    {
-        "title": "Philadelphia police investigating shooting on East Westmoreland Street in city's Port Richmond section - WPVI-TV",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vNmFiYy5jb20vcG9zdC9waGlsYWRlbHBoaWEtcG9saWNlLWludmVzdGlnYXRpbmctc2hvb3RpbmctZWFzdC13ZXN0bW9yZWxhbmQtc3RyZWV0LWNpdHlzLzE0ODkwMzEyL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 14:03:08 GMT",
-        "source_url": "https://6abc.com",
-        "source_name": "WPVI-TV"
-    },
-    {
-        "title": "Philadelphia City Council seeks to strengthen anti-discrimination law - WHYY",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd2h5eS5vcmcvYXJ0aWNsZXMvcGhpbGFkZWxwaGlhLWZhaXItcHJhY3RpY2VzLW9yZGluYW5jZS1ob3VzaW5nLXZvdWNoZXItZGlzY3JpbWluYXRpb24tY2l0eS1jb3VuY2lsL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 17:52:24 GMT",
-        "source_url": "https://whyy.org",
-        "source_name": "WHYY"
     },
     {
         "title": "Nicki Minaj expanding her record-breaking \u201cPink Friday 2\u201d World Tour to Philly - PHL17 Philadelphia ",
@@ -120,92 +104,28 @@
         "source_name": "PHL17 Philadelphia "
     },
     {
+        "title": "Eviction Diversion Program poised to become permanent - Metro Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbWV0cm9waGlsYWRlbHBoaWEuY29tL2V2aWN0aW9uLWRpdmVyc2lvbi1wcm9ncmFtLXBlcm1hbmVudC_SAUdodHRwczovL21ldHJvcGhpbGFkZWxwaGlhLmNvbS9ldmljdGlvbi1kaXZlcnNpb24tcHJvZ3JhbS1wZXJtYW5lbnQvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:26:10 GMT",
+        "source_url": "https://metrophiladelphia.com",
+        "source_name": "Metro Philadelphia"
+    },
+    {
+        "title": "Fire Werk With Me: A Damn Fine Twin Peaks Cabaret! | To Do Philadelphia - Metro Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZXZlbnRzLm1ldHJvcGhpbGFkZWxwaGlhLmNvbS9ldmVudC9maXJlLXdlcmstd2l0aC1tZS1hLWRhbW4tZmluZS10d2luLXBlYWtzLWNhYmFyZXQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 20:11:52 GMT",
+        "source_url": "https://events.metrophiladelphia.com",
+        "source_name": "Metro Philadelphia"
+    },
+    {
         "title": "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Philadelphia, PA - The White House",
         "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy53aGl0ZWhvdXNlLmdvdi9icmllZmluZy1yb29tL3ByZXNzLWJyaWVmaW5ncy8yMDI0LzA1LzI5L3ByZXNzLWdhZ2dsZS1ieS1wcmVzcy1zZWNyZXRhcnkta2FyaW5lLWplYW4tcGllcnJlLWVuLXJvdXRlLXBoaWxhZGVscGhpYS1wYS00L9IBAA?oc=5",
         "description": [],
         "pub_date": "Wed, 29 May 2024 23:56:50 GMT",
         "source_url": "https://www.whitehouse.gov",
         "source_name": "The White House"
-    },
-    {
-        "title": "Philadelphia's ODUNDE Festival is back for 2024. Here's what you need to know - NBC Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vZW50ZXJ0YWlubWVudC90aGUtc2NlbmUvb2R1bmUtZmVzdGl2YWwtcGhpbGFkZWxwaGlhLTIwMjQvMzg3MTI4OC_SAWdodHRwczovL3d3dy5uYmNwaGlsYWRlbHBoaWEuY29tL2VudGVydGFpbm1lbnQvdGhlLXNjZW5lL29kdW5lLWZlc3RpdmFsLXBoaWxhZGVscGhpYS0yMDI0LzM4NzEyODgvP2FtcD0x?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 23:52:21 GMT",
-        "source_url": "https://www.nbcphiladelphia.com",
-        "source_name": "NBC Philadelphia"
-    },
-    {
-        "title": "Man jailed for stealing $1.1 million from ATMs in Philly, Montgomery and Delaware counties - The Delaware County Daily Times",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRlbGNvdGltZXMuY29tLzIwMjQvMDUvMjkvbWFuLWphaWxlZC1mb3Itc3RlYWxpbmctMS0xLW1pbGxpb24tZnJvbS1hdG1zLWluLXBoaWxseS1tb250Z29tZXJ5LWFuZC1kZWxhd2FyZS1jb3VudGllcy_SAYMBaHR0cHM6Ly93d3cuZGVsY290aW1lcy5jb20vMjAyNC8wNS8yOS9tYW4tamFpbGVkLWZvci1zdGVhbGluZy0xLTEtbWlsbGlvbi1mcm9tLWF0bXMtaW4tcGhpbGx5LW1vbnRnb21lcnktYW5kLWRlbGF3YXJlLWNvdW50aWVzL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 20:15:10 GMT",
-        "source_url": "https://www.delcotimes.com",
-        "source_name": "The Delaware County Daily Times"
-    },
-    {
-        "title": "On Stage: Copely brings multimedia harp show to Philly | The Unionville Times - The Unionville Times",
-        "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LnVuaW9udmlsbGV0aW1lcy5jb20vP3A9NTQxNTXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 13:09:21 GMT",
-        "source_url": "https://www.unionvilletimes.com",
-        "source_name": "The Unionville Times"
-    },
-    {
-        "title": "'We're missing a unicorn': Local real estate developers ready for another life sciences success story - Philadelphia Business Journal",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waGlsYWRlbHBoaWEvbmV3cy8yMDI0LzA1LzMwL2xpZmUtc2NpZW5jZXMtZGV2ZWxvcG1lbnQtdGVuYW50LWRlbWFuZC1sZWFzaW5nLmh0bWzSAXFodHRwczovL3d3dy5iaXpqb3VybmFscy5jb20vcGhpbGFkZWxwaGlhL25ld3MvMjAyNC8wNS8zMC9saWZlLXNjaWVuY2VzLWRldmVsb3BtZW50LXRlbmFudC1kZW1hbmQtbGVhc2luZy5hbXAuaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 31 May 2024 00:53:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "Philadelphia Business Journal"
-    },
-    {
-        "title": "Latino leaders call for work permits for long-term workers, undocumented family of citizens - NBC Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9sYXRpbm8tbGVhZGVycy13b3JrLXBlcm1pdHMtbG9uZy10ZXJtLXdvcmtlcnMtdW5kb2N1bWVudGVkLWZhbWlseS1jaXRpemVucy8zODcxMDQyL9IBhAFodHRwczovL3d3dy5uYmNwaGlsYWRlbHBoaWEuY29tL25ld3MvbG9jYWwvbGF0aW5vLWxlYWRlcnMtd29yay1wZXJtaXRzLWxvbmctdGVybS13b3JrZXJzLXVuZG9jdW1lbnRlZC1mYW1pbHktY2l0aXplbnMvMzg3MTA0Mi8_YW1wPTE?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 22:23:43 GMT",
-        "source_url": "https://www.nbcphiladelphia.com",
-        "source_name": "NBC Philadelphia"
-    },
-    {
-        "title": "Voters to decide if Office of Homeless Services needs oversight - Metro Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vbWV0cm9waGlsYWRlbHBoaWEuY29tL2hvbWVsZXNzLXNlcnZpY2VzLWJhbGxvdC1xdWVzdGlvbi_SAURodHRwczovL21ldHJvcGhpbGFkZWxwaGlhLmNvbS9ob21lbGVzcy1zZXJ2aWNlcy1iYWxsb3QtcXVlc3Rpb24vYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 21:40:35 GMT",
-        "source_url": "https://metrophiladelphia.com",
-        "source_name": "Metro Philadelphia"
-    },
-    {
-        "title": "Box truck overturns on I-95 SB near Academy Road - 6abc Philadelphia - WPVI-TV",
-        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vNmFiYy5jb20vcG9zdC9ib3gtdHJ1Y2stb3ZlcnR1cm5zLWk5NS1zYi1hY2FkZW15LXJvYWQvMTQ4ODY3NzYv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 14:47:40 GMT",
-        "source_url": "https://6abc.com",
-        "source_name": "WPVI-TV"
-    },
-    {
-        "title": "Cherelle Parker Mandates Office Return for Philly Workers - South Philly Review",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc291dGhwaGlsbHlyZXZpZXcuY29tL25ld3MvbWF5b3ItY2hlcmVsbGUtcGFya2VyLW9yZGVycy1vZmZpY2UtcmV0dXJuL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 17:56:44 GMT",
-        "source_url": "https://southphillyreview.com",
-        "source_name": "South Philly Review"
-    },
-    {
-        "title": "Can These Leaders Get Philly Clean? - The Philadelphia Citizen",
-        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlcGhpbGFkZWxwaGlhY2l0aXplbi5vcmcvY2FuLXRoZXNlLWxlYWRlcnMtZ2V0LXBoaWxseS1jbGVhbi1hbmQtZ3JlZW4v0gFUaHR0cHM6Ly90aGVwaGlsYWRlbHBoaWFjaXRpemVuLm9yZy9jYW4tdGhlc2UtbGVhZGVycy1nZXQtcGhpbGx5LWNsZWFuLWFuZC1ncmVlbi9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 15:25:43 GMT",
-        "source_url": "https://thephiladelphiacitizen.org",
-        "source_name": "The Philadelphia Citizen"
-    },
-    {
-        "title": "Study finds air purifiers significantly improve air quality at Philly day cares - WHYY",
-        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd2h5eS5vcmcvYXJ0aWNsZXMvcGhpbGFkZWxwaGlhLWRheS1jYXJlLWFpci1xdWFsaXR5LXB1cmlmaWVyLXBvbGx1dGlvbi_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 13:34:18 GMT",
-        "source_url": "https://whyy.org",
-        "source_name": "WHYY"
     },
     {
         "title": "Philadelphia General Contractors - Philadelphia Business Journal - The Business Journals",
@@ -216,20 +136,92 @@
         "source_name": "The Business Journals"
     },
     {
-        "title": "New video of homicide outside Philadelphia bar as man, woman sought by police - FOX 29 Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL25ldy12aWRlby1ob21pY2lkZS1vdXRzaWRlLXBoaWxhZGVscGhpYS1iYXItbWFuLXdvbWFuLXNvdWdodC1wb2xpY2XSAWJodHRwczovL3d3dy5mb3gyOS5jb20vbmV3cy9uZXctdmlkZW8taG9taWNpZGUtb3V0c2lkZS1waGlsYWRlbHBoaWEtYmFyLW1hbi13b21hbi1zb3VnaHQtcG9saWNlLmFtcA?oc=5",
+        "title": "Off-duty Philadelphia police officer injured in robbery, shooting incident - WPVI-TV",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vNmFiYy5jb20vcG9zdC9waGlsYWRlbHBoaWEtcG9saWNlLWludmVzdGlnYXRpbmctc2hvb3RpbmctZWFzdC13ZXN0bW9yZWxhbmQtc3RyZWV0LWNpdHlzLzE0ODkwMzEyL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 17:30:35 GMT",
+        "pub_date": "Fri, 31 May 2024 02:00:09 GMT",
+        "source_url": "https://6abc.com",
+        "source_name": "WPVI-TV"
+    },
+    {
+        "title": "Cirque du Soleil: Corteo performs in Philadelphia for the first time - PHL17 Philadelphia ",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGhsMTcuY29tL3BobDE3LW5ld3MvY2lycXVlLWR1LXNvbGVpbC1wZXJmb3Jtcy1pbi1waGlsYWRlbHBoaWEtZm9yLXRoZS1maXJzdC10aW1lL9IBXmh0dHBzOi8vcGhsMTcuY29tL3BobDE3LW5ld3MvY2lycXVlLWR1LXNvbGVpbC1wZXJmb3Jtcy1pbi1waGlsYWRlbHBoaWEtZm9yLXRoZS1maXJzdC10aW1lL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 09:20:37 GMT",
+        "source_url": "https://phl17.com",
+        "source_name": "PHL17 Philadelphia "
+    },
+    {
+        "title": "Cherelle Parker Mandates Office Return for Philly Workers - South Philly Review",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc291dGhwaGlsbHlyZXZpZXcuY29tL25ld3MvbWF5b3ItY2hlcmVsbGUtcGFya2VyLW9yZGVycy1vZmZpY2UtcmV0dXJuL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:56:44 GMT",
+        "source_url": "https://southphillyreview.com",
+        "source_name": "South Philly Review"
+    },
+    {
+        "title": "Voters to decide if Office of Homeless Services needs oversight - Metro Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vbWV0cm9waGlsYWRlbHBoaWEuY29tL2hvbWVsZXNzLXNlcnZpY2VzLWJhbGxvdC1xdWVzdGlvbi_SAURodHRwczovL21ldHJvcGhpbGFkZWxwaGlhLmNvbS9ob21lbGVzcy1zZXJ2aWNlcy1iYWxsb3QtcXVlc3Rpb24vYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:40:35 GMT",
+        "source_url": "https://metrophiladelphia.com",
+        "source_name": "Metro Philadelphia"
+    },
+    {
+        "title": "On Stage: Copely brings multimedia harp show to Philly | The Unionville Times - The Unionville Times",
+        "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LnVuaW9udmlsbGV0aW1lcy5jb20vP3A9NTQxNTXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 13:09:21 GMT",
+        "source_url": "https://www.unionvilletimes.com",
+        "source_name": "The Unionville Times"
+    },
+    {
+        "title": "Man jailed for stealing $1.1 million from ATMs in Philly, Montgomery and Delaware counties - The Delaware County Daily Times",
+        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRlbGNvdGltZXMuY29tLzIwMjQvMDUvMjkvbWFuLWphaWxlZC1mb3Itc3RlYWxpbmctMS0xLW1pbGxpb24tZnJvbS1hdG1zLWluLXBoaWxseS1tb250Z29tZXJ5LWFuZC1kZWxhd2FyZS1jb3VudGllcy_SAYMBaHR0cHM6Ly93d3cuZGVsY290aW1lcy5jb20vMjAyNC8wNS8yOS9tYW4tamFpbGVkLWZvci1zdGVhbGluZy0xLTEtbWlsbGlvbi1mcm9tLWF0bXMtaW4tcGhpbGx5LW1vbnRnb21lcnktYW5kLWRlbGF3YXJlLWNvdW50aWVzL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 20:15:10 GMT",
+        "source_url": "https://www.delcotimes.com",
+        "source_name": "The Delaware County Daily Times"
+    },
+    {
+        "title": "Can These Leaders Get Philly Clean? - The Philadelphia Citizen",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlcGhpbGFkZWxwaGlhY2l0aXplbi5vcmcvY2FuLXRoZXNlLWxlYWRlcnMtZ2V0LXBoaWxseS1jbGVhbi1hbmQtZ3JlZW4v0gFUaHR0cHM6Ly90aGVwaGlsYWRlbHBoaWFjaXRpemVuLm9yZy9jYW4tdGhlc2UtbGVhZGVycy1nZXQtcGhpbGx5LWNsZWFuLWFuZC1ncmVlbi9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 15:25:43 GMT",
+        "source_url": "https://thephiladelphiacitizen.org",
+        "source_name": "The Philadelphia Citizen"
+    },
+    {
+        "title": "Philadelphia's ODUNDE Festival is back for 2024. Here's what you need to know - NBC Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vZW50ZXJ0YWlubWVudC90aGUtc2NlbmUvb2R1bmUtZmVzdGl2YWwtcGhpbGFkZWxwaGlhLTIwMjQvMzg3MTI4OC_SAWdodHRwczovL3d3dy5uYmNwaGlsYWRlbHBoaWEuY29tL2VudGVydGFpbm1lbnQvdGhlLXNjZW5lL29kdW5lLWZlc3RpdmFsLXBoaWxhZGVscGhpYS0yMDI0LzM4NzEyODgvP2FtcD0x?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 23:52:21 GMT",
+        "source_url": "https://www.nbcphiladelphia.com",
+        "source_name": "NBC Philadelphia"
+    },
+    {
+        "title": "Philly northern lights forecast: Is another opportunity to view northern lights possible? - FOX 29 Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL3BoaWxseS1ub3J0aGVybi1saWdodHMtZm9yZWNhc3QtYW5vdGhlci1vcHBvcnR1bml0eS12aWV3LW5vcnRoZXJuLWxpZ2h0cy1wb3NzaWJsZdIBcGh0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL3BoaWxseS1ub3J0aGVybi1saWdodHMtZm9yZWNhc3QtYW5vdGhlci1vcHBvcnR1bml0eS12aWV3LW5vcnRoZXJuLWxpZ2h0cy1wb3NzaWJsZS5hbXA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 03:46:35 GMT",
         "source_url": "https://www.fox29.com",
         "source_name": "FOX 29 Philadelphia"
     },
     {
-        "title": "Eviction Diversion Program poised to become permanent - Metro Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbWV0cm9waGlsYWRlbHBoaWEuY29tL2V2aWN0aW9uLWRpdmVyc2lvbi1wcm9ncmFtLXBlcm1hbmVudC_SAUdodHRwczovL21ldHJvcGhpbGFkZWxwaGlhLmNvbS9ldmljdGlvbi1kaXZlcnNpb24tcHJvZ3JhbS1wZXJtYW5lbnQvYW1wLw?oc=5",
+        "title": "Study finds air purifiers significantly improve air quality at Philly day cares - WHYY",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd2h5eS5vcmcvYXJ0aWNsZXMvcGhpbGFkZWxwaGlhLWRheS1jYXJlLWFpci1xdWFsaXR5LXB1cmlmaWVyLXBvbGx1dGlvbi_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 21:26:10 GMT",
-        "source_url": "https://metrophiladelphia.com",
-        "source_name": "Metro Philadelphia"
+        "pub_date": "Thu, 30 May 2024 13:34:18 GMT",
+        "source_url": "https://whyy.org",
+        "source_name": "WHYY"
+    },
+    {
+        "title": "Know Him? Burglar Forced Way Into Philadelphia Home, Police Say (VIDEO) - Daily Voice",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vZGFpbHl2b2ljZS5jb20vcGVubnN5bHZhbmlhL21vbnRnb21lcnkva25vdy1oaW0tYnVyZ2xhci1mb3JjZWQtd2F5LWludG8tcGhpbGFkZWxwaGlhLWhvbWUtcG9saWNlLXNheS12aWRlby_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 16:22:22 GMT",
+        "source_url": "https://dailyvoice.com",
+        "source_name": "Daily Voice"
     },
     {
         "title": "Philly's dragon boat legacy; Pride guide; Biden back in Philly | Morning roundup - Billy Penn",
@@ -240,14 +232,6 @@
         "source_name": "Billy Penn"
     },
     {
-        "title": "New York Post: Longtime Philadelphia Couple Throws Surprise Centennial Wedding - VISTA.Today",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdmlzdGEudG9kYXkvMjAyNC8wNS9waGlsYWRlbHBoaWEtY291cGxlLXN1cnByaXNlLWNlbnRlbm5pYWwtd2VkZGluZy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 10:09:36 GMT",
-        "source_url": "https://vista.today",
-        "source_name": "VISTA.Today"
-    },
-    {
         "title": "Growing cultural inclusion: How to help Latine-focused community gardens flourish in Philadelphia - Metro Philadelphia",
         "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vbWV0cm9waGlsYWRlbHBoaWEuY29tL2xhdGluZS1jb21tdW5pdHktZ2FyZGVucy1waGlsYWRlbHBoaWEv0gFIaHR0cHM6Ly9tZXRyb3BoaWxhZGVscGhpYS5jb20vbGF0aW5lLWNvbW11bml0eS1nYXJkZW5zLXBoaWxhZGVscGhpYS9hbXAv?oc=5",
         "description": [],
@@ -256,20 +240,20 @@
         "source_name": "Metro Philadelphia"
     },
     {
-        "title": "Philly Life Sciences Surges into Number Four Spot of U.S. Hubs - BioBuzz",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYmlvYnV6ei5pby9waGlsbHktbGlmZS1zY2llbmNlcy1zdXJnZXMtaW50by1udW1iZXItZm91ci1zcG90LW9mLXUtcy1odWJzL9IBAA?oc=5",
+        "title": "Philadelphia City Council seeks to strengthen anti-discrimination law - WHYY",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd2h5eS5vcmcvYXJ0aWNsZXMvcGhpbGFkZWxwaGlhLWZhaXItcHJhY3RpY2VzLW9yZGluYW5jZS1ob3VzaW5nLXZvdWNoZXItZGlzY3JpbWluYXRpb24tY2l0eS1jb3VuY2lsL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 23:37:30 GMT",
-        "source_url": "https://biobuzz.io",
-        "source_name": "BioBuzz"
+        "pub_date": "Wed, 29 May 2024 17:52:24 GMT",
+        "source_url": "https://whyy.org",
+        "source_name": "WHYY"
     },
     {
-        "title": "Elkins Park Teen Killed 2 Weeks Before His Graduation - Abington, PA Patch",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9hYmluZ3Rvbi9lbGtpbnMtcGFyay10ZWVuLWtpbGxlZC0yLXdlZWtzLWhpcy1ncmFkdWF0aW9u0gFqaHR0cHM6Ly9wYXRjaC5jb20vcGVubnN5bHZhbmlhL2FiaW5ndG9uL2FtcC8zMTc2NTUzNS9lbGtpbnMtcGFyay10ZWVuLWtpbGxlZC0yLXdlZWtzLWJlZm9yZS1oaXMtZ3JhZHVhdGlvbg?oc=5",
+        "title": "New York Post: Longtime Philadelphia Couple Throws Surprise Centennial Wedding - VISTA.Today",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdmlzdGEudG9kYXkvMjAyNC8wNS9waGlsYWRlbHBoaWEtY291cGxlLXN1cnByaXNlLWNlbnRlbm5pYWwtd2VkZGluZy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 14:23:09 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Abington, PA Patch"
+        "pub_date": "Thu, 30 May 2024 10:09:36 GMT",
+        "source_url": "https://vista.today",
+        "source_name": "VISTA.Today"
     },
     {
         "title": "Philly daily roundup: PA's new tick disease tracker; Local startups win grants; Computer science teacher awards - Technical.ly",
@@ -280,28 +264,28 @@
         "source_name": "Technical.ly"
     },
     {
-        "title": "A mix of relief and caution in Philly after Trump guilty verdict - The Philadelphia Tribune",
-        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5waGlsbHl0cmliLmNvbS9uZXdzL2EtbWl4LW9mLXJlbGllZi1hbmQtY2F1dGlvbi1pbi1waGlsbHktYWZ0ZXItdHJ1bXAtZ3VpbHR5LXZlcmRpY3QvYXJ0aWNsZV80OWEwMjhjZC0yZmE1LTUwM2ItOTQwYy1kOTU4ODVlYmIyZDAuaHRtbNIBAA?oc=5",
+        "title": "Philadelphia, Paris connect through the work of world-renowned architect I.M. Pei - NBC Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9mcmVuY2gtY29ubmVjdGlvbnMtaS1tLXBlaS1pbmZsdWVuY2Utb24tcGhpbGFkZWxwaGlhLXBhcmlzLzM4NzEzOTYv0gF0aHR0cHM6Ly93d3cubmJjcGhpbGFkZWxwaGlhLmNvbS9uZXdzL2xvY2FsL2ZyZW5jaC1jb25uZWN0aW9ucy1pLW0tcGVpLWluZmx1ZW5jZS1vbi1waGlsYWRlbHBoaWEtcGFyaXMvMzg3MTM5Ni8_YW1wPTE?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 21:36:00 GMT",
-        "source_url": "https://www.phillytrib.com",
-        "source_name": "The Philadelphia Tribune"
+        "pub_date": "Thu, 30 May 2024 00:07:07 GMT",
+        "source_url": "https://www.nbcphiladelphia.com",
+        "source_name": "NBC Philadelphia"
+    },
+    {
+        "title": "Delaware's port expansion plan is moving forward. What does it mean for Philadelphia? - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9uZXdzbGV0dGVycy9tb3JuaW5nL3BvcnQtd2lsbWluZ3Rvbi1leHBhbnNpb24tcGhpbGFkZWxwaGlhLWNvbXBldGl0aW9uLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 10:00:01 GMT",
+        "source_url": "https://www.inquirer.com",
+        "source_name": "The Philadelphia Inquirer"
     },
     {
         "title": "Philadelphia's newest Italian restaurant is hidden inside a gelato shop - Axios",
         "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9waGlsYWRlbHBoaWEvMjAyNC8wNS8yOS9uZXctcmVzdGF1cmFudC1pdGFsaWFuLWdlbGF0by1zaG9wLXZpdGHSAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 08:45:16 GMT",
+        "pub_date": "Wed, 29 May 2024 10:29:32 GMT",
         "source_url": "https://www.axios.com",
         "source_name": "Axios"
-    },
-    {
-        "title": "New Philadelphia task force studies reparations for Black residents - Billy Penn",
-        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYmlsbHlwZW5uLmNvbS8yMDI0LzA1LzI5L3BoaWxhZGVscGhpYS1ibGFjay1yZXBhcmF0aW9ucy10YXNrLWZvcmNlL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 10:00:00 GMT",
-        "source_url": "https://billypenn.com",
-        "source_name": "Billy Penn"
     },
     {
         "title": "Nearly $90M could be invested into Circuit Trails projects - KYW",
@@ -320,20 +304,20 @@
         "source_name": "westphillylocal.com"
     },
     {
-        "title": "'I'm back with my family': 8-year-old speaks out after being shot by scooter rider in Philadelphia - WPVI-TV",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vNmFiYy5jb20vcG9zdC9pbS1iYWNrLWZhbWlseS04LXllYXIta2VpbHluLW5hdGFyZW5vLXNwZWFrcy8xNDg4NDU0MC_SAQA?oc=5",
+        "title": "Suspect in wheelchair accused of shooting man outside Philadelphia corner store: police - FOX 29 Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL3N1c3BlY3Qtd2hlZWxjaGFpci1zaG90LW1hbi1vdXRzaWRlLXBoaWxhZGVscGhpYS1jb3JuZXItc3RvcmUtcG9saWNl0gFjaHR0cHM6Ly93d3cuZm94MjkuY29tL25ld3Mvc3VzcGVjdC13aGVlbGNoYWlyLXNob3QtbWFuLW91dHNpZGUtcGhpbGFkZWxwaGlhLWNvcm5lci1zdG9yZS1wb2xpY2UuYW1w?oc=5",
         "description": [],
-        "pub_date": "Wed, 29 May 2024 02:27:24 GMT",
-        "source_url": "https://6abc.com",
-        "source_name": "WPVI-TV"
+        "pub_date": "Thu, 30 May 2024 15:30:53 GMT",
+        "source_url": "https://www.fox29.com",
+        "source_name": "FOX 29 Philadelphia"
     },
     {
-        "title": "Delaware's port expansion plan is moving forward. What does it mean for Philadelphia? - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9uZXdzbGV0dGVycy9tb3JuaW5nL3BvcnQtd2lsbWluZ3Rvbi1leHBhbnNpb24tcGhpbGFkZWxwaGlhLWNvbXBldGl0aW9uLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
+        "title": "New Philadelphia task force studies reparations for Black residents - Billy Penn",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYmlsbHlwZW5uLmNvbS8yMDI0LzA1LzI5L3BoaWxhZGVscGhpYS1ibGFjay1yZXBhcmF0aW9ucy10YXNrLWZvcmNlL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 10:00:01 GMT",
-        "source_url": "https://www.inquirer.com",
-        "source_name": "The Philadelphia Inquirer"
+        "pub_date": "Wed, 29 May 2024 10:00:00 GMT",
+        "source_url": "https://billypenn.com",
+        "source_name": "Billy Penn"
     },
     {
         "title": "Guest Commentary: Dear Philly, Please Pay Your Providers - The Philadelphia Citizen",
@@ -344,22 +328,6 @@
         "source_name": "The Philadelphia Citizen"
     },
     {
-        "title": "Philadelphia hate crime law would get tougher under new bill - KYW",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmF1ZGFjeS5jb20va3l3bmV3c3JhZGlvL25ld3MvbG9jYWwvcGhpbGFkZWxwaGlhLWNpdHktY291bmNpbC1iaWxsLWV4cGFuZC1oYXRlLWNyaW1lLWxhdy1idXNpbmVzc2Vz0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 17:18:29 GMT",
-        "source_url": "https://www.audacy.com",
-        "source_name": "KYW"
-    },
-    {
-        "title": "Remembering those who gave all - Northeast Times",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjQvMDUvMjkvcmVtZW1iZXJpbmctdGhvc2Utd2hvLWhhdmUtYWxsL9IBSWh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjQvMDUvMjkvcmVtZW1iZXJpbmctdGhvc2Utd2hvLWhhdmUtYWxsLz9hbXA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 02:16:36 GMT",
-        "source_url": "https://northeasttimes.com",
-        "source_name": "Northeast Times"
-    },
-    {
         "title": "Rapidly Growing Warehouse Space Reshaping Jobs, Traffic, and Landscapes in Philadelphia Region - MONTCO.Today",
         "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbW9udGNvLnRvZGF5LzIwMjQvMDUvd2FyZWhvdXNlLXNwYWNlLXBoaWxhZGVscGhpYS1hcmVhL9IBAA?oc=5",
         "description": [],
@@ -368,28 +336,20 @@
         "source_name": "MONTCO.Today"
     },
     {
-        "title": "Legislative task force mounts fact-finding tour of Southwest Philly 'stop-and-go' stores - KYW",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmF1ZGFjeS5jb20va3l3bmV3c3JhZGlvL25ld3MvbG9jYWwvdGFzay1mb3JjZS1mYWN0LWZpbmRpbmctdG91ci1zdG9wLWdvLXN0b3Jlc9IBAA?oc=5",
+        "title": "A mix of relief and caution in Philly after Trump guilty verdict - The Philadelphia Tribune",
+        "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5waGlsbHl0cmliLmNvbS9uZXdzL2xvY2FsX25ld3MvYS1taXgtb2YtcmVsaWVmLWFuZC1jYXV0aW9uLWluLXBoaWxseS1hZnRlci10cnVtcC1ndWlsdHktdmVyZGljdC9hcnRpY2xlXzQ5YTAyOGNkLTJmYTUtNTAzYi05NDBjLWQ5NTg4NWViYjJkMC5odG1s0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 29 May 2024 20:56:55 GMT",
-        "source_url": "https://www.audacy.com",
-        "source_name": "KYW"
+        "pub_date": "Fri, 31 May 2024 01:15:00 GMT",
+        "source_url": "https://www.phillytrib.com",
+        "source_name": "The Philadelphia Tribune"
     },
     {
-        "title": "Philly's best pastrami: I tasted and ranked them all - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9mb29kL2NyYWlnLWxhYmFuL3Bhc3RyYW1pLWRlbGktcmFkaW5zLWhlcnNoZWxzLW1pZGRsZS1jaGlsZC1iYXJ0cy1mYW1vdXMtMjAyNDA1MzAuaHRtbNIBAA?oc=5",
+        "title": "Elkins Park Teen Killed 2 Weeks Before His Graduation - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9hYmluZ3Rvbi9lbGtpbnMtcGFyay10ZWVuLWtpbGxlZC0yLXdlZWtzLWhpcy1ncmFkdWF0aW9u0gFqaHR0cHM6Ly9wYXRjaC5jb20vcGVubnN5bHZhbmlhL2FiaW5ndG9uL2FtcC8zMTc2NTUzNS9lbGtpbnMtcGFyay10ZWVuLWtpbGxlZC0yLXdlZWtzLWJlZm9yZS1oaXMtZ3JhZHVhdGlvbg?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 09:15:00 GMT",
-        "source_url": "https://www.inquirer.com",
-        "source_name": "The Philadelphia Inquirer"
-    },
-    {
-        "title": "Don't Delay! Nominate a Philly-Area Health Hero Today - Philadelphia magazine",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBoaWxseW1hZy5jb20vYmUtd2VsbC1waGlsbHkvMjAyNC8wNS8yOS9oZWFsdGgtaGVyby0yMDI0LW5vbWluYXRpb25zLWVuZGluZy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 13:11:24 GMT",
-        "source_url": "https://www.phillymag.com",
-        "source_name": "Philadelphia magazine"
+        "pub_date": "Thu, 30 May 2024 14:23:09 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
     },
     {
         "title": "Philadelphia As a Travel Destination Offers Nourishment For Both the Body and Soul - VISTA.Today",
@@ -400,28 +360,52 @@
         "source_name": "VISTA.Today"
     },
     {
-        "title": "Video captures woman taking couple's American flag from their front yard in Philadelphia - WPVI-TV",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vNmFiYy5jb20vcG9zdC92aWRlby1jYXB0dXJlcy13b21hbi10YWtpbmctY291cGxlcy1hbWVyaWNhbi1mbGFnLWZyb250LzE0ODgzMzIyL9IBAA?oc=5",
+        "title": "Philadelphia hate crime law would get tougher under new bill - KYW",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmF1ZGFjeS5jb20va3l3bmV3c3JhZGlvL25ld3MvbG9jYWwvcGhpbGFkZWxwaGlhLWNpdHktY291bmNpbC1iaWxsLWV4cGFuZC1oYXRlLWNyaW1lLWxhdy1idXNpbmVzc2Vz0gEA?oc=5",
         "description": [],
-        "pub_date": "Tue, 28 May 2024 22:33:58 GMT",
+        "pub_date": "Wed, 29 May 2024 17:18:29 GMT",
+        "source_url": "https://www.audacy.com",
+        "source_name": "KYW"
+    },
+    {
+        "title": "Don't Delay! Nominate a Philly-Area Health Hero Today - Philadelphia magazine",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBoaWxseW1hZy5jb20vYmUtd2VsbC1waGlsbHkvMjAyNC8wNS8yOS9oZWFsdGgtaGVyby0yMDI0LW5vbWluYXRpb25zLWVuZGluZy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 13:11:24 GMT",
+        "source_url": "https://www.phillymag.com",
+        "source_name": "Philadelphia magazine"
+    },
+    {
+        "title": "PMAY Artists\u2019 graduation recital on Saturday - Northeast Times",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjQvMDUvMzAvcG1heS1hcnRpc3RzLWdyYWR1YXRpb24tcmVjaXRhbC1vbi1zYXR1cmRheS_SAVZodHRwczovL25vcnRoZWFzdHRpbWVzLmNvbS8yMDI0LzA1LzMwL3BtYXktYXJ0aXN0cy1ncmFkdWF0aW9uLXJlY2l0YWwtb24tc2F0dXJkYXkvP2FtcA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 31 May 2024 01:34:22 GMT",
+        "source_url": "https://northeasttimes.com",
+        "source_name": "Northeast Times"
+    },
+    {
+        "title": "Box truck overturns on I-95 SB near Academy Road - 6abc Philadelphia - WPVI-TV",
+        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vNmFiYy5jb20vcG9zdC9ib3gtdHJ1Y2stb3ZlcnR1cm5zLWk5NS1zYi1hY2FkZW15LXJvYWQvMTQ4ODY3NzYv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 29 May 2024 14:47:40 GMT",
         "source_url": "https://6abc.com",
         "source_name": "WPVI-TV"
     },
     {
-        "title": "Police Search For Driver In Deadly Philadelphia Hit-Run - Daily Voice",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vZGFpbHl2b2ljZS5jb20vcGVubnN5bHZhbmlhL21vbnRnb21lcnkvcG9saWNlLXNlYXJjaC1mb3ItZHJpdmVyLWluLWRlYWRseS1waGlsYWRlbHBoaWEtaGl0LXJ1bi_SAQA?oc=5",
+        "title": "Washington Square West could get historic district; Bellwether District warehouses - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5pbnF1aXJlci5jb20vcmVhbC1lc3RhdGUvcGhpbGFkZWxwaGlhLWhpc3RvcmljYWwtY29tbWlzc2lvbi13YXNoaW5ndG9uLXNxdWFyZS13ZXN0LWJlbGx3ZXRoZXItbmotd2FyZWhvdXNlcy0yMDI0MDUzMC5odG1s0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 15:54:27 GMT",
-        "source_url": "https://dailyvoice.com",
-        "source_name": "Daily Voice"
-    },
-    {
-        "title": "Washington Square West could get historic district over resident opposition - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9yZWFsLWVzdGF0ZS9ob3VzaW5nL3BoaWxhZGVscGhpYS1oaXN0b3JpY2FsLWNvbW1pc3Npb24tZGlzdHJpY3Qtd2FzaGluZ3Rvbi1zcXVhcmUtd2VzdC0yMDI0MDUzMC5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 09:00:39 GMT",
+        "pub_date": "Thu, 30 May 2024 10:20:00 GMT",
         "source_url": "https://www.inquirer.com",
         "source_name": "The Philadelphia Inquirer"
+    },
+    {
+        "title": "Queen Latifah Will Host the Kimmel Center's Great Stages Gala - Philadelphia Style | Modern Luxury",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vcGhpbGx5c3R5bGVtYWcuY29tL2dyZWF0LXN0YWdlcy1nYWxhLWtpbW1lbC1jZW50ZXItcGhpbGFkZWxwaGlhLTIwMjTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:36:15 GMT",
+        "source_url": "https://phillystylemag.com",
+        "source_name": "Philadelphia Style | Modern Luxury"
     },
     {
         "title": "The Bellevue Makeover Preview: Version 4.0 Nears the Finish Line - Philadelphia magazine",
@@ -440,44 +424,68 @@
         "source_name": "The Philadelphia Tribune"
     },
     {
-        "title": "Queen Latifah Will Host the Kimmel Center's Great Stages Gala - Philadelphia Style | Modern Luxury",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vcGhpbGx5c3R5bGVtYWcuY29tL2dyZWF0LXN0YWdlcy1nYWxhLWtpbW1lbC1jZW50ZXItcGhpbGFkZWxwaGlhLTIwMjTSAQA?oc=5",
+        "title": "Legislative task force mounts fact-finding tour of Southwest Philly 'stop-and-go' stores - KYW",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmF1ZGFjeS5jb20va3l3bmV3c3JhZGlvL25ld3MvbG9jYWwvdGFzay1mb3JjZS1mYWN0LWZpbmRpbmctdG91ci1zdG9wLWdvLXN0b3Jlc9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 17:36:15 GMT",
-        "source_url": "https://phillystylemag.com",
-        "source_name": "Philadelphia Style | Modern Luxury"
+        "pub_date": "Wed, 29 May 2024 20:56:55 GMT",
+        "source_url": "https://www.audacy.com",
+        "source_name": "KYW"
+    },
+    {
+        "title": "A new 100,000 square-foot arts campus is coming West Kensington - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9hcnRzL2Zvcm1hbi1hcnRzLWluaXRpYXRpdmUta2Vuc2luZ3Rvbi1nYWxsZXJ5LXNwYWNlLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:24:13 GMT",
+        "source_url": "https://www.inquirer.com",
+        "source_name": "The Philadelphia Inquirer"
     },
     {
         "title": "Jameson shares final reports from Penn antisemitism task force, Commission on Countering Hate - The Daily Pennsylvanian",
         "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWRwLmNvbS9hcnRpY2xlLzIwMjQvMDUvcGVubi1sYXJyeS1qYW1lc29uLXN0YXRlbWVudC1hbnRpc2VtaXRpc20tdGFzay1mb3JjZS1maW5hbC1yZXBvcnRz0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 19:10:40 GMT",
+        "pub_date": "Thu, 30 May 2024 18:15:54 GMT",
         "source_url": "https://www.thedp.com",
         "source_name": "The Daily Pennsylvanian"
     },
     {
-        "title": "Philadelphia-area home investors see largest returns in U.S. - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waGlsYWRlbHBoaWEvbmV3cy8yMDI0LzA1LzI4L2ludmVzdG9yLWhvbWUtcHVyY2hhc2VzLXBoaWxhZGVscGhpYS1nYWlucy5odG1s0gFsaHR0cHM6Ly93d3cuYml6am91cm5hbHMuY29tL3BoaWxhZGVscGhpYS9uZXdzLzIwMjQvMDUvMjgvaW52ZXN0b3ItaG9tZS1wdXJjaGFzZXMtcGhpbGFkZWxwaGlhLWdhaW5zLmFtcC5odG1s?oc=5",
+        "title": "Around Town - Northeast Times",
+        "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjQvMDUvMzEvYXJvdW5kLXRvd24tMzI5L9IBOmh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjQvMDUvMzEvYXJvdW5kLXRvd24tMzI5Lz9hbXA?oc=5",
         "description": [],
-        "pub_date": "Wed, 29 May 2024 03:09:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
+        "pub_date": "Fri, 31 May 2024 04:26:58 GMT",
+        "source_url": "https://northeasttimes.com",
+        "source_name": "Northeast Times"
     },
     {
-        "title": "Home Cuban Cafe in Old City has closed - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9mb29kL3Jlc3RhdXJhbnRzL2hvbWUtY3ViYW4tY2FmZS1jbG9zZWQtb2xkLWNpdHktcGhpbGFkZWxwaGlhLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
+        "title": "Amplifying local Asian American, Native Hawaiian and Pacific Islander stories - NBC Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9hYW5ocGktYW1wbGlmaWVkLWFzaWFuLWFtZXJpY2FuLW5hdGl2ZS1oYXdhaWlhbi1wYWNpZmljLWlzbGFuZGVyLW1vbnRoLzM4NzI4NjIv0gGAAWh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9hYW5ocGktYW1wbGlmaWVkLWFzaWFuLWFtZXJpY2FuLW5hdGl2ZS1oYXdhaWlhbi1wYWNpZmljLWlzbGFuZGVyLW1vbnRoLzM4NzI4NjIvP2FtcD0x?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 16:02:58 GMT",
-        "source_url": "https://www.inquirer.com",
-        "source_name": "The Philadelphia Inquirer"
+        "pub_date": "Fri, 31 May 2024 05:55:55 GMT",
+        "source_url": "https://www.nbcphiladelphia.com",
+        "source_name": "NBC Philadelphia"
     },
     {
-        "title": "Fourth suspect arrested in assault of Philadelphia police officer - PHL17 Philadelphia ",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcGhsMTcuY29tL3BobDE3LW5ld3MvZm91cnRoLXN1c3BlY3QtYXJyZXN0ZWQtaW4tYXNzYXVsdC1vZi1waGlsYWRlbHBoaWEtcG9saWNlLW9mZmljZXIv0gFjaHR0cHM6Ly9waGwxNy5jb20vcGhsMTctbmV3cy9mb3VydGgtc3VzcGVjdC1hcnJlc3RlZC1pbi1hc3NhdWx0LW9mLXBoaWxhZGVscGhpYS1wb2xpY2Utb2ZmaWNlci9hbXAv?oc=5",
+        "title": "Pennsylvania SPCA Seeks Homes For Former Working Dogs Rescued From Poor Shelter - Philadelphia, PA Patch",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9waGlsYWRlbHBoaWEvcGVubnN5bHZhbmlhLXNwY2Etc2Vla3MtaG9tZXMtZm9ybWVyLXdvcmtpbmctZG9ncy1yZXNjdWVkLXBvb3Itc2hlbHRlctIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 29 May 2024 10:28:28 GMT",
-        "source_url": "https://phl17.com",
-        "source_name": "PHL17 Philadelphia "
+        "pub_date": "Wed, 29 May 2024 14:35:21 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Philadelphia, PA Patch"
+    },
+    {
+        "title": "Stop Senior Scams: How to spot \u2013 and avoid \u2013 fake jobs - Philadelphia Corporation For Aging (PCA)",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBjYWNhcmVzLm9yZy9uZXdzL3N0b3Atc2VuaW9yLXNjYW1zLWhvdy10by1zcG90LWFuZC1hdm9pZC1mYWtlLWpvYnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:30:00 GMT",
+        "source_url": "https://www.pcacares.org",
+        "source_name": "Philadelphia Corporation For Aging (PCA)"
+    },
+    {
+        "title": "Five Takeaways from the 2024 OpportUNITY Summit - United Way",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdW5pdGVkZm9yaW1wYWN0Lm9yZy9maXZlLXRha2Vhd2F5cy1mcm9tLXRoZS0yMDI0LW9wcG9ydHVuaXR5LXN1bW1pdC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 21:31:54 GMT",
+        "source_url": "https://unitedforimpact.org",
+        "source_name": "United Way"
     },
     {
         "title": "Philly starts the hunt for an intercity bus station near 30th Street - Billy Penn",
@@ -496,44 +504,52 @@
         "source_name": "CatholicPhilly.com"
     },
     {
-        "title": "The Best Cheesesteaks at the Reading Terminal Market - Philadelphia magazine",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnBoaWxseW1hZy5jb20vZm9vYm9vei9iZXN0LXJlYWRpbmctdGVybWluYWwtbWFya2V0LWNoZWVzZXN0ZWFrcy_SAQA?oc=5",
+        "title": "Philadelphia County Health News: Urgent Call to Address Rising PTSD Rates in US Colleges - 69News WFMZ-TV",
+        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy53Zm16LmNvbS9uZXdzL3N0YXRlL3BoaWxhZGVscGhpYS1jb3VudHktaGVhbHRoLW5ld3MtdXJnZW50LWNhbGwtdG8tYWRkcmVzcy1yaXNpbmctcHRzZC1yYXRlcy1pbi11cy1jb2xsZWdlcy9hcnRpY2xlXzk5M2Q3MDY3LTZjODAtNWE5ZS1hNDYxLTg2NTE4ZGZhMTM1MC5odG1s0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 30 May 2024 16:20:09 GMT",
-        "source_url": "https://www.phillymag.com",
-        "source_name": "Philadelphia magazine"
+        "pub_date": "Fri, 31 May 2024 01:54:03 GMT",
+        "source_url": "https://www.wfmz.com",
+        "source_name": "69News WFMZ-TV"
     },
     {
-        "title": "Problematic potholes on I-76 are becoming costly for both drivers and PennDOT - WPVI-TV",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vNmFiYy5jb20vcG9zdC9zY2h1eWxraWxsLWV4cHJlc3N3YXktcG90aG9sZXMtaTc2LXdoYXQtdG8tZG8tbWVjaGFuaWMtcGhpbGFkZWxwaGlhLzE0ODgzMTc2L9IBAA?oc=5",
+        "title": "Fourth suspect arrested in assault of Philadelphia police officer - PHL17 Philadelphia ",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcGhsMTcuY29tL3BobDE3LW5ld3MvZm91cnRoLXN1c3BlY3QtYXJyZXN0ZWQtaW4tYXNzYXVsdC1vZi1waGlsYWRlbHBoaWEtcG9saWNlLW9mZmljZXIv0gFjaHR0cHM6Ly9waGwxNy5jb20vcGhsMTctbmV3cy9mb3VydGgtc3VzcGVjdC1hcnJlc3RlZC1pbi1hc3NhdWx0LW9mLXBoaWxhZGVscGhpYS1wb2xpY2Utb2ZmaWNlci9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Tue, 28 May 2024 21:16:36 GMT",
+        "pub_date": "Wed, 29 May 2024 10:28:28 GMT",
+        "source_url": "https://phl17.com",
+        "source_name": "PHL17 Philadelphia "
+    },
+    {
+        "title": "Protecting vulnerable older adults from risk - Philadelphia Corporation For Aging (PCA)",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnBjYWNhcmVzLm9yZy9uZXdzL3Byb3RlY3RpbmctdnVsbmVyYWJsZS1vbGRlci1hZHVsdHMtZnJvbS1yaXNrL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 18:33:32 GMT",
+        "source_url": "https://www.pcacares.org",
+        "source_name": "Philadelphia Corporation For Aging (PCA)"
+    },
+    {
+        "title": "Breast cancer survivors train together on 'Against the Wind' for Independence Dragon Boat Regatta - WPVI-TV",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vNmFiYy5jb20vcG9zdC9hcnQtYWdpbmctYnJlYXN0LWNhbmNlci1zdXJ2aXZvcnMtY29tcGV0ZS13aW5kLWNyZXcvMTQ4OTA4ODEv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 17:27:05 GMT",
         "source_url": "https://6abc.com",
         "source_name": "WPVI-TV"
     },
     {
-        "title": "Pennsylvania SPCA Seeks Homes For Former Working Dogs Rescued From Poor Shelter - Patch",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9waGlsYWRlbHBoaWEvcGVubnN5bHZhbmlhLXNwY2Etc2Vla3MtaG9tZXMtZm9ybWVyLXdvcmtpbmctZG9ncy1yZXNjdWVkLXBvb3Itc2hlbHRlctIBAA?oc=5",
+        "title": "Temple University relaunches urban education master's degree program - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9lZHVjYXRpb24vdGVtcGxlLXVuaXZlcnNpdHktdXJiYW4tZWR1Y2F0aW9uLXByb2dyYW0tcmV0dXJucy0yMDI0MDUzMC5odG1s0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 29 May 2024 14:35:21 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
-        "title": "Fun things to do in Philly this weekend - Metro Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vbWV0cm9waGlsYWRlbHBoaWEuY29tL2Z1bi10aGluZ3MtdG8tZG8tcGhpbGx5LW1heS0zMC_SAUFodHRwczovL21ldHJvcGhpbGFkZWxwaGlhLmNvbS9mdW4tdGhpbmdzLXRvLWRvLXBoaWxseS1tYXktMzAvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 29 May 2024 16:24:18 GMT",
-        "source_url": "https://metrophiladelphia.com",
-        "source_name": "Metro Philadelphia"
-    },
-    {
-        "title": "A new 100,000 square-foot arts campus is coming West Kensington - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9hcnRzL2Zvcm1hbi1hcnRzLWluaXRpYXRpdmUta2Vuc2luZ3Rvbi1nYWxsZXJ5LXNwYWNlLTIwMjQwNTMwLmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 30 May 2024 17:24:13 GMT",
+        "pub_date": "Thu, 30 May 2024 17:54:28 GMT",
         "source_url": "https://www.inquirer.com",
         "source_name": "The Philadelphia Inquirer"
+    },
+    {
+        "title": "Historical Society of Pennsylvania holds American treasures - Philadelphia Corporation For Aging (PCA)",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnBjYWNhcmVzLm9yZy9uZXdzL2hpc3RvcmljYWwtc29jaWV0eS1vZi1wZW5uc3lsdmFuaWEtaG9sZHMtYW1lcmljYW4tdHJlYXN1cmVzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 30 May 2024 22:30:00 GMT",
+        "source_url": "https://www.pcacares.org",
+        "source_name": "Philadelphia Corporation For Aging (PCA)"
     },
     {
         "title": "Community Spotlight: Read By 4th nonprofit focuses on helping Philly students become strong readers - PHL17 Philadelphia ",
@@ -542,21 +558,5 @@
         "pub_date": "Thu, 30 May 2024 13:13:25 GMT",
         "source_url": "https://phl17.com",
         "source_name": "PHL17 Philadelphia "
-    },
-    {
-        "title": "72 Years Ago, Philadelphia Made a Huge Mistake - Philadelphia magazine",
-        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnBoaWxseW1hZy5jb20vbmV3cy8yMDI0LzA1LzI4L3BoaWxhZGVscGhpYS1idXNpbmVzcy10YXgv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 28 May 2024 19:19:16 GMT",
-        "source_url": "https://www.phillymag.com",
-        "source_name": "Philadelphia magazine"
-    },
-    {
-        "title": "Memorial Day Shooting At Main Line American Legion Prompts Manhunt - Patch",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9hcmRtb3JlL21lbW9yaWFsLWRheS1zaG9vdGluZy1tYWluLWxpbmUtYW1lcmljYW4tbGVnaW9uLXByb21wdHMtbWFuaHVudNIBdmh0dHBzOi8vcGF0Y2guY29tL3Blbm5zeWx2YW5pYS9hcmRtb3JlL2FtcC8zMTc2MzIxNC9tZW1vcmlhbC1kYXktc2hvb3RpbmctYXQtbWFpbi1saW5lLWFtZXJpY2FuLWxlZ2lvbi1wcm9tcHRzLW1hbmh1bnQ?oc=5",
-        "description": [],
-        "pub_date": "Tue, 28 May 2024 20:11:55 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
     }
 ]
