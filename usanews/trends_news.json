@@ -1,28 +1,8 @@
 [
     {
         "name": "Cyndi Lauper",
-        "summary": "Cyndi Lauper, the iconic music legend, has announced her farewell tour in 2024, marking the end of a remarkable career. Despite her 70 years, Lauper remains a force in the music industry, with her album \"She's So Unusual\" receiving critical acclaim from Pitchfork. The tour will showcase her enduring hits and celebrate her musical legacy. Lauper's authenticity and true colors have been a hallmark of her career, as documented in a CBS News feature. She recently revealed the inspiration behind her iconic \"Time After Time\" lyric in an interview with Billboard. Fans can expect to experience the nostalgia and energy of Lauper's performances during her farewell shows, as highlighted in an article by USA Today. The tour will extend to multiple cities, including Boston, as confirmed by Boston.com.",
+        "summary": "",
         "items": [
-            {
-                "title": "At 70, Cyndi Lauper Has Nothing Left to Prove - The New York Times",
-                "description": "At 70, Cyndi Lauper Has Nothing Left to Prove  The New York Times",
-                "published date": "Tue, 04 Jun 2024 19:54:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMDQvYXJ0cy9tdXNpYy9jeW5kaS1sYXVwZXItdG91ci1kb2N1bWVudGFyeS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Cyndi Lauper: She\u2019s So Unusual Album Review - Pitchfork",
-                "description": "Cyndi Lauper: She\u2019s So Unusual Album Review  Pitchfork",
-                "published date": "Sun, 02 Jun 2024 04:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vcGl0Y2hmb3JrLmNvbS9yZXZpZXdzL2FsYnVtcy9jeW5kaS1sYXVwZXItc2hlcy1zby11bnVzdWFsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://pitchfork.com",
-                    "title": "Pitchfork"
-                }
-            },
             {
                 "title": "Cyndi Lauper Announces 2024 Girls Just Wanna Have Fun Farewell Tour - livenationentertainment.com",
                 "description": "Cyndi Lauper Announces 2024 Girls Just Wanna Have Fun Farewell Tour  livenationentertainment.com",
@@ -44,33 +24,23 @@
                 }
             },
             {
-                "title": "Cyndi Lauper: Showing her true colors - CBS News",
-                "description": "Cyndi Lauper: Showing her true colors  CBS News",
-                "published date": "Sun, 02 Jun 2024 14:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL2N5bmRpLWxhdXBlci1zaG93aW5nLWhlci10cnVlLWNvbG9ycy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "At 70, Cyndi Lauper Has Nothing Left to Prove - The New York Times",
+                "description": "At 70, Cyndi Lauper Has Nothing Left to Prove  The New York Times",
+                "published date": "Tue, 04 Jun 2024 09:02:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMDQvYXJ0cy9tdXNpYy9jeW5kaS1sYXVwZXItdG91ci1kb2N1bWVudGFyeS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
                 }
             },
             {
-                "title": "Cyndi Lauper Reveals How She Came Up With That Iconic \u2018Time After Time\u2019 Lyric - Billboard",
-                "description": "Cyndi Lauper Reveals How She Came Up With That Iconic \u2018Time After Time\u2019 Lyric  Billboard",
-                "published date": "Mon, 03 Jun 2024 22:48:46 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbXVzaWMtbmV3cy9jeW5kaS1sYXVwZXItaWNvbmljLXRpbWUtYWZ0ZXItdGltZS1seXJpYy1iYWNrc3RvcnktMTIzNTY5OTg5NS_SAW5odHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL211c2ljLW5ld3MvY3luZGktbGF1cGVyLWljb25pYy10aW1lLWFmdGVyLXRpbWUtbHlyaWMtYmFja3N0b3J5LTEyMzU2OTk4OTUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Cyndi Lauper Announces Girls Just Wanna Have Fun Farewell Tour - Pitchfork",
+                "description": "Cyndi Lauper Announces Girls Just Wanna Have Fun Farewell Tour  Pitchfork",
+                "published date": "Mon, 03 Jun 2024 11:45:46 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGl0Y2hmb3JrLmNvbS9uZXdzL2N5bmRpLWxhdXBlci1hbm5vdW5jZXMtZ2lybHMtanVzdC13YW5uYS1oYXZlLWZ1bi1mYXJld2VsbC10b3VyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.billboard.com",
-                    "title": "Billboard"
-                }
-            },
-            {
-                "title": "Cyndi Lauper tour: Singer on farewell shows, loyal fans, new doc - USA TODAY",
-                "description": "Cyndi Lauper tour: Singer on farewell shows, loyal fans, new doc  USA TODAY",
-                "published date": "Mon, 03 Jun 2024 11:03:52 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA2LzAzL2N5bmRpLWxhdXBlci1mYXJld2VsbC10b3VyLWxldC10aGUtY2FuYXJ5LXNpbmctZG9jdW1lbnRhcnkvNzM4ODc3MDkwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
+                    "href": "https://pitchfork.com",
+                    "title": "Pitchfork"
                 }
             },
             {
@@ -84,6 +54,26 @@
                 }
             },
             {
+                "title": "Cyndi Lauper announces farewell tour, including Boston concert - Boston.com",
+                "description": "Cyndi Lauper announces farewell tour, including Boston concert  Boston.com",
+                "published date": "Mon, 03 Jun 2024 15:56:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vY3VsdHVyZS9tdXNpYy8yMDI0LzA2LzAzL2N5bmRpLWxhdXBlci1jb25jZXJ0LXRvdXItYm9zdG9uLXRpY2tldHMv0gFfaHR0cHM6Ly93d3cuYm9zdG9uLmNvbS9jdWx0dXJlL211c2ljLzIwMjQvMDYvMDMvY3luZGktbGF1cGVyLWNvbmNlcnQtdG91ci1ib3N0b24tdGlja2V0cy8_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.boston.com",
+                    "title": "Boston.com"
+                }
+            },
+            {
+                "title": "Cyndi Lauper tour: Singer on farewell shows, loyal fans, new doc - USA TODAY",
+                "description": "Cyndi Lauper tour: Singer on farewell shows, loyal fans, new doc  USA TODAY",
+                "published date": "Mon, 03 Jun 2024 11:03:52 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA2LzAzL2N5bmRpLWxhdXBlci1mYXJld2VsbC10b3VyLWxldC10aGUtY2FuYXJ5LXNpbmctZG9jdW1lbnRhcnkvNzM4ODc3MDkwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
                 "title": "Cyndi Lauper Announces Farewell Tour - Hollywood Reporter",
                 "description": "Cyndi Lauper Announces Farewell Tour  Hollywood Reporter",
                 "published date": "Mon, 03 Jun 2024 15:54:14 GMT",
@@ -94,26 +84,36 @@
                 }
             },
             {
-                "title": "Cyndi Lauper announces farewell tour, including Boston concert - Boston.com",
-                "description": "Cyndi Lauper announces farewell tour, including Boston concert  Boston.com",
-                "published date": "Mon, 03 Jun 2024 15:56:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vY3VsdHVyZS9tdXNpYy8yMDI0LzA2LzAzL2N5bmRpLWxhdXBlci1jb25jZXJ0LXRvdXItYm9zdG9uLXRpY2tldHMv0gFfaHR0cHM6Ly93d3cuYm9zdG9uLmNvbS9jdWx0dXJlL211c2ljLzIwMjQvMDYvMDMvY3luZGktbGF1cGVyLWNvbmNlcnQtdG91ci1ib3N0b24tdGlja2V0cy8_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Cyndi Lauper announces \"Girls Just Wanna Have Fun\" farewell tour with stop in Boston - CBS Boston",
+                "description": "Cyndi Lauper announces \"Girls Just Wanna Have Fun\" farewell tour with stop in Boston  CBS Boston",
+                "published date": "Mon, 03 Jun 2024 15:34:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2Jvc3Rvbi9uZXdzL2N5bmRpLWxhdXBlci1naXJscy1qdXN0LXdhbm5hLWhhdmUtZnVuLXRvdXItYm9zdG9uL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9ib3N0b24vbmV3cy9jeW5kaS1sYXVwZXItZ2lybHMtanVzdC13YW5uYS1oYXZlLWZ1bi10b3VyLWJvc3Rvbi8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.boston.com",
-                    "title": "Boston.com"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS Boston"
+                }
+            },
+            {
+                "title": "Cyndi Lauper Announces Farewell Tour - Ultimate Classic Rock",
+                "description": "Cyndi Lauper Announces Farewell Tour  Ultimate Classic Rock",
+                "published date": "Mon, 03 Jun 2024 12:44:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdWx0aW1hdGVjbGFzc2ljcm9jay5jb20vY3luZGktbGF1cGVyLWZhcmV3ZWxsLXRvdXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://ultimateclassicrock.com",
+                    "title": "Ultimate Classic Rock"
                 }
             }
         ]
     },
     {
         "name": "Warren Buffett",
-        "summary": "Warren Buffett's son, Howard Buffett, may become the future chairman of Berkshire Hathaway. Buffett has concerns about potential losses in the insurance market. Berkshire Hathaway has sold six stocks, and Nasdaq recommends an investment in the company. Astrid Buffett is Warren Buffett's wife. A NYSE technical glitch showed a 99% decline in Berkshire Hathaway stock, but it has been fixed. Investors were falsely alarmed by a $600,000 error. Trading resumed after the glitch was resolved. Buffet claims to be able to assess investments quickly.",
+        "summary": "",
         "items": [
             {
-                "title": "Warren Buffett's son Howard Buffett on his life as the potential next chairman of Berkshire Hathaway - Yahoo Finance",
-                "description": "Warren Buffett's son Howard Buffett on his life as the potential next chairman of Berkshire Hathaway  Yahoo Finance",
-                "published date": "Sat, 01 Jun 2024 19:43:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvd2FycmVuLWJ1ZmZldHRzLXNvbi1ob3dhcmQtYnVmZmV0dC1vbi1oaXMtbGlmZS1hcy10aGUtcG90ZW50aWFsLW5leHQtY2hhaXJtYW4tb2YtYmVya3NoaXJlLWhhdGhhd2F5LTEyNTAyMzA3OC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Warren Buffett Says He Knows In '5 Minutes' If An Investment Is Worth It - Yahoo Finance",
+                "description": "Warren Buffett Says He Knows In '5 Minutes' If An Investment Is Worth It  Yahoo Finance",
+                "published date": "Thu, 30 May 2024 16:00:19 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy93YXJyZW4tYnVmZmV0dC1zYXlzLWtub3dzLTUtMTYwMDE5NTUwLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://finance.yahoo.com",
                     "title": "Yahoo Finance"
@@ -200,10 +200,10 @@
                 }
             },
             {
-                "title": "Warren Buffett Says He Knows In '5 Minutes' If An Investment Is Worth It - Yahoo Finance",
-                "description": "Warren Buffett Says He Knows In '5 Minutes' If An Investment Is Worth It  Yahoo Finance",
-                "published date": "Thu, 30 May 2024 16:00:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy93YXJyZW4tYnVmZmV0dC1zYXlzLWtub3dzLTUtMTYwMDE5NTUwLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Warren Buffett's son Howard Buffett on his life as the potential next chairman of Berkshire Hathaway - Yahoo Finance",
+                "description": "Warren Buffett's son Howard Buffett on his life as the potential next chairman of Berkshire Hathaway  Yahoo Finance",
+                "published date": "Sat, 01 Jun 2024 19:43:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvd2FycmVuLWJ1ZmZldHRzLXNvbi1ob3dhcmQtYnVmZmV0dC1vbi1oaXMtbGlmZS1hcy10aGUtcG90ZW50aWFsLW5leHQtY2hhaXJtYW4tb2YtYmVya3NoaXJlLWhhdGhhd2F5LTEyNTAyMzA3OC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://finance.yahoo.com",
                     "title": "Yahoo Finance"
@@ -213,12 +213,12 @@
     },
     {
         "name": "India election results",
-        "summary": "The 2024 Indian election produced surprising results, with Prime Minister Narendra Modi's BJP party securing a third term but experiencing setback in comparison to previous years. While the BJP remained ahead, the opposition made significant gains. Several articles highlighted the election's unexpected outcomes, including stunning setbacks for Modi and his party, raising questions about the future of Indian politics. The New York Times provided live election results and a map, while Al Jazeera English covered the major wins, losses, and surprises. NBC News reported on the doubt surrounding Modi's majority, and CNN announced Modi's victory declaration despite the BJP facing setbacks. The Washington Post labeled the election a setback for Modi and his party, while Bloomberg reported on Modi's speech on the results and the stock market's reaction. Reuters highlighted the question of what comes next after the end of voting, and CBS News cited Modi winning a third term with a smaller mandate, indicating a shift in the political landscape. The Wall Street Journal echoed the setback faced by Modi in the face of the election results.",
+        "summary": "",
         "items": [
             {
-                "title": "India election results 2024: Modi's BJP ahead but opposition makes inroads - The Associated Press",
-                "description": "India election results 2024: Modi's BJP ahead but opposition makes inroads  The Associated Press",
-                "published date": "Tue, 04 Jun 2024 21:23:00 GMT",
+                "title": "India election results 2024: Modi claims victory but falls short of full majority - The Associated Press",
+                "description": "India election results 2024: Modi claims victory but falls short of full majority  The Associated Press",
+                "published date": "Wed, 05 Jun 2024 03:40:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2luZGlhLWVsZWN0aW9uLXJlc3VsdHMtMjAyNC1sb2stc2FiaGEtbW9kaS1ianAtNzg5M2VmZWNjODNmYTgyMjVhNjExZjE3NGU2NDIwZWXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
@@ -233,6 +233,16 @@
                 "publisher": {
                     "href": "https://www.nytimes.com",
                     "title": "The New York Times"
+                }
+            },
+            {
+                "title": "June 4, 2024 - Modi declares victory in India election as BJP party faces shock setbacks - CNN",
+                "description": "June 4, 2024 - Modi declares victory in India election as BJP party faces shock setbacks  CNN",
+                "published date": "Tue, 04 Jun 2024 02:02:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vYXNpYS9saXZlLW5ld3MvaW5kaWEtZ2VuZXJhbC1lbGVjdGlvbi1yZXN1bHRzLTA2LTA0LTI0LWludGwtaG5rL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi9hc2lhL2xpdmUtbmV3cy9pbmRpYS1nZW5lcmFsLWVsZWN0aW9uLXJlc3VsdHMtMDYtMDQtMjQtaW50bC1obmsvaW5kZXguaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
@@ -256,16 +266,6 @@
                 }
             },
             {
-                "title": "June 4, 2024 - Modi declares victory in India election as BJP party faces shock setbacks - CNN",
-                "description": "June 4, 2024 - Modi declares victory in India election as BJP party faces shock setbacks  CNN",
-                "published date": "Tue, 04 Jun 2024 20:59:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vYXNpYS9saXZlLW5ld3MvaW5kaWEtZ2VuZXJhbC1lbGVjdGlvbi1yZXN1bHRzLTA2LTA0LTI0LWludGwtaG5rL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi9hc2lhL2xpdmUtbmV3cy9pbmRpYS1nZW5lcmFsLWVsZWN0aW9uLXJlc3VsdHMtMDYtMDQtMjQtaW50bC1obmsvaW5kZXguaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            },
-            {
                 "title": "Indian election delivers stunning setback to Modi and his party - The Washington Post",
                 "description": "Indian election delivers stunning setback to Modi and his party  The Washington Post",
                 "published date": "Tue, 04 Jun 2024 13:26:00 GMT",
@@ -278,7 +278,7 @@
             {
                 "title": "India Election 2024 Live: Modi Speaks on Results, Stock Market Reacts - Bloomberg",
                 "description": "India Election 2024 Live: Modi Speaks on Results, Stock Market Reacts  Bloomberg",
-                "published date": "Mon, 03 Jun 2024 00:54:52 GMT",
+                "published date": "Tue, 04 Jun 2024 16:45:19 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9saXZlLWJsb2cvMjAyNC0wNi0wMy9pbmRpYS1lbGVjdGlvbi0yMDI0LXJlc3VsdHMtbGl2ZS1uZXdz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.bloomberg.com",
@@ -286,13 +286,23 @@
                 }
             },
             {
-                "title": "India election 2024: What next after voting ends? - Reuters India",
-                "description": "India election 2024: What next after voting ends?  Reuters India",
-                "published date": "Thu, 30 May 2024 07:08:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2luZGlhL2luZGlhLWVsZWN0aW9uLTIwMjQtd2hhdC1uZXh0LWFmdGVyLXZvdGluZy1lbmRzLTIwMjQtMDUtMzAv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "India elections: Modi claims win but opposition yet to concede - BBC.com",
+                "description": "India elections: Modi claims win but opposition yet to concede  BBC.com",
+                "published date": "Wed, 05 Jun 2024 03:22:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9saXZlL3dvcmxkLWFzaWEtaW5kaWEtNjkwNzIyNzXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters India"
+                    "href": "https://www.bbc.com",
+                    "title": "BBC.com"
+                }
+            },
+            {
+                "title": "A shock election result in India humbles Narendra Modi - The Economist",
+                "description": "A shock election result in India humbles Narendra Modi  The Economist",
+                "published date": "Tue, 04 Jun 2024 14:09:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vYXNpYS8yMDI0LzA2LzA0L2Etc2hvY2stZWxlY3Rpb24tcmVzdWx0LWluLWluZGlhLWh1bWJsZXMtbmFyZW5kcmEtbW9kadIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.economist.com",
+                    "title": "The Economist"
                 }
             },
             {
@@ -304,22 +314,12 @@
                     "href": "https://www.cbsnews.com",
                     "title": "CBS News"
                 }
-            },
-            {
-                "title": "India Election Results: Narendra Modi Faces Setback but Wins Third Term - WSJ - The Wall Street Journal",
-                "description": "India Election Results: Narendra Modi Faces Setback but Wins Third Term - WSJ  The Wall Street Journal",
-                "published date": "Tue, 04 Jun 2024 21:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lndzai5jb20vd29ybGQvaW5kaWEvaW5kaWEtZWxlY3Rpb24tMjAyNC1uYW5lbmRyYS1tb2RpLTYxNzlhYmFk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wsj.com",
-                    "title": "The Wall Street Journal"
-                }
             }
         ]
     },
     {
         "name": "Calculator",
-        "summary": "Various calculators are being utilized for diverse purposes. Startups can decipher U.S. regulations using an online calculator. Ithaca school budgets can be analyzed for potential tax impacts through a calculator. NerdWallet provides a calculator to estimate the total cost of owning a car. Shaadi.com's \"Dowry Calculator\" has sparked discussions. S&P Global offers an interactive calculator for determining global bunker fuel costs. AS USA presents an \"Elden Ring Build Calculator\" to estimate weapon damage. IBM Cloud Carbon Calculator assists businesses in sustainability efforts. Rental Equipment Register promotes a free TCO Calculator for exploring benefits of AGM Dry-Cell Batteries. Hackaday showcases a VFD Tube Calculator with extensive capabilities. Lastly, CLEAResult introduces the ATLAS\u2122 Heat Pump Calculator to aid in energy efficiency analysis.",
+        "summary": "",
         "items": [
             {
                 "title": "Online calculator helps startups decipher U.S. regulations - SpaceNews",
@@ -382,26 +382,6 @@
                 }
             },
             {
-                "title": "IBM Cloud Carbon Calculator Aims to Aid Enterprise Sustainability Efforts - ITPro Today",
-                "description": "IBM Cloud Carbon Calculator Aims to Aid Enterprise Sustainability Efforts  ITPro Today",
-                "published date": "Fri, 31 May 2024 23:04:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lml0cHJvdG9kYXkuY29tL2libS1jbG91ZC9pYm0tY2xvdWQtY2FyYm9uLWNhbGN1bGF0b3ItYWltcy10by1haWQtZW50ZXJwcmlzZS1zdXN0YWluYWJpbGl0eS1lZmZvcnRz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.itprotoday.com",
-                    "title": "ITPro Today"
-                }
-            },
-            {
-                "title": "Discover Battery's Free TCO Calculator Shows Benefits of AGM Dry-Cell Batteries - Rental Equipment Register",
-                "description": "Discover Battery's Free TCO Calculator Shows Benefits of AGM Dry-Cell Batteries  Rental Equipment Register",
-                "published date": "Wed, 29 May 2024 03:38:20 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5yZXJtYWcuY29tL3Bvd2VyLWdlbmVyYXRpb24vYXJ0aWNsZS81NTA0NTIxNS9kaXNjb3Zlci1iYXR0ZXJ5cy1mcmVlLXRjby1jYWxjdWxhdG9yLXNob3dzLWJlbmVmaXRzLW9mLWFnbS1kcnktY2VsbC1iYXR0ZXJpZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.rermag.com",
-                    "title": "Rental Equipment Register"
-                }
-            },
-            {
                 "title": "VFD Tube Calculator Shows Off Wide Array Of Skills - Hackaday",
                 "description": "VFD Tube Calculator Shows Off Wide Array Of Skills  Hackaday",
                 "published date": "Tue, 04 Jun 2024 23:00:00 GMT",
@@ -420,12 +400,32 @@
                     "href": "https://www.businesswire.com",
                     "title": "Business Wire"
                 }
+            },
+            {
+                "title": "Watch: Truth Behind Anupam Mittal's 'Dowry Calculator' On Shaadi.com: Hidden Message Or Provocation? - Indiatimes.com",
+                "description": "Watch: Truth Behind Anupam Mittal's 'Dowry Calculator' On Shaadi.com: Hidden Message Or Provocation?  Indiatimes.com",
+                "published date": "Thu, 30 May 2024 06:32:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbmRpYXRpbWVzLmNvbS93b3J0aC9uZXdzL3RydXRoLWJlaGluZC1hbnVwYW0tbWl0dGFscy1kb3dyeS1jYWxjdWxhdG9yLW9uLXNoYWFkaWNvbS1oaWRkZW4tbWVzc2FnZS1vci1wcm92b2NhdGlvbi02MzUzMTkuaHRtbNIBjQFodHRwczovL3d3dy5pbmRpYXRpbWVzLmNvbS9hbXAvd29ydGgvbmV3cy90cnV0aC1iZWhpbmQtYW51cGFtLW1pdHRhbHMtZG93cnktY2FsY3VsYXRvci1vbi1zaGFhZGljb20taGlkZGVuLW1lc3NhZ2Utb3ItcHJvdm9jYXRpb24tNjM1MzE5Lmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.indiatimes.com",
+                    "title": "Indiatimes.com"
+                }
+            },
+            {
+                "title": "Capital gains tax calculator: how much will you pay? - Yahoo Finance",
+                "description": "Capital gains tax calculator: how much will you pay?  Yahoo Finance",
+                "published date": "Mon, 03 Jun 2024 14:57:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9idWRnZXQtMjAyNC10YXgtY2FsY3VsYXRvci1tdWNoLTE3MjUzMjA3Mi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://finance.yahoo.com",
+                    "title": "Yahoo Finance"
+                }
             }
         ]
     },
     {
         "name": "Berkshire Hathaway stock",
-        "summary": "Due to a technical glitch on the New York Stock Exchange (NYSE), Berkshire Hathaway stock was erroneously shown to have plummeted by 99-100%. The NYSE has since resolved the issue, and trading for Berkshire Hathaway has resumed. The unusual glitch caused widespread confusion, leading to headlines highlighting the erroneous decline. However, the glitch has been rectified, and Berkshire Hathaway stock is not experiencing any significant drop in value.",
+        "summary": "",
         "items": [
             {
                 "title": "Berkshire Hathaway Stock No Longer Appears Down 100% As NYSE Fixes Glitch - Forbes",
@@ -435,6 +435,16 @@
                 "publisher": {
                     "href": "https://www.forbes.com",
                     "title": "Forbes"
+                }
+            },
+            {
+                "title": "New York Stock Exchange says bizarre glitch that showed Berkshire Hathaway down 99.97% has been resolved - CNN",
+                "description": "New York Stock Exchange says bizarre glitch that showed Berkshire Hathaway down 99.97% has been resolved  CNN",
+                "published date": "Tue, 04 Jun 2024 02:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wMy9pbnZlc3RpbmcvbmV3LXlvcmstc3RvY2stZXhjaGFuZ2UtdGVjaG5pY2FsLWlzc3VlL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzAzL2ludmVzdGluZy9uZXcteW9yay1zdG9jay1leGNoYW5nZS10ZWNobmljYWwtaXNzdWU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
@@ -455,16 +465,6 @@
                 "publisher": {
                     "href": "https://finance.yahoo.com",
                     "title": "Yahoo Finance"
-                }
-            },
-            {
-                "title": "New York Stock Exchange says bizarre glitch that showed Berkshire Hathaway down 99.97% has been resolved - CNN",
-                "description": "New York Stock Exchange says bizarre glitch that showed Berkshire Hathaway down 99.97% has been resolved  CNN",
-                "published date": "Tue, 04 Jun 2024 02:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wMy9pbnZlc3RpbmcvbmV3LXlvcmstc3RvY2stZXhjaGFuZ2UtdGVjaG5pY2FsLWlzc3VlL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzAzL2ludmVzdGluZy9uZXcteW9yay1zdG9jay1leGNoYW5nZS10ZWNobmljYWwtaXNzdWU?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
                 }
             },
             {
@@ -531,7 +531,7 @@
     },
     {
         "name": "Real Madrid",
-        "summary": "Real Madrid's dominance in football continues to be the focus of news coverage. Following their victory in the Champions League final, news outlets have highlighted the significance of the victory, marking their 15th title win. The addition of star player Kylian Mbapp\u00e9 to their roster has sparked predictions for the team's future performance. Articles also explore the reasons behind Real Madrid's success, including the influence of a higher power and their ability to defy expectations. Additionally, news sources have reported on the team's celebration with their fans in Madrid and their unique greenhouse located under the Santiago Bernab\u00e9u stadium.",
+        "summary": "",
         "items": [
             {
                 "title": "See the greenhouse under Real Madrid\u2019s Santiago Bernab\u00e9u stadium - CNN",
@@ -544,16 +544,6 @@
                 }
             },
             {
-                "title": "Real Madrid celebrates another Champions League title with its fans on streets of Spanish capital - The Associated Press",
-                "description": "Real Madrid celebrates another Champions League title with its fans on streets of Spanish capital  The Associated Press",
-                "published date": "Sun, 02 Jun 2024 22:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3JlYWwtbWFkcmlkLWNoYW1waW9ucy1sZWFndWUtY2VsZWJyYXRpb25zLWJlcm5hYmV1LWU0ZjdmMTBmY2ZmYmMxZTc5YjFhYzkyZmUyNmEwMDky0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
                 "title": "Are Real Madrid impossible to analyse? - The Athletic - The New York Times",
                 "description": "Are Real Madrid impossible to analyse? - The Athletic  The New York Times",
                 "published date": "Thu, 30 May 2024 04:17:10 GMT",
@@ -561,6 +551,16 @@
                 "publisher": {
                     "href": "https://www.nytimes.com",
                     "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Real Madrid celebrates another Champions League title with its fans on streets of Spanish capital - The Associated Press",
+                "description": "Real Madrid celebrates another Champions League title with its fans on streets of Spanish capital  The Associated Press",
+                "published date": "Sun, 02 Jun 2024 22:37:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3JlYWwtbWFkcmlkLWNoYW1waW9ucy1sZWFndWUtY2VsZWJyYXRpb25zLWJlcm5hYmV1LWU0ZjdmMTBmY2ZmYmMxZTc5YjFhYzkyZmUyNmEwMDky0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
@@ -604,9 +604,19 @@
                 }
             },
             {
+                "title": "In photos: Real Madrid celebrates Champions League victory - Reuters",
+                "description": "In photos: Real Madrid celebrates Champions League victory  Reuters",
+                "published date": "Sun, 02 Jun 2024 17:16:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3BpY3R1cmVzL3Bob3Rvcy1yZWFsLW1hZHJpZC1jZWxlYnJhdGVzLWNoYW1waW9ucy1sZWFndWUtdmljdG9yeS0yMDI0LTA2LTAyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.reuters.com",
+                    "title": "Reuters"
+                }
+            },
+            {
                 "title": "Do Real Madrid owe their Champions League dominance to a higher power? - The New York Times",
                 "description": "Do Real Madrid owe their Champions League dominance to a higher power?  The New York Times",
-                "published date": "Fri, 31 May 2024 04:23:27 GMT",
+                "published date": "Fri, 31 May 2024 04:18:08 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1MjY1NjMvMjAyNC8wNS8zMS9yZWFsLW1hZHJpZC1jaGFtcGlvbnMtbGVhZ3VlLW1hZ2ljL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nytimes.com",
@@ -622,33 +632,13 @@
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
                 }
-            },
-            {
-                "title": "Champions League final: Real Madrid wins 15th European Cup with 2-0 win against Borussia Dortmund - CNN",
-                "description": "Champions League final: Real Madrid wins 15th European Cup with 2-0 win against Borussia Dortmund  CNN",
-                "published date": "Sat, 01 Jun 2024 22:55:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wMS9zcG9ydC9jaGFtcGlvbnMtbGVhZ3VlLWZpbmFsLWJvcnVzc2lhLWRvcnRtdW5kLXJlYWwtbWFkcmlkLXNwdC1pbnRsL2luZGV4Lmh0bWzSAWZodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzAxL3Nwb3J0L2NoYW1waW9ucy1sZWFndWUtZmluYWwtYm9ydXNzaWEtZG9ydG11bmQtcmVhbC1tYWRyaWQtc3B0LWludGw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
             }
         ]
     },
     {
         "name": "Fauci",
-        "summary": "A contentious House hearing convened amid escalating tensions between political parties over the COVID-19 pandemic. Dr. Anthony Fauci, Director of the National Institute of Allergy and Infectious Diseases, vehemently refuted accusations from Republican lawmakers, including Representative Marjorie Taylor Greene, that he lied about the origins of the virus and concealed information. Fauci emphasized his commitment to scientific integrity and dismissed claims of a cover-up as \"preposterous.\" The hearing highlighted the deep political divide over the handling of the pandemic, with Republicans fiercely criticizing Fauci while Democrats praised his leadership.",
+        "summary": "",
         "items": [
-            {
-                "title": "Fauci pushes back partisan attacks in fiery House hearing over COVID origins and controversies - The Associated Press",
-                "description": "Fauci pushes back partisan attacks in fiery House hearing over COVID origins and controversies  The Associated Press",
-                "published date": "Mon, 03 Jun 2024 20:32:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZhdWNpLWNvdmlkLXBhbmRlbWljLW9yaWdpbi1jb25ncmVzcy1hNjY2MjU0ODJmMjU4MjQ0NzZlZTMxNTQ4NDc5MDIzMNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
             {
                 "title": "Chairman Wenstrup Opens Hearing with Dr. Anthony Fauci - United States House Committee on Oversight and ... - House Committee on Oversight and Reform |",
                 "description": "Chairman Wenstrup Opens Hearing with Dr. Anthony Fauci - United States House Committee on Oversight and ...  House Committee on Oversight and Reform |",
@@ -657,16 +647,6 @@
                 "publisher": {
                     "href": "https://oversight.house.gov",
                     "title": "House Committee on Oversight and Reform |"
-                }
-            },
-            {
-                "title": "Dr. Fauci says comments like Marjorie Taylor Greene\u2019s in Covid hearing are the reason he is still getting death threats - CNN",
-                "description": "Dr. Fauci says comments like Marjorie Taylor Greene\u2019s in Covid hearing are the reason he is still getting death threats  CNN",
-                "published date": "Tue, 04 Jun 2024 03:31:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wMy9wb2xpdGljcy92aWRlby9kci1mYXVjaS1jb3ZpZC1oZWFyaW5nLW1hcmpvcmllLXRheWxvci1ncmVlbmUtc3JjLWRpZ3ZpZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
                 }
             },
             {
@@ -680,6 +660,16 @@
                 }
             },
             {
+                "title": "Fauci pushes back partisan attacks in fiery House hearing over COVID origins and controversies - The Associated Press",
+                "description": "Fauci pushes back partisan attacks in fiery House hearing over COVID origins and controversies  The Associated Press",
+                "published date": "Mon, 03 Jun 2024 20:32:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZhdWNpLWNvdmlkLXBhbmRlbWljLW9yaWdpbi1jb25ncmVzcy1hNjY2MjU0ODJmMjU4MjQ0NzZlZTMxNTQ4NDc5MDIzMNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
                 "title": "Fauci Calls COVID Cover-Up Claim 'Preposterous' - Scientific American",
                 "description": "Fauci Calls COVID Cover-Up Claim 'Preposterous'  Scientific American",
                 "published date": "Tue, 04 Jun 2024 14:49:17 GMT",
@@ -687,6 +677,16 @@
                 "publisher": {
                     "href": "https://www.scientificamerican.com",
                     "title": "Scientific American"
+                }
+            },
+            {
+                "title": "Dr. Fauci says comments like Marjorie Taylor Greene\u2019s in Covid hearing are the reason he is still getting death threats - CNN",
+                "description": "Dr. Fauci says comments like Marjorie Taylor Greene\u2019s in Covid hearing are the reason he is still getting death threats  CNN",
+                "published date": "Tue, 04 Jun 2024 03:31:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wMy9wb2xpdGljcy92aWRlby9kci1mYXVjaS1jb3ZpZC1oZWFyaW5nLW1hcmpvcmllLXRheWxvci1ncmVlbmUtc3JjLWRpZ3ZpZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
@@ -730,20 +730,20 @@
                 }
             },
             {
-                "title": "Fauci fires back at House Republicans in hearing over COVID origins and response - PBS NewsHour",
-                "description": "Fauci fires back at House Republicans in hearing over COVID origins and response  PBS NewsHour",
-                "published date": "Mon, 03 Jun 2024 22:35:13 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvc2hvdy9mYXVjaS1maXJlcy1iYWNrLWF0LWhvdXNlLXJlcHVibGljYW5zLWluLWhlYXJpbmctb3Zlci1jb3ZpZC1vcmlnaW5zLWFuZC1yZXNwb25zZdIBdmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvYW1wL3Nob3cvZmF1Y2ktZmlyZXMtYmFjay1hdC1ob3VzZS1yZXB1YmxpY2Fucy1pbi1oZWFyaW5nLW92ZXItY292aWQtb3JpZ2lucy1hbmQtcmVzcG9uc2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Fauci says \"performances\" like Greene's at COVID hearing \"drive up\" death threats against him - Axios",
+                "description": "Fauci says \"performances\" like Greene's at COVID hearing \"drive up\" death threats against him  Axios",
+                "published date": "Tue, 04 Jun 2024 08:21:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA2LzAzL2RyLWFudGhvbnktZmF1Y2ktY29uZ3Jlc3Npb25hbC1oZWFyaW5n0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.pbs.org",
-                    "title": "PBS NewsHour"
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
                 }
             }
         ]
     },
     {
         "name": "Fidelity",
-        "summary": "These articles provide a comprehensive overview of Fidelity Investments, a major financial services company. They cover a range of topics, including investing ideas for the remainder of 2024, comparisons with other investment platforms, a review of Fidelity's services and products, an analysis of Fidelity's CD rates, an examination of Fidelity National Home Warranty, news about Fidelity's decision not to impose proposed fees on certain ETF purchases, an exploration of cryptocurrency's potential for positive impact through Fidelity Charitable, a personal account of a tour with Fidelity Imports, and the listing of Fidelity's spot ether ETF on the DTCC. These articles offer valuable insights for investors, financial advisors, and individuals seeking to make informed financial decisions.",
+        "summary": "Fidelity Investments, a prominent wealth management firm, offers investment insights for the remaining portion of 2024 and provides a comparison of its services to those of Charles Schwab and TD Ameritrade. Business Insider highlights Fidelity's competitive CD rates, while The College Investor presents a comprehensive review of their platform. MarketWatch reviews Fidelity National Home Warranty's services and costs. Twittering Machines provides an insider's perspective on Fidelity Imports' Italian HiFi manufacturing capabilities. Fidelity's recent withdrawal of proposed fees on boutique ETF purchases is covered by Reuters, while Fidelity Charitable examines the evolving role of cryptocurrencies in philanthropy. Lastly, The Block reports on the appearance of Fidelity's proposed spot ether ETF on the DTCC, indicating its progress towards launch.",
         "items": [
             {
                 "title": "Investing ideas for the rest of 2024 | Fidelity - Fidelity Investments",
@@ -776,16 +776,6 @@
                 }
             },
             {
-                "title": "Fidelity Investments Review: Pros, Cons, and More - The College Investor",
-                "description": "Fidelity Investments Review: Pros, Cons, and More  The College Investor",
-                "published date": "Thu, 30 May 2024 19:17:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGhlY29sbGVnZWludmVzdG9yLmNvbS8xNzgyOC9maWRlbGl0eS1yZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://thecollegeinvestor.com",
-                    "title": "The College Investor"
-                }
-            },
-            {
                 "title": "Fidelity CD Rates Today: FDIC-Insured, Convenient Investing - Business Insider",
                 "description": "Fidelity CD Rates Today: FDIC-Insured, Convenient Investing  Business Insider",
                 "published date": "Mon, 03 Jun 2024 22:18:00 GMT",
@@ -796,6 +786,16 @@
                 }
             },
             {
+                "title": "Fidelity Investments Review: Pros, Cons, and More - The College Investor",
+                "description": "Fidelity Investments Review: Pros, Cons, and More  The College Investor",
+                "published date": "Thu, 30 May 2024 19:17:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGhlY29sbGVnZWludmVzdG9yLmNvbS8xNzgyOC9maWRlbGl0eS1yZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://thecollegeinvestor.com",
+                    "title": "The College Investor"
+                }
+            },
+            {
                 "title": "Fidelity National Home Warranty Review (2024) | Services and Cost - MarketWatch",
                 "description": "Fidelity National Home Warranty Review (2024) | Services and Cost  MarketWatch",
                 "published date": "Fri, 31 May 2024 07:00:00 GMT",
@@ -803,6 +803,16 @@
                 "publisher": {
                     "href": "https://www.marketwatch.com",
                     "title": "MarketWatch"
+                }
+            },
+            {
+                "title": "An Italian HiFi Manufacturer\u2019s Tour with Fidelity Imports: Closing Thoughts - Twittering Machines",
+                "description": "An Italian HiFi Manufacturer\u2019s Tour with Fidelity Imports: Closing Thoughts  Twittering Machines",
+                "published date": "Wed, 29 May 2024 10:03:06 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdHdpdHRlcmluZ21hY2hpbmVzLmNvbS9hbi1pdGFsaWFuLWhpZmktbWFudWZhY3R1cmVycy10b3VyLXdpdGgtZmlkZWxpdHktaW1wb3J0cy1jbG9zaW5nLXRob3VnaHRzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://twitteringmachines.com",
+                    "title": "Twittering Machines"
                 }
             },
             {
@@ -826,16 +836,6 @@
                 }
             },
             {
-                "title": "An Italian HiFi Manufacturer\u2019s Tour with Fidelity Imports: Closing Thoughts - Twittering Machines",
-                "description": "An Italian HiFi Manufacturer\u2019s Tour with Fidelity Imports: Closing Thoughts  Twittering Machines",
-                "published date": "Wed, 29 May 2024 10:03:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdHdpdHRlcmluZ21hY2hpbmVzLmNvbS9hbi1pdGFsaWFuLWhpZmktbWFudWZhY3R1cmVycy10b3VyLXdpdGgtZmlkZWxpdHktaW1wb3J0cy1jbG9zaW5nLXRob3VnaHRzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://twitteringmachines.com",
-                    "title": "Twittering Machines"
-                }
-            },
-            {
                 "title": "Fidelity\u2019s spot ether ETF appears on DTCC under ticker FETH - The Block",
                 "description": "Fidelity\u2019s spot ether ETF appears on DTCC under ticker FETH  The Block",
                 "published date": "Thu, 30 May 2024 03:56:37 GMT",
@@ -849,7 +849,7 @@
     },
     {
         "name": "Justin Jefferson",
-        "summary": "Justin Jefferson, Minnesota Vikings wide receiver, has secured a groundbreaking contract extension for four years and $140 million. This record-breaking deal exceeds previous pay scales for NFL positions other than quarterback. The extension cements Jefferson's long-term future with the Vikings, a team eager to retain his exceptional skills. The agreement is a testament to Jefferson's exceptional performance and the Vikings' commitment to building a competitive roster.",
+        "summary": "Justin Jefferson has signed a record-breaking four-year, $140 million contract extension with the Minnesota Vikings. The Vikings expressed their excitement at signing Jefferson, calling the deal a reflection of his exceptional talent and their commitment to building a strong team. The contract makes Jefferson one of the highest-paid wide receivers in the NFL, with an annual salary of $35 million. The Vikings believe the extension is a wise investment, given Jefferson's impressive performance and potential for continued success. The media widely praised the contract, recognizing Jefferson's achievements and the Vikings' smart move in securing his long-term presence on the team.",
         "items": [
             {
                 "title": "Justin Jefferson Contract Extension - Vikings.com",
@@ -884,7 +884,7 @@
             {
                 "title": "Justin Jefferson's $35 million yearly Vikings salary is going to break every NFL pay scale but the QB spot - Yahoo Sports",
                 "description": "Justin Jefferson's $35 million yearly Vikings salary is going to break every NFL pay scale but the QB spot  Yahoo Sports",
-                "published date": "Tue, 04 Jun 2024 04:33:10 GMT",
+                "published date": "Tue, 04 Jun 2024 04:33:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vanVzdGluLWplZmZlcnNvbnMtMzUtbWlsbGlvbi15ZWFybHktdmlraW5ncy1zYWxhcnktaXMtZ29pbmctdG8tYnJlYWstZXZlcnktbmZsLXBheS1zY2FsZS1idXQtdGhlLXFiLXNwb3QtMDQyODIzODM4Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://sports.yahoo.com",
@@ -955,7 +955,7 @@
     },
     {
         "name": "Djokovic",
-        "summary": "Novak Djokovic's French Open campaign has been a rollercoaster of events. After a hard-fought five-set victory over Lorenzo Musetti, Djokovic expressed concerns about his status for the next round due to a knee issue. Despite rallying to defeat Francisco Cerundolo in another five-set marathon, Djokovic was forced to withdraw from the quarterfinals with a meniscus tear. The injury also ended Djokovic's title defense, paving the way for Jannik Sinner to become the new top player. Djokovic's decision was made after the French Open's latest finish, which had him questioning his ability to continue. The knee injury has cast a shadow over Djokovic's participation in the upcoming 2024 French Open, leaving fans eagerly awaiting updates on his recovery.",
+        "summary": "Novak Djokovic's French Open journey has been marked by both triumphs and setbacks. He initially showcased resilience by overcoming Lorenzo Musetti and Francisco Cerundolo in five-set matches, despite raising concerns about his fitness after the latter victory. However, his title defense came to an abrupt end when he withdrew from the quarterfinals due to a meniscus tear in his right knee. This withdrawal also meant Djokovic would miss the 2024 French Open. Despite his injury, Djokovic expressed gratitude for the tournament's extended finish, which he believed galvanized him as the world's number one tennis player.",
         "items": [
             {
                 "title": "Novak Djokovic keeps his French Open title defense going by getting past Lorenzo Musetti in 5 sets - The Associated Press",
@@ -965,16 +965,6 @@
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "Novak Djokovic withdraws from French Open quarterfinals due to meniscus tear - NBC Los Angeles",
-                "description": "Novak Djokovic withdraws from French Open quarterfinals due to meniscus tear  NBC Los Angeles",
-                "published date": "Tue, 04 Jun 2024 21:57:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3Mvc3BvcnRzL3Rlbm5pcy9ub3Zhay1kam9rb3ZpYy13aXRoZHJhd3MtZnJvbS1mcmVuY2gtb3Blbi1xdWFydGVyZmluYWxzLzM0MjgyMzkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbclosangeles.com",
-                    "title": "NBC Los Angeles"
                 }
             },
             {
@@ -988,13 +978,23 @@
                 }
             },
             {
-                "title": "Novak Djokovic pulls out of French Open with knee injury - Al Jazeera English",
-                "description": "Novak Djokovic pulls out of French Open with knee injury  Al Jazeera English",
-                "published date": "Tue, 04 Jun 2024 17:34:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi80L25vdmFrLWRqb2tvdmljLXB1bGxzLW91dC1vZi1mcmVuY2gtb3Blbi13aXRoLWtuZWUtaW5qdXJ50gFmaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzLzIwMjQvNi80L25vdmFrLWRqb2tvdmljLXB1bGxzLW91dC1vZi1mcmVuY2gtb3Blbi13aXRoLWtuZWUtaW5qdXJ5?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "2024 French Open: Novak Djokovic withdraws due to knee injury - CBS Sports",
+                "description": "2024 French Open: Novak Djokovic withdraws due to knee injury  CBS Sports",
+                "published date": "Tue, 04 Jun 2024 15:39:37 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vdGVubmlzL25ld3MvMjAyNC1mcmVuY2gtb3Blbi1ub3Zhay1kam9rb3ZpYy13aXRoZHJhd3MtZHVlLXRvLWtuZWUtaW5qdXJ5L9IBZ2h0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vdGVubmlzL25ld3MvMjAyNC1mcmVuY2gtb3Blbi1ub3Zhay1kam9rb3ZpYy13aXRoZHJhd3MtZHVlLXRvLWtuZWUtaW5qdXJ5L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "Novak Djokovic withdraws from French Open quarterfinals due to meniscus tear - NBC Los Angeles",
+                "description": "Novak Djokovic withdraws from French Open quarterfinals due to meniscus tear  NBC Los Angeles",
+                "published date": "Tue, 04 Jun 2024 22:05:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3Mvc3BvcnRzL3Rlbm5pcy9ub3Zhay1kam9rb3ZpYy13aXRoZHJhd3MtZnJvbS1mcmVuY2gtb3Blbi1xdWFydGVyZmluYWxzLzM0MjgyMzkv0gF3aHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9zcG9ydHMvdGVubmlzL25vdmFrLWRqb2tvdmljLXdpdGhkcmF3cy1mcm9tLWZyZW5jaC1vcGVuLXF1YXJ0ZXJmaW5hbHMvMzQyODIzOS8_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbclosangeles.com",
+                    "title": "NBC Los Angeles"
                 }
             },
             {
@@ -1008,13 +1008,33 @@
                 }
             },
             {
-                "title": "World No. 1 Novak Djokovic Withdraws From French Open Making Jannik Sinner The New Top Player - Forbes",
-                "description": "World No. 1 Novak Djokovic Withdraws From French Open Making Jannik Sinner The New Top Player  Forbes",
-                "published date": "Tue, 04 Jun 2024 14:58:59 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FkYW16YWdvcmlhLzIwMjQvMDYvMDQvd29ybGQtbm8tMS1ub3Zhay1kam9rb3ZpYy13aXRoZHJhd3MtZnJvbS1mcmVuY2gtb3Blbi1qYW5uaWstc2lubmVyLWJlY29tZXMtbmV3LW5vLTEv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Novak Djokovic pulls out of French Open with knee injury - Al Jazeera English",
+                "description": "Novak Djokovic pulls out of French Open with knee injury  Al Jazeera English",
+                "published date": "Tue, 04 Jun 2024 17:34:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi80L25vdmFrLWRqb2tvdmljLXB1bGxzLW91dC1vZi1mcmVuY2gtb3Blbi13aXRoLWtuZWUtaW5qdXJ50gFmaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzLzIwMjQvNi80L25vdmFrLWRqb2tvdmljLXB1bGxzLW91dC1vZi1mcmVuY2gtb3Blbi13aXRoLWtuZWUtaW5qdXJ5?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "Novak Djokovic Tears Right Medial Meniscus, Withdraws From French Open - Forbes",
+                "description": "Novak Djokovic Tears Right Medial Meniscus, Withdraws From French Open  Forbes",
+                "published date": "Wed, 05 Jun 2024 04:39:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJ1Y2VsZWUvMjAyNC8wNi8wNS9ub3Zhay1kam9rb3ZpYy10ZWFycy1yaWdodC1tZWRpYWwtbWVuaXNjdXMtd2l0aGRyYXdzLWZyb20tZnJlbmNoLW9wZW4v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.forbes.com",
                     "title": "Forbes"
+                }
+            },
+            {
+                "title": "Djokovic pulls out of French Open with knee injury - Reuters",
+                "description": "Djokovic pulls out of French Open with knee injury  Reuters",
+                "published date": "Tue, 04 Jun 2024 17:02:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy90ZW5uaXMvZGpva292aWMtcHVsbHMtb3V0LWZyZW5jaC1vcGVuLXdpdGgta25lZS1pbmp1cnktMjAyNC0wNi0wNC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.reuters.com",
+                    "title": "Reuters"
                 }
             },
             {
@@ -1028,49 +1048,29 @@
                 }
             },
             {
-                "title": "2024 French Open: Novak Djokovic withdraws due to knee injury - CBS Sports",
-                "description": "2024 French Open: Novak Djokovic withdraws due to knee injury  CBS Sports",
-                "published date": "Tue, 04 Jun 2024 15:39:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vdGVubmlzL25ld3MvMjAyNC1mcmVuY2gtb3Blbi1ub3Zhay1kam9rb3ZpYy13aXRoZHJhd3MtZHVlLXRvLWtuZWUtaW5qdXJ5L9IBZ2h0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vdGVubmlzL25ld3MvMjAyNC1mcmVuY2gtb3Blbi1ub3Zhay1kam9rb3ZpYy13aXRoZHJhd3MtZHVlLXRvLWtuZWUtaW5qdXJ5L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "Novak Djokovic wins in 5 sets at French Open, unsure of knee - ESPN",
-                "description": "Novak Djokovic wins in 5 sets at French Open, unsure of knee  ESPN",
-                "published date": "Mon, 03 Jun 2024 19:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmVzcG4uY29tL3Rlbm5pcy9zdG9yeS9fL2lkLzQwMjcwODE0L25vdmFrLWRqb2tvdmljLXdpbnMtcmVjb3JkLTM3MHRoLWdyYW5kLXNsYW0tbWF0Y2gtZnJlbmNoLW9wZW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Novak Djokovic rallies for latest win in French Open history - ESPN",
+                "description": "Novak Djokovic rallies for latest win in French Open history  ESPN",
+                "published date": "Sat, 01 Jun 2024 21:03:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL3Rlbm5pcy9zdG9yeS9fL2lkLzQwMjU3NzgzL25vdmFrLWRqb2tvdmljLXJhbGxpZXMtbGF0ZXN0LXdpbi1mcmVuY2gtb3Blbi1oaXN0b3J50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.espn.com",
                     "title": "ESPN"
-                }
-            },
-            {
-                "title": "Djokovic pulls out of French Open with knee injury - Reuters",
-                "description": "Djokovic pulls out of French Open with knee injury  Reuters",
-                "published date": "Tue, 04 Jun 2024 17:02:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy90ZW5uaXMvZGpva292aWMtcHVsbHMtb3V0LWZyZW5jaC1vcGVuLXdpdGgta25lZS1pbmp1cnktMjAyNC0wNi0wNC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters"
                 }
             }
         ]
     },
     {
         "name": "Venom: The Last Dance",
-        "summary": "The latest trailer for \"Venom: The Last Dance\" has sparked a frenzy of speculation, teasing an epic conclusion to the trilogy. The trailer hints at a potential connection to \"Spider-Man: No Way Home,\" while leaving fans to question whether the long-awaited crossover between the two iconic characters will finally occur. Tom Hardy reprises his role as Eddie Brock, the enigmatic host of the Venom symbiote, as he faces off against a formidable foe in Carnage. The trailer showcases brain-eating action, comedic moments, and Hardy's remarkable performance as he continues to embody the duality of both the human and alien within.",
+        "summary": "The latest trailer for \"Venom: The Last Dance\" promises an explosive conclusion to Tom Hardy's trilogy as the anti-heroic alien symbiote wreaks havoc. This thrilling trailer features all the signature action, symbiote mischief, and mayhem that fans have come to expect from the franchise. Speculation abounds that the trailer hints at potential connections to the Marvel Cinematic Universe, particularly referencing events in \"Spider-Man: No Way Home.\" The official trailer release has sparked online discussions, with fans speculating about the fate of the character and the implications for future crossovers.",
         "items": [
             {
-                "title": "Venom: The Last Dance Gets Official Trailer - IGN",
-                "description": "Venom: The Last Dance Gets Official Trailer  IGN",
-                "published date": "Mon, 03 Jun 2024 14:40:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvdmVub20tdGhlLWxhc3QtZGFuY2UtZ2V0cy1vZmZpY2lhbC10cmFpbGVy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "'Venom: The Last Dance' gets 1st trailer full of alien symbiote mischief and mayhem (video) - Space.com",
+                "description": "'Venom: The Last Dance' gets 1st trailer full of alien symbiote mischief and mayhem (video)  Space.com",
+                "published date": "Tue, 04 Jun 2024 19:00:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnNwYWNlLmNvbS92ZW5vbS10aGUtbGFzdC1kYW5jZS10cmFpbGVy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.ign.com",
-                    "title": "IGN"
+                    "href": "https://www.space.com",
+                    "title": "Space.com"
                 }
             },
             {
@@ -1084,6 +1084,16 @@
                 }
             },
             {
+                "title": "Venom: The Last Dance Gets Official Trailer - IGN",
+                "description": "Venom: The Last Dance Gets Official Trailer  IGN",
+                "published date": "Mon, 03 Jun 2024 14:40:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvdmVub20tdGhlLWxhc3QtZGFuY2UtZ2V0cy1vZmZpY2lhbC10cmFpbGVy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.ign.com",
+                    "title": "IGN"
+                }
+            },
+            {
                 "title": "\u2018Venom: The Last Dance\u2019 Trailer: Tom Hardy Ends Trilogy With More Brain-Eating Symbiote Action - Variety",
                 "description": "\u2018Venom: The Last Dance\u2019 Trailer: Tom Hardy Ends Trilogy With More Brain-Eating Symbiote Action  Variety",
                 "published date": "Mon, 03 Jun 2024 13:13:00 GMT",
@@ -1094,16 +1104,6 @@
                 }
             },
             {
-                "title": "Did the 'Venom: The Last Dance' Trailer Just Kill All Hope of a Spider-Man Crossover? - GQ",
-                "description": "Did the 'Venom: The Last Dance' Trailer Just Kill All Hope of a Spider-Man Crossover?  GQ",
-                "published date": "Mon, 03 Jun 2024 21:12:25 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmdxLmNvbS9zdG9yeS92ZW5vbS10aGUtbGFzdC1kYW5jZS10cmFpbGVyLXRvbS1oYXJkeS1tY3UtY3Jvc3NvdmVyLXRvbS1ob2xsYW5kLXNwaWRlci1tYW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.gq.com",
-                    "title": "GQ"
-                }
-            },
-            {
                 "title": "Tom Hardy + Venom Return in 'Venom 3: The Last Dance' Full Trailer - First Showing",
                 "description": "Tom Hardy + Venom Return in 'Venom 3: The Last Dance' Full Trailer  First Showing",
                 "published date": "Mon, 03 Jun 2024 13:25:11 GMT",
@@ -1111,6 +1111,16 @@
                 "publisher": {
                     "href": "https://www.firstshowing.net",
                     "title": "First Showing"
+                }
+            },
+            {
+                "title": "Did the 'Venom: The Last Dance' Trailer Just Kill All Hope of a Spider-Man Crossover? - GQ",
+                "description": "Did the 'Venom: The Last Dance' Trailer Just Kill All Hope of a Spider-Man Crossover?  GQ",
+                "published date": "Mon, 03 Jun 2024 21:12:25 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmdxLmNvbS9zdG9yeS92ZW5vbS10aGUtbGFzdC1kYW5jZS10cmFpbGVyLXRvbS1oYXJkeS1tY3UtY3Jvc3NvdmVyLXRvbS1ob2xsYW5kLXNwaWRlci1tYW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.gq.com",
+                    "title": "GQ"
                 }
             },
             {
@@ -1144,30 +1154,20 @@
                 }
             },
             {
-                "title": "Venom: The Last Dance trailer teases an epic end to a wacky trilogy - Polygon",
-                "description": "Venom: The Last Dance trailer teases an epic end to a wacky trilogy  Polygon",
-                "published date": "Mon, 03 Jun 2024 13:39:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTcwMzczL3Zlbm9tLTMtdHJhaWxlci1sYXN0LWRhbmNl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Venom 3: The Last Dance Trailer - A Symbiote War With Venom's Species Against Unhinged Tom Hardy & A ... - Screen Rant",
+                "description": "Venom 3: The Last Dance Trailer - A Symbiote War With Venom's Species Against Unhinged Tom Hardy & A ...  Screen Rant",
+                "published date": "Mon, 03 Jun 2024 13:02:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc2NyZWVucmFudC5jb20vdmVub20tdGhlLWxhc3QtZGFuY2UtZmlyc3QtdHJhaWxlci1yZXZlYWxlZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.polygon.com",
-                    "title": "Polygon"
-                }
-            },
-            {
-                "title": "Tom Hardy Returns as Venom in 'Venom: The Last Dance' Trailer - PEOPLE",
-                "description": "Tom Hardy Returns as Venom in 'Venom: The Last Dance' Trailer  PEOPLE",
-                "published date": "Mon, 03 Jun 2024 14:06:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vcGVvcGxlLmNvbS92ZW5vbS10aGUtbGFzdC1kYW5jZS10cmFpbGVyLXRvbS1oYXJkeS04NjA4NTk20gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://people.com",
-                    "title": "PEOPLE"
+                    "href": "https://screenrant.com",
+                    "title": "Screen Rant"
                 }
             }
         ]
     },
     {
         "name": "Simone Biles",
-        "summary": "Simone Biles has cemented her legacy in gymnastics, winning an unprecedented ninth national all-around title at the U.S. Gymnastics Championships. Her victory marks the extension of her record-setting career and solidifies her dominance in the sport. Biles led throughout the competition, posting impressive scores in each event. After Day 1, she held a significant lead, showcasing her exceptional skills and consistency. Her dominance continued into the final day, where she claimed all five gold medals, including the coveted all-around title. This triumph is a testament to Biles' unwavering dedication, determination, and remarkable talent. As she prepares for the upcoming Paris 2024 Olympic Games, her latest victory underscores her status as a formidable force in the world of gymnastics.",
+        "summary": "Simone Biles has once again proven her dominance in the sport of gymnastics, extending her record by winning her ninth all-around national title at the U.S. Championships. With this victory, Biles has solidified her position as the most decorated American gymnast in history. The championships served as a key event in the lead-up to the 2024 Paris Olympics, and Biles' commanding performance has set her as a frontrunner for a potential Olympic victory.",
         "items": [
             {
                 "title": "Simone Biles dominates as she wins her record-extending 9th all-around national title - CNN",
@@ -1220,16 +1220,6 @@
                 }
             },
             {
-                "title": "Simone Biles claims record-extending ninth title at U.S. Gymnastics Championships as Paris 2024 nears - Olympics",
-                "description": "Simone Biles claims record-extending ninth title at U.S. Gymnastics Championships as Paris 2024 nears  Olympics",
-                "published date": "Mon, 03 Jun 2024 00:56:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vb2x5bXBpY3MuY29tL2VuL25ld3Mvc2ltb25lLWJpbGVzLXJlY29yZC1zZXR0aW5nLW5pbnRoLXRpdGxlLXVzLWFydGlzdGljLWd5bW5hc3RpY3MtY2hhbXBpb25zaGlwc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://olympics.com",
-                    "title": "Olympics"
-                }
-            },
-            {
                 "title": "Biles sweeps all to extend historical run; Senior Women's National Team announced at Xfinity U.S. Championships ... - usagym.org",
                 "description": "Biles sweeps all to extend historical run; Senior Women's National Team announced at Xfinity U.S. Championships ...  usagym.org",
                 "published date": "Mon, 03 Jun 2024 03:14:08 GMT",
@@ -1237,6 +1227,16 @@
                 "publisher": {
                     "href": "https://usagym.org",
                     "title": "usagym.org"
+                }
+            },
+            {
+                "title": "Simone Biles claims record-extending ninth title at U.S. Gymnastics Championships as Paris 2024 nears - Olympics",
+                "description": "Simone Biles claims record-extending ninth title at U.S. Gymnastics Championships as Paris 2024 nears  Olympics",
+                "published date": "Mon, 03 Jun 2024 00:56:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vb2x5bXBpY3MuY29tL2VuL25ld3Mvc2ltb25lLWJpbGVzLXJlY29yZC1zZXR0aW5nLW5pbnRoLXRpdGxlLXVzLWFydGlzdGljLWd5bW5hc3RpY3MtY2hhbXBpb25zaGlwc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://olympics.com",
+                    "title": "Olympics"
                 }
             },
             {
@@ -1273,7 +1273,7 @@
     },
     {
         "name": "Dow Jones",
-        "summary": "The stock market has experienced significant volatility in recent days, with the Dow Jones Industrial Average (DJIA) falling by over 1,000 points in the last three days. This sharp decline has been attributed to a combination of factors, including the resolution of an issue affecting market data for S&P and Dow Jones indexes, a widening gap between the Dow Jones and S&P 500, a plunge in Salesforce shares, and concerns over a potential slowdown in the U.S. economy as indicated by recent weak jobs data. The stock market's performance has also been impacted by declining oil prices and bond yields.",
+        "summary": "The stock market experienced significant declines over the past several days. The Dow Jones Industrial Average (DJIA) witnessed a drop of 1,000 points in the span of three days. S&P Global (S&P) reported an issue with its market data for the S&P and Dow Jones indices, which has since been resolved. The DJIA underperformed the S&P 500 index significantly, marking the largest gap between the two in a year. Stocks closed lower, with the DJIA losing over 300 points as Salesforce shares plummeted 20%. On June 3, 2024, the Nasdaq Composite Index rose while oil and Treasury yields fell. The Dow Jones Industrial Average (DJIA) dropped 411 points as UnitedHealth Group's stock value declined. Other market news for the same day included a DJIA decline, and significant movements in the stocks of GameStop, AMC, Nvidia, DJT, and Paramount. On May 30, 2024, the Dow Jones Industrial Average (DJIA) shed 330 points, and Salesforce's stock performance contributed to the decline. Furthermore, Dow Jones futures experienced a decline as Salesforce's stock plunged following a broader market slide. On May 29, 2024, the Dow Jones Industrial Average (DJIA) lost 400 points amidst rising Treasury yields and gains in Marathon Oil shares.",
         "items": [
             {
                 "title": "Why the Dow fell 1,000 points in the last three days - CNN",
@@ -1356,10 +1356,10 @@
                 }
             },
             {
-                "title": "Stock Market Today: Dow Jones Slides Ahead Of Jobs Data; GME Stock Dives After 21% Surge - Investor's Business Daily",
-                "description": "Stock Market Today: Dow Jones Slides Ahead Of Jobs Data; GME Stock Dives After 21% Surge  Investor's Business Daily",
-                "published date": "Tue, 04 Jun 2024 14:05:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtc3A1MDAtbmFzZGFxLWdhbWVzdG9wLXN0b2NrLWdtZS0zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Dow Jones Futures Fall As Salesforce Plunges After Stock Market Slides Despite Nvidia - Investor's Business Daily",
+                "description": "Dow Jones Futures Fall As Salesforce Plunges After Stock Market Slides Despite Nvidia  Investor's Business Daily",
+                "published date": "Thu, 30 May 2024 12:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtZnV0dXJlcy1zbGlkZXMtbnZpZGlhLXN0b2NrLXNhbGVzZm9yY2UtcGx1bmdlcy1sYXRlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.investors.com",
                     "title": "Investor's Business Daily"
@@ -1379,18 +1379,8 @@
     },
     {
         "name": "Epic",
-        "summary": "Multiple news articles report on developments related to Epic-affiliated entities. Epic Games, known for its popular video game Fortnite, has been recognized as one of TIME magazine's 100 Most Influential Companies for 2024. In the gaming arena, Epic Games is offering a free PC game as part of its MEGA Sale. Meanwhile, management of properties in Minot and Bismarck, previously handled by EPIC, will now be taken over by other companies. In West Fargo, three Epic Companies buildings are undergoing a management transition. Epic Residents in Bismarck are awaiting updates amidst rumors of potential sales. Oklahoma City Public Schools hosted a midday graduation for EPIC charter school students. Universal Orlando is preparing to open an Epic Universe preview center, allowing visitors a glimpse into the upcoming theme park expansion before its official launch.",
+        "summary": "Epic Games has been recognized as one of the most influential companies in 2024 by TIME. The company is also offering the third free PC game in its MEGA Sale. Meanwhile, rumors of sales for Epic Residents properties are lingering. Three Epic Companies buildings in downtown West Fargo are now under new management. In the entertainment industry, a preview center is set to open in June for Universal Orlando's upcoming theme park, Epic Universe. A research study has highlighted the underestimated potential for flooding in California in the future. Lastly, a film review describes an apocalyptic epic with a slow start but a powerful ending.",
         "items": [
-            {
-                "title": "Reports: companies taking over management of Minot, Bismarck properties from EPIC - KFYR",
-                "description": "Reports: companies taking over management of Minot, Bismarck properties from EPIC  KFYR",
-                "published date": "Wed, 29 May 2024 01:45:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmtmeXJ0di5jb20vMjAyNC8wNS8yOS9yZXBvcnRzLWNvbXBhbmllcy10YWtpbmctb3Zlci1tYW5hZ2VtZW50LW1pbm90LWJpc21hcmNrLXByb3BlcnRpZXMtZXBpYy_SAXlodHRwczovL3d3dy5rZnlydHYuY29tLzIwMjQvMDUvMjkvcmVwb3J0cy1jb21wYW5pZXMtdGFraW5nLW92ZXItbWFuYWdlbWVudC1taW5vdC1iaXNtYXJjay1wcm9wZXJ0aWVzLWVwaWMvP291dHB1dFR5cGU9YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.kfyrtv.com",
-                    "title": "KFYR"
-                }
-            },
             {
                 "title": "Epic Games: 2024 TIME100 Most Influential Companies - TIME",
                 "description": "Epic Games: 2024 TIME100 Most Influential Companies  TIME",
@@ -1419,16 +1409,6 @@
                 "publisher": {
                     "href": "https://www.valleynewslive.com",
                     "title": "KVLY"
-                }
-            },
-            {
-                "title": "OKC EPIC charter school Midday graduation 2024-see the photos - Oklahoman.com",
-                "description": "OKC EPIC charter school Midday graduation 2024-see the photos  Oklahoman.com",
-                "published date": "Sat, 01 Jun 2024 23:50:56 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5va2xhaG9tYW4uY29tL3BpY3R1cmUtZ2FsbGVyeS9uZXdzLzIwMjQvMDYvMDEvb2tjLWVwaWMtY2hhcnRlci1zY2hvb2wtbWlkZGF5LWdyYWR1YXRpb24tMjAyNC1zZWUtdGhlLXBob3Rvcy83Mzk0MjU0MzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.oklahoman.com",
-                    "title": "Oklahoman.com"
                 }
             },
             {
@@ -1480,13 +1460,43 @@
                     "href": "https://www.orlandosentinel.com",
                     "title": "Orlando Sentinel"
                 }
+            },
+            {
+                "title": "California has underestimated the epic potential of future flooding, research shows - Los Angeles Times",
+                "description": "California has underestimated the epic potential of future flooding, research shows  Los Angeles Times",
+                "published date": "Sun, 02 Jun 2024 13:35:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjQtMDYtMDIvc3R1ZHktc3VnZ2VzdHMtZXBpYy1wb3RlbnRpYWwtZm9yLWNhbGlmb3JuaWEtZmxvb2RpbmfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.latimes.com",
+                    "title": "Los Angeles Times"
+                }
+            },
+            {
+                "title": "Apocalyptic epic starts slow, finishes strong - Keizertimes",
+                "description": "Apocalyptic epic starts slow, finishes strong  Keizertimes",
+                "published date": "Thu, 30 May 2024 17:49:34 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmtlaXplcnRpbWVzLmNvbS8yMDI0LzA1LzMwL2Fwb2NhbHlwdGljLWVwaWMtc3RhcnRzLXNsb3ctZmluaXNoZXMtc3Ryb25nL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.keizertimes.com",
+                    "title": "Keizertimes"
+                }
             }
         ]
     },
     {
         "name": "Larry Allen cause of death",
-        "summary": "Larry Allen, the legendary Dallas Cowboys Hall of Famer and Pro Football Hall of Famer, has passed away suddenly at the age of 52 while on vacation in Mexico with his family. The news has shocked the sports world and devastated his loved ones, with his daughter expressing her immense grief and uncertainty about the future. The 11-time Pro Bowler and six-time All-Pro selection had a remarkable career, known for his dominant presence as an offensive lineman. Tributes have been pouring in from the football community and beyond, honoring Allen's legacy as a Hall of Famer and an inspiration to many. The exact cause of death remains unknown at this time.",
+        "summary": "",
         "items": [
+            {
+                "title": "Cowboys legend Larry Allen passes away at 52 - DallasCowboys.com",
+                "description": "Cowboys legend Larry Allen passes away at 52  DallasCowboys.com",
+                "published date": "Mon, 03 Jun 2024 15:53:46 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmRhbGxhc2Nvd2JveXMuY29tL25ld3MvY293Ym95cy1sZWdlbmQtbGFycnktYWxsZW4tcGFzc2VzLWF3YXktYXQtNTLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.dallascowboys.com",
+                    "title": "DallasCowboys.com"
+                }
+            },
             {
                 "title": "SSU mourns alum Larry Allen, NFL Hall of Famer - Sonoma State University NewsCenter",
                 "description": "SSU mourns alum Larry Allen, NFL Hall of Famer  Sonoma State University NewsCenter",
@@ -1505,16 +1515,6 @@
                 "publisher": {
                     "href": "https://www.statesman.com",
                     "title": "Austin American-Statesman"
-                }
-            },
-            {
-                "title": "Larry Allen, Hall of Fame offensive lineman for the Dallas Cowboys, dies suddenly at 52 - Roanoke Times",
-                "description": "Larry Allen, Hall of Fame offensive lineman for the Dallas Cowboys, dies suddenly at 52  Roanoke Times",
-                "published date": "Mon, 03 Jun 2024 19:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3JvYW5va2UuY29tL3Nwb3J0cy9wcm9mZXNzaW9uYWwvbmZsL2xhcnJ5LWFsbGVuLWhhbGwtb2YtZmFtZS1vZmZlbnNpdmUtbGluZW1hbi1mb3ItdGhlLWRhbGxhcy1jb3dib3lzLWRpZXMtc3VkZGVubHktYXQtNTIvYXJ0aWNsZV9kZmUzNDQ2ZS0wODUyLTUzMzctOWZkNS0yMmNhZjVhNDk0ODAuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://roanoke.com",
-                    "title": "Roanoke Times"
                 }
             },
             {
@@ -1538,16 +1538,6 @@
                 }
             },
             {
-                "title": "Dallas Cowboys legend Larry Allen dies while vacationing in Mexico - FOX 4 News Dallas-Fort Worth",
-                "description": "Dallas Cowboys legend Larry Allen dies while vacationing in Mexico  FOX 4 News Dallas-Fort Worth",
-                "published date": "Mon, 03 Jun 2024 16:12:20 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmZveDRuZXdzLmNvbS9uZXdzL2xhcnJ5LWFsbGVuLWRlYXRoLW1leGljb9IBOmh0dHBzOi8vd3d3LmZveDRuZXdzLmNvbS9uZXdzL2xhcnJ5LWFsbGVuLWRlYXRoLW1leGljby5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.fox4news.com",
-                    "title": "FOX 4 News Dallas-Fort Worth"
-                }
-            },
-            {
                 "title": "Larry Allen, Cowboys Hall of Famer, dies suddenly at 52 while on family vacation in Mexico - New York Post",
                 "description": "Larry Allen, Cowboys Hall of Famer, dies suddenly at 52 while on family vacation in Mexico  New York Post ",
                 "published date": "Mon, 03 Jun 2024 16:37:26 GMT",
@@ -1558,13 +1548,13 @@
                 }
             },
             {
-                "title": "Pro Football Hall of Famer Larry Allen dies at age 52 - Niners Wire",
-                "description": "Pro Football Hall of Famer Larry Allen dies at age 52  Niners Wire",
-                "published date": "Mon, 03 Jun 2024 16:04:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbmluZXJzd2lyZS51c2F0b2RheS5jb20vMjAyNC8wNi8wMy9jb3dib3lzLTQ5ZXJzLW9sLWxhcnJ5LWFsbGVuLWRpZXMtYWdlLTUyLWhhbGwtb2YtZmFtZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Dallas Cowboys legend Larry Allen dies while vacationing in Mexico - FOX 4 News Dallas-Fort Worth",
+                "description": "Dallas Cowboys legend Larry Allen dies while vacationing in Mexico  FOX 4 News Dallas-Fort Worth",
+                "published date": "Mon, 03 Jun 2024 16:12:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmZveDRuZXdzLmNvbS9uZXdzL2xhcnJ5LWFsbGVuLWRlYXRoLW1leGljb9IBOmh0dHBzOi8vd3d3LmZveDRuZXdzLmNvbS9uZXdzL2xhcnJ5LWFsbGVuLWRlYXRoLW1leGljby5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://ninerswire.usatoday.com",
-                    "title": "Niners Wire"
+                    "href": "https://www.fox4news.com",
+                    "title": "FOX 4 News Dallas-Fort Worth"
                 }
             },
             {
@@ -1575,6 +1565,16 @@
                 "publisher": {
                     "href": "https://www.wjbf.com",
                     "title": "WJBF-TV"
+                }
+            },
+            {
+                "title": "Pro Football Hall of Famer Larry Allen dies at age 52 - Niners Wire",
+                "description": "Pro Football Hall of Famer Larry Allen dies at age 52  Niners Wire",
+                "published date": "Mon, 03 Jun 2024 16:04:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbmluZXJzd2lyZS51c2F0b2RheS5jb20vMjAyNC8wNi8wMy9jb3dib3lzLTQ5ZXJzLW9sLWxhcnJ5LWFsbGVuLWRpZXMtYWdlLTUyLWhhbGwtb2YtZmFtZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://ninerswire.usatoday.com",
+                    "title": "Niners Wire"
                 }
             },
             {
@@ -1591,18 +1591,8 @@
     },
     {
         "name": "United Airlines passengers sick",
-        "summary": "A United Airlines flight from Vancouver to Houston experienced an incident where dozens of passengers fell ill with flu-like symptoms. The passengers had recently disembarked from a cruise ship. Officials suspect the cause may be related to the cruise environment. The affected plane will undergo a deep cleaning procedure. The situation has caused some panic among the passengers and raised concerns about health and safety during travel.",
+        "summary": "Several passengers on a United Airlines flight from Vancouver to Houston experienced unexplained illnesses during the flight. The passengers had disembarked from a cruise ship prior to boarding the plane. Medical officials suspect norovirus, a highly contagious gastrointestinal illness, may be the cause of the illnesses. The affected passengers were treated upon arrival in Houston and the plane underwent deep cleaning. The total number of passengers who fell ill varied in the news reports, ranging from two dozen to over 30.",
         "items": [
-            {
-                "title": "Panic as 30 cruise ship passengers fall ill with flu-like symptoms on Boeing 737 Max while returning home to T - Daily Mail",
-                "description": "Panic as 30 cruise ship passengers fall ill with flu-like symptoms on Boeing 737 Max while returning home to T  Daily Mail",
-                "published date": "Sat, 01 Jun 2024 05:57:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM0ODMwOTEvQm9laW5nLUNydWlzZS1QbGFuZS1GbGlnaHQtRmx1LVNpY2stVW5pdGVkLUFpcmxpbmVzLUNhbmFkYS1UZXhhcy5odG1s0gF7aHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzQ4MzA5MS9hbXAvQm9laW5nLUNydWlzZS1QbGFuZS1GbGlnaHQtRmx1LVNpY2stVW5pdGVkLUFpcmxpbmVzLUNhbmFkYS1UZXhhcy5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.dailymail.co.uk",
-                    "title": "Daily Mail"
-                }
-            },
             {
                 "title": "United Airlines passengers fell ill during flight after a cruise - USA TODAY",
                 "description": "United Airlines passengers fell ill during flight after a cruise  USA TODAY",
@@ -1634,6 +1624,16 @@
                 }
             },
             {
+                "title": "Panic as 30 cruise ship passengers fall ill with flu-like symptoms on Boeing 737 Max while returning home to T - Daily Mail",
+                "description": "Panic as 30 cruise ship passengers fall ill with flu-like symptoms on Boeing 737 Max while returning home to T  Daily Mail",
+                "published date": "Sat, 01 Jun 2024 05:57:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM0ODMwOTEvQm9laW5nLUNydWlzZS1QbGFuZS1GbGlnaHQtRmx1LVNpY2stVW5pdGVkLUFpcmxpbmVzLUNhbmFkYS1UZXhhcy5odG1s0gF7aHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzQ4MzA5MS9hbXAvQm9laW5nLUNydWlzZS1QbGFuZS1GbGlnaHQtRmx1LVNpY2stVW5pdGVkLUFpcmxpbmVzLUNhbmFkYS1UZXhhcy5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.dailymail.co.uk",
+                    "title": "Daily Mail"
+                }
+            },
+            {
                 "title": "Dozens of United Airlines passengers mysteriously fall ill on flight to Texas after disembarking cruise ship - New York Post",
                 "description": "Dozens of United Airlines passengers mysteriously fall ill on flight to Texas after disembarking cruise ship  New York Post ",
                 "published date": "Tue, 04 Jun 2024 14:10:00 GMT",
@@ -1641,6 +1641,16 @@
                 "publisher": {
                     "href": "https://nypost.com",
                     "title": "New York Post"
+                }
+            },
+            {
+                "title": "United Airlines passengers landing in Houston report feeling sick after cruise - FOX 26 Houston",
+                "description": "United Airlines passengers landing in Houston report feeling sick after cruise  FOX 26 Houston",
+                "published date": "Sat, 01 Jun 2024 04:11:34 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveDI2aG91c3Rvbi5jb20vbmV3cy91bml0ZWQtYWlybGluZXMtcGFzc2VuZ2Vycy1sYW5kaW5nLWhvdXN0b24tcmVwb3J0LWZlZWxpbmctc2ljay1hZnRlci1jcnVpc2XSAXFodHRwczovL3d3dy5mb3gyNmhvdXN0b24uY29tL25ld3MvdW5pdGVkLWFpcmxpbmVzLXBhc3NlbmdlcnMtbGFuZGluZy1ob3VzdG9uLXJlcG9ydC1mZWVsaW5nLXNpY2stYWZ0ZXItY3J1aXNlLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fox26houston.com",
+                    "title": "FOX 26 Houston"
                 }
             },
             {
@@ -1664,26 +1674,6 @@
                 }
             },
             {
-                "title": "United Airlines passengers landing in Houston report feeling sick after cruise - FOX 26 Houston",
-                "description": "United Airlines passengers landing in Houston report feeling sick after cruise  FOX 26 Houston",
-                "published date": "Sat, 01 Jun 2024 04:11:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZveDI2aG91c3Rvbi5jb20vbmV3cy91bml0ZWQtYWlybGluZXMtcGFzc2VuZ2Vycy1sYW5kaW5nLWhvdXN0b24tcmVwb3J0LWZlZWxpbmctc2ljay1hZnRlci1jcnVpc2XSAXFodHRwczovL3d3dy5mb3gyNmhvdXN0b24uY29tL25ld3MvdW5pdGVkLWFpcmxpbmVzLXBhc3NlbmdlcnMtbGFuZGluZy1ob3VzdG9uLXJlcG9ydC1mZWVsaW5nLXNpY2stYWZ0ZXItY3J1aXNlLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.fox26houston.com",
-                    "title": "FOX 26 Houston"
-                }
-            },
-            {
-                "title": "Vomiting cruise ship passengers take United Airlines plane out of service - Quartz",
-                "description": "Vomiting cruise ship passengers take United Airlines plane out of service  Quartz",
-                "published date": "Mon, 03 Jun 2024 16:25:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vcXouY29tL2NydWlzZS1zaGlwLXBhc3NlbmdlcnMtdm9taXRpbmctdW5pdGVkLWFpcmxpbmVzLXBsYW5lLTE4NTE1MTYxNTPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://qz.com",
-                    "title": "Quartz"
-                }
-            },
-            {
                 "title": "United Airlines plane to undergo deep cleaning after several passengers report feeling sick on Vancouver-to-Houston flight - CNN",
                 "description": "United Airlines plane to undergo deep cleaning after several passengers report feeling sick on Vancouver-to-Houston flight  CNN",
                 "published date": "Sat, 01 Jun 2024 19:28:00 GMT",
@@ -1692,12 +1682,22 @@
                     "href": "https://www.cnn.com",
                     "title": "CNN"
                 }
+            },
+            {
+                "title": "United Airlines passengers sick on arrival in Houston - KHOU.com",
+                "description": "United Airlines passengers sick on arrival in Houston  KHOU.com",
+                "published date": "Sun, 02 Jun 2024 12:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5raG91LmNvbS9hcnRpY2xlL3RyYXZlbC91bml0ZWQtYWlybGluZXMtaG91c3Rvbi1qZXQtcGFzc2VuZ2Vycy1zaWNrLWNydWlzZS1zaGlwLzI4NS03OGZkZGUwYi05M2ExLTRjOGYtYWE5Ni1kNDdiMmViMDM1YWLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.khou.com",
+                    "title": "KHOU.com"
+                }
             }
         ]
     },
     {
         "name": "Tucupita Marcano",
-        "summary": "Major League Baseball has banned Tucupita Marcano for life after an investigation revealed that he bet on baseball games. The lifetime ban is the most severe punishment that MLB can impose and it effectively ends Marcano's career. The investigation also uncovered evidence that four other players gambled on baseball games and they have been suspended for one year. This scandal has shaken the baseball world and raised questions about the integrity of the game.",
+        "summary": "",
         "items": [
             {
                 "title": "MLB hits Tucupita Marcano with lifetime ban for betting on baseball games - NBC News",
@@ -1710,13 +1710,13 @@
                 }
             },
             {
-                "title": "MLB shortstop Tucupita Marcano permanently banned for betting on baseball - ABC News",
-                "description": "MLB shortstop Tucupita Marcano permanently banned for betting on baseball  ABC News",
-                "published date": "Wed, 05 Jun 2024 00:21:35 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYWJjbmV3cy5nby5jb20vU3BvcnRzL21sYi1zaG9ydHN0b3AtdHVjdXBpdGEtbWFyY2Fuby1wZXJtYW5lbnRseS1iYW5uZWQtYmV0dGluZy1iYXNlYmFsbC9zdG9yeT9pZD0xMTA4MTM4ODnSAXdodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9TcG9ydHMvbWxiLXNob3J0c3RvcC10dWN1cGl0YS1tYXJjYW5vLXBlcm1hbmVudGx5LWJhbm5lZC1iZXR0aW5nLWJhc2ViYWxsL3N0b3J5P2lkPTExMDgxMzg4OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "MLB bans Tucupita Marcano for life for betting on baseball, four others get one-year suspensions - The Associated Press",
+                "description": "MLB bans Tucupita Marcano for life for betting on baseball, four others get one-year suspensions  The Associated Press",
+                "published date": "Wed, 05 Jun 2024 02:07:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21sYi1nYW1ibGluZy1tYXJjYW5vLWJhbi05NDhjY2UwN2M5NTM0OTRlN2M3NjIxZTQ3NjkyZTFiYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
@@ -1740,23 +1740,23 @@
                 }
             },
             {
-                "title": "MLB bans Tucupita Marcano for life for betting on baseball, four others get one-year suspensions - The Associated Press",
-                "description": "MLB bans Tucupita Marcano for life for betting on baseball, four others get one-year suspensions  The Associated Press",
-                "published date": "Wed, 05 Jun 2024 00:40:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21sYi1nYW1ibGluZy1tYXJjYW5vLWJhbi05NDhjY2UwN2M5NTM0OTRlN2M3NjIxZTQ3NjkyZTFiYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "MLB shortstop Tucupita Marcano permanently banned for betting on baseball - ABC News",
+                "description": "MLB shortstop Tucupita Marcano permanently banned for betting on baseball  ABC News",
+                "published date": "Wed, 05 Jun 2024 03:56:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYWJjbmV3cy5nby5jb20vU3BvcnRzL21sYi1zaG9ydHN0b3AtdHVjdXBpdGEtbWFyY2Fuby1wZXJtYW5lbnRseS1iYW5uZWQtYmV0dGluZy1iYXNlYmFsbC9zdG9yeT9pZD0xMTA4MTM4ODnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
                 }
             },
             {
-                "title": "San Diego Padres player Tucupita Marcano under investigation for gambling on MLB games - CNN",
-                "description": "San Diego Padres player Tucupita Marcano under investigation for gambling on MLB games  CNN",
-                "published date": "Tue, 04 Jun 2024 10:16:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wMy9zcG9ydC90dWN1cGl0YS1tYXJjYW5vLWludmVzdGlnYXRpb24tZ2FtYmxpbmctbWxiLXNwdC9pbmRleC5odG1s0gFYaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wMy9zcG9ydC90dWN1cGl0YS1tYXJjYW5vLWludmVzdGlnYXRpb24tZ2FtYmxpbmctbWxiLXNwdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tucupita Marcano Lost Millions In Future Earnings By Betting On MLB - Forbes",
+                "description": "Tucupita Marcano Lost Millions In Future Earnings By Betting On MLB  Forbes",
+                "published date": "Wed, 05 Jun 2024 00:38:06 GMT",
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZGFuZXBzdGVpbi8yMDI0LzA2LzA0L3R1Y3VwaXRhLW1hcmNhbm8tbG9zdC1taWxsaW9ucy1pbi1mdXR1cmUtZWFybmluZ3MtYnktYmV0dGluZy1vbi1tbGIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
                 }
             },
             {
@@ -1767,6 +1767,16 @@
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "San Diego Padres player Tucupita Marcano under investigation for gambling on MLB games - CNN",
+                "description": "San Diego Padres player Tucupita Marcano under investigation for gambling on MLB games  CNN",
+                "published date": "Tue, 04 Jun 2024 10:16:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wMy9zcG9ydC90dWN1cGl0YS1tYXJjYW5vLWludmVzdGlnYXRpb24tZ2FtYmxpbmctbWxiLXNwdC9pbmRleC5odG1s0gFYaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wMy9zcG9ydC90dWN1cGl0YS1tYXJjYW5vLWludmVzdGlnYXRpb24tZ2FtYmxpbmctbWxiLXNwdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
@@ -1788,22 +1798,12 @@
                     "href": "https://fox5sandiego.com",
                     "title": "FOX 5 San Diego"
                 }
-            },
-            {
-                "title": "Marcano gets lifetime ban for betting on MLB - ESPN",
-                "description": "Marcano gets lifetime ban for betting on MLB  ESPN",
-                "published date": "Tue, 04 Jun 2024 14:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVzcG4uY29tL21sYi9zdG9yeS9fL2lkLzQwMjc1NTMxL3R1Y3VwaXRhLW1hcmNhbm8tZ2V0cy1saWZlLW1sYi1iYW4tYmV0dGluZy1iYXNlYmFsbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
             }
         ]
     },
     {
         "name": "Hunter Biden",
-        "summary": "Hunter Biden, the son of President Joe Biden, is currently facing a federal trial for gun charges. The trial has sparked significant media attention due to its potential implications for the Biden family and the upcoming presidential election. The trial is expected to focus on Hunter Biden's history of drug addiction and his alleged possession of a firearm while using illegal drugs. The jury selection process has been closely scrutinized, as attorneys for both sides attempt to seat a fair and impartial jury. The trial is expected to shed light on Hunter Biden's personal struggles and the potential impact of his actions on his father's political career.",
+        "summary": "",
         "items": [
             {
                 "title": "From collapsed plea deal to trial: How Hunter Biden has come to face jurors on federal gun charges - The Associated Press",
@@ -1823,16 +1823,6 @@
                 "publisher": {
                     "href": "https://www.reuters.com",
                     "title": "Reuters"
-                }
-            },
-            {
-                "title": "Hunter Biden gun trial: Laptop, drug use focus of witness testimony - The Washington Post",
-                "description": "Hunter Biden gun trial: Laptop, drug use focus of witness testimony  The Washington Post",
-                "published date": "Wed, 05 Jun 2024 00:32:28 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA2LzA0L2h1bnRlci1iaWRlbi1ndW4tdHJpYWwtbGl2ZS11cGRhdGVzLW9wZW5pbmctc3RhdGVtZW50cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
                 }
             },
             {
@@ -1856,33 +1846,33 @@
                 }
             },
             {
-                "title": "Hunter Biden gun trial: Hunter Biden's addiction laid bare in 1st day of testimony - ABC News",
-                "description": "Hunter Biden gun trial: Hunter Biden's addiction laid bare in 1st day of testimony  ABC News",
-                "published date": "Tue, 04 Jun 2024 14:50:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvbGl2ZS11cGRhdGVzL2h1bnRlci1iaWRlbi1ndW4tdHJpYWwvP2lkPTExMDcyMzk4MdIBT2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL2xpdmUtdXBkYXRlcy9odW50ZXItYmlkZW4tZ3VuLXRyaWFsLz9pZD0xMTA3MjM5ODE?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
-                }
-            },
-            {
-                "title": "Joe Biden's worries grow as Hunter Biden's trial begins - POLITICO",
-                "description": "Joe Biden's worries grow as Hunter Biden's trial begins  POLITICO",
-                "published date": "Tue, 04 Jun 2024 09:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMDQvam9lLWJpZGVuLWh1bnRlci10cmlhbC13b3JyaWVzLTAwMTYxMzg00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Hunter Biden's gun trial starts today. Here's what to know. - POLITICO",
+                "description": "Hunter Biden's gun trial starts today. Here's what to know.  POLITICO",
+                "published date": "Mon, 03 Jun 2024 09:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMDMvaHVudGVyLWJpZGVuLWd1bi10cmlhbC1wcmV2aWV3LTAwMTYxMTgx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.politico.com",
                     "title": "POLITICO"
                 }
             },
             {
-                "title": "Jury selected as Hunter Biden\u2019s trial on gun charges kicks off - Al Jazeera English",
-                "description": "Jury selected as Hunter Biden\u2019s trial on gun charges kicks off  Al Jazeera English",
-                "published date": "Mon, 03 Jun 2024 23:03:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzYvMy9odW50ZXItYmlkZW4tdHJpYWwtb24tY3JpbWluYWwtZ3VuLWNoYXJnZXMtYmVnaW5zLWluLWRlbGF3YXJl0gFpaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzYvMy9odW50ZXItYmlkZW4tdHJpYWwtb24tY3JpbWluYWwtZ3VuLWNoYXJnZXMtYmVnaW5zLWluLWRlbGF3YXJl?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Opening statements on tap in Hunter Biden's gun trial - ABC News",
+                "description": "Opening statements on tap in Hunter Biden's gun trial  ABC News",
+                "published date": "Tue, 04 Jun 2024 09:04:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvb3BlbmluZy1zdGF0ZW1lbnRzLWh1bnRlci1iaWRlbnMtZ3VuLXRyaWFsLXNldC10dWVzZGF5L3N0b3J5P2lkPTExMDc5NDIwNdIBZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL29wZW5pbmctc3RhdGVtZW50cy1odW50ZXItYmlkZW5zLWd1bi10cmlhbC1zZXQtdHVlc2RheS9zdG9yeT9pZD0xMTA3OTQyMDU?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
+                }
+            },
+            {
+                "title": "Hunter Biden trial highlights: Jury seated after selection removes some with deep political and gun views - NBC News",
+                "description": "Hunter Biden trial highlights: Jury seated after selection removes some with deep political and gun views  NBC News",
+                "published date": "Mon, 03 Jun 2024 21:36:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3BvbGl0aWNzLW5ld3MvbGl2ZS1ibG9nL2h1bnRlci1iaWRlbi1ndW4tdHJpYWwtbGl2ZS11cGRhdGVzLXJjbmExNTQ5NTfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             },
             {
@@ -1896,20 +1886,30 @@
                 }
             },
             {
-                "title": "Hunter Biden trial highlights: Jury seated after selection removes some with deep political and gun views - NBC News",
-                "description": "Hunter Biden trial highlights: Jury seated after selection removes some with deep political and gun views  NBC News",
-                "published date": "Mon, 03 Jun 2024 21:36:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3BvbGl0aWNzLW5ld3MvbGl2ZS1ibG9nL2h1bnRlci1iaWRlbi1ndW4tdHJpYWwtbGl2ZS11cGRhdGVzLXJjbmExNTQ5NTfSATVodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9saXZlLWJsb2cvcmNuYTE1NDk1Nw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Jury selected as Hunter Biden\u2019s trial on gun charges kicks off - Al Jazeera English",
+                "description": "Jury selected as Hunter Biden\u2019s trial on gun charges kicks off  Al Jazeera English",
+                "published date": "Mon, 03 Jun 2024 23:03:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzYvMy9odW50ZXItYmlkZW4tdHJpYWwtb24tY3JpbWluYWwtZ3VuLWNoYXJnZXMtYmVnaW5zLWluLWRlbGF3YXJl0gFpaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzYvMy9odW50ZXItYmlkZW4tdHJpYWwtb24tY3JpbWluYWwtZ3VuLWNoYXJnZXMtYmVnaW5zLWluLWRlbGF3YXJl?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "Inside Hunter Biden's federal gun charges case in Delaware - BBC.com",
+                "description": "Inside Hunter Biden's federal gun charges case in Delaware  BBC.com",
+                "published date": "Mon, 03 Jun 2024 14:48:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5ucjk5NDV2bW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRubnI5OTQ1dm1vLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.bbc.com",
+                    "title": "BBC.com"
                 }
             }
         ]
     },
     {
         "name": "IRS",
-        "summary": "The Internal Revenue Service (IRS) has made its free tax filing program, Direct File, permanent. This program allows taxpayers to file their taxes online for free using IRS-approved tax software. Previously, Direct File was only available in certain states, but the IRS is now inviting all states to join the program by 2025. This expansion will provide more taxpayers with access to free tax filing services, potentially saving them money on tax preparation fees. The IRS is also making Direct File a permanent option for filing taxes online, eliminating the need for taxpayers to download and install software each year. This move is seen as a threat to private tax software companies like Intuit, which offer paid tax preparation services.",
+        "summary": "",
         "items": [
             {
                 "title": "IRS makes free tax return program permanent and is asking all states to join in 2025 - The Associated Press",
@@ -1944,11 +1944,21 @@
             {
                 "title": "IRS Direct File to open to all 50 states and D.C. for 2025 tax season - Axios",
                 "description": "IRS Direct File to open to all 50 states and D.C. for 2025 tax season  Axios",
-                "published date": "Thu, 30 May 2024 18:56:15 GMT",
+                "published date": "Thu, 30 May 2024 17:15:33 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA1LzMwL2lycy10YXhlcy1kaXJlY3QtZmlsZS1mcmVlLXByb2dyYW3SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.axios.com",
                     "title": "Axios"
+                }
+            },
+            {
+                "title": "FTX Settles $24 Billion Tax Claim With IRS in Bankruptcy Court - Bloomberg Law",
+                "description": "FTX Settles $24 Billion Tax Claim With IRS in Bankruptcy Court  Bloomberg Law",
+                "published date": "Mon, 03 Jun 2024 23:42:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2JhbmtydXB0Y3ktbGF3L2Z0eC1zZXR0bGVzLTI0LWJpbGxpb24tdGF4LWNsYWltLXd0aC1pcnMtaW4tYmFua3J1cHRjeS1jb3VydNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://news.bloomberglaw.com",
+                    "title": "Bloomberg Law"
                 }
             },
             {
@@ -1992,30 +2002,20 @@
                 }
             },
             {
-                "title": "IRS Starts Expansion of Government Alternative to Private Tax Software - The Wall Street Journal",
-                "description": "IRS Starts Expansion of Government Alternative to Private Tax Software  The Wall Street Journal",
-                "published date": "Thu, 30 May 2024 20:21:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lndzai5jb20vcGVyc29uYWwtZmluYW5jZS90YXhlcy9pcnMtc3RhcnRzLWV4cGFuc2lvbi1vZi1nb3Zlcm5tZW50LWFsdGVybmF0aXZlLXRvLXByaXZhdGUtdGF4LXNvZnR3YXJlLTM5NmNkZDBk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "IRS and Treasury issue final regulations on the transfer of energy credits - RSM US",
+                "description": "IRS and Treasury issue final regulations on the transfer of energy credits  RSM US",
+                "published date": "Mon, 03 Jun 2024 15:01:29 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vcnNtdXMuY29tL2luc2lnaHRzL3RheC1hbGVydHMvMjAyNC9pcnMtdHJlYXN1cnktaXNzdWUtZmluYWwtcmVndWxhdGlvbnMtdHJhbnNmZXItZW5lcmd5LWNyZWRpdHMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.wsj.com",
-                    "title": "The Wall Street Journal"
-                }
-            },
-            {
-                "title": "TurboTax Maker Intuit's Stock Falls as IRS Makes Direct Tax Filing Permanent - Investopedia",
-                "description": "TurboTax Maker Intuit's Stock Falls as IRS Makes Direct Tax Filing Permanent  Investopedia",
-                "published date": "Thu, 30 May 2024 20:11:04 GMT",
-                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdHVyYm90YXgtbWFrZXItaW50dWl0LXN0b2NrLWZhbGxzLWFzLWlycy1tYWtlcy1kaXJlY3QtdGF4LWZpbGluZy1wZXJtYW5lbnQtODY1NjA0MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.investopedia.com",
-                    "title": "Investopedia"
+                    "href": "https://rsmus.com",
+                    "title": "RSM US"
                 }
             }
         ]
     },
     {
         "name": "Dow Jones today",
-        "summary": "The stock market experienced significant volatility in May and June of 2024, with major indices like the Dow Jones Industrial Average experiencing large point drops on several occasions. On May 30th, the Dow shed 330 points, while Salesforce shares tumbled, leading to a sell-off in the technology sector. The following day, the Dow dove another 411 points as healthcare giant UnitedHealth reported disappointing earnings. This decline was mirrored in Asian markets, where stocks tracked Wall Street's retreat. In the last three days of May, the Dow fell a significant 1,000 points, raising concerns among investors. However, June 3rd saw a positive change with the Nasdaq ticking higher, while oil and Treasury yields tumbled.",
+        "summary": "",
         "items": [
             {
                 "title": "Stock Market News, May 30, 2024: Dow Sheds 330 Points; Salesforce Tumbles - The Wall Street Journal",
@@ -2035,16 +2035,6 @@
                 "publisher": {
                     "href": "https://www.kiplinger.com",
                     "title": "Kiplinger's Personal Finance"
-                }
-            },
-            {
-                "title": "Stock market today: Asian shares track Wall Street's retreat - The Associated Press",
-                "description": "Stock market today: Asian shares track Wall Street's retreat  The Associated Press",
-                "published date": "Thu, 30 May 2024 03:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N0b2NrLW1hcmtldC1yYXRlcy1pbmZsYXRpb24tODNhMmYxYWE4ZGUzMThhOTg5YWEzYjE0ODllMGFlZmHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
                 }
             },
             {
@@ -2068,6 +2058,16 @@
                 }
             },
             {
+                "title": "Stock market today: Asian shares track Wall Street's retreat - The Associated Press",
+                "description": "Stock market today: Asian shares track Wall Street's retreat  The Associated Press",
+                "published date": "Thu, 30 May 2024 03:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N0b2NrLW1hcmtldC1yYXRlcy1pbmZsYXRpb24tODNhMmYxYWE4ZGUzMThhOTg5YWEzYjE0ODllMGFlZmHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
                 "title": "Markets News, May 29, 2024: Dow Sheds 400 Points as Treasury Yields Rise; Marathon Oil Gains - Investopedia",
                 "description": "Markets News, May 29, 2024: Dow Sheds 400 Points as Treasury Yields Rise; Marathon Oil Gains  Investopedia",
                 "published date": "Wed, 29 May 2024 20:25:00 GMT",
@@ -2088,16 +2088,6 @@
                 }
             },
             {
-                "title": "Stock Market Today: Dow Jones Slides Ahead Of Jobs Data; GME Stock Dives After 21% Surge - Investor's Business Daily",
-                "description": "Stock Market Today: Dow Jones Slides Ahead Of Jobs Data; GME Stock Dives After 21% Surge  Investor's Business Daily",
-                "published date": "Tue, 04 Jun 2024 14:05:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtc3A1MDAtbmFzZGFxLWdhbWVzdG9wLXN0b2NrLWdtZS0zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.investors.com",
-                    "title": "Investor's Business Daily"
-                }
-            },
-            {
                 "title": "Stocks close lower, Dow falls more than 300 points as Salesforce plunges 20%: Live updates - CNBC",
                 "description": "Stocks close lower, Dow falls more than 300 points as Salesforce plunges 20%: Live updates  CNBC",
                 "published date": "Wed, 29 May 2024 22:08:03 GMT",
@@ -2105,6 +2095,16 @@
                 "publisher": {
                     "href": "https://www.cnbc.com",
                     "title": "CNBC"
+                }
+            },
+            {
+                "title": "Stock Market Today: Dow Jones Slides Ahead Of Jobs Data; GME Stock Dives After 21% Surge - Investor's Business Daily",
+                "description": "Stock Market Today: Dow Jones Slides Ahead Of Jobs Data; GME Stock Dives After 21% Surge  Investor's Business Daily",
+                "published date": "Tue, 04 Jun 2024 14:05:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtc3A1MDAtbmFzZGFxLWdhbWVzdG9wLXN0b2NrLWdtZS0zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.investors.com",
+                    "title": "Investor's Business Daily"
                 }
             },
             {
