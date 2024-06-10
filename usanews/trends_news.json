@@ -1,7 +1,7 @@
 [
     {
         "name": "NBA",
-        "summary": "The NBA continues to make waves in the media and sports world with a recently announced $76 billion TV deal. The 2024 NBA Playoffs and Finals have generated significant buzz, with key storylines, matchups, and viewing information available on NBA.com, CNN, and ESPN. Meanwhile, a betting scandal involving Jontay Porter has led to criminal charges against an NYC man. The New York Times examines the strategies of six NBA teams that won the Finals a year after missing the playoffs. Variety reports on Warner Bros. Discovery's aspirations for the NBA's elusive \"fourth package\" of games. NBA.com provides in-depth statistical analysis ahead of the Celtics-Mavericks Finals, highlighting similarities between the Celtics and past champions. Additionally, the NBA Finals' Game 1 on ABC set an audience share record for the network.",
+        "summary": "",
         "items": [
             {
                 "title": "Exclusive | NBA Nears $76 Billion TV Deal, a Defining Moment for Media and Sports - The Wall Street Journal",
@@ -14,10 +14,10 @@
                 }
             },
             {
-                "title": "2024 NBA Playoffs | Official Bracket, Schedule and Series Matchups - NBA.com",
-                "description": "2024 NBA Playoffs | Official Bracket, Schedule and Series Matchups  NBA.com",
-                "published date": "Fri, 07 Jun 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vd3d3Lm5iYS5jb20vcGxheW9mZnMvMjAyNNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NBA Finals: 8 things the Celtics have in common with past champs - NBA.com",
+                "description": "NBA Finals: 8 things the Celtics have in common with past champs  NBA.com",
+                "published date": "Mon, 03 Jun 2024 16:52:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy93aGF0LXRoZS1jZWx0aWNzLWhhdmUtaW4tY29tbW9uLXdpdGgtcGFzdC1uYmEtY2hhbXBz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
@@ -34,16 +34,6 @@
                 }
             },
             {
-                "title": "The NBA betting scandal that ended Jontay Porter's career yields a criminal case against an NYC man - The Associated Press",
-                "description": "The NBA betting scandal that ended Jontay Porter's career yields a criminal case against an NYC man  The Associated Press",
-                "published date": "Tue, 04 Jun 2024 23:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1qb250YXktcG9ydGVyLWJhbm5lZC1tYW4tY2hhcmdlZC00ZDUyNjIyMzkyM2QwY2VkNTE2YzNhZTljYzIyZjllYtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
                 "title": "How the 6 teams to win NBA Finals 1 year after missing playoffs did it - The New York Times",
                 "description": "How the 6 teams to win NBA Finals 1 year after missing playoffs did it  The New York Times",
                 "published date": "Thu, 06 Jun 2024 10:05:19 GMT",
@@ -54,13 +44,13 @@
                 }
             },
             {
-                "title": "Bang! 2024 NBA Finals Presented By YouTube TV on ABC: Boston Celtics vs. Dallas Mavericks Tips Off June 6 - ESPN Press Room",
-                "description": "Bang! 2024 NBA Finals Presented By YouTube TV on ABC: Boston Celtics vs. Dallas Mavericks Tips Off June 6  ESPN Press Room",
-                "published date": "Mon, 03 Jun 2024 13:45:20 GMT",
-                "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL2VzcG5wcmVzc3Jvb20uY29tL3VzL3ByZXNzLXJlbGVhc2VzLzIwMjQvMDYvYmFuZy0yMDI0LW5iYS1maW5hbHMtcHJlc2VudGVkLWJ5LXlvdXR1YmUtdHYtb24tYWJjLWJvc3Rvbi1jZWx0aWNzLXZzLWRhbGxhcy1tYXZlcmlja3MtdGlwcy1vZmYtanVuZS02L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "The NBA betting scandal that ended Jontay Porter's career yields a criminal case against an NYC man - The Associated Press",
+                "description": "The NBA betting scandal that ended Jontay Porter's career yields a criminal case against an NYC man  The Associated Press",
+                "published date": "Tue, 04 Jun 2024 23:33:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1qb250YXktcG9ydGVyLWJhbm5lZC1tYW4tY2hhcmdlZC00ZDUyNjIyMzkyM2QwY2VkNTE2YzNhZTljYzIyZjllYtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://espnpressroom.com",
-                    "title": "ESPN Press Room"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
@@ -74,30 +64,40 @@
                 }
             },
             {
-                "title": "Celtics-Mavericks: 24 key stats ahead of 2024 NBA Finals - NBA.com",
-                "description": "Celtics-Mavericks: 24 key stats ahead of 2024 NBA Finals  NBA.com",
-                "published date": "Mon, 03 Jun 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9jZWx0aWNzLW1hdmVyaWNrcy0yNC1rZXktc3RhdHMtYWhlYWQtb2YtMjAyNC1uYmEtZmluYWxz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "2024 NBA Draft News & Notes - NBA.com",
+                "description": "2024 NBA Draft News & Notes  NBA.com",
+                "published date": "Mon, 03 Jun 2024 17:46:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1kcmFmdC1uZXdzLW5vdGVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
                 }
             },
             {
-                "title": "NBA Finals: 8 things the Celtics have in common with past champs - NBA.com",
-                "description": "NBA Finals: 8 things the Celtics have in common with past champs  NBA.com",
-                "published date": "Mon, 03 Jun 2024 16:52:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy93aGF0LXRoZS1jZWx0aWNzLWhhdmUtaW4tY29tbW9uLXdpdGgtcGFzdC1uYmEtY2hhbXBz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NBA Finals: 8 things Mavericks have in common with past champions - NBA.com",
+                "description": "NBA Finals: 8 things Mavericks have in common with past champions  NBA.com",
+                "published date": "Tue, 04 Jun 2024 15:17:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9uYmEtZmluYWxzLTgtdGhpbmdzLW1hdmVyaWNrcy1oYXZlLWluLWNvbW1vbi13aXRoLXBhc3QtY2hhbXBpb25z0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
                 }
             },
             {
-                "title": "NBA Finals draws largest Game 1 audience share ever on ABC - NBA.com",
-                "description": "NBA Finals draws largest Game 1 audience share ever on ABC  NBA.com",
-                "published date": "Sat, 08 Jun 2024 00:49:28 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9uYmEtZmluYWxzLWRyYXdzLWxhcmdlc3QtZ2FtZS0xLWF1ZGllbmNlLWV2ZXItYWJjLTIwMjTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NBA Finals: How Celtics turned key moment into Game 1 win over Mavs - NBA.com",
+                "description": "NBA Finals: How Celtics turned key moment into Game 1 win over Mavs  NBA.com",
+                "published date": "Fri, 07 Jun 2024 05:20:34 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9jZWx0aWNzLW1hdmVyaWNrcy10dXJuaW5nLXBvaW50LWdhbWUtMS0yMDI0LW5iYS1maW5hbHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
+            },
+            {
+                "title": "Starting 5, June 3: Matchup within the matchup for NBA Finals - NBA.com",
+                "description": "Starting 5, June 3: Matchup within the matchup for NBA Finals  NBA.com",
+                "published date": "Mon, 03 Jun 2024 13:20:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9uYmEtc3RhcnRpbmctNS1qdW5lLTMtMjAyNNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
@@ -107,7 +107,7 @@
     },
     {
         "name": "Mavericks vs Celtics",
-        "summary": "The NBA Finals between the Boston Celtics and Dallas Mavericks are set to begin. Fans can tune in to ABC or NBA.com to watch the highly anticipated series. Experts predict that the matchup will be won by the team that excels in specific areas on the court. Odds and betting lines for each game are available, and analysts have provided their predictions for the outcome of the series. Despite losing Game 1, the Mavericks remain optimistic and will try to avoid a 0-2 deficit heading home in Game 2.",
+        "summary": "",
         "items": [
             {
                 "title": "Lessons from Celtics-Mavericks Game 1: Just win - Celtics Blog",
@@ -117,26 +117,6 @@
                 "publisher": {
                     "href": "https://www.celticsblog.com",
                     "title": "Celtics Blog"
-                }
-            },
-            {
-                "title": "How to Watch the 2024 NBA Finals: Boston Celtics vs. Dallas Mavericks - ABC",
-                "description": "How to Watch the 2024 NBA Finals: Boston Celtics vs. Dallas Mavericks  ABC",
-                "published date": "Thu, 06 Jun 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vYWJjLmNvbS9uZXdzL2RhNWIzOTk1LTdhMDYtNGFmMS04MzUzLWJiYjdkMzAzMDFjZC9jYXRlZ29yeS8xMTM4NjI40gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abc.com",
-                    "title": "ABC"
-                }
-            },
-            {
-                "title": "Celtics-Mavericks: How to watch, what to expect \u2013 2024 NBA Finals - NBA.com",
-                "description": "Celtics-Mavericks: How to watch, what to expect \u2013 2024 NBA Finals  NBA.com",
-                "published date": "Mon, 03 Jun 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1maW5hbHMtc2VyaWVzLXByZXZpZXctY2VsdGljcy1tYXZlcmlja3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
                 }
             },
             {
@@ -150,16 +130,6 @@
                 }
             },
             {
-                "title": "NBA Finals 2024: Dallas Mavericks vs. Celtics schedule, merchandise - Austin American-Statesman",
-                "description": "NBA Finals 2024: Dallas Mavericks vs. Celtics schedule, merchandise  Austin American-Statesman",
-                "published date": "Mon, 03 Jun 2024 11:45:18 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L3Nwb3J0cy9uYmEvMjAyNC8wNi8wMy9uYmEtZmluYWxzLTIwMjQtZGFsbGFzLW1hdmVyaWNrcy12cy1ib3N0b24tY2VsdGljcy1zY2hlZHVsZS1uZXh0LWdhbWUtbWVyY2hhbmRpc2UvNzM5MjQ1MzIwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.statesman.com",
-                    "title": "Austin American-Statesman"
-                }
-            },
-            {
                 "title": "NBA Finals Game 2 Mavericks vs. Celtics: Predictions, betting odds - USA TODAY",
                 "description": "NBA Finals Game 2 Mavericks vs. Celtics: Predictions, betting odds  USA TODAY",
                 "published date": "Sat, 08 Jun 2024 16:53:59 GMT",
@@ -167,26 +137,6 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "How to watch the Dallas Mavericks vs. Boston Celtics NBA Finals game tonight: Game 2 livestream options - CBS News",
-                "description": "How to watch the Dallas Mavericks vs. Boston Celtics NBA Finals game tonight: Game 2 livestream options  CBS News",
-                "published date": "Sun, 09 Jun 2024 04:55:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRoZS1kYWxsYXMtbWF2ZXJpY2tzLXZzLWJvc3Rvbi1jZWx0aWNzLW5iYS1maW5hbHMtZ2FtZS0yL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
-                "title": "Celtics vs. Mavericks: How this intriguing NBA Finals matchup will be won on the court - The Athletic - The New York Times",
-                "description": "Celtics vs. Mavericks: How this intriguing NBA Finals matchup will be won on the court - The Athletic  The New York Times",
-                "published date": "Tue, 04 Jun 2024 12:09:54 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1Mzg1MDUvMjAyNC8wNi8wNC9jZWx0aWNzLXZzLW1hdmVyaWNrcy1uYmEtZmluYWxzLTIwMjQtcHJldmlldy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
                 }
             },
             {
@@ -200,20 +150,176 @@
                 }
             },
             {
-                "title": "'No panic' for Mavericks ahead of G2 vs. Celtics - ESPN",
-                "description": "'No panic' for Mavericks ahead of G2 vs. Celtics  ESPN",
-                "published date": "Sat, 08 Jun 2024 18:48:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMzA2MTYyL25vLXBhbmljLW1hdmVyaWNrcy1haGVhZC1nMi1uYmEtZmluYWxzLXZzLWNlbHRpY3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Celtics vs. Mavericks: How this intriguing NBA Finals matchup will be won on the court - The Athletic - The New York Times",
+                "description": "Celtics vs. Mavericks: How this intriguing NBA Finals matchup will be won on the court - The Athletic  The New York Times",
+                "published date": "Tue, 04 Jun 2024 12:09:54 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1Mzg1MDUvMjAyNC8wNi8wNC9jZWx0aWNzLXZzLW1hdmVyaWNrcy1uYmEtZmluYWxzLTIwMjQtcHJldmlldy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Celtics 107-89 Mavericks (Jun 6, 2024) Final Score - ESPN",
+                "description": "Celtics 107-89 Mavericks (Jun 6, 2024) Final Score  ESPN",
+                "published date": "Fri, 07 Jun 2024 02:48:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9nYW1lL18vZ2FtZUlkLzQwMTY1NjM1OS9tYXZlcmlja3MtY2VsdGljc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.espn.com",
                     "title": "ESPN"
+                }
+            },
+            {
+                "title": "How to watch the Dallas Mavericks vs. Boston Celtics NBA Finals game tonight: Game 2 livestream options - CBS News",
+                "description": "How to watch the Dallas Mavericks vs. Boston Celtics NBA Finals game tonight: Game 2 livestream options  CBS News",
+                "published date": "Sun, 09 Jun 2024 05:06:57 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRoZS1kYWxsYXMtbWF2ZXJpY2tzLXZzLWJvc3Rvbi1jZWx0aWNzLW5iYS1maW5hbHMtZ2FtZS0yL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
+                }
+            },
+            {
+                "title": "Celtics vs. Mavericks Game 2 prediction, how to watch, TV channel, odds - June 9 - FOX Sports",
+                "description": "Celtics vs. Mavericks Game 2 prediction, how to watch, TV channel, odds - June 9  FOX Sports",
+                "published date": "Sun, 09 Jun 2024 19:22:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vYXJ0aWNsZXMvbmJhL2NlbHRpY3MtdnMtbWF2ZXJpY2tzLWdhbWUtMi1wcmVkaWN0aW9uLWhvdy10by13YXRjaC10di1jaGFubmVsLW9kZHMtanVuZS050gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.foxsports.com",
+                    "title": "FOX Sports"
+                }
+            },
+            {
+                "title": "Dallas Mavericks vs Boston Celtics Jun 9, 2024 Game Summary - NBA.com",
+                "description": "Dallas Mavericks vs Boston Celtics Jun 9, 2024 Game Summary  NBA.com",
+                "published date": "Sun, 09 Jun 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3Lm5iYS5jb20vZ2FtZS9kYWwtdnMtYm9zLTAwNDIzMDA0MDLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
+            },
+            {
+                "title": "Celtics vs. Mavericks odds, score prediction, time: 2024 NBA Finals picks, Game 2 best bets from proven model - CBS Sports",
+                "description": "Celtics vs. Mavericks odds, score prediction, time: 2024 NBA Finals picks, Game 2 best bets from proven model  CBS Sports",
+                "published date": "Sun, 09 Jun 2024 22:38:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2NlbHRpY3MtdnMtbWF2ZXJpY2tzLW9kZHMtc2NvcmUtcHJlZGljdGlvbi10aW1lLTIwMjQtbmJhLWZpbmFscy1waWNrcy1nYW1lLTItYmVzdC1iZXRzLWZyb20tcHJvdmVuLW1vZGVsL9IBkAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2NlbHRpY3MtdnMtbWF2ZXJpY2tzLW9kZHMtc2NvcmUtcHJlZGljdGlvbi10aW1lLTIwMjQtbmJhLWZpbmFscy1waWNrcy1nYW1lLTItYmVzdC1iZXRzLWZyb20tcHJvdmVuLW1vZGVsL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Dragon boat festival",
+        "summary": "",
+        "items": [
+            {
+                "title": "Seattle Dragon Boat Festival takes over Lake Union | king5.com - KING5.com",
+                "description": "Seattle Dragon Boat Festival takes over Lake Union | king5.com  KING5.com",
+                "published date": "Fri, 07 Jun 2024 02:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5raW5nNS5jb20vYXJ0aWNsZS9lbnRlcnRhaW5tZW50L3RlbGV2aXNpb24vcHJvZ3JhbXMvZXZlbmluZy9kcmFnb24tYm9hdC1yYWNlLWxha2UtdW5pb24tdHJhZGl0aW9uLWZseWluZy1kcmFnb25zLzI4MS1mOWUzOWE0Mi1hNTUyLTQ3YzItYjRkZC0xZjA4MDA4NDZiZDjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.king5.com",
+                    "title": "KING5.com"
+                }
+            },
+            {
+                "title": "Dragon Boat Festival | News | 2news.com - KTVN",
+                "description": "Dragon Boat Festival | News | 2news.com  KTVN",
+                "published date": "Sun, 09 Jun 2024 23:27:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LjJuZXdzLmNvbS9uZXdzL2RyYWdvbi1ib2F0LWZlc3RpdmFsL2FydGljbGVfZDYxYmQ2ZmUtMjZiNy0xMWVmLTk4NjMtODdlMTU2ZDA4NTJlLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.2news.com",
+                    "title": "KTVN"
+                }
+            },
+            {
+                "title": "Dragon Boat Festival sticky rice dumpling types across China and East Asia - South China Morning Post",
+                "description": "Dragon Boat Festival sticky rice dumpling types across China and East Asia  South China Morning Post",
+                "published date": "Fri, 07 Jun 2024 04:45:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zY21wLmNvbS9saWZlc3R5bGUvZm9vZC1kcmluay9hcnRpY2xlLzMyNjU2MjEvem9uZ3ppLWFsbC10aGVpci1nbG9yeS1kcmFnb24tYm9hdC1mZXN0aXZhbC1zdGlja3ktcmljZS1kdW1wbGluZy10eXBlcy1hcm91bmQtYXNpYdIBjAFodHRwczovL2FtcC5zY21wLmNvbS9saWZlc3R5bGUvZm9vZC1kcmluay9hcnRpY2xlLzMyNjU2MjEvem9uZ3ppLWFsbC10aGVpci1nbG9yeS1kcmFnb24tYm9hdC1mZXN0aXZhbC1zdGlja3ktcmljZS1kdW1wbGluZy10eXBlcy1hcm91bmQtYXNpYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.scmp.com",
+                    "title": "South China Morning Post"
+                }
+            },
+            {
+                "title": "Boston Hong Kong Dragon Boat Festival brings culture and competition to Charles River - CBS Boston",
+                "description": "Boston Hong Kong Dragon Boat Festival brings culture and competition to Charles River  CBS Boston",
+                "published date": "Mon, 10 Jun 2024 00:14:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2Jvc3Rvbi92aWRlby9ib3N0b24taG9uZy1rb25nLWRyYWdvbi1ib2F0LWZlc3RpdmFsLWJyaW5ncy1jdWx0dXJlLWFuZC1jb21wZXRpdGlvbi10by1jaGFybGVzLXJpdmVyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS Boston"
+                }
+            },
+            {
+                "title": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest - cpc-nyc.org",
+                "description": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest  cpc-nyc.org",
+                "published date": "Wed, 05 Jun 2024 18:13:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNwYy1ueWMub3JnL25ld3MvNDYzNS9jcGMtYnJvb2tseW4tb2xkZXItYWR1bHQtY2VudGVyLWhvbm9ycy1kcmFnb24tYm9hdC1mZXN0aXZhbC16b25nemktbWFraW5nLWNvbnRlc3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cpc-nyc.org",
+                    "title": "cpc-nyc.org"
+                }
+            },
+            {
+                "title": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims - Northwest Arkansas Democrat-Gazette",
+                "description": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims  Northwest Arkansas Democrat-Gazette",
+                "published date": "Sun, 09 Jun 2024 01:08:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm53YW9ubGluZS5jb20vbmV3cy8yMDI0L2p1bi8wOC9hbm51YWwtZHJhZ29uLWJvYXQtZmVzdGl2YWwtYXQtbWF1bWVsbGUtZHJhd3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nwaonline.com",
+                    "title": "Northwest Arkansas Democrat-Gazette"
+                }
+            },
+            {
+                "title": "Dragon boat races held across China to celebrate upcoming Duanwu Festival - Xinhua",
+                "description": "Dragon boat races held across China to celebrate upcoming Duanwu Festival  Xinhua",
+                "published date": "Sat, 08 Jun 2024 23:36:05 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuLzIwMjQwNjA5LzU2YTM0ZWE3MTFhZjRjNjViNTRlOTFhYzRkOTVhNTU1L2MuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://english.news.cn",
+                    "title": "Xinhua"
+                }
+            },
+            {
+                "title": "Chinese Community Center hosting Dragon Boat Festival - NEWS10 ABC",
+                "description": "Chinese Community Center hosting Dragon Boat Festival  NEWS10 ABC",
+                "published date": "Thu, 06 Jun 2024 14:24:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9hbGJhbnktY291bnR5L2NoaW5lc2UtY29tbXVuaXR5LWNlbnRlci1ob3N0aW5nLWRyYWdvbi1ib2F0LWZlc3RpdmFsL9IBZGh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9hbGJhbnktY291bnR5L2NoaW5lc2UtY29tbXVuaXR5LWNlbnRlci1ob3N0aW5nLWRyYWdvbi1ib2F0LWZlc3RpdmFsL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.news10.com",
+                    "title": "NEWS10 ABC"
+                }
+            },
+            {
+                "title": "Scenes from the Seattle Dragon Boat Festival on Lake Union - seattlerefined.com",
+                "description": "Scenes from the Seattle Dragon Boat Festival on Lake Union  seattlerefined.com",
+                "published date": "Sun, 09 Jun 2024 18:10:55 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3NlYXR0bGVyZWZpbmVkLmNvbS9saWZlc3R5bGUvc2VhdHRsZS1kcmFnb24tYm9hdC1mZXN0aXZhbC0yMDI0LWxha2UtdW5pb24tY3VsdHVyZS1yYWNpbmctZGFuY2UtYXJ0LWZvb2QtbXVzaWMtd2F0ZXItdHJhZGl0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://seattlerefined.com",
+                    "title": "seattlerefined.com"
+                }
+            },
+            {
+                "title": "Team Dragon Eyes holds fifth annual Dragon Boat Festival - Santa Clarita Valley Signal",
+                "description": "Team Dragon Eyes holds fifth annual Dragon Boat Festival  Santa Clarita Valley Signal",
+                "published date": "Wed, 05 Jun 2024 23:41:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc2lnbmFsc2N2LmNvbS8yMDI0LzA2L3RlYW0tZHJhZ29uLWV5ZXMtaG9sZHMtZmlmdGgtYW5udWFsLWRyYWdvbi1ib2F0LWZlc3RpdmFsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://signalscv.com",
+                    "title": "Santa Clarita Valley Signal"
                 }
             }
         ]
     },
     {
         "name": "India vs Pakistan",
-        "summary": "This weekend's most significant sporting event is the India vs. Pakistan match at the T20 World Cup in New York. The match, which will be held at the iconic Yankee Stadium, has garnered immense interest and is being dubbed as a \"Super Bowl on steroids.\" The rivalry between India and Pakistan is one of the most intense in cricket, and the match is expected to draw a massive global audience. Various media outlets have provided comprehensive coverage of the event, including information on live streaming options, team analysis, match history, and ticket availability. The match is considered a rare opportunity for the bitter rivals to face off, making it a highly anticipated and significant sporting event.",
+        "summary": "",
         "items": [
             {
                 "title": "Why India vs Pakistan at T20 World Cup in New York is this weekend's biggest sporting event - The Athletic - The New York Times",
@@ -226,13 +332,13 @@
                 }
             },
             {
-                "title": "T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere - CNET",
-                "description": "T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere  CNET",
-                "published date": "Sun, 09 Jun 2024 11:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL3QyMC1jcmlja2V0LXdvcmxkLWN1cC1saXZlc3RyZWFtLWhvdy10by13YXRjaC1pbmRpYS12cy1wYWtpc3Rhbi1mcm9tLWFueXdoZXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Photos: India vs Pakistan brings the biggest cricket party to the US - Al Jazeera English",
+                "description": "Photos: India vs Pakistan brings the biggest cricket party to the US  Al Jazeera English",
+                "published date": "Mon, 10 Jun 2024 07:56:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZ2FsbGVyeS8yMDI0LzYvMTAvcGhvdG9zLWluZGlhLXZzLXBha2lzdGFuLWNyaWNrZXQtZmFucy1icmluZy10aGUtcGFydHktdG8tdGhlLXVzYS1uZXcteW9yay1tYXRjaNIBf2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL2dhbGxlcnkvMjAyNC82LzEwL3Bob3Rvcy1pbmRpYS12cy1wYWtpc3Rhbi1jcmlja2V0LWZhbnMtYnJpbmctdGhlLXBhcnR5LXRvLXRoZS11c2EtbmV3LXlvcmstbWF0Y2g?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
                 }
             },
             {
@@ -246,19 +352,19 @@
                 }
             },
             {
-                "title": "India vs Pakistan \u2013 T20 World Cup match: Teams, head-to-head, form, pitch - Al Jazeera English",
-                "description": "India vs Pakistan \u2013 T20 World Cup match: Teams, head-to-head, form, pitch  Al Jazeera English",
-                "published date": "Sun, 09 Jun 2024 08:29:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi85L2luZGlhLXZzLXBha2lzdGFuLWF0LXQyMC13b3JsZC1jdXAtdGVhbS1uZXdzLWhlYWQtdG8taGVhZC1mb3JtLXBpdGNo0gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzLzIwMjQvNi85L2luZGlhLXZzLXBha2lzdGFuLWF0LXQyMC13b3JsZC1jdXAtdGVhbS1uZXdzLWhlYWQtdG8taGVhZC1mb3JtLXBpdGNo?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere - CNET",
+                "description": "T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere  CNET",
+                "published date": "Sun, 09 Jun 2024 11:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL3QyMC1jcmlja2V0LXdvcmxkLWN1cC1saXZlc3RyZWFtLWhvdy10by13YXRjaC1pbmRpYS12cy1wYWtpc3Rhbi1mcm9tLWFueXdoZXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
+                    "href": "https://www.cnet.com",
+                    "title": "CNET"
                 }
             },
             {
                 "title": "Pakistan vs India T20 cricket Sunday rare meeting among bitter rivals - USA TODAY",
                 "description": "Pakistan vs India T20 cricket Sunday rare meeting among bitter rivals  USA TODAY",
-                "published date": "Sun, 09 Jun 2024 05:45:07 GMT",
+                "published date": "Mon, 10 Jun 2024 09:56:17 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvMjAyNC8wNi8wOS9wYWtpc3Rhbi12cy1pbmRpYS10MjAtY3JpY2tldC1zdGFrZXMvNzQwMTk1NDMwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
@@ -268,7 +374,7 @@
             {
                 "title": "India-Pakistan cricket match was the hottest ticket in sports - The Washington Post",
                 "description": "India-Pakistan cricket match was the hottest ticket in sports  The Washington Post",
-                "published date": "Mon, 10 Jun 2024 05:33:33 GMT",
+                "published date": "Mon, 10 Jun 2024 06:28:53 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAyNC8wNi8wOS9pbmRpYS1wYWtpc3Rhbi1jcmlja2V0LXdvcmxkLWN1cC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.washingtonpost.com",
@@ -306,137 +412,21 @@
                 }
             },
             {
-                "title": "New York prepares for India-Pakistan T20: 'Super Bowl on steroids' - Reuters",
-                "description": "New York prepares for India-Pakistan T20: 'Super Bowl on steroids'  Reuters",
-                "published date": "Mon, 03 Jun 2024 20:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9jcmlja2V0L25ldy15b3JrLXByZXBhcmVzLWluZGlhLXBha2lzdGFuLXQyMC1zdXBlci1ib3dsLXN0ZXJvaWRzLTIwMjQtMDYtMDMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "India vs Pakistan, T20 World Cup 2024: Know where to watch IND vs PAK live streaming and telecast in India and get ... - Olympics",
+                "description": "India vs Pakistan, T20 World Cup 2024: Know where to watch IND vs PAK live streaming and telecast in India and get ...  Olympics",
+                "published date": "Sat, 08 Jun 2024 11:02:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vb2x5bXBpY3MuY29tL2VuL25ld3MvaW5kaWEtdnMtcGFraXN0YW4tdDIwLXdvcmxkLWN1cC0yMDI0LWNyaWNrZXQtd2F0Y2gtbGl2ZS1zdHJlYW1pbmctdGVsZWNhc3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Dragon boat festival",
-        "summary": "This weekend, the Seattle Dragon Boat Festival will take place on Lake Union. Dragon Boat Festival celebrates the life of Qu Yuan, a Chinese poet and minister who drowned himself in the Miluo River. Around the world, dragon boat races and other events are held in his honor. This year's Seattle festival will feature dragon boat races, live music, food vendors, and cultural performances. In China, the Dragon Boat Festival is also a time to eat sticky rice dumplings, or zongzi. These dumplings are made of glutinous rice and filled with various ingredients, such as meat, vegetables, or fruit. The Dragon Boat Festival is a popular time to visit China, as it is a time of celebration and cultural exchange.",
-        "items": [
-            {
-                "title": "Seattle Dragon Boat Festival takes over Lake Union | king5.com - KING5.com",
-                "description": "Seattle Dragon Boat Festival takes over Lake Union | king5.com  KING5.com",
-                "published date": "Fri, 07 Jun 2024 02:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5raW5nNS5jb20vYXJ0aWNsZS9lbnRlcnRhaW5tZW50L3RlbGV2aXNpb24vcHJvZ3JhbXMvZXZlbmluZy9kcmFnb24tYm9hdC1yYWNlLWxha2UtdW5pb24tdHJhZGl0aW9uLWZseWluZy1kcmFnb25zLzI4MS1mOWUzOWE0Mi1hNTUyLTQ3YzItYjRkZC0xZjA4MDA4NDZiZDjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.king5.com",
-                    "title": "KING5.com"
-                }
-            },
-            {
-                "title": "Dragon Boat Festival sticky rice dumpling types across China and East Asia - South China Morning Post",
-                "description": "Dragon Boat Festival sticky rice dumpling types across China and East Asia  South China Morning Post",
-                "published date": "Fri, 07 Jun 2024 04:45:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zY21wLmNvbS9saWZlc3R5bGUvZm9vZC1kcmluay9hcnRpY2xlLzMyNjU2MjEvem9uZ3ppLWFsbC10aGVpci1nbG9yeS1kcmFnb24tYm9hdC1mZXN0aXZhbC1zdGlja3ktcmljZS1kdW1wbGluZy10eXBlcy1hcm91bmQtYXNpYdIBjAFodHRwczovL2FtcC5zY21wLmNvbS9saWZlc3R5bGUvZm9vZC1kcmluay9hcnRpY2xlLzMyNjU2MjEvem9uZ3ppLWFsbC10aGVpci1nbG9yeS1kcmFnb24tYm9hdC1mZXN0aXZhbC1zdGlja3ktcmljZS1kdW1wbGluZy10eXBlcy1hcm91bmQtYXNpYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.scmp.com",
-                    "title": "South China Morning Post"
-                }
-            },
-            {
-                "title": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims - Northwest Arkansas Democrat-Gazette",
-                "description": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims  Northwest Arkansas Democrat-Gazette",
-                "published date": "Sun, 09 Jun 2024 01:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm53YW9ubGluZS5jb20vbmV3cy8yMDI0L2p1bi8wOC9hbm51YWwtZHJhZ29uLWJvYXQtZmVzdGl2YWwtYXQtbWF1bWVsbGUtZHJhd3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nwaonline.com",
-                    "title": "Northwest Arkansas Democrat-Gazette"
-                }
-            },
-            {
-                "title": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims | Arkansas Democrat Gazette - Arkansas Online",
-                "description": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims | Arkansas Democrat Gazette  Arkansas Online",
-                "published date": "Sun, 09 Jun 2024 01:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmFya2Fuc2Fzb25saW5lLmNvbS9uZXdzLzIwMjQvanVuLzA4L2FubnVhbC1kcmFnb24tYm9hdC1mZXN0aXZhbC1hdC1tYXVtZWxsZS1kcmF3cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.arkansasonline.com",
-                    "title": "Arkansas Online"
-                }
-            },
-            {
-                "title": "Scenes from the Seattle Dragon Boat Festival on Lake Union - seattlerefined.com",
-                "description": "Scenes from the Seattle Dragon Boat Festival on Lake Union  seattlerefined.com",
-                "published date": "Sun, 09 Jun 2024 18:10:55 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3NlYXR0bGVyZWZpbmVkLmNvbS9saWZlc3R5bGUvc2VhdHRsZS1kcmFnb24tYm9hdC1mZXN0aXZhbC0yMDI0LWxha2UtdW5pb24tY3VsdHVyZS1yYWNpbmctZGFuY2UtYXJ0LWZvb2QtbXVzaWMtd2F0ZXItdHJhZGl0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://seattlerefined.com",
-                    "title": "seattlerefined.com"
-                }
-            },
-            {
-                "title": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest - cpc-nyc.org",
-                "description": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest  cpc-nyc.org",
-                "published date": "Wed, 05 Jun 2024 18:13:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNwYy1ueWMub3JnL25ld3MvNDYzNS9jcGMtYnJvb2tseW4tb2xkZXItYWR1bHQtY2VudGVyLWhvbm9ycy1kcmFnb24tYm9hdC1mZXN0aXZhbC16b25nemktbWFraW5nLWNvbnRlc3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cpc-nyc.org",
-                    "title": "cpc-nyc.org"
-                }
-            },
-            {
-                "title": "Dragon boat races held across China to celebrate upcoming Duanwu Festival - Xinhua",
-                "description": "Dragon boat races held across China to celebrate upcoming Duanwu Festival  Xinhua",
-                "published date": "Sat, 08 Jun 2024 23:36:05 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuLzIwMjQwNjA5LzU2YTM0ZWE3MTFhZjRjNjViNTRlOTFhYzRkOTVhNTU1L2MuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://english.news.cn",
-                    "title": "Xinhua"
-                }
-            },
-            {
-                "title": "Dragon Boat Festival | News | 2news.com - KTVN",
-                "description": "Dragon Boat Festival | News | 2news.com  KTVN",
-                "published date": "Sun, 09 Jun 2024 23:27:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LjJuZXdzLmNvbS9uZXdzL2RyYWdvbi1ib2F0LWZlc3RpdmFsL2FydGljbGVfZDYxYmQ2ZmUtMjZiNy0xMWVmLTk4NjMtODdlMTU2ZDA4NTJlLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.2news.com",
-                    "title": "KTVN"
-                }
-            },
-            {
-                "title": "Chinese Community Center hosting Dragon Boat Festival - NEWS10 ABC",
-                "description": "Chinese Community Center hosting Dragon Boat Festival  NEWS10 ABC",
-                "published date": "Thu, 06 Jun 2024 14:24:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9hbGJhbnktY291bnR5L2NoaW5lc2UtY29tbXVuaXR5LWNlbnRlci1ob3N0aW5nLWRyYWdvbi1ib2F0LWZlc3RpdmFsL9IBZGh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9hbGJhbnktY291bnR5L2NoaW5lc2UtY29tbXVuaXR5LWNlbnRlci1ob3N0aW5nLWRyYWdvbi1ib2F0LWZlc3RpdmFsL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.news10.com",
-                    "title": "NEWS10 ABC"
-                }
-            },
-            {
-                "title": "Dragon Boat Festival coming to Warriors Path - WJHL-TV News Channel 11",
-                "description": "Dragon Boat Festival coming to Warriors Path  WJHL-TV News Channel 11",
-                "published date": "Mon, 03 Jun 2024 14:29:09 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LndqaGwuY29tL2RheXRpbWUtdHJpLWNpdGllcy9kcmFnb24tYm9hdC1mZXN0aXZhbC1jb21pbmctdG8td2FycmlvcnMtcGF0aC_SAVlodHRwczovL3d3dy53amhsLmNvbS9kYXl0aW1lLXRyaS1jaXRpZXMvZHJhZ29uLWJvYXQtZmVzdGl2YWwtY29taW5nLXRvLXdhcnJpb3JzLXBhdGgvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wjhl.com",
-                    "title": "WJHL-TV News Channel 11"
+                    "href": "https://olympics.com",
+                    "title": "Olympics"
                 }
             }
         ]
     },
     {
         "name": "Black Ops 6",
-        "summary": "Call of Duty: Black Ops 6 was unveiled worldwide, revealing key details about its campaign, multiplayer, and Zombies modes. A notable innovation is the \"Omnimovement\" system, sparking mixed reactions among fans. The game will be released on October 25th and will be available for Xbox, PlayStation, and PC. It will reportedly require a substantial 309.85 GB of storage space. Exclusive gameplay footage suggests that Black Ops 6 is a significant installment in the franchise. The reveal event time and further details have yet to be announced.",
+        "summary": "",
         "items": [
-            {
-                "title": "Black Ops 6 Worldwide Reveal: Essential Intel on Campaign, Multiplayer, and Zombies - Call of Duty",
-                "description": "Black Ops 6 Worldwide Reveal: Essential Intel on Campaign, Multiplayer, and Zombies  Call of Duty",
-                "published date": "Sun, 09 Jun 2024 18:31:58 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNhbGxvZmR1dHkuY29tL2Jsb2cvMjAyNC8wNi9jYWxsLW9mLWR1dHktYmxhY2stb3BzLTYtd29ybGR3aWRlLXJldmVhbC1hbm5vdW5jZW1lbnTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.callofduty.com",
-                    "title": "Call of Duty"
-                }
-            },
             {
                 "title": "Call of Duty: Black Ops 6's new 'Omnimovement' could be CoD's best (or worst) idea of all time - PC Gamer",
                 "description": "Call of Duty: Black Ops 6's new 'Omnimovement' could be CoD's best (or worst) idea of all time  PC Gamer",
@@ -445,6 +435,16 @@
                 "publisher": {
                     "href": "https://www.pcgamer.com",
                     "title": "PC Gamer"
+                }
+            },
+            {
+                "title": "Black Ops 6 Worldwide Reveal: Essential Intel on Campaign, Multiplayer, and Zombies - Call of Duty",
+                "description": "Black Ops 6 Worldwide Reveal: Essential Intel on Campaign, Multiplayer, and Zombies  Call of Duty",
+                "published date": "Sun, 09 Jun 2024 18:31:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNhbGxvZmR1dHkuY29tL2Jsb2cvMjAyNC8wNi9jYWxsLW9mLWR1dHktYmxhY2stb3BzLTYtd29ybGR3aWRlLXJldmVhbC1hbm5vdW5jZW1lbnTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.callofduty.com",
+                    "title": "Call of Duty"
                 }
             },
             {
@@ -468,13 +468,13 @@
                 }
             },
             {
-                "title": "Call of Duty: Black Ops 6 release date, gameplay details revealed - Polygon",
-                "description": "Call of Duty: Black Ops 6 release date, gameplay details revealed  Polygon",
-                "published date": "Sun, 09 Jun 2024 18:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTc0Nzk4L2NhbGwtb2YtZHV0eS1ibGFjay1vcHMtNi1yZWxlYXNlLWRhdGUtY29kLWRpcmVjdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "We played CoD Black Ops 6 exclusively, and we are clear: it is the most important installment of the series in - AS USA",
+                "description": "We played CoD Black Ops 6 exclusively, and we are clear: it is the most important installment of the series in  AS USA",
+                "published date": "Sun, 09 Jun 2024 19:20:40 GMT",
+                "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL2VuLmFzLmNvbS9tZXJpc3RhdGlvbi9uZXdzL3dlLXBsYXllZC1jb2QtYmxhY2stb3BzLTYtZXhjbHVzaXZlbHktYW5kLXdlLWFyZS1jbGVhci1pdC1pcy10aGUtbW9zdC1pbXBvcnRhbnQtaW5zdGFsbG1lbnQtb2YtdGhlLXNlcmllcy1pbi0xMC15ZWFycy1yL9IBqgFodHRwczovL2VuLmFzLmNvbS9tZXJpc3RhdGlvbi9uZXdzL3dlLXBsYXllZC1jb2QtYmxhY2stb3BzLTYtZXhjbHVzaXZlbHktYW5kLXdlLWFyZS1jbGVhci1pdC1pcy10aGUtbW9zdC1pbXBvcnRhbnQtaW5zdGFsbG1lbnQtb2YtdGhlLXNlcmllcy1pbi0xMC15ZWFycy1yLz9vdXRwdXRUeXBlPWFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.polygon.com",
-                    "title": "Polygon"
+                    "href": "https://en.as.com",
+                    "title": "AS USA"
                 }
             },
             {
@@ -488,6 +488,16 @@
                 }
             },
             {
+                "title": "Call of Duty: Black Ops 6 release date, gameplay details revealed - Polygon",
+                "description": "Call of Duty: Black Ops 6 release date, gameplay details revealed  Polygon",
+                "published date": "Sun, 09 Jun 2024 18:25:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTc0Nzk4L2NhbGwtb2YtZHV0eS1ibGFjay1vcHMtNi1yZWxlYXNlLWRhdGUtY29kLWRpcmVjdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.polygon.com",
+                    "title": "Polygon"
+                }
+            },
+            {
                 "title": "Call of Duty: Black Ops 6 hits PS5 on October 25 - PlayStation",
                 "description": "Call of Duty: Black Ops 6 hits PS5 on October 25  PlayStation",
                 "published date": "Sun, 09 Jun 2024 18:41:48 GMT",
@@ -495,26 +505,6 @@
                 "publisher": {
                     "href": "https://blog.playstation.com",
                     "title": "PlayStation"
-                }
-            },
-            {
-                "title": "We played CoD Black Ops 6 exclusively, and we are clear: it is the most important installment of the series in - AS USA",
-                "description": "We played CoD Black Ops 6 exclusively, and we are clear: it is the most important installment of the series in  AS USA",
-                "published date": "Sun, 09 Jun 2024 19:20:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL2VuLmFzLmNvbS9tZXJpc3RhdGlvbi9uZXdzL3dlLXBsYXllZC1jb2QtYmxhY2stb3BzLTYtZXhjbHVzaXZlbHktYW5kLXdlLWFyZS1jbGVhci1pdC1pcy10aGUtbW9zdC1pbXBvcnRhbnQtaW5zdGFsbG1lbnQtb2YtdGhlLXNlcmllcy1pbi0xMC15ZWFycy1yL9IBqgFodHRwczovL2VuLmFzLmNvbS9tZXJpc3RhdGlvbi9uZXdzL3dlLXBsYXllZC1jb2QtYmxhY2stb3BzLTYtZXhjbHVzaXZlbHktYW5kLXdlLWFyZS1jbGVhci1pdC1pcy10aGUtbW9zdC1pbXBvcnRhbnQtaW5zdGFsbG1lbnQtb2YtdGhlLXNlcmllcy1pbi0xMC15ZWFycy1yLz9vdXRwdXRUeXBlPWFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://en.as.com",
-                    "title": "AS USA"
-                }
-            },
-            {
-                "title": "What Time Is The Black Ops 6 Reveal Event? Answered - Turtle Beach",
-                "description": "What Time Is The Black Ops 6 Reveal Event? Answered  Turtle Beach",
-                "published date": "Thu, 06 Jun 2024 11:10:01 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnR1cnRsZWJlYWNoLmNvbS9ibG9nL3doYXQtdGltZS1pcy10aGUtYmxhY2stb3BzLTYtcmV2ZWFsLWV2ZW50LWFuc3dlcmVk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.turtlebeach.com",
-                    "title": "Turtle Beach"
                 }
             },
             {
@@ -526,12 +516,22 @@
                     "href": "https://venturebeat.com",
                     "title": "VentureBeat"
                 }
+            },
+            {
+                "title": "Xbox\u2019s \u2018Call of Duty: Black Ops 6\u2019 Voice Cast to Star \u2018Insecure\u2019 and \u2018The First Purge\u2019 Actor Y\u2019lan Noel (EXCLUSIVE) - Variety",
+                "description": "Xbox\u2019s \u2018Call of Duty: Black Ops 6\u2019 Voice Cast to Star \u2018Insecure\u2019 and \u2018The First Purge\u2019 Actor Y\u2019lan Noel (EXCLUSIVE)  Variety",
+                "published date": "Fri, 07 Jun 2024 16:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9nYW1pbmcvbmV3cy9jYWxsLW9mLWR1dHktYmxhY2stb3BzLTYtdm9pY2UtYWN0b3IteWxhbi1ub2VsLXhib3gtc2hvd2Nhc2UtMTIzNjAyODY1OS_SAXFodHRwczovL3ZhcmlldHkuY29tLzIwMjQvZ2FtaW5nL25ld3MvY2FsbC1vZi1kdXR5LWJsYWNrLW9wcy02LXZvaWNlLWFjdG9yLXlsYW4tbm9lbC14Ym94LXNob3djYXNlLTEyMzYwMjg2NTkvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
             }
         ]
     },
     {
         "name": "Luka Doncic",
-        "summary": "Despite a triple-double from Luka Doncic in Game 1 of the NBA Finals, the Dallas Mavericks find themselves in a 2-0 hole against the Boston Celtics. Analysts are now examining how the Celtics will adjust their defense to contain Doncic, who has been playing through injuries. Some experts believe that Doncic is the more talented player, but the Celtics have a stronger starting lineup. The Celtics are considering various options for guarding Doncic, including double-teaming and using a box-and-one defense. Despite Doncic's availability for Game 2, there is still uncertainty about how effective he will be due to his injuries.",
+        "summary": "Despite suffering from injuries, Luka Doncic put up a triple-double in Game 1 of the NBA Finals, but it wasn't enough to prevent the Dallas Mavericks from falling behind 0-2 to the Boston Celtics.Analysts are weighing the options available to the Celtics for guarding Doncic, while CBS Sports ranks him slightly ahead of Jayson Tatum among the top players in the series. Doncic has been cleared to play in Game 2, despite initial concerns about his availability. FOX Sports highlights his crucial role as a title contender alongside Kyrie Irving. Doncic's status was initially questionable due to a new injury, but he is now available for Game 2, which is critical for the Mavericks' chances of evening the series.",
         "items": [
             {
                 "title": "Luka Doncic's triple-double not enough to help Mavericks avoid 2-game hole in NBA Finals vs. Boston - The Associated Press",
@@ -541,16 +541,6 @@
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "NBA Finals Film Study: How will the Celtics defend Luka Doncic? - NBA.com",
-                "description": "NBA Finals Film Study: How will the Celtics defend Luka Doncic?  NBA.com",
-                "published date": "Mon, 03 Jun 2024 12:14:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9uYmEtZmluYWxzLWZpbG0tc3R1ZHktaG93LXdpbGwtY2VsdGljcy1kZWZlbmQtbHVrYS1kb25jaWPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
                 }
             },
             {
@@ -584,6 +574,16 @@
                 }
             },
             {
+                "title": "Mavericks' Luka Doncic available to play in Game 2 vs. Celtics - ESPN",
+                "description": "Mavericks' Luka Doncic available to play in Game 2 vs. Celtics  ESPN",
+                "published date": "Sun, 09 Jun 2024 18:27:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMzEzNjU2L2x1a2EtZG9uY2ljLWRvd25ncmFkZWQtcXVlc3Rpb25hYmxlLWdhbWUtMi1uYmEtZmluYWxz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
                 "title": "Luka Doncic and Kyrie Irving: How the unlikely duo made the Mavs title contenders - FOX Sports",
                 "description": "Luka Doncic and Kyrie Irving: How the unlikely duo made the Mavs title contenders  FOX Sports",
                 "published date": "Thu, 06 Jun 2024 16:21:34 GMT",
@@ -594,13 +594,13 @@
                 }
             },
             {
-                "title": "Mavericks' Luka Doncic available to play in Game 2 vs. Celtics - ESPN",
-                "description": "Mavericks' Luka Doncic available to play in Game 2 vs. Celtics  ESPN",
-                "published date": "Sun, 09 Jun 2024 18:27:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMzEzNjU2L2x1a2EtZG9uY2ljLWRvd25ncmFkZWQtcXVlc3Rpb25hYmxlLWdhbWUtMi1uYmEtZmluYWxz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Luka Doncic cleared to play Game 2 of NBA Finals vs. Celtics - CBS Boston",
+                "description": "Luka Doncic cleared to play Game 2 of NBA Finals vs. Celtics  CBS Boston",
+                "published date": "Sun, 09 Jun 2024 23:44:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Jvc3Rvbi9uZXdzL2x1a2EtZG9uY2ljLWNsZWFyZWQtZ2FtZS0yLW5iYS1maW5hbHMtbWF2ZXJpY2tzLWNlbHRpY3Mv0gFgaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2Jvc3Rvbi9uZXdzL2x1a2EtZG9uY2ljLWNsZWFyZWQtZ2FtZS0yLW5iYS1maW5hbHMtbWF2ZXJpY2tzLWNlbHRpY3Mv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS Boston"
                 }
             },
             {
@@ -614,30 +614,136 @@
                 }
             },
             {
-                "title": "The Latest on Luka Doncic's Availability for Game 2 of NBA Finals - Sports Illustrated",
-                "description": "The Latest on Luka Doncic's Availability for Game 2 of NBA Finals  Sports Illustrated",
-                "published date": "Sun, 09 Jun 2024 23:44:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvY2VsdGljcy90b3Atc3Rvcmllcy90aGUtbGF0ZXN0LW9uLWx1a2EtZG9uY2ljLXMtYXZhaWxhYmlsaXR5LWZvci1nYW1lLTItb2YtbmJhLWZpbmFscy0wMWh6em54MW1xYjjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Dallas Mavs Luka Doncic Hopes to Shoot Team to NBA Championship - Dallas Observer",
+                "description": "Dallas Mavs Luka Doncic Hopes to Shoot Team to NBA Championship  Dallas Observer",
+                "published date": "Thu, 06 Jun 2024 13:03:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRhbGxhc29ic2VydmVyLmNvbS9uZXdzL2RhbGxhcy1tYXZzLWx1a2EtZG9uY2ljLWhvcGVzLXRvLXNob290LXRlYW0tdG8tbmJhLWNoYW1waW9uc2hpcC0xOTU1MTgxMNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.dallasobserver.com",
+                    "title": "Dallas Observer"
+                }
+            },
+            {
+                "title": "Mavericks' Luka Doncic Faces Downgraded Game 2 Status Against Celtics with New Injury - Sports Illustrated",
+                "description": "Mavericks' Luka Doncic Faces Downgraded Game 2 Status Against Celtics with New Injury  Sports Illustrated",
+                "published date": "Sun, 09 Jun 2024 18:21:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEvbWF2ZXJpY2tzL25ld3MvbWF2ZXJpY2tzLWx1a2EtZG9uY2ljLWRvd25ncmFkZWQtZ2FtZS0yLXN0YXR1cy1kYWxsYXMtbWF2ZXJpY2tzLWJvc3Rvbi1jZWx0aWNzLW5ldy1pbmp1cnnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.si.com",
                     "title": "Sports Illustrated"
                 }
+            }
+        ]
+    },
+    {
+        "name": "IND vs PAK",
+        "summary": "The highly anticipated India vs. Pakistan cricket match at the 2024 T20 World Cup has generated immense excitement. The match, set to take place in New York, USA, has been dubbed the \"biggest cricket party\" due to the intense rivalry between the two nations. Various media outlets have reported on the event, including live streaming and telecast details, ticket prices and availability, potential weather contingencies, and economic benefits for the host city. Former Pakistani cricketer Shoaib Akhtar has urged the Pakistani team to prioritize the national interest over individual achievements. The match has drawn widespread attention, with teams, head-to-head statistics, form, and pitch details being analyzed by experts. The result of the low-scoring thriller was a victory for India, further fueling the excitement and anticipation surrounding this iconic clash.",
+        "items": [
+            {
+                "title": "Photos: India vs Pakistan brings the biggest cricket party to the US - Al Jazeera English",
+                "description": "Photos: India vs Pakistan brings the biggest cricket party to the US  Al Jazeera English",
+                "published date": "Mon, 10 Jun 2024 07:56:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZ2FsbGVyeS8yMDI0LzYvMTAvcGhvdG9zLWluZGlhLXZzLXBha2lzdGFuLWNyaWNrZXQtZmFucy1icmluZy10aGUtcGFydHktdG8tdGhlLXVzYS1uZXcteW9yay1tYXRjaNIBf2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL2dhbGxlcnkvMjAyNC82LzEwL3Bob3Rvcy1pbmRpYS12cy1wYWtpc3Rhbi1jcmlja2V0LWZhbnMtYnJpbmctdGhlLXBhcnR5LXRvLXRoZS11c2EtbmV3LXlvcmstbWF0Y2g?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
             },
             {
-                "title": "Mavs' Luka Don\u010di\u0107 Available to Play vs. Celtics in NBA Finals Game 2 Amid Injury - Bleacher Report",
-                "description": "Mavs' Luka Don\u010di\u0107 Available to Play vs. Celtics in NBA Finals Game 2 Amid Injury  Bleacher Report",
-                "published date": "Sun, 09 Jun 2024 22:52:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0MTcyLW1hdnMtbHVrYS1kb25jaWMtYXZhaWxhYmxlLXRvLXBsYXktdnMtY2VsdGljcy1pbi1uYmEtZmluYWxzLWdhbWUtMi1hbWlkLWluanVyedIBiwFodHRwczovL3N5bmRpY2F0aW9uLmJsZWFjaGVycmVwb3J0LmNvbS9hbXAvMTAxMjQxNzItbWF2cy1sdWthLWRvbmNpYy1hdmFpbGFibGUtdG8tcGxheS12cy1jZWx0aWNzLWluLW5iYS1maW5hbHMtZ2FtZS0yLWFtaWQtaW5qdXJ5LmFtcC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "India vs Pakistan, T20 World Cup 2024: Know where to watch IND vs PAK live streaming and telecast in India and get ... - Olympics",
+                "description": "India vs Pakistan, T20 World Cup 2024: Know where to watch IND vs PAK live streaming and telecast in India and get ...  Olympics",
+                "published date": "Sat, 08 Jun 2024 11:02:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vb2x5bXBpY3MuY29tL2VuL25ld3MvaW5kaWEtdnMtcGFraXN0YW4tdDIwLXdvcmxkLWN1cC0yMDI0LWNyaWNrZXQtd2F0Y2gtbGl2ZS1zdHJlYW1pbmctdGVsZWNhc3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
+                    "href": "https://olympics.com",
+                    "title": "Olympics"
+                }
+            },
+            {
+                "title": "India beat Pakistan, India won by 6 runs - ESPNcricinfo",
+                "description": "India beat Pakistan, India won by 6 runs  ESPNcricinfo",
+                "published date": "Mon, 10 Jun 2024 09:44:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5lc3BuY3JpY2luZm8uY29tL3Nlcmllcy9pY2MtbWVuLXMtdDIwLXdvcmxkLWN1cC0yMDI0LTE0MTExNjYvaW5kaWEtdnMtcGFraXN0YW4tMTl0aC1tYXRjaC1ncm91cC1hLTE0MTU3MTkvbGl2ZS1jcmlja2V0LXNjb3Jl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espncricinfo.com",
+                    "title": "ESPNcricinfo"
+                }
+            },
+            {
+                "title": "How to get India vs. Pakistan tickets: Prices for the ICC T20 World Cup in New York - Business Insider",
+                "description": "How to get India vs. Pakistan tickets: Prices for the ICC T20 World Cup in New York  Business Insider",
+                "published date": "Fri, 07 Jun 2024 16:03:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZ3VpZGVzL3N0cmVhbWluZy9ob3ctdG8tZ2V0LWluZGlhLXZzLXBha2lzdGFuLWljYy1tZW5zLXQyMC13b3JsZC1jdXAtdGlja2V0c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.businessinsider.com",
+                    "title": "Business Insider"
+                }
+            },
+            {
+                "title": "T20 World Cup 2024: What happens if India Vs Pakistan match in New York is washed out? | Mint - Mint",
+                "description": "T20 World Cup 2024: What happens if India Vs Pakistan match in New York is washed out? | Mint  Mint",
+                "published date": "Sun, 09 Jun 2024 11:18:42 GMT",
+                "url": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vc3BvcnRzL2NyaWNrZXQtbmV3cy9pbmRpYS12cy1wYWtpc3Rhbi10MjAtd29ybGQtY3VwLXJhaW5zLXRodW5kZXJzdG9ybS10by1tYXItaW5kLXZzLXBhay1jbGFzaC13aGF0LXlvdS1uZWVkLXRvLWtub3ctMTE3MTc5MzExMDEyMDMuaHRtbNIBpQFodHRwczovL3d3dy5saXZlbWludC5jb20vc3BvcnRzL2NyaWNrZXQtbmV3cy9pbmRpYS12cy1wYWtpc3Rhbi10MjAtd29ybGQtY3VwLXJhaW5zLXRodW5kZXJzdG9ybS10by1tYXItaW5kLXZzLXBhay1jbGFzaC13aGF0LXlvdS1uZWVkLXRvLWtub3cvYW1wLTExNzE3OTMxMTAxMjAzLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.livemint.com",
+                    "title": "Mint"
+                }
+            },
+            {
+                "title": "India-Pakistan match at fever pitch as New York\u2019s game for more; city set to reap economic benefits of ove - The Economic Times",
+                "description": "India-Pakistan match at fever pitch as New York\u2019s game for more; city set to reap economic benefits of ove  The Economic Times",
+                "published date": "Sun, 09 Jun 2024 00:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbmRpYS9pbmRpYS1wYWstbWF0Y2gtYXQtZmV2ZXItcGl0Y2gtYXMtbmV3LXlvcmtzLWdhbWUtZm9yLW1vcmUtbnljLXNldC10by1yZWFwLWVjb25vbWljLWJlbmVmaXRzLW9mLW92ZXItNzhtL2FydGljbGVzaG93LzExMDgyNjE3MS5jbXPSAawBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvaW5kaWEvaW5kaWEtcGFrLW1hdGNoLWF0LWZldmVyLXBpdGNoLWFzLW5ldy15b3Jrcy1nYW1lLWZvci1tb3JlLW55Yy1zZXQtdG8tcmVhcC1lY29ub21pYy1iZW5lZml0cy1vZi1vdmVyLTc4bS9hbXBfYXJ0aWNsZXNob3cvMTEwODI2MTcxLmNtcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://m.economictimes.com",
+                    "title": "The Economic Times"
+                }
+            },
+            {
+                "title": "IND vs PAK: Shoaib Akhtar requests Pakistan team, \u2018Mulk ke liye khelna, not for individual records or personal milestones\u2019 - The Indian Express",
+                "description": "IND vs PAK: Shoaib Akhtar requests Pakistan team, \u2018Mulk ke liye khelna, not for individual records or personal milestones\u2019  The Indian Express",
+                "published date": "Sun, 09 Jun 2024 13:36:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMisAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvaW5kLXZzLXBhay1zaG9haWItYWtodGFycy1wbGVhLWZvci1wYWtpc3Rhbi10ZWFtLW11bGsta2UtbGl5ZS1raGVsbmEtbm90LWZvci1pbmRpdmlkdWFsLXJlY29yZHMtb3ItcGVyc29uYWwtbWlsZXN0b25lcy05MzgxNjc0L9IBtQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvaW5kLXZzLXBhay1zaG9haWItYWtodGFycy1wbGVhLWZvci1wYWtpc3Rhbi10ZWFtLW11bGsta2UtbGl5ZS1raGVsbmEtbm90LWZvci1pbmRpdmlkdWFsLXJlY29yZHMtb3ItcGVyc29uYWwtbWlsZXN0b25lcy05MzgxNjc0L2xpdGUv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://indianexpress.com",
+                    "title": "The Indian Express"
+                }
+            },
+            {
+                "title": "India vs Pakistan T20 World Cup 2024: How to book tickets in USA, cheapest price, availability, and more - Hindustan Times",
+                "description": "India vs Pakistan T20 World Cup 2024: How to book tickets in USA, cheapest price, availability, and more  Hindustan Times",
+                "published date": "Thu, 06 Jun 2024 14:09:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2luZGlhLXZzLXBha2lzdGFuLXQyMC13b3JsZC1jdXAtMjAyNC1ob3ctdG8tYm9vay10aWNrZXRzLWluLXVzYS1jaGVhcGVzdC1wcmljZS1hdmFpbGFiaWxpdHktYW5kLW1vcmUtMTAxNzE3NjgyNTMzNDU5Lmh0bWzSAa8BaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvdXMtbmV3cy9pbmRpYS12cy1wYWtpc3Rhbi10MjAtd29ybGQtY3VwLTIwMjQtaG93LXRvLWJvb2stdGlja2V0cy1pbi11c2EtY2hlYXBlc3QtcHJpY2UtYXZhaWxhYmlsaXR5LWFuZC1tb3JlLTEwMTcxNzY4MjUzMzQ1OS1hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.hindustantimes.com",
+                    "title": "Hindustan Times"
+                }
+            },
+            {
+                "title": "India vs Pakistan \u2013 T20 World Cup match: Teams, head-to-head, form, pitch - Al Jazeera English",
+                "description": "India vs Pakistan \u2013 T20 World Cup match: Teams, head-to-head, form, pitch  Al Jazeera English",
+                "published date": "Sun, 09 Jun 2024 08:29:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi85L2luZGlhLXZzLXBha2lzdGFuLWF0LXQyMC13b3JsZC1jdXAtdGVhbS1uZXdzLWhlYWQtdG8taGVhZC1mb3JtLXBpdGNo0gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzLzIwMjQvNi85L2luZGlhLXZzLXBha2lzdGFuLWF0LXQyMC13b3JsZC1jdXAtdGVhbS1uZXdzLWhlYWQtdG8taGVhZC1mb3JtLXBpdGNo?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "IND vs PAK, T20 World Cup 2024: India stun Pakistan in low-scoring thriller - Olympics",
+                "description": "IND vs PAK, T20 World Cup 2024: India stun Pakistan in low-scoring thriller  Olympics",
+                "published date": "Sun, 09 Jun 2024 19:46:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vb2x5bXBpY3MuY29tL2VuL25ld3MvdDIwLXdvcmxkLWN1cC0yMDI0LWluZGlhLXZzLXBha2lzdGFuLWNyaWNrZXQtbWF0Y2gtZ3JvdXAtYS1yZXN1bHQtc2NvcmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://olympics.com",
+                    "title": "Olympics"
                 }
             }
         ]
     },
     {
         "name": "Kyrie Irving",
-        "summary": "",
+        "summary": "Kyrie Irving has expressed regret for his previous behavior as a member of the Boston Celtics. After a difficult NBA Finals debut against his former team, Irving acknowledged that his previous visit to Boston had been a poor reflection of his character. Despite the hostile reception Irving received from Celtics fans, he remains proud of his Native American heritage. Irving's return to the NBA Finals stage has been met with mixed reactions, with some collectors admiring his shoes while others have expressed criticism. Irving's recent performance against the Celtics has extended his winless streak against his former team to three years. Despite the challenges, Irving has expressed appreciation for the compliments he has received from former teammate LeBron James.",
         "items": [
             {
                 "title": "Kyrie Irving on his last visit to Boston: 'That wasn't a great reflection of who I am' - NBC Sports",
@@ -690,16 +796,6 @@
                 }
             },
             {
-                "title": "Where does Kyrie Irving live? All about former Cavs star in NBA Finals - Akron Beacon Journal",
-                "description": "Where does Kyrie Irving live? All about former Cavs star in NBA Finals  Akron Beacon Journal",
-                "published date": "Wed, 05 Jun 2024 18:23:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5iZWFjb25qb3VybmFsLmNvbS9zdG9yeS9zcG9ydHMvbmJhLzIwMjQvMDYvMDUvd2hlcmUta3lyaWUtaXJ2aW5nLWxpdmUtYWJvdXQtZm9ybWVyLWNhdnMtc3Rhci1uYmEtZmluYWxzLzczOTgzODQ4MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.beaconjournal.com",
-                    "title": "Akron Beacon Journal"
-                }
-            },
-            {
                 "title": "Kyrie Irving shows a little remorse for his past antics in Boston - CBS Boston",
                 "description": "Kyrie Irving shows a little remorse for his past antics in Boston  CBS Boston",
                 "published date": "Tue, 04 Jun 2024 13:00:18 GMT",
@@ -720,16 +816,6 @@
                 }
             },
             {
-                "title": "NBA Champion Calls Out Kyrie Irving During Mavs-Celtics Game - Sports Illustrated",
-                "description": "NBA Champion Calls Out Kyrie Irving During Mavs-Celtics Game  Sports Illustrated",
-                "published date": "Mon, 10 Jun 2024 03:17:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vbmJhL2Zhc3RicmVhay9uYmEtY2hhbXBpb24tY2FsbHMtb3V0LWt5cmllLWlydmluZy1rZW5kcmljay1wZXJraW5zLWdhbWUtMi1tYXZzLWNlbHRpY3MtbmJhLWZpbmFsc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
                 "title": "Kyrie Irving's Shoes Draw Stares From Collectors and Congress - Sportico",
                 "description": "Kyrie Irving's Shoes Draw Stares From Collectors and Congress  Sportico",
                 "published date": "Fri, 07 Jun 2024 12:04:56 GMT",
@@ -738,118 +824,32 @@
                     "href": "https://www.sportico.com",
                     "title": "Sportico"
                 }
-            }
-        ]
-    },
-    {
-        "name": "Canadian Grand Prix",
-        "summary": "The 2024 Formula One Canadian Grand Prix offers thrilling racing action in Montreal. ESPN provides details on how to watch the event. Reuters provides statistics and insights into the Grand Prix. For in-depth coverage, USA TODAY offers a comprehensive guide with viewing information, odds, and a weekend schedule. Yahoo Sports provides instructions on streaming the race without cable. The Associated Press reports on Russell's pole position, while CBS Sports analyzes predictions and offers betting recommendations. The Athletic provides live updates during the race. Formula 1 offers official streaming options. RACER covers technical updates related to the Grand Prix, and Sports Illustrated provides information on viewing the event. With these resources, fans can stay informed about the exciting 2024 Canadian Grand Prix.",
-        "items": [
-            {
-                "title": "How to watch 2024 Canadian Grand Prix - ESPN",
-                "description": "How to watch 2024 Canadian Grand Prix  ESPN",
-                "published date": "Fri, 07 Jun 2024 16:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmVzcG4uY29tL2F1dG8vc3RvcnkvXy9pZC80MDI5ODM0OC9ob3ctd2F0Y2gtMjAyNC1jYW5hZGlhbi1ncmFuZC1wcml4LWVzcG4tc2NoZWR1bGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
             },
             {
-                "title": "Formula One statistics for the Canadian Grand Prix - Reuters",
-                "description": "Formula One statistics for the Canadian Grand Prix  Reuters",
-                "published date": "Wed, 05 Jun 2024 23:28:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9mb3JtdWxhMS9mb3JtdWxhLW9uZS1zdGF0aXN0aWNzLWNhbmFkaWFuLWdyYW5kLXByaXgtMjAyNC0wNi0wNS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters"
-                }
-            },
-            {
-                "title": "F1 Canadian Grand Prix: How to watch, odds, and weekend schedule for Montreal - USA TODAY",
-                "description": "F1 Canadian Grand Prix: How to watch, odds, and weekend schedule for Montreal  USA TODAY",
-                "published date": "Wed, 05 Jun 2024 10:35:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbW90b3IvZm9ybXVsYTEvMjAyNC8wNi8wNS9mMS1jYW5hZGlhbi1ncmFuZC1wcml4LWhvdy10by13YXRjaC1vZGRzLXNjaGVkdWxlLzczOTc3NDY3MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Emilia Romagna Grand Prix 2024: How to watch the next F1 race without cable - Yahoo Sports",
-                "description": "Emilia Romagna Grand Prix 2024: How to watch the next F1 race without cable  Yahoo Sports",
-                "published date": "Sun, 09 Jun 2024 17:56:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9jYW5hZGlhbi1ncmFuZC1wcml4LTIwMjQtaG93LXRvLXdhdGNoLXRvZGF5cy1mMS1yYWNlLXdpdGhvdXQtY2FibGUtMTEzNDUyODk4Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
-                }
-            },
-            {
-                "title": "Russell takes Canadian Grand Prix pole, edging F1 points leader Verstappen on tiebreaker - The Associated Press",
-                "description": "Russell takes Canadian Grand Prix pole, edging F1 points leader Verstappen on tiebreaker  The Associated Press",
-                "published date": "Sat, 08 Jun 2024 23:44:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2YxLWNhbmFkaWFuLWdyYW5kLXByaXgtbW9udHJlYWwtNGQ1ODNkNzAyMjdkNjk3ZTYyZTc5MTc2YzMyZTQxNDjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "Formula 1 picks, odds, time, grid: 2024 Canadian Grand Prix predictions, F1 best bets from proven model - CBS Sports",
-                "description": "Formula 1 picks, odds, time, grid: 2024 Canadian Grand Prix predictions, F1 best bets from proven model  CBS Sports",
-                "published date": "Fri, 07 Jun 2024 15:40:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21vdG9yLXNwb3J0cy9uZXdzL2Zvcm11bGEtMS1waWNrcy1vZGRzLXRpbWUtZ3JpZC0yMDI0LWNhbmFkaWFuLWdyYW5kLXByaXgtcHJlZGljdGlvbnMtZjEtYmVzdC1iZXRzLWZyb20tcHJvdmVuLW1vZGVsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NBA Finals: Kyrie Irving's Game 1 dud vs. Celtics extends three-year winless streak against former team - CBS Sports",
+                "description": "NBA Finals: Kyrie Irving's Game 1 dud vs. Celtics extends three-year winless streak against former team  CBS Sports",
+                "published date": "Fri, 07 Jun 2024 04:36:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL25iYS1maW5hbHMta3lyaWUtaXJ2aW5ncy1nYW1lLTEtZHVkLXZzLWNlbHRpY3MtZXh0ZW5kcy10aHJlZS15ZWFyLXdpbmxlc3Mtc3RyZWFrLWFnYWluc3QtZm9ybWVyLXRlYW0v0gGMAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmJhL25ld3MvbmJhLWZpbmFscy1reXJpZS1pcnZpbmdzLWdhbWUtMS1kdWQtdnMtY2VsdGljcy1leHRlbmRzLXRocmVlLXllYXItd2lubGVzcy1zdHJlYWstYWdhaW5zdC1mb3JtZXItdGVhbS9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
                 }
             },
             {
-                "title": "F1 Canadian GP live updates: Verstappen wins wild race ahead of Norris, Russell - The Athletic - The New York Times",
-                "description": "F1 Canadian GP live updates: Verstappen wins wild race ahead of Norris, Russell - The Athletic  The New York Times",
-                "published date": "Sun, 09 Jun 2024 22:58:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljL2xpdmUtYmxvZ3MvZjEtY2FuYWRpYW4tZ3AtbGl2ZS11cGRhdGVzLXJhY2UtdG9kYXktcmVzdWx0cy9rdTJZQlJ0bFpHTngv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Mavs' Kyrie Irving appreciative of LeBron James' compliments - ESPN",
+                "description": "Mavs' Kyrie Irving appreciative of LeBron James' compliments  ESPN",
+                "published date": "Wed, 05 Jun 2024 23:55:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMjg2OTQ2L21hdnMta3lyaWUtaXJ2aW5nLWFwcHJlY2lhdGl2ZS1sZWJyb24tamFtZXMtY29tcGxpbWVudHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "How to stream the Formula 1 2024 Canadian Grand Prix - Formula 1",
-                "description": "How to stream the Formula 1 2024 Canadian Grand Prix  Formula 1",
-                "published date": "Wed, 05 Jun 2024 15:04:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5mb3JtdWxhMS5jb20vZW4vbGF0ZXN0L2FydGljbGUvaG93LXRvLXN0cmVhbS10aGUtZm9ybXVsYS0xLTIwMjQtY2FuYWRpYW4tZ3JhbmQtcHJpeC1vbi1mMS10di1wcm8uMlFIcEJCVnRTNUtRZXpwRXZCc3JtUNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.formula1.com",
-                    "title": "Formula 1"
-                }
-            },
-            {
-                "title": "Technical updates: 2024 Canadian Grand Prix - RACER",
-                "description": "Technical updates: 2024 Canadian Grand Prix  RACER",
-                "published date": "Fri, 07 Jun 2024 15:43:25 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vcmFjZXIuY29tLzIwMjQvMDYvMDcvdGVjaG5pY2FsLXVwZGF0ZXMtMjAyNC1jYW5hZGlhbi1ncmFuZC1wcml4L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://racer.com",
-                    "title": "RACER"
-                }
-            },
-            {
-                "title": "F1: When And How To Watch The 2024 Canadian Grand Prix - Sports Illustrated",
-                "description": "F1: When And How To Watch The 2024 Canadian Grand Prix  Sports Illustrated",
-                "published date": "Mon, 03 Jun 2024 12:55:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vcmFjaW5nL2YxYnJpZWZpbmdzL25ld3MvZjEtd2hlbi1hbmQtaG93LXRvLXdhdGNoLXRoZS0yMDI0LWNhbmFkaWFuLWdyYW5kLXByaXgtMDFoemV0dzdrNmRyLWxtMjLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
                 }
             }
         ]
     },
     {
         "name": "Xbox Showcase 2024",
-        "summary": "",
+        "summary": "The Xbox Games Showcase 2024 unveiled numerous upcoming releases and updates. The highly anticipated 'Call of Duty: Black Ops 6' \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0434\u0430\u0442\u0443 \u0432\u044b\u0445\u043e\u0434\u0430. The 'Fable' franchise was rebooted, promising a thrilling return. 'Gears of War: E-Day' was announced, offering a prequel to the beloved series. Additionally, a 'Doom' prequel was revealed, expanding the game's lore. Various other announcements were made, including release dates, and trailers for a wide range of games. The showcase generated excitement among gamers, providing insights into the future of Xbox gaming.",
         "items": [
             {
                 "title": "Xbox Games Showcase Reveals \u2018Call of Duty: Black Ops 6\u2019 Release Date, \u2018Gears of War: E-Day,\u2019 \u2018Doom\u2019 Prequel, \u2018Fable\u2019 Reboot and More - Variety",
@@ -864,31 +864,11 @@
             {
                 "title": "Xbox Games Showcase 2024: all the news, trailers, and announcements - The Verge",
                 "description": "Xbox Games Showcase 2024: all the news, trailers, and announcements  The Verge",
-                "published date": "Sun, 09 Jun 2024 18:25:26 GMT",
+                "published date": "Mon, 10 Jun 2024 08:15:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yNDE3MzYwMS94Ym94LWdhbWVzLXNob3djYXNlLWp1bmUtMjAyNC1taWNyb3NvZnTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.theverge.com",
                     "title": "The Verge"
-                }
-            },
-            {
-                "title": "Xbox Games Showcase 2024 + Black Ops 6 Direct: How to watch and what to expect - Digital Trends",
-                "description": "Xbox Games Showcase 2024 + Black Ops 6 Direct: How to watch and what to expect  Digital Trends",
-                "published date": "Wed, 05 Jun 2024 11:00:11 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL2dhbWluZy94Ym94LWdhbWVzLXNob3djYXNlLTIwMjQtaG93LXRvLXdhdGNoL9IBT2h0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL2dhbWluZy94Ym94LWdhbWVzLXNob3djYXNlLTIwMjQtaG93LXRvLXdhdGNoLz9hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.digitaltrends.com",
-                    "title": "Digital Trends"
-                }
-            },
-            {
-                "title": "Xbox Games Showcase 2024: What we expect to see including Call of Duty, Hollow Knight Silksong and Indiana Jones - Marca English",
-                "description": "Xbox Games Showcase 2024: What we expect to see including Call of Duty, Hollow Knight Silksong and Indiana Jones  Marca English",
-                "published date": "Thu, 06 Jun 2024 19:26:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm1hcmNhLmNvbS9lbi90ZWNobm9sb2d5L2dhbWluZy8yMDI0LzA2LzA2LzY2NjFmNmExY2E0NzQxYzg2ZDhiNDViYS5odG1s0gFTaHR0cHM6Ly9hbXAubWFyY2EuY29tL2VuL3RlY2hub2xvZ3kvZ2FtaW5nLzIwMjQvMDYvMDYvNjY2MWY2YTFjYTQ3NDFjODZkOGI0NWJhLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.marca.com",
-                    "title": "Marca English"
                 }
             },
             {
@@ -902,10 +882,20 @@
                 }
             },
             {
-                "title": "Xbox Games Showcase 2024: When it starts, how to watch, what to expect - Polygon",
-                "description": "Xbox Games Showcase 2024: When it starts, how to watch, what to expect  Polygon",
-                "published date": "Fri, 07 Jun 2024 20:30:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTczODUxL3hib3gtZ2FtZXMtc2hvd2Nhc2UtZGF0ZS10aW1lLWhvdy13aGVyZS10by13YXRjaC1zdW1tZXItZ2FtZS1mZXN00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Everything announced at Xbox Games Showcase 2024 - Digital Trends",
+                "description": "Everything announced at Xbox Games Showcase 2024  Digital Trends",
+                "published date": "Sun, 09 Jun 2024 16:55:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL2dhbWluZy94Ym94LWdhbWVzLXNob3djYXNlLTIwMjQtZXZlcnl0aGluZy1hbm5vdW5jZWQv0gFXaHR0cHM6Ly93d3cuZGlnaXRhbHRyZW5kcy5jb20vZ2FtaW5nL3hib3gtZ2FtZXMtc2hvd2Nhc2UtMjAyNC1ldmVyeXRoaW5nLWFubm91bmNlZC8_YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.digitaltrends.com",
+                    "title": "Digital Trends"
+                }
+            },
+            {
+                "title": "Xbox Games Showcase 2024: All announcements, release dates, and trailers - Polygon",
+                "description": "Xbox Games Showcase 2024: All announcements, release dates, and trailers  Polygon",
+                "published date": "Sun, 09 Jun 2024 18:23:29 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTcyMDkwL21pY3Jvc29mdC14Ym94LXNob3djYXNlLWp1bmUtMjAyNC1hbm5vdW5jZW1lbnQtcmV2ZWFs0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.polygon.com",
                     "title": "Polygon"
@@ -922,13 +912,13 @@
                 }
             },
             {
-                "title": "Xbox Games Showcase 2024 Predictions! - XboxEra",
-                "description": "Xbox Games Showcase 2024 Predictions!  XboxEra",
-                "published date": "Wed, 05 Jun 2024 20:55:28 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8veGJveGVyYS5jb20vMjAyNC8wNi8wNS94Ym94LWdhbWVzLXNob3djYXNlLTIwMjQtcHJlZGljdGlvbnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Xbox Games Showcase 2024: Games list and every announcement made today - Marca English",
+                "description": "Xbox Games Showcase 2024: Games list and every announcement made today  Marca English",
+                "published date": "Sun, 09 Jun 2024 18:29:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1hcmNhLmNvbS9lbi90ZWNobm9sb2d5L2dhbWluZy8yMDI0LzA2LzA5LzY2NjVjMDgzYjE1NzBjMDAyNTM1ZjE0MS1saXZlLmh0bWzSAVhodHRwczovL2FtcC5tYXJjYS5jb20vZW4vdGVjaG5vbG9neS9nYW1pbmcvMjAyNC8wNi8wOS82NjY1YzA4M2IxNTcwYzAwMjUzNWYxNDEtbGl2ZS5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://xboxera.com",
-                    "title": "XboxEra"
+                    "href": "https://www.marca.com",
+                    "title": "Marca English"
                 }
             },
             {
@@ -950,12 +940,22 @@
                     "href": "https://www.gamesradar.com",
                     "title": "Gamesradar"
                 }
+            },
+            {
+                "title": "Xbox Games Showcase 2024 countdown, schedule, and time - Esports.gg",
+                "description": "Xbox Games Showcase 2024 countdown, schedule, and time  Esports.gg",
+                "published date": "Fri, 07 Jun 2024 15:34:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZXNwb3J0cy5nZy9uZXdzL2dhbWluZy94Ym94LWdhbWVzLXNob3djYXNlLTIwMjQtY291bnRkb3duLXNjaGVkdWxlLWFuZC10aW1lL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://esports.gg",
+                    "title": "Esports.gg"
+                }
             }
         ]
     },
     {
         "name": "Michael Mosley",
-        "summary": "",
+        "summary": "The body of British TV presenter Michael Mosley has been found after he was reported missing on the Greek island of Symi. The 69-year-old doctor and television personality had been missing since last Thursday, prompting a large-scale search operation. His family has confirmed his death, but the exact circumstances surrounding his demise remain unclear. Authorities are investigating how Mosley's body was not found sooner, given that it was located just 100 yards from a path.",
         "items": [
             {
                 "title": "Michael Mosley: The family of missing British TV presenter confirm his death - The Associated Press",
@@ -1018,13 +1018,13 @@
                 }
             },
             {
-                "title": "Body found in search for missing British TV doctor Michael Mosley - CNN",
-                "description": "Body found in search for missing British TV doctor Michael Mosley  CNN",
-                "published date": "Sun, 09 Jun 2024 20:10:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wOS9ldXJvcGUvbWljaGFlbC1tb3NsZXktc2VhcmNoLWJvZHktZm91bmQtaW50bC9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wOS9ldXJvcGUvbWljaGFlbC1tb3NsZXktc2VhcmNoLWJvZHktZm91bmQtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "'Mystery' over how Michael Mosley not found sooner as coroner reveals findings - live - The Independent",
+                "description": "'Mystery' over how Michael Mosley not found sooner as coroner reveals findings - live  The Independent",
+                "published date": "Mon, 10 Jun 2024 11:55:24 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvZXVyb3BlL21pY2hhZWwtbW9zbGV5LW1pc3NpbmctZG9jdG9yLWdyZWVjZS1zZWFyY2gtc3ltaS1sYXRlc3QtYjI1NTk1NTQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
+                    "href": "https://www.independent.co.uk",
+                    "title": "The Independent"
                 }
             },
             {
@@ -1038,39 +1038,39 @@
                 }
             },
             {
-                "title": "British TV personality Michael Mosley missing in Greece - NBC News",
-                "description": "British TV personality Michael Mosley missing in Greece  NBC News",
-                "published date": "Sat, 08 Jun 2024 02:19:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25vdy92aWRlby9icml0aXNoLXR2LXBlcnNvbmFsaXR5LW1pY2hhZWwtbW9zbGV5LW1pc3NpbmctaW4tZ3JlZWNlLTIxMjU1Mjc3MzkxNdIBN2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wLXZpZGVvL21tdm8yMTI1NTI3NzM5MTU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Body found in search for missing British TV doctor Michael Mosley - CNN",
+                "description": "Body found in search for missing British TV doctor Michael Mosley  CNN",
+                "published date": "Sun, 09 Jun 2024 20:10:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wOS9ldXJvcGUvbWljaGFlbC1tb3NsZXktc2VhcmNoLWJvZHktZm91bmQtaW50bC9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wOS9ldXJvcGUvbWljaGFlbC1tb3NsZXktc2VhcmNoLWJvZHktZm91bmQtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
-                "title": "British TV Doctor Michael Mosley Found Dead on Greek Island - Variety",
-                "description": "British TV Doctor Michael Mosley Found Dead on Greek Island  Variety",
-                "published date": "Sun, 09 Jun 2024 19:31:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL21pY2hhZWwtbW9zbGV5LWZvdW5kLWRlYWQtYmJjLWRvY3Rvci0xMjM2MDMwMDg3L9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL21pY2hhZWwtbW9zbGV5LWZvdW5kLWRlYWQtYmJjLWRvY3Rvci0xMjM2MDMwMDg3L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Mystery over Michael Mosley\u2019s last moments as he was found 100 yards from help after collapse in u... - The Sun",
+                "description": "Mystery over Michael Mosley\u2019s last moments as he was found 100 yards from help after collapse in u...  The Sun",
+                "published date": "Sun, 09 Jun 2024 21:00:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay90dmFuZHNob3diaXovMjg0MDE2MDIvbWljaGFlbC1tb3NsZXktZmluYWwtbW9tZW50cy1iYWNrcGFjay1teXN0ZXJ5L9IBYWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay90dmFuZHNob3diaXovMjg0MDE2MDIvbWljaGFlbC1tb3NsZXktZmluYWwtbW9tZW50cy1iYWNrcGFjay1teXN0ZXJ5L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
+                    "href": "https://www.thesun.co.uk",
+                    "title": "The Sun"
                 }
             }
         ]
     },
     {
         "name": "Darren Waller",
-        "summary": "",
+        "summary": "Darren Waller, the 31-year-old tight end for the New York Giants, has announced his retirement from the NFL after eight seasons. The decision came after a health scare last season, and Waller's departure is expected to significantly impact the Giants' roster. Despite speculation, Waller had not yet made a definitive decision about playing in 2024 until his recent announcement. His retirement has sparked discussion about the team's future plans and the implications for other players. Notably, Waller's retirement video has also shed light on his near-death experience during the previous season.",
         "items": [
             {
-                "title": "Sources: Giants expecting TE Waller to retire - ESPN",
-                "description": "Sources: Giants expecting TE Waller to retire  ESPN",
-                "published date": "Mon, 03 Jun 2024 12:18:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjY4NTM5L3NvdXJjZXMtZ2lhbnRzLWV4cGVjdGluZy10ZS1kYXJyZW4td2FsbGVyLXJldGlyZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Giants' Darren Waller announces retirement from the NFL following health scare, Kelsey Plum divorce filing - CBS News",
+                "description": "Giants' Darren Waller announces retirement from the NFL following health scare, Kelsey Plum divorce filing  CBS News",
+                "published date": "Mon, 10 Jun 2024 00:42:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGFycmVuLXdhbGxlci1yZXRpcmVzLWdpYW50cy_SAT5odHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kYXJyZW4td2FsbGVyLXJldGlyZXMtZ2lhbnRzLw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
@@ -1084,16 +1084,6 @@
                 }
             },
             {
-                "title": "Giants' Darren Waller announces retirement from the NFL following health scare, Kelsey Plum divorce filing - CBS News",
-                "description": "Giants' Darren Waller announces retirement from the NFL following health scare, Kelsey Plum divorce filing  CBS News",
-                "published date": "Mon, 10 Jun 2024 00:42:18 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGFycmVuLXdhbGxlci1yZXRpcmVzLWdpYW50cy_SAT5odHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kYXJyZW4td2FsbGVyLXJldGlyZXMtZ2lhbnRzLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
                 "title": "TE Darren Waller reportedly expected to retire ahead of Giants' mandatory minicamp - Yahoo Sports",
                 "description": "TE Darren Waller reportedly expected to retire ahead of Giants' mandatory minicamp  Yahoo Sports",
                 "published date": "Mon, 03 Jun 2024 14:48:17 GMT",
@@ -1101,6 +1091,26 @@
                 "publisher": {
                     "href": "https://sports.yahoo.com",
                     "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "What Darren Waller's retirement means for the New York Giants - ESPN",
+                "description": "What Darren Waller's retirement means for the New York Giants  ESPN",
+                "published date": "Sun, 09 Jun 2024 20:10:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjkyNzgzL3doYXQtZGFycmVuLXdhbGxlci1yZXRpcmVtZW50LW1lYW5zLW5ldy15b3JrLWdpYW50c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "Ex-Giants, Raiders TE Darren Waller announces retirement after eight NFL seasons - NFL.com",
+                "description": "Ex-Giants, Raiders TE Darren Waller announces retirement after eight NFL seasons  NFL.com",
+                "published date": "Sun, 09 Jun 2024 19:54:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy90ZS1kYXJyZW4td2FsbGVyLWluZm9ybXMtZ2lhbnRzLXRoYXQtaGUtcGxhbnMtdG8tcmV0aXJlLWFmdGVyLWVpZ2h0LW5mbC1zZWFzb25z0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nfl.com",
+                    "title": "NFL.com"
                 }
             },
             {
@@ -1124,16 +1134,6 @@
                 }
             },
             {
-                "title": "Darren Waller reveals near-death experience from last season in Giants retirement video - New York Post",
-                "description": "Darren Waller reveals near-death experience from last season in Giants retirement video  New York Post ",
-                "published date": "Mon, 10 Jun 2024 01:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA5L3Nwb3J0cy9kYXJyZW4td2FsbGVyLXJldmVhbHMtbmVhci1kZWF0aC1leHBlcmllbmNlLWluLWdpYW50cy1yZXRpcmVtZW50LXZpZGVvL9IBcGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA5L3Nwb3J0cy9kYXJyZW4td2FsbGVyLXJldmVhbHMtbmVhci1kZWF0aC1leHBlcmllbmNlLWluLWdpYW50cy1yZXRpcmVtZW50LXZpZGVvL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
                 "title": "NY Giants Darren Waller retirement uncertainty nears likely end - NorthJersey.com",
                 "description": "NY Giants Darren Waller retirement uncertainty nears likely end  NorthJersey.com",
                 "published date": "Tue, 04 Jun 2024 08:05:39 GMT",
@@ -1141,6 +1141,16 @@
                 "publisher": {
                     "href": "https://www.northjersey.com",
                     "title": "NorthJersey.com"
+                }
+            },
+            {
+                "title": "Darren Waller reveals near-death experience from last season in Giants retirement video - New York Post",
+                "description": "Darren Waller reveals near-death experience from last season in Giants retirement video  New York Post ",
+                "published date": "Mon, 10 Jun 2024 01:33:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA5L3Nwb3J0cy9kYXJyZW4td2FsbGVyLXJldmVhbHMtbmVhci1kZWF0aC1leHBlcmllbmNlLWluLWdpYW50cy1yZXRpcmVtZW50LXZpZGVvL9IBcGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA5L3Nwb3J0cy9kYXJyZW4td2FsbGVyLXJldmVhbHMtbmVhci1kZWF0aC1leHBlcmllbmNlLWluLWdpYW50cy1yZXRpcmVtZW50LXZpZGVvL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
                 }
             },
             {
@@ -1152,31 +1162,21 @@
                     "href": "https://www.foxnews.com",
                     "title": "Fox News"
                 }
-            },
-            {
-                "title": "Ex-Giants, Raiders TE Darren Waller announces retirement after eight NFL seasons - NFL.com",
-                "description": "Ex-Giants, Raiders TE Darren Waller announces retirement after eight NFL seasons  NFL.com",
-                "published date": "Sun, 09 Jun 2024 19:54:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy90ZS1kYXJyZW4td2FsbGVyLWluZm9ybXMtZ2lhbnRzLXRoYXQtaGUtcGxhbnMtdG8tcmV0aXJlLWFmdGVyLWVpZ2h0LW5mbC1zZWFzb25z0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nfl.com",
-                    "title": "NFL.com"
-                }
             }
         ]
     },
     {
         "name": "Disneyland employee dies golf cart",
-        "summary": "",
+        "summary": "A sad incident occurred at Disneyland Resort, resulting in the tragic death of an employee. According to several news sources, including NBC News, NBC Los Angeles, FOX 13 Tampa, CBS News, Hollywood Reporter, Los Angeles Times, The Associated Press, Variety, OCRegister, and Fox News, the employee, who was the manager of Club 33, passed away after falling from a moving golf cart in a backstage area of the theme park. The exact circumstances surrounding the accident are still being investigated, and no further details have been released. The news of the employee's passing has saddened many, and condolences have been expressed for their family and friends.",
         "items": [
             {
-                "title": "Disneyland employee dies after fall from golf cart - Los Angeles Times",
-                "description": "Disneyland employee dies after fall from golf cart  Los Angeles Times",
-                "published date": "Sat, 08 Jun 2024 18:56:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNi0wOC9kaXNuZXlsYW5kLWVtcGxveWVlLWRpZXMtYWZ0ZXItZmFsbC1mcm9tLWdvbGYtY2FydNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Disneyland Resort employee dies after golf cart mishap - NBC News",
+                "description": "Disneyland Resort employee dies after golf cart mishap  NBC News",
+                "published date": "Sun, 09 Jun 2024 15:05:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvZGlzbmV5bGFuZC1yZXNvcnQtZW1wbG95ZWUtZGllcy1nb2xmLWNhcnQtbWlzaGFwLXJjbmExNTYyMTHSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTU2MjEx?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             },
             {
@@ -1190,6 +1190,16 @@
                 }
             },
             {
+                "title": "Disneyland employee dies after falling from moving golf cart at theme park - FOX 13 Tampa",
+                "description": "Disneyland employee dies after falling from moving golf cart at theme park  FOX 13 Tampa",
+                "published date": "Sun, 09 Jun 2024 16:03:35 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveDEzbmV3cy5jb20vbmV3cy9kaXNuZXlsYW5kLWVtcGxveWVlLWRpZXMtYWZ0ZXItZmFsbGluZy1mcm9tLW1vdmluZy1nb2xmLWNhcnQtdGhlbWUtcGFyay1iYWNrc3RhZ2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fox13news.com",
+                    "title": "FOX 13 Tampa"
+                }
+            },
+            {
                 "title": "Disneyland employee dies after falling off moving golf cart at theme park - CBS News",
                 "description": "Disneyland employee dies after falling off moving golf cart at theme park  CBS News",
                 "published date": "Sun, 09 Jun 2024 00:42:24 GMT",
@@ -1197,26 +1207,6 @@
                 "publisher": {
                     "href": "https://www.cbsnews.com",
                     "title": "CBS News"
-                }
-            },
-            {
-                "title": "Disneyland Resort employee dies after golf cart mishap - NBC News",
-                "description": "Disneyland Resort employee dies after golf cart mishap  NBC News",
-                "published date": "Sun, 09 Jun 2024 15:05:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvZGlzbmV5bGFuZC1yZXNvcnQtZW1wbG95ZWUtZGllcy1nb2xmLWNhcnQtbWlzaGFwLXJjbmExNTYyMTHSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTU2MjEx?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
-                }
-            },
-            {
-                "title": "Club 33 manager dies in \u2018tragic\u2019 Disneyland accident - OCRegister",
-                "description": "Club 33 manager dies in \u2018tragic\u2019 Disneyland accident  OCRegister",
-                "published date": "Sat, 08 Jun 2024 18:02:11 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDYvMDgvY2x1Yi0zMy1tYW5hZ2VyLWRpZXMtaW4tdHJhZ2ljLWRpc25leWxhbmQtYWNjaWRlbnQv0gFdaHR0cHM6Ly93d3cub2NyZWdpc3Rlci5jb20vMjAyNC8wNi8wOC9jbHViLTMzLW1hbmFnZXItZGllcy1pbi10cmFnaWMtZGlzbmV5bGFuZC1hY2NpZGVudC9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.ocregister.com",
-                    "title": "OCRegister"
                 }
             },
             {
@@ -1230,13 +1220,13 @@
                 }
             },
             {
-                "title": "Disneyland Employee Dies After Falling From Moving Golf Cart at Theme Park - Variety",
-                "description": "Disneyland Employee Dies After Falling From Moving Golf Cart at Theme Park  Variety",
-                "published date": "Sat, 08 Jun 2024 23:41:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvZGlzbmV5bGFuZC1lbXBsb3llZS1kZWFkLWdvbGYtY2FydC1hY2NpZGVudC0xMjM2MDI5NzY1L9IBXmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvZGlzbmV5bGFuZC1lbXBsb3llZS1kZWFkLWdvbGYtY2FydC1hY2NpZGVudC0xMjM2MDI5NzY1L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Disneyland employee dies after fall from golf cart - Los Angeles Times",
+                "description": "Disneyland employee dies after fall from golf cart  Los Angeles Times",
+                "published date": "Sat, 08 Jun 2024 18:56:43 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNi0wOC9kaXNuZXlsYW5kLWVtcGxveWVlLWRpZXMtYWZ0ZXItZmFsbC1mcm9tLWdvbGYtY2FydNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
+                    "href": "https://www.latimes.com",
+                    "title": "Los Angeles Times"
                 }
             },
             {
@@ -1250,6 +1240,26 @@
                 }
             },
             {
+                "title": "Disneyland Employee Dies After Falling From Moving Golf Cart at Theme Park - Variety",
+                "description": "Disneyland Employee Dies After Falling From Moving Golf Cart at Theme Park  Variety",
+                "published date": "Sat, 08 Jun 2024 23:41:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvZGlzbmV5bGFuZC1lbXBsb3llZS1kZWFkLWdvbGYtY2FydC1hY2NpZGVudC0xMjM2MDI5NzY1L9IBXmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvZGlzbmV5bGFuZC1lbXBsb3llZS1kZWFkLWdvbGYtY2FydC1hY2NpZGVudC0xMjM2MDI5NzY1L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
+                "title": "Club 33 manager dies in \u2018tragic\u2019 Disneyland accident - OCRegister",
+                "description": "Club 33 manager dies in \u2018tragic\u2019 Disneyland accident  OCRegister",
+                "published date": "Sat, 08 Jun 2024 18:02:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDYvMDgvY2x1Yi0zMy1tYW5hZ2VyLWRpZXMtaW4tdHJhZ2ljLWRpc25leWxhbmQtYWNjaWRlbnQv0gFdaHR0cHM6Ly93d3cub2NyZWdpc3Rlci5jb20vMjAyNC8wNi8wOC9jbHViLTMzLW1hbmFnZXItZGllcy1pbi10cmFnaWMtZGlzbmV5bGFuZC1hY2NpZGVudC9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.ocregister.com",
+                    "title": "OCRegister"
+                }
+            },
+            {
                 "title": "Disneyland employee dies after falling off golf cart at California theme park - Fox News",
                 "description": "Disneyland employee dies after falling off golf cart at California theme park  Fox News",
                 "published date": "Sun, 09 Jun 2024 06:39:00 GMT",
@@ -1258,22 +1268,12 @@
                     "href": "https://www.foxnews.com",
                     "title": "Fox News"
                 }
-            },
-            {
-                "title": "Disneyland employee dies after falling off golf cart, hitting her head at theme park - WFTV Orlando",
-                "description": "Disneyland employee dies after falling off golf cart, hitting her head at theme park  WFTV Orlando",
-                "published date": "Sun, 09 Jun 2024 15:15:47 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy53ZnR2LmNvbS9uZXdzL3RyZW5kaW5nL2Rpc25leWxhbmQtZW1wbG95ZWUtZGllcy1hZnRlci1mYWxsaW5nLW9mZi1nb2xmLWNhcnQtaGl0dGluZy1oZXItaGVhZC10aGVtZS1wYXJrL0YzNTVQRDZZNkpDQTdKQzZVSTNVQjJUNlA0L9IBngFodHRwczovL3d3dy53ZnR2LmNvbS9uZXdzL3RyZW5kaW5nL2Rpc25leWxhbmQtZW1wbG95ZWUtZGllcy1hZnRlci1mYWxsaW5nLW9mZi1nb2xmLWNhcnQtaGl0dGluZy1oZXItaGVhZC10aGVtZS1wYXJrL0YzNTVQRDZZNkpDQTdKQzZVSTNVQjJUNlA0Lz9vdXRwdXRUeXBlPWFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wftv.com",
-                    "title": "WFTV Orlando"
-                }
             }
         ]
     },
     {
         "name": "Alexander Zverev",
-        "summary": "",
+        "summary": "German tennis star Alexander Zverev has settled a domestic abuse case with his ex-partner, leading to the dismissal of a court case against him. Despite this settlement, tennis officials remain uncertain about the implications for the sport. Zverev's settlement comes amid his participation in the French Open, where he reached the final but lost to Carlos Alcaraz. Zverev has since been eliminated in the quarter-finals of Wimbledon and faces an ongoing trial in Germany related to the abuse allegations. Experts are predicting the outcome of his upcoming semifinal match against Casper Ruud in the 2024 French Open.",
         "items": [
             {
                 "title": "German court drops case against tennis star Alexander Zverev after settlement with his ex-partner - The Associated Press",
@@ -1306,13 +1306,13 @@
                 }
             },
             {
-                "title": "Carlos Alcaraz beats Alexander Zverev in five sets to win first French Open title - CBS News",
-                "description": "Carlos Alcaraz beats Alexander Zverev in five sets to win first French Open title  CBS News",
-                "published date": "Sun, 09 Jun 2024 23:58:35 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYWxleGFuZGVyLXp2ZXJldi1jYXJsb3MtYWxjYXJhei1mcmVuY2gtb3Blbi1maW5hbC1yb2xhbmQtZ2Fycm9zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Alexander Zverev on Carlos Alcaraz: 'He played fantastic' - ATP Tour",
+                "description": "Alexander Zverev on Carlos Alcaraz: 'He played fantastic'  ATP Tour",
+                "published date": "Sun, 09 Jun 2024 19:45:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmF0cHRvdXIuY29tL2VuL25ld3MvenZlcmV2LXJvbGFuZC1nYXJyb3MtMjAyNC1maW5hbC1yZWFjdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
+                    "href": "https://www.atptour.com",
+                    "title": "ATP Tour"
                 }
             },
             {
@@ -1326,30 +1326,30 @@
                 }
             },
             {
-                "title": "Alexander Zverev on Carlos Alcaraz: 'He played fantastic' - ATP Tour",
-                "description": "Alexander Zverev on Carlos Alcaraz: 'He played fantastic'  ATP Tour",
-                "published date": "Sun, 09 Jun 2024 19:45:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmF0cHRvdXIuY29tL2VuL25ld3MvenZlcmV2LXJvbGFuZC1nYXJyb3MtMjAyNC1maW5hbC1yZWFjdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Carlos Alcaraz beats Alexander Zverev in five sets to win first French Open title - CBS News",
+                "description": "Carlos Alcaraz beats Alexander Zverev in five sets to win first French Open title  CBS News",
+                "published date": "Sun, 09 Jun 2024 23:58:35 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYWxleGFuZGVyLXp2ZXJldi1jYXJsb3MtYWxjYXJhei1mcmVuY2gtb3Blbi1maW5hbC1yb2xhbmQtZ2Fycm9zL9IBYWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2FsZXhhbmRlci16dmVyZXYtY2FybG9zLWFsY2FyYXotZnJlbmNoLW9wZW4tZmluYWwtcm9sYW5kLWdhcnJvcy8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.atptour.com",
-                    "title": "ATP Tour"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
                 "title": "2024 French Open men's semifinal odds, predictions: Alexander Zverev vs. Casper Ruud picks by tennis expert - CBS Sports",
                 "description": "2024 French Open men's semifinal odds, predictions: Alexander Zverev vs. Casper Ruud picks by tennis expert  CBS Sports",
                 "published date": "Fri, 07 Jun 2024 13:31:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL3Rlbm5pcy9uZXdzLzIwMjQtZnJlbmNoLW9wZW4tbWVucy1zZW1pZmluYWwtb2Rkcy1wcmVkaWN0aW9ucy1hbGV4YW5kZXItenZlcmV2LXZzLWNhc3Blci1ydXVkLXBpY2tzLWJ5LXRlbm5pcy1leHBlcnQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL3Rlbm5pcy9uZXdzLzIwMjQtZnJlbmNoLW9wZW4tbWVucy1zZW1pZmluYWwtb2Rkcy1wcmVkaWN0aW9ucy1hbGV4YW5kZXItenZlcmV2LXZzLWNhc3Blci1ydXVkLXBpY2tzLWJ5LXRlbm5pcy1leHBlcnQv0gGSAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vdGVubmlzL25ld3MvMjAyNC1mcmVuY2gtb3Blbi1tZW5zLXNlbWlmaW5hbC1vZGRzLXByZWRpY3Rpb25zLWFsZXhhbmRlci16dmVyZXYtdnMtY2FzcGVyLXJ1dWQtcGlja3MtYnktdGVubmlzLWV4cGVydC9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
                 }
             },
             {
-                "title": "Alexander Zverev v Alex De Minaur - Roland-Garros highlights - Tennis video - Eurosport COM",
-                "description": "Alexander Zverev v Alex De Minaur - Roland-Garros highlights - Tennis video  Eurosport COM",
-                "published date": "Wed, 05 Jun 2024 22:01:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5ldXJvc3BvcnQuY29tL3Rlbm5pcy9yb2xhbmQtZ2Fycm9zLzIwMjQvYWxleGFuZGVyLXp2ZXJldi12LWFsZXgtZGUtbWluYXVyLXJvbGFuZC1nYXJyb3MtaGlnaGxpZ2h0c192aWQyMTU3NDcxL3ZpZGVvLnNodG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "\u2018That\u2019ll do it\u2019 \u2013 Alexander Zverev seals victory over Holger Rune in style to reach quarter-finals - Tennis video - Eurosport COM",
+                "description": "\u2018That\u2019ll do it\u2019 \u2013 Alexander Zverev seals victory over Holger Rune in style to reach quarter-finals - Tennis video  Eurosport COM",
+                "published date": "Mon, 03 Jun 2024 23:57:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5ldXJvc3BvcnQuY29tL3Rlbm5pcy9yb2xhbmQtZ2Fycm9zLzIwMjQvdGhhdGxsLWRvLWl0LWFsZXhhbmRlci16dmVyZXYtc2VhbHMtdmljdG9yeS1vdmVyLWhvbGdlci1ydW5lLWluLXN0eWxlLXRvLXJlYWNoLXF1YXJ0ZXItZmluYWxzX3ZpZDIxNTU3NzUvdmlkZW8uc2h0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.eurosport.com",
                     "title": "Eurosport COM"
@@ -1366,20 +1366,20 @@
                 }
             },
             {
-                "title": "Alexander Zverev settles abuse case brought by former girlfriend - ESPN",
-                "description": "Alexander Zverev settles abuse case brought by former girlfriend  ESPN",
-                "published date": "Fri, 07 Jun 2024 10:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmVzcG4uY29tL3Rlbm5pcy9zdG9yeS9fL2lkLzQwMjk3MjcyL2FsZXhhbmRlci16dmVyZXYtc2V0dGxlcy1hYnVzZS1jYXNlLWJyb3VnaHQtZm9ybWVyLWdpcmxmcmllbmTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Alexander Zverev faces an ongoing trial in Germany during the French Open. Here's what to know - The Associated Press",
+                "description": "Alexander Zverev faces an ongoing trial in Germany during the French Open. Here's what to know  The Associated Press",
+                "published date": "Thu, 06 Jun 2024 12:35:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FsZXhhbmRlci16dmVyZXYtdHJpYWwtZXhwbGFpbmVyLTkwNjQ1YWVkYmRkYjhmNjA4ZjU3NGExNzYyMzRkOTI50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             }
         ]
     },
     {
         "name": "Jaylen Brown",
-        "summary": "",
+        "summary": "Jaylen Brown has become a prominent figure in the Celtics lineup, receiving praise from Jason Kidd as their \"best player\" ahead of Jayson Tatum. Brown's impressive performance has earned him a place on a bot alongside Luka Don\u010di\u0107 during the NBA Finals. Despite this recognition, Brown and Tatum maintain a solid relationship and are determined to elevate their partnership to secure a title. Before the 2024 NBA Finals, Brown indulged in watching \"Harry Potter\" movies during his time off, demonstrating his diverse interests. Brown's journey to the NBA began with his college career, where he showcased his skills and was later selected in the NBA Draft. As he continues to etch his legacy in the sport, Brown aims to make a lasting impact with the Boston Celtics.",
         "items": [
             {
                 "title": "Jason Kidd calls Jaylen Brown, not Tatum, the Celtics' 'best player' - The New York Times",
@@ -1392,13 +1392,13 @@
                 }
             },
             {
-                "title": "A Week With Harry Potter Prepped Jaylen Brown For NBA Finals - Sports Illustrated",
-                "description": "A Week With Harry Potter Prepped Jaylen Brown For NBA Finals  Sports Illustrated",
-                "published date": "Sat, 08 Jun 2024 21:25:05 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL2NhbC9iYXNrZXRiYWxsL2Etd2Vlay13aXRoLWhhcnJ5LXBvdHRlci1wcmVwcGVkLWpheWxlbi1icm93bi1mb3ItbmJhLWZpbmFscy0wMWh6dzllcW1kOHHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Celtics' Jaylen Brown Watched Harry Potter Movies During Time Off Before NBA Finals - Bleacher Report",
+                "description": "Celtics' Jaylen Brown Watched Harry Potter Movies During Time Off Before NBA Finals  Bleacher Report",
+                "published date": "Fri, 07 Jun 2024 23:11:57 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0MDAzLWNlbHRpY3MtamF5bGVuLWJyb3duLXdhdGNoZWQtaGFycnktcG90dGVyLW1vdmllcy1kdXJpbmctdGltZS1vZmYtYmVmb3JlLW5iYS1maW5hbHPSAY8BaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTI0MDAzLWNlbHRpY3MtamF5bGVuLWJyb3duLXdhdGNoZWQtaGFycnktcG90dGVyLW1vdmllcy1kdXJpbmctdGltZS1vZmYtYmVmb3JlLW5iYS1maW5hbHMuYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
                 }
             },
             {
@@ -1432,16 +1432,6 @@
                 }
             },
             {
-                "title": "Celtics' Jaylen Brown Watched Harry Potter Movies During Time Off Before NBA Finals - Bleacher Report",
-                "description": "Celtics' Jaylen Brown Watched Harry Potter Movies During Time Off Before NBA Finals  Bleacher Report",
-                "published date": "Fri, 07 Jun 2024 23:11:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0MDAzLWNlbHRpY3MtamF5bGVuLWJyb3duLXdhdGNoZWQtaGFycnktcG90dGVyLW1vdmllcy1kdXJpbmctdGltZS1vZmYtYmVmb3JlLW5iYS1maW5hbHPSAY8BaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTI0MDAzLWNlbHRpY3MtamF5bGVuLWJyb3duLXdhdGNoZWQtaGFycnktcG90dGVyLW1vdmllcy1kdXJpbmctdGltZS1vZmYtYmVmb3JlLW5iYS1maW5hbHMuYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
                 "title": "Jayson Tatum And Jaylen Brown Are Unbothered By Jason Kidd's 'Best Player' Comments - Forbes",
                 "description": "Jayson Tatum And Jaylen Brown Are Unbothered By Jason Kidd's 'Best Player' Comments  Forbes",
                 "published date": "Sat, 08 Jun 2024 22:36:02 GMT",
@@ -1452,13 +1442,13 @@
                 }
             },
             {
-                "title": "Brown: 'No reaction' to Kidd's assertion he's best Celtic - ESPN",
-                "description": "Brown: 'No reaction' to Kidd's assertion he's best Celtic  ESPN",
-                "published date": "Sat, 08 Jun 2024 20:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMzA2NjAyL25vLXJlYWN0aW9uLWtpZGQtYXNzZXJ0aW9uLWJlc3QtY2VsdGlj0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Jayson Tatum and Jaylen Brown's Relationship Is Fine, but Their Pairing Could Elevate With a Title - Sports Illustrated",
+                "description": "Jayson Tatum and Jaylen Brown's Relationship Is Fine, but Their Pairing Could Elevate With a Title  Sports Illustrated",
+                "published date": "Tue, 04 Jun 2024 19:39:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnNpLmNvbS9uYmEvamF5c29uLXRhdHVtLWFuZC1qYXlsZW4tYnJvd25zLXJlbGF0aW9uc2hpcC1pcy1maW5lLWJ1dC10aGVpci1wYWlyaW5nLWNvdWxkLWVsZXZhdGUtd2l0aC1hLXRpdGxl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
                 }
             },
             {
@@ -1480,12 +1470,22 @@
                     "href": "https://www.sportingnews.com",
                     "title": "Sporting News"
                 }
+            },
+            {
+                "title": "Boston Celtics guard Jaylen Brown attempts to build a legacy - Andscape",
+                "description": "Boston Celtics guard Jaylen Brown attempts to build a legacy  Andscape",
+                "published date": "Sun, 09 Jun 2024 13:18:29 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYW5kc2NhcGUuY29tL2ZlYXR1cmVzL2Jvc3Rvbi1jZWx0aWNzLWd1YXJkLWpheWxlbi1icm93bi1hdHRlbXB0cy10by1idWlsZC1hLWxlZ2FjeS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://andscape.com",
+                    "title": "Andscape"
+                }
             }
         ]
     },
     {
         "name": "Macron",
-        "summary": "",
+        "summary": "France's far-right National Rally party is projected to perform well in the upcoming EU elections, sparking concerns for migrants, President Macron, and Ukraine. In an attempt to counter this surge, Macron has called for a snap election. The defeat of Macron's party in the EU vote has prompted him to dissolve the National Assembly and call for new legislative elections. Despite the strong alliance between Biden and Macron, their relationship has been marked by occasional chaos. During Biden's state visit to Paris, the two leaders attempted to resolve trade tensions. Biden and Macron also honored WWII veterans at Normandy on the 80th anniversary of the D-Day invasion.",
         "items": [
             {
                 "title": "France's far right may win big in the EU elections. That's worrying for migrants, Macron and Ukraine - The Associated Press",
@@ -1495,6 +1495,26 @@
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Macron gambles on snap election to fight far-right surge - POLITICO Europe",
+                "description": "Macron gambles on snap election to fight far-right surge  POLITICO Europe",
+                "published date": "Sun, 09 Jun 2024 20:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXUtZXVyb3BlYW4tZWxlY3Rpb24tcmVzdWx0cy0yMDI0LWVtbWFudWVsLW1hY3Jvbi1kaXNzb2x2ZS1wYXJsaWFtZW50LWZyYW5jZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.politico.eu",
+                    "title": "POLITICO Europe"
+                }
+            },
+            {
+                "title": "Macron gambles on snap election after crushing loss to French far right in EU vote - CNN",
+                "description": "Macron gambles on snap election after crushing loss to French far right in EU vote  CNN",
+                "published date": "Mon, 10 Jun 2024 02:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wOS9ldXJvcGUvbWFjcm9uLWRpc3NvbHZlcy1mcmVuY2gtcGFybGlhbWVudC1ldXJvcGUtaW50bC9pbmRleC5odG1s0gFYaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wOS9ldXJvcGUvbWFjcm9uLWRpc3NvbHZlcy1mcmVuY2gtcGFybGlhbWVudC1ldXJvcGUtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
@@ -1528,16 +1548,6 @@
                 }
             },
             {
-                "title": "Macron gambles on snap election after crushing loss to French far right in EU vote - CNN",
-                "description": "Macron gambles on snap election after crushing loss to French far right in EU vote  CNN",
-                "published date": "Mon, 10 Jun 2024 02:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wOS9ldXJvcGUvbWFjcm9uLWRpc3NvbHZlcy1mcmVuY2gtcGFybGlhbWVudC1ldXJvcGUtaW50bC9pbmRleC5odG1s0gFYaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wOS9ldXJvcGUvbWFjcm9uLWRpc3NvbHZlcy1mcmVuY2gtcGFybGlhbWVudC1ldXJvcGUtaW50bA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            },
-            {
                 "title": "Macron hosts Biden in Paris as the two leaders try to move past trade tensions - NBC News",
                 "description": "Macron hosts Biden in Paris as the two leaders try to move past trade tensions  NBC News",
                 "published date": "Sat, 08 Jun 2024 07:44:21 GMT",
@@ -1568,136 +1578,20 @@
                 }
             },
             {
-                "title": "France\u2019s Macron calls for snap elections after far right surge in EU vote - Al Jazeera English",
-                "description": "France\u2019s Macron calls for snap elections after far right surge in EU vote  Al Jazeera English",
-                "published date": "Sun, 09 Jun 2024 21:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzYvOS9mcmFuY2VzLW1hY3Jvbi1jYWxscy1mb3Itc25hcC1lbGVjdGlvbnMtYWZ0ZXItZmFyLXJpZ2h0LXN1cmdlLWluLWV1LXZvdGXSAXRodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNi85L2ZyYW5jZXMtbWFjcm9uLWNhbGxzLWZvci1zbmFwLWVsZWN0aW9ucy1hZnRlci1mYXItcmlnaHQtc3VyZ2UtaW4tZXUtdm90ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "France's Macron dissolves National Assembly, calls for snap legislative elections after EU vote defeat - CBS News",
+                "description": "France's Macron dissolves National Assembly, calls for snap legislative elections after EU vote defeat  CBS News",
+                "published date": "Sun, 09 Jun 2024 20:41:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZnJhbmNlLWVtYW51ZWwtbWFjcm9uLWV1cm9wZWFuLXBhcmxpYW1lbnQtbmF0aW9uYWwtYXNzZW1ibHkv0gFdaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvZnJhbmNlLWVtYW51ZWwtbWFjcm9uLWV1cm9wZWFuLXBhcmxpYW1lbnQtbmF0aW9uYWwtYXNzZW1ibHkv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
-                }
-            },
-            {
-                "title": "Biden and Macron meetings during state visit to focus on Ukraine and Gaza - The Washington Post",
-                "description": "Biden and Macron meetings during state visit to focus on Ukraine and Gaza  The Washington Post",
-                "published date": "Sat, 08 Jun 2024 11:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzA4L2JpZGVuLW1hY3Jvbi1mcmFuY2Utc3RhdGUtdmlzaXQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
-                }
-            }
-        ]
-    },
-    {
-        "name": "World T20",
-        "summary": "",
-        "items": [
-            {
-                "title": "US upset has lit fire under this T20 World Cup and it\u2019s about to get even hotter - The Guardian",
-                "description": "US upset has lit fire under this T20 World Cup and it\u2019s about to get even hotter  The Guardian",
-                "published date": "Sat, 08 Jun 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vc3BvcnQvYXJ0aWNsZS8yMDI0L2p1bi8wOC91cy11cHNldC1oYXMtbGl0LWZpcmUtdW5kZXItdGhpcy10MjAtd29ybGQtY3VwLWFuZC1pdHMtYWJvdXQtdG8tZ2V0LWV2ZW4taG90dGVy0gGFAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9hcnRpY2xlLzIwMjQvanVuLzA4L3VzLXVwc2V0LWhhcy1saXQtZmlyZS11bmRlci10aGlzLXQyMC13b3JsZC1jdXAtYW5kLWl0cy1hYm91dC10by1nZXQtZXZlbi1ob3R0ZXI?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.theguardian.com",
-                    "title": "The Guardian"
-                }
-            },
-            {
-                "title": "USA orchestrates shock defeat of Pakistan at Men\u2019s T20 Cricket World Cup - CNN",
-                "description": "USA orchestrates shock defeat of Pakistan at Men\u2019s T20 Cricket World Cup  CNN",
-                "published date": "Fri, 07 Jun 2024 12:11:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNi9zcG9ydC91c2EtcGFraXN0YW4tdDIwLWNyaWNrZXQtd29ybGQtY3VwL2luZGV4Lmh0bWzSAUtodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzA2L3Nwb3J0L3VzYS1wYWtpc3Rhbi10MjAtY3JpY2tldC13b3JsZC1jdXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            },
-            {
-                "title": "How to Watch the 2024 Cricket T20 World Cup in the U.S. - Rolling Stone",
-                "description": "How to Watch the 2024 Cricket T20 World Cup in the U.S.  Rolling Stone",
-                "published date": "Fri, 07 Jun 2024 19:27:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5yb2xsaW5nc3RvbmUuY29tL3Byb2R1Y3QtcmVjb21tZW5kYXRpb25zL2xpZmVzdHlsZS9ob3ctdG8td2F0Y2gtMjAyNC1pY2MtY3JpY2tldC10MjAtd29ybGQtY3VwLXVzLWxpdmUtc3RyZWFtcy0xMjM1MDMxMDA1L9IBigFodHRwczovL3d3dy5yb2xsaW5nc3RvbmUuY29tL3Byb2R1Y3QtcmVjb21tZW5kYXRpb25zL2xpZmVzdHlsZS9ob3ctdG8td2F0Y2gtMjAyNC1pY2MtY3JpY2tldC10MjAtd29ybGQtY3VwLXVzLWxpdmUtc3RyZWFtcy0xMjM1MDMxMDA1L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.rollingstone.com",
-                    "title": "Rolling Stone"
-                }
-            },
-            {
-                "title": "United States shocks cricket heavyweight Pakistan at T20 World Cup in one of the biggest upsets ever - The Associated Press",
-                "description": "United States shocks cricket heavyweight Pakistan at T20 World Cup in one of the biggest upsets ever  The Associated Press",
-                "published date": "Fri, 07 Jun 2024 02:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3QyMC13b3JsZC1jdXAtdW5pdGVkLXN0YXRlcy1wYWtpc3Rhbi1lMWQ3OTBmNTk4MTY1ODhkNGUzNzgwZjA0ZDcxY2M3OdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere - CNET",
-                "description": "T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere  CNET",
-                "published date": "Sun, 09 Jun 2024 11:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL3QyMC1jcmlja2V0LXdvcmxkLWN1cC1saXZlc3RyZWFtLWhvdy10by13YXRjaC1pbmRpYS12cy1wYWtpc3Rhbi1mcm9tLWFueXdoZXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
-                }
-            },
-            {
-                "title": "How to watch the 2024 Men's T20 World Cup online for free - Mashable",
-                "description": "How to watch the 2024 Men's T20 World Cup online for free  Mashable",
-                "published date": "Sun, 09 Jun 2024 06:59:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvdDIwLXdvcmxkLWN1cC0yMDI0LWxpdmUtc3RyZWFtLWZvci1mcmVl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://mashable.com",
-                    "title": "Mashable"
-                }
-            },
-            {
-                "title": "Where to Watch T20 World Cup Cricket Live Streams From Anywhere Online - Business Insider",
-                "description": "Where to Watch T20 World Cup Cricket Live Streams From Anywhere Online  Business Insider",
-                "published date": "Fri, 07 Jun 2024 21:17:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZ3VpZGVzL3N0cmVhbWluZy93aGVyZS10by13YXRjaC10MjAtd29ybGQtY3VwLWNyaWNrZXQtbGl2ZS1zdHJlYW1zLTIwMjTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.businessinsider.com",
-                    "title": "Business Insider"
-                }
-            },
-            {
-                "title": "After US, Pakistan loses to India during the T20 World Cup - USA TODAY",
-                "description": "After US, Pakistan loses to India during the T20 World Cup  USA TODAY",
-                "published date": "Sun, 09 Jun 2024 22:40:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvMjAyNC8wNi8wOS9pbmRpYS1vdmVyLXBha2lzdGFuLXQyMC13b3JsZC1jdXAtc3VuZGF5Lzc0MDE5Nzg5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "T20 World Cup brings cricket \u2018home\u2019 for New York\u2019s South Asian community - Al Jazeera English",
-                "description": "T20 World Cup brings cricket \u2018home\u2019 for New York\u2019s South Asian community  Al Jazeera English",
-                "published date": "Tue, 04 Jun 2024 19:58:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi80L2NyaWNrZXQtaW4tbmV3LXlvcmstaWNjLXQyMC13b3JsZC1jdXAtMjAyNC1sb25nLWlzbGFuZC1pbmRpYS12cy1wYWtpc3Rhbi1tYXRjaNIBfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL3Nwb3J0cy8yMDI0LzYvNC9jcmlja2V0LWluLW5ldy15b3JrLWljYy10MjAtd29ybGQtY3VwLTIwMjQtbG9uZy1pc2xhbmQtaW5kaWEtdnMtcGFraXN0YW4tbWF0Y2g?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
-                }
-            },
-            {
-                "title": "U.S. Stuns Pakistan at T20 World Cup - The New York Times",
-                "description": "U.S. Stuns Pakistan at T20 World Cup  The New York Times",
-                "published date": "Fri, 07 Jun 2024 07:54:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMDcvc3BvcnRzL2NyaWNrZXQvcGFraXN0YW4tY3JpY2tldC1mYW5zLXJlYWN0Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             }
         ]
     },
     {
         "name": "Teton Pass collapse",
-        "summary": "A major mudslide has caused significant damage to Teton Pass, a critical mountain highway connecting Wyoming and Idaho. The landslide has resulted in a \"catastrophic failure\" of the roadway, leading to its extended closure. The collapse occurred following a series of construction complications, prompting officials to express uncertainty about when the pass will be reopened. The incident has disrupted travel and commerce in the region, as Teton Pass serves as a vital transportation route. Eyewitnesses described the landslide as \"catastrophic,\" with the affected section of the roadway completely collapsing. The closure is expected to have far-reaching consequences, including impacts on tourism and emergency response capabilities.",
+        "summary": "",
         "items": [
             {
                 "title": "Teton pass mudslide: Officials unsure when it will reopen - USA TODAY",
@@ -1720,23 +1614,33 @@
                 }
             },
             {
-                "title": "Teton Pass roadway collapses; long-term closure expected - Oil City News",
-                "description": "Teton Pass roadway collapses; long-term closure expected  Oil City News",
-                "published date": "Sat, 08 Jun 2024 18:14:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vb2lsY2l0eS5uZXdzL2NvbW11bml0eS9yb2Fkcy8yMDI0LzA2LzA4L3RldG9uLXBhc3Mtcm9hZHdheS1jb2xsYXBzZXMtbG9uZ3Rlcm0tY2xvc3VyZS1leHBlY3RlZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Section of Wyoming's Teton Pass Collapses - The Wall Street Journal",
+                "description": "Section of Wyoming's Teton Pass Collapses  The Wall Street Journal",
+                "published date": "Sun, 09 Jun 2024 16:45:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9zZWN0aW9uLW9mLXd5b21pbmdzLXRldG9uLXBhc3MtY29sbGFwc2VzLWU1NmM4Mjdk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://oilcity.news",
-                    "title": "Oil City News"
+                    "href": "https://www.wsj.com",
+                    "title": "The Wall Street Journal"
                 }
             },
             {
-                "title": "'Catastrophic Failure': Teton Pass road collapses, long-term closure expected - ABC4.com",
-                "description": "'Catastrophic Failure': Teton Pass road collapses, long-term closure expected  ABC4.com",
-                "published date": "Sat, 08 Jun 2024 17:05:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFiYzQuY29tL25ld3Mvd3lvbWluZy9jYXRhc3Ryb3BoaWMtZmFpbHVyZS10ZXRvbi1wYXNzLXJvYWQtY29sbGFwc2VzLWxvbmctdGVybS1jbG9zdXJlLWV4cGVjdGVkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Mudslide wipes out large section of Teton Pass highway in Wyoming - FOX 10 News Phoenix",
+                "description": "Mudslide wipes out large section of Teton Pass highway in Wyoming  FOX 10 News Phoenix",
+                "published date": "Sun, 09 Jun 2024 13:27:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy90ZXRvbi1wYXNzLXd5b21pbmctY29sbGFwc2VzLW11ZHNsaWRl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.abc4.com",
-                    "title": "ABC4.com"
+                    "href": "https://www.fox10phoenix.com",
+                    "title": "FOX 10 News Phoenix"
+                }
+            },
+            {
+                "title": "'Catastrophic' landslide closes critical mountain highway between Wyoming and Idaho - NBC News",
+                "description": "'Catastrophic' landslide closes critical mountain highway between Wyoming and Idaho  NBC News",
+                "published date": "Sun, 09 Jun 2024 17:25:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9jYXRhc3Ryb3BoaWMtbGFuZHNsaWRlLWNsb3Nlcy1jcml0aWNhbC1tb3VudGFpbi1oaWdod2F5LXd5b21pbmctaWRhaG8tcmNuYTE1NjIxN9IBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNTYyMTc?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             },
             {
@@ -1750,23 +1654,13 @@
                 }
             },
             {
-                "title": "\u2018Catastrophic\u2019 landslide closes critical mountain highway between Wyoming and Idaho - NBC News",
-                "description": "\u2018Catastrophic\u2019 landslide closes critical mountain highway between Wyoming and Idaho  NBC News",
-                "published date": "Sun, 09 Jun 2024 17:25:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9jYXRhc3Ryb3BoaWMtbGFuZHNsaWRlLWNsb3Nlcy1jcml0aWNhbC1tb3VudGFpbi1oaWdod2F5LXd5b21pbmctaWRhaG8tcmNuYTE1NjIxN9IBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNTYyMTc?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Teton Pass roadway collapses; long-term closure expected - Oil City News",
+                "description": "Teton Pass roadway collapses; long-term closure expected  Oil City News",
+                "published date": "Sat, 08 Jun 2024 18:14:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vb2lsY2l0eS5uZXdzL2NvbW11bml0eS9yb2Fkcy8yMDI0LzA2LzA4L3RldG9uLXBhc3Mtcm9hZHdheS1jb2xsYXBzZXMtbG9uZ3Rlcm0tY2xvc3VyZS1leHBlY3RlZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
-                }
-            },
-            {
-                "title": "Section of Wyoming's Teton Pass Collapses - WSJ - The Wall Street Journal",
-                "description": "Section of Wyoming's Teton Pass Collapses - WSJ  The Wall Street Journal",
-                "published date": "Sun, 09 Jun 2024 16:45:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9zZWN0aW9uLW9mLXd5b21pbmdzLXRldG9uLXBhc3MtY29sbGFwc2VzLWU1NmM4Mjdk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wsj.com",
-                    "title": "The Wall Street Journal"
+                    "href": "https://oilcity.news",
+                    "title": "Oil City News"
                 }
             },
             {
@@ -1780,13 +1674,13 @@
                 }
             },
             {
-                "title": "Teton Pass, section of highway in Wyoming, collapses in mudslide - FOX 32 Chicago",
-                "description": "Teton Pass, section of highway in Wyoming, collapses in mudslide  FOX 32 Chicago",
-                "published date": "Sun, 09 Jun 2024 13:27:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmZveDMyY2hpY2Fnby5jb20vbmV3cy90ZXRvbi1wYXNzLXd5b21pbmctY29sbGFwc2VzLW11ZHNsaWRl0gFLaHR0cHM6Ly93d3cuZm94MzJjaGljYWdvLmNvbS9uZXdzL3RldG9uLXBhc3Mtd3lvbWluZy1jb2xsYXBzZXMtbXVkc2xpZGUuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Part of Wyoming highway collapses in landslide, blocking crucial commuter transit route - CBS News",
+                "description": "Part of Wyoming highway collapses in landslide, blocking crucial commuter transit route  CBS News",
+                "published date": "Sun, 09 Jun 2024 16:50:29 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdGV0b24tcGFzcy1jb2xsYXBzZS13eW9taW5nLWhpZ2h3YXktbGFuZHNsaWRlLWJsb2NrLWNydWNpYWwtY29tbXV0ZXItcm91dGUtamFja3Nvbi1ob2xlL9IBeWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3RldG9uLXBhc3MtY29sbGFwc2Utd3lvbWluZy1oaWdod2F5LWxhbmRzbGlkZS1ibG9jay1jcnVjaWFsLWNvbW11dGVyLXJvdXRlLWphY2tzb24taG9sZS8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.fox32chicago.com",
-                    "title": "FOX 32 Chicago"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
@@ -1803,18 +1697,8 @@
     },
     {
         "name": "Doom: The Dark Ages",
-        "summary": "Get ready for an epic journey through time as Doom: The Dark Ages transports the legendary Doom Slayer to medieval realms. This highly anticipated prequel, set to launch in 2025, will immerse players in the Dark Ages with the Doom Slayer embarking on a new mission. The game has been confirmed for release on PlayStation, Xbox, and PC, bringing the franchise to a wider audience. With its intriguing premise of a time-traveling Doom Slayer and the promise of action-packed gameplay, Doom: The Dark Ages is shaping up to be an exciting addition to the Doom universe.",
+        "summary": "",
         "items": [
-            {
-                "title": "I Want The Doom Slayer To Become A Time Traveller - TheGamer",
-                "description": "I Want The Doom Slayer To Become A Time Traveller  TheGamer",
-                "published date": "Mon, 03 Jun 2024 16:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnRoZWdhbWVyLmNvbS9kb29tLWRhcmstYWdlcy10aW1lLXRyYXZlbC1pZC1zb2Z0d2FyZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thegamer.com",
-                    "title": "TheGamer"
-                }
-            },
             {
                 "title": "Doom: The Dark Ages is launching in 2025 - The Verge",
                 "description": "Doom: The Dark Ages is launching in 2025  The Verge",
@@ -1823,6 +1707,26 @@
                 "publisher": {
                     "href": "https://www.theverge.com",
                     "title": "The Verge"
+                }
+            },
+            {
+                "title": "DOOM: The Dark Ages revealed - Slayers Club",
+                "description": "DOOM: The Dark Ages revealed  Slayers Club",
+                "published date": "Sun, 09 Jun 2024 17:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vc2xheWVyc2NsdWIuYmV0aGVzZGEubmV0L2FydGljbGUvZG9vbS10aGUtZGFyay1hZ2VzLXJldmVhbGVk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://slayersclub.bethesda.net",
+                    "title": "Slayers Club"
+                }
+            },
+            {
+                "title": "I Want The Doom Slayer To Become A Time Traveller - TheGamer",
+                "description": "I Want The Doom Slayer To Become A Time Traveller  TheGamer",
+                "published date": "Mon, 03 Jun 2024 16:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnRoZWdhbWVyLmNvbS9kb29tLWRhcmstYWdlcy10aW1lLXRyYXZlbC1pZC1zb2Z0d2FyZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thegamer.com",
+                    "title": "TheGamer"
                 }
             },
             {
@@ -1836,6 +1740,16 @@
                 }
             },
             {
+                "title": "DOOM: The Dark Ages Announced, Confirmed for PS5 - Xbox Games Showcase 2024 - IGN",
+                "description": "DOOM: The Dark Ages Announced, Confirmed for PS5 - Xbox Games Showcase 2024  IGN",
+                "published date": "Sun, 09 Jun 2024 17:10:53 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvZG9vbS10aGUtZGFyay1hZ2VzLWFubm91bmNlZC1jb25maXJtZWQtZm9yLXBzNS14Ym94LWdhbWVzLXNob3djYXNlLTIwMjTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.ign.com",
+                    "title": "IGN"
+                }
+            },
+            {
                 "title": "Doom: The Dark Ages revealed at Xbox Games Showcase - Polygon",
                 "description": "Doom: The Dark Ages revealed at Xbox Games Showcase  Polygon",
                 "published date": "Sun, 09 Jun 2024 17:13:18 GMT",
@@ -1846,13 +1760,23 @@
                 }
             },
             {
-                "title": "DOOM: The Dark Ages Announced, Confirmed for PS5 - Xbox Games Showcase 2024 - IGN",
-                "description": "DOOM: The Dark Ages Announced, Confirmed for PS5 - Xbox Games Showcase 2024  IGN",
-                "published date": "Sun, 09 Jun 2024 17:10:53 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvZG9vbS10aGUtZGFyay1hZ2VzLWFubm91bmNlZC1jb25maXJtZWQtZm9yLXBzNS14Ym94LWdhbWVzLXNob3djYXNlLTIwMjTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Doom: The Dark Ages announced with 2025 release window - TechRadar",
+                "description": "Doom: The Dark Ages announced with 2025 release window  TechRadar",
+                "published date": "Sun, 09 Jun 2024 17:19:07 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vZ2FtaW5nL2Rvb20tdGhlLWRhcmstYWdlcy1hbm5vdW5jZWQtd2l0aC0yMDI1LXJlbGVhc2Utd2luZG930gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.ign.com",
-                    "title": "IGN"
+                    "href": "https://www.techradar.com",
+                    "title": "TechRadar"
+                }
+            },
+            {
+                "title": "DOOM: The Dark Ages comes rampaging in on a chainsaw shield next year - Rock Paper Shotgun",
+                "description": "DOOM: The Dark Ages comes rampaging in on a chainsaw shield next year  Rock Paper Shotgun",
+                "published date": "Sun, 09 Jun 2024 17:36:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJvY2twYXBlcnNob3RndW4uY29tL2Rvb20tdGhlLWRhcmstYWdlcy1jb21lcy1yYW1wYWdpbmctaW4tb24tYS1jaGFpbnNhdy1zaGllbGQtbmV4dC15ZWFy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.rockpapershotgun.com",
+                    "title": "Rock Paper Shotgun"
                 }
             },
             {
@@ -1874,42 +1798,12 @@
                     "href": "https://www.pcgamer.com",
                     "title": "PC Gamer"
                 }
-            },
-            {
-                "title": "Doom: The Dark Ages Announced, Coming 2025 - GameSpot",
-                "description": "Doom: The Dark Ages Announced, Coming 2025  GameSpot",
-                "published date": "Sun, 09 Jun 2024 18:21:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmdhbWVzcG90LmNvbS9hcnRpY2xlcy9kb29tLXRoZS1kYXJrLWFnZXMtYW5ub3VuY2VkLWNvbWluZy0yMDI1LzExMDAtNjUyNDA3My_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.gamespot.com",
-                    "title": "GameSpot"
-                }
-            },
-            {
-                "title": "Doom: The Dark Ages Revealed, And It Hits PlayStation, Xbox, And PC Next Year - Game Informer",
-                "description": "Doom: The Dark Ages Revealed, And It Hits PlayStation, Xbox, And PC Next Year  Game Informer",
-                "published date": "Sun, 09 Jun 2024 17:11:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmdhbWVpbmZvcm1lci5jb20vbmV3cy8yMDI0LzA2LzA5L2Rvb20tdGhlLWRhcmstYWdlcy1yZXZlYWxlZC1hbmQtaXQtaGl0cy1wbGF5c3RhdGlvbi14Ym94LWFuZC1wYy1uZXh0LXllYXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.gameinformer.com",
-                    "title": "Game Informer"
-                }
-            },
-            {
-                "title": "DOOM: The Dark Ages revealed - Slayers Club",
-                "description": "DOOM: The Dark Ages revealed  Slayers Club",
-                "published date": "Sun, 09 Jun 2024 17:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vc2xheWVyc2NsdWIuYmV0aGVzZGEubmV0L2VuLVVTL2FydGljbGUvZG9vbS10aGUtZGFyay1hZ2VzLXJldmVhbGVk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://slayersclub.bethesda.net",
-                    "title": "Slayers Club"
-                }
             }
         ]
     },
     {
         "name": "Perfect Dark",
-        "summary": "First gameplay footage of the long-awaited Perfect Dark reboot emerged at Xbox Games Showcase 2024, showcasing its transformation into a near-future sci-fi thriller. The trailer depicts protagonist Joanna Dark engaging in espionage and high-tech combat in the bustling metropolis of Cairo. Despite initial skepticism, the gameplay ignites comparisons to the acclaimed Deus Ex series, with its emphasis on stealth, gadgets, and exploration. While the release date remains undisclosed, the resurgence of Perfect Dark has generated excitement for its promising blend of action, futuristic elements, and espionage intrigue.",
+        "summary": "",
         "items": [
             {
                 "title": "I had less than zero expectations for the Perfect Dark reboot, but it looks like the 2020s answer to Deus Ex I've been ... - PC Gamer",
@@ -1932,16 +1826,6 @@
                 }
             },
             {
-                "title": "Perfect Dark finally makes a return at the Xbox showcase with a brand-new gameplay trailer - VG247",
-                "description": "Perfect Dark finally makes a return at the Xbox showcase with a brand-new gameplay trailer  VG247",
-                "published date": "Sun, 09 Jun 2024 17:40:18 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnZnMjQ3LmNvbS9wZXJmZWN0LWRhcmstZmluYWxseS1tYWtlcy1hLXJldHVybi1hdC10aGUteGJveC1zaG93Y2FzZS13aXRoLWEtYnJhbmQtbmV3LWdhbWVwbGF5LXRyYWlsZXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.vg247.com",
-                    "title": "VG247"
-                }
-            },
-            {
                 "title": "Xbox Finally Shows Off its Perfect Dark Reboot - Xbox Games Showcase 2024 - IGN",
                 "description": "Xbox Finally Shows Off its Perfect Dark Reboot - Xbox Games Showcase 2024  IGN",
                 "published date": "Sun, 09 Jun 2024 19:07:30 GMT",
@@ -1952,16 +1836,6 @@
                 }
             },
             {
-                "title": "Perfect Dark reboot gets first gameplay trailer at Xbox Games Showcase - Polygon",
-                "description": "Perfect Dark reboot gets first gameplay trailer at Xbox Games Showcase  Polygon",
-                "published date": "Sun, 09 Jun 2024 17:49:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTc0ODM4L3BlcmZlY3QtZGFyay1yZWxlYXNlLWRhdGUtdHJhaWxlci14Ym94LWluaXRpYXRpdmUtY3J5c3RhbC1keW5hbWljc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.polygon.com",
-                    "title": "Polygon"
-                }
-            },
-            {
                 "title": "Perfect Dark Gets First Gameplay Trailer - GameSpot",
                 "description": "Perfect Dark Gets First Gameplay Trailer  GameSpot",
                 "published date": "Sun, 09 Jun 2024 18:56:56 GMT",
@@ -1969,6 +1843,26 @@
                 "publisher": {
                     "href": "https://www.gamespot.com",
                     "title": "GameSpot"
+                }
+            },
+            {
+                "title": "Perfect Dark finally makes a return at the Xbox showcase with a brand-new gameplay trailer - VG247",
+                "description": "Perfect Dark finally makes a return at the Xbox showcase with a brand-new gameplay trailer  VG247",
+                "published date": "Sun, 09 Jun 2024 17:40:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnZnMjQ3LmNvbS9wZXJmZWN0LWRhcmstZmluYWxseS1tYWtlcy1hLXJldHVybi1hdC10aGUteGJveC1zaG93Y2FzZS13aXRoLWEtYnJhbmQtbmV3LWdhbWVwbGF5LXRyYWlsZXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.vg247.com",
+                    "title": "VG247"
+                }
+            },
+            {
+                "title": "Perfect Dark reboot gets first gameplay trailer at Xbox Games Showcase - Polygon",
+                "description": "Perfect Dark reboot gets first gameplay trailer at Xbox Games Showcase  Polygon",
+                "published date": "Sun, 09 Jun 2024 17:49:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTc0ODM4L3BlcmZlY3QtZGFyay1yZWxlYXNlLWRhdGUtdHJhaWxlci14Ym94LWluaXRpYXRpdmUtY3J5c3RhbC1keW5hbWljc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.polygon.com",
+                    "title": "Polygon"
                 }
             },
             {
@@ -2014,107 +1908,213 @@
         ]
     },
     {
-        "name": "Teoscar Hernandez",
-        "summary": "Teoscar Hern\u00e1ndez has been a force to be reckoned with against the New York Yankees. In his recent game against the Yankees, Hern\u00e1ndez hit a grand slam and a solo homer, leading the Los Angeles Dodgers to a 2-1 victory in an 11-inning battle. His impressive performance extended to a 2-run double in the 11th inning, securing the win for the Dodgers. Hern\u00e1ndez's offensive power has been pivotal in the Dodgers' success against the Yankees, with his six runs driving them to victory. The impact of his performance has been widely recognized, with news outlets highlighting his grand slam, solo homer, and game-winning hit.",
+        "name": "Gears of War: E-Day",
+        "summary": "",
         "items": [
             {
-                "title": "Teoscar Hern\u00e1ndez hits grand slam in 2-homer game vs. Yankees - MLB.com",
-                "description": "Teoscar Hern\u00e1ndez hits grand slam in 2-homer game vs. Yankees  MLB.com",
-                "published date": "Sun, 09 Jun 2024 04:41:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy90ZW9zY2FyLWhlcm5hbmRlei1oaXRzLWdyYW5kLXNsYW0taW4tMi1ob21lci1nYW1lLXZzLXlhbmtlZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Xbox announces Gears of War: E-Day - The Verge",
+                "description": "Xbox announces Gears of War: E-Day  The Verge",
+                "published date": "Sun, 09 Jun 2024 18:25:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yNDE3MjA1Mi9nZWFycy02LXhib3gtc3VtbWVyLWdhbWUtZmVzdC10cmFpbGVy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.mlb.com",
-                    "title": "MLB.com"
+                    "href": "https://www.theverge.com",
+                    "title": "The Verge"
                 }
             },
             {
-                "title": "Teoscar Hern\u00e1ndez CRUSHES a solo homer as Dodgers grab early 1-0 lead over Yankees - FOX Sports",
-                "description": "Teoscar Hern\u00e1ndez CRUSHES a solo homer as Dodgers grab early 1-0 lead over Yankees  FOX Sports",
-                "published date": "Sun, 09 Jun 2024 00:06:13 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vd2F0Y2gvZm1jLXBkNzYzZmJka3Rhc3IxcWfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Gears Of War: E-Day Is A Prequel Set 14 Years Before The First Game Starring Marcus Fenix - Game Informer",
+                "description": "Gears Of War: E-Day Is A Prequel Set 14 Years Before The First Game Starring Marcus Fenix  Game Informer",
+                "published date": "Sun, 09 Jun 2024 18:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmdhbWVpbmZvcm1lci5jb20veGJveC1zaG93Y2FzZS8yMDI0LzA2LzA5L2dlYXJzLW9mLXdhci1lLWRheS1pcy1hLXByZXF1ZWwtc2V0LTE0LXllYXJzLWJlZm9yZS10aGUtZmlyc3QtZ2FtZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
+                    "href": "https://www.gameinformer.com",
+                    "title": "Game Informer"
                 }
             },
             {
-                "title": "Teoscar Hernandez, Los Angeles Dodgers, RF - Fantasy Baseball News, Stats - CBS Sports",
-                "description": "Teoscar Hernandez, Los Angeles Dodgers, RF - Fantasy Baseball News, Stats  CBS Sports",
-                "published date": "Fri, 07 Jun 2024 17:38:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbWxiL3BsYXllcnMvMjExOTY1OS90ZW9zY2FyLWhlcm5hbmRlei9mYW50YXN5L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Gears of War: E-Day revealed in Xbox Showcase at Summer Game Fest - Polygon",
+                "description": "Gears of War: E-Day revealed in Xbox Showcase at Summer Game Fest  Polygon",
+                "published date": "Sun, 09 Jun 2024 18:39:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvbHlnb24uY29tLzI0MTcyNzQ2L2dlYXJzLW9mLXdhci1lLWRheS14Ym94LXNob3djYXNlLXN1bW1lci1nYW1lLWZlc3QtbWFyY3VzLWZlbml40gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.polygon.com",
+                    "title": "Polygon"
+                }
+            },
+            {
+                "title": "Gears of War: E-Day is a prequel, not Gears 6 - Digital Trends",
+                "description": "Gears of War: E-Day is a prequel, not Gears 6  Digital Trends",
+                "published date": "Sun, 09 Jun 2024 18:50:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL2dhbWluZy9nZWFycy1vZi13YXItZS1kYXktdHJhaWxlci_SAURodHRwczovL3d3dy5kaWdpdGFsdHJlbmRzLmNvbS9nYW1pbmcvZ2VhcnMtb2Ytd2FyLWUtZGF5LXRyYWlsZXIvP2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.digitaltrends.com",
+                    "title": "Digital Trends"
+                }
+            },
+            {
+                "title": "Gears of War: E-Day is a prequel set 14 years before the original action game, and yes, Dom is back - Gamesradar",
+                "description": "Gears of War: E-Day is a prequel set 14 years before the original action game, and yes, Dom is back  Gamesradar",
+                "published date": "Sun, 09 Jun 2024 18:35:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5nYW1lc3JhZGFyLmNvbS9nYW1lcy9nZWFycy1vZi13YXIvZ2VhcnMtb2Ytd2FyLWUtZGF5LWlzLWEtcHJlcXVlbC1zZXQtMTQteWVhcnMtYmVmb3JlLXRoZS1vcmlnaW5hbC1hY3Rpb24tZ2FtZS1hbmQteWVzLWRvbS1pcy1iYWNrL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.gamesradar.com",
+                    "title": "Gamesradar"
+                }
+            },
+            {
+                "title": "Gears Of War: E-Day, A New Gears Prequel, Revealed - GameSpot",
+                "description": "Gears Of War: E-Day, A New Gears Prequel, Revealed  GameSpot",
+                "published date": "Sun, 09 Jun 2024 19:41:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWVzcG90LmNvbS9hcnRpY2xlcy9nZWFycy1lLWRheS1hLW5ldy1nZWFycy1vZi13YXItcHJlcXVlbC1yZXZlYWxlZC8xMTAwLTY1MjQwNzQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.gamespot.com",
+                    "title": "GameSpot"
+                }
+            },
+            {
+                "title": "Gears of War is coming back with Marcus and Dom in an Emergence Day prequel: 'It's going to feel like a new Gears ... - PC Gamer",
+                "description": "Gears of War is coming back with Marcus and Dom in an Emergence Day prequel: 'It's going to feel like a new Gears ...  PC Gamer",
+                "published date": "Sun, 09 Jun 2024 18:32:46 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnBjZ2FtZXIuY29tL2dhbWVzL3RoaXJkLXBlcnNvbi1zaG9vdGVyL2dlYXJzLW9mLXdhci1pcy1jb21pbmctYmFjay13aXRoLW1hcmN1cy1hbmQtZG9tLWluLWFuLWVtZXJnZW5jZS1kYXktcHJlcXVlbC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.pcgamer.com",
+                    "title": "PC Gamer"
+                }
+            },
+            {
+                "title": "Next Gears of War Game Officially Revealed at Xbox Showcase 2024 - IGN",
+                "description": "Next Gears of War Game Officially Revealed at Xbox Showcase 2024  IGN",
+                "published date": "Sun, 09 Jun 2024 18:25:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvbmV4dC1nZWFycy1vZi13YXItZ2FtZS1vZmZpY2lhbGx5LXJldmVhbGVkLWF0LXhib3gtc2hvd2Nhc2UtMjAyNNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.ign.com",
+                    "title": "IGN"
+                }
+            },
+            {
+                "title": "Gears of War: E-Day announced for Xbox Series, PC - Gematsu",
+                "description": "Gears of War: E-Day announced for Xbox Series, PC  Gematsu",
+                "published date": "Sun, 09 Jun 2024 18:20:54 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmdlbWF0c3UuY29tLzIwMjQvMDYvZ2VhcnMtb2Ytd2FyLWUtZGF5LWFubm91bmNlZC1mb3IteGJveC1zZXJpZXMtcGPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.gematsu.com",
+                    "title": "Gematsu"
+                }
+            },
+            {
+                "title": "'Gears Of War: E-Day' Is The Next Instalment In Xbox's Famous Franchise - Pure Xbox",
+                "description": "'Gears Of War: E-Day' Is The Next Instalment In Xbox's Famous Franchise  Pure Xbox",
+                "published date": "Sun, 09 Jun 2024 18:29:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnB1cmV4Ym94LmNvbS9uZXdzLzIwMjQvMDYvZ2VhcnMtb2Ytd2FyLWUtZGF5LWlzLXRoZS1uZXh0LWluc3RhbG1lbnQtaW4teGJveHMtZmFtb3VzLWZyYW5jaGlzZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.purexbox.com",
+                    "title": "Pure Xbox"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Formula 1",
+        "summary": "",
+        "items": [
+            {
+                "title": "Formula 1 picks, odds, time, grid: 2024 Canadian Grand Prix predictions, F1 best bets from proven model - CBS Sports",
+                "description": "Formula 1 picks, odds, time, grid: 2024 Canadian Grand Prix predictions, F1 best bets from proven model  CBS Sports",
+                "published date": "Fri, 07 Jun 2024 15:40:37 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21vdG9yLXNwb3J0cy9uZXdzL2Zvcm11bGEtMS1waWNrcy1vZGRzLXRpbWUtZ3JpZC0yMDI0LWNhbmFkaWFuLWdyYW5kLXByaXgtcHJlZGljdGlvbnMtZjEtYmVzdC1iZXRzLWZyb20tcHJvdmVuLW1vZGVsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
                 }
             },
             {
-                "title": "Teoscar Hern\u00e1ndez hits 2-run double in 11th, lifts Dodgers over Yankees 2-1 - The Associated Press",
-                "description": "Teoscar Hern\u00e1ndez hits 2-run double in 11th, lifts Dodgers over Yankees 2-1  The Associated Press",
-                "published date": "Sat, 08 Jun 2024 18:49:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2RvZGdlcnMteWFua2Vlcy1zY29yZS1kMWIwMTg4ODI1OTY1NmYyOTU4NjZmYmYzOWQ0Njk1NtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Verstappen admits first day in Canada 'not ideal' - Formula 1",
+                "description": "Verstappen admits first day in Canada 'not ideal'  Formula 1",
+                "published date": "Fri, 07 Jun 2024 22:57:55 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5mb3JtdWxhMS5jb20vZW4vbGF0ZXN0L2FydGljbGUvdmVyc3RhcHBlbi1hZG1pdHMtZmlyc3QtZGF5LWluLWNhbmFkYS1ub3QtaWRlYWwtYXMtaGUtcmVhY3RzLXRvLWZwMi43Nll0ZEozVnVjVUhiVFpqZUJMZ3VC0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.formula1.com",
+                    "title": "Formula 1"
+                }
+            },
+            {
+                "title": "F1 Canadian Grand Prix: How to watch, odds, and weekend schedule for Montreal - USA TODAY",
+                "description": "F1 Canadian Grand Prix: How to watch, odds, and weekend schedule for Montreal  USA TODAY",
+                "published date": "Wed, 05 Jun 2024 10:35:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbW90b3IvZm9ybXVsYTEvMjAyNC8wNi8wNS9mMS1jYW5hZGlhbi1ncmFuZC1wcml4LWhvdy10by13YXRjaC1vZGRzLXNjaGVkdWxlLzczOTc3NDY3MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Max Verstappen wins 3rd straight Canadian Grand Prix for 60th Formula 1 victory - The Associated Press",
+                "description": "Max Verstappen wins 3rd straight Canadian Grand Prix for 60th Formula 1 victory  The Associated Press",
+                "published date": "Sun, 09 Jun 2024 23:19:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2YxLWNhbmFkaWFuLWdyYW5kLXByaXgtbW9udHJlYWwtN2UzMWRkZDFlYWRlYjNhMDY0MzU2ZjA5YzExYTZhNTfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
                 }
             },
             {
-                "title": "Teoscar Hern\u00e1ndez grand slam fuels Dodgers blowout of Yankees - Los Angeles Times",
-                "description": "Teoscar Hern\u00e1ndez grand slam fuels Dodgers blowout of Yankees  Los Angeles Times",
-                "published date": "Sun, 09 Jun 2024 04:29:44 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL3Nwb3J0cy9kb2RnZXJzL3N0b3J5LzIwMjQtMDYtMDgvdGVvc2Nhci1oZXJuYW5kZXotZ3JhbmQtc2xhbS1wb3dlcnMtZG9kZ2Vycy15YW5rZWVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Free Canada F1 Live Stream: Where to Watch This Week's Formula 1 GP - Business Insider",
+                "description": "Free Canada F1 Live Stream: Where to Watch This Week's Formula 1 GP  Business Insider",
+                "published date": "Sun, 09 Jun 2024 15:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZ3VpZGVzL3N0cmVhbWluZy9mcmVlLWNhbmFkYS1mMS1saXZlLXN0cmVhbS13aGVyZS10by13YXRjaC1mb3JtdWxhLTEtZ3AtMjAyNNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
+                    "href": "https://www.businessinsider.com",
+                    "title": "Business Insider"
                 }
             },
             {
-                "title": "Yankees overpowered by Teoscar Hernandez in loss to Dodgers as Aaron Judge homers twice - New York Daily News",
-                "description": "Yankees overpowered by Teoscar Hernandez in loss to Dodgers as Aaron Judge homers twice  New York Daily News",
-                "published date": "Sun, 09 Jun 2024 03:10:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzA2LzA4L3lhbmtlZXMtdGVvc2Nhci1oZXJuYW5kZXotZG9kZ2Vycy1hYXJvbi1qdWRnZS1zaG9oZWktb2h0YW5pL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Formula 1: Max Verstappen wins chaotic Canadian Grand Prix - Yahoo Sports",
+                "description": "Formula 1: Max Verstappen wins chaotic Canadian Grand Prix  Yahoo Sports",
+                "published date": "Sun, 09 Jun 2024 19:49:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9mb3JtdWxhLTEtbWF4LXZlcnN0YXBwZW4td2lucy1jaGFvdGljLWNhbmFkaWFuLWdyYW5kLXByaXgtMTk0OTM4MzM0Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nydailynews.com",
-                    "title": "New York Daily News"
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
                 }
             },
             {
-                "title": "There's been a build-up for Teoscar Hern\u00e1ndez's and Alex Vesia's New York moments - mlblogs.com",
-                "description": "There's been a build-up for Teoscar Hern\u00e1ndez's and Alex Vesia's New York moments  mlblogs.com",
-                "published date": "Sun, 09 Jun 2024 03:42:09 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vZG9kZ2Vycy5tbGJsb2dzLmNvbS90aGVyZXMtYmVlbi1hLWJ1aWxkLXVwLWZvci10ZW9zY2FyLWhlcm4lQzMlQTFuZGV6LXMtYW5kLWFsZXgtdmVzaWEtcy1uZXcteW9yay1tb21lbnRzLTlmMTFhN2VhYmQ5OdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "AWS brings generative AI to the FORMULA 1 AWS GRAND PRIX DU CANADA 2024 | Amazon Web Services - AWS Blog",
+                "description": "AWS brings generative AI to the FORMULA 1 AWS GRAND PRIX DU CANADA 2024 | Amazon Web Services  AWS Blog",
+                "published date": "Wed, 05 Jun 2024 13:10:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXdzLmFtYXpvbi5jb20vYmxvZ3MvbWVkaWEvYXdzLWJyaW5ncy1nZW5lcmF0aXZlLWFpLXRvLXRoZS1mb3JtdWxhLTEtYXdzLWdyYW5kLXByaXgtZHVlLWNhbmFkYS0yMDI0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://dodgers.mlblogs.com",
-                    "title": "mlblogs.com"
+                    "href": "https://aws.amazon.com",
+                    "title": "AWS Blog"
                 }
             },
             {
-                "title": "Teoscar Hernandez drives in six runs, leads Dodgers to rout of Yankees - OCRegister",
-                "description": "Teoscar Hernandez drives in six runs, leads Dodgers to rout of Yankees  OCRegister",
-                "published date": "Sun, 09 Jun 2024 03:18:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDYvMDgvdGVvc2Nhci1oZXJuYW5kZXotZHJpdmVzLWluLXNpeC1ydW5zLWxlYWRzLWRvZGdlcnMtdG8tcm91dC1vZi15YW5rZWVzL9IBcGh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDYvMDgvdGVvc2Nhci1oZXJuYW5kZXotZHJpdmVzLWluLXNpeC1ydW5zLWxlYWRzLWRvZGdlcnMtdG8tcm91dC1vZi15YW5rZWVzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.ocregister.com",
-                    "title": "OCRegister"
-                }
-            },
-            {
-                "title": "Teoscar Hernandez, Dodgers top Yankees in 11-inning battle - Reuters",
-                "description": "Teoscar Hernandez, Dodgers top Yankees in 11-inning battle  Reuters",
-                "published date": "Sat, 08 Jun 2024 02:46:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9iYXNlYmFsbC90ZW9zY2FyLWhlcm5hbmRlei1kb2RnZXJzLXRvcC15YW5rZWVzLTExLWlubmluZy1iYXR0bGUtMjAyNC0wNi0wOC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Formula One statistics for the Canadian Grand Prix - Reuters",
+                "description": "Formula One statistics for the Canadian Grand Prix  Reuters",
+                "published date": "Wed, 05 Jun 2024 23:28:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9mb3JtdWxhMS9mb3JtdWxhLW9uZS1zdGF0aXN0aWNzLWNhbmFkaWFuLWdyYW5kLXByaXgtMjAyNC0wNi0wNS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.reuters.com",
                     "title": "Reuters"
                 }
             },
             {
-                "title": "Dodgers' Teoscar Hern\u00e1ndez crushes grand slam, drives in 6 to topple Yankees - The New York Times",
-                "description": "Dodgers' Teoscar Hern\u00e1ndez crushes grand slam, drives in 6 to topple Yankees  The New York Times",
-                "published date": "Sun, 09 Jun 2024 05:10:18 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5ueXRpbWVzLmNvbS9hdGhsZXRpYy81NTUxMzQzLzIwMjQvMDYvMDkvZG9kZ2Vycy10ZW9zY2FyLWhlcm5hbmRlei1jcnVzaGVzLWdyYW5kLXNsYW0tZHJpdmVzLWluLXNpeC10by10b3BwbGUteWFua2Vlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "FIA unveils Formula 1 regulations for 2026 and beyond featuring more agile cars and active aerodynamics | Formula 1\u00ae - Formula 1",
+                "description": "FIA unveils Formula 1 regulations for 2026 and beyond featuring more agile cars and active aerodynamics | Formula 1\u00ae  Formula 1",
+                "published date": "Thu, 06 Jun 2024 13:34:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5mb3JtdWxhMS5jb20vZW4vbGF0ZXN0L2FydGljbGUvZmlhLXVudmVpbHMtZm9ybXVsYS0xLXJlZ3VsYXRpb25zLWZvci0yMDI2LWFuZC1iZXlvbmQtZmVhdHVyaW5nLW1vcmUtYWdpbGUuNzVxSmlZT0hYZ2VKcXNWUXREcjJVQtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
+                    "href": "https://www.formula1.com",
+                    "title": "Formula 1"
+                }
+            },
+            {
+                "title": "Formula 1 schedule: Start times, TV networks, and more in 2024 - Motorsports Wire",
+                "description": "Formula 1 schedule: Start times, TV networks, and more in 2024  Motorsports Wire",
+                "published date": "Sat, 08 Jun 2024 13:59:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbW90b3JzcG9ydHN3aXJlLnVzYXRvZGF5LmNvbS8yMDI0LzA2LzA4L2Zvcm11bGEtMS1zY2hlZHVsZS1zdGFydC10aW1lcy10di1uZXR3b3Jrcy1tb3JlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://motorsportswire.usatoday.com",
+                    "title": "Motorsports Wire"
                 }
             }
         ]
