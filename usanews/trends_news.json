@@ -1,12 +1,12 @@
 [
     {
         "name": "iOS 18",
-        "summary": "iOS 18 has been announced with a focus on enhanced artificial intelligence and a more customizable homescreen. Key features include improved Siri functionality, Apple Intelligence, upgraded safety measures, and enhanced accessibility options. The release is expected to bring significant changes to the iPhone operating system, offering a more personalized and intuitive user experience. Additionally, the WWDC 2024 event is anticipated to unveil further updates on iOS 18, including potential integrations with ChatGPT and other AI-powered enhancements.",
+        "summary": "Apple has announced the preview of iOS 18, showcasing the latest software update for iPhones. CNET highlights the new features, including Siri upgrades and Apple Intelligence. TechRadar provides details on confirmed features and the predicted release date. iMore explores Apple Intelligence, ChatGPT integration, and other key updates. 9to5Mac unveils the features included in the iOS 18 beta 1. Variety and USA TODAY cover the latest iPhone software release, emphasizing its new capabilities. WIRED lists the top new features coming to iOS 18 and iPadOS 18. CNN Underscored summarizes 10 major new features users can expect. Apple's official statement emphasizes the increased personalization, capabilities, and intelligence of iOS 18.",
         "items": [
             {
                 "title": "iOS 18 Preview - Apple",
                 "description": "iOS 18 Preview  Apple",
-                "published date": "Mon, 10 Jun 2024 17:55:29 GMT",
+                "published date": "Mon, 10 Jun 2024 18:48:56 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmFwcGxlLmNvbS9pb3MvaW9zLTE4LXByZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.apple.com",
@@ -34,16 +34,6 @@
                 }
             },
             {
-                "title": "iOS 18 beta 1: Here's what features are included - 9to5Mac",
-                "description": "iOS 18 beta 1: Here's what features are included  9to5Mac",
-                "published date": "Tue, 11 Jun 2024 08:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNi8xMS9pb3MtMTgtYmV0YS0xL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://9to5mac.com",
-                    "title": "9to5Mac"
-                }
-            },
-            {
                 "title": "iOS 18: Everything you need to know about Apple Intelligence, ChatGPT on iPhone, and more - iMore",
                 "description": "iOS 18: Everything you need to know about Apple Intelligence, ChatGPT on iPhone, and more  iMore",
                 "published date": "Mon, 10 Jun 2024 19:26:39 GMT",
@@ -54,13 +44,23 @@
                 }
             },
             {
-                "title": "Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More - Bloomberg",
-                "description": "Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More  Bloomberg",
-                "published date": "Fri, 07 Jun 2024 11:00:25 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTA3L2FwcGxlLXd3ZGMtMjAyNC13aGF0LXRvLWV4cGVjdC1haS1pcGFkb3MtMTgtbWFjb3MtMTUtc2lyaS11cGRhdGVzLW1vcmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "iOS 18 beta 1: Here's what features are included - 9to5Mac",
+                "description": "iOS 18 beta 1: Here's what features are included  9to5Mac",
+                "published date": "Tue, 11 Jun 2024 08:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNi8xMS9pb3MtMTgtYmV0YS0xL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.bloomberg.com",
-                    "title": "Bloomberg"
+                    "href": "https://9to5mac.com",
+                    "title": "9to5Mac"
+                }
+            },
+            {
+                "title": "Apple iOS 18: What\u2019s New in the Latest iPhone Software Release - Variety",
+                "description": "Apple iOS 18: What\u2019s New in the Latest iPhone Software Release  Variety",
+                "published date": "Tue, 11 Jun 2024 17:52:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvaW9zLTE4LXdoYXRzLW5ldy1hcHBsZS1pcGhvbmUtcmVsZWFzZS0xMjM2MDMzNjAzL9IBW2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvaW9zLTE4LXdoYXRzLW5ldy1hcHBsZS1pcGhvbmUtcmVsZWFzZS0xMjM2MDMzNjAzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
                 }
             },
             {
@@ -94,20 +94,20 @@
                 }
             },
             {
-                "title": "Apple announces iOS 18 with new AI features and more customizable homescreen - The Verge",
-                "description": "Apple announces iOS 18 with new AI features and more customizable homescreen  The Verge",
-                "published date": "Mon, 10 Jun 2024 17:17:55 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzYvMTAvMjQxNzIxMzIvYXBwbGUtaW9zLTE4LW5ldy1mZWF0dXJlcy1hadIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "iOS 18 makes iPhone more personal, capable, and intelligent than ever - Apple",
+                "description": "iOS 18 makes iPhone more personal, capable, and intelligent than ever  Apple",
+                "published date": "Mon, 10 Jun 2024 21:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFwcGxlLmNvbS9uZXdzcm9vbS8yMDI0LzA2L2lvcy0xOC1tYWtlcy1pcGhvbmUtbW9yZS1wZXJzb25hbC1jYXBhYmxlLWFuZC1pbnRlbGxpZ2VudC10aGFuLWV2ZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.theverge.com",
-                    "title": "The Verge"
+                    "href": "https://www.apple.com",
+                    "title": "Apple"
                 }
             }
         ]
     },
     {
         "name": "Florida Panthers",
-        "summary": "The Edmonton Oilers and Florida Panthers are facing off in the Stanley Cup Final, a matchup of two teams with contrasting backgrounds. The Panthers, a first-time finalist, are riding a wave of momentum after sweeping the Presidents Trophy-winning Colorado Avalanche in the second round and then defeating the heavily favored Tampa Bay Lightning in the Eastern Conference Final. The Oilers, meanwhile, are making their sixth appearance in the Final, but their first since 2006. Game 1 of the series resulted in a 3-0 shutout victory for the Panthers, with goalie Sergei Bobrovsky making 32 saves. The series continues with Game 2 in Edmonton on Saturday night.",
+        "summary": "In an intriguing Stanley Cup Final matchup, the Edmonton Oilers and Florida Panthers are contrasting teams. The Panthers have announced activations for the 2024 Stanley Cup Final, while the Oilers face an uphill battle after losing Game 2 4-1. Game 1's livestream options are available, with the Panthers taking an early lead. Panthers coach Paul Maurice expresses his desire to win the Stanley Cup. Predictions and analysis for the series abound, with the Panthers holding a 2-0 advantage after defeating the Oilers 4-1 in Game 2 and 3-0 in Game 3. A tradition of throwing fake rats onto the ice by Panthers fans adds to the intrigue, as the team moves within two wins of the Stanley Cup.",
         "items": [
             {
                 "title": "Edmonton Oilers vs. Florida Panthers is a Stanley Cup Final of teams far apart in every way - The Associated Press",
@@ -140,16 +140,6 @@
                 }
             },
             {
-                "title": "How the Florida Panthers beat the Edmonton Oilers 3-0 in Game 1 of the Stanley Cup Final - The Athletic - The New York Times",
-                "description": "How the Florida Panthers beat the Edmonton Oilers 3-0 in Game 1 of the Stanley Cup Final - The Athletic  The New York Times",
-                "published date": "Sun, 09 Jun 2024 03:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljL2xpdmUtYmxvZ3MvcGFudGhlcnMtdnMtb2lsZXJzLWxpdmUtc3RhbmxleS1jdXAtZmluYWwtc2NvcmUtdXBkYXRlcy83ZXZWNTgxVXM5Umgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
                 "title": "How to watch the Edmonton Oilers vs. Florida Panthers NHL Stanley Cup Finals Game 1 tonight: Livestream options - CBS News",
                 "description": "How to watch the Edmonton Oilers vs. Florida Panthers NHL Stanley Cup Finals Game 1 tonight: Livestream options  CBS News",
                 "published date": "Sat, 08 Jun 2024 10:30:25 GMT",
@@ -160,13 +150,13 @@
                 }
             },
             {
-                "title": "Why do Panthers fans throw fake rats onto the ice? How the tradition began - NBC Miami",
-                "description": "Why do Panthers fans throw fake rats onto the ice? How the tradition began  NBC Miami",
-                "published date": "Fri, 07 Jun 2024 22:25:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5iY21pYW1pLmNvbS9uZXdzL3Nwb3J0cy9uaGwvZmxvcmlkYS1wYW50aGVycy1mYW5zLXRocm93LXJhdHMtaWNlLXRyYWRpdGlvbi8zMzMxNDY0L9IBZmh0dHBzOi8vd3d3Lm5iY21pYW1pLmNvbS9uZXdzL3Nwb3J0cy9uaGwvZmxvcmlkYS1wYW50aGVycy1mYW5zLXRocm93LXJhdHMtaWNlLXRyYWRpdGlvbi8zMzMxNDY0Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Florida Panthers defeat Edmonton Oilers in Game 1 of NHL Stanley Cup Final - CNN",
+                "description": "Florida Panthers defeat Edmonton Oilers in Game 1 of NHL Stanley Cup Final  CNN",
+                "published date": "Sun, 09 Jun 2024 04:38:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wOS9zcG9ydC9mbG9yaWRhLXBhbnRoZXJzLWVkbW9udG9uLW9pbGVycy1nYW1lLTEtc3RhbmxleS1jdXAtZmluYWwvaW5kZXguaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcmiami.com",
-                    "title": "NBC Miami"
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
@@ -190,10 +180,20 @@
                 }
             },
             {
-                "title": "Bobrovsky makes 32 saves as the Panthers shut out the Oilers 3-0 in Game 1 of Stanley Cup Final - The Associated Press",
-                "description": "Bobrovsky makes 32 saves as the Panthers shut out the Oilers 3-0 in Game 1 of Stanley Cup Final  The Associated Press",
-                "published date": "Sun, 09 Jun 2024 05:32:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N0YW5sZXktY3VwLW9pbGVycy1wYW50aGVycy1zY29yZS1hYzQwNWRhODlkZjQ4ZTkwZTFiMDdmYTJiYjU3MTY2MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Why do Panthers fans throw fake rats onto the ice? How the tradition began - NBC Miami",
+                "description": "Why do Panthers fans throw fake rats onto the ice? How the tradition began  NBC Miami",
+                "published date": "Fri, 07 Jun 2024 22:25:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5iY21pYW1pLmNvbS9uZXdzL3Nwb3J0cy9uaGwvZmxvcmlkYS1wYW50aGVycy1mYW5zLXRocm93LXJhdHMtaWNlLXRyYWRpdGlvbi8zMzMxNDY0L9IBZmh0dHBzOi8vd3d3Lm5iY21pYW1pLmNvbS9uZXdzL3Nwb3J0cy9uaGwvZmxvcmlkYS1wYW50aGVycy1mYW5zLXRocm93LXJhdHMtaWNlLXRyYWRpdGlvbi8zMzMxNDY0Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcmiami.com",
+                    "title": "NBC Miami"
+                }
+            },
+            {
+                "title": "Panthers now 2 wins from the Stanley Cup, top Oilers 4-1 for 2-0 lead in title series - The Associated Press",
+                "description": "Panthers now 2 wins from the Stanley Cup, top Oilers 4-1 for 2-0 lead in title series  The Associated Press",
+                "published date": "Tue, 11 Jun 2024 04:39:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N0YW5sZXktY3VwLW5obC1wYW50aGVycy1vaWxlcnMtMDI3MzNhM2U4NGM1NDRmMzI1MGI0MTFmNjYwODU1YjDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
@@ -213,7 +213,7 @@
     },
     {
         "name": "Rebecca Grossman",
-        "summary": "Rebecca Grossman, a socialite and co-founder of the Burn Foundation, has been sentenced to 15 years to life in prison for the deaths of two young boys in a 2020 hit-and-run incident in Los Angeles. Grossman was under the influence of alcohol and prescription drugs at the time of the crash, which occurred in a crosswalk. The prosecutors had sought a sentence of 34 years to life, while Grossman's attorneys argued for a shorter term of 6 years. The judge ultimately imposed a sentence that falls between the two requests. The case has drawn significant attention due to Grossman's connections and the tragic loss of life.",
+        "summary": "Rebecca Grossman, a California socialite, has been sentenced to 15 years to life in prison for killing two young boys in a hit-and-run accident in Westlake Village. The crash occurred in 2020 when Grossman's car struck the boys as they crossed the street in a crosswalk. Grossman initially fled the scene but later turned herself in. She was convicted of murder and other charges related to the accident. The District Attorney had sought a sentence of 34 years to life, but the judge ruled that Grossman's lack of prior criminal history and remorse for her actions warranted a lesser sentence.",
         "items": [
             {
                 "title": "Rebecca Grossman gets 15 years to life for murder of boys killed in crosswalk - Los Angeles Times",
@@ -236,10 +236,10 @@
                 }
             },
             {
-                "title": "Rebecca Grossman faces sentencing Monday - FOX 11 Los Angeles",
-                "description": "Rebecca Grossman faces sentencing Monday  FOX 11 Los Angeles",
-                "published date": "Mon, 10 Jun 2024 13:36:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL3JlYmVjY2EtZ3Jvc3NtYW4tZmFjZXMtc2VudGVuY2luZ9IBQGh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL3JlYmVjY2EtZ3Jvc3NtYW4tZmFjZXMtc2VudGVuY2luZy5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Rebecca Grossman sentenced to 15 years to life in Westlake Village crash that left 2 boys dead - FOX 11 Los Angeles",
+                "description": "Rebecca Grossman sentenced to 15 years to life in Westlake Village crash that left 2 boys dead  FOX 11 Los Angeles",
+                "published date": "Mon, 10 Jun 2024 20:20:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL3JlYmVjY2EtZ3Jvc3NtYW4tc2VudGVuY2Vk0gE5aHR0cHM6Ly93d3cuZm94bGEuY29tL25ld3MvcmViZWNjYS1ncm9zc21hbi1zZW50ZW5jZWQuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.foxla.com",
                     "title": "FOX 11 Los Angeles"
@@ -256,6 +256,16 @@
                 }
             },
             {
+                "title": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash - The Washington Post",
+                "description": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash  The Washington Post",
+                "published date": "Tue, 11 Jun 2024 08:37:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wNi8xMS9yZWJlY2NhLWdyb3NzbWFuLXNlbnRlbmNpbmctY3Jhc2gv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.washingtonpost.com",
+                    "title": "The Washington Post"
+                }
+            },
+            {
                 "title": "California socialite Rebecca Grossman sentenced to 15 to life for killing 2 kids in crosswalk - NBC News",
                 "description": "California socialite Rebecca Grossman sentenced to 15 to life for killing 2 kids in crosswalk  NBC News",
                 "published date": "Mon, 10 Jun 2024 22:53:00 GMT",
@@ -268,7 +278,7 @@
             {
                 "title": "Rebecca Grossman: Socialite jailed for hit-and-run deaths - BBC.com",
                 "description": "Rebecca Grossman: Socialite jailed for hit-and-run deaths  BBC.com",
-                "published date": "Tue, 11 Jun 2024 11:50:55 GMT",
+                "published date": "Tue, 11 Jun 2024 11:20:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbWxseDJucDJ5bW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY21sbHgybnAyeW1vLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.bbc.com",
@@ -276,13 +286,13 @@
                 }
             },
             {
-                "title": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash - The Washington Post",
-                "description": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash  The Washington Post",
-                "published date": "Tue, 11 Jun 2024 08:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wNi8xMS9yZWJlY2NhLWdyb3NzbWFuLXNlbnRlbmNpbmctY3Jhc2gv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Rebecca Grossman Is Sentenced for Hit-and-Run Murder of 2 Boys - The New York Times",
+                "description": "Rebecca Grossman Is Sentenced for Hit-and-Run Murder of 2 Boys  The New York Times",
+                "published date": "Tue, 11 Jun 2024 21:40:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvcmViZWNjYS1ncm9zc21hbi1oaXQtcnVuLXNlbnRlbmNlZC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
                 }
             },
             {
@@ -296,49 +306,29 @@
                 }
             },
             {
-                "title": "Rebecca Grossman sentenced for 2020 hit-and-run deaths of 2 brothers - USA TODAY",
-                "description": "Rebecca Grossman sentenced for 2020 hit-and-run deaths of 2 brothers  USA TODAY",
-                "published date": "Tue, 11 Jun 2024 06:18:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzExL2NhbGlmb3JuaWEtcmViZWNjYS1ncm9zc21hbi1zZW50ZW5jaW5nLW1hcmstaXNrYW5kZXItamFjb2IvNzQwNTMyNzgwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Rebecca Grossman sentenced to 15 years in SoCal crash that killed 2 kids - KTVU FOX 2 San Francisco",
+                "description": "Rebecca Grossman sentenced to 15 years in SoCal crash that killed 2 kids  KTVU FOX 2 San Francisco",
+                "published date": "Mon, 10 Jun 2024 21:21:55 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvcmViZWNjYS1ncm9zc21hbi1zZW50ZW5jZWQtY2FsaWZvcm5pYS1jcmFzaNIBSWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvcmViZWNjYS1ncm9zc21hbi1zZW50ZW5jZWQtY2FsaWZvcm5pYS1jcmFzaC5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Rebecca Grossman gets 15 years to life for crash that killed 2 boys - KTLA Los Angeles",
-                "description": "Rebecca Grossman gets 15 years to life for crash that killed 2 boys  KTLA Los Angeles",
-                "published date": "Mon, 10 Jun 2024 16:27:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3JlYmVjY2EtZ3Jvc3NtYW4tcGVucy1sZXR0ZXItdG8tanVkZ2Utc2F5aW5nLXNoZS1pcy1ub3QtYS1tdXJkZXJlci1haGVhZC1vZi1zZW50ZW5jaW5nL9IBfGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3JlYmVjY2EtZ3Jvc3NtYW4tcGVucy1sZXR0ZXItdG8tanVkZ2Utc2F5aW5nLXNoZS1pcy1ub3QtYS1tdXJkZXJlci1haGVhZC1vZi1zZW50ZW5jaW5nL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://ktla.com",
-                    "title": "KTLA Los Angeles"
+                    "href": "https://www.ktvu.com",
+                    "title": "KTVU FOX 2 San Francisco"
                 }
             }
         ]
     },
     {
         "name": "Nvidia stock price",
-        "summary": "Nvidia's recent stock split, which divided each share into 10 smaller ones, caused a surge in its stock price. The move aimed to make Nvidia's shares more accessible to smaller investors. Experts have mixed opinions on whether the stock is a good buy after the split, with some analysts raising their price targets while others remain cautious due to its high valuation. Despite the price increase, Nvidia's stock remains within reach of more investors, potentially attracting increased interest and widening its shareholder base.",
+        "summary": "Nvidia, a prominent technology firm, has recently implemented a 10-for-1 stock split, making its shares more affordable for individual investors. This corporate action has resulted in a slight increase in the stock's value, accompanied by upward revisions in price targets from numerous analysts. Experts speculate that the split may further drive up the stock price, making it an attractive investment opportunity. However, it is crucial to note that stock performance can be influenced by various factors, and investors should carefully consider their individual circumstances and risk tolerance before making any investment decisions.",
         "items": [
             {
                 "title": "Nvidia's stock split makes it look like Cisco - Axios",
                 "description": "Nvidia's stock split makes it look like Cisco  Axios",
-                "published date": "Tue, 11 Jun 2024 02:03:35 GMT",
+                "published date": "Mon, 10 Jun 2024 14:59:45 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA2LzEwL252aWRpYS1jaGlwcy1jaXNjby1zdG9jay1zcGxpdC1haS1nZW5hadIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.axios.com",
                     "title": "Axios"
-                }
-            },
-            {
-                "title": "Nvidia's Stock Price Just Exploded. Time to Buy? - The Motley Fool",
-                "description": "Nvidia's Stock Price Just Exploded. Time to Buy?  The Motley Fool",
-                "published date": "Wed, 05 Jun 2024 10:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA2LzA1L252aWRpYXMtc3RvY2stcHJpY2UtanVzdC1leHBsb2RlZC10aW1lLXRvLWJ1eS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.fool.com",
-                    "title": "The Motley Fool"
                 }
             },
             {
@@ -349,6 +339,16 @@
                 "publisher": {
                     "href": "https://www.investopedia.com",
                     "title": "Investopedia"
+                }
+            },
+            {
+                "title": "Nvidia's Stock Price Just Exploded. Time to Buy? - Yahoo Finance",
+                "description": "Nvidia's Stock Price Just Exploded. Time to Buy?  Yahoo Finance",
+                "published date": "Wed, 05 Jun 2024 10:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9udmlkaWFzLXN0b2NrLXByaWNlLWp1c3QtZXhwbG9kZWQtMTAxNTAwMzc0Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://finance.yahoo.com",
+                    "title": "Yahoo Finance"
                 }
             },
             {
@@ -392,16 +392,6 @@
                 }
             },
             {
-                "title": "Nvidia stock rises after 10-for-1 stock split - Yahoo Finance",
-                "description": "Nvidia stock rises after 10-for-1 stock split  Yahoo Finance",
-                "published date": "Mon, 10 Jun 2024 20:46:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9udmlkaWEtc3RvY2stcmlzZXMtYWZ0ZXItMTAtZm9yLTEtc3RvY2stc3BsaXQtMjA0NDEyNTI4Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://finance.yahoo.com",
-                    "title": "Yahoo Finance"
-                }
-            },
-            {
                 "title": "Analysts reset Nvidia stock price targets amid split, Dow entry talk - TheStreet",
                 "description": "Analysts reset Nvidia stock price targets amid split, Dow entry talk  TheStreet",
                 "published date": "Mon, 10 Jun 2024 15:26:49 GMT",
@@ -412,20 +402,30 @@
                 }
             },
             {
-                "title": "Nvidia's stock is expensive. A look at why, and how that should change, by the numbers - ABC News",
-                "description": "Nvidia's stock is expensive. A look at why, and how that should change, by the numbers  ABC News",
-                "published date": "Mon, 10 Jun 2024 13:27:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvd2lyZVN0b3J5L252aWRpYXMtc3RvY2stZXhwZW5zaXZlLWNoYW5nZS1udW1iZXJzLTExMDc4Mzc0MNIBWGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL3dpcmVTdG9yeS9udmlkaWFzLXN0b2NrLWV4cGVuc2l2ZS1jaGFuZ2UtbnVtYmVycy0xMTA3ODM3NDA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Nvidia Is Splitting Its Stock. What Happens Next. - Barron's",
+                "description": "Nvidia Is Splitting Its Stock. What Happens Next.  Barron's",
+                "published date": "Fri, 07 Jun 2024 20:42:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL252aWRpYS1zdG9jay1zcGxpdC1wcmljZS10b2RheS1lMjIyNWY1MtIBTGh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FtcC9hcnRpY2xlcy9udmlkaWEtc3RvY2stc3BsaXQtcHJpY2UtdG9kYXktZTIyMjVmNTI?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
+                    "href": "https://www.barrons.com",
+                    "title": "Barron's"
+                }
+            },
+            {
+                "title": "Here's what experts predict will happen with Nvidia's stock split - Fast Company",
+                "description": "Here's what experts predict will happen with Nvidia's stock split  Fast Company",
+                "published date": "Thu, 06 Jun 2024 22:18:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MTEzNjU2OC9leHBlcnRzLXByZWRpY3Qtd2hhdC1oYXBwZW5zLW52aWRpYS1zdG9jay1zcGxpdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fastcompany.com",
+                    "title": "Fast Company"
                 }
             }
         ]
     },
     {
         "name": "iOS 18 beta",
-        "summary": "Apple has released the initial beta version of its upcoming iOS 18 operating system for developers. The beta includes various new features, such as a revamped Lock Screen, widgets, and notification handling. Additionally, iOS 18 introduces new intelligence features for developers to integrate into their apps. Detailed instructions are available on how to download the iOS 18 beta onto compatible iPhone models. It's important to note that beta software is intended for developers and may contain bugs, so it's not recommended for installation on devices that are used as primary phones.",
+        "summary": "Apple has released the first beta version of iOS 18, offering a glimpse into the upcoming software update for iPhones. The beta introduces several new features and improvements, including customizable home screens, enhanced photo apps, and new accessibility options. Users can now download the beta directly to their iPhone or via a desktop computer. The beta is currently available to developers and will be released to the public later this year.",
         "items": [
             {
                 "title": "iOS 18 beta 1: Here's what features are included - 9to5Mac",
@@ -440,7 +440,7 @@
             {
                 "title": "iOS 18 Preview - Apple",
                 "description": "iOS 18 Preview  Apple",
-                "published date": "Mon, 10 Jun 2024 17:55:29 GMT",
+                "published date": "Mon, 10 Jun 2024 18:48:56 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmFwcGxlLmNvbS9pb3MvaW9zLTE4LXByZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.apple.com",
@@ -488,13 +488,13 @@
                 }
             },
             {
-                "title": "iOS 18 beta 1: 9 new iPhone features you can use right now - BGR",
-                "description": "iOS 18 beta 1: 9 new iPhone features you can use right now  BGR",
-                "published date": "Tue, 11 Jun 2024 14:22:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYmdyLmNvbS90ZWNoLzktcmVhc29ucy10by1pbnN0YWxsLWlvcy0xOC1iZXRhLW9uLXlvdXItaXBob25lLWFuZC1haS1pc250LW9uZS1vZi10aGVtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "iOS 18 beta: Customizable home screen, photo apps and more new updates for your iPhone - KPRC Click2Houston",
+                "description": "iOS 18 beta: Customizable home screen, photo apps and more new updates for your iPhone  KPRC Click2Houston",
+                "published date": "Tue, 11 Jun 2024 15:25:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jbGljazJob3VzdG9uLmNvbS9mZWF0dXJlcy8yMDI0LzA2LzExL2lvcy0xOC1iZXRhLWN1c3RvbWl6YWJsZS1ob21lLXNjcmVlbi1waG90by1hcHBzLWFuZC1tb3JlLW5ldy11cGRhdGVzLWZvci15b3VyLWlwaG9uZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://bgr.com",
-                    "title": "BGR"
+                    "href": "https://www.click2houston.com",
+                    "title": "KPRC Click2Houston"
                 }
             },
             {
@@ -508,31 +508,41 @@
                 }
             },
             {
-                "title": "Apple Intelligence Features Coming to iOS 18 Beta Testers This Summer - MacRumors",
-                "description": "Apple Intelligence Features Coming to iOS 18 Beta Testers This Summer  MacRumors",
-                "published date": "Mon, 10 Jun 2024 19:36:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vMjAyNC8wNi8xMC9hcHBsZS1pbnRlbGxpZ2VuY2UtaW9zLTE4LWJldGEv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "How to install Apple's iOS 18 beta on your iPhone - BGR",
+                "description": "How to install Apple's iOS 18 beta on your iPhone  BGR",
+                "published date": "Mon, 10 Jun 2024 15:53:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYmdyLmNvbS90ZWNoL2hvdy10by1pbnN0YWxsLWlvcy0xOC1iZXRhLW9uLWlwaG9uZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.macrumors.com",
-                    "title": "MacRumors"
+                    "href": "https://bgr.com",
+                    "title": "BGR"
                 }
             },
             {
-                "title": "iOS 18 release date, new features, compatibility - Macworld",
-                "description": "iOS 18 release date, new features, compatibility  Macworld",
-                "published date": "Mon, 10 Jun 2024 21:36:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1hY3dvcmxkLmNvbS9hcnRpY2xlLzIyMjEwNjkvaW9zLTE4LWFpLXJlbGVhc2UtZGF0ZS1mZWF0dXJlcy1jb21wYXRpYmlsaXR5LWJldGEuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "How to download iOS 18 beta \u2014 Apple Intelligence, Home Screen customization, and more - iMore",
+                "description": "How to download iOS 18 beta \u2014 Apple Intelligence, Home Screen customization, and more  iMore",
+                "published date": "Mon, 10 Jun 2024 19:11:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmltb3JlLmNvbS9pb3MvaW9zLTE4L2hvdy10by1kb3dubG9hZC1pb3MtMTgtYmV0YdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.macworld.com",
-                    "title": "Macworld"
+                    "href": "https://www.imore.com",
+                    "title": "iMore"
                 }
             }
         ]
     },
     {
         "name": "Tony Evans",
-        "summary": "Prominent pastor and author Dr. Tony Evans has announced his resignation from his leadership role at Oak Cliff Bible Fellowship in Dallas, Texas. Citing an undisclosed \"sin,\" Evans has decided to step down from his pastoral duties to focus on \"spiritual recovery and healing.\" The news has shocked and saddened the congregation, as Evans has been a beloved figure in the community for decades. The exact nature of the sin has not been revealed, but it is believed to have occurred in the past and is not related to any current allegations or improprieties. Evans has expressed his deep regret and stated that he is committed to accountability and repentance. The church is currently in the process of appointing an interim pastor and supporting Evans during this challenging time.",
+        "summary": "Tony Evans, the renowned pastor of Oak Cliff Bible Fellowship Church in Dallas, Texas, has resigned from his pastoral duties due to an unspecified \"sin.\" The news of Evans's resignation has sent shockwaves through the Christian community, as he has been a respected figure in ministry for over four decades. While the nature of Evans's sin remains undisclosed, he has expressed his deep regret and commitment to repentance and restoration. The news of his resignation has sparked conversations about the importance of accountability, forgiveness, and the power of redemption in the Christian faith.",
         "items": [
+            {
+                "title": "Who is Tony Evans? The Dallas pastor who resigned after unnamed 'sin' - USA TODAY",
+                "description": "Who is Tony Evans? The Dallas pastor who resigned after unnamed 'sin'  USA TODAY",
+                "published date": "Wed, 12 Jun 2024 00:47:51 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzExL3doby1pcy10b255LWV2YW5zLzc0MDY0NTE2MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
             {
                 "title": "Pastor and author Dr. Tony Evans announces step back from church - The Jerusalem Post",
                 "description": "Pastor and author Dr. Tony Evans announces step back from church  The Jerusalem Post",
@@ -541,26 +551,6 @@
                 "publisher": {
                     "href": "https://www.jpost.com",
                     "title": "The Jerusalem Post"
-                }
-            },
-            {
-                "title": "Tony Evans stepping down from Oak Cliff Bible Fellowship after 'sin' - USA TODAY",
-                "description": "Tony Evans stepping down from Oak Cliff Bible Fellowship after 'sin'  USA TODAY",
-                "published date": "Tue, 11 Jun 2024 15:42:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzExL3RvbnktZXZhbnMtc3RlcHBpbmctZG93bi1jaHVyY2gtc2luLzc0MDU1MDIwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit - The New York Times",
-                "description": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit  The New York Times",
-                "published date": "Tue, 11 Jun 2024 15:41:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvZGFsbGFzLXRvbnktZXZhbnMtcGFzdG9yLXNpbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
                 }
             },
             {
@@ -574,13 +564,23 @@
                 }
             },
             {
-                "title": "Tony Evans ceases pastoral ministry 'due to sin,' enters 'time of spiritual recovery and healing' - Kentucky Today",
-                "description": "Tony Evans ceases pastoral ministry 'due to sin,' enters 'time of spiritual recovery and healing'  Kentucky Today",
-                "published date": "Mon, 10 Jun 2024 17:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5rZW50dWNreXRvZGF5LmNvbS9iYXB0aXN0X2xpZmUvdG9ueS1ldmFucy1jZWFzZXMtcGFzdG9yYWwtbWluaXN0cnktZHVlLXRvLXNpbi1lbnRlcnMtdGltZS1vZi1zcGlyaXR1YWwtcmVjb3ZlcnktYW5kLWhlYWxpbmcvYXJ0aWNsZV81NTFjNzFlOC0yNzNhLTExZWYtYmRmOC0wNzlmMTk1NGZkOWEuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit - The New York Times",
+                "description": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit  The New York Times",
+                "published date": "Tue, 11 Jun 2024 15:41:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvZGFsbGFzLXRvbnktZXZhbnMtcGFzdG9yLXNpbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.kentuckytoday.com",
-                    "title": "Kentucky Today"
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Pastor Tony Evans steps down after 48 years at Oak Cliff Bible Church due to \u2018sin' - NBC DFW",
+                "description": "Pastor Tony Evans steps down after 48 years at Oak Cliff Bible Church due to \u2018sin'  NBC DFW",
+                "published date": "Wed, 12 Jun 2024 01:06:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5iY2Rmdy5jb20vbmV3cy9sb2NhbC90ZXhhcy1wYXN0b3ItcmVzaWducy1kdWUtdG8tdW5uYW1lZC1zaW4vMzU2NTIzMS_SAVhodHRwczovL3d3dy5uYmNkZncuY29tL25ld3MvbG9jYWwvdGV4YXMtcGFzdG9yLXJlc2lnbnMtZHVlLXRvLXVubmFtZWQtc2luLzM1NjUyMzEvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcdfw.com",
+                    "title": "NBC DFW"
                 }
             },
             {
@@ -604,23 +604,13 @@
                 }
             },
             {
-                "title": "Oak Cliff Bible Fellowship Church founder Tony Evans to step away from pastor duties - FOX 4 News Dallas-Fort Worth",
-                "description": "Oak Cliff Bible Fellowship Church founder Tony Evans to step away from pastor duties  FOX 4 News Dallas-Fort Worth",
-                "published date": "Tue, 11 Jun 2024 15:08:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmZveDRuZXdzLmNvbS9uZXdzL29hay1jbGlmZi1iaWJsZS1mZWxsb3dzaGlwLWNodXJjaC10b255LWV2YW5z0gFOaHR0cHM6Ly93d3cuZm94NG5ld3MuY29tL25ld3Mvb2FrLWNsaWZmLWJpYmxlLWZlbGxvd3NoaXAtY2h1cmNoLXRvbnktZXZhbnMuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Senior pastor of Oak Cliff Bible Fellowship Church in Dallas steps down \u2018due to sin\u2019 - The Dallas Morning News",
+                "description": "Senior pastor of Oak Cliff Bible Fellowship Church in Dallas steps down \u2018due to sin\u2019  The Dallas Morning News",
+                "published date": "Mon, 10 Jun 2024 22:21:42 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL2ZhaXRoLzIwMjQvMDYvMTAvc2VuaW9yLXBhc3Rvci1vZi1vYWstY2xpZmYtYmlibGUtZmVsbG93c2hpcC1jaHVyY2gtaW4tZGFsbGFzLXN0ZXBzLWRvd24tZHVlLXRvLXNpbi_SAZMBaHR0cHM6Ly93d3cuZGFsbGFzbmV3cy5jb20vbmV3cy9mYWl0aC8yMDI0LzA2LzEwL3Nlbmlvci1wYXN0b3Itb2Ytb2FrLWNsaWZmLWJpYmxlLWZlbGxvd3NoaXAtY2h1cmNoLWluLWRhbGxhcy1zdGVwcy1kb3duLWR1ZS10by1zaW4vP291dHB1dFR5cGU9YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.fox4news.com",
-                    "title": "FOX 4 News Dallas-Fort Worth"
-                }
-            },
-            {
-                "title": "Dr. Tony Evans Steps Away From Pastoral Duties Because of 'Sin' for Time of 'Repentance and Restoration' - Church Leaders",
-                "description": "Dr. Tony Evans Steps Away From Pastoral Duties Because of 'Sin' for Time of 'Repentance and Restoration'  Church Leaders",
-                "published date": "Mon, 10 Jun 2024 20:11:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vY2h1cmNobGVhZGVycy5jb20vbmV3cy80ODcyMzMtdG9ueS1ldmFucy1zdGVwcy1hd2F5LXBhc3RvcmFsLWR1dGllcy1zaW4tcmVwZW50YW5jZS1yZXN0b3JhdGlvbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://churchleaders.com",
-                    "title": "Church Leaders"
+                    "href": "https://www.dallasnews.com",
+                    "title": "The Dallas Morning News"
                 }
             },
             {
@@ -632,12 +622,22 @@
                     "href": "https://www.cbsnews.com",
                     "title": "CBS News"
                 }
+            },
+            {
+                "title": "Dr. Tony Evans Steps Away From Pastoral Duties Because of 'Sin' for Time of 'Repentance and Restoration' - Church Leaders",
+                "description": "Dr. Tony Evans Steps Away From Pastoral Duties Because of 'Sin' for Time of 'Repentance and Restoration'  Church Leaders",
+                "published date": "Mon, 10 Jun 2024 20:11:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vY2h1cmNobGVhZGVycy5jb20vbmV3cy80ODcyMzMtdG9ueS1ldmFucy1zdGVwcy1hd2F5LXBhc3RvcmFsLWR1dGllcy1zaW4tcmVwZW50YW5jZS1yZXN0b3JhdGlvbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://churchleaders.com",
+                    "title": "Church Leaders"
+                }
             }
         ]
     },
     {
         "name": "Maren Morris",
-        "summary": "Country music star Maren Morris recently made a significant announcement during Pride Month: she publicly came out as bisexual. The news was met with widespread support from fans, fellow artists, and the LGBTQ+ community. Morris shared her coming out message in a celebratory post on social media, writing, \"I'm proud to be the B in LGBTQ+.\" This announcement comes four months after Morris finalized her divorce from fellow country singer Ryan Hurd.",
+        "summary": "These news articles all center around the recent revelation by country music star Maren Morris that she identifies as bisexual. Morris, who is married to fellow country artist Ryan Hurd, made the announcement during Pride Month on social media. This is the first time she has publicly discussed her sexuality. The news has been widely reported and has been met with overwhelming support from fans and the LGBTQ+ community.",
         "items": [
             {
                 "title": "What's Up With \u201cEspresso,\u201d a Mysterious New Song Shared by Maren Morris? - Texas Monthly",
@@ -660,16 +660,6 @@
                 }
             },
             {
-                "title": "Maren Morris Comes Out As Bisexual. Read Her Message - TODAY",
-                "description": "Maren Morris Comes Out As Bisexual. Read Her Message  TODAY",
-                "published date": "Mon, 10 Jun 2024 13:54:50 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRvZGF5LmNvbS9wb3BjdWx0dXJlL211c2ljL21hcmVuLW1vcnJpcy1jb21lcy1vdXQtYmlzZXh1YWwtcmNuYTE1NjI5MdIBKmh0dHBzOi8vd3d3LnRvZGF5LmNvbS90b2RheS9hbXAvcmNuYTE1NjI5MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.today.com",
-                    "title": "TODAY"
-                }
-            },
-            {
                 "title": "Maren Morris comes out as bisexual months after divorce filing: 'Happy pride' - USA TODAY",
                 "description": "Maren Morris comes out as bisexual months after divorce filing: 'Happy pride'  USA TODAY",
                 "published date": "Mon, 10 Jun 2024 13:48:40 GMT",
@@ -687,6 +677,16 @@
                 "publisher": {
                     "href": "https://www.hollywoodreporter.com",
                     "title": "Hollywood Reporter"
+                }
+            },
+            {
+                "title": "Maren Morris Comes Out As Bisexual. Read Her Message - TODAY",
+                "description": "Maren Morris Comes Out As Bisexual. Read Her Message  TODAY",
+                "published date": "Mon, 10 Jun 2024 13:54:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRvZGF5LmNvbS9wb3BjdWx0dXJlL211c2ljL21hcmVuLW1vcnJpcy1jb21lcy1vdXQtYmlzZXh1YWwtcmNuYTE1NjI5MdIBKmh0dHBzOi8vd3d3LnRvZGF5LmNvbS90b2RheS9hbXAvcmNuYTE1NjI5MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.today.com",
+                    "title": "TODAY"
                 }
             },
             {
@@ -743,7 +743,7 @@
     },
     {
         "name": "Hybrid",
-        "summary": "",
+        "summary": "Hybrid vehicles are becoming increasingly popular as consumers seek ways to reduce their carbon footprint. These titles highlight various aspects of hybrid technology, from the upcoming testing of hybrids at the Milwaukee Mile to the \"soft\" emissions rules for hybrid trucks and SUVs. Subaru explains the benefits of their new hybrid boxer engine, while Casper introduces a hybrid snow pillow for hot sleepers. Lime's latest e-bike combines throttle and pedal assist, enhancing the riding experience. Despite some hybrid vehicles to avoid, production is ramping up as consumers temporarily shift away from EV purchases. Hybrid solar systems are also gaining traction, offering renewable energy options. This diverse range of titles reflects the growing interest and advancements in hybrid technology across different industries.",
         "items": [
             {
                 "title": "INDYCAR Set for Milwaukee Mile Hybrid Test - INDYCAR",
@@ -756,23 +756,13 @@
                 }
             },
             {
-                "title": "Plug-in polluters? How Biden's emissions rules go soft on hybrid trucks, SUVs - Reuters.com",
-                "description": "Plug-in polluters? How Biden's emissions rules go soft on hybrid trucks, SUVs  Reuters.com",
+                "title": "Plug-in polluters? How Biden's emissions rules go soft on hybrid trucks, SUVs - Reuters",
+                "description": "Plug-in polluters? How Biden's emissions rules go soft on hybrid trucks, SUVs  Reuters",
                 "published date": "Thu, 06 Jun 2024 13:44:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9hdXRvcy10cmFuc3BvcnRhdGlvbi9wbHVnLWluLXBvbGx1dGVycy1ob3ctYmlkZW5zLWVtaXNzaW9ucy1ydWxlcy1nby1zb2Z0LWh5YnJpZC10cnVja3Mtc3V2cy0yMDI0LTA2LTA2L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.reuters.com",
-                    "title": "Reuters.com"
-                }
-            },
-            {
-                "title": "Casper's Hybrid Snow Pillow is a Must for Hot Sleepers: Review - Apartment Therapy",
-                "description": "Casper's Hybrid Snow Pillow is a Must for Hot Sleepers: Review  Apartment Therapy",
-                "published date": "Tue, 11 Jun 2024 13:20:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFwYXJ0bWVudHRoZXJhcHkuY29tL2Nhc3Blci1oeWJyaWQtc25vdy1waWxsb3ctcmV2aWV3LWxsLTM3NDA0NTUx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.apartmenttherapy.com",
-                    "title": "Apartment Therapy"
+                    "title": "Reuters"
                 }
             },
             {
@@ -786,6 +776,16 @@
                 }
             },
             {
+                "title": "Casper's Hybrid Snow Pillow is a Must for Hot Sleepers: Review - Apartment Therapy",
+                "description": "Casper's Hybrid Snow Pillow is a Must for Hot Sleepers: Review  Apartment Therapy",
+                "published date": "Tue, 11 Jun 2024 13:20:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFwYXJ0bWVudHRoZXJhcHkuY29tL2Nhc3Blci1oeWJyaWQtc25vdy1waWxsb3ctcmV2aWV3LWxsLTM3NDA0NTUx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.apartmenttherapy.com",
+                    "title": "Apartment Therapy"
+                }
+            },
+            {
                 "title": "Lime's new throttle/pedal assist hybrid e-bike makes the best dockless bike even better - Seattle Bike Blog",
                 "description": "Lime's new throttle/pedal assist hybrid e-bike makes the best dockless bike even better  Seattle Bike Blog",
                 "published date": "Thu, 06 Jun 2024 19:30:17 GMT",
@@ -793,6 +793,16 @@
                 "publisher": {
                     "href": "https://www.seattlebikeblog.com",
                     "title": "Seattle Bike Blog"
+                }
+            },
+            {
+                "title": "6 Hybrid Vehicles To Stay Away From Buying - Yahoo Finance",
+                "description": "6 Hybrid Vehicles To Stay Away From Buying  Yahoo Finance",
+                "published date": "Sun, 09 Jun 2024 13:30:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy83LWh5YnJpZC12ZWhpY2xlcy1zdGF5LWF3YXktMTUwMDIxMzQxLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://finance.yahoo.com",
+                    "title": "Yahoo Finance"
                 }
             },
             {
@@ -806,6 +816,16 @@
                 }
             },
             {
+                "title": "What Is A Hybrid Solar System? June 2024 - MarketWatch",
+                "description": "What Is A Hybrid Solar System? June 2024  MarketWatch",
+                "published date": "Fri, 07 Jun 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9ndWlkZXMvc29sYXIvaHlicmlkLXNvbGFyLXN5c3RlbS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.marketwatch.com",
+                    "title": "MarketWatch"
+                }
+            },
+            {
                 "title": "I Drove a Hybrid Car for 17 Years. Here's Everything You Need to Know - AOL",
                 "description": "I Drove a Hybrid Car for 17 Years. Here's Everything You Need to Know  AOL",
                 "published date": "Mon, 10 Jun 2024 12:30:12 GMT",
@@ -816,33 +836,13 @@
                 }
             },
             {
-                "title": "A Concept of Operations for the U.S. Navy\u2019s Hybrid Fleet - CIMSEC",
-                "description": "A Concept of Operations for the U.S. Navy\u2019s Hybrid Fleet  CIMSEC",
-                "published date": "Wed, 05 Jun 2024 10:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vY2ltc2VjLm9yZy9hLWNvbmNlcHQtb2Ytb3BlcmF0aW9ucy1mb3ItdGhlLXUtcy1uYXZ5cy1oeWJyaWQtZmxlZXQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "McLaren Wants to Build a Plug-In-Hybrid SUV - Car and Driver",
+                "description": "McLaren Wants to Build a Plug-In-Hybrid SUV  Car and Driver",
+                "published date": "Fri, 07 Jun 2024 12:32:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNhcmFuZGRyaXZlci5jb20vbmV3cy9hNjEwMTk2MTEvbWNsYXJlbi1wbHVnLWluLWh5YnJpZC1zdXYtcGxhbnMtZGV0YWlscy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://cimsec.org",
-                    "title": "CIMSEC"
-                }
-            },
-            {
-                "title": "IndyCar teams quickly turn to Tuesday's Milwaukee hybrid test - RACER",
-                "description": "IndyCar teams quickly turn to Tuesday's Milwaukee hybrid test  RACER",
-                "published date": "Mon, 10 Jun 2024 12:01:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcmFjZXIuY29tLzIwMjQvMDYvMTAvaW5keWNhci10ZWFtcy1xdWlja2x5LXR1cm4tdG8tdHVlc2RheXMtbWlsd2F1a2VlLWh5YnJpZC10ZXN0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://racer.com",
-                    "title": "RACER"
-                }
-            },
-            {
-                "title": "After Road America, IndyCar has key hybrid test at Milwaukee Mile - Milwaukee Journal Sentinel",
-                "description": "After Road America, IndyCar has key hybrid test at Milwaukee Mile  Milwaukee Journal Sentinel",
-                "published date": "Fri, 07 Jun 2024 19:51:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5qc29ubGluZS5jb20vc3Rvcnkvc3BvcnRzL21vdG9yLzIwMjQvMDYvMDcvYWZ0ZXItcm9hZC1hbWVyaWNhLWluZHljYXItaGFzLWtleS1oeWJyaWQtdGVzdC1hdC1taWx3YXVrZWUtbWlsZS83NDAxMTcxNDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.jsonline.com",
-                    "title": "Milwaukee Journal Sentinel"
+                    "href": "https://www.caranddriver.com",
+                    "title": "Car and Driver"
                 }
             }
         ]
@@ -892,6 +892,16 @@
                 }
             },
             {
+                "title": "George Lopez Walks Out of Sold-Out Comedy Show Over Hecklers - Entertainment Tonight",
+                "description": "George Lopez Walks Out of Sold-Out Comedy Show Over Hecklers  Entertainment Tonight",
+                "published date": "Mon, 10 Jun 2024 14:30:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9nZW9yZ2UtbG9wZXotd2Fsa3Mtb3V0LW9mLXNvbGQtb3V0LWNvbWVkeS1zaG93LW92ZXItaGVja2xlcnMtMjI3MDI20gFgaHR0cHM6Ly93d3cuZXRvbmxpbmUuY29tL2dlb3JnZS1sb3Blei13YWxrcy1vdXQtb2Ytc29sZC1vdXQtY29tZWR5LXNob3ctb3Zlci1oZWNrbGVycy0yMjcwMjY_YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.etonline.com",
+                    "title": "Entertainment Tonight"
+                }
+            },
+            {
                 "title": "George Lopez: Casino apologizes for comic's early exit - Los Angeles Times",
                 "description": "George Lopez: Casino apologizes for comic's early exit  Los Angeles Times",
                 "published date": "Mon, 10 Jun 2024 16:59:31 GMT",
@@ -899,6 +909,16 @@
                 "publisher": {
                     "href": "https://www.latimes.com",
                     "title": "Los Angeles Times"
+                }
+            },
+            {
+                "title": "George Lopez walks out before show ends at California casino. \u2018Don\u2019t invite him back\u2019 - Fresno Bee",
+                "description": "George Lopez walks out before show ends at California casino. \u2018Don\u2019t invite him back\u2019  Fresno Bee",
+                "published date": "Sun, 09 Jun 2024 02:32:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjg5MTI2NDY0Lmh0bWzSATpodHRwczovL2FtcC5mcmVzbm9iZWUuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI4OTEyNjQ2NC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fresnobee.com",
+                    "title": "Fresno Bee"
                 }
             },
             {
@@ -922,40 +942,20 @@
                 }
             },
             {
-                "title": "Eagle Mountain Casino offers refunds after George Lopez left early - The San Joaquin Valley Sun",
-                "description": "Eagle Mountain Casino offers refunds after George Lopez left early  The San Joaquin Valley Sun",
-                "published date": "Mon, 10 Jun 2024 22:54:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vc2p2c3VuLmNvbS9saWZlc3R5bGUvZW50ZXJ0YWlubWVudC9lYWdsZS1tb3VudGFpbi1jYXNpbm8tb2ZmZXJzLXJlZnVuZHMtYWZ0ZXItZ2VvcmdlLWxvcGV6LWxlZnQtZWFybHkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "George Lopez walks off stage mid-show, casino offers apology and refund bonus - KMPH Fox 26",
+                "description": "George Lopez walks off stage mid-show, casino offers apology and refund bonus  KMPH Fox 26",
+                "published date": "Sun, 09 Jun 2024 00:04:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8va21waC5jb20vbmV3cy9sb2NhbC9nZW9yZ2UtbG9wZXotY3V0cy1sb2NhbC1zaG93LXNob3J0LWF1ZGllbmNlLXVwc2V00gFRaHR0cHM6Ly9rbXBoLmNvbS9hbXAvbmV3cy9sb2NhbC9nZW9yZ2UtbG9wZXotY3V0cy1sb2NhbC1zaG93LXNob3J0LWF1ZGllbmNlLXVwc2V0?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://sjvsun.com",
-                    "title": "The San Joaquin Valley Sun"
-                }
-            },
-            {
-                "title": "George Lopez Walks Out of Sold-Out Comedy Show Over Hecklers - Entertainment Tonight",
-                "description": "George Lopez Walks Out of Sold-Out Comedy Show Over Hecklers  Entertainment Tonight",
-                "published date": "Mon, 10 Jun 2024 14:30:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9nZW9yZ2UtbG9wZXotd2Fsa3Mtb3V0LW9mLXNvbGQtb3V0LWNvbWVkeS1zaG93LW92ZXItaGVja2xlcnMtMjI3MDI20gFgaHR0cHM6Ly93d3cuZXRvbmxpbmUuY29tL2dlb3JnZS1sb3Blei13YWxrcy1vdXQtb2Ytc29sZC1vdXQtY29tZWR5LXNob3ctb3Zlci1oZWNrbGVycy0yMjcwMjY_YW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.etonline.com",
-                    "title": "Entertainment Tonight"
-                }
-            },
-            {
-                "title": "Fans offered free tickets after George Lopez walks out of California casino show - NewsNation Now",
-                "description": "Fans offered free tickets after George Lopez walks out of California casino show  NewsNation Now",
-                "published date": "Mon, 10 Jun 2024 16:52:56 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5uZXdzbmF0aW9ubm93LmNvbS9lbnRlcnRhaW5tZW50LW5ld3MvZmFucy1vZmZlcmVkLWZyZWUtdGlja2V0cy1hZnRlci1nZW9yZ2UtbG9wZXotd2Fsa3Mtb3V0LW9mLWNhbGlmb3JuaWEtY2FzaW5vLXNob3cv0gGGAWh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL2VudGVydGFpbm1lbnQtbmV3cy9mYW5zLW9mZmVyZWQtZnJlZS10aWNrZXRzLWFmdGVyLWdlb3JnZS1sb3Blei13YWxrcy1vdXQtb2YtY2FsaWZvcm5pYS1jYXNpbm8tc2hvdy9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.newsnationnow.com",
-                    "title": "NewsNation Now"
+                    "href": "https://kmph.com",
+                    "title": "KMPH Fox 26"
                 }
             }
         ]
     },
     {
         "name": "Georgia baseball",
-        "summary": "",
+        "summary": "Georgia's baseball team faced a setback in the first game of their Super Regional against North Carolina State, falling 8-5. The Bulldogs now need to win two consecutive games to advance to the College World Series. Despite the loss, Georgia rallied in the second game to tie the series, forcing a decisive third game on Monday. Game 3 will be televised and streamed on ESPNU. The tickets for the game sold out in just five minutes, with the NCAA controlling pricing and distribution. Georgia remains optimistic and eager to perform well in this crucial game, hoping to secure a spot in the College World Series.",
         "items": [
             {
                 "title": "Georgia baseball stunned in game one of Super Regional - Red and Black",
@@ -968,10 +968,10 @@
                 }
             },
             {
-                "title": "What channel is Georgia baseball on today? NCAA tournament time, TV, streaming - Online Athens",
-                "description": "What channel is Georgia baseball on today? NCAA tournament time, TV, streaming  Online Athens",
-                "published date": "Mon, 10 Jun 2024 23:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5vbmxpbmVhdGhlbnMuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2J1bGxkb2dzLWV4dHJhLzIwMjQvMDYvMTAvZ2VvcmdpYS1iYXNlYmFsbC10b2RheS10aW1lLXR2LXNjaGVkdWxlLXN0cmVhbWluZy1pbmZvLXN1cGVyLXJlZ2lvbmFsLzc0MDM2OTExMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Georgia baseball needs two Super Regional wins after N.C. State blowout - Online Athens",
+                "description": "Georgia baseball needs two Super Regional wins after N.C. State blowout  Online Athens",
+                "published date": "Sat, 08 Jun 2024 22:52:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5vbmxpbmVhdGhlbnMuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2J1bGxkb2dzLWV4dHJhLzIwMjQvMDYvMDgvZ2VvcmdpYS1iYXNlYmFsbC1uLWMtc3RhdGUtYmFzZWJhbGwtc2NvcmUtbmNhYS1iYXNlYmFsbC10b3VybmFtZW50LXN1cGVyLXJlZ2lvbmFsLzczOTk4NTY5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.onlineathens.com",
                     "title": "Online Athens"
@@ -988,16 +988,6 @@
                 }
             },
             {
-                "title": "Georgia baseball one win from College World Series, 'Everybody is watching Game 3\u2032 at 7 p.m. - DawgNation",
-                "description": "Georgia baseball one win from College World Series, 'Everybody is watching Game 3\u2032 at 7 p.m.  DawgNation",
-                "published date": "Mon, 10 Jun 2024 13:56:01 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmRhd2duYXRpb24uY29tL2Jhc2ViYWxsL2dlb3JnaWEtYmFzZWJhbGwtbmNhYS1zdXBlci1yZWdpb25hbC1uY2FhL1ZLRDRUTFVYQkpIU0pPMkRRSDRDU1M2STdNL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.dawgnation.com",
-                    "title": "DawgNation"
-                }
-            },
-            {
                 "title": "Georgia Baseball; Game Time Announced For Game 3 of NCAA Super Regional - Sports Illustrated",
                 "description": "Georgia Baseball; Game Time Announced For Game 3 of NCAA Super Regional  Sports Illustrated",
                 "published date": "Mon, 10 Jun 2024 00:01:54 GMT",
@@ -1005,6 +995,16 @@
                 "publisher": {
                     "href": "https://www.si.com",
                     "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "NC State baseball vs Georgia prediction, odds for NCAA tournament super regionals Game 3 - The Fayetteville Observer",
+                "description": "NC State baseball vs Georgia prediction, odds for NCAA tournament super regionals Game 3  The Fayetteville Observer",
+                "published date": "Sun, 09 Jun 2024 22:11:09 GMT",
+                "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5mYXlvYnNlcnZlci5jb20vc3Rvcnkvc3BvcnRzL2NvbGxlZ2UvYWNjLzIwMjQvMDYvMDkvbmMtc3RhdGUtZ2VvcmdpYS1iYXNlYmFsbC1zdXBlci1yZWdpb25hbC1wcmVkaWN0aW9uLTIwMjQtbmNhYS10b3VybmFtZW50LWdhbWUtMy83NDAzODYwNTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fayobserver.com",
+                    "title": "The Fayetteville Observer"
                 }
             },
             {
@@ -1018,20 +1018,20 @@
                 }
             },
             {
-                "title": "NC State baseball final score: Wolfpack blasts Georgia in Athens Super Regional - The Fayetteville Observer",
-                "description": "NC State baseball final score: Wolfpack blasts Georgia in Athens Super Regional  The Fayetteville Observer",
-                "published date": "Sat, 08 Jun 2024 19:34:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5mYXlvYnNlcnZlci5jb20vc3Rvcnkvc3BvcnRzL2NvbGxlZ2UvYWNjLzIwMjQvMDYvMDgvbmMtc3RhdGUtZ2VvcmdpYS1zY29yZS11cGRhdGVzLW5jYWEtYmFzZWJhbGwtdG91cm5hbWVudC1zdXBlci1yZWdpb25hbHMvNzQwMTQyOTgwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Georgia baseball NCAA Super Regional sells out in 5 minutes, NCAA controls pricing, distribution - DawgNation",
+                "description": "Georgia baseball NCAA Super Regional sells out in 5 minutes, NCAA controls pricing, distribution  DawgNation",
+                "published date": "Thu, 06 Jun 2024 14:07:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhd2duYXRpb24uY29tL2Zvb3RiYWxsL29uLXRoZS1iZWF0L2dlb3JnaWEtYmFzZWJhbGwtbmNhYS83UkZOU1M2UUlaRjRUSjVFUjdHNUxUVVRZUS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.fayobserver.com",
-                    "title": "The Fayetteville Observer"
+                    "href": "https://www.dawgnation.com",
+                    "title": "DawgNation"
                 }
             },
             {
-                "title": "Georgia baseball needs two Super Regional wins after N.C. State blowout - Online Athens",
-                "description": "Georgia baseball needs two Super Regional wins after N.C. State blowout  Online Athens",
-                "published date": "Sat, 08 Jun 2024 22:52:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5vbmxpbmVhdGhlbnMuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2J1bGxkb2dzLWV4dHJhLzIwMjQvMDYvMDgvZ2VvcmdpYS1iYXNlYmFsbC1uLWMtc3RhdGUtYmFzZWJhbGwtc2NvcmUtbmNhYS1iYXNlYmFsbC10b3VybmFtZW50LXN1cGVyLXJlZ2lvbmFsLzczOTk4NTY5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "What channel is Georgia baseball on today? NCAA tournament time, TV, streaming - Online Athens",
+                "description": "What channel is Georgia baseball on today? NCAA tournament time, TV, streaming  Online Athens",
+                "published date": "Mon, 10 Jun 2024 23:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5vbmxpbmVhdGhlbnMuY29tL3N0b3J5L3Nwb3J0cy9jb2xsZWdlL2J1bGxkb2dzLWV4dHJhLzIwMjQvMDYvMTAvZ2VvcmdpYS1iYXNlYmFsbC10b2RheS10aW1lLXR2LXNjaGVkdWxlLXN0cmVhbWluZy1pbmZvLXN1cGVyLXJlZ2lvbmFsLzc0MDM2OTExMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.onlineathens.com",
                     "title": "Online Athens"
@@ -1061,7 +1061,7 @@
     },
     {
         "name": "Karen Read",
-        "summary": "",
+        "summary": "The Karen Read murder trial has garnered significant attention, with international observers traveling to witness the proceedings. Karen Read is on trial for the murder of her boyfriend, John O'Keefe. The prosecution alleges that Read strangled O'Keefe and staged a suicide scene, while the defense maintains that the police covered up evidence and framed Read. The trial has reached its 20th day, and a state trooper has testified, presenting clothing worn by O'Keefe. Key evidence and witness testimony from each day of the trial has been summarized and reported on. The trial continues to make headlines and spark discussions about the nature of the relationship between Read and O'Keefe, as well as the role of law enforcement in the case.",
         "items": [
             {
                 "title": "A murderous romance or a frame job? Things to know about Boston's Karen Read murder trial - The Associated Press",
@@ -1124,6 +1124,16 @@
                 }
             },
             {
+                "title": "Karen Read on trial for death of boyfriend John O'Keefe as defense claims police cover up - USA TODAY",
+                "description": "Karen Read on trial for death of boyfriend John O'Keefe as defense claims police cover up  USA TODAY",
+                "published date": "Tue, 11 Jun 2024 18:13:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzExL2thcmVuLXJlYWQtdHJpYWwtam9obi1va2VlZmUtZGVmZW5zZS1jb3Zlci11cC83NDA0ODAwMDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
                 "title": "Karen Read trial: Key updates, evidence from every day of testimony - WCVB Boston",
                 "description": "Karen Read trial: Key updates, evidence from every day of testimony  WCVB Boston",
                 "published date": "Fri, 07 Jun 2024 18:19:00 GMT",
@@ -1131,6 +1141,16 @@
                 "publisher": {
                     "href": "https://www.wcvb.com",
                     "title": "WCVB Boston"
+                }
+            },
+            {
+                "title": "Karen Read Murder Trial, Week 6.5. The ABCs of the Prosecution's Star Witness: Ass, Balloon Knot, C*nt - Barstool Sports",
+                "description": "Karen Read Murder Trial, Week 6.5. The ABCs of the Prosecution's Star Witness: Ass, Balloon Knot, C*nt  Barstool Sports",
+                "published date": "Mon, 10 Jun 2024 23:39:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5iYXJzdG9vbHNwb3J0cy5jb20vYmxvZy8zNTE2NTAwL2thcmVuLXJlYWQtbXVyZGVyLXRyaWFsLXdlZWstNi41Li10aGUtYWJjcy1vZi10aGUtcHJvc2VjdXRpb25zLXN0YXItd2l0bmVzcy1hc3MtYmFsbG9vbi1rbm90LWNudNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.barstoolsports.com",
+                    "title": "Barstool Sports"
                 }
             },
             {
@@ -1142,32 +1162,12 @@
                     "href": "https://www.boston25news.com",
                     "title": "Boston 25 News"
                 }
-            },
-            {
-                "title": "Jurors hear about Karen Read's blood alcohol level as murder trial enters fifth week - ABC News",
-                "description": "Jurors hear about Karen Read's blood alcohol level as murder trial enters fifth week  ABC News",
-                "published date": "Sat, 08 Jun 2024 14:20:26 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvd2lyZVN0b3J5L2p1cm9ycy1oZWFyLWthcmVuLXJlYWRzLWJsb29kLWFsY29ob2wtbGV2ZWwtbXVyZGVyLTExMDYyNDQxMdIBZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL3dpcmVTdG9yeS9qdXJvcnMtaGVhci1rYXJlbi1yZWFkcy1ibG9vZC1hbGNvaG9sLWxldmVsLW11cmRlci0xMTA2MjQ0MTE?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
-                }
-            },
-            {
-                "title": "Karen Read trial resumes Monday with high-ranking state police trooper on stand again - NBC Boston",
-                "description": "Karen Read trial resumes Monday with high-ranking state police trooper on stand again  NBC Boston",
-                "published date": "Mon, 10 Jun 2024 03:58:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5uYmNib3N0b24uY29tL25ld3MvbG9jYWwva2FyZW4tcmVhZC10cmlhbC1yZXN1bWVzLW1vbmRheS13aXRoLWhpZ2gtcmFua2luZy1zdGF0ZS1wb2xpY2UtdHJvb3Blci1vbi10aGUtc3RhbmQtYWdhaW4vMzM5NDMwNi_SAY0BaHR0cHM6Ly93d3cubmJjYm9zdG9uLmNvbS9uZXdzL2xvY2FsL2thcmVuLXJlYWQtdHJpYWwtcmVzdW1lcy1tb25kYXktd2l0aC1oaWdoLXJhbmtpbmctc3RhdGUtcG9saWNlLXRyb29wZXItb24tdGhlLXN0YW5kLWFnYWluLzMzOTQzMDYvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcboston.com",
-                    "title": "NBC Boston"
-                }
             }
         ]
     },
     {
         "name": "Malawi",
-        "summary": "",
+        "summary": "Several news organizations have reported on the tragic loss of Malawi's Vice President, Saulos Chilima, and nine others in a plane crash. The plane, which was carrying Chilima and former First Lady Getrude Mutharika, went missing and crashed in a forested area. After an extensive search, authorities have confirmed that all occupants on board have perished. This devastating news has been met with profound sadness and condolences from leaders around the world.",
         "items": [
             {
                 "title": "Soldiers in Malawi search for missing military plane carrying vice president and former first lady - The Associated Press",
@@ -1180,30 +1180,20 @@
                 }
             },
             {
-                "title": "Search continues for missing aircraft carrying Malawi vice president - Reuters.com",
-                "description": "Search continues for missing aircraft carrying Malawi vice president  Reuters.com",
-                "published date": "Tue, 11 Jun 2024 03:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FmcmljYS9tYWxhd2ktdmljZS1wcmVzaWRlbnRzLXBsYW5lLWdvZXMtbWlzc2luZy1iYmMtcmVwb3J0cy0yMDI0LTA2LTEwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Malawi president: all killed on plane carrying Vice President Chilima - Reuters.com",
+                "description": "Malawi president: all killed on plane carrying Vice President Chilima  Reuters.com",
+                "published date": "Tue, 11 Jun 2024 10:44:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FmcmljYS9tYWxhd2ktcHJlc2lkZW50LWFsbC1raWxsZWQtcGxhbmUtY2FycnlpbmctdmljZS1wcmVzaWRlbnQtY2hpbGltYS0yMDI0LTA2LTExL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.reuters.com",
                     "title": "Reuters.com"
                 }
             },
             {
-                "title": "Malawi Vice President Dr. Saulos Chilima killed in plane crash along with 9 others - CBS News",
-                "description": "Malawi Vice President Dr. Saulos Chilima killed in plane crash along with 9 others  CBS News",
-                "published date": "Tue, 11 Jun 2024 14:04:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1jaGlsaW1hLWRpZXMtcGxhbmUtY3Jhc2gv0gFXaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1jaGlsaW1hLWRpZXMtcGxhbmUtY3Jhc2gv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
-                "title": "Malawi vice president killed in plane crash along with 9 other passengers - CNN",
-                "description": "Malawi vice president killed in plane crash along with 9 other passengers  CNN",
-                "published date": "Tue, 11 Jun 2024 13:40:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xMS9hZnJpY2EvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1jaGlsaW1hLWtpbGxlZC1pbnRsL2luZGV4Lmh0bWzSAVpodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzExL2FmcmljYS9tYWxhd2ktdmljZS1wcmVzaWRlbnQtc2F1bG9zLWNoaWxpbWEta2lsbGVkLWludGw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Plane carrying Malawi vice president reported missing - CNN",
+                "description": "Plane carrying Malawi vice president reported missing  CNN",
+                "published date": "Tue, 11 Jun 2024 09:39:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xMC9hZnJpY2EvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXBsYW5lLWludGwvaW5kZXguaHRtbNIBSmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMTAvYWZyaWNhL21hbGF3aS12aWNlLXByZXNpZGVudC1wbGFuZS1pbnRs?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cnn.com",
                     "title": "CNN"
@@ -1220,23 +1210,23 @@
                 }
             },
             {
-                "title": "Aircraft Carrying Malawi's Vice President Is Missing - The New York Times",
-                "description": "Aircraft Carrying Malawi's Vice President Is Missing  The New York Times",
-                "published date": "Tue, 11 Jun 2024 07:23:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTAvd29ybGQvYWZyaWNhL21hbGF3aS1zYXVsb3MtY2hpbGltYS1wbGFuZS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Malawi Vice President Dr. Saulos Chilima killed in plane crash along with 9 others - CBS News",
+                "description": "Malawi Vice President Dr. Saulos Chilima killed in plane crash along with 9 others  CBS News",
+                "published date": "Tue, 11 Jun 2024 14:04:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1jaGlsaW1hLWRpZXMtcGxhbmUtY3Jhc2gv0gFXaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1jaGlsaW1hLWRpZXMtcGxhbmUtY3Jhc2gv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
-                "title": "Aircraft carrying Malawi vice-president goes missing - BBC.com",
-                "description": "Aircraft carrying Malawi vice-president goes missing  BBC.com",
-                "published date": "Tue, 11 Jun 2024 02:23:54 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5uMHprcTc5a2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRubjB6a3E3OWtvLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Malawi's Vice President Is Killed in Plane Crash - The New York Times",
+                "description": "Malawi's Vice President Is Killed in Plane Crash  The New York Times",
+                "published date": "Tue, 11 Jun 2024 19:35:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvd29ybGQvYWZyaWNhL21hbGF3aS1wbGFuZS1jcmFzaC12aWNlLXByZXNpZGVudC1jaGlsaW1hLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.bbc.com",
-                    "title": "BBC.com"
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
                 }
             },
             {
@@ -1250,16 +1240,6 @@
                 }
             },
             {
-                "title": "Malawi's Vice President Among Dead After Plane Crash Wreckage Is Found - TIME",
-                "description": "Malawi's Vice President Among Dead After Plane Crash Wreckage Is Found  TIME",
-                "published date": "Tue, 11 Jun 2024 02:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGltZS5jb20vNjk4NzI5OS9tYWxhd2ktdmljZS1wcmVzaWRlbnQtcGxhbmUtbWlzc2luZy1zZWFyY2gtdXBkYXRlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://time.com",
-                    "title": "TIME"
-                }
-            },
-            {
                 "title": "Malawi's vice president and 9 others have died in a plane crash, the president says - ABC News",
                 "description": "Malawi's vice president and 9 others have died in a plane crash, the president says  ABC News",
                 "published date": "Tue, 11 Jun 2024 10:49:34 GMT",
@@ -1268,31 +1248,41 @@
                     "href": "https://abcnews.go.com",
                     "title": "ABC News"
                 }
+            },
+            {
+                "title": "Plane Holding Malawi Vice President Saulos Chilima And Others Is Missing - Forbes",
+                "description": "Plane Holding Malawi Vice President Saulos Chilima And Others Is Missing  Forbes",
+                "published date": "Mon, 10 Jun 2024 17:09:59 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbW9sbHlib2hhbm5vbi8yMDI0LzA2LzEwL2FpcnBsYW5lLXdpdGgtbWFsYXdpLXZpY2UtcHJlc2lkZW50LWFib2FyZC1pcy1taXNzaW5nL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
+                "title": "Malawi vice president, nine others die after plane crashes in dense forest - USA TODAY",
+                "description": "Malawi vice president, nine others die after plane crashes in dense forest  USA TODAY",
+                "published date": "Tue, 11 Jun 2024 13:18:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjQvMDYvMTEvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1rbGF1cy1jaGlsaW1hLXBsYW5lLWNyYXNoLzc0MDU0MjI4MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
             }
         ]
     },
     {
         "name": "John Fetterman",
-        "summary": "",
+        "summary": "Senator John Fetterman and his wife, Gisele, were involved in a car accident in Maryland on Sunday. Fetterman was treated for a bruised shoulder and later released from the hospital. Both Fetterman and his wife are said to be doing well. The accident occurred on an interstate highway, and Fetterman's vehicle reportedly rear-ended another vehicle. The other driver was not injured. During an interview with Bill Maher, Fetterman addressed concerns about his health and his ability to serve as a senator. Fetterman had a stroke in May 2022, and some have questioned whether he has fully recovered. Fetterman has maintained that he is fit to serve and is committed to his duties as a senator.",
         "items": [
             {
-                "title": "Sen. John Fetterman, wife involved in Sunday morning crash in Maryland: \u2018Worst anniversary ever\u2019 - FOX 29 Philadelphia",
-                "description": "Sen. John Fetterman, wife involved in Sunday morning crash in Maryland: \u2018Worst anniversary ever\u2019  FOX 29 Philadelphia",
-                "published date": "Mon, 10 Jun 2024 18:19:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL3Nlbi1qb2huLWZldHRlcm1hbi13aWZlLWludm9sdmVkLXN1bmRheS1tb3JuaW5nLWNyYXNoLW1hcnlsYW5k0gFdaHR0cHM6Ly93d3cuZm94MjkuY29tL25ld3Mvc2VuLWpvaG4tZmV0dGVybWFuLXdpZmUtaW52b2x2ZWQtc3VuZGF5LW1vcm5pbmctY3Jhc2gtbWFyeWxhbmQuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Sen. John Fetterman involved in crash on Maryland interstate, treated for bruised shoulder - ABC News",
+                "description": "Sen. John Fetterman involved in crash on Maryland interstate, treated for bruised shoulder  ABC News",
+                "published date": "Mon, 10 Jun 2024 20:38:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2VuLWpvaG4tZmV0dGVybWFuLWNhci1jcmFzaC1tYXJ5bGFuZC9zdG9yeT9pZD0xMTA5OTU2OTfSAVxodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9zZW4tam9obi1mZXR0ZXJtYW4tY2FyLWNyYXNoLW1hcnlsYW5kL3N0b3J5P2lkPTExMDk5NTY5Nw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.fox29.com",
-                    "title": "FOX 29 Philadelphia"
-                }
-            },
-            {
-                "title": "Sen. John Fetterman was treated for a bruised shoulder after a weekend car accident - The Associated Press",
-                "description": "Sen. John Fetterman was treated for a bruised shoulder after a weekend car accident  The Associated Press",
-                "published date": "Mon, 10 Jun 2024 20:17:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZldHRlcm1hbi1jYXItYWNjaWRlbnQtc2VuYXRlLXBlbm5zeWx2YW5pYS0zY2ZmNThiMWY5MWE1YWVjM2ExYjA3NzZiNTUyZjlhZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
                 }
             },
             {
@@ -1316,23 +1306,33 @@
                 }
             },
             {
-                "title": "Sen. John Fetterman involved in crash on Maryland interstate, treated for bruised shoulder - ABC News",
-                "description": "Sen. John Fetterman involved in crash on Maryland interstate, treated for bruised shoulder  ABC News",
-                "published date": "Mon, 10 Jun 2024 20:38:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2VuLWpvaG4tZmV0dGVybWFuLWNhci1jcmFzaC1tYXJ5bGFuZC9zdG9yeT9pZD0xMTA5OTU2OTfSAVxodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9zZW4tam9obi1mZXR0ZXJtYW4tY2FyLWNyYXNoLW1hcnlsYW5kL3N0b3J5P2lkPTExMDk5NTY5Nw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Sen. John Fetterman, wife involved in Sunday morning crash in Maryland: \u2018Worst anniversary ever\u2019 - FOX 29 Philadelphia",
+                "description": "Sen. John Fetterman, wife involved in Sunday morning crash in Maryland: \u2018Worst anniversary ever\u2019  FOX 29 Philadelphia",
+                "published date": "Mon, 10 Jun 2024 18:19:51 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL3Nlbi1qb2huLWZldHRlcm1hbi13aWZlLWludm9sdmVkLXN1bmRheS1tb3JuaW5nLWNyYXNoLW1hcnlsYW5k0gFdaHR0cHM6Ly93d3cuZm94MjkuY29tL25ld3Mvc2VuLWpvaG4tZmV0dGVybWFuLXdpZmUtaW52b2x2ZWQtc3VuZGF5LW1vcm5pbmctY3Jhc2gtbWFyeWxhbmQuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
+                    "href": "https://www.fox29.com",
+                    "title": "FOX 29 Philadelphia"
                 }
             },
             {
-                "title": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland - CBS News",
-                "description": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland  CBS News",
+                "title": "Sen. John Fetterman was treated for a bruised shoulder after a weekend car accident - The Associated Press",
+                "description": "Sen. John Fetterman was treated for a bruised shoulder after a weekend car accident  The Associated Press",
+                "published date": "Mon, 10 Jun 2024 20:17:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZldHRlcm1hbi1jYXItYWNjaWRlbnQtc2VuYXRlLXBlbm5zeWx2YW5pYS0zY2ZmNThiMWY5MWE1YWVjM2ExYjA3NzZiNTUyZjlhZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland - CBS Pittsburgh",
+                "description": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland  CBS Pittsburgh",
                 "published date": "Mon, 10 Jun 2024 23:02:57 GMT",
                 "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3BpdHRzYnVyZ2gvbmV3cy9zZW4tam9obi1mZXR0ZXJtYW4td2lmZS1naXNlbGUtaW52b2x2ZWQtdHdvLXZlaGljbGUtY3Jhc2gtbWFyeWxhbmQv0gFvaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3BpdHRzYnVyZ2gvbmV3cy9zZW4tam9obi1mZXR0ZXJtYW4td2lmZS1naXNlbGUtaW52b2x2ZWQtdHdvLXZlaGljbGUtY3Jhc2gtbWFyeWxhbmQv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
+                    "title": "CBS Pittsburgh"
                 }
             },
             {
@@ -1343,16 +1343,6 @@
                 "publisher": {
                     "href": "https://thehill.com",
                     "title": "The Hill"
-                }
-            },
-            {
-                "title": "Sen. John Fetterman rear ends driver, is taken to hospital after suffering injury - New York Post",
-                "description": "Sen. John Fetterman rear ends driver, is taken to hospital after suffering injury  New York Post ",
-                "published date": "Mon, 10 Jun 2024 21:37:53 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzEwL3VzLW5ld3Mvc2VuLWpvaG4tZmV0dGVybWFuLXJlYXItZW5kcy1kcml2ZXItd2luZHMtdXAtaW4taG9zcGl0YWwtd2l0aC1oaXMtd2lmZS_SAXFodHRwczovL255cG9zdC5jb20vMjAyNC8wNi8xMC91cy1uZXdzL3Nlbi1qb2huLWZldHRlcm1hbi1yZWFyLWVuZHMtZHJpdmVyLXdpbmRzLXVwLWluLWhvc3BpdGFsLXdpdGgtaGlzLXdpZmUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
                 }
             },
             {
@@ -1374,12 +1364,22 @@
                     "href": "https://deadline.com",
                     "title": "Deadline"
                 }
+            },
+            {
+                "title": "Sen. John Fetterman rear ends driver, is taken to hospital after suffering injury - New York Post",
+                "description": "Sen. John Fetterman rear ends driver, is taken to hospital after suffering injury  New York Post ",
+                "published date": "Mon, 10 Jun 2024 21:37:53 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzEwL3VzLW5ld3Mvc2VuLWpvaG4tZmV0dGVybWFuLXJlYXItZW5kcy1kcml2ZXItd2luZHMtdXAtaW4taG9zcGl0YWwtd2l0aC1oaXMtd2lmZS_SAXFodHRwczovL255cG9zdC5jb20vMjAyNC8wNi8xMC91cy1uZXdzL3Nlbi1qb2huLWZldHRlcm1hbi1yZWFyLWVuZHMtZHJpdmVyLXdpbmRzLXVwLWluLWhvc3BpdGFsLXdpdGgtaGlzLXdpZmUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
             }
         ]
     },
     {
         "name": "Dragon Boat Festival",
-        "summary": "",
+        "summary": "The 2024 Dragon Boat Festival, a traditional Chinese celebration, has been commemorated around the world. In the United States, Seattle's Lake Union hosted the Seattle Dragon Boat Festival, featuring vibrant displays of the ancient tradition. News outlets such as KTVN, KING5, and the South China Morning Post reported on the festival's significance, highlighting its history and the diverse sticky rice dumpling variations across China and East Asia. The Atlantic provided a glimpse into the festival's celebration in China, while UPI reported on Google's Doodle recognition of the event. Additionally, CBS Boston covered the Boston Hong Kong Dragon Boat Festival, which showcased the cultural and competitive aspects of the festival. Furthermore, the Northwest Arkansas Democrat-Gazette highlighted the Maumelle Dragon Boat Festival, which raised funds for abuse victims. Notably, Xinhua reported on dragon boat races held throughout China to mark the upcoming Duanwu Festival, which coincides with the Dragon Boat Festival.",
         "items": [
             {
                 "title": "2024 Dragon Boat Festival celebrates Chinese tradition - USA TODAY",
@@ -1392,16 +1392,6 @@
                 }
             },
             {
-                "title": "Seattle Dragon Boat Festival takes over Lake Union | king5.com - KING5.com",
-                "description": "Seattle Dragon Boat Festival takes over Lake Union | king5.com  KING5.com",
-                "published date": "Fri, 07 Jun 2024 02:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5raW5nNS5jb20vYXJ0aWNsZS9lbnRlcnRhaW5tZW50L3RlbGV2aXNpb24vcHJvZ3JhbXMvZXZlbmluZy9kcmFnb24tYm9hdC1yYWNlLWxha2UtdW5pb24tdHJhZGl0aW9uLWZseWluZy1kcmFnb25zLzI4MS1mOWUzOWE0Mi1hNTUyLTQ3YzItYjRkZC0xZjA4MDA4NDZiZDjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.king5.com",
-                    "title": "KING5.com"
-                }
-            },
-            {
                 "title": "Scenes from the Seattle Dragon Boat Festival on Lake Union - seattlerefined.com",
                 "description": "Scenes from the Seattle Dragon Boat Festival on Lake Union  seattlerefined.com",
                 "published date": "Sun, 09 Jun 2024 18:10:55 GMT",
@@ -1409,6 +1399,16 @@
                 "publisher": {
                     "href": "https://seattlerefined.com",
                     "title": "seattlerefined.com"
+                }
+            },
+            {
+                "title": "Seattle Dragon Boat Festival takes over Lake Union | king5.com - KING5.com",
+                "description": "Seattle Dragon Boat Festival takes over Lake Union | king5.com  KING5.com",
+                "published date": "Fri, 07 Jun 2024 02:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5raW5nNS5jb20vYXJ0aWNsZS9lbnRlcnRhaW5tZW50L3RlbGV2aXNpb24vcHJvZ3JhbXMvZXZlbmluZy9kcmFnb24tYm9hdC1yYWNlLWxha2UtdW5pb24tdHJhZGl0aW9uLWZseWluZy1kcmFnb25zLzI4MS1mOWUzOWE0Mi1hNTUyLTQ3YzItYjRkZC0xZjA4MDA4NDZiZDjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.king5.com",
+                    "title": "KING5.com"
                 }
             },
             {
@@ -1432,13 +1432,13 @@
                 }
             },
             {
-                "title": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest - cpc-nyc.org",
-                "description": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest  cpc-nyc.org",
-                "published date": "Wed, 05 Jun 2024 18:13:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNwYy1ueWMub3JnL25ld3MvNDYzNS9jcGMtYnJvb2tseW4tb2xkZXItYWR1bHQtY2VudGVyLWhvbm9ycy1kcmFnb24tYm9hdC1mZXN0aXZhbC16b25nemktbWFraW5nLWNvbnRlc3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Scenes from China's 2024 Dragon Boat Festival - The Atlantic",
+                "description": "Scenes from China's 2024 Dragon Boat Festival  The Atlantic",
+                "published date": "Tue, 11 Jun 2024 17:25:55 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9waG90by8yMDI0LzA2L3Bob3Rvcy1jaGluYS1kcmFnb24tYm9hdC1mZXN0aXZhbC0yMDI0LzY3ODY1My_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cpc-nyc.org",
-                    "title": "cpc-nyc.org"
+                    "href": "https://www.theatlantic.com",
+                    "title": "The Atlantic"
                 }
             },
             {
@@ -1452,6 +1452,16 @@
                 }
             },
             {
+                "title": "Google Doodle spotlights Chinese Dragon Boat Festival - UPI News",
+                "description": "Google Doodle spotlights Chinese Dragon Boat Festival  UPI News",
+                "published date": "Mon, 10 Jun 2024 11:29:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnVwaS5jb20vRW50ZXJ0YWlubWVudF9OZXdzLzIwMjQvMDYvMTAvZHJhZ29uLWJvYXQtZmVzdGl2YWwtZ29vZ2xlLWRvb2RsZS8yNzIxNzE4MDE3MzIyL9IBZ2h0dHBzOi8vd3d3LnVwaS5jb20vYW1wL0VudGVydGFpbm1lbnRfTmV3cy8yMDI0LzA2LzEwL2RyYWdvbi1ib2F0LWZlc3RpdmFsLWdvb2dsZS1kb29kbGUvMjcyMTcxODAxNzMyMi8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.upi.com",
+                    "title": "UPI News"
+                }
+            },
+            {
                 "title": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims - Northwest Arkansas Democrat-Gazette",
                 "description": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims  Northwest Arkansas Democrat-Gazette",
                 "published date": "Sun, 09 Jun 2024 01:08:00 GMT",
@@ -1459,16 +1469,6 @@
                 "publisher": {
                     "href": "https://www.nwaonline.com",
                     "title": "Northwest Arkansas Democrat-Gazette"
-                }
-            },
-            {
-                "title": "Chinese Community Center hosting Dragon Boat Festival - NEWS10 ABC",
-                "description": "Chinese Community Center hosting Dragon Boat Festival  NEWS10 ABC",
-                "published date": "Thu, 06 Jun 2024 14:24:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9hbGJhbnktY291bnR5L2NoaW5lc2UtY29tbXVuaXR5LWNlbnRlci1ob3N0aW5nLWRyYWdvbi1ib2F0LWZlc3RpdmFsL9IBZGh0dHBzOi8vd3d3Lm5ld3MxMC5jb20vbmV3cy9hbGJhbnktY291bnR5L2NoaW5lc2UtY29tbXVuaXR5LWNlbnRlci1ob3N0aW5nLWRyYWdvbi1ib2F0LWZlc3RpdmFsL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.news10.com",
-                    "title": "NEWS10 ABC"
                 }
             },
             {
@@ -1485,18 +1485,8 @@
     },
     {
         "name": "NBA",
-        "summary": "",
+        "summary": "The NBA is set to secure a groundbreaking $76 billion TV deal, signaling a watershed moment for both the league and the media industry. The Celtics-Mavericks Game 2 of the NBA Finals was the most-watched in five years, highlighting the popularity of the sport. Warner Bros. Discovery's plans for NBA broadcasting hinge on securing an elusive \"fourth package\" of games. Recent NBA Finals history shows that teams can make remarkable turnarounds and win the championship after missing the playoffs the previous year. The Celtics and Mavericks matchup in the NBA Finals presents an intriguing storyline, with the Celtics holding a 2-0 lead after Game 2. Key moments in Game 1 played a crucial role in the Celtics' victory over the Mavericks, while ESPN will exclusively broadcast the 2024 NBA Finals. Luka Doncic, a star player for the Mavericks who grew up watching the NBA Finals, is now making his debut in the championship series.",
         "items": [
-            {
-                "title": "Celtics-Mavericks on ABC is most-watched NBA Finals Game 2 in 5 years - NBA.com",
-                "description": "Celtics-Mavericks on ABC is most-watched NBA Finals Game 2 in 5 years  NBA.com",
-                "published date": "Mon, 10 Jun 2024 19:47:50 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1maW5hbHMtZ2FtZS0yLW1vc3Qtd2F0Y2hlZC01LXllYXJzLWFiY9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
-            },
             {
                 "title": "Exclusive | NBA Nears $76 Billion TV Deal, a Defining Moment for Media and Sports - The Wall Street Journal",
                 "description": "Exclusive | NBA Nears $76 Billion TV Deal, a Defining Moment for Media and Sports  The Wall Street Journal",
@@ -1505,6 +1495,16 @@
                 "publisher": {
                     "href": "https://www.wsj.com",
                     "title": "The Wall Street Journal"
+                }
+            },
+            {
+                "title": "Celtics-Mavericks on ABC is most-watched NBA Finals Game 2 in 5 years - NBA.com",
+                "description": "Celtics-Mavericks on ABC is most-watched NBA Finals Game 2 in 5 years  NBA.com",
+                "published date": "Mon, 10 Jun 2024 19:47:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1maW5hbHMtZ2FtZS0yLW1vc3Qtd2F0Y2hlZC01LXllYXJzLWFiY9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
                 }
             },
             {
@@ -1528,16 +1528,6 @@
                 }
             },
             {
-                "title": "The NBA betting scandal that ended Jontay Porter's career yields a criminal case against an NYC man - The Associated Press",
-                "description": "The NBA betting scandal that ended Jontay Porter's career yields a criminal case against an NYC man  The Associated Press",
-                "published date": "Tue, 04 Jun 2024 23:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1qb250YXktcG9ydGVyLWJhbm5lZC1tYW4tY2hhcmdlZC00ZDUyNjIyMzkyM2QwY2VkNTE2YzNhZTljYzIyZjllYtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
                 "title": "The Boston Celtics And Dallas Mavericks Make For An Ideal NBA Finals - Forbes",
                 "description": "The Boston Celtics And Dallas Mavericks Make For An Ideal NBA Finals  Forbes",
                 "published date": "Thu, 06 Jun 2024 13:00:00 GMT",
@@ -1545,6 +1535,16 @@
                 "publisher": {
                     "href": "https://www.forbes.com",
                     "title": "Forbes"
+                }
+            },
+            {
+                "title": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas - The Associated Press",
+                "description": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas  The Associated Press",
+                "published date": "Mon, 10 Jun 2024 04:58:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtc2NvcmUtY2VsdGljcy1tYXZlcmlja3MtNWFlMmE5MDg5MTRmMDE2ZWU2ZDVhNWVhYThlMDlhZmPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
@@ -1578,10 +1578,10 @@
                 }
             },
             {
-                "title": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas - The Associated Press",
-                "description": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas  The Associated Press",
-                "published date": "Mon, 10 Jun 2024 04:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtc2NvcmUtY2VsdGljcy1tYXZlcmlja3MtNWFlMmE5MDg5MTRmMDE2ZWU2ZDVhNWVhYThlMDlhZmPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "The NBA Finals were too late for Dallas' Luka Doncic to watch as a kid. Now, he's in them - The Associated Press",
+                "description": "The NBA Finals were too late for Dallas' Luka Doncic to watch as a kid. Now, he's in them  The Associated Press",
+                "published date": "Wed, 05 Jun 2024 19:23:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2x1a2EtZG9uY2ljLW5iYS1maW5hbHMtYmQ3ODZiM2Q5NjExYWFkNjc0MjUwOGIxNzEzNjlhOGPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
@@ -1591,7 +1591,7 @@
     },
     {
         "name": "Carlos Alcaraz",
-        "summary": "",
+        "summary": "Carlos Alcaraz has won his third Grand Slam title at the French Open by defeating Alexander Zverev in a five-set battle. This victory marks the 21-year-old Alcaraz's first French Open title, making him the youngest men's Grand Slam champion since Rafael Nadal in 2005. Despite facing physical challenges throughout the tournament, Alcaraz persisted, proving that his achievements are not just about titles but also about his unwavering determination. With this victory, Alcaraz has set new records in Grand Slam history, continuing the dominance of Spanish tennis.",
         "items": [
             {
                 "title": "Carlos Alcaraz wins the French Open for a third Grand Slam title at 21 by beating Alexander Zverev - The Associated Press",
@@ -1604,16 +1604,6 @@
                 }
             },
             {
-                "title": "Carlos Alcaraz Is The Betting Favorite To Win The French Open After Djokovic's Withdrawal - Forbes",
-                "description": "Carlos Alcaraz Is The Betting Favorite To Win The French Open After Djokovic's Withdrawal  Forbes",
-                "published date": "Tue, 04 Jun 2024 20:24:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FkYW16YWdvcmlhLzIwMjQvMDYvMDQvY2FybG9zLWFsY2FyYXotaXMtdGhlLWJldHRpbmctZmF2b3JpdGUtdG8td2luLXRoZS1mcmVuY2gtb3Blbi1hZnRlci1kam9rb3ZpY3Mtd2l0aGRyYXdhbC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
                 "title": "Carlos Alcaraz wins third grand slam title with five-set victory at the French Open over Alexander Zverev - CNN",
                 "description": "Carlos Alcaraz wins third grand slam title with five-set victory at the French Open over Alexander Zverev  CNN",
                 "published date": "Sun, 09 Jun 2024 18:51:00 GMT",
@@ -1621,16 +1611,6 @@
                 "publisher": {
                     "href": "https://www.cnn.com",
                     "title": "CNN"
-                }
-            },
-            {
-                "title": "Carlos Alcaraz becomes youngest man to reach Grand Slam finals on all 3 surfaces - NBC Los Angeles",
-                "description": "Carlos Alcaraz becomes youngest man to reach Grand Slam finals on all 3 surfaces  NBC Los Angeles",
-                "published date": "Sat, 08 Jun 2024 01:51:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3Mvc3BvcnRzL3Rlbm5pcy9jYXJsb3MtYWxjYXJhei15b3VuZ2VzdC1tYW4tZ3JhbmQtc2xhbS1maW5hbHMtMy1zdXJmYWNlcy8zNDMxNDc5L9IBeGh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3Mvc3BvcnRzL3Rlbm5pcy9jYXJsb3MtYWxjYXJhei15b3VuZ2VzdC1tYW4tZ3JhbmQtc2xhbS1maW5hbHMtMy1zdXJmYWNlcy8zNDMxNDc5Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbclosangeles.com",
-                    "title": "NBC Los Angeles"
                 }
             },
             {
@@ -1654,6 +1634,16 @@
                 }
             },
             {
+                "title": "Carlos Alcaraz Wins 1st French Open In Grueling 5-Set Epic As The Spanish Domination Continues - Forbes",
+                "description": "Carlos Alcaraz Wins 1st French Open In Grueling 5-Set Epic As The Spanish Domination Continues  Forbes",
+                "published date": "Sun, 09 Jun 2024 17:32:33 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FkYW16YWdvcmlhLzIwMjQvMDYvMDkvY2FybG9zLWFsY2FyYXotd2lucy0xc3QtZnJlbmNoLW9wZW4taW4tZ3J1ZWxpbmctNS1zZXQtZXBpYy1hcy10aGUtc3BhbmlzaC1kb21pbmF0aW9uLWNvbnRpbnVlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
                 "title": "Carlos Alcaraz Claims His First French Open Title - Vogue",
                 "description": "Carlos Alcaraz Claims His First French Open Title  Vogue",
                 "published date": "Sun, 09 Jun 2024 18:28:36 GMT",
@@ -1674,45 +1664,65 @@
                 }
             },
             {
-                "title": "Jannik Sinner and Carlos Alcaraz will renew their rivalry in the French Open semifinals - The Associated Press",
-                "description": "Jannik Sinner and Carlos Alcaraz will renew their rivalry in the French Open semifinals  The Associated Press",
-                "published date": "Thu, 06 Jun 2024 12:55:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZyZW5jaC1vcGVuLW1lbi1zZW1pZmluYWxzLWFsY2FyYXotc2lubmVyLWQ5NTRjNjBiNTIzYjA4ODE4Nzg2NzRhNmYwNDdhZmJm0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "French Open highlights - Carlos Alcaraz wins first Roland-Garros title after Alexander Zverev epic - Tennis video - Eurosport COM",
+                "description": "French Open highlights - Carlos Alcaraz wins first Roland-Garros title after Alexander Zverev epic - Tennis video  Eurosport COM",
+                "published date": "Sun, 09 Jun 2024 18:23:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5ldXJvc3BvcnQuY29tL3Rlbm5pcy9yb2xhbmQtZ2Fycm9zLzIwMjQvZnJlbmNoLW9wZW4taGlnaGxpZ2h0cy1jYXJsb3MtYWxjYXJhei13aW5zLWZpcnN0LXJvbGFuZC1nYXJyb3MtdGl0bGUtYWZ0ZXItYWxleGFuZGVyLXp2ZXJldi1lcGljX3ZpZDIxNjA3MjMvdmlkZW8uc2h0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.eurosport.com",
+                    "title": "Eurosport COM"
+                }
+            },
+            {
+                "title": "Carlos Alcaraz will play Alexander Zverev in the first French Open final for each - The Associated Press",
+                "description": "Carlos Alcaraz will play Alexander Zverev in the first French Open final for each  The Associated Press",
+                "published date": "Fri, 07 Jun 2024 21:56:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZyZW5jaC1vcGVuLTYtNy0yMDI0LXJlc3VsdHMtMGM3N2EyMDMzNzFiMWNjZGZkNmExNDZiNzVjMmYwYzTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
                 }
             },
             {
-                "title": "Carlos Alcaraz Wins 1st French Open In Grueling 5-Set Epic As The Spanish Domination Continues - Forbes",
-                "description": "Carlos Alcaraz Wins 1st French Open In Grueling 5-Set Epic As The Spanish Domination Continues  Forbes",
-                "published date": "Sun, 09 Jun 2024 17:32:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FkYW16YWdvcmlhLzIwMjQvMDYvMDkvY2FybG9zLWFsY2FyYXotd2lucy0xc3QtZnJlbmNoLW9wZW4taW4tZ3J1ZWxpbmctNS1zZXQtZXBpYy1hcy10aGUtc3BhbmlzaC1kb21pbmF0aW9uLWNvbnRpbnVlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Carlos Alcaraz rewrites Grand Slam record books with Roland Garros triumph - ATP Tour",
+                "description": "Carlos Alcaraz rewrites Grand Slam record books with Roland Garros triumph  ATP Tour",
+                "published date": "Sun, 09 Jun 2024 17:35:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmF0cHRvdXIuY29tL2VuL25ld3MvYWxjYXJhei1yb2xhbmQtZ2Fycm9zLTIwMjQtdGhyZWUtc3VyZmFjZS1oaXN0b3J50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
+                    "href": "https://www.atptour.com",
+                    "title": "ATP Tour"
                 }
             }
         ]
     },
     {
         "name": "Luka Doncic",
-        "summary": "",
+        "summary": "Luka Doncic's impressive triple-double effort in Game 2 of the NBA Finals was overshadowed by the Boston Celtics' victory, putting the Dallas Mavericks in a 2-game deficit. Despite playing through injuries, Doncic's connection with Kyrie Irving remains strong. Reports indicate that Doncic received a pain-killing injection before Game 2 and may require another for Game 3. Amidst injury concerns, Doncic plans to represent Slovenia in Olympic qualifying if his knees allow. Projections for the 2024 NBA Finals rank Doncic slightly above Jayson Tatum, but the Celtics are considered to have stronger starters. Doncic's participation in Game 2 of the Finals was initially in doubt, but he was ultimately cleared to play. In a pre-game hype video, Doncic displayed confidence ahead of facing Tatum and the Celtics.",
         "items": [
             {
-                "title": "The NBA Finals were too late for Dallas' Luka Doncic to watch as a kid. Now, he's in them - The Associated Press",
-                "description": "The NBA Finals were too late for Dallas' Luka Doncic to watch as a kid. Now, he's in them  The Associated Press",
-                "published date": "Wed, 05 Jun 2024 19:23:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2x1a2EtZG9uY2ljLW5iYS1maW5hbHMtYmQ3ODZiM2Q5NjExYWFkNjc0MjUwOGIxNzEzNjlhOGPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Luka Doncic's triple-double not enough to help Mavericks avoid 2-game hole in NBA Finals vs. Boston - The Associated Press",
+                "description": "Luka Doncic's triple-double not enough to help Mavericks avoid 2-game hole in NBA Finals vs. Boston  The Associated Press",
+                "published date": "Mon, 10 Jun 2024 04:20:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2x1a2EtZG9uY2ljLWluanVyeS1uYmEtZmluYWxzLTEyOTJmZDBjMTBhNmE3MWNhYjgwYmE3ZDM4ZmRiZmY20gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
                 }
             },
             {
+                "title": "How Luka Don\u010di\u0107, Kyrie Irving became 'connected for the rest of their lives' - The Athletic - The New York Times",
+                "description": "How Luka Don\u010di\u0107, Kyrie Irving became 'connected for the rest of their lives' - The Athletic  The New York Times",
+                "published date": "Fri, 07 Jun 2024 09:03:42 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NDcwMzcvMjAyNC8wNi8wNy9sdWthLWRvbmNpYy1reXJpZS1pcnZpbmctcmVsYXRpb25zaGlwLW1hdmVyaWNrcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
                 "title": "Luka Doncic has NBA Finals triple-double while playing with injuries - USA TODAY",
                 "description": "Luka Doncic has NBA Finals triple-double while playing with injuries  USA TODAY",
-                "published date": "Mon, 10 Jun 2024 04:12:25 GMT",
+                "published date": "Tue, 11 Jun 2024 21:45:11 GMT",
                 "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL3BsYXlvZmZzLzIwMjQvMDYvMTAvbHVrYS1kb25jaWMtbmJhLWZpbmFscy10cmlwbGUtZG91YmxlLzc0MDQwOTIwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
@@ -1720,13 +1730,13 @@
                 }
             },
             {
-                "title": "Luka Doncic and Kyrie Irving: How the unlikely duo made the Mavs title contenders - FOX Sports",
-                "description": "Luka Doncic and Kyrie Irving: How the unlikely duo made the Mavs title contenders  FOX Sports",
-                "published date": "Thu, 06 Jun 2024 16:21:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvbHVrYS1kb25jaWMta3lyaWUtaXJ2aW5nLWhvdy11bmxpa2VseS1kdW8tbWFkZS1tYXZzLXRpdGxlLWNvbnRlbmRlcnPSAWpodHRwczovL2FtcC5mb3hzcG9ydHMuY29tL3N0b3JpZXMvbmJhL2x1a2EtZG9uY2ljLWt5cmllLWlydmluZy1ob3ctdW5saWtlbHktZHVvLW1hZGUtbWF2cy10aXRsZS1jb250ZW5kZXJz?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Luka Doncic says he\u2019ll play for Slovenia in Olympic qualifying, knees permitting - NBA.com",
+                "description": "Luka Doncic says he\u2019ll play for Slovenia in Olympic qualifying, knees permitting  NBA.com",
+                "published date": "Wed, 05 Jun 2024 21:21:34 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9sdWthLWRvbmNpYy1wbGF5LWZvci1zbG92ZW5pYS1pbi1vbHltcGljc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
                 }
             },
             {
@@ -1740,6 +1750,16 @@
                 }
             },
             {
+                "title": "Luka Don\u010di\u0107 reportedly had pain-killing injection ahead of NBA Finals Game 2, likely needs another for Game 3 - Yahoo Sports",
+                "description": "Luka Don\u010di\u0107 reportedly had pain-killing injection ahead of NBA Finals Game 2, likely needs another for Game 3  Yahoo Sports",
+                "published date": "Tue, 11 Jun 2024 18:38:09 GMT",
+                "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbHVrYS1kb25jaWMtcmVwb3J0ZWRseS1oYWQtcGFpbi1raWxsaW5nLWluamVjdGlvbi1haGVhZC1vZi1uYmEtZmluYWxzLWdhbWUtMi1saWtlbHktbmVlZHMtYW5vdGhlci1mb3ItZ2FtZS0zLTE4MjMxMjU2MS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
                 "title": "Mavericks' Luka Doncic Faces Downgraded Game 2 Status Against Celtics with New Injury - Sports Illustrated",
                 "description": "Mavericks' Luka Doncic Faces Downgraded Game 2 Status Against Celtics with New Injury  Sports Illustrated",
                 "published date": "Sun, 09 Jun 2024 18:21:41 GMT",
@@ -1747,16 +1767,6 @@
                 "publisher": {
                     "href": "https://www.si.com",
                     "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Luka Don\u010di\u0107 available for Game 2 of NBA Finals between Mavericks-Celtics - The Athletic - The New York Times",
-                "description": "Luka Don\u010di\u0107 available for Game 2 of NBA Finals between Mavericks-Celtics - The Athletic  The New York Times",
-                "published date": "Mon, 10 Jun 2024 03:00:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTIxODUvMjAyNC8wNi8wOS9sdWthLWRvbmNpYy1pbmp1cnktbmJhLWZpbmFscy1tYXZlcmlja3MtY2VsdGljcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
                 }
             },
             {
@@ -1770,16 +1780,6 @@
                 }
             },
             {
-                "title": "Mavericks' Luka Don\u010di\u0107 available for NBA Finals Game 2 after initially questionable vs. Celtics - Yahoo Sports",
-                "description": "Mavericks' Luka Don\u010di\u0107 available for NBA Finals Game 2 after initially questionable vs. Celtics  Yahoo Sports",
-                "published date": "Sun, 09 Jun 2024 23:01:53 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbWF2ZXJpY2tzLWx1a2EtZG9uY2ljLWF2YWlsYWJsZS1mb3ItbmJhLWZpbmFscy1nYW1lLTItYWZ0ZXItaW5pdGlhbGx5LXF1ZXN0aW9uYWJsZS12cy1jZWx0aWNzLTE4MTU0MTgwMC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
-                }
-            },
-            {
                 "title": "Luka Doncic cleared to play Game 2 of NBA Finals vs. Celtics - CBS Boston",
                 "description": "Luka Doncic cleared to play Game 2 of NBA Finals vs. Celtics  CBS Boston",
                 "published date": "Sun, 09 Jun 2024 23:44:31 GMT",
@@ -1790,20 +1790,20 @@
                 }
             },
             {
-                "title": "Luka Doncic's triple-double not enough to help Mavericks avoid 2-game hole in NBA Finals vs. Boston - The Associated Press",
-                "description": "Luka Doncic's triple-double not enough to help Mavericks avoid 2-game hole in NBA Finals vs. Boston  The Associated Press",
-                "published date": "Mon, 10 Jun 2024 04:20:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2x1a2EtZG9uY2ljLWluanVyeS1uYmEtZmluYWxzLTEyOTJmZDBjMTBhNmE3MWNhYjgwYmE3ZDM4ZmRiZmY20gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Mavs' Luka Don\u010di\u0107 Drops Hype Video Before 2024 NBA Finals Game 1 vs. Tatum, Celtics - Bleacher Report",
+                "description": "Mavs' Luka Don\u010di\u0107 Drops Hype Video Before 2024 NBA Finals Game 1 vs. Tatum, Celtics  Bleacher Report",
+                "published date": "Wed, 05 Jun 2024 18:56:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTIzNzE1LW1hdnMtbHVrYS1kb25jaWMtZHJvcHMtaHlwZS12aWRlby1iZWZvcmUtMjAyNC1uYmEtZmluYWxzLWdhbWUtMS12cy10YXR1bS1jZWx0aWNz0gGNAWh0dHBzOi8vc3luZGljYXRpb24uYmxlYWNoZXJyZXBvcnQuY29tL2FtcC8xMDEyMzcxNS1tYXZzLWx1a2EtZG9uY2ljLWRyb3BzLWh5cGUtdmlkZW8tYmVmb3JlLTIwMjQtbmJhLWZpbmFscy1nYW1lLTEtdnMtdGF0dW0tY2VsdGljcy5hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
                 }
             }
         ]
     },
     {
         "name": "Black Ops 6",
-        "summary": "",
+        "summary": "Call of Duty: Black Ops 6 is set to release on October 25th for PS5. The game features a new \"Omnimovement\" system, which allows players to move more freely and fluidly. The campaign, multiplayer, and Zombies modes have all been overhauled, with new features and content. The game will not be 300 GB in size, as previously rumored. Black Ops 6 is the latest installment in the popular Call of Duty franchise, and it is expected to be one of the biggest games of the year.",
         "items": [
             {
                 "title": "Black Ops 6 Worldwide Reveal: Essential Intel on Campaign, Multiplayer, and Zombies - Call of Duty",
@@ -1846,6 +1846,16 @@
                 }
             },
             {
+                "title": "10 Things You Need To Know About 'Call Of Duty: Black Ops 6' \u2014 Omnimovement, Zombies Mode And More - Forbes",
+                "description": "10 Things You Need To Know About 'Call Of Duty: Black Ops 6' \u2014 Omnimovement, Zombies Mode And More  Forbes",
+                "published date": "Sun, 09 Jun 2024 18:25:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZXJpa2thaW4vMjAyNC8wNi8wOS90aGUtdG9wLTEwLXRoaW5ncy15b3UtbmVlZC10by1rbm93LWFib3V0LWNhbGwtb2YtZHV0eS1ibGFjay1vcHMtNi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
                 "title": "Call of Duty: Black Ops 6 Isn't 300 GB After All - IGN",
                 "description": "Call of Duty: Black Ops 6 Isn't 300 GB After All  IGN",
                 "published date": "Mon, 10 Jun 2024 22:10:55 GMT",
@@ -1853,16 +1863,6 @@
                 "publisher": {
                     "href": "https://www.ign.com",
                     "title": "IGN"
-                }
-            },
-            {
-                "title": "Call Of Duty Black Ops 6 Update: The File Size Isn't 300 GB - Forbes",
-                "description": "Call Of Duty Black Ops 6 Update: The File Size Isn't 300 GB  Forbes",
-                "published date": "Tue, 11 Jun 2024 01:19:59 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJpYW5tYXppcXVlLzIwMjQvMDYvMTAvY2FsbC1vZi1kdXR5LWJsYWNrLW9wcy02LXVwZGF0ZS10aGUtZmlsZS1zaXplLWlzbnQtMzAwZ2Iv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
                 }
             },
             {
@@ -1886,16 +1886,6 @@
                 }
             },
             {
-                "title": "We played CoD Black Ops 6 exclusively, and we are clear: it is the most important installment of the series in - AS USA",
-                "description": "We played CoD Black Ops 6 exclusively, and we are clear: it is the most important installment of the series in  AS USA",
-                "published date": "Sun, 09 Jun 2024 19:20:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL2VuLmFzLmNvbS9tZXJpc3RhdGlvbi9uZXdzL3dlLXBsYXllZC1jb2QtYmxhY2stb3BzLTYtZXhjbHVzaXZlbHktYW5kLXdlLWFyZS1jbGVhci1pdC1pcy10aGUtbW9zdC1pbXBvcnRhbnQtaW5zdGFsbG1lbnQtb2YtdGhlLXNlcmllcy1pbi0xMC15ZWFycy1yL9IBqgFodHRwczovL2VuLmFzLmNvbS9tZXJpc3RhdGlvbi9uZXdzL3dlLXBsYXllZC1jb2QtYmxhY2stb3BzLTYtZXhjbHVzaXZlbHktYW5kLXdlLWFyZS1jbGVhci1pdC1pcy10aGUtbW9zdC1pbXBvcnRhbnQtaW5zdGFsbG1lbnQtb2YtdGhlLXNlcmllcy1pbi0xMC15ZWFycy1yLz9vdXRwdXRUeXBlPWFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://en.as.com",
-                    "title": "AS USA"
-                }
-            },
-            {
                 "title": "Call of Duty Black Ops 6 - everything we know so far - TechRadar",
                 "description": "Call of Duty Black Ops 6 - everything we know so far  TechRadar",
                 "published date": "Mon, 10 Jun 2024 13:23:07 GMT",
@@ -1904,6 +1894,16 @@
                     "href": "https://www.techradar.com",
                     "title": "TechRadar"
                 }
+            },
+            {
+                "title": "Everything We've Learned About Call Of Duty: Black Ops 6 - Kotaku",
+                "description": "Everything We've Learned About Call Of Duty: Black Ops 6  Kotaku",
+                "published date": "Mon, 10 Jun 2024 22:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8va290YWt1LmNvbS9jYWxsLW9mLWR1dHktYmxhY2stb3BzLTYtZGlyZWN0LWV2ZXJ5dGhpbmctd2Uta25vdy0xODUxNTMxMTIx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://kotaku.com",
+                    "title": "Kotaku"
+                }
             }
         ]
     },
@@ -1911,6 +1911,16 @@
         "name": "Kyrie Irving",
         "summary": "",
         "items": [
+            {
+                "title": "Kyrie Irving on Boston crowd: 'I thought it was going to be a little louder' - The New York Times",
+                "description": "Kyrie Irving on Boston crowd: 'I thought it was going to be a little louder'  The New York Times",
+                "published date": "Fri, 07 Jun 2024 04:51:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NDc4OTgvMjAyNC8wNi8wNy9reXJpZS1pcnZpbmctYm9zdG9uLXF1aWV0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
             {
                 "title": "Dallas Mavericks guard Kyrie Irving knows the importance of his Native American heritage - Andscape",
                 "description": "Dallas Mavericks guard Kyrie Irving knows the importance of his Native American heritage  Andscape",
@@ -1932,19 +1942,19 @@
                 }
             },
             {
-                "title": "Kyrie Irving 'was very remorseful' about sharing antisemitic documentary, Adam Silver says - The Athletic - The New York Times",
-                "description": "Kyrie Irving 'was very remorseful' about sharing antisemitic documentary, Adam Silver says - The Athletic  The New York Times",
-                "published date": "Sat, 08 Jun 2024 00:19:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NDk4NzQvMjAyNC8wNi8wNy9reXJpZS1pcnZpbmctYWRhbS1zaWx2ZXItYW50aXNlbWl0aWMtZG9jdW1lbnRhcnkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "The Metamorphosis of Kyrie Irving - The Nation",
+                "description": "The Metamorphosis of Kyrie Irving  The Nation",
+                "published date": "Thu, 06 Jun 2024 09:56:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vP3Bvc3RfdHlwZT1hcnRpY2xlJnA9NTA0OTg20gFoaHR0cHM6Ly93d3cudGhlbmF0aW9uLmNvbS9hcnRpY2xlL3NvY2lldHkva3lyaWUtaXJ2aW5nLW5iYS1maW5hbHMtZGFsbGFzLW1hdmVyaWNrcy1ib3N0b24tY2VsdGljcy90bmFtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
+                    "href": "https://www.thenation.com",
+                    "title": "The Nation"
                 }
             },
             {
                 "title": "NBA Champion Calls Out Kyrie Irving During Mavs-Celtics Game - Sports Illustrated",
                 "description": "NBA Champion Calls Out Kyrie Irving During Mavs-Celtics Game  Sports Illustrated",
-                "published date": "Mon, 10 Jun 2024 20:13:16 GMT",
+                "published date": "Mon, 10 Jun 2024 02:56:26 GMT",
                 "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vbmJhL2Zhc3RicmVhay9uYmEtY2hhbXBpb24tY2FsbHMtb3V0LWt5cmllLWlydmluZy1rZW5kcmljay1wZXJraW5zLWdhbWUtMi1tYXZzLWNlbHRpY3MtbmJhLWZpbmFsc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.si.com",
@@ -1972,6 +1982,16 @@
                 }
             },
             {
+                "title": "Why do Celtics fans despise Kyrie Irving? The beef explained - NBC DFW",
+                "description": "Why do Celtics fans despise Kyrie Irving? The beef explained  NBC DFW",
+                "published date": "Sat, 08 Jun 2024 02:06:51 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY2Rmdy5jb20vbmV3cy9zcG9ydHMvd2h5LWRvLWNlbHRpY3MtZmFucy1kZXNwaXNlLWt5cmllLWlydmluZy10aGUtYmVlZi1leHBsYWluZWQvMzU2MjgwMC_SAW1odHRwczovL3d3dy5uYmNkZncuY29tL25ld3Mvc3BvcnRzL3doeS1kby1jZWx0aWNzLWZhbnMtZGVzcGlzZS1reXJpZS1pcnZpbmctdGhlLWJlZWYtZXhwbGFpbmVkLzM1NjI4MDAvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcdfw.com",
+                    "title": "NBC DFW"
+                }
+            },
+            {
                 "title": "Kyrie Irving's Shoes Draw Stares From Collectors and Congress - Sportico",
                 "description": "Kyrie Irving's Shoes Draw Stares From Collectors and Congress  Sportico",
                 "published date": "Fri, 07 Jun 2024 12:04:56 GMT",
@@ -1990,32 +2010,12 @@
                     "href": "https://nypost.com",
                     "title": "New York Post"
                 }
-            },
-            {
-                "title": "Why do Celtics fans despise Kyrie Irving? The beef explained - NBC DFW",
-                "description": "Why do Celtics fans despise Kyrie Irving? The beef explained  NBC DFW",
-                "published date": "Sat, 08 Jun 2024 02:06:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY2Rmdy5jb20vbmV3cy9zcG9ydHMvd2h5LWRvLWNlbHRpY3MtZmFucy1kZXNwaXNlLWt5cmllLWlydmluZy10aGUtYmVlZi1leHBsYWluZWQvMzU2MjgwMC_SAW1odHRwczovL3d3dy5uYmNkZncuY29tL25ld3Mvc3BvcnRzL3doeS1kby1jZWx0aWNzLWZhbnMtZGVzcGlzZS1reXJpZS1pcnZpbmctdGhlLWJlZWYtZXhwbGFpbmVkLzM1NjI4MDAvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcdfw.com",
-                    "title": "NBC DFW"
-                }
-            },
-            {
-                "title": "Mavs' Kyrie Irving appreciative of LeBron James' compliments - ESPN",
-                "description": "Mavs' Kyrie Irving appreciative of LeBron James' compliments  ESPN",
-                "published date": "Wed, 05 Jun 2024 23:55:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMjg2OTQ2L21hdnMta3lyaWUtaXJ2aW5nLWFwcHJlY2lhdGl2ZS1sZWJyb24tamFtZXMtY29tcGxpbWVudHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
             }
         ]
     },
     {
         "name": "Darren Waller",
-        "summary": "",
+        "summary": "Former NFL tight end Darren Waller has announced his retirement from the league after eight seasons. Waller, 31, played for the Giants in 2023 after spending the previous six years with the Raiders. His retirement comes after a health scare last season that resulted in a near-death experience. Waller's retirement has an impact on fantasy football, as he was a reliable tight end option. With Waller no longer in the picture, other tight ends may see an increase in value.",
         "items": [
             {
                 "title": "The Giants are still waiting for veteran TE Darren Waller to make a decision on playing in 2024 - The Associated Press",
@@ -2088,6 +2088,16 @@
                 }
             },
             {
+                "title": "Giants' Darren Waller retiring at age 31 after 8 seasons: 'I'm eternally grateful for the game of football' - The Athletic - The New York Times",
+                "description": "Giants' Darren Waller retiring at age 31 after 8 seasons: 'I'm eternally grateful for the game of football' - The Athletic  The New York Times",
+                "published date": "Mon, 10 Jun 2024 01:41:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU0Mzk4NDMvMjAyNC8wNi8wOS9kYXJyZW4td2FsbGVyLXJldGlyZW1lbnQtbmZsLWdpYW50cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
                 "title": "Giants\u2019 Darren Waller says terrifying medical emergency played part in retirement decision - NJ.com",
                 "description": "Giants\u2019 Darren Waller says terrifying medical emergency played part in retirement decision  NJ.com",
                 "published date": "Mon, 10 Jun 2024 06:06:00 GMT",
@@ -2095,16 +2105,6 @@
                 "publisher": {
                     "href": "https://www.nj.com",
                     "title": "NJ.com"
-                }
-            },
-            {
-                "title": "Giants TE Darren Waller retires after 1 season with team, describes scary medical situation that preceded decision - Yahoo Sports",
-                "description": "Giants TE Darren Waller retires after 1 season with team, describes scary medical situation that preceded decision  Yahoo Sports",
-                "published date": "Mon, 10 Jun 2024 00:09:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vZ2lhbnRzLXRlLWRhcnJlbi13YWxsZXItcmV0aXJlcy1hZnRlci0xLXNlYXNvbi13aXRoLXRlYW0tZGVzY3JpYmVzLXNjYXJ5LW1lZGljYWwtc2l0dWF0aW9uLXRoYXQtcHJlY2VkZWQtZGVjaXNpb24tMDAwOTAxOTczLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
                 }
             },
             {
