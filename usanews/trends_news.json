@@ -1,7 +1,7 @@
 [
     {
         "name": "Apple",
-        "summary": "",
+        "summary": "Apple unveiled \"Apple Intelligence,\" a new suite of AI-powered features coming to iPhones, iPads, and Macs. Experts at CNET noted that while these features automate tasks, some users may find them unnecessary or intrusive. TechRadar praised Apple's Vision Pro headset for its revolutionary technology, but lamented its limited usage. Bloomberg anticipates significant updates in AI, iPadOS, and macOS at Apple's upcoming WWDC 2024 conference. Apple itself highlighted the personalization and intelligence enhancements in iOS 18. After experiencing WWDC, CNET reconsidered its initial skepticism about iOS 18. Apple Intelligence and iOS 18 previews provide further insights into upcoming features. The company also announced updates to its services and the winners of its 2024 Design Awards.",
         "items": [
             {
                 "title": "Introducing Apple Intelligence for iPhone, iPad, and Mac - Apple",
@@ -24,16 +24,6 @@
                 }
             },
             {
-                "title": "Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More - Bloomberg",
-                "description": "Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More  Bloomberg",
-                "published date": "Fri, 07 Jun 2024 11:00:25 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTA3L2FwcGxlLXd3ZGMtMjAyNC13aGF0LXRvLWV4cGVjdC1haS1pcGFkb3MtMTgtbWFjb3MtMTUtc2lyaS11cGRhdGVzLW1vcmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.bloomberg.com",
-                    "title": "Bloomberg"
-                }
-            },
-            {
                 "title": "Vision Pro at one \u2013 I love Apple's revolutionary headset, so why do I hardly ever use it? - TechRadar",
                 "description": "Vision Pro at one \u2013 I love Apple's revolutionary headset, so why do I hardly ever use it?  TechRadar",
                 "published date": "Thu, 06 Jun 2024 16:00:12 GMT",
@@ -44,10 +34,20 @@
                 }
             },
             {
-                "title": "iOS 18 Preview - Apple",
-                "description": "iOS 18 Preview  Apple",
-                "published date": "Mon, 10 Jun 2024 18:48:56 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmFwcGxlLmNvbS9pb3MvaW9zLTE4LXByZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More - Bloomberg",
+                "description": "Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More  Bloomberg",
+                "published date": "Fri, 07 Jun 2024 11:00:25 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTA3L2FwcGxlLXd3ZGMtMjAyNC13aGF0LXRvLWV4cGVjdC1haS1pcGFkb3MtMTgtbWFjb3MtMTUtc2lyaS11cGRhdGVzLW1vcmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.bloomberg.com",
+                    "title": "Bloomberg"
+                }
+            },
+            {
+                "title": "iOS 18 makes iPhone more personal, capable, and intelligent than ever - Apple",
+                "description": "iOS 18 makes iPhone more personal, capable, and intelligent than ever  Apple",
+                "published date": "Mon, 10 Jun 2024 21:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFwcGxlLmNvbS9uZXdzcm9vbS8yMDI0LzA2L2lvcy0xOC1tYWtlcy1pcGhvbmUtbW9yZS1wZXJzb25hbC1jYXBhYmxlLWFuZC1pbnRlbGxpZ2VudC10aGFuLWV2ZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.apple.com",
                     "title": "Apple"
@@ -66,7 +66,7 @@
             {
                 "title": "Apple Intelligence Preview - Apple",
                 "description": "Apple Intelligence Preview  Apple",
-                "published date": "Mon, 10 Jun 2024 18:47:26 GMT",
+                "published date": "Wed, 12 Jun 2024 12:29:20 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmFwcGxlLmNvbS9hcHBsZS1pbnRlbGxpZ2VuY2Uv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.apple.com",
@@ -74,10 +74,10 @@
                 }
             },
             {
-                "title": "iOS 18 makes iPhone more personal, capable, and intelligent than ever - Apple",
-                "description": "iOS 18 makes iPhone more personal, capable, and intelligent than ever  Apple",
-                "published date": "Mon, 10 Jun 2024 21:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFwcGxlLmNvbS9uZXdzcm9vbS8yMDI0LzA2L2lvcy0xOC1tYWtlcy1pcGhvbmUtbW9yZS1wZXJzb25hbC1jYXBhYmxlLWFuZC1pbnRlbGxpZ2VudC10aGFuLWV2ZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "iOS 18 Preview - Apple",
+                "description": "iOS 18 Preview  Apple",
+                "published date": "Wed, 12 Jun 2024 12:29:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmFwcGxlLmNvbS9pb3MvaW9zLTE4LXByZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.apple.com",
                     "title": "Apple"
@@ -107,18 +107,8 @@
     },
     {
         "name": "Crux",
-        "summary": "",
+        "summary": "Specialized has unveiled its new Crux DSW gravel bike, touted as the lightest alloy gravel frame in the world, weighing under 1.4kg. The bike's sub-10kg weight and advanced features, including D'Aluisio Smartweld technology, make it a versatile option for gravel, cyclocross, and road riding. Critics have praised the Crux DSW for its impressive weight-to-performance ratio, describing it as the ideal \"n-1\" bike for cyclists seeking a single bike to handle multiple disciplines.",
         "items": [
-            {
-                "title": "Review: The Specialized Crux DSW Feels Like All the Bike You Need - Outside Magazine",
-                "description": "Review: The Specialized Crux DSW Feels Like All the Bike You Need  Outside Magazine",
-                "published date": "Tue, 11 Jun 2024 06:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdmVsby5vdXRzaWRlb25saW5lLmNvbS9ncmF2ZWwvZ3JhdmVsLWdlYXIvcmV2aWV3LXNwZWNpYWxpemVkLWNydXgtZHN3LWFsdW1pbnVtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://velo.outsideonline.com",
-                    "title": "Outside Magazine"
-                }
-            },
             {
                 "title": "In for review: 2025 Specialized Crux DSW - Escape Collective",
                 "description": "In for review: 2025 Specialized Crux DSW  Escape Collective",
@@ -127,6 +117,16 @@
                 "publisher": {
                     "href": "https://escapecollective.com",
                     "title": "Escape Collective"
+                }
+            },
+            {
+                "title": "Review: The Specialized Crux DSW Feels Like All the Bike You Need - Outside Magazine",
+                "description": "Review: The Specialized Crux DSW Feels Like All the Bike You Need  Outside Magazine",
+                "published date": "Tue, 11 Jun 2024 06:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdmVsby5vdXRzaWRlb25saW5lLmNvbS9ncmF2ZWwvZ3JhdmVsLWdlYXIvcmV2aWV3LXNwZWNpYWxpemVkLWNydXgtZHN3LWFsdW1pbnVtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://velo.outsideonline.com",
+                    "title": "Outside Magazine"
                 }
             },
             {
@@ -150,13 +150,13 @@
                 }
             },
             {
-                "title": "MGA Crux launches with DA Strategy support - Reinsurance News",
-                "description": "MGA Crux launches with DA Strategy support  Reinsurance News",
-                "published date": "Wed, 05 Jun 2024 10:01:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnJlaW5zdXJhbmNlbmUud3MvbWdhLWNydXgtbGF1bmNoZXMtd2l0aC1kYS1zdHJhdGVneS1zdXBwb3J0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Specialized launches Crux DSW \u2013 'the lightest alloy gravel bike ever made' - Rouleur",
+                "description": "Specialized launches Crux DSW \u2013 'the lightest alloy gravel bike ever made'  Rouleur",
+                "published date": "Tue, 11 Jun 2024 16:35:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJvdWxldXIuY2MvYmxvZ3MvZGVzaXJlLWpvdXJuYWwvc3BlY2lhbGl6ZWQtbGF1bmNoZXMtY3J1eC1kc3ctdGhlLWxpZ2h0ZXN0LWFsbG95LWdyYXZlbC1iaWtlLWV2ZXItbWFkZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.reinsurancene.ws",
-                    "title": "Reinsurance News"
+                    "href": "https://www.rouleur.cc",
+                    "title": "Rouleur"
                 }
             },
             {
@@ -180,16 +180,6 @@
                 }
             },
             {
-                "title": "Top Amazon cardinal says murder of environmental activists a key concern - Crux Now",
-                "description": "Top Amazon cardinal says murder of environmental activists a key concern  Crux Now",
-                "published date": "Wed, 05 Jun 2024 07:13:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vY3J1eG5vdy5jb20vY2h1cmNoLWluLXRoZS1hbWVyaWNhcy8yMDI0LzA2L3RvcC1hbWF6b24tY2FyZGluYWwtc2F5cy1tdXJkZXItb2YtZW52aXJvbm1lbnRhbC1hY3RpdmlzdHMtYS1rZXktY29uY2Vybi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://cruxnow.com",
-                    "title": "Crux Now"
-                }
-            },
-            {
                 "title": "Gravel, cyclocross, road: the all-new Specialized Crux DSW is a great n-1 alloy bike - CyclingWeekly",
                 "description": "Gravel, cyclocross, road: the all-new Specialized Crux DSW is a great n-1 alloy bike  CyclingWeekly",
                 "published date": "Tue, 11 Jun 2024 16:00:34 GMT",
@@ -208,6 +198,16 @@
                     "href": "https://www.bikeradar.com",
                     "title": "BikeRadar"
                 }
+            },
+            {
+                "title": "Dorothy Day Peacemaker Award goes to Pax Christi USA - Crux Now",
+                "description": "Dorothy Day Peacemaker Award goes to Pax Christi USA  Crux Now",
+                "published date": "Tue, 11 Jun 2024 06:38:19 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vY3J1eG5vdy5jb20vY2h1cmNoLWluLXRoZS11c2EvMjAyNC8wNi9kb3JvdGh5LWRheS1wZWFjZW1ha2VyLWF3YXJkLWdvZXMtdG8tYmlzaG9wLWpvaG4tc3Rvd2Utb2YtbGV4aW5ndG9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://cruxnow.com",
+                    "title": "Crux Now"
+                }
             }
         ]
     },
@@ -215,6 +215,16 @@
         "name": "Nvidia stock",
         "summary": "",
         "items": [
+            {
+                "title": "What Nvidia\u2019s stock split means for investors - MarketWatch",
+                "description": "What Nvidia\u2019s stock split means for investors  MarketWatch",
+                "published date": "Fri, 07 Jun 2024 15:55:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS93aGF0LW52aWRpYXMtc3RvY2stc3BsaXQtbWVhbnMtZm9yLWludmVzdG9ycy1jYjRjMjY2ZtIBW2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9hbXAvc3Rvcnkvd2hhdC1udmlkaWFzLXN0b2NrLXNwbGl0LW1lYW5zLWZvci1pbnZlc3RvcnMtY2I0YzI2NmY?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.marketwatch.com",
+                    "title": "MarketWatch"
+                }
+            },
             {
                 "title": "Nvidia sparks chatter over possible Dow inclusion after stock split - Reuters",
                 "description": "Nvidia sparks chatter over possible Dow inclusion after stock split  Reuters",
@@ -246,16 +256,6 @@
                 }
             },
             {
-                "title": "What Nvidia\u2019s stock split means for investors - MarketWatch",
-                "description": "What Nvidia\u2019s stock split means for investors  MarketWatch",
-                "published date": "Fri, 07 Jun 2024 15:55:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS93aGF0LW52aWRpYXMtc3RvY2stc3BsaXQtbWVhbnMtZm9yLWludmVzdG9ycy1jYjRjMjY2ZtIBW2h0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9hbXAvc3Rvcnkvd2hhdC1udmlkaWFzLXN0b2NrLXNwbGl0LW1lYW5zLWZvci1pbnZlc3RvcnMtY2I0YzI2NmY?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.marketwatch.com",
-                    "title": "MarketWatch"
-                }
-            },
-            {
                 "title": "Nvidia's First Trading Day After Its Stock Split Brings Slight Gain and Price-Target Hikes - Investopedia",
                 "description": "Nvidia's First Trading Day After Its Stock Split Brings Slight Gain and Price-Target Hikes  Investopedia",
                 "published date": "Mon, 10 Jun 2024 21:43:01 GMT",
@@ -268,7 +268,7 @@
             {
                 "title": "Nvidia's stock split makes it look like Cisco - Axios",
                 "description": "Nvidia's stock split makes it look like Cisco  Axios",
-                "published date": "Mon, 10 Jun 2024 14:59:45 GMT",
+                "published date": "Mon, 10 Jun 2024 12:22:30 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA2LzEwL252aWRpYS1jaGlwcy1jaXNjby1zdG9jay1zcGxpdC1haS1nZW5hadIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.axios.com",
@@ -286,16 +286,6 @@
                 }
             },
             {
-                "title": "Nvidia Stock (NASDAQ:NVDA): Cheaper after the Stock Split, Yet Priceless - Yahoo Finance",
-                "description": "Nvidia Stock (NASDAQ:NVDA): Cheaper after the Stock Split, Yet Priceless  Yahoo Finance",
-                "published date": "Wed, 12 Jun 2024 00:20:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9udmlkaWEtc3RvY2stbmFzZGFxLW52ZGEtY2hlYXBlci0wMDIwMDc2NTkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://finance.yahoo.com",
-                    "title": "Yahoo Finance"
-                }
-            },
-            {
                 "title": "Why Is Everyone Talking About Nvidia's Stock Split? - The Motley Fool",
                 "description": "Why Is Everyone Talking About Nvidia's Stock Split?  The Motley Fool",
                 "published date": "Mon, 10 Jun 2024 09:35:00 GMT",
@@ -306,13 +296,23 @@
                 }
             },
             {
-                "title": "Nvidia Stock Gets Price-Target Hikes Post Split - Investor's Business Daily",
-                "description": "Nvidia Stock Gets Price-Target Hikes Post Split  Investor's Business Daily",
-                "published date": "Mon, 10 Jun 2024 22:03:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L252aWRpYS1zdG9jay1nZXRzLXByaWNlLXRhcmdldC1oaWtlcy1wb3N0LXNwbGl0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Nvidia Stock Still Has Room To Run, Analysts Say - Investor's Business Daily",
+                "description": "Nvidia Stock Still Has Room To Run, Analysts Say  Investor's Business Daily",
+                "published date": "Tue, 11 Jun 2024 20:16:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L252aWRpYS1zdG9jay1zdGlsbC1oYXMtcm9vbS10by1ydW4tYW5hbHlzdHMtc2F5L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.investors.com",
                     "title": "Investor's Business Daily"
+                }
+            },
+            {
+                "title": "Nvidia stock rises after 10-for-1 stock split - Yahoo Finance",
+                "description": "Nvidia stock rises after 10-for-1 stock split  Yahoo Finance",
+                "published date": "Mon, 10 Jun 2024 20:46:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9udmlkaWEtc3RvY2stcmlzZXMtYWZ0ZXItMTAtZm9yLTEtc3RvY2stc3BsaXQtMjA0NDEyNTI4Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://finance.yahoo.com",
+                    "title": "Yahoo Finance"
                 }
             }
         ]
@@ -412,13 +412,13 @@
                 }
             },
             {
-                "title": "UConn's Dan Hurley plans to make final decision about Lakers offer on Monday: Report - Yahoo Sports",
-                "description": "UConn's Dan Hurley plans to make final decision about Lakers offer on Monday: Report  Yahoo Sports",
-                "published date": "Mon, 10 Jun 2024 15:19:58 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vdWNvbm5zLWRhbi1odXJsZXktcGxhbnMtdG8tbWFrZS1maW5hbC1kZWNpc2lvbi1hYm91dC1sYWtlcnMtY29hY2gtb2ZmZXItb24tbW9uZGF5LXJlcG9ydC0yMzUzNDIyNTguaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "UConn's Dan Hurley Turns Down Lakers' Offer to Stay With Huskies - Sportico",
+                "description": "UConn's Dan Hurley Turns Down Lakers' Offer to Stay With Huskies  Sportico",
+                "published date": "Mon, 10 Jun 2024 18:11:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNwb3J0aWNvLmNvbS9sZWFndWVzL2NvbGxlZ2Utc3BvcnRzLzIwMjQvdWNvbm4tZGFuLWh1cmxleS10dXJucy1kb3duLWxha2Vycy1vZmZlci1uYmEtMTIzNDc4MzIwMy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
+                    "href": "https://www.sportico.com",
+                    "title": "Sportico"
                 }
             }
         ]
@@ -438,13 +438,23 @@
                 }
             },
             {
-                "title": "Today's NYT Wordle Hints and Answer - Help for June 5, #1082 - CNET",
-                "description": "Today's NYT Wordle Hints and Answer - Help for June 5, #1082  CNET",
-                "published date": "Wed, 05 Jun 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL3RvZGF5cy13b3JkbGUtaGludHMtYW5kLWFuc3dlci1oZWxwLWZvci1qdW5lLTUtMTA4Mi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Today's NYT Wordle Hints and Answer - Help for June 11, #1088 - CNET",
+                "description": "Today's NYT Wordle Hints and Answer - Help for June 11, #1088  CNET",
+                "published date": "Tue, 11 Jun 2024 03:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvZ2FtaW5nL3RvZGF5cy13b3JkbGUtaGludHMtYW5kLWFuc3dlci1oZWxwLWZvci1qdW5lLTExLTEwODgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cnet.com",
                     "title": "CNET"
+                }
+            },
+            {
+                "title": "Today's 'Wordle' #1,089 Hints and Answer for Wednesday, June 12 Puzzle - Newsweek",
+                "description": "Today's 'Wordle' #1,089 Hints and Answer for Wednesday, June 12 Puzzle  Newsweek",
+                "published date": "Wed, 12 Jun 2024 04:01:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS93b3JkbGUtdG9kYXktMTA4OS13ZWRuZXNkYXktaGludHMtYW5zd2VyLWp1bmUtMTItMTkxMTI3M9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.newsweek.com",
+                    "title": "Newsweek"
                 }
             },
             {
@@ -468,16 +478,6 @@
                 }
             },
             {
-                "title": "Today's 'Wordle' #1,089 Hints and Answer for Wednesday, June 12 Puzzle - Newsweek",
-                "description": "Today's 'Wordle' #1,089 Hints and Answer for Wednesday, June 12 Puzzle  Newsweek",
-                "published date": "Wed, 12 Jun 2024 04:01:01 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS93b3JkbGUtdG9kYXktMTA4OS13ZWRuZXNkYXktaGludHMtYW5zd2VyLWp1bmUtMTItMTkxMTI3M9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.newsweek.com",
-                    "title": "Newsweek"
-                }
-            },
-            {
                 "title": "Today's Wordle Answer, Hint for #1084, Friday, June 7, 2024 - Parade Magazine",
                 "description": "Today's Wordle Answer, Hint for #1084, Friday, June 7, 2024  Parade Magazine",
                 "published date": "Fri, 07 Jun 2024 04:05:00 GMT",
@@ -485,26 +485,6 @@
                 "publisher": {
                     "href": "https://parade.com",
                     "title": "Parade Magazine"
-                }
-            },
-            {
-                "title": "Wordle today: Answer and hint #1088 for June 11 - PC Gamer",
-                "description": "Wordle today: Answer and hint #1088 for June 11  PC Gamer",
-                "published date": "Tue, 11 Jun 2024 03:00:44 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnBjZ2FtZXIuY29tL2dhbWVzL3B1enpsZS93b3JkbGUtYW5zd2VyLXRvZGF5LWp1bmUtMTEtMjAyNC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.pcgamer.com",
-                    "title": "PC Gamer"
-                }
-            },
-            {
-                "title": "Today's NYT Wordle Hints and Answer - Help for June 10, #1087 - CNET",
-                "description": "Today's NYT Wordle Hints and Answer - Help for June 10, #1087  CNET",
-                "published date": "Mon, 10 Jun 2024 03:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL3RvZGF5cy13b3JkbGUtaGludHMtYW5kLWFuc3dlci1oZWxwLWZvci1qdW5lLTEwLTEwODcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
                 }
             },
             {
@@ -518,6 +498,16 @@
                 }
             },
             {
+                "title": "Today's NYT Wordle Hints and Answer - Help for June 10, #1087 - CNET",
+                "description": "Today's NYT Wordle Hints and Answer - Help for June 10, #1087  CNET",
+                "published date": "Mon, 10 Jun 2024 03:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL3RvZGF5cy13b3JkbGUtaGludHMtYW5kLWFuc3dlci1oZWxwLWZvci1qdW5lLTEwLTEwODcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnet.com",
+                    "title": "CNET"
+                }
+            },
+            {
                 "title": "Today's Wordle Answer, Hint for #1088, Tuesday, June 11, 2024 - Parade Magazine",
                 "description": "Today's Wordle Answer, Hint for #1088, Tuesday, June 11, 2024  Parade Magazine",
                 "published date": "Tue, 11 Jun 2024 04:05:49 GMT",
@@ -526,21 +516,41 @@
                     "href": "https://parade.com",
                     "title": "Parade Magazine"
                 }
+            },
+            {
+                "title": "'Wordle' #1,086 Hints and Answer for Sunday, June 9 Game - Newsweek",
+                "description": "'Wordle' #1,086 Hints and Answer for Sunday, June 9 Game  Newsweek",
+                "published date": "Sun, 09 Jun 2024 04:01:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS93b3JkbGUtc3VuZGF5LWhpbnRzLWp1bmUtOS1hbnN3ZXItMTkwOTk5MNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.newsweek.com",
+                    "title": "Newsweek"
+                }
             }
         ]
     },
     {
         "name": "iOS 18",
-        "summary": "iOS 18, the latest software update for iPhones, has been unveiled by Apple, introducing an array of innovative features. The highlight is Apple Intelligence, an enhanced AI assistant that empowers Siri with conversational and comprehensive capabilities. Users can also expect customizable home screens, improved notifications, fresh widgets, and a revamped Apple Maps with 3D landmarks. These upgrades aim to make the iPhone more personalized, efficient, and intelligent, providing a seamless and personalized user experience for Apple enthusiasts worldwide.",
+        "summary": "",
         "items": [
             {
                 "title": "iOS 18 Preview - Apple",
                 "description": "iOS 18 Preview  Apple",
-                "published date": "Mon, 10 Jun 2024 18:48:56 GMT",
+                "published date": "Wed, 12 Jun 2024 12:29:20 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmFwcGxlLmNvbS9pb3MvaW9zLTE4LXByZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.apple.com",
                     "title": "Apple"
+                }
+            },
+            {
+                "title": "iOS 18: Features, Compatible Devices, Launch Date, and More - MacRumors",
+                "description": "iOS 18: Features, Compatible Devices, Launch Date, and More  MacRumors",
+                "published date": "Wed, 12 Jun 2024 03:11:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vcm91bmR1cC9pb3MtMTgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.macrumors.com",
+                    "title": "MacRumors"
                 }
             },
             {
@@ -584,16 +594,6 @@
                 }
             },
             {
-                "title": "Apple iOS 18: What\u2019s New in the Latest iPhone Software Release - Variety",
-                "description": "Apple iOS 18: What\u2019s New in the Latest iPhone Software Release  Variety",
-                "published date": "Tue, 11 Jun 2024 17:52:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvaW9zLTE4LXdoYXRzLW5ldy1hcHBsZS1pcGhvbmUtcmVsZWFzZS0xMjM2MDMzNjAzL9IBW2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvaW9zLTE4LXdoYXRzLW5ldy1hcHBsZS1pcGhvbmUtcmVsZWFzZS0xMjM2MDMzNjAzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
                 "title": "The Top New Features Coming to Apple's iOS 18 and iPadOS 18 - WIRED",
                 "description": "The Top New Features Coming to Apple's iOS 18 and iPadOS 18  WIRED",
                 "published date": "Tue, 11 Jun 2024 16:11:21 GMT",
@@ -604,13 +604,13 @@
                 }
             },
             {
-                "title": "iOS 18 release, features, changes: Apple releases new iPhone OS - USA TODAY",
-                "description": "iOS 18 release, features, changes: Apple releases new iPhone OS  USA TODAY",
-                "published date": "Mon, 10 Jun 2024 21:04:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS90ZWNoLzIwMjQvMDYvMTAvYXBwbGUtaW9zLTE4Lzc0MDQ1ODUwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Apple iOS 18: What\u2019s New in the Latest iPhone Software Release - Variety",
+                "description": "Apple iOS 18: What\u2019s New in the Latest iPhone Software Release  Variety",
+                "published date": "Tue, 11 Jun 2024 17:52:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvaW9zLTE4LXdoYXRzLW5ldy1hcHBsZS1pcGhvbmUtcmVsZWFzZS0xMjM2MDMzNjAzL9IBW2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvaW9zLTE4LXdoYXRzLW5ldy1hcHBsZS1pcGhvbmUtcmVsZWFzZS0xMjM2MDMzNjAzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
+                    "href": "https://variety.com",
+                    "title": "Variety"
                 }
             },
             {
@@ -637,18 +637,8 @@
     },
     {
         "name": "Michael Rainey Jr",
-        "summary": "Following an alleged sexual assault on a Twitch livestream, \"Power\" star Michael Rainey Jr. has spoken out about the incident. Rainey Jr. has expressed that he is still coming to terms with the experience, which 50 Cent has addressed with a light-hearted comment. The incident has sparked a discussion about sexual harassment and misconduct in public spaces. Amidst this, Rainey Jr. has also reflected on the end of his role in \"Power Book II: Ghost,\" expressing both a sense of finality and anticipation for future projects, including a potential romantic comedy.",
+        "summary": "",
         "items": [
-            {
-                "title": "Power's Michael Rainey Jr. Says He's 'Still Processing' After Being Sexually Assaulted on Livestream - PEOPLE",
-                "description": "Power's Michael Rainey Jr. Says He's 'Still Processing' After Being Sexually Assaulted on Livestream  PEOPLE",
-                "published date": "Mon, 10 Jun 2024 21:10:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGVvcGxlLmNvbS9wb3dlci1ib29rLTItZ2hvc3Qtc3Rhci1taWNoYWVsLXJhaW5leS1qci1zdGlsbC1wcm9jZXNzaW5nLWFmdGVyLXNleHVhbC1hc3NhdWx0LWxpdmVzdHJlYW0tODY2MTExMtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://people.com",
-                    "title": "PEOPLE"
-                }
-            },
             {
                 "title": "50 Cent Makes Light of 'Power Book II' Star Michael Rainey Jr. Being Groped - Complex",
                 "description": "50 Cent Makes Light of 'Power Book II' Star Michael Rainey Jr. Being Groped  Complex",
@@ -680,16 +670,6 @@
                 }
             },
             {
-                "title": "Actor Michael Rainey Jr. Says He's 'In Shock' After Allegedly Being Groped On Livestream - Forbes",
-                "description": "Actor Michael Rainey Jr. Says He's 'In Shock' After Allegedly Being Groped On Livestream  Forbes",
-                "published date": "Tue, 11 Jun 2024 15:05:10 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2Nvbm9ybXVycmF5LzIwMjQvMDYvMTEvYWN0b3ItbWljaGFlbC1yYWluZXktanItc2F5cy1oZXMtaW4tc2hvY2stYWZ0ZXItYWxsZWdlZGx5LWJlaW5nLWdyb3BlZC1vbi1saXZlc3RyZWFtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
                 "title": "Michael Rainey Jr. Talks the Final Season of 'Power Book II: Ghost' - CNET",
                 "description": "Michael Rainey Jr. Talks the Final Season of 'Power Book II: Ghost'  CNET",
                 "published date": "Fri, 07 Jun 2024 10:00:00 GMT",
@@ -697,6 +677,16 @@
                 "publisher": {
                     "href": "https://www.cnet.com",
                     "title": "CNET"
+                }
+            },
+            {
+                "title": "Actor Michael Rainey Jr. Says He's 'In Shock' After Allegedly Being Groped On Livestream - Forbes",
+                "description": "Actor Michael Rainey Jr. Says He's 'In Shock' After Allegedly Being Groped On Livestream  Forbes",
+                "published date": "Tue, 11 Jun 2024 15:05:10 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2Nvbm9ybXVycmF5LzIwMjQvMDYvMTEvYWN0b3ItbWljaGFlbC1yYWluZXktanItc2F5cy1oZXMtaW4tc2hvY2stYWZ0ZXItYWxsZWdlZGx5LWJlaW5nLWdyb3BlZC1vbi1saXZlc3RyZWFtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
                 }
             },
             {
@@ -738,12 +728,22 @@
                     "href": "https://www.fox26houston.com",
                     "title": "FOX 26 Houston"
                 }
+            },
+            {
+                "title": "Michael Rainey Speaks On Death Threats For Playing Tariq - The Shade Room",
+                "description": "Michael Rainey Speaks On Death Threats For Playing Tariq  The Shade Room",
+                "published date": "Fri, 07 Jun 2024 22:04:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdGhlc2hhZGVyb29tLmNvbS9taWNoYWVsLXJhaW5leS1qci1zcGVha3Mtb24tZGVhdGgtdGhyZWF0cy1oZS1yZWNlaXZlZC1hZnRlci1wb3J0cmF5aW5nLXRhcmlxLW9uLXBvd2VyL9IBc2h0dHBzOi8vdGhlc2hhZGVyb29tLmNvbS9taWNoYWVsLXJhaW5leS1qci1zcGVha3Mtb24tZGVhdGgtdGhyZWF0cy1oZS1yZWNlaXZlZC1hZnRlci1wb3J0cmF5aW5nLXRhcmlxLW9uLXBvd2VyL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://theshaderoom.com",
+                    "title": "The Shade Room"
+                }
             }
         ]
     },
     {
         "name": "Practical Magic 2",
-        "summary": "Exciting news for fans of the beloved movie \"Practical Magic\"! Warner Bros. has announced that \"Practical Magic 2\" is in the works, with Sandra Bullock and Nicole Kidman in talks to reprise their roles. The original film, released in 1998, starred Bullock and Kidman as two witch sisters who must band together to lift a curse on their family. The sequel has been in the works for several years, and it is expected to delve deeper into the magical world and supernatural elements that made the first film so popular. Fans can expect to hear more details about the cast, plot, and release date in the coming months.",
+        "summary": "",
         "items": [
             {
                 "title": "\u2018Practical Magic 2\u2019: Sandra Bullock and Nicole Kidman in Talks to Return for Sequel - Variety",
@@ -776,23 +776,13 @@
                 }
             },
             {
-                "title": "\u2018Practical Magic 2\u2019 is in the works - CNN",
-                "description": "\u2018Practical Magic 2\u2019 is in the works  CNN",
-                "published date": "Tue, 11 Jun 2024 15:16:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xMS9lbnRlcnRhaW5tZW50L3ByYWN0aWNhbC1tYWdpYy0yLWFubm91bmNlbWVudC1zY2xpLWludGwvaW5kZXguaHRtbNIBWWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMTEvZW50ZXJ0YWlubWVudC9wcmFjdGljYWwtbWFnaWMtMi1hbm5vdW5jZW1lbnQtc2NsaS1pbnRs?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Sandra Bullock and Nicole Kidman Near Deals to Return for 'Practical Magic' Sequel at Warner Bros. - IndieWire",
+                "description": "Sandra Bullock and Nicole Kidman Near Deals to Return for 'Practical Magic' Sequel at Warner Bros.  IndieWire",
+                "published date": "Mon, 10 Jun 2024 16:24:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vbmV3cy9icmVha2luZy1uZXdzL3ByYWN0aWNhbC1tYWdpYy0yLXNhbmRyYS1idWxsb2NrLW5pY29sZS1raWRtYW4tMTIzNTAxNDMzMS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            },
-            {
-                "title": "Is 'Practical Magic' Getting A Sequel? What To Know - TODAY",
-                "description": "Is 'Practical Magic' Getting A Sequel? What To Know  TODAY",
-                "published date": "Mon, 10 Jun 2024 17:06:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRvZGF5LmNvbS9wb3BjdWx0dXJlL21vdmllcy9wcmFjdGljYWwtbWFnaWMtMi1zZXF1ZWwtcmNuYTE1NjI1ONIBKmh0dHBzOi8vd3d3LnRvZGF5LmNvbS90b2RheS9hbXAvcmNuYTE1NjI1OA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.today.com",
-                    "title": "TODAY"
+                    "href": "https://www.indiewire.com",
+                    "title": "IndieWire"
                 }
             },
             {
@@ -806,23 +796,23 @@
                 }
             },
             {
-                "title": "Sandra Bullock and Nicole Kidman Near Deals to Return for 'Practical Magic' Sequel at Warner Bros. - IndieWire",
-                "description": "Sandra Bullock and Nicole Kidman Near Deals to Return for 'Practical Magic' Sequel at Warner Bros.  IndieWire",
-                "published date": "Mon, 10 Jun 2024 16:24:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vbmV3cy9icmVha2luZy1uZXdzL3ByYWN0aWNhbC1tYWdpYy0yLXNhbmRyYS1idWxsb2NrLW5pY29sZS1raWRtYW4tMTIzNTAxNDMzMS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Is 'Practical Magic' Getting A Sequel? What To Know - TODAY",
+                "description": "Is 'Practical Magic' Getting A Sequel? What To Know  TODAY",
+                "published date": "Mon, 10 Jun 2024 17:06:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRvZGF5LmNvbS9wb3BjdWx0dXJlL21vdmllcy9wcmFjdGljYWwtbWFnaWMtMi1zZXF1ZWwtcmNuYTE1NjI1ONIBKmh0dHBzOi8vd3d3LnRvZGF5LmNvbS90b2RheS9hbXAvcmNuYTE1NjI1OA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.indiewire.com",
-                    "title": "IndieWire"
+                    "href": "https://www.today.com",
+                    "title": "TODAY"
                 }
             },
             {
-                "title": "Sandra Bullock & Nicole Kidman In Talks To Return For \u2018Practical Magic\u2019 Sequel - Deadline",
-                "description": "Sandra Bullock & Nicole Kidman In Talks To Return For \u2018Practical Magic\u2019 Sequel  Deadline",
-                "published date": "Mon, 10 Jun 2024 16:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDYvcHJhY3RpY2FsLW1hZ2ljLXNlcXVlbC1zYW5kcmEtYnVsbG9jay1uaWNvbGUta2lkbWFuLW5lZ290aWF0aW5nLXRvLXN0YXItMTIzNTk2ODk5Ny_SAXRodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzA2L3ByYWN0aWNhbC1tYWdpYy1zZXF1ZWwtc2FuZHJhLWJ1bGxvY2stbmljb2xlLWtpZG1hbi1uZWdvdGlhdGluZy10by1zdGFyLTEyMzU5Njg5OTcvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "\u2018Practical Magic 2\u2019 is in the works - CNN",
+                "description": "\u2018Practical Magic 2\u2019 is in the works  CNN",
+                "published date": "Tue, 11 Jun 2024 15:16:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xMS9lbnRlcnRhaW5tZW50L3ByYWN0aWNhbC1tYWdpYy0yLWFubm91bmNlbWVudC1zY2xpLWludGwvaW5kZXguaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://deadline.com",
-                    "title": "Deadline"
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
                 }
             },
             {
@@ -844,12 +834,22 @@
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
                 }
+            },
+            {
+                "title": "Nicole Kidman and Sandra Bullock in Talks for 'Practical Magic' Sequel - Rolling Stone",
+                "description": "Nicole Kidman and Sandra Bullock in Talks for 'Practical Magic' Sequel  Rolling Stone",
+                "published date": "Mon, 10 Jun 2024 21:10:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vdHYtbW92aWVzL3R2LW1vdmllLW5ld3MvcHJhY3RpY2FsLW1hZ2ljLTItc2VxdWVsLTEyMzUwMzcwODEv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.rollingstone.com",
+                    "title": "Rolling Stone"
+                }
             }
         ]
     },
     {
         "name": "Rebecca Grossman",
-        "summary": "Rebecca Grossman, a prominent Los Angeles philanthropist and co-founder of the Grossman Burn Foundation, has been sentenced to 15 years to life in prison for the deaths of two young boys who were struck by her car while crossing a crosswalk in Westlake Village in 2020. The 59-year-old socialite's sentencing follows her conviction on two counts of murder and one count of hit-and-run driving in connection with the deaths of 11-year-old Mark Isaias and 8-year-old Jacob Isaias, who were walking home from school when they were hit by Grossman's Mercedes-Benz. The prosecution had sought a sentence of 34 years to life for Grossman, arguing that her actions were reckless and that she had shown no remorse for her crime.",
+        "summary": "",
         "items": [
             {
                 "title": "Rebecca Grossman gets 15 years to life for murder of boys killed in crosswalk - Los Angeles Times",
@@ -882,33 +882,13 @@
                 }
             },
             {
-                "title": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash - The Washington Post",
-                "description": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash  The Washington Post",
+                "title": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash - The Washington Post - The Washington Post",
+                "description": "Rebecca Grossman sentenced to 15 years to life for fatal L.A. crash - The Washington Post  The Washington Post",
                 "published date": "Tue, 11 Jun 2024 08:37:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wNi8xMS9yZWJlY2NhLWdyb3NzbWFuLXNlbnRlbmNpbmctY3Jhc2gv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.washingtonpost.com",
                     "title": "The Washington Post"
-                }
-            },
-            {
-                "title": "California socialite Rebecca Grossman sentenced to 15 to life for killing 2 kids in crosswalk - NBC News",
-                "description": "California socialite Rebecca Grossman sentenced to 15 to life for killing 2 kids in crosswalk  NBC News",
-                "published date": "Mon, 10 Jun 2024 22:53:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9jYWxpZm9ybmlhLXNvY2lhbGl0ZS1yZWJlY2NhLWdyb3NzbWFuLXNlbnRlbmNlZC0xNS1saWZlLWtpbGxpbmctMi1raWRzLXJjbmExNTY0NTjSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTU2NDU4?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
-                }
-            },
-            {
-                "title": "Rebecca Grossman Is Sentenced for Hit-and-Run Murder of 2 Boys - The New York Times",
-                "description": "Rebecca Grossman Is Sentenced for Hit-and-Run Murder of 2 Boys  The New York Times",
-                "published date": "Tue, 11 Jun 2024 20:38:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvcmViZWNjYS1ncm9zc21hbi1oaXQtcnVuLXNlbnRlbmNlZC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
                 }
             },
             {
@@ -922,13 +902,33 @@
                 }
             },
             {
+                "title": "California socialite Rebecca Grossman sentenced to 15 to life for killing 2 kids in crosswalk - NBC News",
+                "description": "California socialite Rebecca Grossman sentenced to 15 to life for killing 2 kids in crosswalk  NBC News",
+                "published date": "Mon, 10 Jun 2024 22:53:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9jYWxpZm9ybmlhLXNvY2lhbGl0ZS1yZWJlY2NhLWdyb3NzbWFuLXNlbnRlbmNlZC0xNS1saWZlLWtpbGxpbmctMi1raWRzLXJjbmExNTY0NTjSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTU2NDU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
+                }
+            },
+            {
                 "title": "Rebecca Grossman: Socialite jailed for hit-and-run deaths - BBC.com",
                 "description": "Rebecca Grossman: Socialite jailed for hit-and-run deaths  BBC.com",
-                "published date": "Tue, 11 Jun 2024 16:40:29 GMT",
+                "published date": "Tue, 11 Jun 2024 11:49:11 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbWxseDJucDJ5bW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY21sbHgybnAyeW1vLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.bbc.com",
                     "title": "BBC.com"
+                }
+            },
+            {
+                "title": "Rebecca Grossman Is Sentenced for Hit-and-Run Murder of 2 Boys - The New York Times",
+                "description": "Rebecca Grossman Is Sentenced for Hit-and-Run Murder of 2 Boys  The New York Times",
+                "published date": "Tue, 11 Jun 2024 20:38:34 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvcmViZWNjYS1ncm9zc21hbi1oaXQtcnVuLXNlbnRlbmNlZC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
                 }
             },
             {
@@ -944,7 +944,7 @@
             {
                 "title": "Rebecca Grossman sentenced for 2020 hit-and-run deaths of 2 brothers - USA TODAY",
                 "description": "Rebecca Grossman sentenced for 2020 hit-and-run deaths of 2 brothers  USA TODAY",
-                "published date": "Tue, 11 Jun 2024 06:24:11 GMT",
+                "published date": "Wed, 12 Jun 2024 10:02:38 GMT",
                 "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzExL2NhbGlmb3JuaWEtcmViZWNjYS1ncm9zc21hbi1zZW50ZW5jaW5nLW1hcmstaXNrYW5kZXItamFjb2IvNzQwNTMyNzgwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
@@ -955,16 +955,26 @@
     },
     {
         "name": "Enchanting rapper",
-        "summary": "Enchanting, a 26-year-old rapper formerly signed to Gucci Mane's 1017 label, has passed away. The tragic news was confirmed by Gucci Mane himself, who shared a tribute on social media. Enchanting's death has sent shockwaves through the music community, with many expressing their condolences and sharing memories of her. Reports suggest that she died after an apparent overdose, but the official cause of death remains under investigation.",
+        "summary": "",
         "items": [
             {
-                "title": "Enchanting, Texas Star and Former 1017 Rapper, Dead at 26 - Rolling Stone",
-                "description": "Enchanting, Texas Star and Former 1017 Rapper, Dead at 26  Rolling Stone",
-                "published date": "Wed, 12 Jun 2024 01:05:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9lbmNoYW50aW5nLXJhcHBlci1kZWFkLW9iaXR1YXJ5LTEyMzUwMzgzODMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Enchanting dead: Gucci Mane rapper signed to his 1017 Records dies - USA TODAY",
+                "description": "Enchanting dead: Gucci Mane rapper signed to his 1017 Records dies  USA TODAY",
+                "published date": "Wed, 12 Jun 2024 00:18:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L211c2ljLzIwMjQvMDYvMTEvZW5jaGFudGluZy1yYXBwZXItZGVhZC1ndWNjaS1tYW5lLTEwMTctcmVjb3Jkcy83NDA2NDk4ODAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.rollingstone.com",
-                    "title": "Rolling Stone"
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Rapper Enchanting, Gucci Mane's former prot\u00e9g\u00e9e, dead at 26 - New York Post",
+                "description": "Rapper Enchanting, Gucci Mane's former prot\u00e9g\u00e9e, dead at 26  New York Post ",
+                "published date": "Wed, 12 Jun 2024 08:06:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzEyL2VudGVydGFpbm1lbnQvcmFwcGVyLWVuY2hhbnRpbmctZ3VjY2ktbWFuZXMtZm9ybWVyLXByb3RlZ2VlLWRlYWQtYXQtMjYv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
                 }
             },
             {
@@ -978,6 +988,26 @@
                 }
             },
             {
+                "title": "Enchanting, Texas Star and Former 1017 Rapper, Dead at 26 - Rolling Stone",
+                "description": "Enchanting, Texas Star and Former 1017 Rapper, Dead at 26  Rolling Stone",
+                "published date": "Wed, 12 Jun 2024 01:05:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9lbmNoYW50aW5nLXJhcHBlci1kZWFkLW9iaXR1YXJ5LTEyMzUwMzgzODMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.rollingstone.com",
+                    "title": "Rolling Stone"
+                }
+            },
+            {
+                "title": "RIP: Rapper Enchanting Passes Away At 26 - Hot97 - Hip Hop & R&B News",
+                "description": "RIP: Rapper Enchanting Passes Away At 26  Hot97 - Hip Hop & R&B News",
+                "published date": "Tue, 11 Jun 2024 20:00:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmhvdDk3LmNvbS9uZXdzL3JpcC1yYXBwZXItZW5jaGFudGluZy1wYXNzZXMtYXdheS1hdC0yNi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.hot97.com",
+                    "title": "Hot97 - Hip Hop & R&B News"
+                }
+            },
+            {
                 "title": "Rapper Enchanting Dead at 26 - E! NEWS",
                 "description": "Rapper Enchanting Dead at 26  E! NEWS",
                 "published date": "Wed, 12 Jun 2024 02:50:00 GMT",
@@ -988,16 +1018,6 @@
                 }
             },
             {
-                "title": "Former 1017 Artist Enchanting Passes Away, Gucci Mane Speaks - The Shade Room",
-                "description": "Former 1017 Artist Enchanting Passes Away, Gucci Mane Speaks  The Shade Room",
-                "published date": "Tue, 11 Jun 2024 23:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhlc2hhZGVyb29tLmNvbS9mb3JtZXItMTAxNy1hcnRpc3QtZW5jaGFudGluZy1wYXNzZXMtYXdheS1ndWNjaS1tYW5lLXNwZWFrcy_SAVlodHRwczovL3RoZXNoYWRlcm9vbS5jb20vZm9ybWVyLTEwMTctYXJ0aXN0LWVuY2hhbnRpbmctcGFzc2VzLWF3YXktZ3VjY2ktbWFuZS1zcGVha3MvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://theshaderoom.com",
-                    "title": "The Shade Room"
-                }
-            },
-            {
                 "title": "Rapper Enchanting dead at 26 | wfaa.com - WFAA.com",
                 "description": "Rapper Enchanting dead at 26 | wfaa.com  WFAA.com",
                 "published date": "Wed, 12 Jun 2024 01:05:00 GMT",
@@ -1005,6 +1025,16 @@
                 "publisher": {
                     "href": "https://www.wfaa.com",
                     "title": "WFAA.com"
+                }
+            },
+            {
+                "title": "Rapper Enchanting's Last Message to Fans As Her Cause of Death Revealed - Newsweek",
+                "description": "Rapper Enchanting's Last Message to Fans As Her Cause of Death Revealed  Newsweek",
+                "published date": "Wed, 12 Jun 2024 10:56:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9yYXBwZXItZW5jaGFudGluZy1sYXN0LW1lc3NhZ2UtZmFucy1jYXVzZS1kZWF0aC1yZXZlYWxlZC0xOTExNjUx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.newsweek.com",
+                    "title": "Newsweek"
                 }
             },
             {
@@ -1026,42 +1056,12 @@
                     "href": "https://www.tmz.com",
                     "title": "TMZ"
                 }
-            },
-            {
-                "title": "Rapper Enchanting, ex-prot\u00e9g\u00e9 of Gucci Mane, dead at 26 after being put on life support - New York Daily News",
-                "description": "Rapper Enchanting, ex-prot\u00e9g\u00e9 of Gucci Mane, dead at 26 after being put on life support  New York Daily News",
-                "published date": "Wed, 12 Jun 2024 00:32:44 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm55ZGFpbHluZXdzLmNvbS8yMDI0LzA2LzExL3JhcHBlci1lbmNoYW50aW5nLWRlYWQtbGlmZS1zdXBwb3J0LWFsbGVnZWQtb3ZlcmRvc2Uv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nydailynews.com",
-                    "title": "New York Daily News"
-                }
-            },
-            {
-                "title": "Rapper Enchanting dead at 26 after reported overdose, mentor Gucci Mane mourns 'great young lady' - Entertainment Weekly News",
-                "description": "Rapper Enchanting dead at 26 after reported overdose, mentor Gucci Mane mourns 'great young lady'  Entertainment Weekly News",
-                "published date": "Wed, 12 Jun 2024 03:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZXcuY29tL3JhcHBlci1lbmNoYW50aW5nLWRlYWQtYXQtMjYtYWZ0ZXItcmVwb3J0ZWQtb3ZlcmRvc2UtODY2MTk5MdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://ew.com",
-                    "title": "Entertainment Weekly News"
-                }
-            },
-            {
-                "title": "Gucci Mane\u2019s Former 1017 Artist Enchanting On Life Support - Rap-Up",
-                "description": "Gucci Mane\u2019s Former 1017 Artist Enchanting On Life Support  Rap-Up",
-                "published date": "Tue, 11 Jun 2024 16:46:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJhcC11cC5jb20vMjAyNC8wNi8xMS9yYXBwZXItZW5jaGFudGluZy10YWtlbi10by1pbnRlbnNpdmUtY2FyZS11bml0LWZhbWlseS1jb25maXJtcy_SAWVodHRwczovL3d3dy5yYXAtdXAuY29tLzIwMjQvMDYvMTEvcmFwcGVyLWVuY2hhbnRpbmctdGFrZW4tdG8taW50ZW5zaXZlLWNhcmUtdW5pdC1mYW1pbHktY29uZmlybXMvP2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.rap-up.com",
-                    "title": "Rap-Up"
-                }
             }
         ]
     },
     {
         "name": "College World Series",
-        "summary": "The 2024 NCAA Baseball Tournament is underway, with the Men's College World Series (CWS) approaching. The tournament features teams from the SEC and ACC conferences, showcasing some of the top talent in college baseball. The Oklahoma Sooners and Texas Longhorns are set to face off in the Women's CWS finals. The Kentucky Wildcats have secured their first-ever bid to the CWS, while the NC State Wolfpack have also earned a berth. Sports experts have released their predictions and odds for the CWS, with teams like Tennessee and Texas A&M among the favorites. The tournament bracket, schedule, and viewing information can be found on NCAA.com, USA TODAY, and other sports websites.",
+        "summary": "",
         "items": [
             {
                 "title": "2024 NCAA baseball bracket: Men's College World Series scores, schedule - NCAA.com",
@@ -1071,6 +1071,16 @@
                 "publisher": {
                     "href": "https://www.ncaa.com",
                     "title": "NCAA.com"
+                }
+            },
+            {
+                "title": "2024 NCAA baseball tournament bracket, scores, schedule: College World Series field set - CBS Sports",
+                "description": "2024 NCAA baseball tournament bracket, scores, schedule: College World Series field set  CBS Sports",
+                "published date": "Tue, 11 Jun 2024 02:21:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbWxiL25ld3MvMjAyNC1uY2FhLWJhc2ViYWxsLXRvdXJuYW1lbnQtYnJhY2tldC1zY29yZXMtc2NoZWR1bGUtY29sbGVnZS13b3JsZC1zZXJpZXMtZmllbGQtc2V0L9IBfGh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbWxiL25ld3MvMjAyNC1uY2FhLWJhc2ViYWxsLXRvdXJuYW1lbnQtYnJhY2tldC1zY29yZXMtc2NoZWR1bGUtY29sbGVnZS13b3JsZC1zZXJpZXMtZmllbGQtc2V0L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
                 }
             },
             {
@@ -1084,13 +1094,13 @@
                 }
             },
             {
-                "title": "College World Series might offer glimpse of future with only SEC and ACC teams in the field - The Associated Press",
-                "description": "College World Series might offer glimpse of future with only SEC and ACC teams in the field  The Associated Press",
-                "published date": "Tue, 11 Jun 2024 17:50:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbGxlZ2Utd29ybGQtc2VyaWVzLWFjYy1zZWMtZGUzMTg0ZTE1Y2QyZjVhZDg3OTYyNjA5N2YwODQ2MjnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "College World Series Bracket and Schedule | 2024 NCAA Baseball Tournament - Sports Illustrated",
+                "description": "College World Series Bracket and Schedule | 2024 NCAA Baseball Tournament  Sports Illustrated",
+                "published date": "Tue, 11 Jun 2024 03:59:33 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3ZpcmdpbmlhL2NvbGxlZ2Utd29ybGQtc2VyaWVzLWJyYWNrZXQtYW5kLXNjaGVkdWxlLTIwMjQtbmNhYS1iYXNlYmFsbC10b3VybmFtZW500gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
                 }
             },
             {
@@ -1114,23 +1124,13 @@
                 }
             },
             {
-                "title": "College World Series Bracket and Schedule | 2024 NCAA Baseball Tournament - Sports Illustrated",
-                "description": "College World Series Bracket and Schedule | 2024 NCAA Baseball Tournament  Sports Illustrated",
-                "published date": "Tue, 11 Jun 2024 03:59:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3ZpcmdpbmlhL2NvbGxlZ2Utd29ybGQtc2VyaWVzLWJyYWNrZXQtYW5kLXNjaGVkdWxlLTIwMjQtbmNhYS1iYXNlYmFsbC10b3VybmFtZW500gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "College World Series might offer glimpse of future with only SEC and ACC teams in the field - The Associated Press",
+                "description": "College World Series might offer glimpse of future with only SEC and ACC teams in the field  The Associated Press",
+                "published date": "Tue, 11 Jun 2024 17:50:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbGxlZ2Utd29ybGQtc2VyaWVzLWFjYy1zZWMtZGUzMTg0ZTE1Y2QyZjVhZDg3OTYyNjA5N2YwODQ2MjnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "College World Series futures odds 2024: Vegas expert reveals college baseball picks, predictions for Omaha - CBS Sports",
-                "description": "College World Series futures odds 2024: Vegas expert reveals college baseball picks, predictions for Omaha  CBS Sports",
-                "published date": "Tue, 11 Jun 2024 17:44:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9uZXdzL2NvbGxlZ2Utd29ybGQtc2VyaWVzLWZ1dHVyZXMtb2Rkcy0yMDI0LXZlZ2FzLWV4cGVydC1yZXZlYWxzLWNvbGxlZ2UtYmFzZWJhbGwtcGlja3MtcHJlZGljdGlvbnMtZm9yLW9tYWhhL9IBkAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9uZXdzL2NvbGxlZ2Utd29ybGQtc2VyaWVzLWZ1dHVyZXMtb2Rkcy0yMDI0LXZlZ2FzLWV4cGVydC1yZXZlYWxzLWNvbGxlZ2UtYmFzZWJhbGwtcGlja3MtcHJlZGljdGlvbnMtZm9yLW9tYWhhL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
@@ -1154,25 +1154,25 @@
                 }
             },
             {
-                "title": "College World Series field set: 5 top-8 seeds, including No. 1 Tennessee, head to Omaha - The Athletic - The New York Times",
-                "description": "College World Series field set: 5 top-8 seeds, including No. 1 Tennessee, head to Omaha - The Athletic  The New York Times",
-                "published date": "Tue, 11 Jun 2024 02:18:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTQ5ODgvMjAyNC8wNi8xMC9jb2xsZWdlLXdvcmxkLXNlcmllcy1vbWFoYS1icmFja2V0LWZpZWxkLTIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Pairings and game times set for 77th Men's College World Series - NCAA.com",
+                "description": "Pairings and game times set for 77th Men's College World Series  NCAA.com",
+                "published date": "Mon, 10 Jun 2024 23:58:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5jYWEuY29tL25ld3MvYmFzZWJhbGwvYXJ0aWNsZS8yMDI0LTA2LTEwL3BhaXJpbmdzLWFuZC1nYW1lLXRpbWVzLXNldC03N3RoLW1lbnMtY29sbGVnZS13b3JsZC1zZXJpZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
+                    "href": "https://www.ncaa.com",
+                    "title": "NCAA.com"
                 }
             }
         ]
     },
     {
         "name": "Tony Evans",
-        "summary": "Dr. Tony Evans, the senior pastor of Oak Cliff Bible Fellowship Church in Dallas, has resigned following the discovery of an undisclosed \"sin.\" The revelation has sent shockwaves through the Christian community, with Evans being a prominent figure in the evangelical world. While the exact nature of the sin has not been disclosed, Evans has apologized for his actions and expressed his desire for forgiveness and restoration. His departure marks a significant loss for Oak Cliff Bible Fellowship Church, where he has served as pastor for nearly five decades. The news has also raised questions about the handling of sin and accountability within religious institutions.",
+        "summary": "",
         "items": [
             {
                 "title": "Who is Tony Evans? The Dallas pastor who resigned after unnamed 'sin' - USA TODAY",
                 "description": "Who is Tony Evans? The Dallas pastor who resigned after unnamed 'sin'  USA TODAY",
-                "published date": "Wed, 12 Jun 2024 00:47:51 GMT",
+                "published date": "Wed, 12 Jun 2024 08:15:09 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzExL3doby1pcy10b255LWV2YW5zLzc0MDY0NTE2MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
@@ -1190,16 +1190,6 @@
                 }
             },
             {
-                "title": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit - The New York Times",
-                "description": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit  The New York Times",
-                "published date": "Tue, 11 Jun 2024 15:41:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvZGFsbGFzLXRvbnktZXZhbnMtcGFzdG9yLXNpbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
                 "title": "Tony Evans Steps Away from Ministry, Citing Old Sin | News & Reporting - ChristianityToday.com",
                 "description": "Tony Evans Steps Away from Ministry, Citing Old Sin | News & Reporting  ChristianityToday.com",
                 "published date": "Mon, 10 Jun 2024 18:40:26 GMT",
@@ -1210,6 +1200,16 @@
                 }
             },
             {
+                "title": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit - The New York Times",
+                "description": "Dallas Pastor Tony Evans, Citing Undisclosed 'Sin,' Leaves Pulpit  The New York Times",
+                "published date": "Tue, 11 Jun 2024 15:41:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvZGFsbGFzLXRvbnktZXZhbnMtcGFzdG9yLXNpbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
                 "title": "Pastor Tony Evans steps down after 48 years at Oak Cliff Bible Church due to \u2018sin' - NBC DFW",
                 "description": "Pastor Tony Evans steps down after 48 years at Oak Cliff Bible Church due to \u2018sin'  NBC DFW",
                 "published date": "Wed, 12 Jun 2024 02:10:27 GMT",
@@ -1217,6 +1217,16 @@
                 "publisher": {
                     "href": "https://www.nbcdfw.com",
                     "title": "NBC DFW"
+                }
+            },
+            {
+                "title": "Tony Evans ceases pastoral ministry 'due to sin,' enters 'time of spiritual recovery and healing' - Kentucky Today",
+                "description": "Tony Evans ceases pastoral ministry 'due to sin,' enters 'time of spiritual recovery and healing'  Kentucky Today",
+                "published date": "Mon, 10 Jun 2024 17:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5rZW50dWNreXRvZGF5LmNvbS9iYXB0aXN0X2xpZmUvdG9ueS1ldmFucy1jZWFzZXMtcGFzdG9yYWwtbWluaXN0cnktZHVlLXRvLXNpbi1lbnRlcnMtdGltZS1vZi1zcGlyaXR1YWwtcmVjb3ZlcnktYW5kLWhlYWxpbmcvYXJ0aWNsZV81NTFjNzFlOC0yNzNhLTExZWYtYmRmOC0wNzlmMTk1NGZkOWEuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.kentuckytoday.com",
+                    "title": "Kentucky Today"
                 }
             },
             {
@@ -1258,22 +1268,12 @@
                     "href": "https://www.cbsnews.com",
                     "title": "CBS News"
                 }
-            },
-            {
-                "title": "Tony Evans leaves senior pastor role at OCBF, cites old 'sin' - WFAA.com",
-                "description": "Tony Evans leaves senior pastor role at OCBF, cites old 'sin'  WFAA.com",
-                "published date": "Tue, 11 Jun 2024 01:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy53ZmFhLmNvbS9hcnRpY2xlL25ld3MvbG9jYWwvZGFsbGFzLWNvdW50eS9vYWstY2xpZmYtYmlibGUtZmVsbG93c2hpcC1jaHVyY2gtc2VuaW9yLXBhc3Rvci10b255LWV2YW5zLXN0ZXBwaW5nLWF3YXkvMjg3LTJhODNmNTRhLTg3MGMtNGRmMy1hY2RhLTA0NWNmZDJjNTRlMdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wfaa.com",
-                    "title": "WFAA.com"
-                }
             }
         ]
     },
     {
         "name": "Maren Morris",
-        "summary": "Country music star Maren Morris has publicly come out as bisexual during Pride Month. In a heartfelt message on social media, she expressed her joy and pride in being a member of the LGBTQ+ community. Her announcement comes a few months after her divorce from fellow singer-songwriter Ryan Hurd. The news has generated widespread attention, with various media outlets covering Morris's message and celebrating her openness and authenticity. The revelation has particular significance given Morris's platform as a notable country musician, where LGBTQ+ representation has historically been limited. Morris's announcement is praised as a positive step towards inclusivity and visibility within the genre.",
+        "summary": "",
         "items": [
             {
                 "title": "What's Up With \u201cEspresso,\u201d a Mysterious New Song Shared by Maren Morris? - Texas Monthly",
@@ -1308,7 +1308,7 @@
             {
                 "title": "Maren Morris comes out as bisexual months after divorce filing: 'Happy pride' - USA TODAY",
                 "description": "Maren Morris comes out as bisexual months after divorce filing: 'Happy pride'  USA TODAY",
-                "published date": "Mon, 10 Jun 2024 13:48:40 GMT",
+                "published date": "Wed, 12 Jun 2024 11:48:04 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L2NlbGVicml0aWVzLzIwMjQvMDYvMTAvbWFyZW4tbW9ycmlzLWJpc2V4dWFsLzc0MDQyNDMyMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
@@ -1333,6 +1333,16 @@
                 "publisher": {
                     "href": "https://www.usmagazine.com",
                     "title": "Us Weekly"
+                }
+            },
+            {
+                "title": "Photos: Maren Morris dazzles at Chateau Ste. Michelle - seattlerefined.com",
+                "description": "Photos: Maren Morris dazzles at Chateau Ste. Michelle  seattlerefined.com",
+                "published date": "Wed, 12 Jun 2024 02:06:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3NlYXR0bGVyZWZpbmVkLmNvbS9saWZlc3R5bGUvcGhvdG9zLW1hcmVuLW1vcnJpcy1hdC1jaGF0ZWF1LXN0ZS1taWNoZWxsZS13b29kaW52aWxsZS13aW5lLWNvdW50cnktd2FzaGluZ3Rvbi1zdW1tZXItY29uY2VydC1zZXJpZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://seattlerefined.com",
+                    "title": "seattlerefined.com"
                 }
             },
             {
@@ -1364,16 +1374,6 @@
                     "href": "https://people.com",
                     "title": "PEOPLE"
                 }
-            },
-            {
-                "title": "Maren Morris Comes Out as Bisexual Following Divorce From Ryan Hurd - Entertainment Tonight",
-                "description": "Maren Morris Comes Out as Bisexual Following Divorce From Ryan Hurd  Entertainment Tonight",
-                "published date": "Mon, 10 Jun 2024 11:24:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9tYXJlbi1tb3JyaXMtY29tZXMtb3V0LWFzLWJpc2V4dWFsLWZvbGxvd2luZy1kaXZvcmNlLWZyb20tcnlhbi1odXJkLTIyNzAxOdIBZ2h0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9tYXJlbi1tb3JyaXMtY29tZXMtb3V0LWFzLWJpc2V4dWFsLWZvbGxvd2luZy1kaXZvcmNlLWZyb20tcnlhbi1odXJkLTIyNzAxOT9hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.etonline.com",
-                    "title": "Entertainment Tonight"
-                }
             }
         ]
     },
@@ -1382,13 +1382,13 @@
         "summary": "",
         "items": [
             {
-                "title": "YouTube Star Dead at 40 After 'Unfortunate Accident,' Says Wife - PEOPLE",
-                "description": "YouTube Star Dead at 40 After 'Unfortunate Accident,' Says Wife  PEOPLE",
-                "published date": "Tue, 11 Jun 2024 14:45:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vcGVvcGxlLmNvbS95b3V0dWJlLXN0YXItYmVuLXBvdHRlci1jb21pY3N0b3JpYW4tZGVhZC00MC1hY2NpZGVudC04NjYxMzQ30gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "YouTuber, Comicstorian creator Ben Potter killed in Interstate 25 crash near Fort Collins - The Denver Post",
+                "description": "YouTuber, Comicstorian creator Ben Potter killed in Interstate 25 crash near Fort Collins  The Denver Post",
+                "published date": "Wed, 12 Jun 2024 01:31:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMjQvMDYvMTEvYmVuLXBvdHRlci1jb21pY3N0b3JpYW4tZGVhdGgteW91dHViZS_SAVBodHRwczovL3d3dy5kZW52ZXJwb3N0LmNvbS8yMDI0LzA2LzExL2Jlbi1wb3R0ZXItY29taWNzdG9yaWFuLWRlYXRoLXlvdXR1YmUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://people.com",
-                    "title": "PEOPLE"
+                    "href": "https://www.denverpost.com",
+                    "title": "The Denver Post"
                 }
             },
             {
@@ -1402,6 +1402,16 @@
                 }
             },
             {
+                "title": "Cause of death revealed for YouTube star Ben Potter, known as Comicstorian - New York Post",
+                "description": "Cause of death revealed for YouTube star Ben Potter, known as Comicstorian  New York Post ",
+                "published date": "Wed, 12 Jun 2024 04:58:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL255cG9zdC5jb20vMjAyNC8wNi8xMi91cy1uZXdzL3lvdXR1YmVyLWJlbi1wb3R0ZXIta25vd24tYXMtY29taWNzdG9yaWFuLWNhdXNlLW9mLWRlYXRoLWluLXVuZm9ydHVuYXRlLWFjY2lkZW50LWluLWNvbG9yYWRvLXJldmVhbGVkL9IBkAFodHRwczovL255cG9zdC5jb20vMjAyNC8wNi8xMi91cy1uZXdzL3lvdXR1YmVyLWJlbi1wb3R0ZXIta25vd24tYXMtY29taWNzdG9yaWFuLWNhdXNlLW9mLWRlYXRoLWluLXVuZm9ydHVuYXRlLWFjY2lkZW50LWluLWNvbG9yYWRvLXJldmVhbGVkL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
+            },
+            {
                 "title": "YouTube star Ben Potter, who ran the channel 'Comicstorian,' dies in 'unfortunate accident,' wife says - NBC News",
                 "description": "YouTube star Ben Potter, who ran the channel 'Comicstorian,' dies in 'unfortunate accident,' wife says  NBC News",
                 "published date": "Tue, 11 Jun 2024 15:33:09 GMT",
@@ -1412,26 +1422,6 @@
                 }
             },
             {
-                "title": "YouTube star Ben Potter, known as Comicstorian, cause of death revealed - New York Post",
-                "description": "YouTube star Ben Potter, known as Comicstorian, cause of death revealed  New York Post ",
-                "published date": "Wed, 12 Jun 2024 04:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL255cG9zdC5jb20vMjAyNC8wNi8xMi91cy1uZXdzL3lvdXR1YmVyLWJlbi1wb3R0ZXIta25vd24tYXMtY29taWNzdG9yaWFuLWNhdXNlLW9mLWRlYXRoLWluLXVuZm9ydHVuYXRlLWFjY2lkZW50LWluLWNvbG9yYWRvLXJldmVhbGVkL9IBkAFodHRwczovL255cG9zdC5jb20vMjAyNC8wNi8xMi91cy1uZXdzL3lvdXR1YmVyLWJlbi1wb3R0ZXIta25vd24tYXMtY29taWNzdG9yaWFuLWNhdXNlLW9mLWRlYXRoLWluLXVuZm9ydHVuYXRlLWFjY2lkZW50LWluLWNvbG9yYWRvLXJldmVhbGVkL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
-                "title": "YouTuber, Comicstorian creator Ben Potter killed in Interstate 25 crash near Fort Collins - The Denver Post",
-                "description": "YouTuber, Comicstorian creator Ben Potter killed in Interstate 25 crash near Fort Collins  The Denver Post",
-                "published date": "Wed, 12 Jun 2024 01:31:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmRlbnZlcnBvc3QuY29tLzIwMjQvMDYvMTEvYmVuLXBvdHRlci1jb21pY3N0b3JpYW4tZGVhdGgteW91dHViZS_SAVBodHRwczovL3d3dy5kZW52ZXJwb3N0LmNvbS8yMDI0LzA2LzExL2Jlbi1wb3R0ZXItY29taWNzdG9yaWFuLWRlYXRoLXlvdXR1YmUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.denverpost.com",
-                    "title": "The Denver Post"
-                }
-            },
-            {
                 "title": "Ben Potter, YouTuber Known as Comicstorian, Dies at 40 - The New York Times",
                 "description": "Ben Potter, YouTuber Known as Comicstorian, Dies at 40  The New York Times",
                 "published date": "Wed, 12 Jun 2024 05:47:00 GMT",
@@ -1439,6 +1429,16 @@
                 "publisher": {
                     "href": "https://www.nytimes.com",
                     "title": "The New York Times"
+                }
+            },
+            {
+                "title": "YouTube Star Dead at 40 After 'Unfortunate Accident,' Says Wife - PEOPLE",
+                "description": "YouTube Star Dead at 40 After 'Unfortunate Accident,' Says Wife  PEOPLE",
+                "published date": "Tue, 11 Jun 2024 14:45:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vcGVvcGxlLmNvbS95b3V0dWJlLXN0YXItYmVuLXBvdHRlci1jb21pY3N0b3JpYW4tZGVhZC00MC1hY2NpZGVudC04NjYxMzQ30gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://people.com",
+                    "title": "PEOPLE"
                 }
             },
             {
@@ -1558,16 +1558,6 @@
                 }
             },
             {
-                "title": "I Drove a Hybrid Car for 17 Years. Here's Everything You Need to Know - AOL",
-                "description": "I Drove a Hybrid Car for 17 Years. Here's Everything You Need to Know  AOL",
-                "published date": "Mon, 10 Jun 2024 12:30:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmFvbC5jb20vZHJvdmUtaHlicmlkLWNhci0xNy15ZWFycy0xMjMwMTIyMTAuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.aol.com",
-                    "title": "AOL"
-                }
-            },
-            {
                 "title": "A fully hybrid integrated erbium-based laser - Nature.com",
                 "description": "A fully hybrid integrated erbium-based laser  Nature.com",
                 "published date": "Mon, 10 Jun 2024 09:04:09 GMT",
@@ -1585,6 +1575,16 @@
                 "publisher": {
                     "href": "https://www.seattlebikeblog.com",
                     "title": "Seattle Bike Blog"
+                }
+            },
+            {
+                "title": "McLaren Wants to Build a Plug-In-Hybrid SUV - Car and Driver",
+                "description": "McLaren Wants to Build a Plug-In-Hybrid SUV  Car and Driver",
+                "published date": "Fri, 07 Jun 2024 12:32:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNhcmFuZGRyaXZlci5jb20vbmV3cy9hNjEwMTk2MTEvbWNsYXJlbi1wbHVnLWluLWh5YnJpZC1zdXYtcGxhbnMtZGV0YWlscy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.caranddriver.com",
+                    "title": "Car and Driver"
                 }
             }
         ]
@@ -1634,23 +1634,13 @@
                 }
             },
             {
-                "title": "\u2018Whack job' and more: What Michael Proctor texted about Karen Read - NBC Boston",
-                "description": "\u2018Whack job' and more: What Michael Proctor texted about Karen Read  NBC Boston",
-                "published date": "Mon, 10 Jun 2024 23:58:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9sb2NhbC9rYXJlbi1yZWFkLXRyaWFsLW1pY2hhZWwtcHJvY3Rvci10ZXh0cy8zMzk1MjIyL9IBWmh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9sb2NhbC9rYXJlbi1yZWFkLXRyaWFsLW1pY2hhZWwtcHJvY3Rvci10ZXh0cy8zMzk1MjIyLz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "\u2018Compromising integrity': Fallout from Michael Proctor's texts about Karen Read - NBC Boston",
+                "description": "\u2018Compromising integrity': Fallout from Michael Proctor's texts about Karen Read  NBC Boston",
+                "published date": "Wed, 12 Jun 2024 00:16:24 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5uYmNib3N0b24uY29tL25ld3MvY2FudG9uLWthcmVuLXJlYWQtY2FzZS9jb21wcm9taXNpbmctaW50ZWdyaXR5LWZhbGxvdXQtZnJvbS1taWNoYWVsLXByb2N0b3JzLXRleHRzLWFib3V0LWthcmVuLXJlYWQvMzM5NjgxNC_SAZABaHR0cHM6Ly93d3cubmJjYm9zdG9uLmNvbS9uZXdzL2NhbnRvbi1rYXJlbi1yZWFkLWNhc2UvY29tcHJvbWlzaW5nLWludGVncml0eS1mYWxsb3V0LWZyb20tbWljaGFlbC1wcm9jdG9ycy10ZXh0cy1hYm91dC1rYXJlbi1yZWFkLzMzOTY4MTQvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nbcboston.com",
                     "title": "NBC Boston"
-                }
-            },
-            {
-                "title": "State trooper on stand at Karen Read murder trial shows clothes worn by John O'Keefe - Turn to 10",
-                "description": "State trooper on stand at Karen Read murder trial shows clothes worn by John O'Keefe  Turn to 10",
-                "published date": "Wed, 05 Jun 2024 10:13:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vdHVybnRvMTAuY29tL25ld3MvbG9jYWwva2FyZW4tcmVhZC1tdXJkZXItdHJpYWwtY29udGludWVzLWZvci0yMHRoLWRheS1vZi10ZXN0aW1vbnktam9obi1va2VlZmUtanVuZS01LTIwMjTSAXdodHRwczovL3R1cm50bzEwLmNvbS9hbXAvbmV3cy9sb2NhbC9rYXJlbi1yZWFkLW11cmRlci10cmlhbC1jb250aW51ZXMtZm9yLTIwdGgtZGF5LW9mLXRlc3RpbW9ueS1qb2huLW9rZWVmZS1qdW5lLTUtMjAyNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://turnto10.com",
-                    "title": "Turn to 10"
                 }
             },
             {
@@ -1661,16 +1651,6 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Karen Read trial: Key updates, evidence from every day of testimony - WCVB Boston",
-                "description": "Karen Read trial: Key updates, evidence from every day of testimony  WCVB Boston",
-                "published date": "Fri, 07 Jun 2024 18:19:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LndjdmIuY29tL2FydGljbGUva2FyZW4tcmVhZC1tdXJkZXItdHJpYWwtY2FudG9uLW1hc3NhY2h1c2V0dHMtam9obi1va2VlZmUtZGFpbHktc3VtbWFyeS82MDcxNjczM9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wcvb.com",
-                    "title": "WCVB Boston"
                 }
             },
             {
@@ -1686,11 +1666,31 @@
             {
                 "title": "Karen Read Murder Trial, Week 6.5. The ABCs of the Prosecution's Star Witness: Ass, Balloon Knot, C*nt - Barstool Sports",
                 "description": "Karen Read Murder Trial, Week 6.5. The ABCs of the Prosecution's Star Witness: Ass, Balloon Knot, C*nt  Barstool Sports",
-                "published date": "Tue, 11 Jun 2024 05:40:34 GMT",
+                "published date": "Tue, 11 Jun 2024 14:32:27 GMT",
                 "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5iYXJzdG9vbHNwb3J0cy5jb20vYmxvZy8zNTE2NTAwL2thcmVuLXJlYWQtbXVyZGVyLXRyaWFsLXdlZWstNi41Li10aGUtYWJjcy1vZi10aGUtcHJvc2VjdXRpb25zLXN0YXItd2l0bmVzcy1hc3MtYmFsbG9vbi1rbm90LWNudNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.barstoolsports.com",
                     "title": "Barstool Sports"
+                }
+            },
+            {
+                "title": "Karen Read murder trial: Defense questions 'mirrored' video of Read's SUV - WCVB Boston",
+                "description": "Karen Read murder trial: Defense questions 'mirrored' video of Read's SUV  WCVB Boston",
+                "published date": "Thu, 06 Jun 2024 21:41:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LndjdmIuY29tL2FydGljbGUva2FyZW4tcmVhZC10cmlhbC1saXZlLXVwZGF0ZXMtanVuZS02LTIwMjQvNjEwMTQzNDnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wcvb.com",
+                    "title": "WCVB Boston"
+                }
+            },
+            {
+                "title": "Michael Proctor, lead investigator in Karen Read trial, to return to stand: Watch live at 9 a.m. - NBC Boston",
+                "description": "Michael Proctor, lead investigator in Karen Read trial, to return to stand: Watch live at 9 a.m.  NBC Boston",
+                "published date": "Wed, 12 Jun 2024 12:08:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9sb2NhbC9rYXJlbi1yZWFkLXRyaWFsLWxpdmVzdHJlYW0vMzM5NzA0OS_SAU9odHRwczovL3d3dy5uYmNib3N0b24uY29tL25ld3MvbG9jYWwva2FyZW4tcmVhZC10cmlhbC1saXZlc3RyZWFtLzMzOTcwNDkvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcboston.com",
+                    "title": "NBC Boston"
                 }
             }
         ]
@@ -1700,23 +1700,43 @@
         "summary": "",
         "items": [
             {
-                "title": "Soldiers in Malawi search for missing military plane carrying vice president and former first lady - The Associated Press",
-                "description": "Soldiers in Malawi search for missing military plane carrying vice president and former first lady  The Associated Press",
-                "published date": "Tue, 11 Jun 2024 00:51:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21hbGF3aS12aWNlLXByZXNpZGVudC1taXNzaW5nLXBsYW5lLTI4NTBlNTZmNThlNDYzNWIzYWVhZGMyMDU3MTM5NDdm0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Malawi: Vice President Saulos Chilima, 9 others die in plane crash - The Associated Press",
+                "description": "Malawi: Vice President Saulos Chilima, 9 others die in plane crash  The Associated Press",
+                "published date": "Tue, 11 Jun 2024 15:08:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21hbGF3aS1taXNzaW5nLXBsYW5lLXZpY2UtcHJlc2lkZW50LWNoaWxpbWEtYzA3MWM4MzI5MzFkN2NmZWFlOTJmOWJiMWMxOTkwNzXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
                 }
             },
             {
-                "title": "Search continues for missing aircraft carrying Malawi vice president - Reuters.com",
-                "description": "Search continues for missing aircraft carrying Malawi vice president  Reuters.com",
+                "title": "Search continues for missing aircraft carrying Malawi vice president - Reuters",
+                "description": "Search continues for missing aircraft carrying Malawi vice president  Reuters",
                 "published date": "Tue, 11 Jun 2024 03:58:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FmcmljYS9tYWxhd2ktdmljZS1wcmVzaWRlbnRzLXBsYW5lLWdvZXMtbWlzc2luZy1iYmMtcmVwb3J0cy0yMDI0LTA2LTEwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.reuters.com",
-                    "title": "Reuters.com"
+                    "title": "Reuters"
+                }
+            },
+            {
+                "title": "A military plane carrying Malawi's vice president is missing, search underway - POLITICO",
+                "description": "A military plane carrying Malawi's vice president is missing, search underway  POLITICO",
+                "published date": "Mon, 10 Jun 2024 18:47:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMTAvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXBsYW5lLW1pc3NpbmctMDAxNjI1MzPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.politico.com",
+                    "title": "POLITICO"
+                }
+            },
+            {
+                "title": "Malawi's vice president and 9 others are confirmed dead after the wreckage of their plane is located - NBC News",
+                "description": "Malawi's vice president and 9 others are confirmed dead after the wreckage of their plane is located  NBC News",
+                "published date": "Tue, 11 Jun 2024 13:28:53 GMT",
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1jaGlsaW1hLWRlYWQtcGxhbmUtY3Jhc2gtYmFkLXdlYXRoZXItcmNuYTE1NjUxNdIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNTY1MTU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             },
             {
@@ -1727,6 +1747,16 @@
                 "publisher": {
                     "href": "https://www.cnn.com",
                     "title": "CNN"
+                }
+            },
+            {
+                "title": "Malawi announces state funeral and 21 days of mourning for vice president killed in a plane crash - ABC News",
+                "description": "Malawi announces state funeral and 21 days of mourning for vice president killed in a plane crash  ABC News",
+                "published date": "Wed, 12 Jun 2024 10:10:51 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC93aXJlU3RvcnkvbWFsYXdpLWFubm91bmNlcy1zdGF0ZS1mdW5lcmFsLTIxLWRheXMtbW91cm5pbmctdmljZS0xMTEwNDc5OTnSAXFodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9JbnRlcm5hdGlvbmFsL3dpcmVTdG9yeS9tYWxhd2ktYW5ub3VuY2VzLXN0YXRlLWZ1bmVyYWwtMjEtZGF5cy1tb3VybmluZy12aWNlLTExMTA0Nzk5OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
                 }
             },
             {
@@ -1760,16 +1790,6 @@
                 }
             },
             {
-                "title": "Vice president of Malawi missing after plane fails to reach destination - NBC News",
-                "description": "Vice president of Malawi missing after plane fails to reach destination  NBC News",
-                "published date": "Mon, 10 Jun 2024 22:17:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25vdy92aWRlby92aWNlLXByZXNpZGVudC1vZi1tYWxhd2ktbWlzc2luZy1hZnRlci1wbGFuZS1mYWlscy10by1yZWFjaC1kZXN0aW5hdGlvbi0yMTI2NzcxODk1MTHSATdodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC12aWRlby9tbXZvMjEyNjc3MTg5NTEx?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
-                }
-            },
-            {
                 "title": "Plane Holding Malawi Vice President Saulos Chilima And Others Is Missing - Forbes",
                 "description": "Plane Holding Malawi Vice President Saulos Chilima And Others Is Missing  Forbes",
                 "published date": "Mon, 10 Jun 2024 17:09:59 GMT",
@@ -1777,26 +1797,6 @@
                 "publisher": {
                     "href": "https://www.forbes.com",
                     "title": "Forbes"
-                }
-            },
-            {
-                "title": "Aircraft carrying Malawi vice-president goes missing - BBC.com",
-                "description": "Aircraft carrying Malawi vice-president goes missing  BBC.com",
-                "published date": "Tue, 11 Jun 2024 01:35:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5uMHprcTc5a2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRubjB6a3E3OWtvLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.bbc.com",
-                    "title": "BBC.com"
-                }
-            },
-            {
-                "title": "Malawi vice president, nine others die after plane crashes in dense forest - USA TODAY",
-                "description": "Malawi vice president, nine others die after plane crashes in dense forest  USA TODAY",
-                "published date": "Tue, 11 Jun 2024 13:18:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjQvMDYvMTEvbWFsYXdpLXZpY2UtcHJlc2lkZW50LXNhdWxvcy1rbGF1cy1jaGlsaW1hLXBsYW5lLWNyYXNoLzc0MDU0MjI4MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
                 }
             }
         ]
@@ -1818,7 +1818,7 @@
             {
                 "title": "Sen. John Fetterman and wife Giselle taken to hospital after car crash in Maryland - USA TODAY",
                 "description": "Sen. John Fetterman and wife Giselle taken to hospital after car crash in Maryland  USA TODAY",
-                "published date": "Tue, 11 Jun 2024 00:00:00 GMT",
+                "published date": "Wed, 12 Jun 2024 11:15:55 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzEwL3Nlbi1qb2huLWZldHRlcm1hbi13aWZlLWNhci1jcmFzaC83NDA0OTg5MzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
@@ -1846,13 +1846,13 @@
                 }
             },
             {
-                "title": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland - CBS News",
-                "description": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland  CBS News",
+                "title": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland - CBS Pittsburgh",
+                "description": "Sen. John Fetterman and wife Gisele involved in two-vehicle crash in Maryland  CBS Pittsburgh",
                 "published date": "Mon, 10 Jun 2024 23:02:57 GMT",
                 "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNic25ld3MuY29tL3BpdHRzYnVyZ2gvbmV3cy9zZW4tam9obi1mZXR0ZXJtYW4td2lmZS1naXNlbGUtaW52b2x2ZWQtdHdvLXZlaGljbGUtY3Jhc2gtbWFyeWxhbmQv0gFvaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3BpdHRzYnVyZ2gvbmV3cy9zZW4tam9obi1mZXR0ZXJtYW4td2lmZS1naXNlbGUtaW52b2x2ZWQtdHdvLXZlaGljbGUtY3Jhc2gtbWFyeWxhbmQv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
+                    "title": "CBS Pittsburgh"
                 }
             },
             {
@@ -1912,16 +1912,6 @@
         "summary": "",
         "items": [
             {
-                "title": "'Brats' Review: A Pretty Peeved Andrew McCarthy Revisits His Past - TheWrap",
-                "description": "'Brats' Review: A Pretty Peeved Andrew McCarthy Revisits His Past  TheWrap",
-                "published date": "Sat, 08 Jun 2024 01:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2JyYXRzLWRvY3VtZW50YXJ5LXJldmlldy1hbmRyZXctbWNjYXJ0aHktYnJhdC1wYWNrL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thewrap.com",
-                    "title": "TheWrap"
-                }
-            },
-            {
                 "title": "Movie Review: Andrew McCarthy hunts the 'Brat Pack' blowback in the documentary 'Brats' - ABC News",
                 "description": "Movie Review: Andrew McCarthy hunts the 'Brat Pack' blowback in the documentary 'Brats'  ABC News",
                 "published date": "Tue, 11 Jun 2024 17:07:41 GMT",
@@ -1929,6 +1919,16 @@
                 "publisher": {
                     "href": "https://abcnews.go.com",
                     "title": "ABC News"
+                }
+            },
+            {
+                "title": "'Brats' Review: A Pretty Peeved Andrew McCarthy Revisits His Past - TheWrap",
+                "description": "'Brats' Review: A Pretty Peeved Andrew McCarthy Revisits His Past  TheWrap",
+                "published date": "Sat, 08 Jun 2024 01:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2JyYXRzLWRvY3VtZW50YXJ5LXJldmlldy1hbmRyZXctbWNjYXJ0aHktYnJhdC1wYWNrL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thewrap.com",
+                    "title": "TheWrap"
                 }
             },
             {
@@ -1949,6 +1949,36 @@
                 "publisher": {
                     "href": "https://people.com",
                     "title": "PEOPLE"
+                }
+            },
+            {
+                "title": "Looking back on life in the Brat Pack: \u2018It never existed in any real way\u2019 - The Guardian",
+                "description": "Looking back on life in the Brat Pack: \u2018It never existed in any real way\u2019  The Guardian",
+                "published date": "Wed, 12 Jun 2024 07:03:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9maWxtL2FydGljbGUvMjAyNC9qdW4vMTIvYW5kcmV3LW1jY2FydGh5LWJyYXQtcGFjay1kb2N1bWVudGFyedIBWmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9maWxtL2FydGljbGUvMjAyNC9qdW4vMTIvYW5kcmV3LW1jY2FydGh5LWJyYXQtcGFjay1kb2N1bWVudGFyeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.theguardian.com",
+                    "title": "The Guardian"
+                }
+            },
+            {
+                "title": "Jon Cryer says Andrew McCarthy was a 'd---' filming 'Pretty in Pink' - Entertainment Weekly News",
+                "description": "Jon Cryer says Andrew McCarthy was a 'd---' filming 'Pretty in Pink'  Entertainment Weekly News",
+                "published date": "Sun, 09 Jun 2024 19:55:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZXcuY29tL2pvbi1jcnllci1zYXlzLWFuZHJldy1tY2NhcnRoeS13YXMtYS1kaWNrLWR1cmluZy1wcmV0dHktaW4tcGluay1maWxtaW5nLTg2NjA2MDjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://ew.com",
+                    "title": "Entertainment Weekly News"
+                }
+            },
+            {
+                "title": "Andrew McCarthy says 'Brat Pack' stigma gave him PTSD \u2014 but other '80s stars don't necessarily agree - New York Post",
+                "description": "Andrew McCarthy says 'Brat Pack' stigma gave him PTSD \u2014 but other '80s stars don't necessarily agree  New York Post ",
+                "published date": "Sat, 08 Jun 2024 14:38:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA4L2VudGVydGFpbm1lbnQvYW5kcmV3LW1jY2FydGh5LXNheXMtYnJhdC1wYWNrLXN0aWdtYS1nYXZlLWhpbS1wdHNkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
                 }
             },
             {
@@ -1980,36 +2010,6 @@
                     "href": "https://www.hollywoodreporter.com",
                     "title": "Hollywood Reporter"
                 }
-            },
-            {
-                "title": "Andrew McCarthy says 'Brat Pack' stigma gave him PTSD \u2014 but other '80s stars don't necessarily agree - New York Post",
-                "description": "Andrew McCarthy says 'Brat Pack' stigma gave him PTSD \u2014 but other '80s stars don't necessarily agree  New York Post ",
-                "published date": "Sat, 08 Jun 2024 14:38:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA4L2VudGVydGFpbm1lbnQvYW5kcmV3LW1jY2FydGh5LXNheXMtYnJhdC1wYWNrLXN0aWdtYS1nYXZlLWhpbS1wdHNkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
-                "title": "Jon Cryer says Andrew McCarthy was a 'd---' filming 'Pretty in Pink' - Entertainment Weekly News",
-                "description": "Jon Cryer says Andrew McCarthy was a 'd---' filming 'Pretty in Pink'  Entertainment Weekly News",
-                "published date": "Sun, 09 Jun 2024 19:55:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZXcuY29tL2pvbi1jcnllci1zYXlzLWFuZHJldy1tY2NhcnRoeS13YXMtYS1kaWNrLWR1cmluZy1wcmV0dHktaW4tcGluay1maWxtaW5nLTg2NjA2MDjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://ew.com",
-                    "title": "Entertainment Weekly News"
-                }
-            },
-            {
-                "title": "'Pretty in Pink' star Jon Cryer sheds light on Andrew McCarthy feud - Fox News",
-                "description": "'Pretty in Pink' star Jon Cryer sheds light on Andrew McCarthy feud  Fox News",
-                "published date": "Sun, 09 Jun 2024 17:52:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvcHJldHR5LXBpbmstc3Rhci1qb24tY3J5ZXItc2hlZHMtbGlnaHQtYW5kcmV3LW1jY2FydGh5LWZldWTSAWVodHRwczovL3d3dy5mb3huZXdzLmNvbS9lbnRlcnRhaW5tZW50L3ByZXR0eS1waW5rLXN0YXItam9uLWNyeWVyLXNoZWRzLWxpZ2h0LWFuZHJldy1tY2NhcnRoeS1mZXVkLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxnews.com",
-                    "title": "Fox News"
-                }
             }
         ]
     },
@@ -2017,6 +2017,16 @@
         "name": "Dragon Boat Festival",
         "summary": "",
         "items": [
+            {
+                "title": "Scenes from China's 2024 Dragon Boat Festival - The Atlantic",
+                "description": "Scenes from China's 2024 Dragon Boat Festival  The Atlantic",
+                "published date": "Tue, 11 Jun 2024 16:47:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9waG90by8yMDI0LzA2L3Bob3Rvcy1jaGluYS1kcmFnb24tYm9hdC1mZXN0aXZhbC0yMDI0LzY3ODY1My_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.theatlantic.com",
+                    "title": "The Atlantic"
+                }
+            },
             {
                 "title": "2024 Dragon Boat Festival celebrates Chinese tradition - USA TODAY",
                 "description": "2024 Dragon Boat Festival celebrates Chinese tradition  USA TODAY",
@@ -2048,6 +2058,16 @@
                 }
             },
             {
+                "title": "Hope Chest Buffalo Niagara Dragon Boat Festival returns this Saturday - Spectrum News",
+                "description": "Hope Chest Buffalo Niagara Dragon Boat Festival returns this Saturday  Spectrum News",
+                "published date": "Tue, 11 Jun 2024 21:24:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyNC8wNi8xMS9ob3BlLWNoZXN0LWJ1ZmZhbG8tbmlhZ2FyYS1kcmFnb24tYm9hdC1mZXN0aXZhbC1yZXR1cm5zLXRoaXMtc2F0dXJkYXnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://spectrumlocalnews.com",
+                    "title": "Spectrum News"
+                }
+            },
+            {
                 "title": "Dragon Boat Festival sticky rice dumpling types across China and East Asia - South China Morning Post",
                 "description": "Dragon Boat Festival sticky rice dumpling types across China and East Asia  South China Morning Post",
                 "published date": "Fri, 07 Jun 2024 04:45:08 GMT",
@@ -2055,16 +2075,6 @@
                 "publisher": {
                     "href": "https://www.scmp.com",
                     "title": "South China Morning Post"
-                }
-            },
-            {
-                "title": "Scenes from China's 2024 Dragon Boat Festival - The Atlantic",
-                "description": "Scenes from China's 2024 Dragon Boat Festival  The Atlantic",
-                "published date": "Tue, 11 Jun 2024 16:47:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS9waG90by8yMDI0LzA2L3Bob3Rvcy1jaGluYS1kcmFnb24tYm9hdC1mZXN0aXZhbC0yMDI0LzY3ODY1My_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.theatlantic.com",
-                    "title": "The Atlantic"
                 }
             },
             {
@@ -2078,36 +2088,6 @@
                 }
             },
             {
-                "title": "Hope Chest Buffalo Niagara Dragon Boat Festival returns this Saturday - Spectrum News",
-                "description": "Hope Chest Buffalo Niagara Dragon Boat Festival returns this Saturday  Spectrum News",
-                "published date": "Tue, 11 Jun 2024 21:24:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9idWZmYWxvL25ld3MvMjAyNC8wNi8xMS9ob3BlLWNoZXN0LWJ1ZmZhbG8tbmlhZ2FyYS1kcmFnb24tYm9hdC1mZXN0aXZhbC1yZXR1cm5zLXRoaXMtc2F0dXJkYXnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://spectrumlocalnews.com",
-                    "title": "Spectrum News"
-                }
-            },
-            {
-                "title": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest - cpc-nyc.org",
-                "description": "CPC Brooklyn Older Adult Center Honors Dragon Boat Festival with Zongzi Making Contest  cpc-nyc.org",
-                "published date": "Wed, 05 Jun 2024 18:13:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNwYy1ueWMub3JnL25ld3MvNDYzNS9jcGMtYnJvb2tseW4tb2xkZXItYWR1bHQtY2VudGVyLWhvbm9ycy1kcmFnb24tYm9hdC1mZXN0aXZhbC16b25nemktbWFraW5nLWNvbnRlc3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cpc-nyc.org",
-                    "title": "cpc-nyc.org"
-                }
-            },
-            {
-                "title": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims - Northwest Arkansas Democrat-Gazette",
-                "description": "Annual Dragon Boat Festival at Maumelle draws crowd, raises funds for abuse victims  Northwest Arkansas Democrat-Gazette",
-                "published date": "Sun, 09 Jun 2024 01:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm53YW9ubGluZS5jb20vbmV3cy8yMDI0L2p1bi8wOC9hbm51YWwtZHJhZ29uLWJvYXQtZmVzdGl2YWwtYXQtbWF1bWVsbGUtZHJhd3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nwaonline.com",
-                    "title": "Northwest Arkansas Democrat-Gazette"
-                }
-            },
-            {
                 "title": "Boston Hong Kong Dragon Boat Festival brings culture and competition to Charles River - CBS Boston",
                 "description": "Boston Hong Kong Dragon Boat Festival brings culture and competition to Charles River  CBS Boston",
                 "published date": "Mon, 10 Jun 2024 00:14:00 GMT",
@@ -2115,6 +2095,26 @@
                 "publisher": {
                     "href": "https://www.cbsnews.com",
                     "title": "CBS Boston"
+                }
+            },
+            {
+                "title": "Google Doodle spotlights Chinese Dragon Boat Festival - UPI News",
+                "description": "Google Doodle spotlights Chinese Dragon Boat Festival  UPI News",
+                "published date": "Mon, 10 Jun 2024 11:29:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnVwaS5jb20vRW50ZXJ0YWlubWVudF9OZXdzLzIwMjQvMDYvMTAvZHJhZ29uLWJvYXQtZmVzdGl2YWwtZ29vZ2xlLWRvb2RsZS8yNzIxNzE4MDE3MzIyL9IBZ2h0dHBzOi8vd3d3LnVwaS5jb20vYW1wL0VudGVydGFpbm1lbnRfTmV3cy8yMDI0LzA2LzEwL2RyYWdvbi1ib2F0LWZlc3RpdmFsLWdvb2dsZS1kb29kbGUvMjcyMTcxODAxNzMyMi8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.upi.com",
+                    "title": "UPI News"
+                }
+            },
+            {
+                "title": "Taiwan nighttime dragon boat racing puts a modern twist on an ancient tradition - Spectrum News NY1",
+                "description": "Taiwan nighttime dragon boat racing puts a modern twist on an ancient tradition  Spectrum News NY1",
+                "published date": "Mon, 10 Jun 2024 08:28:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL255MS5jb20vbnljL2Jyb29rbHluL2FwLXRvcC1uZXdzLzIwMjQvMDYvMTAvdGFpd2FuLW5pZ2h0dGltZS1kcmFnb24tYm9hdC1yYWNpbmctcHV0cy1hLW1vZGVybi10d2lzdC1vbi1hbi1hbmNpZW50LXRyYWRpdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://ny1.com",
+                    "title": "Spectrum News NY1"
                 }
             }
         ]
