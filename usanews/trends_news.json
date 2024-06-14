@@ -1,111 +1,5 @@
 [
     {
-        "name": "Celtics",
-        "summary": "",
-        "items": [
-            {
-                "title": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas - The Associated Press",
-                "description": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas  The Associated Press",
-                "published date": "Mon, 10 Jun 2024 04:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtc2NvcmUtY2VsdGljcy1tYXZlcmlja3MtNWFlMmE5MDg5MTRmMDE2ZWU2ZDVhNWVhYThlMDlhZmPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "Lessons from Celtics-Mavericks Game 1: Just win - Celtics Blog",
-                "description": "Lessons from Celtics-Mavericks Game 1: Just win  Celtics Blog",
-                "published date": "Sun, 09 Jun 2024 14:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jZWx0aWNzYmxvZy5jb20vMjAyNC82LzkvMjQxNzQ0MDYvbGVzc29ucy1ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLWdhbWUtMS1uYmEtZmluYWxzLWp1c3Qtd2luLWpheWxlbi1icm93bi1rcmlzdGFwcy1wb3J6aW5naXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.celticsblog.com",
-                    "title": "Celtics Blog"
-                }
-            },
-            {
-                "title": "Celtics-Mavs: 3 potential adjustments before Game 3 of NBA Finals - NBA.com",
-                "description": "Celtics-Mavs: 3 potential adjustments before Game 3 of NBA Finals  NBA.com",
-                "published date": "Tue, 11 Jun 2024 16:12:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8zLXBvdGVudGlhbC1hZGp1c3RtZW50cy1nYW1lLTMtMjAyNC1uYmEtZmluYWxz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
-            },
-            {
-                "title": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead - Al Jazeera English",
-                "description": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead  Al Jazeera English",
-                "published date": "Mon, 10 Jun 2024 09:56:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi8xMC9uYmEtZmluYWxzLWJvc3Rvbi1jZWx0aWNzLWJlYXQtZGFsbGFzLW1hdmVyaWNrcy0xMDUtOTgtZm9yLTItMC1sZWFk0gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzLzIwMjQvNi8xMC9uYmEtZmluYWxzLWJvc3Rvbi1jZWx0aWNzLWJlYXQtZGFsbGFzLW1hdmVyaWNrcy0xMDUtOTgtZm9yLTItMC1sZWFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.aljazeera.com",
-                    "title": "Al Jazeera English"
-                }
-            },
-            {
-                "title": "After two games, Mavericks have no answers for Celtics: 'We've just got to be better' - The New York Times",
-                "description": "After two games, Mavericks have no answers for Celtics: 'We've just got to be better'  The New York Times",
-                "published date": "Mon, 10 Jun 2024 13:45:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTMzODIvMjAyNC8wNi8xMC9jZWx0aWNzLW1hdmVyaWNrcy1uYmEtZmluYWxzLWdhbWUtMi1zdHJhdGVneS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "NBA Finals Game 3: TV schedule, betting odds for Mavs vs. Celtics - Austin American-Statesman",
-                "description": "NBA Finals Game 3: TV schedule, betting odds for Mavs vs. Celtics  Austin American-Statesman",
-                "published date": "Wed, 12 Jun 2024 10:59:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L3Nwb3J0cy9uYmEvMjAyNC8wNi8xMi9uYmEtZmluYWxzLWdhbWUtMy1zY2hlZHVsZS1iZXR0aW5nLW9kZHMtdHYtY2hhbm5lbC1kYWxsYXMtbWF2ZXJpY2tzLWJvc3Rvbi1jZWx0aWNzLzc0MDU4OTk5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.statesman.com",
-                    "title": "Austin American-Statesman"
-                }
-            },
-            {
-                "title": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead - Yahoo Sports",
-                "description": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead  Yahoo Sports",
-                "published date": "Thu, 13 Jun 2024 06:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9uYmEtZmluYWxzLTIwMjQtc2NvcmUtbGl2ZS11cGRhdGVzLWJvc3Rvbi1jZWx0aWNzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLWx1a2EtZG9uY2ljLWpheXNvbi10YXR1bS0yMzAyMjk5NTQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
-                }
-            },
-            {
-                "title": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas - The Providence Journal",
-                "description": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas  The Providence Journal",
-                "published date": "Thu, 13 Jun 2024 16:03:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3Rvcnkvc3BvcnRzLzIwMjQvMDYvMTMvd2hlbi1pcy1nYW1lLTQtbmJhLWZpbmFscy1ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLzc0MDY4MTkwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.providencejournal.com",
-                    "title": "The Providence Journal"
-                }
-            },
-            {
-                "title": "Celtics land the biggest punches again, top Mavericks to move one win from NBA title - NBC News",
-                "description": "Celtics land the biggest punches again, top Mavericks to move one win from NBA title  NBC News",
-                "published date": "Thu, 13 Jun 2024 03:24:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvc3BvcnRzL2NlbHRpY3MtbGFuZC1iaWdnZXN0LXB1bmNoZXMtdG9wLW1hdmVyaWNrcy1tb3ZlLTEtd2luLW5iYS10aXRsZS1yY25hMTU2OTEx0gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE1NjkxMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
-                }
-            },
-            {
-                "title": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 3, TV schedule, times, odds, prediction - CBS Sports",
-                "description": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 3, TV schedule, times, odds, prediction  CBS Sports",
-                "published date": "Wed, 12 Jun 2024 15:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLWZpbmFscy13aGVyZS10by13YXRjaC1jZWx0aWNzLXZzLW1hdmVyaWNrcy1pbi1nYW1lLTMtdHYtc2NoZWR1bGUtdGltZXMtb2Rkcy1wcmVkaWN0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            }
-        ]
-    },
-    {
         "name": "NBA",
         "summary": "",
         "items": [
@@ -147,16 +41,6 @@
                 "publisher": {
                     "href": "https://www.aljazeera.com",
                     "title": "Al Jazeera English"
-                }
-            },
-            {
-                "title": "Nine-Time NBA All-Star Paul George to Serve as Guest Analyst on ESPN & ABC's NBA Countdown for NBA Finals ... - ESPN Press Room",
-                "description": "Nine-Time NBA All-Star Paul George to Serve as Guest Analyst on ESPN & ABC's NBA Countdown for NBA Finals ...  ESPN Press Room",
-                "published date": "Tue, 11 Jun 2024 16:34:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL2VzcG5wcmVzc3Jvb20uY29tL3VzL3ByZXNzLXJlbGVhc2VzLzIwMjQvMDYvbmluZS10aW1lLW5iYS1hbGwtc3Rhci1wYXVsLWdlb3JnZS10by1zZXJ2ZS1hcy1ndWVzdC1hbmFseXN0LW9uLWVzcG4tYWJjcy1uYmEtY291bnRkb3duLWZvci1uYmEtZmluYWxzLWdhbWVzLTMtNC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://espnpressroom.com",
-                    "title": "ESPN Press Room"
                 }
             },
             {
@@ -208,124 +92,134 @@
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
                 }
+            },
+            {
+                "title": "Starting 5, June 11: The NBA Finals arrive in Dallas - NBA.com",
+                "description": "Starting 5, June 11: The NBA Finals arrive in Dallas  NBA.com",
+                "published date": "Tue, 11 Jun 2024 13:37:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9uYmEtc3RhcnRpbmctNS1qdW5lLTExLTIwMjTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
             }
         ]
     },
     {
-        "name": "U.S. Open golf",
+        "name": "Celtics",
         "summary": "",
         "items": [
             {
-                "title": "US Open field: Who will be playing at Pinehurst for the major title - USA TODAY",
-                "description": "US Open field: Who will be playing at Pinehurst for the major title  USA TODAY",
-                "published date": "Mon, 10 Jun 2024 19:22:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvZ29sZi8yMDI0LzA2LzEwL3VzLW9wZW4tZ29sZi1maWVsZC1waW5laHVyc3QvNzQwNDM5NDYwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas - The Associated Press",
+                "description": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas  The Associated Press",
+                "published date": "Mon, 10 Jun 2024 04:58:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtc2NvcmUtY2VsdGljcy1tYXZlcmlja3MtNWFlMmE5MDg5MTRmMDE2ZWU2ZDVhNWVhYThlMDlhZmPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
-                "title": "2024 U.S. Open TV schedule, coverage, live stream, where to watch online, channel, golf tee times - CBS Sports",
-                "description": "2024 U.S. Open TV schedule, coverage, live stream, where to watch online, channel, golf tee times  CBS Sports",
-                "published date": "Fri, 14 Jun 2024 01:54:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LXUtcy1vcGVuLXR2LXNjaGVkdWxlLWNvdmVyYWdlLWxpdmUtc3RyZWFtLXdoZXJlLXRvLXdhdGNoLW9ubGluZS1jaGFubmVsLWdvbGYtdGVlLXRpbWVzL9IBhAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LXUtcy1vcGVuLXR2LXNjaGVkdWxlLWNvdmVyYWdlLWxpdmUtc3RyZWFtLXdoZXJlLXRvLXdhdGNoLW9ubGluZS1jaGFubmVsLWdvbGYtdGVlLXRpbWVzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Lessons from Celtics-Mavericks Game 1: Just win - Celtics Blog",
+                "description": "Lessons from Celtics-Mavericks Game 1: Just win  Celtics Blog",
+                "published date": "Sun, 09 Jun 2024 14:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jZWx0aWNzYmxvZy5jb20vMjAyNC82LzkvMjQxNzQ0MDYvbGVzc29ucy1ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLWdhbWUtMS1uYmEtZmluYWxzLWp1c3Qtd2luLWpheWxlbi1icm93bi1rcmlzdGFwcy1wb3J6aW5naXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.celticsblog.com",
+                    "title": "Celtics Blog"
+                }
+            },
+            {
+                "title": "NBA Finals: 4 things to look for in Game 4 of Celtics-Mavericks - NBA.com",
+                "description": "NBA Finals: 4 things to look for in Game 4 of Celtics-Mavericks  NBA.com",
+                "published date": "Thu, 13 Jun 2024 23:53:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy80LXRoaW5ncy10by1sb29rLWZvci1nYW1lLTQtMjAyNC1uYmEtZmluYWxz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
+            },
+            {
+                "title": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead - Al Jazeera English",
+                "description": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead  Al Jazeera English",
+                "published date": "Mon, 10 Jun 2024 09:56:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi8xMC9uYmEtZmluYWxzLWJvc3Rvbi1jZWx0aWNzLWJlYXQtZGFsbGFzLW1hdmVyaWNrcy0xMDUtOTgtZm9yLTItMC1sZWFk0gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzLzIwMjQvNi8xMC9uYmEtZmluYWxzLWJvc3Rvbi1jZWx0aWNzLWJlYXQtZGFsbGFzLW1hdmVyaWNrcy0xMDUtOTgtZm9yLTItMC1sZWFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "After two games, Mavericks have no answers for Celtics: 'We've just got to be better' - The New York Times",
+                "description": "After two games, Mavericks have no answers for Celtics: 'We've just got to be better'  The New York Times",
+                "published date": "Mon, 10 Jun 2024 13:45:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTMzODIvMjAyNC8wNi8xMC9jZWx0aWNzLW1hdmVyaWNrcy1uYmEtZmluYWxzLWdhbWUtMi1zdHJhdGVneS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas - The Providence Journal",
+                "description": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas  The Providence Journal",
+                "published date": "Thu, 13 Jun 2024 16:03:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3Rvcnkvc3BvcnRzLzIwMjQvMDYvMTMvd2hlbi1pcy1nYW1lLTQtbmJhLWZpbmFscy1ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLzc0MDY4MTkwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.providencejournal.com",
+                    "title": "The Providence Journal"
+                }
+            },
+            {
+                "title": "NBA Finals Game 3: TV schedule, betting odds for Mavs vs. Celtics - Austin American-Statesman",
+                "description": "NBA Finals Game 3: TV schedule, betting odds for Mavs vs. Celtics  Austin American-Statesman",
+                "published date": "Wed, 12 Jun 2024 10:59:24 GMT",
+                "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L3Nwb3J0cy9uYmEvMjAyNC8wNi8xMi9uYmEtZmluYWxzLWdhbWUtMy1zY2hlZHVsZS1iZXR0aW5nLW9kZHMtdHYtY2hhbm5lbC1kYWxsYXMtbWF2ZXJpY2tzLWJvc3Rvbi1jZWx0aWNzLzc0MDU4OTk5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.statesman.com",
+                    "title": "Austin American-Statesman"
+                }
+            },
+            {
+                "title": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead - Yahoo Sports",
+                "description": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead  Yahoo Sports",
+                "published date": "Thu, 13 Jun 2024 06:37:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9uYmEtZmluYWxzLTIwMjQtc2NvcmUtbGl2ZS11cGRhdGVzLWJvc3Rvbi1jZWx0aWNzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLWx1a2EtZG9uY2ljLWpheXNvbi10YXR1bS0yMzAyMjk5NTQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 3, TV schedule, times, odds, prediction - CBS Sports",
+                "description": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 3, TV schedule, times, odds, prediction  CBS Sports",
+                "published date": "Wed, 12 Jun 2024 15:06:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLWZpbmFscy13aGVyZS10by13YXRjaC1jZWx0aWNzLXZzLW1hdmVyaWNrcy1pbi1nYW1lLTMtdHYtc2NoZWR1bGUtdGltZXMtb2Rkcy1wcmVkaWN0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
                 }
             },
             {
-                "title": "Fans Have Multiple Ways to Follow Action from 124th U.S. Open - US Open Championship",
-                "description": "Fans Have Multiple Ways to Follow Action from 124th U.S. Open  US Open Championship",
-                "published date": "Wed, 12 Jun 2024 13:31:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzb3Blbi5jb20vMjAyNC9hcnRpY2xlcy9mYW5zLWhhdmUtbXVsdGlwbGUtd2F5cy10by1mb2xsb3ctYWN0aW9uLWZyb20tMTI0dGgtdS1zLS1vcGVuLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Celtics on the brink of an 18th title, can close out Mavericks in Game 4 of NBA Finals on Friday - The Associated Press",
+                "description": "Celtics on the brink of an 18th title, can close out Mavericks in Game 4 of NBA Finals on Friday  The Associated Press",
+                "published date": "Thu, 13 Jun 2024 21:36:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtY2VsdGljcy1tYXZlcmlja3MtMTQ2Yzg1YWMzOGUyZDA4OTZkN2Q1ODNmZDcyNGViZGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.usopen.com",
-                    "title": "US Open Championship"
-                }
-            },
-            {
-                "title": "Here's how much money the 2024 US Open champ will make - NBC Washington",
-                "description": "Here's how much money the 2024 US Open champ will make  NBC Washington",
-                "published date": "Wed, 12 Jun 2024 23:21:42 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5iY3dhc2hpbmd0b24uY29tL25ld3Mvc3BvcnRzL2dvbGYvdXMtb3Blbi1wdXJzZS1wcml6ZS1tb25leS1icmVha2Rvd24tMjAyNC8zNjM5NzYwL9IBZmh0dHBzOi8vd3d3Lm5iY3dhc2hpbmd0b24uY29tL25ld3Mvc3BvcnRzL2dvbGYvdXMtb3Blbi1wdXJzZS1wcml6ZS1tb25leS1icmVha2Rvd24tMjAyNC8zNjM5NzYwLz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcwashington.com",
-                    "title": "NBC Washington"
-                }
-            },
-            {
-                "title": "U.S. Open 2024 Golf Odds, Top Players, Course Insight And Prepping For Pinehurst - Forbes",
-                "description": "U.S. Open 2024 Golf Odds, Top Players, Course Insight And Prepping For Pinehurst  Forbes",
-                "published date": "Mon, 10 Jun 2024 20:40:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2pheWdpbnNiYWNoLzIwMjQvMDYvMTAvdXMtb3Blbi0yMDI0LWdvbGYtb2Rkcy10b3AtcGxheWVycy1jb3Vyc2UtaW5zaWdodC1hbmQtcHJlcHBpbmctZm9yLXBpbmVodXJzdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
-                "title": "How to watch the U.S. Open Golf Championship today - CBS News",
-                "description": "How to watch the U.S. Open Golf Championship today  CBS News",
-                "published date": "Thu, 13 Jun 2024 14:01:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRoZS11LXMtb3Blbi1nb2xmLWNoYW1waW9uc2hpcC10b2RheS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
-                "title": "U.S. Open 2024: Here's everyone who is in the field at Pinehurst - GolfDigest.com",
-                "description": "U.S. Open 2024: Here's everyone who is in the field at Pinehurst  GolfDigest.com",
-                "published date": "Mon, 10 Jun 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdvbGZkaWdlc3QuY29tL3N0b3J5L3VzLW9wZW4tMjAyNC1mdWxsLWZpZWxkLXBpbmVodXJzdC1uby0yLWZ1bGx5LWV4ZW1wdC1sb2NhbC1maW5hbC1xdWFsaWZpZXJz0gFvaHR0cHM6Ly93d3cuZ29sZmRpZ2VzdC5jb20vc3RvcnkvdXMtb3Blbi0yMDI0LWZ1bGwtZmllbGQtcGluZWh1cnN0LW5vLTItZnVsbHktZXhlbXB0LWxvY2FsLWZpbmFsLXF1YWxpZmllcnMvYW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.golfdigest.com",
-                    "title": "GolfDigest.com"
-                }
-            },
-            {
-                "title": "2024 U.S Open: How to Watch the Golf Championship Live Online - Variety",
-                "description": "2024 U.S Open: How to Watch the Golf Championship Live Online  Variety",
-                "published date": "Thu, 13 Jun 2024 12:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9zaG9wcGluZy9uZXdzL2hvdy10by13YXRjaC11cy1vcGVuLW1lbnMtZ29sZi10b3VybmFtZW50LWxpdmUtb25saW5lLTEyMzYwMzYyMzcv0gFsaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L3Nob3BwaW5nL25ld3MvaG93LXRvLXdhdGNoLXVzLW9wZW4tbWVucy1nb2xmLXRvdXJuYW1lbnQtbGl2ZS1vbmxpbmUtMTIzNjAzNjIzNy9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "2024 US Open golf: How to watch, dates, times, history - USA TODAY",
-                "description": "2024 US Open golf: How to watch, dates, times, history  USA TODAY",
-                "published date": "Mon, 10 Jun 2024 15:14:49 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvZ29sZi8yMDI0LzA2LzEwLzIwMjQtdXMtb3Blbi1nb2xmLWhvdy10by13YXRjaC1kYXRlcy10aW1lcy1oaXN0b3J5Lzc0MDQyOTg5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "2024 U.S. Open picks, odds, field: Surprising predictions by PGA golf model that's nailed 12 majors - CBS Sports",
-                "description": "2024 U.S. Open picks, odds, field: Surprising predictions by PGA golf model that's nailed 12 majors  CBS Sports",
-                "published date": "Wed, 12 Jun 2024 11:49:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LXUtcy1vcGVuLXBpY2tzLW9kZHMtZmllbGQtc3VycHJpc2luZy1wcmVkaWN0aW9ucy1ieS1wZ2EtZ29sZi1tb2RlbC10aGF0cy1uYWlsZWQtMTItbWFqb3JzL9IBhwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LXUtcy1vcGVuLXBpY2tzLW9kZHMtZmllbGQtc3VycHJpc2luZy1wcmVkaWN0aW9ucy1ieS1wZ2EtZ29sZi1tb2RlbC10aGF0cy1uYWlsZWQtMTItbWFqb3JzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             }
         ]
     },
     {
-        "name": "Bridgerton Season 3 Part 2",
+        "name": "Bridgerton season 3 part 2",
         "summary": "",
         "items": [
             {
-                "title": "'Bridgerton' Showrunner Says Season 4 Will Be \u201cSome of My Best Work\u201d as She Confirms Two-Year Wait - Hollywood Reporter",
-                "description": "'Bridgerton' Showrunner Says Season 4 Will Be \u201cSome of My Best Work\u201d as She Confirms Two-Year Wait  Hollywood Reporter",
+                "title": "\u2018Bridgerton\u2019 Showrunner Says Season 4 Will Be \u201cSome of My Best Work\u201d as She Confirms Two-Year Wait - Hollywood Reporter",
+                "description": "\u2018Bridgerton\u2019 Showrunner Says Season 4 Will Be \u201cSome of My Best Work\u201d as She Confirms Two-Year Wait  Hollywood Reporter",
                 "published date": "Wed, 12 Jun 2024 21:46:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2JyaWRnZXJ0b24tc2Vhc29uLTQtamVzcy1icm93bmVsbC1uaWNvbGEtY291Z2hsYW4tdWstcHJlbWllcmUtMTIzNTkyMTM3OS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2JyaWRnZXJ0b24tc2Vhc29uLTQtamVzcy1icm93bmVsbC1uaWNvbGEtY291Z2hsYW4tdWstcHJlbWllcmUtMTIzNTkyMTM3OS_SAXpodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vdHYvdHYtbmV3cy9icmlkZ2VydG9uLXNlYXNvbi00LWplc3MtYnJvd25lbGwtbmljb2xhLWNvdWdobGFuLXVrLXByZW1pZXJlLTEyMzU5MjEzNzkvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.hollywoodreporter.com",
                     "title": "Hollywood Reporter"
@@ -352,6 +246,16 @@
                 }
             },
             {
+                "title": "Bridgerton Season 3: Cast, Part 2 Release Date, Photos of Penelope and Colin Romance - Netflix Tudum",
+                "description": "Bridgerton Season 3: Cast, Part 2 Release Date, Photos of Penelope and Colin Romance  Netflix Tudum",
+                "published date": "Sat, 08 Jun 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm5ldGZsaXguY29tL3R1ZHVtL2FydGljbGVzL2JyaWRnZXJ0b24tc2Vhc29uLTMtZmlsbWluZy1jYXN0LW5ld3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.netflix.com",
+                    "title": "Netflix Tudum"
+                }
+            },
+            {
                 "title": "'Bridgerton' Season 3 Review: Good Foreplay, No Climax - Vulture",
                 "description": "'Bridgerton' Season 3 Review: Good Foreplay, No Climax  Vulture",
                 "published date": "Thu, 13 Jun 2024 07:01:23 GMT",
@@ -359,6 +263,16 @@
                 "publisher": {
                     "href": "https://www.vulture.com",
                     "title": "Vulture"
+                }
+            },
+            {
+                "title": "'Bridgerton' Season 3 Episode 8 Ending Explained - Betches",
+                "description": "'Bridgerton' Season 3 Episode 8 Ending Explained  Betches",
+                "published date": "Thu, 13 Jun 2024 20:21:32 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vYmV0Y2hlcy5jb20vYnJpZGdlcnRvbi1zZWFzb24tMy1wYXJ0LTItZW5kaW5nLWV4cGxhaW5lZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://betches.com",
+                    "title": "Betches"
                 }
             },
             {
@@ -372,16 +286,6 @@
                 }
             },
             {
-                "title": "When does 'Bridgerton' come out? Season 3 Part 2 release date, cast, where to watch new episodes - USA TODAY",
-                "description": "When does 'Bridgerton' come out? Season 3 Part 2 release date, cast, where to watch new episodes  USA TODAY",
-                "published date": "Tue, 11 Jun 2024 20:11:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3R2LzIwMjQvMDYvMTEvYnJpZGdlcnRvbi1zZWFzb24tMy1wYXJ0LTIvNzM5NzUwMzUwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
                 "title": "\u2018Bridgerton\u2019 Season 3 Part 2 Is the Most Fascinating Chapter of the Franchise Yet: TV Review - Variety",
                 "description": "\u2018Bridgerton\u2019 Season 3 Part 2 Is the Most Fascinating Chapter of the Franchise Yet: TV Review  Variety",
                 "published date": "Thu, 13 Jun 2024 07:01:00 GMT",
@@ -392,33 +296,235 @@
                 }
             },
             {
-                "title": "What Time Is 'Bridgerton' Season 3 Part 2 Released? - Cosmopolitan",
-                "description": "What Time Is 'Bridgerton' Season 3 Part 2 Released?  Cosmopolitan",
-                "published date": "Tue, 11 Jun 2024 15:57:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNvc21vcG9saXRhbi5jb20vZW50ZXJ0YWlubWVudC90di9hNjEwNzI3NTAvd2hhdC10aW1lLWJyaWRnZXJ0b24tc2Vhc29uLTMtcGFydC0yLXJlbGVhc2VkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "The 'Bridgerton' Season 3, Part 2 Ending, Explained - Brit + Co",
+                "description": "The 'Bridgerton' Season 3, Part 2 Ending, Explained  Brit + Co",
+                "published date": "Thu, 13 Jun 2024 16:55:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmJyaXQuY28vYnJpZGdlcnRvbi1zZWFzb24tMy1lbmRpbmcv0gE9aHR0cHM6Ly93d3cuYnJpdC5jby9hbXAvYnJpZGdlcnRvbi1zZWFzb24tMy1lbmRpbmctMjY2ODUxOTgwNg?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cosmopolitan.com",
-                    "title": "Cosmopolitan"
+                    "href": "https://www.brit.co",
+                    "title": "Brit + Co"
                 }
             },
             {
-                "title": "'Bridgerton' Season 3, Part 2: Release Date and Time - CNET",
-                "description": "'Bridgerton' Season 3, Part 2: Release Date and Time  CNET",
-                "published date": "Tue, 11 Jun 2024 19:44:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL2JyaWRnZXJ0b24tc2Vhc29uLTMtcGFydC0yLXJlbGVhc2UtZGF0ZS1hbmQtdGltZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When does 'Bridgerton' come out? Season 3 Part 2 release date, cast, where to watch new episodes - USA TODAY",
+                "description": "When does 'Bridgerton' come out? Season 3 Part 2 release date, cast, where to watch new episodes  USA TODAY",
+                "published date": "Tue, 11 Jun 2024 20:11:43 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3R2LzIwMjQvMDYvMTEvYnJpZGdlcnRvbi1zZWFzb24tMy1wYXJ0LTIvNzM5NzUwMzUwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Boston Celtics",
+        "summary": "",
+        "items": [
+            {
+                "title": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas - The Associated Press",
+                "description": "Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas  The Associated Press",
+                "published date": "Mon, 10 Jun 2024 04:58:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtc2NvcmUtY2VsdGljcy1tYXZlcmlja3MtNWFlMmE5MDg5MTRmMDE2ZWU2ZDVhNWVhYThlMDlhZmPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
-                "title": "'Bridgerton' Season 3 Episode 8 Ending Explained - Betches",
-                "description": "'Bridgerton' Season 3 Episode 8 Ending Explained  Betches",
-                "published date": "Thu, 13 Jun 2024 20:21:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vYmV0Y2hlcy5jb20vYnJpZGdlcnRvbi1zZWFzb24tMy1wYXJ0LTItZW5kaW5nLWV4cGxhaW5lZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "The Boston Celtics are up 2-0 in the Finals but the job's not done yet - CelticsBlog - Celtics Blog",
+                "description": "The Boston Celtics are up 2-0 in the Finals but the job's not done yet - CelticsBlog  Celtics Blog",
+                "published date": "Tue, 11 Jun 2024 18:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jZWx0aWNzYmxvZy5jb20vMjAyNC82LzExLzI0MTc1NzQzL25iYS1maW5hbHMtYm9zdG9uLWNlbHRpY3MtZGFsbGFzLW1hdmVyaWNrcy1qb2JzLW5vdC1kb25lLXlldC10YXR1bS1kb25jaWMta3lyaWUtaXJ2aW5n0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://betches.com",
-                    "title": "Betches"
+                    "href": "https://www.celticsblog.com",
+                    "title": "Celtics Blog"
+                }
+            },
+            {
+                "title": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead - Al Jazeera English",
+                "description": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead  Al Jazeera English",
+                "published date": "Mon, 10 Jun 2024 09:56:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjQvNi8xMC9uYmEtZmluYWxzLWJvc3Rvbi1jZWx0aWNzLWJlYXQtZGFsbGFzLW1hdmVyaWNrcy0xMDUtOTgtZm9yLTItMC1sZWFk0gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvc3BvcnRzLzIwMjQvNi8xMC9uYmEtZmluYWxzLWJvc3Rvbi1jZWx0aWNzLWJlYXQtZGFsbGFzLW1hdmVyaWNrcy0xMDUtOTgtZm9yLTItMC1sZWFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 3 of 2024 NBA Finals? - El Paso Times",
+                "description": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 3 of 2024 NBA Finals?  El Paso Times",
+                "published date": "Tue, 11 Jun 2024 12:53:10 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lbHBhc290aW1lcy5jb20vc3Rvcnkvc3BvcnRzL25iYS8yMDI0LzA2LzExL2Jvc3Rvbi1jZWx0aWNzLXZzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLXBpY2tzLXByZWRpY3Rpb25zLW9kZHMvNzQwNDQ3NjUwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.elpasotimes.com",
+                    "title": "El Paso Times"
+                }
+            },
+            {
+                "title": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 4 of 2024 NBA Finals? - The Arizona Republic",
+                "description": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 4 of 2024 NBA Finals?  The Arizona Republic",
+                "published date": "Thu, 13 Jun 2024 14:32:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L3Nwb3J0cy9uYmEvMjAyNC8wNi8xMy9ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLXBpY2tzLXByZWRpY3Rpb25zLW5iYS1maW5hbHMtZ2FtZS00Lzc0MDQ0NDk1MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
+                }
+            },
+            {
+                "title": "Boston Celtics Legend Paul Pierce Sends Out Viral Post After Game 2 - Sports Illustrated",
+                "description": "Boston Celtics Legend Paul Pierce Sends Out Viral Post After Game 2  Sports Illustrated",
+                "published date": "Tue, 11 Jun 2024 19:23:33 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vbmJhL2Zhc3RicmVhay9ib3N0b24tY2VsdGljcy1sZWdlbmQtcGF1bC1waWVyY2Utc2VuZHMtb3V0LXZpcmFsLXBvc3QtYWZ0ZXItZ2FtZS0yLW5iYS1maW5hbHMtbWF2c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas - The Providence Journal",
+                "description": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas  The Providence Journal",
+                "published date": "Thu, 13 Jun 2024 16:03:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3Rvcnkvc3BvcnRzLzIwMjQvMDYvMTMvd2hlbi1pcy1nYW1lLTQtbmJhLWZpbmFscy1ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLzc0MDY4MTkwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.providencejournal.com",
+                    "title": "The Providence Journal"
+                }
+            },
+            {
+                "title": "Boston Celtics take road success to Dallas for Game 3 vs. Mavericks - USA TODAY",
+                "description": "Boston Celtics take road success to Dallas for Game 3 vs. Mavericks  USA TODAY",
+                "published date": "Mon, 10 Jun 2024 03:51:04 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL25iYS9wbGF5b2Zmcy8yMDI0LzA2LzA5L2Jvc3Rvbi1jZWx0aWNzLXRha2Utcm9hZC1zdWNjZXNzLXRvLWRhbGxhcy1mb3ItZ2FtZS0zLXZzLW1hdmVyaWNrcy83NDA0MDg5NjAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Boston Celtics vs Dallas Mavericks Game 3 preview: Three things to watch, injury news, odds - NBC Sports",
+                "description": "Boston Celtics vs Dallas Mavericks Game 3 preview: Three things to watch, injury news, odds  NBC Sports",
+                "published date": "Wed, 12 Jun 2024 13:00:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vbmJhL25ld3MvYm9zdG9uLWNlbHRpY3MtdnMtZGFsbGFzLW1hdmVyaWNrcy1nYW1lLTMtcHJldmlldy10aHJlZS10aGluZ3MtdG8td2F0Y2gtaW5qdXJ5LW5ld3Mtb2Rkc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcsports.com",
+                    "title": "NBC Sports"
+                }
+            },
+            {
+                "title": "Boston Celtics now one win away from NBA title as Jayson Tatum, Jaylen Brown lead way to Game 3 win in Dallas - CBS Boston",
+                "description": "Boston Celtics now one win away from NBA title as Jayson Tatum, Jaylen Brown lead way to Game 3 win in Dallas  CBS Boston",
+                "published date": "Thu, 13 Jun 2024 10:48:59 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Jvc3Rvbi9uZXdzL2NlbHRpY3MtbWF2ZXJpY2tzLW5iYS1maW5hbHMtZ2FtZS0zLXRhdHVtLWJyb3duLWRvbmNpYy1pcnZpbmcv0gFmaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2Jvc3Rvbi9uZXdzL2NlbHRpY3MtbWF2ZXJpY2tzLW5iYS1maW5hbHMtZ2FtZS0zLXRhdHVtLWJyb3duLWRvbmNpYy1pcnZpbmcv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS Boston"
+                }
+            }
+        ]
+    },
+    {
+        "name": "The Boys",
+        "summary": "",
+        "items": [
+            {
+                "title": "'The Boys' Season 4 Doubles Down On One Of Its Biggest Problems - Forbes",
+                "description": "'The Boys' Season 4 Doubles Down On One Of Its Biggest Problems  Forbes",
+                "published date": "Wed, 12 Jun 2024 15:51:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcGF1bHRhc3NpLzIwMjQvMDYvMTIvdGhlLWJveXMtc2Vhc29uLTQtZG91Ymxlcy1kb3duLW9uLW9uZS1vZi1pdHMtYmlnZ2VzdC1wcm9ibGVtcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
+                "title": "'The Boys' Recap, Season 4, Episode One - Vulture",
+                "description": "'The Boys' Recap, Season 4, Episode One  Vulture",
+                "published date": "Thu, 13 Jun 2024 05:00:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnZ1bHR1cmUuY29tL2FydGljbGUvdGhlLWJveXMtcmVjYXAtc2Vhc29uLTQtZXBpc29kZS0xLWRlcGFydG1lbnQtb2YtZGlydHktdHJpY2tzLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.vulture.com",
+                    "title": "Vulture"
+                }
+            },
+            {
+                "title": "\u2018The Boys\u2019 to End With Season 5 on Amazon - Variety",
+                "description": "\u2018The Boys\u2019 to End With Season 5 on Amazon  Variety",
+                "published date": "Tue, 11 Jun 2024 15:03:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RoZS1ib3lzLXNlYXNvbi01LWZpbmFsLXNlYXNvbi0xMjM2MDMzNDE4L9IBT2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RoZS1ib3lzLXNlYXNvbi01LWZpbmFsLXNlYXNvbi0xMjM2MDMzNDE4L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
+                "title": "'The Boys' Season 4 Review: Depravity & The Best Story Yet - UPROXX",
+                "description": "'The Boys' Season 4 Review: Depravity & The Best Story Yet  UPROXX",
+                "published date": "Tue, 11 Jun 2024 13:00:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vdXByb3h4LmNvbS90di90aGUtYm95cy1zZWFzb24tNC1yZXZpZXctYW1hem9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://uproxx.com",
+                    "title": "UPROXX"
+                }
+            },
+            {
+                "title": "'The Boys' Season 4: Premiere date, cast, how to watch and stream - USA TODAY",
+                "description": "'The Boys' Season 4: Premiere date, cast, how to watch and stream  USA TODAY",
+                "published date": "Tue, 11 Jun 2024 17:39:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L3R2LzIwMjQvMDYvMTEvdGhlLWJveXMtc2Vhc29uLTQvNzQwNTc4NTEwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "When is 'The Boys' Season 4 coming out? Date, cast, trailer, how to watch - El Paso Times",
+                "description": "When is 'The Boys' Season 4 coming out? Date, cast, trailer, how to watch  El Paso Times",
+                "published date": "Tue, 11 Jun 2024 20:24:37 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5lbHBhc290aW1lcy5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC90ZWxldmlzaW9uLzIwMjQvMDYvMTEvdGhlLWJveXMtc2Vhc29uLTQtZGF0ZS1jYXN0LWhvdy10by13YXRjaC1zdHJlYW0vNzQwNjI0NjIwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.elpasotimes.com",
+                    "title": "El Paso Times"
+                }
+            },
+            {
+                "title": "'The Boys' Release Schedule: When Do New Episodes Come Out? - Esquire",
+                "description": "'The Boys' Release Schedule: When Do New Episodes Come Out?  Esquire",
+                "published date": "Tue, 11 Jun 2024 19:48:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmVzcXVpcmUuY29tL2VudGVydGFpbm1lbnQvdHYvYTYxMDczNzE5L3RoZS1ib3lzLXNlYXNvbi1hbWF6b24tcHJpbWUtcmVsZWFzZS1zY2hlZHVsZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.esquire.com",
+                    "title": "Esquire"
+                }
+            },
+            {
+                "title": "'The Boys: Season 4' review: A blood-soaked mix of politics and gore - The Seattle Times",
+                "description": "'The Boys: Season 4' review: A blood-soaked mix of politics and gore  The Seattle Times",
+                "published date": "Thu, 13 Jun 2024 13:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vZW50ZXJ0YWlubWVudC90di90aGUtYm95cy1zZWFzb24tNC1yZXZpZXctYS1ibG9vZC1zb2FrZWQtbWl4LW9mLXBvbGl0aWNzLWFuZC1nb3JlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.seattletimes.com",
+                    "title": "The Seattle Times"
+                }
+            },
+            {
+                "title": "'The Boys' Season 4 Review: Insanity Reigns Supreme - The Cosmic Circus",
+                "description": "'The Boys' Season 4 Review: Insanity Reigns Supreme  The Cosmic Circus",
+                "published date": "Thu, 13 Jun 2024 14:11:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGhlY29zbWljY2lyY3VzLmNvbS90aGUtYm95cy1zZWFzb24tNC1yZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://thecosmiccircus.com",
+                    "title": "The Cosmic Circus"
+                }
+            },
+            {
+                "title": "For Eric Kripke, \u2018The Boys\u2019 Was Always About Trumpism - Hollywood Reporter",
+                "description": "For Eric Kripke, \u2018The Boys\u2019 Was Always About Trumpism  Hollywood Reporter",
+                "published date": "Fri, 07 Jun 2024 16:00:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYm95cy1zaG93cnVubmVyLWVyaWsta3JpcGtlLWludGVydmlldy10cnVtcGlzbS0xMjM1OTE0NjQyL9IBc2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYm95cy1zaG93cnVubmVyLWVyaWsta3JpcGtlLWludGVydmlldy10cnVtcGlzbS0xMjM1OTE0NjQyL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.hollywoodreporter.com",
+                    "title": "Hollywood Reporter"
                 }
             }
         ]
@@ -448,16 +554,6 @@
                 }
             },
             {
-                "title": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 3 of 2024 NBA Finals? - El Paso Times",
-                "description": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 3 of 2024 NBA Finals?  El Paso Times",
-                "published date": "Tue, 11 Jun 2024 12:53:10 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lbHBhc290aW1lcy5jb20vc3Rvcnkvc3BvcnRzL25iYS8yMDI0LzA2LzExL2Jvc3Rvbi1jZWx0aWNzLXZzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLXBpY2tzLXByZWRpY3Rpb25zLW9kZHMvNzQwNDQ3NjUwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.elpasotimes.com",
-                    "title": "El Paso Times"
-                }
-            },
-            {
                 "title": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead - Al Jazeera English",
                 "description": "NBA Finals: Boston Celtics beat Dallas Mavericks 105-98 for 2-0 lead  Al Jazeera English",
                 "published date": "Mon, 10 Jun 2024 09:56:15 GMT",
@@ -478,6 +574,16 @@
                 }
             },
             {
+                "title": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 3 of 2024 NBA Finals? - El Paso Times",
+                "description": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 3 of 2024 NBA Finals?  El Paso Times",
+                "published date": "Tue, 11 Jun 2024 12:53:10 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lbHBhc290aW1lcy5jb20vc3Rvcnkvc3BvcnRzL25iYS8yMDI0LzA2LzExL2Jvc3Rvbi1jZWx0aWNzLXZzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLXBpY2tzLXByZWRpY3Rpb25zLW9kZHMvNzQwNDQ3NjUwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.elpasotimes.com",
+                    "title": "El Paso Times"
+                }
+            },
+            {
                 "title": "As Mavs teeter on brink of finals loss, Lively offers a lifeline for the future - The New York Times",
                 "description": "As Mavs teeter on brink of finals loss, Lively offers a lifeline for the future  The New York Times",
                 "published date": "Thu, 13 Jun 2024 12:04:33 GMT",
@@ -485,16 +591,6 @@
                 "publisher": {
                     "href": "https://www.nytimes.com",
                     "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 4 of 2024 NBA Finals? - The Arizona Republic",
-                "description": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 4 of 2024 NBA Finals?  The Arizona Republic",
-                "published date": "Thu, 13 Jun 2024 14:32:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L3Nwb3J0cy9uYmEvMjAyNC8wNi8xMy9ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLXBpY2tzLXByZWRpY3Rpb25zLW5iYS1maW5hbHMtZ2FtZS00Lzc0MDQ0NDk1MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
                 }
             },
             {
@@ -518,119 +614,129 @@
                 }
             },
             {
-                "title": "The backbreaking strategy that has driven Luka Doncic and the Dallas Mavericks to the brink - ESPN",
-                "description": "The backbreaking strategy that has driven Luka Doncic and the Dallas Mavericks to the brink  ESPN",
-                "published date": "Thu, 13 Jun 2024 16:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5lc3BuLmNvbS9uYmEvc3RvcnkvXy9pZC80MDMzOTU0Mi90aGUtYmFja2JyZWFraW5nLXN0cmF0ZWd5LWRyaXZlbi1sdWthLWRvbmNpYy1kYWxsYXMtbWF2ZXJpY2tzLWJyaW5rLW5iYS1maW5hbHMtYm9zdG9uLWNlbHRpY3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 4 of 2024 NBA Finals? - The Arizona Republic",
+                "description": "Boston Celtics vs Dallas Mavericks picks, predictions: Who wins Game 4 of 2024 NBA Finals?  The Arizona Republic",
+                "published date": "Thu, 13 Jun 2024 14:32:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L3Nwb3J0cy9uYmEvMjAyNC8wNi8xMy9ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLXBpY2tzLXByZWRpY3Rpb25zLW5iYS1maW5hbHMtZ2FtZS00Lzc0MDQ0NDk1MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
+                }
+            },
+            {
+                "title": "How to watch the Boston Celtics vs. Dallas Mavericks NBA Finals game: Game 3 livestream options - CBS News",
+                "description": "How to watch the Boston Celtics vs. Dallas Mavericks NBA Finals game: Game 3 livestream options  CBS News",
+                "published date": "Tue, 11 Jun 2024 14:16:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Vzc2VudGlhbHMvaG93LXRvLXdhdGNoLXRoZS1ib3N0b24tY2VsdGljcy12cy1kYWxsYXMtbWF2ZXJpY2tzLW5iYS1maW5hbHMtZ2FtZS0zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             }
         ]
     },
     {
-        "name": "Mavs",
+        "name": "U.S. Open",
         "summary": "",
         "items": [
             {
-                "title": "Celtics-Mavs: 3 potential adjustments before Game 3 of NBA Finals - NBA.com",
-                "description": "Celtics-Mavs: 3 potential adjustments before Game 3 of NBA Finals  NBA.com",
-                "published date": "Tue, 11 Jun 2024 16:12:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8zLXBvdGVudGlhbC1hZGp1c3RtZW50cy1nYW1lLTMtMjAyNC1uYmEtZmluYWxz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Fans Have Multiple Ways to Follow Action from 124th U.S. Open - US Open Championship",
+                "description": "Fans Have Multiple Ways to Follow Action from 124th U.S. Open  US Open Championship",
+                "published date": "Wed, 12 Jun 2024 13:31:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzb3Blbi5jb20vMjAyNC9hcnRpY2xlcy9mYW5zLWhhdmUtbXVsdGlwbGUtd2F5cy10by1mb2xsb3ctYWN0aW9uLWZyb20tMTI0dGgtdS1zLS1vcGVuLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
+                    "href": "https://www.usopen.com",
+                    "title": "US Open Championship"
                 }
             },
             {
-                "title": "Game 2 preview: Mavericks need to relocate two old reliable friends - The Official Home of the Dallas Mavericks - Mavs.com",
-                "description": "Game 2 preview: Mavericks need to relocate two old reliable friends - The Official Home of the Dallas Mavericks  Mavs.com",
-                "published date": "Sat, 08 Jun 2024 23:09:13 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1hdnMuY29tL25iYS1maW5hbHMtZzItcHJldmlldy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "US Open golf 2024: second round \u2013 live - The Guardian",
+                "description": "US Open golf 2024: second round \u2013 live  The Guardian",
+                "published date": "Fri, 14 Jun 2024 11:15:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9saXZlLzIwMjQvanVuLzE0L3VzLW9wZW4tMjAyNC1zZWNvbmQtcm91bmQtbGl2ZdIBUWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9saXZlLzIwMjQvanVuLzE0L3VzLW9wZW4tMjAyNC1zZWNvbmQtcm91bmQtbGl2ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.mavs.com",
-                    "title": "Mavs.com"
+                    "href": "https://www.theguardian.com",
+                    "title": "The Guardian"
                 }
             },
             {
-                "title": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead - Yahoo Sports",
-                "description": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead  Yahoo Sports",
-                "published date": "Thu, 13 Jun 2024 06:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9uYmEtZmluYWxzLTIwMjQtc2NvcmUtbGl2ZS11cGRhdGVzLWJvc3Rvbi1jZWx0aWNzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLWx1a2EtZG9uY2ljLWpheXNvbi10YXR1bS0yMzAyMjk5NTQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Lynch: Brooks Koepka isn't talking at Pinehurst, but he's texting us - Golfweek",
+                "description": "Lynch: Brooks Koepka isn't talking at Pinehurst, but he's texting us  Golfweek",
+                "published date": "Thu, 13 Jun 2024 20:50:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZ29sZndlZWsudXNhdG9kYXkuY29tLzIwMjQvMDYvMTMvZWFtb24tbHluY2gtYnJvb2tzLWtvZXBrYS1waW5laHVyc3QtdGV4dC1tZXNzYWdlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
+                    "href": "https://golfweek.usatoday.com",
+                    "title": "Golfweek"
                 }
             },
             {
-                "title": "NBA Finals Game 3: TV schedule, betting odds for Mavs vs. Celtics - Austin American-Statesman",
-                "description": "NBA Finals Game 3: TV schedule, betting odds for Mavs vs. Celtics  Austin American-Statesman",
-                "published date": "Wed, 12 Jun 2024 10:59:24 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L3Nwb3J0cy9uYmEvMjAyNC8wNi8xMi9uYmEtZmluYWxzLWdhbWUtMy1zY2hlZHVsZS1iZXR0aW5nLW9kZHMtdHYtY2hhbm5lbC1kYWxsYXMtbWF2ZXJpY2tzLWJvc3Rvbi1jZWx0aWNzLzc0MDU4OTk5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "2024 U.S. Open: How to watch, start times, biggest storylines - NBC News",
+                "description": "2024 U.S. Open: How to watch, start times, biggest storylines  NBC News",
+                "published date": "Thu, 13 Jun 2024 11:14:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvc3BvcnRzLzIwMjQtdXMtb3Blbi1iaWdnZXN0LXN0b3J5bGluZXMtaG93LXRvLXdhdGNoLXJjbmExNTY4NDTSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTU2ODQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.statesman.com",
-                    "title": "Austin American-Statesman"
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
                 }
             },
             {
-                "title": "Celtics beat Mavs in Game 3 of Finals, move one win from title - ESPN",
-                "description": "Celtics beat Mavs in Game 3 of Finals, move one win from title  ESPN",
-                "published date": "Thu, 13 Jun 2024 03:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMzM4OTQyL2NlbHRpY3MtYmVhdC1tYXZzLWdhbWUtMy1maW5hbHMtbW92ZS1vbmUtd2luLXRpdGxl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "The hidden reason why Monday of U.S. Open week is so much fun - Golf.com",
+                "description": "The hidden reason why Monday of U.S. Open week is so much fun  Golf.com",
+                "published date": "Mon, 10 Jun 2024 20:31:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZ29sZi5jb20vbmV3cy91LXMtb3Blbi1waW5laHVyc3QtYXJyaXZhbHMv0gEyaHR0cHM6Ly9nb2xmLmNvbS9uZXdzL3Utcy1vcGVuLXBpbmVodXJzdC1hcnJpdmFscy8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://golf.com",
+                    "title": "Golf.com"
+                }
+            },
+            {
+                "title": "Here's how much money the 2024 US Open champ will make - NBC Washington",
+                "description": "Here's how much money the 2024 US Open champ will make  NBC Washington",
+                "published date": "Wed, 12 Jun 2024 23:21:42 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5iY3dhc2hpbmd0b24uY29tL25ld3Mvc3BvcnRzL2dvbGYvdXMtb3Blbi1wdXJzZS1wcml6ZS1tb25leS1icmVha2Rvd24tMjAyNC8zNjM5NzYwL9IBZmh0dHBzOi8vd3d3Lm5iY3dhc2hpbmd0b24uY29tL25ld3Mvc3BvcnRzL2dvbGYvdXMtb3Blbi1wdXJzZS1wcml6ZS1tb25leS1icmVha2Rvd24tMjAyNC8zNjM5NzYwLz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcwashington.com",
+                    "title": "NBC Washington"
+                }
+            },
+            {
+                "title": "2024 U.S. Open odds, golf picks: Tiger Woods and Rory McIlroy predictions by model that hit the Masters, PGA - CBS Sports",
+                "description": "2024 U.S. Open odds, golf picks: Tiger Woods and Rory McIlroy predictions by model that hit the Masters, PGA  CBS Sports",
+                "published date": "Wed, 12 Jun 2024 19:10:25 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LXUtcy1vcGVuLW9kZHMtZ29sZi1waWNrcy10aWdlci13b29kcy1hbmQtcm9yeS1tY2lscm95LXByZWRpY3Rpb25zLWJ5LW1vZGVsLXRoYXQtaGl0LXRoZS1tYXN0ZXJzLXBnYS_SAZEBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9nb2xmL25ld3MvMjAyNC11LXMtb3Blbi1vZGRzLWdvbGYtcGlja3MtdGlnZXItd29vZHMtYW5kLXJvcnktbWNpbHJveS1wcmVkaWN0aW9ucy1ieS1tb2RlbC10aGF0LWhpdC10aGUtbWFzdGVycy1wZ2EvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "U.S. Open 2024: Our major championship idiot prognosticator makes an obvious choice (but not that obvious) - GolfDigest.com",
+                "description": "U.S. Open 2024: Our major championship idiot prognosticator makes an obvious choice (but not that obvious)  GolfDigest.com",
+                "published date": "Wed, 12 Jun 2024 14:31:10 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmdvbGZkaWdlc3QuY29tL3N0b3J5L3VzLW9wZW4tMjAyNC1tYWpvci1jaGFtcGlvbnNoaXAtcHJlZGljdGlvbi1zdXJlLXRvLWdvLXdyb25nLXhhbmRlci1zY2hhdWZmZWxl0gFyaHR0cHM6Ly93d3cuZ29sZmRpZ2VzdC5jb20vc3RvcnkvdXMtb3Blbi0yMDI0LW1ham9yLWNoYW1waW9uc2hpcC1wcmVkaWN0aW9uLXN1cmUtdG8tZ28td3JvbmcteGFuZGVyLXNjaGF1ZmZlbGUvYW1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.golfdigest.com",
+                    "title": "GolfDigest.com"
+                }
+            },
+            {
+                "title": "Looking ahead to the second round of the 2024 U.S. Open - ESPN",
+                "description": "Looking ahead to the second round of the 2024 U.S. Open  ESPN",
+                "published date": "Fri, 14 Jun 2024 01:36:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmVzcG4uY29tL2dvbGYvc3RvcnkvXy9pZC80MDM0NTk5OS91cy1vcGVuLTIwMjQtc2Vjb25kLXJvdW5kLWxvb2stYWhlYWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.espn.com",
                     "title": "ESPN"
                 }
             },
             {
-                "title": "Analysis: The chance was there for Dallas in Game 2, but Mavs now face even tougher road vs. Boston - The Associated Press",
-                "description": "Analysis: The chance was there for Dallas in Game 2, but Mavs now face even tougher road vs. Boston  The Associated Press",
-                "published date": "Mon, 10 Jun 2024 10:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtbWF2ZXJpY2tzLWNlbHRpY3MtM2RhYzA5NTllOWRiMGYxZjJiNDQzYTZiNzJkMjc3OGHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tiger Woods opens U.S. Open in 4-over 74 - PGA TOUR - PGA TOUR",
+                "description": "Tiger Woods opens U.S. Open in 4-over 74 - PGA TOUR  PGA TOUR",
+                "published date": "Thu, 13 Jun 2024 17:52:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnBnYXRvdXIuY29tL2FydGljbGUvbmV3cy9sYXRlc3QvMjAyNC8wNi8xMy90aWdlci13b29kcy1yb3VuZC0xLXVwZGF0ZXMtc2NvcmluZy11LXMtb3Blbi1waW5laHVyc3Qtbm8tMtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas - The Providence Journal",
-                "description": "NBA Finals: Celtics vs. Mavs in Game 4, possible last dance in Dallas  The Providence Journal",
-                "published date": "Thu, 13 Jun 2024 16:03:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5wcm92aWRlbmNlam91cm5hbC5jb20vc3Rvcnkvc3BvcnRzLzIwMjQvMDYvMTMvd2hlbi1pcy1nYW1lLTQtbmJhLWZpbmFscy1ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLzc0MDY4MTkwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.providencejournal.com",
-                    "title": "The Providence Journal"
-                }
-            },
-            {
-                "title": "Celtics vs Mavs score: Highlights from NBA Finals Game 3 - USA TODAY",
-                "description": "Celtics vs Mavs score: Highlights from NBA Finals Game 3  USA TODAY",
-                "published date": "Wed, 12 Jun 2024 21:39:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL25iYS9wbGF5b2Zmcy8yMDI0LzA2LzEyL2NlbHRpY3MtbWF2ZXJpY2tzLW5iYS1maW5hbHMtZ2FtZS0zLWxpdmUtdXBkYXRlcy1zY29yZS1oaWdobGlnaHRzLzc0MDQyODQzMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Dallas Mavericks to drop crates of fan gear at 3 sites - NBC DFW",
-                "description": "Dallas Mavericks to drop crates of fan gear at 3 sites  NBC DFW",
-                "published date": "Tue, 11 Jun 2024 19:02:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5iY2Rmdy5jb20vbmV3cy9sb2NhbC9kYWxsYXMtbWF2ZXJpY2tzLXRvLWRyb3AtY3JhdGVzLW9mLWZhbi1nZWFyLWF0LTMtc2l0ZXMvMzU2NDcyMy_SAWdodHRwczovL3d3dy5uYmNkZncuY29tL25ld3MvbG9jYWwvZGFsbGFzLW1hdmVyaWNrcy10by1kcm9wLWNyYXRlcy1vZi1mYW4tZ2Vhci1hdC0zLXNpdGVzLzM1NjQ3MjMvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcdfw.com",
-                    "title": "NBC DFW"
-                }
-            },
-            {
-                "title": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 4, TV schedule, times, odds, prediction - CBS Sports",
-                "description": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 4, TV schedule, times, odds, prediction  CBS Sports",
-                "published date": "Thu, 13 Jun 2024 15:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLWZpbmFscy13aGVyZS10by13YXRjaC1jZWx0aWNzLXZzLW1hdmVyaWNrcy1pbi1nYW1lLTQtdHYtc2NoZWR1bGUtdGltZXMtb2Rkcy1wcmVkaWN0aW9uL9IBhwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLWZpbmFscy13aGVyZS10by13YXRjaC1jZWx0aWNzLXZzLW1hdmVyaWNrcy1pbi1nYW1lLTQtdHYtc2NoZWR1bGUtdGltZXMtb2Rkcy1wcmVkaWN0aW9uL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
+                    "href": "https://www.pgatour.com",
+                    "title": "PGA TOUR"
                 }
             }
         ]
@@ -710,13 +816,13 @@
                 }
             },
             {
-                "title": "Florida Panthers pull away in third period to defeat Edmonton Oilers, take commanding 2-0 lead in Stanley Cup Final - CNN",
-                "description": "Florida Panthers pull away in third period to defeat Edmonton Oilers, take commanding 2-0 lead in Stanley Cup Final  CNN",
-                "published date": "Tue, 11 Jun 2024 09:43:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xMS9zcG9ydC9zdGFubGV5LWN1cC1wYW50aGVycy1vaWxlcnMtZ2FtZS0yLTIwMjQtc3B0LWludGwvaW5kZXguaHRtbNIBWWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMTEvc3BvcnQvc3RhbmxleS1jdXAtcGFudGhlcnMtb2lsZXJzLWdhbWUtMi0yMDI0LXNwdC1pbnRs?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "How to watch the Florida Panthers vs. Edmonton Oilers NHL Stanley Cup final tonight: Game 3 livestream options - CBS News",
+                "description": "How to watch the Florida Panthers vs. Edmonton Oilers NHL Stanley Cup final tonight: Game 3 livestream options  CBS News",
+                "published date": "Thu, 13 Jun 2024 14:55:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9lc3NlbnRpYWxzL2hvdy10by13YXRjaC10aGUtZmxvcmlkYS1wYW50aGVycy12cy1lZG1vbnRvbi1vaWxlcnMtbmhsLXN0YW5sZXktY3VwLWZpbmFsLXRvbmlnaHQtZ2FtZS0zLWxpdmVzdHJlYW0tb3B0aW9ucy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
@@ -742,19 +848,9 @@
         ]
     },
     {
-        "name": "Mavs vs Celtics",
+        "name": "Mavs",
         "summary": "",
         "items": [
-            {
-                "title": "Lessons from Celtics-Mavericks Game 1: Just win - Celtics Blog",
-                "description": "Lessons from Celtics-Mavericks Game 1: Just win  Celtics Blog",
-                "published date": "Sun, 09 Jun 2024 14:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jZWx0aWNzYmxvZy5jb20vMjAyNC82LzkvMjQxNzQ0MDYvbGVzc29ucy1ib3N0b24tY2VsdGljcy1kYWxsYXMtbWF2ZXJpY2tzLWdhbWUtMS1uYmEtZmluYWxzLWp1c3Qtd2luLWpheWxlbi1icm93bi1rcmlzdGFwcy1wb3J6aW5naXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.celticsblog.com",
-                    "title": "Celtics Blog"
-                }
-            },
             {
                 "title": "Celtics-Mavs: 3 potential adjustments before Game 3 of NBA Finals - NBA.com",
                 "description": "Celtics-Mavs: 3 potential adjustments before Game 3 of NBA Finals  NBA.com",
@@ -763,6 +859,16 @@
                 "publisher": {
                     "href": "https://www.nba.com",
                     "title": "NBA.com"
+                }
+            },
+            {
+                "title": "Game 2 preview: Mavericks need to relocate two old reliable friends - The Official Home of the Dallas Mavericks - Mavs.com",
+                "description": "Game 2 preview: Mavericks need to relocate two old reliable friends - The Official Home of the Dallas Mavericks  Mavs.com",
+                "published date": "Sat, 08 Jun 2024 23:09:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lm1hdnMuY29tL25iYS1maW5hbHMtZzItcHJldmlldy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.mavs.com",
+                    "title": "Mavs.com"
                 }
             },
             {
@@ -776,33 +882,13 @@
                 }
             },
             {
-                "title": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 3, TV schedule, times, odds, prediction - CBS Sports",
-                "description": "2024 NBA Finals: Where to watch Celtics vs. Mavericks in Game 3, TV schedule, times, odds, prediction  CBS Sports",
-                "published date": "Wed, 12 Jun 2024 15:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzLzIwMjQtbmJhLWZpbmFscy13aGVyZS10by13YXRjaC1jZWx0aWNzLXZzLW1hdmVyaWNrcy1pbi1nYW1lLTMtdHYtc2NoZWR1bGUtdGltZXMtb2Rkcy1wcmVkaWN0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead - Yahoo Sports",
+                "description": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead  Yahoo Sports",
+                "published date": "Thu, 13 Jun 2024 06:37:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9uYmEtZmluYWxzLTIwMjQtc2NvcmUtbGl2ZS11cGRhdGVzLWJvc3Rvbi1jZWx0aWNzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLWx1a2EtZG9uY2ljLWpheXNvbi10YXR1bS0yMzAyMjk5NTQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "'No panic' for Mavericks ahead of G2 vs. Celtics - ESPN",
-                "description": "'No panic' for Mavericks ahead of G2 vs. Celtics  ESPN",
-                "published date": "Sat, 08 Jun 2024 18:48:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMzA2MTYyL25vLXBhbmljLW1hdmVyaWNrcy1haGVhZC1nMi1uYmEtZmluYWxzLXZzLWNlbHRpY3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "NBA Finals Game 3 Celtics vs. Mavericks: Predictions, betting odds - USA TODAY",
-                "description": "NBA Finals Game 3 Celtics vs. Mavericks: Predictions, betting odds  USA TODAY",
-                "published date": "Wed, 12 Jun 2024 10:08:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhLzIwMjQvMDYvMTIvbmJhLWZpbmFscy0yMDI0LW1hdmVyaWNrcy12cy1jZWx0aWNzLWdhbWUtMy1wcmVkaWN0aW9ucy1vZGRzLzc0MDU4NzgwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
                 }
             },
             {
@@ -816,245 +902,53 @@
                 }
             },
             {
-                "title": "Celtics vs Mavericks prediction for game 3, plus odds - NorthJersey.com",
-                "description": "Celtics vs Mavericks prediction for game 3, plus odds  NorthJersey.com",
-                "published date": "Wed, 12 Jun 2024 08:02:54 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ub3J0aGplcnNleS5jb20vc3Rvcnkvc3BvcnRzL25iYS8yMDI0LzA2LzEyL2NlbHRpY3MtdnMtbWF2ZXJpY2tzLTIwMjQtbmJhLWZpbmFscy1nYW1lLTMtb2Rkcy1wcmVkaWN0aW9uLzc0MDU1MjUxMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Analysis: The chance was there for Dallas in Game 2, but Mavs now face even tougher road vs. Boston - The Associated Press",
+                "description": "Analysis: The chance was there for Dallas in Game 2, but Mavs now face even tougher road vs. Boston  The Associated Press",
+                "published date": "Mon, 10 Jun 2024 10:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25iYS1maW5hbHMtbWF2ZXJpY2tzLWNlbHRpY3MtM2RhYzA5NTllOWRiMGYxZjJiNDQzYTZiNzJkMjc3OGHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.northjersey.com",
-                    "title": "NorthJersey.com"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             },
             {
-                "title": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead - Yahoo Sports",
-                "description": "NBA Finals: Celtics survive Mavericks comeback to take 3-0 series lead  Yahoo Sports",
-                "published date": "Thu, 13 Jun 2024 06:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9uYmEtZmluYWxzLTIwMjQtc2NvcmUtbGl2ZS11cGRhdGVzLWJvc3Rvbi1jZWx0aWNzLWRhbGxhcy1tYXZlcmlja3MtZ2FtZS0zLWx1a2EtZG9uY2ljLWpheXNvbi10YXR1bS0yMzAyMjk5NTQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Celtics beat Mavs in Game 3 of Finals, move one win from title - ESPN",
+                "description": "Celtics beat Mavs in Game 3 of Finals, move one win from title  ESPN",
+                "published date": "Thu, 13 Jun 2024 03:25:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMzM4OTQyL2NlbHRpY3MtYmVhdC1tYXZzLWdhbWUtMy1maW5hbHMtbW92ZS1vbmUtd2luLXRpdGxl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
                 }
             },
             {
-                "title": "Celtics at Mavericks NBA Finals Game 3 odds, expert picks: A Dallas gut-check at home - The New York Times",
-                "description": "Celtics at Mavericks NBA Finals Game 3 odds, expert picks: A Dallas gut-check at home  The New York Times",
-                "published date": "Wed, 12 Jun 2024 13:30:13 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTQzMzQvMjAyNC8wNi8xMi9jZWx0aWNzLW1hdmVyaWNrcy1uYmEtZmluYWxzLWdhbWUtMy1vZGRzLXBpY2tzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Mavs lost Game 1. Here's why you shouldn't panic - KERA News",
+                "description": "Mavs lost Game 1. Here's why you shouldn't panic  KERA News",
+                "published date": "Fri, 07 Jun 2024 17:13:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmtlcmFuZXdzLm9yZy9zcG9ydHMvMjAyNC0wNi0wNy9tYXZzLWxvc3QtZ2FtZS0xLWhlcmVzLXdoeS15b3Utc2hvdWxkbnQtcGFuaWPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.keranews.org",
+                    "title": "KERA News"
+                }
+            },
+            {
+                "title": "How the Celtics get their transition 3s against the Mavs and why it's important - The New York Times",
+                "description": "How the Celtics get their transition 3s against the Mavs and why it's important  The New York Times",
+                "published date": "Wed, 12 Jun 2024 14:04:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTY5OTgvMjAyNC8wNi8xMi9uYmEtZmluYWxzLWNlbHRpY3MtbWF2ZXJpY2tzLTMtcG9pbnQtc2hvb3Rpbmcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nytimes.com",
                     "title": "The New York Times"
                 }
-            }
-        ]
-    },
-    {
-        "name": "The Boys",
-        "summary": "",
-        "items": [
-            {
-                "title": "'The Boys' Season 4 Doubles Down On One Of Its Biggest Problems - Forbes",
-                "description": "'The Boys' Season 4 Doubles Down On One Of Its Biggest Problems  Forbes",
-                "published date": "Wed, 12 Jun 2024 15:51:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcGF1bHRhc3NpLzIwMjQvMDYvMTIvdGhlLWJveXMtc2Vhc29uLTQtZG91Ymxlcy1kb3duLW9uLW9uZS1vZi1pdHMtYmlnZ2VzdC1wcm9ibGVtcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
             },
             {
-                "title": "'The Boys' Recap, Season 4, Episode 3 - Vulture",
-                "description": "'The Boys' Recap, Season 4, Episode 3  Vulture",
-                "published date": "Thu, 13 Jun 2024 20:41:31 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnZ1bHR1cmUuY29tL2FydGljbGUvdGhlLWJveXMtcmVjYXAtc2Vhc29uLTQtZXBpc29kZS0zLXdlbGwta2VlcC10aGUtcmVkLWZsYWctZmx5aW5nLWhlcmUuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.vulture.com",
-                    "title": "Vulture"
-                }
-            },
-            {
-                "title": "\u2018The Boys\u2019 to End With Season 5 on Amazon - Variety",
-                "description": "\u2018The Boys\u2019 to End With Season 5 on Amazon  Variety",
-                "published date": "Tue, 11 Jun 2024 15:03:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RoZS1ib3lzLXNlYXNvbi01LWZpbmFsLXNlYXNvbi0xMjM2MDMzNDE4L9IBT2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RoZS1ib3lzLXNlYXNvbi01LWZpbmFsLXNlYXNvbi0xMjM2MDMzNDE4L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "'The Boys' Season 4 Review: Depravity & The Best Story Yet - UPROXX",
-                "description": "'The Boys' Season 4 Review: Depravity & The Best Story Yet  UPROXX",
-                "published date": "Tue, 11 Jun 2024 13:00:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vdXByb3h4LmNvbS90di90aGUtYm95cy1zZWFzb24tNC1yZXZpZXctYW1hem9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://uproxx.com",
-                    "title": "UPROXX"
-                }
-            },
-            {
-                "title": "When is 'The Boys' Season 4 coming out? Date, cast, trailer, how to watch - El Paso Times",
-                "description": "When is 'The Boys' Season 4 coming out? Date, cast, trailer, how to watch  El Paso Times",
-                "published date": "Tue, 11 Jun 2024 20:24:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5lbHBhc290aW1lcy5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC90ZWxldmlzaW9uLzIwMjQvMDYvMTEvdGhlLWJveXMtc2Vhc29uLTQtZGF0ZS1jYXN0LWhvdy10by13YXRjaC1zdHJlYW0vNzQwNjI0NjIwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.elpasotimes.com",
-                    "title": "El Paso Times"
-                }
-            },
-            {
-                "title": "'The Boys' Release Schedule: When Do New Episodes Come Out? - Esquire",
-                "description": "'The Boys' Release Schedule: When Do New Episodes Come Out?  Esquire",
-                "published date": "Tue, 11 Jun 2024 19:48:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmVzcXVpcmUuY29tL2VudGVydGFpbm1lbnQvdHYvYTYxMDczNzE5L3RoZS1ib3lzLXNlYXNvbi1hbWF6b24tcHJpbWUtcmVsZWFzZS1zY2hlZHVsZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.esquire.com",
-                    "title": "Esquire"
-                }
-            },
-            {
-                "title": "'The Boys' Season 4 Review: Insanity Reigns Supreme - The Cosmic Circus",
-                "description": "'The Boys' Season 4 Review: Insanity Reigns Supreme  The Cosmic Circus",
-                "published date": "Thu, 13 Jun 2024 14:11:18 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGhlY29zbWljY2lyY3VzLmNvbS90aGUtYm95cy1zZWFzb24tNC1yZXZpZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://thecosmiccircus.com",
-                    "title": "The Cosmic Circus"
-                }
-            },
-            {
-                "title": "For Eric Kripke, \u2018The Boys\u2019 Was Always About Trumpism - Hollywood Reporter",
-                "description": "For Eric Kripke, \u2018The Boys\u2019 Was Always About Trumpism  Hollywood Reporter",
-                "published date": "Fri, 07 Jun 2024 16:00:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYm95cy1zaG93cnVubmVyLWVyaWsta3JpcGtlLWludGVydmlldy10cnVtcGlzbS0xMjM1OTE0NjQyL9IBc2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYm95cy1zaG93cnVubmVyLWVyaWsta3JpcGtlLWludGVydmlldy10cnVtcGlzbS0xMjM1OTE0NjQyL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.hollywoodreporter.com",
-                    "title": "Hollywood Reporter"
-                }
-            },
-            {
-                "title": "Is 'The Boys' Secretly the Best Show on TV? - Rolling Stone",
-                "description": "Is 'The Boys' Secretly the Best Show on TV?  Rolling Stone",
-                "published date": "Thu, 13 Jun 2024 15:35:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vdHYtbW92aWVzL3R2LW1vdmllLWZlYXR1cmVzL3RoZS1ib3lzLXNlYXNvbi1mb3VyLWV4cGxhaW5lZC1pbnRlcnZpZXctaG9tZWxhbmRlci0xMjM1MDM2NDk1L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.rollingstone.com",
-                    "title": "Rolling Stone"
-                }
-            },
-            {
-                "title": "'The Boys' Is Bleaker Than Ever in Season 4 - Vanity Fair",
-                "description": "'The Boys' Is Bleaker Than Ever in Season 4  Vanity Fair",
-                "published date": "Wed, 12 Jun 2024 15:07:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnZhbml0eWZhaXIuY29tL2hvbGx5d29vZC9zdG9yeS90aGUtYm95cy1zZWFzb24tZm91ci1hbWF6b24tcmV2aWV30gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.vanityfair.com",
-                    "title": "Vanity Fair"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Dream vs Fever",
-        "summary": "",
-        "items": [
-            {
-                "title": "Caitlin Clark back on the court: How to watch Indiana Fever vs. Atlanta Dream on Thursday - USA TODAY",
-                "description": "Caitlin Clark back on the court: How to watch Indiana Fever vs. Atlanta Dream on Thursday  USA TODAY",
-                "published date": "Thu, 13 Jun 2024 11:05:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvd25iYS9mZXZlci8yMDI0LzA2LzEzL2NhaXRsaW4tY2xhcmstaW5kaWFuYS1mZXZlci1hdGxhbnRhLWRyZWFtLWhvdy10by13YXRjaC83NDA3NjgyNDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Celtics vs Mavs score: Highlights from NBA Finals Game 3 - USA TODAY",
+                "description": "Celtics vs Mavs score: Highlights from NBA Finals Game 3  USA TODAY",
+                "published date": "Thu, 13 Jun 2024 05:26:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL25iYS9wbGF5b2Zmcy8yMDI0LzA2LzEyL2NlbHRpY3MtbWF2ZXJpY2tzLW5iYS1maW5hbHMtZ2FtZS0zLWxpdmUtdXBkYXRlcy1zY29yZS1oaWdobGlnaHRzLzc0MDQyODQzMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Fever vs. Dream Prediction & Game Info - June 13 - SFGATE",
-                "description": "Fever vs. Dream Prediction & Game Info - June 13  SFGATE",
-                "published date": "Fri, 14 Jun 2024 03:52:03 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnNmZ2F0ZS5jb20vc3BvcnRzL3dhdGNoaW5nLWdhbWVzL2FydGljbGUvZmV2ZXItZHJlYW0td25iYS1wcmVkaWN0aW9uLTYtMTMtMjAyNC0xOTUxMDEyMC5waHDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.sfgate.com",
-                    "title": "SFGATE"
-                }
-            },
-            {
-                "title": "Atlanta Dream vs. Indiana Fever: game preview - Peachtree Hoops",
-                "description": "Atlanta Dream vs. Indiana Fever: game preview  Peachtree Hoops",
-                "published date": "Thu, 13 Jun 2024 22:07:29 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnBlYWNodHJlZWhvb3BzLmNvbS8yMDI0LzYvMTMvMjQxNzc3MDQvYXRsYW50YS1kcmVhbS1pbmRpYW5hLWZldmVyLWdhbWUtcHJldmlldy13bmJhLWxhdGVzdC1uZXdzLW5vdGVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.peachtreehoops.com",
-                    "title": "Peachtree Hoops"
-                }
-            },
-            {
-                "title": "Aliyah Boston, Kelsey Mitchell lead Indiana Fever win over Dream - IndyStar",
-                "description": "Aliyah Boston, Kelsey Mitchell lead Indiana Fever win over Dream  IndyStar",
-                "published date": "Thu, 13 Jun 2024 23:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3Rvcnkvc3BvcnRzL2Jhc2tldGJhbGwvd25iYS9mZXZlci8yMDI0LzA2LzEzL2luZGlhbmEtZmV2ZXItY2FpdGxpbi1jbGFyay12cy1hdGxhbnRhLWRyZWFtLXNjb3JlLXVwZGF0ZXMtaGlnaGxpZ2h0cy1pbi13bmJhLWFjdGlvbi83NDA4MjkwMzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.indystar.com",
-                    "title": "IndyStar"
-                }
-            },
-            {
-                "title": "How to watch today's Indiana Fever vs Atlanta Dream WNBA game: Live stream, TV channel, and start time - Goal.com",
-                "description": "How to watch today's Indiana Fever vs Atlanta Dream WNBA game: Live stream, TV channel, and start time  Goal.com",
-                "published date": "Thu, 13 Jun 2024 11:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmdvYWwuY29tL2VuLXVzL25ld3MvZmV2ZXItdnMtZHJlYW0td2F0Y2gtc3RyZWFtLXduYmEtZ2FtZS9ibHQ3NGJkNDZjOTQ1NTNkMGZm0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.goal.com",
-                    "title": "Goal.com"
-                }
-            },
-            {
-                "title": "Dream vs. Fever Prediction, Expert Picks & WNBA Odds for Thursday - Sportsbook Review",
-                "description": "Dream vs. Fever Prediction, Expert Picks & WNBA Odds for Thursday  Sportsbook Review",
-                "published date": "Wed, 12 Jun 2024 18:17:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnNwb3J0c2Jvb2tyZXZpZXcuY29tL3BpY2tzL21vcmUtc3BvcnRzL2RyZWFtLXZzLWZldmVyLXByZWRpY3Rpb24tZXhwZXJ0LXBpY2tzLXduYmEtb2Rkcy1qdW5lLTEzLTIwMjQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.sportsbookreview.com",
-                    "title": "Sportsbook Review"
-                }
-            },
-            {
-                "title": "Atlanta Dream vs. Indiana Fever Prediction, Odds and Game Preview - June 13 - Lineups",
-                "description": "Atlanta Dream vs. Indiana Fever Prediction, Odds and Game Preview - June 13  Lineups",
-                "published date": "Wed, 12 Jun 2024 20:26:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmxpbmV1cHMuY29tL2FydGljbGVzL2RyZWFtLXZzLWZldmVyLXduYmEtYmVzdC1iZXRzLXByZWRpY3Rpb25zLTYtMTMtMjAyNC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.lineups.com",
-                    "title": "Lineups"
-                }
-            },
-            {
-                "title": "Dream vs Fever Predictions, Picks & Odds \u2013 6-13 - Covers",
-                "description": "Dream vs Fever Predictions, Picks & Odds \u2013 6-13  Covers",
-                "published date": "Thu, 13 Jun 2024 16:29:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNvdmVycy5jb20vd25iYS9kcmVhbS12cy1mZXZlci1wcmVkaWN0aW9ucy1waWNrcy10aHVyc2RheS02LTEzLTIwMjTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.covers.com",
-                    "title": "Covers"
-                }
-            },
-            {
-                "title": "Dream vs. Fever WNBA prediction sees Caitlin Clark projected for 24-6-7 stat line (6/13/2024) - syracuse.com",
-                "description": "Dream vs. Fever WNBA prediction sees Caitlin Clark projected for 24-6-7 stat line (6/13/2024)  syracuse.com",
-                "published date": "Thu, 13 Jun 2024 13:45:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5zeXJhY3VzZS5jb20vYmV0dGluZy8yMDI0LzA2L2RyZWFtLXZzLWZldmVyLXdubmEtcHJlZGljdGlvbi1zZWVzLWNhaXRsaW4tY2xhcmstcHJvamVjdGVkLWZvci0yNC02LTctc3RhdC1saW5lLTYxMzIwMjQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.syracuse.com",
-                    "title": "syracuse.com"
-                }
-            },
-            {
-                "title": "Atlanta Dream vs Indiana Fever Prediction and Picks for June 13 2024 - Winners and Whiners",
-                "description": "Atlanta Dream vs Indiana Fever Prediction and Picks for June 13 2024  Winners and Whiners",
-                "published date": "Thu, 13 Jun 2024 02:46:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd2lubmVyc2FuZHdoaW5lcnMuY29tL2dhbWVzL3duYmEvNi0xMy0yMDI0L2F0bGFudGEtZHJlYW0tdnMtaW5kaWFuYS1mZXZlci1wcmVkaWN0aW9uLTIwNjUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://winnersandwhiners.com",
-                    "title": "Winners and Whiners"
                 }
             }
         ]
@@ -1063,16 +957,6 @@
         "name": "Fort Lauderdale state of emergency",
         "summary": "",
         "items": [
-            {
-                "title": "Florida's 2024 hurricane season arrives with a rainy deluge - The Associated Press",
-                "description": "Florida's 2024 hurricane season arrives with a rainy deluge  The Associated Press",
-                "published date": "Thu, 13 Jun 2024 09:27:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3JhaW4tZmxvcmlkYS1mbG9vZGluZy1odXJyaWNhbmUtc2Vhc29uLWEzNzYzMTkwMmUxMTljMDAzNmQxZmQ1MWRhMmRiYTE10gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
             {
                 "title": "Fort Lauderdale mayor declares state of emergency due to severe weather in South Florida - WPLG Local 10",
                 "description": "Fort Lauderdale mayor declares state of emergency due to severe weather in South Florida  WPLG Local 10",
@@ -1104,16 +988,6 @@
                 }
             },
             {
-                "title": "What parts of Florida flooded? Here are the five counties under a state of emergency, photos - Palm Beach Post",
-                "description": "What parts of Florida flooded? Here are the five counties under a state of emergency, photos  Palm Beach Post",
-                "published date": "Thu, 13 Jun 2024 19:01:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5wYWxtYmVhY2hwb3N0LmNvbS9zdG9yeS9uZXdzLzIwMjQvMDYvMTMvc291dGgtZmxvcmlkYS1jb3VudGllcy1mbGFzaC1mbG9vZHMtZmxvb2RpbmctcGhvdG9zLXN0YXRlLWVtZXJnZW5jeS83NDA4NDU4MzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.palmbeachpost.com",
-                    "title": "Palm Beach Post"
-                }
-            },
-            {
                 "title": "Florida in state of emergency after rain brings flash floods: photos - USA TODAY",
                 "description": "Florida in state of emergency after rain brings flash floods: photos  USA TODAY",
                 "published date": "Thu, 13 Jun 2024 14:23:14 GMT",
@@ -1124,10 +998,20 @@
                 }
             },
             {
-                "title": "Fort Lauderdale and Hollywood declare state of emergency as torrential rains flood roads - Miami Herald",
-                "description": "Fort Lauderdale and Hollywood declare state of emergency as torrential rains flood roads  Miami Herald",
+                "title": "What parts of Florida flooded? Here are the five counties under a state of emergency, photos - Palm Beach Post",
+                "description": "What parts of Florida flooded? Here are the five counties under a state of emergency, photos  Palm Beach Post",
+                "published date": "Thu, 13 Jun 2024 19:01:43 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5wYWxtYmVhY2hwb3N0LmNvbS9zdG9yeS9uZXdzLzIwMjQvMDYvMTMvc291dGgtZmxvcmlkYS1jb3VudGllcy1mbGFzaC1mbG9vZHMtZmxvb2RpbmctcGhvdG9zLXN0YXRlLWVtZXJnZW5jeS83NDA4NDU4MzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.palmbeachpost.com",
+                    "title": "Palm Beach Post"
+                }
+            },
+            {
+                "title": "Broward weather: Fort Lauderdale declares state of emergency - Miami Herald",
+                "description": "Broward weather: Fort Lauderdale declares state of emergency  Miami Herald",
                 "published date": "Wed, 12 Jun 2024 21:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2NvbW11bml0eS9icm93YXJkL2FydGljbGUyODkyMjUzNTkuaHRtbNIBTmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2NvbW11bml0eS9icm93YXJkL2FydGljbGUyODkyMjUzNTkuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2NvbW11bml0eS9icm93YXJkL2FydGljbGUyODkyMjUzNTkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.miamiherald.com",
                     "title": "Miami Herald"
@@ -1162,6 +1046,16 @@
                     "href": "https://hoodline.com",
                     "title": "Hoodline"
                 }
+            },
+            {
+                "title": "Miami Weather, Florida Flooding Cause Flight Delays - The Weather Channel",
+                "description": "Miami Weather, Florida Flooding Cause Flight Delays  The Weather Channel",
+                "published date": "Thu, 13 Jun 2024 21:04:10 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd2VhdGhlci5jb20vbmV3cy93ZWF0aGVyL25ld3MvMjAyNC0wNi0xMy1mbG9yaWRhLWZsb29kaW5nLXJhaW4tbWlhbWktZm9ydC1sYXVkZXJkYWxlLWVtZXJnZW5jedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://weather.com",
+                    "title": "The Weather Channel"
+                }
             }
         ]
     },
@@ -1190,16 +1084,6 @@
                 }
             },
             {
-                "title": "Conor McGregor vs. Michael Chandler UFC 303 Fight Canceled; New Main Event Revealed - Bleacher Report",
-                "description": "Conor McGregor vs. Michael Chandler UFC 303 Fight Canceled; New Main Event Revealed  Bleacher Report",
-                "published date": "Fri, 14 Jun 2024 03:08:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0NzU5LWNvbm9yLW1jZ3JlZ29yLXZzLW1pY2hhZWwtY2hhbmRsZXItdWZjLTMwMy1maWdodC1jYW5jZWxlZC1uZXctbWFpbi1ldmVudC1yZXZlYWxlZNIBjgFodHRwczovL3N5bmRpY2F0aW9uLmJsZWFjaGVycmVwb3J0LmNvbS9hbXAvMTAxMjQ3NTktY29ub3ItbWNncmVnb3ItdnMtbWljaGFlbC1jaGFuZGxlci11ZmMtMzAzLWZpZ2h0LWNhbmNlbGVkLW5ldy1tYWluLWV2ZW50LXJldmVhbGVkLmFtcC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
                 "title": "What's the latest update on UFC 303: Conor McGregor vs. Michael Chandler? - DAZN",
                 "description": "What's the latest update on UFC 303: Conor McGregor vs. Michael Chandler?  DAZN",
                 "published date": "Sun, 09 Jun 2024 02:13:24 GMT",
@@ -1207,46 +1091,6 @@
                 "publisher": {
                     "href": "https://www.dazn.com",
                     "title": "DAZN"
-                }
-            },
-            {
-                "title": "Conor McGregor's UFC 303 fight getting canceled is 'just a formality' - New York Post",
-                "description": "Conor McGregor's UFC 303 fight getting canceled is 'just a formality'  New York Post ",
-                "published date": "Thu, 13 Jun 2024 17:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzEzL3Nwb3J0cy9jb25vci1tY2dyZWdvcnMtdWZjLTMwMy1maWdodC1nZXR0aW5nLWNhbmNlbGVkLWp1c3QtYS1mb3JtYWxpdHkv0gFpaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDYvMTMvc3BvcnRzL2Nvbm9yLW1jZ3JlZ29ycy11ZmMtMzAzLWZpZ2h0LWdldHRpbmctY2FuY2VsZWQtanVzdC1hLWZvcm1hbGl0eS9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
-                "title": "Dana White -- Conor McGregor-Michael Chandler UFC 303 fight off - ESPN",
-                "description": "Dana White -- Conor McGregor-Michael Chandler UFC 303 fight off  ESPN",
-                "published date": "Fri, 14 Jun 2024 02:57:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVzcG4uY29tL21tYS9zdG9yeS9fL2lkLzQwMzQ2OTE3L2RhbmEtd2hpdGUtc2F5cy1tY2dyZWdvci1jaGFuZGxlci11ZmMtMzAzLWZpZ2h0LW5vdy1vZmbSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "Conor McGregor's UFC return appears to be getting canceled: 'Just a formality at this point' - Fox News",
-                "description": "Conor McGregor's UFC return appears to be getting canceled: 'Just a formality at this point'  Fox News",
-                "published date": "Thu, 13 Jun 2024 19:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9jb25vci1tY2dyZWdvcnMtdWZjLXJldHVybi1hcHBlYXJzLWdldHRpbmctY2FuY2VsZWQtanVzdC1mb3JtYWxpdHktcG9pbnTSAWtodHRwczovL3d3dy5mb3huZXdzLmNvbS9zcG9ydHMvY29ub3ItbWNncmVnb3JzLXVmYy1yZXR1cm4tYXBwZWFycy1nZXR0aW5nLWNhbmNlbGVkLWp1c3QtZm9ybWFsaXR5LXBvaW50LmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxnews.com",
-                    "title": "Fox News"
-                }
-            },
-            {
-                "title": "UFC 303 News: Michael Chandler Shares Massive Update on Conor McGregor Fight - Sports Illustrated",
-                "description": "UFC 303 News: Michael Chandler Shares Massive Update on Conor McGregor Fight  Sports Illustrated",
-                "published date": "Sat, 08 Jun 2024 01:02:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vbW1hL25ld3MvdWZjLTMwMy1uZXdzLW1pY2hhZWwtY2hhbmRsZXItc2hhcmVzLW1hc3NpdmUtdXBkYXRlLW9uLWNvbm9yLW1jZ3JlZ29yLWZpZ2h0LdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
                 }
             },
             {
@@ -1260,13 +1104,63 @@
                 }
             },
             {
-                "title": "Conor McGregor vs. Michael Chandler explained: What we know about the uncertainty with UFC 303's main event - CBS Sports",
-                "description": "Conor McGregor vs. Michael Chandler explained: What we know about the uncertainty with UFC 303's main event  CBS Sports",
-                "published date": "Tue, 11 Jun 2024 21:17:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21tYS9uZXdzL2Nvbm9yLW1jZ3JlZ29yLXZzLW1pY2hhZWwtY2hhbmRsZXItZXhwbGFpbmVkLXdoYXQtd2Uta25vdy1hYm91dC10aGUtdW5jZXJ0YWludHktd2l0aC11ZmMtMzAzcy1tYWluLWV2ZW50L9IBkAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21tYS9uZXdzL2Nvbm9yLW1jZ3JlZ29yLXZzLW1pY2hhZWwtY2hhbmRsZXItZXhwbGFpbmVkLXdoYXQtd2Uta25vdy1hYm91dC10aGUtdW5jZXJ0YWludHktd2l0aC11ZmMtMzAzcy1tYWluLWV2ZW50L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Conor McGregor Is Out And UFC 303 Main Card Gets A Massive Overhaul - Forbes",
+                "description": "Conor McGregor Is Out And UFC 303 Main Card Gets A Massive Overhaul  Forbes",
+                "published date": "Fri, 14 Jun 2024 04:14:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJpYW5tYXppcXVlLzIwMjQvMDYvMTQvY29ub3ItbWNncmVnb3ItaXMtb3V0LWFuZC11ZmMtMzAzLW1haW4tY2FyZC1nZXRzLWEtbWFzc2l2ZS1vdmVyaGF1bC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
+                "title": "Conor McGregor's UFC 303 fight getting canceled is 'just a formality' - New York Post",
+                "description": "Conor McGregor's UFC 303 fight getting canceled is 'just a formality'  New York Post ",
+                "published date": "Thu, 13 Jun 2024 17:08:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzEzL3Nwb3J0cy9jb25vci1tY2dyZWdvcnMtdWZjLTMwMy1maWdodC1nZXR0aW5nLWNhbmNlbGVkLWp1c3QtYS1mb3JtYWxpdHkv0gFpaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjQvMDYvMTMvc3BvcnRzL2Nvbm9yLW1jZ3JlZ29ycy11ZmMtMzAzLWZpZ2h0LWdldHRpbmctY2FuY2VsZWQtanVzdC1hLWZvcm1hbGl0eS9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
+            },
+            {
+                "title": "Dana White - Conor McGregor-Michael Chandler UFC 303 fight off - ESPN",
+                "description": "Dana White - Conor McGregor-Michael Chandler UFC 303 fight off  ESPN",
+                "published date": "Fri, 14 Jun 2024 02:57:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVzcG4uY29tL21tYS9zdG9yeS9fL2lkLzQwMzQ2OTE3L2RhbmEtd2hpdGUtc2F5cy1tY2dyZWdvci1jaGFuZGxlci11ZmMtMzAzLWZpZ2h0LW5vdy1vZmbSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "Conor McGregor withdraws from UFC 303 main event vs. Michael Chandler due to injury - Yahoo Sports",
+                "description": "Conor McGregor withdraws from UFC 303 main event vs. Michael Chandler due to injury  Yahoo Sports",
+                "published date": "Fri, 14 Jun 2024 03:19:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9jb25vci1tY2dyZWdvci13aXRoZHJhd3MtZnJvbS11ZmMtMzAzLW1haW4tZXZlbnQtdnMtbWljaGFlbC1jaGFuZGxlci1kdWUtdG8taW5qdXJ5LTAyNDMxMzA0OC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "Conor McGregor's UFC return appears to be getting canceled: 'Just a formality at this point' - Fox News",
+                "description": "Conor McGregor's UFC return appears to be getting canceled: 'Just a formality at this point'  Fox News",
+                "published date": "Thu, 13 Jun 2024 19:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9jb25vci1tY2dyZWdvcnMtdWZjLXJldHVybi1hcHBlYXJzLWdldHRpbmctY2FuY2VsZWQtanVzdC1mb3JtYWxpdHktcG9pbnTSAWtodHRwczovL3d3dy5mb3huZXdzLmNvbS9zcG9ydHMvY29ub3ItbWNncmVnb3JzLXVmYy1yZXR1cm4tYXBwZWFycy1nZXR0aW5nLWNhbmNlbGVkLWp1c3QtZm9ybWFsaXR5LXBvaW50LmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.foxnews.com",
+                    "title": "Fox News"
+                }
+            },
+            {
+                "title": "Conor McGregor vs. Michael Chandler UFC 303 Fight Canceled; New Main Event Revealed - Bleacher Report",
+                "description": "Conor McGregor vs. Michael Chandler UFC 303 Fight Canceled; New Main Event Revealed  Bleacher Report",
+                "published date": "Fri, 14 Jun 2024 08:08:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0NzU5LWNvbm9yLW1jZ3JlZ29yLXZzLW1pY2hhZWwtY2hhbmRsZXItdWZjLTMwMy1maWdodC1jYW5jZWxlZC1uZXctbWFpbi1ldmVudC1yZXZlYWxlZNIBjgFodHRwczovL3N5bmRpY2F0aW9uLmJsZWFjaGVycmVwb3J0LmNvbS9hbXAvMTAxMjQ3NTktY29ub3ItbWNncmVnb3ItdnMtbWljaGFlbC1jaGFuZGxlci11ZmMtMzAzLWZpZ2h0LWNhbmNlbGVkLW5ldy1tYWluLWV2ZW50LXJldmVhbGVkLmFtcC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
                 }
             }
         ]
@@ -1286,16 +1180,6 @@
                 }
             },
             {
-                "title": "How Luka Don\u010di\u0107, Kyrie Irving became 'connected for the rest of their lives' - The Athletic - The New York Times",
-                "description": "How Luka Don\u010di\u0107, Kyrie Irving became 'connected for the rest of their lives' - The Athletic  The New York Times",
-                "published date": "Fri, 07 Jun 2024 09:03:42 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NDcwMzcvMjAyNC8wNi8wNy9sdWthLWRvbmNpYy1reXJpZS1pcnZpbmctcmVsYXRpb25zaGlwLW1hdmVyaWNrcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
                 "title": "Where Does Luka Don\u010di\u0107 Live? - Architectural Digest",
                 "description": "Where Does Luka Don\u010di\u0107 Live?  Architectural Digest",
                 "published date": "Tue, 11 Jun 2024 15:52:52 GMT",
@@ -1303,6 +1187,16 @@
                 "publisher": {
                     "href": "https://www.architecturaldigest.com",
                     "title": "Architectural Digest"
+                }
+            },
+            {
+                "title": "Don\u010di\u0107 on fouling out: 'We couldn't play physical' - The New York Times",
+                "description": "Don\u010di\u0107 on fouling out: 'We couldn't play physical'  The New York Times",
+                "published date": "Thu, 13 Jun 2024 04:34:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NjA2MTYvMjAyNC8wNi8xMy9sdWthLWRvbmNpYy1mb3VsLW91dC1nYW1lLTMtY2VsdGljcy1tYXZlcmlja3MtbmJhLWZpbmFscy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
                 }
             },
             {
@@ -1318,7 +1212,7 @@
             {
                 "title": "Luka Don\u010di\u0107 Says He Apologized to Mavs After Fouling Out in Game 3 of NBA Finals - Bleacher Report",
                 "description": "Luka Don\u010di\u0107 Says He Apologized to Mavs After Fouling Out in Game 3 of NBA Finals  Bleacher Report",
-                "published date": "Thu, 13 Jun 2024 20:48:45 GMT",
+                "published date": "Thu, 13 Jun 2024 20:55:08 GMT",
                 "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0NzEwLWx1a2EtZG9uY2ljLXNheXMtaGUtYXBvbG9naXplZC10by1tYXZzLWFmdGVyLWZvdWxpbmctb3V0LWluLWdhbWUtMy1vZi1uYmEtZmluYWxz0gGNAWh0dHBzOi8vc3luZGljYXRpb24uYmxlYWNoZXJyZXBvcnQuY29tL2FtcC8xMDEyNDcxMC1sdWthLWRvbmNpYy1zYXlzLWhlLWFwb2xvZ2l6ZWQtdG8tbWF2cy1hZnRlci1mb3VsaW5nLW91dC1pbi1nYW1lLTMtb2YtbmJhLWZpbmFscy5hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://bleacherreport.com",
@@ -1326,10 +1220,20 @@
                 }
             },
             {
-                "title": "Criticism of Luka Doncic mounting with each Mavericks loss in NBA Finals - USA TODAY",
-                "description": "Criticism of Luka Doncic mounting with each Mavericks loss in NBA Finals  USA TODAY",
-                "published date": "Thu, 13 Jun 2024 10:48:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL25iYS9wbGF5b2Zmcy8yMDI0LzA2LzEzL2x1a2EtZG9uY2ljLWNyaXRpY2lzbS1tb3VudGluZy1tYXZlcmlja3MtY2VsdGljcy1uYmEtZmluYWxzLzc0MDgxMzA0MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Luka Doncic Makes Honest Statement Before Dallas Mavericks Play Game 4 - Sports Illustrated",
+                "description": "Luka Doncic Makes Honest Statement Before Dallas Mavericks Play Game 4  Sports Illustrated",
+                "published date": "Thu, 13 Jun 2024 22:26:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vbmJhL2Zhc3RicmVhay9sdWthLWRvbmNpYy1tYWtlcy1ob25lc3Qtc3RhdGVtZW50LWJlZm9yZS1kYWxsYXMtbWF2ZXJpY2tzLXBsYXktZ2FtZS00LW5iYS1maW5hbHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "Luka Doncic has NBA Finals triple-double while playing with injuries - USA TODAY",
+                "description": "Luka Doncic has NBA Finals triple-double while playing with injuries  USA TODAY",
+                "published date": "Tue, 11 Jun 2024 21:45:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL3BsYXlvZmZzLzIwMjQvMDYvMTAvbHVrYS1kb25jaWMtbmJhLWZpbmFscy10cmlwbGUtZG91YmxlLzc0MDQwOTIwMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
@@ -1346,16 +1250,6 @@
                 }
             },
             {
-                "title": "Luka Don\u010di\u0107 reportedly had pain-killing injection ahead of NBA Finals Game 2, likely needs another for Game 3 - Yahoo Sports",
-                "description": "Luka Don\u010di\u0107 reportedly had pain-killing injection ahead of NBA Finals Game 2, likely needs another for Game 3  Yahoo Sports",
-                "published date": "Wed, 12 Jun 2024 12:47:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbHVrYS1kb25jaWMtcmVwb3J0ZWRseS1oYWQtcGFpbi1raWxsaW5nLWluamVjdGlvbi1haGVhZC1vZi1uYmEtZmluYWxzLWdhbWUtMi1saWtlbHktbmVlZHMtYW5vdGhlci1mb3ItZ2FtZS0zLTE4MjMxMjU2MS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
-                }
-            },
-            {
                 "title": "Mavs' Luka Doncic gripes about refs after fouling out in Game 3 - ESPN",
                 "description": "Mavs' Luka Doncic gripes about refs after fouling out in Game 3  ESPN",
                 "published date": "Thu, 13 Jun 2024 05:56:00 GMT",
@@ -1366,13 +1260,13 @@
                 }
             },
             {
-                "title": "Luka Doncic Makes Honest Statement Before Dallas Mavericks Play Game 4 - Sports Illustrated",
-                "description": "Luka Doncic Makes Honest Statement Before Dallas Mavericks Play Game 4  Sports Illustrated",
-                "published date": "Thu, 13 Jun 2024 22:26:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNpLmNvbS9mYW5uYXRpb24vbmJhL2Zhc3RicmVhay9sdWthLWRvbmNpYy1tYWtlcy1ob25lc3Qtc3RhdGVtZW50LWJlZm9yZS1kYWxsYXMtbWF2ZXJpY2tzLXBsYXktZ2FtZS00LW5iYS1maW5hbHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Luka Don\u010di\u0107 reportedly had pain-killing injection ahead of NBA Finals Game 2, likely needs another for Game 3 - Yahoo Sports",
+                "description": "Luka Don\u010di\u0107 reportedly had pain-killing injection ahead of NBA Finals Game 2, likely needs another for Game 3  Yahoo Sports",
+                "published date": "Wed, 12 Jun 2024 12:47:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbHVrYS1kb25jaWMtcmVwb3J0ZWRseS1oYWQtcGFpbi1raWxsaW5nLWluamVjdGlvbi1haGVhZC1vZi1uYmEtZmluYWxzLWdhbWUtMi1saWtlbHktbmVlZHMtYW5vdGhlci1mb3ItZ2FtZS0zLTE4MjMxMjU2MS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
                 }
             }
         ]
@@ -1402,10 +1296,10 @@
                 }
             },
             {
-                "title": "Tiger Woods arrives Sunday at Pinehurst for U.S. Open preparation - PGA TOUR - PGA TOUR",
-                "description": "Tiger Woods arrives Sunday at Pinehurst for U.S. Open preparation - PGA TOUR  PGA TOUR",
-                "published date": "Mon, 10 Jun 2024 00:31:46 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnBnYXRvdXIuY29tL2FydGljbGUvbmV3cy9sYXRlc3QvMjAyNC8wNi8wOS90aWdlci13b29kcy1hcnJpdmVzLXN1bmRheS1hdC1waW5laHVyc3QtZm9yLXUtcy0tb3Blbi1wcmVwYXJhdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tiger Woods opens U.S. Open in 4-over 74 - PGA TOUR - PGA TOUR",
+                "description": "Tiger Woods opens U.S. Open in 4-over 74 - PGA TOUR  PGA TOUR",
+                "published date": "Thu, 13 Jun 2024 17:52:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnBnYXRvdXIuY29tL2FydGljbGUvbmV3cy9sYXRlc3QvMjAyNC8wNi8xMy90aWdlci13b29kcy1yb3VuZC0xLXVwZGF0ZXMtc2NvcmluZy11LXMtb3Blbi1waW5laHVyc3Qtbm8tMtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.pgatour.com",
                     "title": "PGA TOUR"
@@ -1422,13 +1316,13 @@
                 }
             },
             {
-                "title": "U.S. Open: After strong start, Tiger Woods struggles at unforgiving Pinehurst - Yahoo Sports",
-                "description": "U.S. Open: After strong start, Tiger Woods struggles at unforgiving Pinehurst  Yahoo Sports",
-                "published date": "Thu, 13 Jun 2024 17:48:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS91cy1vcGVuLWFmdGVyLXN0cm9uZy1zdGFydC10aWdlci13b29kcy1zdHJ1Z2dsZXMtYXQtdW5mb3JnaXZpbmctcGluZWh1cnN0LTE2NDkwMDg3NS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Tiger Woods prepares for 1st appearance at U.S. Open since 2020 - ESPN",
+                "description": "Tiger Woods prepares for 1st appearance at U.S. Open since 2020  ESPN",
+                "published date": "Tue, 11 Jun 2024 16:44:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmVzcG4uY29tL2dvbGYvc3RvcnkvXy9pZC80MDMyNzUwNS90aWdlci13b29kcy1wcmVwYXJlcy0xc3QtYXBwZWFyYW5jZS11cy1vcGVuLTIwMTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
                 }
             },
             {
@@ -1442,13 +1336,13 @@
                 }
             },
             {
-                "title": "Tiger Woods prepares for 1st appearance at U.S. Open since 2020 - ESPN",
-                "description": "Tiger Woods prepares for 1st appearance at U.S. Open since 2020  ESPN",
-                "published date": "Tue, 11 Jun 2024 16:44:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmVzcG4uY29tL2dvbGYvc3RvcnkvXy9pZC80MDMyNzUwNS90aWdlci13b29kcy1wcmVwYXJlcy0xc3QtYXBwZWFyYW5jZS11cy1vcGVuLTIwMTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "U.S. Open: After strong start, Tiger Woods struggles at unforgiving Pinehurst - Yahoo Sports",
+                "description": "U.S. Open: After strong start, Tiger Woods struggles at unforgiving Pinehurst  Yahoo Sports",
+                "published date": "Thu, 13 Jun 2024 17:48:07 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS91cy1vcGVuLWFmdGVyLXN0cm9uZy1zdGFydC10aWdlci13b29kcy1zdHJ1Z2dsZXMtYXQtdW5mb3JnaXZpbmctcGluZWh1cnN0LTE2NDkwMDg3NS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
                 }
             },
             {
@@ -1508,13 +1402,13 @@
                 }
             },
             {
-                "title": "Pope Francis allegedly repeats gay slur, opposes gay men in priesthood - The Washington Post",
-                "description": "Pope Francis allegedly repeats gay slur, opposes gay men in priesthood  The Washington Post",
-                "published date": "Wed, 12 Jun 2024 00:36:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzExL3BvcGUtcmVwZWF0cy1nYXktc2x1ci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Pope Francis to meet prominent comedians in the Vatican - Vatican News",
+                "description": "Pope Francis to meet prominent comedians in the Vatican  Vatican News",
+                "published date": "Sat, 08 Jun 2024 13:04:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnZhdGljYW5uZXdzLnZhL2VuL3BvcGUvbmV3cy8yMDI0LTA2L3BvcGUtZnJhbmNpcy10by1tZWV0LXByb21pbmVudC1jb21lZGlhbnMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
+                    "href": "https://www.vaticannews.va",
+                    "title": "Vatican News"
                 }
             },
             {
@@ -1525,6 +1419,16 @@
                 "publisher": {
                     "href": "https://cruxnow.com",
                     "title": "Crux Now"
+                }
+            },
+            {
+                "title": "Pope Francis allegedly repeats gay slur, opposes gay men in priesthood - The Washington Post",
+                "description": "Pope Francis allegedly repeats gay slur, opposes gay men in priesthood  The Washington Post",
+                "published date": "Wed, 12 Jun 2024 00:36:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzExL3BvcGUtcmVwZWF0cy1nYXktc2x1ci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.washingtonpost.com",
+                    "title": "The Washington Post"
                 }
             },
             {
@@ -1568,31 +1472,137 @@
                 }
             },
             {
-                "title": "Pope Francis to meet prominent comedians in the Vatican - Vatican News",
-                "description": "Pope Francis to meet prominent comedians in the Vatican  Vatican News",
-                "published date": "Sat, 08 Jun 2024 13:04:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnZhdGljYW5uZXdzLnZhL2VuL3BvcGUvbmV3cy8yMDI0LTA2L3BvcGUtZnJhbmNpcy10by1tZWV0LXByb21pbmVudC1jb21lZGlhbnMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Why is Pope Francis speaking about AI at the G7 summit? - NPR",
+                "description": "Why is Pope Francis speaking about AI at the G7 summit?  NPR",
+                "published date": "Wed, 12 Jun 2024 11:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8xMi9ueC1zMS00OTUwMTM1L2c3LXBvcGUtZnJhbmNpcy1haS1pdGFsedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.vaticannews.va",
-                    "title": "Vatican News"
+                    "href": "https://www.npr.org",
+                    "title": "NPR"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Indiana Fever",
+        "summary": "Caitlin Clark's WNBA career is off to a rocky start, with her struggles being widely discussed in the media. Despite this, she has shown signs of improvement in recent games, leading her team, the Indiana Fever, to a few wins. As the season progresses, fans are eager to see if Clark can continue to improve and become a valuable asset to the Fever. Her next game will be against the Connecticut Sun, and it will be an important test of her progress.",
+        "items": [
+            {
+                "title": "Caitlin Clark back on the court: How to watch Indiana Fever vs. Atlanta Dream on Thursday - USA TODAY",
+                "description": "Caitlin Clark back on the court: How to watch Indiana Fever vs. Atlanta Dream on Thursday  USA TODAY",
+                "published date": "Thu, 13 Jun 2024 11:05:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvd25iYS9mZXZlci8yMDI0LzA2LzEzL2NhaXRsaW4tY2xhcmstaW5kaWFuYS1mZXZlci1hdGxhbnRhLWRyZWFtLWhvdy10by13YXRjaC83NDA3NjgyNDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
                 }
             },
             {
-                "title": "Pope Francis Will Speak About AI At G7 Following Last Year's Viral 'Balenciaga Pope' AI Meme - Forbes",
-                "description": "Pope Francis Will Speak About AI At G7 Following Last Year's Viral 'Balenciaga Pope' AI Meme  Forbes",
-                "published date": "Thu, 13 Jun 2024 17:48:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FyaWFubmFqb2huc29uLzIwMjQvMDYvMTMvdGhlLXBvcGUtaGVhZHMtdG8tZzctZm9yLWZpcnN0LXRpbWUtdG8tdGFsay1hYm91dC1haS1hZnRlci1iYWxlbmNpYWdhLXBvcGUtbWVtZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Indiana Fever vs Washington Mystics recap, Caitlin Clark stats - IndyStar",
+                "description": "Indiana Fever vs Washington Mystics recap, Caitlin Clark stats  IndyStar",
+                "published date": "Fri, 07 Jun 2024 23:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3Rvcnkvc3BvcnRzL2Jhc2tldGJhbGwvd25iYS9mZXZlci8yMDI0LzA2LzA3L2luZGlhbmEtZmV2ZXItd2FzaGluZ3Rvbi1teXN0aWNzLWxpdmUtdXBkYXRlcy1jYWl0bGluLWNsYXJrLXN0YXRzLXNjb3JlLWhpZ2hsaWdodHMvNzQwMDQ1MzcwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
+                    "href": "https://www.indystar.com",
+                    "title": "IndyStar"
+                }
+            },
+            {
+                "title": "Caitlin Clark, Indiana Fever hope 4-day break can help recharge season after early struggles - ABC News",
+                "description": "Caitlin Clark, Indiana Fever hope 4-day break can help recharge season after early struggles  ABC News",
+                "published date": "Thu, 13 Jun 2024 13:45:29 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYWJjbmV3cy5nby5jb20vU3BvcnRzL3dpcmVTdG9yeS9jYWl0bGluLWNsYXJrLWluZGlhbmEtZmV2ZXItaG9wZS00LWRheS1icmVhay0xMTA4OTEzMTbSAWJodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9TcG9ydHMvd2lyZVN0b3J5L2NhaXRsaW4tY2xhcmstaW5kaWFuYS1mZXZlci1ob3BlLTQtZGF5LWJyZWFrLTExMDg5MTMxNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
+                }
+            },
+            {
+                "title": "Caitlin Clark's next WNBA game: How to watch the Indiana Fever vs. Connecticut Sun game tonight - Yahoo Sports",
+                "description": "Caitlin Clark's next WNBA game: How to watch the Indiana Fever vs. Connecticut Sun game tonight  Yahoo Sports",
+                "published date": "Mon, 10 Jun 2024 22:55:37 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3Nwb3J0cy55YWhvby5jb20vY2FpdGxpbi1jbGFya3MtbmV4dC13bmJhLWdhbWUtaG93LXRvLXdhdGNoLXRoZS1pbmRpYW5hLWZldmVyLXZzLWNvbm5lY3RpY3V0LXN1bi1nYW1lLXRvbmlnaHQtMTIxNTA4Mjg5Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "Caitlin Clark takes Indiana Fever franchise to historic heights with best game of short WNBA career - Marca.com",
+                "description": "Caitlin Clark takes Indiana Fever franchise to historic heights with best game of short WNBA career  Marca.com",
+                "published date": "Sat, 08 Jun 2024 04:08:35 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1hcmNhLmNvbS9lbi9iYXNrZXRiYWxsL3duYmEvaW5kaWFuYS1mZXZlci8yMDI0LzA2LzA4LzY2NjNkODJmY2E0NzQxY2U0YzhiNDVjOS5odG1s0gFfaHR0cHM6Ly9hbXAubWFyY2EuY29tL2VuL2Jhc2tldGJhbGwvd25iYS9pbmRpYW5hLWZldmVyLzIwMjQvMDYvMDgvNjY2M2Q4MmZjYTQ3NDFjZTRjOGI0NWM5Lmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.marca.com",
+                    "title": "Marca.com"
+                }
+            },
+            {
+                "title": "Game Recap: Fever Improve to 2-1 in Commissioner's Cup with Win at Mystics \u2013 Indiana Fever - Indiana Fever",
+                "description": "Game Recap: Fever Improve to 2-1 in Commissioner's Cup with Win at Mystics \u2013 Indiana Fever  Indiana Fever",
+                "published date": "Sat, 08 Jun 2024 02:44:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZmV2ZXIud25iYS5jb20vbmV3cy9nYW1lLXJlY2FwLWZldmVyLW15c3RpY3MtMjQwNjA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://fever.wnba.com",
+                    "title": "Indiana Fever"
+                }
+            },
+            {
+                "title": "Caitlin Clark bounces back in a big way to lead Fever past Mystics - NBC Washington",
+                "description": "Caitlin Clark bounces back in a big way to lead Fever past Mystics  NBC Washington",
+                "published date": "Sat, 08 Jun 2024 07:52:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5iY3dhc2hpbmd0b24uY29tL25ld3Mvc3BvcnRzL2NhaXRsaW4tY2xhcmstaW5kaWFuYS1mZXZlci13YXNoaW5ndG9uLW15c3RpY3MvMzYzNjM3OC_SAWdodHRwczovL3d3dy5uYmN3YXNoaW5ndG9uLmNvbS9uZXdzL3Nwb3J0cy9jYWl0bGluLWNsYXJrLWluZGlhbmEtZmV2ZXItd2FzaGluZ3Rvbi1teXN0aWNzLzM2MzYzNzgvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcwashington.com",
+                    "title": "NBC Washington"
+                }
+            },
+            {
+                "title": "Caitlin Clark Scores 7, Criticized By WNBA Fans Despite Fever's 4th Win of Season - Bleacher Report",
+                "description": "Caitlin Clark Scores 7, Criticized By WNBA Fans Despite Fever's 4th Win of Season  Bleacher Report",
+                "published date": "Fri, 14 Jun 2024 01:22:37 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0NzQ5LWNhaXRsaW4tY2xhcmstc2NvcmVzLTctY3JpdGljaXplZC1ieS13bmJhLWZhbnMtZGVzcGl0ZS1mZXZlcnMtNHRoLXdpbi1vZi1zZWFzb27SAYwBaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTI0NzQ5LWNhaXRsaW4tY2xhcmstc2NvcmVzLTctY3JpdGljaXplZC1ieS13bmJhLWZhbnMtZGVzcGl0ZS1mZXZlcnMtNHRoLXdpbi1vZi1zZWFzb24uYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
+                }
+            },
+            {
+                "title": "Caitlin Clark 3-point shooting leads Indiana Fever to win over Mystics - IndyStar",
+                "description": "Caitlin Clark 3-point shooting leads Indiana Fever to win over Mystics  IndyStar",
+                "published date": "Sat, 08 Jun 2024 01:43:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3Rvcnkvc3BvcnRzL2Jhc2tldGJhbGwvd25iYS9mZXZlci8yMDI0LzA2LzA3L2NhaXRsaW4tY2xhcmstMy1wb2ludC1zaG9vdGluZy1sZWFkcy1pbmRpYW5hLWZldmVyLXRvLXdpbi1vdmVyLXdhc2hpbmd0b24tbXlzdGljcy13bmJhLXNjb3Jlcy1zdGF0cy83NDAwODQ2ODAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.indystar.com",
+                    "title": "IndyStar"
+                }
+            },
+            {
+                "title": "Caitlin Clark's next game: How to watch Indiana Fever at Connecticut Sun on Monday - USA TODAY",
+                "description": "Caitlin Clark's next game: How to watch Indiana Fever at Connecticut Sun on Monday  USA TODAY",
+                "published date": "Mon, 10 Jun 2024 10:20:07 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL3duYmEvZmV2ZXIvMjAyNC8wNi8xMC9jYWl0bGluLWNsYXJrLWluZGlhbmEtZmV2ZXItYXQtY29ubmVjdGljdXQtc3VuLWhvdy10by13YXRjaC1nYW1lLzc0MDI1ODQ0MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
                 }
             }
         ]
     },
     {
         "name": "Andrew McCarthy",
-        "summary": "Andrew McCarthy, a former member of the renowned \"Brat Pack\" from the 1980s, has released a documentary entitled \"Brats.\" The film examines the group's legacy and features interviews with McCarthy and other former Brat Pack stars, including Emilio Estevez, Rob Lowe, Judd Nelson, Demi Moore, and Ally Sheedy. Notably absent from the documentary are Molly Ringwald and Judd Nelson, whose exclusion has been addressed by McCarthy. In interviews surrounding the film's release, McCarthy has shared his perspective on the Brat Pack label, its impact on his career, and the challenges faced by Virginia Madsen while filming \"Class.\" The documentary's production required McCarthy to reach out to his former Brat Pack colleagues, highlighting the challenges and rewards of revisiting the past. Despite the passage of time, McCarthy and his fellow Brat Packers reflect on their experiences and the lasting impact of their iconic roles.",
+        "summary": "Andrew McCarthy's recent documentary, \"Brats,\" explores the lasting impact of the \"Brat Pack\" label on his career. In interviews, McCarthy reveals that he and Jon Cryer had a strained relationship during that era. McCarthy also revisits the criticisms and controversies surrounding the \"Brat Pack\" phenomenon, including the absence of Molly Ringwald and Judd Nelson in his documentary. He discusses the stigmatizing effects of the label and the challenges of living up to expectations. McCarthy expresses doubt that the \"Brat Pack\" could exist in today's cultural landscape and reflects on the treatment of Virginia Madsen on the set of \"Class.\" Additionally, he acknowledges the role of \"Brat Pack\" co-stars Rob Lowe and the importance of their support in his efforts to reclaim his narrative.",
         "items": [
+            {
+                "title": "Jon Cryer Says Andrew McCarthy Was a 'D---' During Brat Pack Era: 'We Did Not Get Along' - PEOPLE",
+                "description": "Jon Cryer Says Andrew McCarthy Was a 'D---' During Brat Pack Era: 'We Did Not Get Along'  PEOPLE",
+                "published date": "Sat, 08 Jun 2024 20:47:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vcGVvcGxlLmNvbS9qb24tY3J5ZXItc2F5cy1hbmRyZXctbWNjYXJ0aHktd2FzLWRpZmZpY3VsdC1kdXJpbmctYnJhdC1wYWNrLWVyYS04NjYwNTIy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://people.com",
+                    "title": "PEOPLE"
+                }
+            },
             {
                 "title": "'Brats' Review: A Pretty Peeved Andrew McCarthy Revisits His Past - TheWrap",
                 "description": "'Brats' Review: A Pretty Peeved Andrew McCarthy Revisits His Past  TheWrap",
@@ -1604,20 +1614,10 @@
                 }
             },
             {
-                "title": "How Andrew McCarthy wrangled the Brat Pack for 'Brats' documentary - USA TODAY",
-                "description": "How Andrew McCarthy wrangled the Brat Pack for 'Brats' documentary  USA TODAY",
-                "published date": "Thu, 13 Jun 2024 10:19:10 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L21vdmllcy8yMDI0LzA2LzEzL2FuZHJldy1tY2NhcnRoeS1kb2N1bWVudGFyeS1icmF0LXBhY2stcmV1bml0ZXMvNzQwNTE3MzUwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Former 'Brat Pack' stars reunite in documentary directed by Andrew McCarthy - ABC News",
-                "description": "Former 'Brat Pack' stars reunite in documentary directed by Andrew McCarthy  ABC News",
-                "published date": "Thu, 13 Jun 2024 15:05:35 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWJjbmV3cy5nby5jb20vRW50ZXJ0YWlubWVudC9mb3JtZXItYnJhdC1wYWNrLXN0YXJzLXJldW5pdGUtZG9jdW1lbnRhcnktZGlyZWN0ZWQtYW5kcmV3L3N0b3J5P2lkPTExMDk4NDY0NdIBdmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0VudGVydGFpbm1lbnQvZm9ybWVyLWJyYXQtcGFjay1zdGFycy1yZXVuaXRlLWRvY3VtZW50YXJ5LWRpcmVjdGVkLWFuZHJldy9zdG9yeT9pZD0xMTA5ODQ2NDU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Movie Review: Andrew McCarthy hunts the 'Brat Pack' blowback in the documentary 'Brats' - ABC News",
+                "description": "Movie Review: Andrew McCarthy hunts the 'Brat Pack' blowback in the documentary 'Brats'  ABC News",
+                "published date": "Tue, 11 Jun 2024 17:07:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYWJjbmV3cy5nby5jb20vRW50ZXJ0YWlubWVudC93aXJlU3RvcnkvbW92aWUtcmV2aWV3LWFuZHJldy1tY2NhcnRoeS1odW50cy1icmF0LXBhY2stYmxvd2JhY2stMTExMDI2OTE50gFyaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvRW50ZXJ0YWlubWVudC93aXJlU3RvcnkvbW92aWUtcmV2aWV3LWFuZHJldy1tY2NhcnRoeS1odW50cy1icmF0LXBhY2stYmxvd2JhY2stMTExMDI2OTE5?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://abcnews.go.com",
                     "title": "ABC News"
@@ -1654,6 +1654,26 @@
                 }
             },
             {
+                "title": "Andrew McCarthy Doesn't Think the Brat Pack Could Exist Today - Hollywood Reporter",
+                "description": "Andrew McCarthy Doesn't Think the Brat Pack Could Exist Today  Hollywood Reporter",
+                "published date": "Thu, 13 Jun 2024 17:32:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9icmF0cy1tb3ZpZS1hbmRyZXctbWNjYXJ0aHktYnJhdC1wYWNrLTEyMzU5MjEyMjMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.hollywoodreporter.com",
+                    "title": "Hollywood Reporter"
+                }
+            },
+            {
+                "title": "'Brats' documentary: Andrew McCarthy, Rob Lowe talk Brat Pack - USA TODAY",
+                "description": "'Brats' documentary: Andrew McCarthy, Rob Lowe talk Brat Pack  USA TODAY",
+                "published date": "Fri, 07 Jun 2024 15:00:50 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50L21vdmllcy8yMDI0LzA2LzA3L2JyYXRzLWRvY3VtZW50YXJ5LWFuZHJldy1tY2NhcnRoeS1yb2ItbG93ZS83Mzk5MTczODAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
                 "title": "Andrew McCarthy Faces His \u2019Brat Pack\u2019 Past in New Hulu Doc - Los Angeles Magazine",
                 "description": "Andrew McCarthy Faces His \u2019Brat Pack\u2019 Past in New Hulu Doc  Los Angeles Magazine",
                 "published date": "Fri, 07 Jun 2024 16:45:00 GMT",
@@ -1664,40 +1684,20 @@
                 }
             },
             {
-                "title": "Andrew McCarthy Doesn\u2019t Think the Brat Pack Could Exist Today - Hollywood Reporter",
-                "description": "Andrew McCarthy Doesn\u2019t Think the Brat Pack Could Exist Today  Hollywood Reporter",
-                "published date": "Thu, 13 Jun 2024 17:32:26 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9icmF0cy1tb3ZpZS1hbmRyZXctbWNjYXJ0aHktYnJhdC1wYWNrLTEyMzU5MjEyMjMv0gFpaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL21vdmllcy9tb3ZpZS1uZXdzL2JyYXRzLW1vdmllLWFuZHJldy1tY2NhcnRoeS1icmF0LXBhY2stMTIzNTkyMTIyMy9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Andrew McCarthy says 'Brat Pack' stigma gave him PTSD \u2014 but other '80s stars don't necessarily agree - New York Post",
+                "description": "Andrew McCarthy says 'Brat Pack' stigma gave him PTSD \u2014 but other '80s stars don't necessarily agree  New York Post ",
+                "published date": "Sat, 08 Jun 2024 14:38:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA4L2VudGVydGFpbm1lbnQvYW5kcmV3LW1jY2FydGh5LXNheXMtYnJhdC1wYWNrLXN0aWdtYS1nYXZlLWhpbS1wdHNkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.hollywoodreporter.com",
-                    "title": "Hollywood Reporter"
-                }
-            },
-            {
-                "title": "How Brat Pack's Jon Cryer, Andrew McCarthy made up - Los Angeles Times",
-                "description": "How Brat Pack's Jon Cryer, Andrew McCarthy made up  Los Angeles Times",
-                "published date": "Mon, 10 Jun 2024 20:43:52 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2VudGVydGFpbm1lbnQtYXJ0cy9tb3ZpZXMvc3RvcnkvMjAyNC0wNi0xMC9qb24tY3J5ZXItYW5kcmV3LW1jY2FydGh5LWJyYXRzLWJyYXQtcGFjay1kb2N1bWVudGFyedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
-                }
-            },
-            {
-                "title": "Looking back on life in the Brat Pack: \u2018It never existed in any real way\u2019 - The Guardian",
-                "description": "Looking back on life in the Brat Pack: \u2018It never existed in any real way\u2019  The Guardian",
-                "published date": "Wed, 12 Jun 2024 07:03:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9maWxtL2FydGljbGUvMjAyNC9qdW4vMTIvYW5kcmV3LW1jY2FydGh5LWJyYXQtcGFjay1kb2N1bWVudGFyedIBWmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9maWxtL2FydGljbGUvMjAyNC9qdW4vMTIvYW5kcmV3LW1jY2FydGh5LWJyYXQtcGFjay1kb2N1bWVudGFyeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.theguardian.com",
-                    "title": "The Guardian"
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
                 }
             }
         ]
     },
     {
         "name": "Beetlejuice",
-        "summary": "1. \"Review: Broadway's 'Beetlejuice' is a Different and Brash Wild Ride.\"\n\n2. \"The Cast of Beetlejuice: Where Are They Now?\"\n\n3. \"20 facts you might not know about 'Beetlejuice'.\"\n\n4. \"Tim Burton On The Character He Most Identifies With In 'Beetlejuice 2'.\"\n\n5. \u201cI Was Ultra-Clear About That\u201d: Michael Keaton Had 1 Hardline Condition For Beetlejuice Beetlejuice Return.\"\n\n6. \"Michael Keaton Reveals 'Ultra-Clear' Condition to Return for Beetlejuice 2.\"\n\n7. \"Lauren Boebert Greeted by Beetlejuice Music During Live Interview.\"\n\n8. \"'Beetlejuice Beetlejuice:' Watch the trailer now.\"\n\n9. \"'Beetlejuice Beetlejuice' trailer introduces Willem Dafoe, Monica Bellucci.\"\n\n10. \"Catherine O'Hara has a stern message for people who dislike Beetlejuice Beetlejuice.\"\n\nThese titles all relate to the upcoming film \"Beetlejuice 2,\" a sequel to the 1988 Tim Burton classic. The articles provide a variety of information, including reviews of the Broadway adaptation, updates on the cast, and trivia about the original film. They also discuss Tim Burton's involvement in the sequel and Michael Keaton's conditions for returning to the role of Beetlejuice. Additionally, one article reports on a political event where Beetlejuice music was played during an interview with Lauren Boebert. Finally, the titles provide a glimpse of the upcoming film's trailer, which features new cast members Willem Dafoe and Monica Bellucci.",
+        "summary": "Recent news articles have delved into various aspects of the iconic film \"Beetlejuice.\" Reviews have praised the Broadway adaptation as a \"brash wild ride\" while exploring the current whereabouts of the original cast members. Interesting facts about the movie have been shared, and Tim Burton has discussed his identification with a specific character in a potential sequel. Michael Keaton's strict condition for returning in \"Beetlejuice 2\" has been revealed, emphasizing his commitment to the role. The trailer for \"Beetlejuice Beetlejuice\" introduces Willem Dafoe and Monica Bellucci as new additions to the cast. Additionally, an unusual incident occurred when Lauren Boebert was greeted with \"Beetlejuice\" music during a live interview, while another article explores the enduring legacy of the film.",
         "items": [
             {
                 "title": "Review: Broadway's 'Beetlejuice' is a Different and Brash Wild Ride - artsknoxville.com",
@@ -1790,232 +1790,20 @@
                 }
             },
             {
-                "title": "Catherine O'Hara has a stern message for people who dislike Beetlejuice Beetlejuice - Yahoo Movies UK",
-                "description": "Catherine O'Hara has a stern message for people who dislike Beetlejuice Beetlejuice  Yahoo Movies UK",
-                "published date": "Mon, 10 Jun 2024 08:13:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9jYXRoZXJpbmUtb2hhcmEtc3Rlcm4tbWVzc2FnZS1wZW9wbGUtMDkyNjQzMTAzLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Beetlejuice - Style Weekly",
+                "description": "Beetlejuice  Style Weekly",
+                "published date": "Fri, 14 Jun 2024 00:56:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnN0eWxld2Vla2x5LmNvbS9ldmVudC9iZWV0bGVqdWljZS8yMDI0LTA2LTEzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://uk.movies.yahoo.com",
-                    "title": "Yahoo Movies UK"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Jaylen Brown",
-        "summary": "Jaylen Brown's journey through adversity and criticism has shaped him into the player he is today. Despite facing skepticism, Brown has emerged as a key figure for the Celtics in the NBA Finals, leading the team to victory in Game 1. Jason Kidd's comment naming Brown the team's \"best player\" has sparked debate, but Brown and Jayson Tatum remain unfazed. Brown's childhood immersion in the Harry Potter universe instilled in him a sense of resilience and determination. He recognizes that basketball provides both an escape and an inspiration, driving him to succeed amidst challenges. The Celtics' unwavering trust in Brown and Tatum has paid off, showcasing their remarkable talent and potential on the court.",
-        "items": [
-            {
-                "title": "Jaylen Brown against the world: Criticism 'made me who I am' - FOX Sports",
-                "description": "Jaylen Brown against the world: Criticism 'made me who I am'  FOX Sports",
-                "published date": "Sun, 09 Jun 2024 14:44:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvamF5bGVuLWJyb3duLWJvc3Rvbi1jZWx0aWNzLWFnYWluc3Qtd29ybGQtY3JpdGljaXNtLW1hZGUtbWUtd2hvLWktYW3SAWpodHRwczovL2FtcC5mb3hzcG9ydHMuY29tL3N0b3JpZXMvbmJhL2pheWxlbi1icm93bi1ib3N0b24tY2VsdGljcy1hZ2FpbnN0LXdvcmxkLWNyaXRpY2lzbS1tYWRlLW1lLXdoby1pLWFt?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
-                }
-            },
-            {
-                "title": "A Week With Harry Potter Prepped Jaylen Brown For NBA Finals - Sports Illustrated",
-                "description": "A Week With Harry Potter Prepped Jaylen Brown For NBA Finals  Sports Illustrated",
-                "published date": "Sat, 08 Jun 2024 16:14:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL2NhbC9iYXNrZXRiYWxsL2Etd2Vlay13aXRoLWhhcnJ5LXBvdHRlci1wcmVwcGVkLWpheWxlbi1icm93bi1mb3ItbmJhLWZpbmFscy0wMWh6dzllcW1kOHHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Jason Kidd calls Jaylen Brown, not Tatum, the Celtics' 'best player' - The New York Times",
-                "description": "Jason Kidd calls Jaylen Brown, not Tatum, the Celtics' 'best player'  The New York Times",
-                "published date": "Sat, 08 Jun 2024 22:41:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTA2MjcvMjAyNC8wNi8wOC9qYXNvbi1raWRkLWpheWxlbi1icm93bi1qYXlzb24tdGF0dW0tbmJhLWZpbmFscy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Basketball is an escape \u2014 and an inspiration | Cognoscenti - WBUR News",
-                "description": "Basketball is an escape \u2014 and an inspiration | Cognoscenti  WBUR News",
-                "published date": "Wed, 12 Jun 2024 09:05:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy53YnVyLm9yZy9jb2dub3NjZW50aS8yMDI0LzA2LzEyL2Jvc3Rvbi1jZWx0aWNzLWRhbGxhcy1tYXZlcmlja3MtYmFza2V0YmFsbC1uYmEtZmluYWxzLWphc29uLXRhdHVtLWpheWxlbi1icm93bi1hbGFzdGFpci1tb29ja9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wbur.org",
-                    "title": "WBUR News"
-                }
-            },
-            {
-                "title": "Jason Kidd claims he was 'just making an observation' with Jaylen Brown comment: 'It wasn't mind games' - CBS Sports",
-                "description": "Jason Kidd claims he was 'just making an observation' with Jaylen Brown comment: 'It wasn't mind games'  CBS Sports",
-                "published date": "Wed, 12 Jun 2024 16:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2phc29uLWtpZGQtY2xhaW1zLWhlLXdhcy1qdXN0LW1ha2luZy1hbi1vYnNlcnZhdGlvbi13aXRoLWpheWxlbi1icm93bi1jb21tZW50LWl0LXdhc250LW1pbmQtZ2FtZXMv0gGJAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmJhL25ld3MvamFzb24ta2lkZC1jbGFpbXMtaGUtd2FzLWp1c3QtbWFraW5nLWFuLW9ic2VydmF0aW9uLXdpdGgtamF5bGVuLWJyb3duLWNvbW1lbnQtaXQtd2FzbnQtbWluZC1nYW1lcy9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "Celtics' trust in Jaylen Brown, Jayson Tatum paying off in NBA Finals - USA TODAY",
-                "description": "Celtics' trust in Jaylen Brown, Jayson Tatum paying off in NBA Finals  USA TODAY",
-                "published date": "Thu, 13 Jun 2024 05:32:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhLzIwMjQvMDYvMTMvamF5bGVuLWJyb3duLWpheXNvbi10YXR1bS1jZWx0aWNzLW1hdmVyaWNrcy1uYmEtZmluYWxzLzc0MDgxMTI5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Jayson Tatum And Jaylen Brown Are Unbothered By Jason Kidd's 'Best Player' Comments - Forbes",
-                "description": "Jayson Tatum And Jaylen Brown Are Unbothered By Jason Kidd's 'Best Player' Comments  Forbes",
-                "published date": "Sat, 08 Jun 2024 22:36:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NoYW5leW91bmcvMjAyNC8wNi8wOC9qYXlzb24tdGF0dW0tYW5kLWpheWxlbi1icm93bi1hcmUtdW5ib3RoZXJlZC1ieS1qYXNvbi1raWRkcy1iZXN0LXBsYXllci1jb21tZW50cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
-                "title": "Jaylen Brown had an important message for the Celtics after winning Game 1 of the NBA Finals - CBS Boston",
-                "description": "Jaylen Brown had an important message for the Celtics after winning Game 1 of the NBA Finals  CBS Boston",
-                "published date": "Fri, 07 Jun 2024 16:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Jvc3Rvbi9uZXdzL2pheWxlbi1icm93bi1jZWx0aWNzLW1lc3NhZ2UtbGVhZGVyc2hpcC1kZWZlbnNlLW5iYS1maW5hbHMtbWF2ZXJpY2tzL9IBbWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9ib3N0b24vbmV3cy9qYXlsZW4tYnJvd24tY2VsdGljcy1tZXNzYWdlLWxlYWRlcnNoaXAtZGVmZW5zZS1uYmEtZmluYWxzLW1hdmVyaWNrcy8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS Boston"
-                }
-            },
-            {
-                "title": "Celtics' Jaylen Brown on Trade Rumors, Criticism: 'Always Have a Chip on My Shoulder' - Bleacher Report",
-                "description": "Celtics' Jaylen Brown on Trade Rumors, Criticism: 'Always Have a Chip on My Shoulder'  Bleacher Report",
-                "published date": "Sun, 09 Jun 2024 18:10:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0MTQ0LWNlbHRpY3MtamF5bGVuLWJyb3duLW9uLXRyYWRlLXJ1bW9ycy1jcml0aWNpc20tYWx3YXlzLWhhdmUtYS1jaGlwLW9uLW15LXNob3VsZGVy0gGNAWh0dHBzOi8vc3luZGljYXRpb24uYmxlYWNoZXJyZXBvcnQuY29tL2FtcC8xMDEyNDE0NC1jZWx0aWNzLWpheWxlbi1icm93bi1vbi10cmFkZS1ydW1vcnMtY3JpdGljaXNtLWFsd2F5cy1oYXZlLWEtY2hpcC1vbi1teS1zaG91bGRlci5hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
-                "title": "Finals MVP Ladder: Consistent Jaylen Brown takes top spot after Game 3 - NBA.com",
-                "description": "Finals MVP Ladder: Consistent Jaylen Brown takes top spot after Game 3  NBA.com",
-                "published date": "Thu, 13 Jun 2024 05:06:59 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1maW5hbHMtbXZwLWxhZGRlci1nYW1lLTPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Jayson Tatum",
-        "summary": "Jayson Tatum, a star player for the Boston Celtics, has recently made headlines due to his performance in the NBA Finals and various comments from others. Tatum's residence became the subject of an Architectural Digest article, while NBA coach Jason Kidd sparked controversy by stating that teammate Jaylen Brown is the Celtics' best player, not Tatum. Despite this, Tatum remains confident in his abilities, emphasizing that winning the championship is the ultimate goal. Critics have suggested that Tatum's focus on points may be overshadowing his overall impact on the team. However, Tatum's recent play in the Finals has demonstrated his ability to contribute in multiple ways, proving that he is an invaluable asset to the Celtics. Despite Kidd's comments, Tatum remains unfazed, valuing the team's collective success over individual recognition. An analysis of the Celtics' Game 2 victory in the Finals highlights Tatum's dominance in key matchups against Dallas Mavericks' Luka Doncic. Tatum's maturity and leadership qualities were also evident in his ability to inspire his team after Kidd's remarks, further cementing his status as a key figure in Boston's quest for the NBA championship.",
-        "items": [
-            {
-                "title": "Where Does Jayson Tatum Live? - Architectural Digest",
-                "description": "Where Does Jayson Tatum Live?  Architectural Digest",
-                "published date": "Fri, 07 Jun 2024 12:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmFyY2hpdGVjdHVyYWxkaWdlc3QuY29tL3N0b3J5L3doZXJlLWRvZXMtamF5c29uLXRhdHVtLWxpdmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.architecturaldigest.com",
-                    "title": "Architectural Digest"
-                }
-            },
-            {
-                "title": "Jason Kidd calls Jaylen Brown, not Tatum, the Celtics' 'best player' - The New York Times",
-                "description": "Jason Kidd calls Jaylen Brown, not Tatum, the Celtics' 'best player'  The New York Times",
-                "published date": "Sat, 08 Jun 2024 22:41:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NTA2MjcvMjAyNC8wNi8wOC9qYXNvbi1raWRkLWpheWxlbi1icm93bi1qYXlzb24tdGF0dW0tbmJhLWZpbmFscy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Jayson Tatum in B/R Exclusive: 'Finals MVP or Whatever, a Champion Is a Champion' - Bleacher Report",
-                "description": "Jayson Tatum in B/R Exclusive: 'Finals MVP or Whatever, a Champion Is a Champion'  Bleacher Report",
-                "published date": "Thu, 13 Jun 2024 17:11:53 GMT",
-                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0NjYxLWpheXNvbi10YXR1bS1pbi1ici1leGNsdXNpdmUtZmluYWxzLW12cC1vci13aGF0ZXZlci1hLWNoYW1waW9uLWlzLWEtY2hhbXBpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
-                "title": "Are We Missing the Forest for the Trees With Jayson Tatum? - The Ringer",
-                "description": "Are We Missing the Forest for the Trees With Jayson Tatum?  The Ringer",
-                "published date": "Wed, 12 Jun 2024 13:26:50 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRoZXJpbmdlci5jb20vbmJhLzIwMjQvNi8xMi8yNDE3NjgxOC9qYXlzb24tdGF0dW0tc2NvcmluZy1wYXNzaW5nLWJvc3Rvbi1jZWx0aWNzLTIwMjQtbmJhLWZpbmFsc9IBeWh0dHBzOi8vd3d3LnRoZXJpbmdlci5jb20vcGxhdGZvcm0vYW1wL25iYS8yMDI0LzYvMTIvMjQxNzY4MTgvamF5c29uLXRhdHVtLXNjb3JpbmctcGFzc2luZy1ib3N0b24tY2VsdGljcy0yMDI0LW5iYS1maW5hbHM?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.theringer.com",
-                    "title": "The Ringer"
-                }
-            },
-            {
-                "title": "Jayson Tatum looks past points as Celtics lead Mavericks in NBA Finals - USA TODAY",
-                "description": "Jayson Tatum looks past points as Celtics lead Mavericks in NBA Finals  USA TODAY",
-                "published date": "Mon, 10 Jun 2024 12:16:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvbmJhL3BsYXlvZmZzLzIwMjQvMDYvMTAvamF5c29uLXRhdHVtLXN0YXRzLW5iYS1maW5hbHMtY2VsdGljcy1tYXZlcmlja3MvNzQwNDEzODkwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Jayson Tatum not bothered by Jason Kidd calling Jaylen Brown Celtics' best player - FOX Sports",
-                "description": "Jayson Tatum not bothered by Jason Kidd calling Jaylen Brown Celtics' best player  FOX Sports",
-                "published date": "Sat, 08 Jun 2024 21:42:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvamF5c29uLXRhdHVtLWJvdGhlcmVkLWphc29uLWtpZGQtY2FsbGluZy1qYXlsZW4tYnJvd24tY2VsdGljcy1iZXN0LXBsYXllctIBb2h0dHBzOi8vYW1wLmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvamF5c29uLXRhdHVtLWJvdGhlcmVkLWphc29uLWtpZGQtY2FsbGluZy1qYXlsZW4tYnJvd24tY2VsdGljcy1iZXN0LXBsYXllcg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
-                }
-            },
-            {
-                "title": "NBA Finals Film Study: Celtics win Doncic-Tatum matchups in Game 2 - NBA.com",
-                "description": "NBA Finals Film Study: Celtics win Doncic-Tatum matchups in Game 2  NBA.com",
-                "published date": "Tue, 11 Jun 2024 02:17:50 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy8yMDI0LW5iYS1maW5hbHMtZmlsbS1zdHVkeS1nYW1lLTLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
-            },
-            {
-                "title": "NBA Finals: Jayson Tatum and Co. respond after Jason Kidd reveals who he thinks is the best player on Celtics - CBS Sports",
-                "description": "NBA Finals: Jayson Tatum and Co. respond after Jason Kidd reveals who he thinks is the best player on Celtics  CBS Sports",
-                "published date": "Sat, 08 Jun 2024 19:41:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL25iYS1maW5hbHMtamF5c29uLXRhdHVtLWFuZC1jby1yZXNwb25kLWFmdGVyLWphc29uLWtpZGQtcmV2ZWFscy13aG8taGUtdGhpbmtzLWlzLXRoZS1iZXN0LXBsYXllci1vbi1jZWx0aWNzL9IBkwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL25iYS1maW5hbHMtamF5c29uLXRhdHVtLWFuZC1jby1yZXNwb25kLWFmdGVyLWphc29uLWtpZGQtcmV2ZWFscy13aG8taGUtdGhpbmtzLWlzLXRoZS1iZXN0LXBsYXllci1vbi1jZWx0aWNzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "Basketball is an escape \u2014 and an inspiration | Cognoscenti - WBUR News",
-                "description": "Basketball is an escape \u2014 and an inspiration | Cognoscenti  WBUR News",
-                "published date": "Wed, 12 Jun 2024 09:05:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy53YnVyLm9yZy9jb2dub3NjZW50aS8yMDI0LzA2LzEyL2Jvc3Rvbi1jZWx0aWNzLWRhbGxhcy1tYXZlcmlja3MtYmFza2V0YmFsbC1uYmEtZmluYWxzLWphc29uLXRhdHVtLWpheWxlbi1icm93bi1hbGFzdGFpci1tb29ja9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wbur.org",
-                    "title": "WBUR News"
-                }
-            },
-            {
-                "title": "Mature Jayson Tatum shows he doesn't need to score to help Boston Celtics win games - CBS Boston",
-                "description": "Mature Jayson Tatum shows he doesn't need to score to help Boston Celtics win games  CBS Boston",
-                "published date": "Mon, 10 Jun 2024 13:40:59 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2Jvc3Rvbi9uZXdzL2pheXNvbi10YXR1bS11bnNlbGZpc2gtZWdvLXBhc3NpbmctY2VsdGljcy1tYXZlcmlja3MtbmJhLWZpbmFscy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS Boston"
+                    "href": "https://www.styleweekly.com",
+                    "title": "Style Weekly"
                 }
             }
         ]
     },
     {
         "name": "Johnny Canales",
-        "summary": "Renowned Tejano music icon Johnny Canales has passed away at the age of 77. Canales, who was known for his legendary radio and television show, had a profound impact on the music scene. He played a pivotal role in launching the careers of numerous Tejano artists, including Selena. Canales was not only a talented musician but also an influential TV host who brought Tejano music to a wider audience. The passing of Johnny Canales has left a void in the Tejano music industry, and his legacy will continue to inspire generations of musicians and fans alike.",
+        "summary": "Tejano music icon and TV host Johnny Canales has passed away at age 77, leaving an enduring legacy in the industry. Canales was a pioneer in promoting Tejano music, hosting a popular television show that showcased emerging artists, including the legendary Selena. His contributions to Tejano culture, including his tireless advocacy for its recognition and his dedication to preserving its traditions, have earned him widespread acclaim. The news of his passing has sent shockwaves throughout the Tejano community and beyond, with many mourning the loss of a beloved figure who dedicated his life to celebrating and promoting their musical heritage.",
         "items": [
             {
                 "title": "Legendary Tejano music host Johnny Canales dies at 77 - KSAT San Antonio",
@@ -2030,7 +1818,7 @@
             {
                 "title": "Tejano pioneer Johnny Canales dies - Axios",
                 "description": "Tejano pioneer Johnny Canales dies  Axios",
-                "published date": "Thu, 13 Jun 2024 18:54:46 GMT",
+                "published date": "Thu, 13 Jun 2024 18:04:23 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9zYW4tYW50b25pby8yMDI0LzA2LzEzL3RlamFuby1qb2hubnktY2FuYWxlcy1hZ2UtZGllZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.axios.com",
@@ -2045,6 +1833,16 @@
                 "publisher": {
                     "href": "https://www.nbclosangeles.com",
                     "title": "NBC Los Angeles"
+                }
+            },
+            {
+                "title": "TV host and musician Johnny Canales dies at 77 - KXAN.com",
+                "description": "TV host and musician Johnny Canales dies at 77  KXAN.com",
+                "published date": "Thu, 13 Jun 2024 23:40:52 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvdHYtaG9zdC1hbmQtbXVzaWNpYW4tam9obm55LWNhbmFsZXMtZGllcy1hdC03Ny_SAU1odHRwczovL3d3dy5reGFuLmNvbS9uZXdzL3R2LWhvc3QtYW5kLW11c2ljaWFuLWpvaG5ueS1jYW5hbGVzLWRpZXMtYXQtNzcvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.kxan.com",
+                    "title": "KXAN.com"
                 }
             },
             {
@@ -2068,23 +1866,13 @@
                 }
             },
             {
-                "title": "TV host and musician Johnny Canales dies at 77 - KVEO-TV",
-                "description": "TV host and musician Johnny Canales dies at 77  KVEO-TV",
-                "published date": "Thu, 13 Jun 2024 14:56:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnZhbGxleWNlbnRyYWwuY29tL25ld3MvbG9jYWwtbmV3cy90di1ob3N0LWFuZC1tdXNpY2lhbi1qb2hubnktY2FuYWxlcy1kaWVzLWF0LTc3L9IBYWh0dHBzOi8vd3d3LnZhbGxleWNlbnRyYWwuY29tL25ld3MvbG9jYWwtbmV3cy90di1ob3N0LWFuZC1tdXNpY2lhbi1qb2hubnktY2FuYWxlcy1kaWVzLWF0LTc3L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Taken away: Valley reacts to death of Tejano legend Johnny Canales - MyRGV",
+                "description": "Taken away: Valley reacts to death of Tejano legend Johnny Canales  MyRGV",
+                "published date": "Thu, 13 Jun 2024 21:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbXlyZ3YuY29tL2xvY2FsLW5ld3MvMjAyNC8wNi8xMy90YWtlbi1hd2F5LXZhbGxleS1yZWFjdHMtdG8tZGVhdGgtb2YtdGVqYW5vLWxlZ2VuZC1qb2hubnktY2FuYWxlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.valleycentral.com",
-                    "title": "KVEO-TV"
-                }
-            },
-            {
-                "title": "Johnny Canales, Tejano Music Legend & TV Icon, Dead at 77 - Billboard",
-                "description": "Johnny Canales, Tejano Music Legend & TV Icon, Dead at 77  Billboard",
-                "published date": "Thu, 13 Jun 2024 19:36:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbGF0aW4vam9obm55LWNhbmFsZXMtZGVhZC10ZWphbm8tbXVzaWMtbGVnZW5kLXR2LWljb24tb2JpdHVhcnktMTIzNTcwOTI5Ni_SAW5odHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL2xhdGluL2pvaG5ueS1jYW5hbGVzLWRlYWQtdGVqYW5vLW11c2ljLWxlZ2VuZC10di1pY29uLW9iaXR1YXJ5LTEyMzU3MDkyOTYvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.billboard.com",
-                    "title": "Billboard"
+                    "href": "https://myrgv.com",
+                    "title": "MyRGV"
                 }
             },
             {
@@ -2098,16 +1886,6 @@
                 }
             },
             {
-                "title": "Taken away: Valley reacts to death of Tejano legend Johnny Canales - MyRGV",
-                "description": "Taken away: Valley reacts to death of Tejano legend Johnny Canales  MyRGV",
-                "published date": "Thu, 13 Jun 2024 21:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbXlyZ3YuY29tL2xvY2FsLW5ld3MvMjAyNC8wNi8xMy90YWtlbi1hd2F5LXZhbGxleS1yZWFjdHMtdG8tZGVhdGgtb2YtdGVqYW5vLWxlZ2VuZC1qb2hubnktY2FuYWxlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://myrgv.com",
-                    "title": "MyRGV"
-                }
-            },
-            {
                 "title": "TV host Johnny Canales helped launch Selena, other Tejano stars - San Antonio Express-News",
                 "description": "TV host Johnny Canales helped launch Selena, other Tejano stars  San Antonio Express-News",
                 "published date": "Thu, 13 Jun 2024 20:46:14 GMT",
@@ -2115,6 +1893,228 @@
                 "publisher": {
                     "href": "https://www.expressnews.com",
                     "title": "San Antonio Express-News"
+                }
+            },
+            {
+                "title": "Johnny Canales, Tejano Music Legend & TV Icon, Dead at 77 - Billboard",
+                "description": "Johnny Canales, Tejano Music Legend & TV Icon, Dead at 77  Billboard",
+                "published date": "Thu, 13 Jun 2024 19:36:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbGF0aW4vam9obm55LWNhbmFsZXMtZGVhZC10ZWphbm8tbXVzaWMtbGVnZW5kLXR2LWljb24tb2JpdHVhcnktMTIzNTcwOTI5Ni_SAW5odHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL2xhdGluL2pvaG5ueS1jYW5hbGVzLWRlYWQtdGVqYW5vLW11c2ljLWxlZ2VuZC10di1pY29uLW9iaXR1YXJ5LTEyMzU3MDkyOTYvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.billboard.com",
+                    "title": "Billboard"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Tom Brady",
+        "summary": "Tom Brady, the legendary quarterback, has been enshrined into the Patriots Hall of Fame during a star-studded ceremony. The event featured speeches from Brady himself, as well as former teammates and coaches. Brady's induction comes after a remarkable career with the Patriots, during which he led the team to six Super Bowl victories. The team also retired his number 12 jersey in honor of his achievements. The ceremony was a celebration of Brady's legacy with the Patriots and his impact on the sport of football.",
+        "items": [
+            {
+                "title": "Tom Brady enshrined into Patriots Hall of Fame during star-studded night - WBUR News",
+                "description": "Tom Brady enshrined into Patriots Hall of Fame during star-studded night  WBUR News",
+                "published date": "Thu, 13 Jun 2024 09:53:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LndidXIub3JnL25ld3MvMjAyNC8wNi8xMy90b20tYnJhZHktcGF0cmlvdHMtaGFsbC1vZi1mYW1lLWluZHVjdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wbur.org",
+                    "title": "WBUR News"
+                }
+            },
+            {
+                "title": "TRANSCRIPT: Tom Brady's Hall of Fame Induction Speech - PatsFans.com",
+                "description": "TRANSCRIPT: Tom Brady's Hall of Fame Induction Speech  PatsFans.com",
+                "published date": "Thu, 13 Jun 2024 02:46:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBhdHNmYW5zLmNvbS9wYXRyaW90cy9ibG9nLzIwMjQvMDYvMTIvdHJhbnNjcmlwdC10b20tYnJhZHlzLWhhbGwtb2YtZmFtZS1pbmR1Y3Rpb24tc3BlZWNoL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.patsfans.com",
+                    "title": "PatsFans.com"
+                }
+            },
+            {
+                "title": "Tom Brady to be inducted into Patriots Hall of Fame: What to know about Wednesday's event - The New York Times",
+                "description": "Tom Brady to be inducted into Patriots Hall of Fame: What to know about Wednesday's event  The New York Times",
+                "published date": "Wed, 12 Jun 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NDYyMDIvMjAyNC8wNi8xMi90b20tYnJhZHktamVyc2V5LW51bWJlci1yZXRpcmVtZW50LWV2ZW50L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Patriots officially induct longtime quarterback Tom Brady into team Hall of Fame, retire No. 12 - Yahoo Sports",
+                "description": "Patriots officially induct longtime quarterback Tom Brady into team Hall of Fame, retire No. 12  Yahoo Sports",
+                "published date": "Thu, 13 Jun 2024 02:19:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vcGF0cmlvdHMtb2ZmaWNpYWxseS1pbmR1Y3QtbG9uZ3RpbWUtcXVhcnRlcmJhY2stdG9tLWJyYWR5LWludG8tdGVhbS1oYWxsLW9mLWZhbWUtcmV0aXJlLW5vLTEyLTAyMTI0NzI5Mi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "Tom Brady enshrined into Patriots Hall of Fame, has No. 12 retired - NFL.com",
+                "description": "Tom Brady enshrined into Patriots Hall of Fame, has No. 12 retired  NFL.com",
+                "published date": "Thu, 13 Jun 2024 03:23:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy90b20tYnJhZHktZW5zaHJpbmVkLWludG8tcGF0cmlvdHMtaGFsbC1vZi1mYW1lLWhhcy1uby0xMi1yZXRpcmVk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nfl.com",
+                    "title": "NFL.com"
+                }
+            },
+            {
+                "title": "Highlights of Tom Brady's New England Patriots Hall of Fame induction - The Patriot Ledger",
+                "description": "Highlights of Tom Brady's New England Patriots Hall of Fame induction  The Patriot Ledger",
+                "published date": "Thu, 13 Jun 2024 15:02:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5wYXRyaW90bGVkZ2VyLmNvbS9zdG9yeS9zcG9ydHMvbmZsLzIwMjQvMDYvMTMvdG9tLWJyYWR5LW5ldy1lbmdsYW5kLXBhdHJpb3RzLWhhbGwtb2YtZmFtZS1pbmR1Y3Rpb24tcmV0aXJlLW51bWJlci0xMi1yb2JlcnQta3JhZnQtYmlsbC1iZWxpY2hpY2svNzQwNjgyMjUwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.patriotledger.com",
+                    "title": "The Patriot Ledger"
+                }
+            },
+            {
+                "title": "Tom Brady: \"Quarterbacking has gone backwards a little bit\" - NBC Sports",
+                "description": "Tom Brady: \"Quarterbacking has gone backwards a little bit\"  NBC Sports",
+                "published date": "Thu, 13 Jun 2024 14:46:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vbmZsL3Byb2Zvb3RiYWxsdGFsay9ydW1vci1taWxsL25ld3MvdG9tLWJyYWR5LXF1YXJ0ZXJiYWNraW5nLWhhcy1nb25lLWJhY2t3YXJkcy1hLWxpdHRsZS1iaXTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcsports.com",
+                    "title": "NBC Sports"
+                }
+            },
+            {
+                "title": "Here's what to expect at Tom Brady's Patriots Hall of Fame Ceremony - Patriots.com",
+                "description": "Here's what to expect at Tom Brady's Patriots Hall of Fame Ceremony  Patriots.com",
+                "published date": "Wed, 12 Jun 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnBhdHJpb3RzLmNvbS9uZXdzL2hlcmUtcy13aGF0LXRvLWV4cGVjdC1hdC10b20tYnJhZHktcy1wYXRyaW90cy1oYWxsLW9mLWZhbWUtY2VyZW1vbnnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.patriots.com",
+                    "title": "Patriots.com"
+                }
+            },
+            {
+                "title": "Honoring Tom Brady: Legendary QB inducted into Patriots Hall of Fame - NBC Boston",
+                "description": "Honoring Tom Brady: Legendary QB inducted into Patriots Hall of Fame  NBC Boston",
+                "published date": "Wed, 12 Jun 2024 16:31:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9sb2NhbC90b20tYnJhZHktaGFsbC1vZi1mYW1lLWluZHVjdGlvbi1saXZlLXN0cmVhbS10aWNrZXQtaW5mby8zMzk3MTIxL9IBbGh0dHBzOi8vd3d3Lm5iY2Jvc3Rvbi5jb20vbmV3cy9sb2NhbC90b20tYnJhZHktaGFsbC1vZi1mYW1lLWluZHVjdGlvbi1saXZlLXN0cmVhbS10aWNrZXQtaW5mby8zMzk3MTIxLz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcboston.com",
+                    "title": "NBC Boston"
+                }
+            },
+            {
+                "title": "Tom Brady Celebrated in Patriots Hall of Fame Ceremony Video Narrated by John Cena - Bleacher Report",
+                "description": "Tom Brady Celebrated in Patriots Hall of Fame Ceremony Video Narrated by John Cena  Bleacher Report",
+                "published date": "Wed, 12 Jun 2024 23:42:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI0NTk2LXRvbS1icmFkeS1jZWxlYnJhdGVkLWluLXBhdHJpb3RzLWhhbGwtb2YtZmFtZS1jZXJlbW9ueS12aWRlby1uYXJyYXRlZC1ieS1qb2huLWNlbmHSAY8BaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzEwMTI0NTk2LXRvbS1icmFkeS1jZWxlYnJhdGVkLWluLXBhdHJpb3RzLWhhbGwtb2YtZmFtZS1jZXJlbW9ueS12aWRlby1uYXJyYXRlZC1ieS1qb2huLWNlbmEuYW1wLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://bleacherreport.com",
+                    "title": "Bleacher Report"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Supreme Court",
+        "summary": "The Supreme Court has ruled in favor of preserving access to abortion medication mifepristone, rejecting a challenge from Texas. The decision has brought relief to abortion rights advocates. The Court has also ruled in favor of Starbucks in a case involving fired pro-union workers. In other news, the Supreme Court has dismissed a trademark case involving former President Donald Trump's slogan \"Trump too small.\" The Court faces a substantial backlog of cases with limited time to address them.",
+        "items": [
+            {
+                "title": "U.S. Supreme Court allows access to abortion pill, unanimously rejecting Texas challenge - The Texas Tribune",
+                "description": "U.S. Supreme Court allows access to abortion pill, unanimously rejecting Texas challenge  The Texas Tribune",
+                "published date": "Thu, 13 Jun 2024 14:28:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wNi8xMy9zdXByZW1lLWNvdXJ0LXRleGFzLW1pZmVwcmlzdG9uZS1ydWxpbmctYWJvcnRpb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.texastribune.org",
+                    "title": "The Texas Tribune"
+                }
+            },
+            {
+                "title": "What will the Supreme Court do next? - brennancenter.org",
+                "description": "What will the Supreme Court do next?  brennancenter.org",
+                "published date": "Tue, 11 Jun 2024 21:02:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJyZW5uYW5jZW50ZXIub3JnL291ci13b3JrL2FuYWx5c2lzLW9waW5pb24vd2hhdC13aWxsLXN1cHJlbWUtY291cnQtZG8tbmV4dNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.brennancenter.org",
+                    "title": "brennancenter.org"
+                }
+            },
+            {
+                "title": "Supreme Court unanimously preserves access to abortion medication mifepristone - PBS NewsHour",
+                "description": "Supreme Court unanimously preserves access to abortion medication mifepristone  PBS NewsHour",
+                "published date": "Thu, 13 Jun 2024 14:10:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvcG9saXRpY3Mvc3VwcmVtZS1jb3VydC1wcmVzZXJ2ZXMtYWNjZXNzLXRvLW1pZmVwcmlzdG9uZdIBWGh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvYW1wL3BvbGl0aWNzL3N1cHJlbWUtY291cnQtcHJlc2VydmVzLWFjY2Vzcy10by1taWZlcHJpc3RvbmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.pbs.org",
+                    "title": "PBS NewsHour"
+                }
+            },
+            {
+                "title": "US Supreme Court backs Starbucks over fired pro-union workers - Reuters",
+                "description": "US Supreme Court backs Starbucks over fired pro-union workers  Reuters",
+                "published date": "Thu, 13 Jun 2024 20:00:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3VzLXN1cHJlbWUtY291cnQtYmFja3Mtc3RhcmJ1Y2tzLW92ZXItZmlyZWQtcHJvLXVuaW9uLXdvcmtlcnMtMjAyNC0wNi0xMy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.reuters.com",
+                    "title": "Reuters"
+                }
+            },
+            {
+                "title": "Supreme Court rejects \u201cTrump too small\u201d trademark - SCOTUSblog",
+                "description": "Supreme Court rejects \u201cTrump too small\u201d trademark  SCOTUSblog",
+                "published date": "Thu, 13 Jun 2024 22:35:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnNjb3R1c2Jsb2cuY29tLzIwMjQvMDYvc3VwcmVtZS1jb3VydC1yZWplY3RzLXRydW1wLXRvby1zbWFsbC10cmFkZW1hcmsv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.scotusblog.com",
+                    "title": "SCOTUSblog"
+                }
+            },
+            {
+                "title": "Supreme Court has a lot of work to do and little time to do it with a sizable case backlog - The Associated Press",
+                "description": "Supreme Court has a lot of work to do and little time to do it with a sizable case backlog  The Associated Press",
+                "published date": "Thu, 13 Jun 2024 20:51:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N1cHJlbWUtY291cnQtdW5kZWNpZGVkLWNhc2VzLXRlcm0tdHJ1bXAtaW1tdW5pdHktODQzNDBjNGIxMWQ4MWNlYWYxMGY1ZWJmOTk5Y2IwNmbSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Supreme Court rejects challenge to abortion pill accessibility - NPR",
+                "description": "Supreme Court rejects challenge to abortion pill accessibility  NPR",
+                "published date": "Thu, 13 Jun 2024 14:08:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8wNS9ueC1zMS00OTk0NDA3L3N1cHJlbWUtY291cnQtbWlmZXByaXN0b25l0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.npr.org",
+                    "title": "NPR"
+                }
+            },
+            {
+                "title": "Supreme Court rejects bid to restrict access to abortion pill - NBC News",
+                "description": "Supreme Court rejects bid to restrict access to abortion pill  NBC News",
+                "published date": "Thu, 13 Jun 2024 16:40:09 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3N1cHJlbWUtY291cnQvc3VwcmVtZS1jb3VydC1yZWplY3RzLWJpZC1yZXN0cmljdC1hY2Nlc3MtYWJvcnRpb24tcGlsbC1yY25hMTUxMzA40gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
+                }
+            },
+            {
+                "title": "Supreme Court rejects challenge to abortion pill mifepristone, allowing drug to stay on the market - CNN",
+                "description": "Supreme Court rejects challenge to abortion pill mifepristone, allowing drug to stay on the market  CNN",
+                "published date": "Thu, 13 Jun 2024 16:51:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xMy9wb2xpdGljcy9zdXByZW1lLWNvdXJ0LXJlamVjdHMtY2hhbGxlbmdlLWFib3J0aW9uLXBpbGwtbWlmZXByaXN0b25lL2luZGV4Lmh0bWzSAWZodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzEzL3BvbGl0aWNzL3N1cHJlbWUtY291cnQtcmVqZWN0cy1jaGFsbGVuZ2UtYWJvcnRpb24tcGlsbC1taWZlcHJpc3RvbmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
+                }
+            },
+            {
+                "title": "Mifepristone ruling: Supreme Court preserves access to abortion pill - The 19th*",
+                "description": "Mifepristone ruling: Supreme Court preserves access to abortion pill  The 19th*",
+                "published date": "Thu, 13 Jun 2024 15:11:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vMTl0aG5ld3Mub3JnLzIwMjQvMDYvc3VwcmVtZS1jb3VydC1kaXNtaXNzZXMtY2FzZS10aGF0LXdvdWxkLWhhdmUtbGltaXRlZC1hYm9ydGlvbi1waWxsLWFjY2Vzcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://19thnews.org",
+                    "title": "The 19th*"
                 }
             }
         ]
