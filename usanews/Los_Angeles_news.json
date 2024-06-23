@@ -1,5 +1,13 @@
 [
     {
+        "title": "Jennifer Lopez - Discover Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmRpc2NvdmVybG9zYW5nZWxlcy5jb20vZXZlbnQvMjAyNC8wNy8xMS9qZW5uaWZlci1sb3BletIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 21:33:13 GMT",
+        "source_url": "https://www.discoverlosangeles.com",
+        "source_name": "Discover Los Angeles"
+    },
+    {
         "title": "'Chinatown,' released 50 years ago, was inspired by some shocking real-life events that still hold water today - KABC-TV",
         "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYWJjNy5jb20vcG9zdC9jaGluYXRvd24tcmVsZWFzZWQtNTAteWVhcnMtYWdvLXdhcy1pbnNwaXJlZC1zaG9ja2luZy8xNDk4ODQ0OC_SAQA?oc=5",
         "description": [],
@@ -8,12 +16,28 @@
         "source_name": "KABC-TV"
     },
     {
-        "title": "Man fatally shot on Metro train in South L.A., police say - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNi0yMS9tYW4tZmF0YWxseS1zaG90LW9uLW1ldHJvLXRyYWluLWluLXNvdXRoLWxh0gEA?oc=5",
+        "title": "Victim of Metro shooting identified by authorities; suspects remain outstanding - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3ZpY3RpbS1vZi1tZXRyby1zaG9vdGluZy1pZGVudGlmaWVkLWJ5LWF1dGhvcml0aWVzLXN1c3BlY3RzLXJlbWFpbi1vdXRzdGFuZGluZy_SAXRodHRwczovL2t0bGEuY29tL25ld3MvbG9jYWwtbmV3cy92aWN0aW0tb2YtbWV0cm8tc2hvb3RpbmctaWRlbnRpZmllZC1ieS1hdXRob3JpdGllcy1zdXNwZWN0cy1yZW1haW4tb3V0c3RhbmRpbmcvYW1wLw?oc=5",
         "description": [],
-        "pub_date": "Sat, 22 Jun 2024 06:11:15 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
+        "pub_date": "Sat, 22 Jun 2024 20:11:15 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "Oceanwide Plaza, Effort to overturn Measure ULA halted, and more - Urbanize LA",
+        "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vbGEudXJiYW5pemUuY2l0eS9wb3N0L3dlZWtseS1oZWFkbGluZXMtanVuZS0yMi0yMDI00gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 15:00:00 GMT",
+        "source_url": "https://la.urbanize.city",
+        "source_name": "Urbanize LA"
+    },
+    {
+        "title": "LA City Council approves plan to save beloved 'El Burro' stand at Olvera Street - KABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYWJjNy5jb20vcG9zdC9sb3MtYW5nZWxlcy1jaXR5LWNvdW5jaWwtYXBwcm92ZXMtcGxhbi1zYXZlLWJlbG92ZWQtc3RhbmQtZWwtYnVycm8tYXQtb2x2ZXJhLXN0cmVldC8xNDk4NTc0OS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 21:16:13 GMT",
+        "source_url": "https://abc7.com",
+        "source_name": "KABC-TV"
     },
     {
         "title": "Summer is officially here: Things to do this weekend in Los Angeles County - KTLA Los Angeles",
@@ -32,44 +56,28 @@
         "source_name": "Eater LA"
     },
     {
-        "title": "LA City Council approves plan to save beloved 'El Burro' stand at Olvera Street - KABC-TV",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYWJjNy5jb20vcG9zdC9sb3MtYW5nZWxlcy1jaXR5LWNvdW5jaWwtYXBwcm92ZXMtcGxhbi1zYXZlLWJlbG92ZWQtc3RhbmQtZWwtYnVycm8tYXQtb2x2ZXJhLXN0cmVldC8xNDk4NTc0OS_SAQA?oc=5",
+        "title": "2 killed, 2 injured in crash near LAX - NBC Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvMi1raWxsZWQtMi1pbmp1cmVkLWluLWNyYXNoLW5lYXItbGF4LzM0NDIyMzgv0gFcaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9sb2NhbC8yLWtpbGxlZC0yLWluanVyZWQtaW4tY3Jhc2gtbmVhci1sYXgvMzQ0MjIzOC8_YW1wPTE?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 21:16:13 GMT",
-        "source_url": "https://abc7.com",
-        "source_name": "KABC-TV"
+        "pub_date": "Sat, 22 Jun 2024 22:06:09 GMT",
+        "source_url": "https://www.nbclosangeles.com",
+        "source_name": "NBC Los Angeles"
     },
     {
-        "title": "How to have the best Sunday in L.A., according to Paul Scheer - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL3RyYXZlbC9zdG9yeS8yMDI0LTA2LTIxL3N1bmRheS1mdW5kYXktcGF1bC1zY2hlZXItdGhpbmdzLXRvLWRvLWxvcy1hbmdlbGVz0gEA?oc=5",
+        "title": "Antelope Valley Press Events - A Night LIke This (LA's tribute to the Cure): Live tribute to The Cure featuring A Night Like This - Antelope Valley Press",
+        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5hdnByZXNzLmNvbS9sb2NhbC1ldmVudHMvP19ldkRpc2NvdmVyeVBhdGg9L2V2ZW50JTJGMTA1MzYwNjcwbi1hLW5pZ2h0LWxpa2UtdGhpcy1sYS1zLXRyaWJ1dGUtdG8tdGhlLWN1cmUtbGl2ZS10cmlidXRlLXRvLXRoZS1jdXJlLWZlYXR1cmluZy1hLW5pZ2h0LWxpa2UtdGhpc9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 10:00:54 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
+        "pub_date": "Sat, 22 Jun 2024 17:36:02 GMT",
+        "source_url": "https://www.avpress.com",
+        "source_name": "Antelope Valley Press"
     },
     {
-        "title": "Richard Landry-Designed Home in Beverly Hills Sells for $37M - The Real Deal",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjQvMDYvMjEvcmljaGFyZC1sYW5kcnktZGVzaWduZWQtaG9tZS1pbi1iZXZlcmx5LWhpbGxzLXNlbGxzLWZvci0zN20v0gEA?oc=5",
+        "title": "We asked patrons and vendors of East L.A.\u2019s Queer Mercado what queer joy looks like - Boyle Heights Beat",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYm95bGVoZWlnaHRzYmVhdC5jb20vd2UtYXNrZWQtcGF0cm9ucy1hbmQtdmVuZG9ycy1vZi1lYXN0LWwtYS1zLXF1ZWVyLW1lcmNhZG8td2hhdC1xdWVlci1qb3ktbG9va3MtbGlrZS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 18:00:00 GMT",
-        "source_url": "https://therealdeal.com",
-        "source_name": "The Real Deal"
-    },
-    {
-        "title": "Wild street takeover in Los Angeles draws hundreds of spectators - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3dpbGQtc3RyZWV0LXRha2VvdmVyLWluLWxvcy1hbmdlbGVzLWRyYXdzLWh1bmRyZWRzLW9mLXNwZWN0YXRvcnMv0gFmaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3Mvd2lsZC1zdHJlZXQtdGFrZW92ZXItaW4tbG9zLWFuZ2VsZXMtZHJhd3MtaHVuZHJlZHMtb2Ytc3BlY3RhdG9ycy9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 15:04:25 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
-    },
-    {
-        "title": "Sweet Alice Square unveiled in Watts in honor of longtime community leader and activist - KABC-TV",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjNy5jb20vcG9zdC9zd2VldC1hbGljZS1zcXVhcmUtdW52ZWlsZWQtd2F0dHMtaG9ub3ItbG9uZ3RpbWUtY29tbXVuaXR5LzE0OTY3MzIyL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 21:07:23 GMT",
-        "source_url": "https://abc7.com",
-        "source_name": "KABC-TV"
+        "pub_date": "Sat, 22 Jun 2024 15:15:21 GMT",
+        "source_url": "https://boyleheightsbeat.com",
+        "source_name": "Boyle Heights Beat"
     },
     {
         "title": "We decided on fresh start in L.A. Would the move ease my depression? - Los Angeles Times",
@@ -80,10 +88,74 @@
         "source_name": "Los Angeles Times"
     },
     {
-        "title": "Heat alerts go into effect this weekend for widespread parts of Southern California - NBC Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL3dlYXRoZXItbmV3cy93ZWVrZW5kLWZvcmVjYXN0LWhlYXQtbG9zLWFuZ2VsZXMvMzQ0MTQ3My_SAVtodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS93ZWF0aGVyLW5ld3Mvd2Vla2VuZC1mb3JlY2FzdC1oZWF0LWxvcy1hbmdlbGVzLzM0NDE0NzMvP2FtcD0x?oc=5",
+        "title": "Suspended LAFD firefighters called back to work after vax mandate ends could still be fired - FOX 11 Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL3N1c3BlbmRlZC1sYWZkLWZpcmVmaWdodGVycy1jYWxsZWQtYmFjay13b3JrLWFmdGVyLXZheC1tYW5kYXRlLWVuZHMtY291bGQtc3RpbGwtYmUtZmlyZWTSAXdodHRwczovL3d3dy5mb3hsYS5jb20vbmV3cy9zdXNwZW5kZWQtbGFmZC1maXJlZmlnaHRlcnMtY2FsbGVkLWJhY2std29yay1hZnRlci12YXgtbWFuZGF0ZS1lbmRzLWNvdWxkLXN0aWxsLWJlLWZpcmVkLmFtcA?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 21:28:16 GMT",
+        "pub_date": "Fri, 21 Jun 2024 19:26:28 GMT",
+        "source_url": "https://www.foxla.com",
+        "source_name": "FOX 11 Los Angeles"
+    },
+    {
+        "title": "Man re-enters burning Los Angeles home to rescue dog - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2ZpcmUtZXJ1cHRzLWF0LWhvdXNlLWluLWtvcmVhdG93bi10aHJlYXRlbnMtb3RoZXItaG9tZXMv0gFdaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvZmlyZS1lcnVwdHMtYXQtaG91c2UtaW4ta29yZWF0b3duLXRocmVhdGVucy1vdGhlci1ob21lcy9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 17:22:27 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "How to have the best Sunday in L.A., according to Paul Scheer - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL3RyYXZlbC9zdG9yeS8yMDI0LTA2LTIxL3N1bmRheS1mdW5kYXktcGF1bC1zY2hlZXItdGhpbmdzLXRvLWRvLWxvcy1hbmdlbGVz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 10:00:54 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "Cage The Elephant - Discover Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmRpc2NvdmVybG9zYW5nZWxlcy5jb20vZXZlbnQvMjAyNC8wNy8wNy9jYWdlLXRoZS1lbGVwaGFudNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 21:33:14 GMT",
+        "source_url": "https://www.discoverlosangeles.com",
+        "source_name": "Discover Los Angeles"
+    },
+    {
+        "title": "Sweet Alice Square unveiled in Watts in honor of longtime community leader and activist - KABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjNy5jb20vcG9zdC9zd2VldC1hbGljZS1zcXVhcmUtdW52ZWlsZWQtd2F0dHMtaG9ub3ItbG9uZ3RpbWUtY29tbXVuaXR5LzE0OTY3MzIyL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 21:07:23 GMT",
+        "source_url": "https://abc7.com",
+        "source_name": "KABC-TV"
+    },
+    {
+        "title": "Residents Advised to Avoid Select LACo Beaches Due to Bacteria | KFI AM 640 - KFI AM 640",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8va2ZpYW02NDAuaWhlYXJ0LmNvbS9jb250ZW50LzIwMjQtMDYtMjItcmVzaWRlbnRzLWFkdmlzZWQtdG8tYXZvaWQtc2VsZWN0LWxhY28tYmVhY2hlcy1kdWUtdG8tYmFjdGVyaWEv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 13:37:00 GMT",
+        "source_url": "https://kfiam640.iheart.com",
+        "source_name": "KFI AM 640"
+    },
+    {
+        "title": "LAPD IDs officer who killed woman threatening her family with knife - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2xhcGQtaWRzLW9mZmljZXItd2hvLWtpbGxlZC13b21hbi10aHJlYXRlbmluZy1oZXItZmFtaWx5LXdpdGgta25pZmUv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 16:18:41 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
+    },
+    {
+        "title": "Richard Landry-Designed Home in Beverly Hills Sells for $37M - The Real Deal",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjQvMDYvMjEvcmljaGFyZC1sYW5kcnktZGVzaWduZWQtaG9tZS1pbi1iZXZlcmx5LWhpbGxzLXNlbGxzLWZvci0zN20v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 18:00:00 GMT",
+        "source_url": "https://therealdeal.com",
+        "source_name": "The Real Deal"
+    },
+    {
+        "title": "Gay Men's Chorus of Los Angeles to perform this month. Here's what to know. - NBC Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvZ2F5LW1lbnMtY2hvcnVzLWxvcy1hbmdlbGVzLXBlcmZvcm0tanVuZS0zMC1wYXNhZGVuYS8zNDQxOTU0L9IBbGh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvZ2F5LW1lbnMtY2hvcnVzLWxvcy1hbmdlbGVzLXBlcmZvcm0tanVuZS0zMC1wYXNhZGVuYS8zNDQxOTU0Lz9hbXA9MQ?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 00:04:32 GMT",
         "source_url": "https://www.nbclosangeles.com",
         "source_name": "NBC Los Angeles"
     },
@@ -96,23 +168,7 @@
         "source_name": "Lasentinel"
     },
     {
-        "title": "LAPD IDs officer who killed woman threatening her family with knife - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2xhcGQtaWRzLW9mZmljZXItd2hvLWtpbGxlZC13b21hbi10aHJlYXRlbmluZy1oZXItZmFtaWx5LXdpdGgta25pZmUv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 16:18:41 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
-    },
-    {
-        "title": "Residents Advised to Avoid Select LACo Beaches Due to Bacteria - KFI AM 640",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8va2ZpYW02NDAuaWhlYXJ0LmNvbS9jb250ZW50LzIwMjQtMDYtMjItcmVzaWRlbnRzLWFkdmlzZWQtdG8tYXZvaWQtc2VsZWN0LWxhY28tYmVhY2hlcy1kdWUtdG8tYmFjdGVyaWEv0gF0aHR0cHM6Ly9rZmlhbTY0MC5paGVhcnQuY29tL2FsdGVybmF0ZS9hbXAvMjAyNC0wNi0yMi1yZXNpZGVudHMtYWR2aXNlZC10by1hdm9pZC1zZWxlY3QtbGFjby1iZWFjaGVzLWR1ZS10by1iYWN0ZXJpYS8?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 13:37:00 GMT",
-        "source_url": "https://kfiam640.iheart.com",
-        "source_name": "KFI AM 640"
-    },
-    {
-        "title": "2024 LOS ANGELES SWIM WEEK, LA - Average Socialite",
+        "title": "2024 LOS ANGELES SWIM WEEK, LA \u2014 Average Socialite - Average Socialite",
         "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmF2ZXJhZ2Vzb2NpYWxpdGUuY29tL2xhLWV2ZW50cy8yMDI0LzYvMjcvMjAyNC1sb3MtYW5nZWxlcy1zd2ltLXdlZWstbGHSAQA?oc=5",
         "description": [],
         "pub_date": "Sat, 22 Jun 2024 01:46:09 GMT",
@@ -120,26 +176,90 @@
         "source_name": "Average Socialite"
     },
     {
-        "title": "Gay Men's Chorus of Los Angeles to perform this month. Here's what to know. - NBC Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvZ2F5LW1lbnMtY2hvcnVzLWxvcy1hbmdlbGVzLXBlcmZvcm0tanVuZS0zMC1wYXNhZGVuYS8zNDQxOTU0L9IBbGh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvZ2F5LW1lbnMtY2hvcnVzLWxvcy1hbmdlbGVzLXBlcmZvcm0tanVuZS0zMC1wYXNhZGVuYS8zNDQxOTU0Lz9hbXA9MQ?oc=5",
+        "title": "Wild street takeover in Los Angeles draws hundreds of spectators - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL3dpbGQtc3RyZWV0LXRha2VvdmVyLWluLWxvcy1hbmdlbGVzLWRyYXdzLWh1bmRyZWRzLW9mLXNwZWN0YXRvcnMv0gFmaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3Mvd2lsZC1zdHJlZXQtdGFrZW92ZXItaW4tbG9zLWFuZ2VsZXMtZHJhd3MtaHVuZHJlZHMtb2Ytc3BlY3RhdG9ycy9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Sat, 22 Jun 2024 00:04:32 GMT",
-        "source_url": "https://www.nbclosangeles.com",
-        "source_name": "NBC Los Angeles"
+        "pub_date": "Fri, 21 Jun 2024 15:04:25 GMT",
+        "source_url": "https://ktla.com",
+        "source_name": "KTLA Los Angeles"
     },
     {
-        "title": "LA Mayor, Housing Authority Encourage Landlords to Accept Renters' Vouchers - Westside Current",
-        "link": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvbGEtbWF5b3ItaG91c2luZy1hdXRob3JpdHktZW5jb3VyYWdlLWxhbmRsb3Jkcy10by1hY2NlcHQtcmVudGVycy12b3VjaGVycy9hcnRpY2xlXzY3ZWU5ZTE4LTJmNjktMTFlZi1iYmFlLTIzYWQ1Y2IxN2M3Mi5odG1s0gEA?oc=5",
+        "title": "New Concept in the Works on La Cienega - What Now Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd2hhdG5vd2xvc2FuZ2VsZXMuY29tL25ldy1jb25jZXB0LWluLXRoZS13b3Jrcy1vbi1sYS1jaWVuZWdhL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 09:00:00 GMT",
-        "source_url": "https://www.westsidecurrent.com",
-        "source_name": "Westside Current"
+        "pub_date": "Sat, 22 Jun 2024 17:27:51 GMT",
+        "source_url": "https://whatnowlosangeles.com",
+        "source_name": "What Now Los Angeles"
     },
     {
-        "title": "Man re-enters burning Los Angeles home to rescue dog - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2ZpcmUtZXJ1cHRzLWF0LWhvdXNlLWluLWtvcmVhdG93bi10aHJlYXRlbnMtb3RoZXItaG9tZXMv0gFdaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvZmlyZS1lcnVwdHMtYXQtaG91c2UtaW4ta29yZWF0b3duLXRocmVhdGVucy1vdGhlci1ob21lcy9hbXAv?oc=5",
+        "title": "Kick off summer in L.A. with these activities - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5sYXRpbWVzLmNvbS9jYWxpZm9ybmlhL25ld3NsZXR0ZXIvMjAyNC0wNi0yMi9raWNrLW9mZi10aGUtYmVnaW5uaW5nLW9mLXN1bW1lci1pbi1sLWEtd2l0aC10aGVzZS1hY3Rpdml0aWVzLWVzc2VudGlhbC1jYWxpZm9ybmlh0gEA?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 17:22:27 GMT",
+        "pub_date": "Sat, 22 Jun 2024 13:30:09 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "Heat Wave This Weekend - LAist",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbGFpc3QuY29tL2JyaWVmL25ld3MvY2xpbWF0ZS1lbnZpcm9ubWVudC9zdW1tZXItaXMtaGVyZS1icmFjZS15b3Vyc2VsZi1mb3ItaG90dGVyLXRlbXBlcmF0dXJlcy10aGlzLXdlZWtlbmTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 12:01:00 GMT",
+        "source_url": "https://laist.com",
+        "source_name": "LAist"
+    },
+    {
+        "title": "Ventura County Reporter Events - LA Parks Run Series - Ventura County Reporter",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnZjcmVwb3J0ZXIuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxNDIxMzNyLWxhLXBhcmtzLXJ1bi1zZXJpZXPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 10:16:54 GMT",
+        "source_url": "https://www.vcreporter.com",
+        "source_name": "Ventura County Reporter"
+    },
+    {
+        "title": "LAPD offers $25K reward after LA Christian bookstore owner shot and left paralyzed - KABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYWJjNy5jb20vcG9zdC9sYXBkLW9mZmVyLXJld2FyZC1hZnRlci1sYS1jaHJpc3RpYW4tYm9va3N0b3JlLW93bmVyLWx1aXMtaGVybmFuZGV6LWxlZnQtcGFyYWx5emVkLWluLXNob290aW5nLzE0OTg0NjE3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 14:46:12 GMT",
+        "source_url": "https://abc7.com",
+        "source_name": "KABC-TV"
+    },
+    {
+        "title": "How safe are LA buses and trains? Contextualizing the latest data - KCRW",
+        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3Mva2Nydy1mZWF0dXJlcy9sYS1tZXRyby1zYWZldHktcGVyY2VwdGlvbtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 08:36:00 GMT",
+        "source_url": "https://www.kcrw.com",
+        "source_name": "KCRW"
+    },
+    {
+        "title": "Antelope Valley Press Events - KIA: FoodieLand Los Angeles 2024 - Antelope Valley Press",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmF2cHJlc3MuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDUyNTAzMjFuLWtpYS1mb29kaWVsYW5kLWxvcy1hbmdlbGVzLTIwMjTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 00:49:04 GMT",
+        "source_url": "https://www.avpress.com",
+        "source_name": "Antelope Valley Press"
+    },
+    {
+        "title": "Ending single-family zoning in L.A. makes us more climate resilient - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL29waW5pb24vbmV3c2xldHRlci8yMDI0LTA2LTIyL29waW5pb24tbmV3c2xldHRlci1ob3VzaW5nLXNpbmdsZS1mYW1pbHktem9uaW5nLWNsaW1hdGUtb3BpbmlvbtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 11:00:40 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "4th of July Fireworks in Los Angeles - L.A. Parent",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmxhcGFyZW50LmNvbS80dGgtb2YtanVseS1maXJld29ya3MtaW4tbG9zLWFuZ2VsZXMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 19:47:06 GMT",
+        "source_url": "https://www.laparent.com",
+        "source_name": "L.A. Parent"
+    },
+    {
+        "title": "Fleeing driver crashes into cars, flips vehicle in Los Angeles - KTLA Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2ZsZWVpbmctZHJpdmVyLWNyYXNoZXMtaW50by1jYXJzLWZsaXBzLXZlaGljbGUtaW4tbG9zLWFuZ2VsZXMv0gFjaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvZmxlZWluZy1kcml2ZXItY3Jhc2hlcy1pbnRvLWNhcnMtZmxpcHMtdmVoaWNsZS1pbi1sb3MtYW5nZWxlcy9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 12:02:10 GMT",
         "source_url": "https://ktla.com",
         "source_name": "KTLA Los Angeles"
     },
@@ -152,84 +272,12 @@
         "source_name": "Realtor.com News"
     },
     {
-        "title": "4th of July Fireworks in Los Angeles - L.A. Parent",
-        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmxhcGFyZW50LmNvbS80dGgtb2YtanVseS1maXJld29ya3MtaW4tbG9zLWFuZ2VsZXMv0gEA?oc=5",
+        "title": "LA Mayor, Housing Authority Encourage Landlords to Accept Renters' Vouchers - Westside Current",
+        "link": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy53ZXN0c2lkZWN1cnJlbnQuY29tL25ld3MvbGEtbWF5b3ItaG91c2luZy1hdXRob3JpdHktZW5jb3VyYWdlLWxhbmRsb3Jkcy10by1hY2NlcHQtcmVudGVycy12b3VjaGVycy9hcnRpY2xlXzY3ZWU5ZTE4LTJmNjktMTFlZi1iYmFlLTIzYWQ1Y2IxN2M3Mi5odG1s0gEA?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 19:47:06 GMT",
-        "source_url": "https://www.laparent.com",
-        "source_name": "L.A. Parent"
-    },
-    {
-        "title": "KIA: FoodieLand Los Angeles 2024 - Antelope Valley Press",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmF2cHJlc3MuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDUyNTAzMjFuLWtpYS1mb29kaWVsYW5kLWxvcy1hbmdlbGVzLTIwMjTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 00:49:04 GMT",
-        "source_url": "https://www.avpress.com",
-        "source_name": "Antelope Valley Press"
-    },
-    {
-        "title": "New Concept in the Works on La Cienega - What Now Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd2hhdG5vd2xvc2FuZ2VsZXMuY29tL25ldy1jb25jZXB0LWluLXRoZS13b3Jrcy1vbi1sYS1jaWVuZWdhL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 17:27:51 GMT",
-        "source_url": "https://whatnowlosangeles.com",
-        "source_name": "What Now Los Angeles"
-    },
-    {
-        "title": "L.A. teen got a second chance from Gasc\u00f3n after killing. Now he is accused in a new homicide - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNi0yMS9sYS1kYS1nZW9yZ2UtZ2FzY29uLWRlbm1vbm5lLWxlZdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 15:05:45 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "LA Parks Run Series - Ventura County Reporter",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnZjcmVwb3J0ZXIuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxNDIxMzNyLWxhLXBhcmtzLXJ1bi1zZXJpZXPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 10:16:54 GMT",
-        "source_url": "https://www.vcreporter.com",
-        "source_name": "Ventura County Reporter"
-    },
-    {
-        "title": "Oceanwide Plaza, Effort to overturn Measure ULA halted, and more - Urbanize LA",
-        "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vbGEudXJiYW5pemUuY2l0eS9wb3N0L3dlZWtseS1oZWFkbGluZXMtanVuZS0yMi0yMDI00gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 15:00:00 GMT",
-        "source_url": "https://la.urbanize.city",
-        "source_name": "Urbanize LA"
-    },
-    {
-        "title": "How safe are LA buses and trains? Contextualizing the latest data - KCRW",
-        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtjcncuY29tL25ld3Mvc2hvd3Mva2Nydy1mZWF0dXJlcy9sYS1tZXRyby1zYWZldHktcGVyY2VwdGlvbtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 08:36:00 GMT",
-        "source_url": "https://www.kcrw.com",
-        "source_name": "KCRW"
-    },
-    {
-        "title": "Slugg in Los Angeles at Grandmaster Recorder - DoLA",
-        "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vZG9sYS5jb20vZXZlbnRzLzIwMjQvNi8yMS9zbHVnZy10aWNrZXRz0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 16:41:40 GMT",
-        "source_url": "https://dola.com",
-        "source_name": "DoLA"
-    },
-    {
-        "title": "2 shot, 1 fatally, in South Los Angeles - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzLzItc2hvdC0xLWZhdGFsbHktaW4tc291dGgtbG9zLWFuZ2VsZXMv0gFLaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvMi1zaG90LTEtZmF0YWxseS1pbi1zb3V0aC1sb3MtYW5nZWxlcy9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 20:06:06 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
-    },
-    {
-        "title": "Kick off summer in L.A. with these activities - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5sYXRpbWVzLmNvbS9jYWxpZm9ybmlhL25ld3NsZXR0ZXIvMjAyNC0wNi0yMi9raWNrLW9mZi10aGUtYmVnaW5uaW5nLW9mLXN1bW1lci1pbi1sLWEtd2l0aC10aGVzZS1hY3Rpdml0aWVzLWVzc2VudGlhbC1jYWxpZm9ybmlh0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 13:30:09 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
+        "pub_date": "Fri, 21 Jun 2024 09:00:00 GMT",
+        "source_url": "https://www.westsidecurrent.com",
+        "source_name": "Westside Current"
     },
     {
         "title": "LA Judge Considers Changes to Oversight of Standards for Migrant Children - MyNewsLA.com",
@@ -240,6 +288,30 @@
         "source_name": "MyNewsLA.com"
     },
     {
+        "title": "L.A. County reports second cyber fishing attack - The Eastsider",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy50aGVlYXN0c2lkZXJsYS5jb20vbmV3cy9sLWEtY291bnR5LXJlcG9ydHMtc2Vjb25kLWN5YmVyLWZpc2hpbmctYXR0YWNrL2FydGljbGVfOTUxNThiOWMtMzAyZi0xMWVmLThjMGQtZjdlMmQwZmY5MTYxLmh0bWzSAYgBaHR0cHM6Ly93d3cudGhlZWFzdHNpZGVybGEuY29tL25ld3MvbC1hLWNvdW50eS1yZXBvcnRzLXNlY29uZC1jeWJlci1maXNoaW5nLWF0dGFjay9hcnRpY2xlXzk1MTU4YjljLTMwMmYtMTFlZi04YzBkLWY3ZTJkMGZmOTE2MS5hbXAuaHRtbA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 00:37:00 GMT",
+        "source_url": "https://www.theeastsiderla.com",
+        "source_name": "The Eastsider"
+    },
+    {
+        "title": "Slugg in Los Angeles at Grandmaster Recorder - DoLA",
+        "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vZG9sYS5jb20vZXZlbnRzLzIwMjQvNi8yMS9zbHVnZy10aWNrZXRz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 16:41:40 GMT",
+        "source_url": "https://dola.com",
+        "source_name": "DoLA"
+    },
+    {
+        "title": "State senator criticizes L.A. councilmember for 'praising' Ho Chi Minh - Audacy",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF1ZGFjeS5jb20va2VhcnRoMTAxL25ld3Mvc3RhdGUtc2VuLWNyaXRpY2l6ZXMtY291bmNpbG1lbWJlci1mb3ItcHJhaXNpbmctaG8tY2hpLW1pbmjSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 00:23:00 GMT",
+        "source_url": "https://www.audacy.com",
+        "source_name": "Audacy"
+    },
+    {
         "title": "10 Essential Dog-Friendly Activities In Los Angeles - Secret Los Angeles",
         "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc2VjcmV0bG9zYW5nZWxlcy5jb20vZG9nLWZyaWVuZGx5LWFjdGl2aXRpZXMtbG9zLWFuZ2VsZXMv0gEA?oc=5",
         "description": [],
@@ -248,10 +320,18 @@
         "source_name": "Secret Los Angeles"
     },
     {
-        "title": "State senator criticizes L.A. councilmember for 'praising' Ho Chi Minh - Audacy",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF1ZGFjeS5jb20va2VhcnRoMTAxL25ld3Mvc3RhdGUtc2VuLWNyaXRpY2l6ZXMtY291bmNpbG1lbWJlci1mb3ItcHJhaXNpbmctaG8tY2hpLW1pbmjSAQA?oc=5",
+        "title": "California Supreme Court Blocks Tax Measure from November Ballot - Westside Today",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyNC8wNi8yMC9jYWxpZm9ybmlhLXN1cHJlbWUtY291cnQtYmxvY2tzLXRheC1tZWFzdXJlLWZyb20tbm92ZW1iZXItYmFsbG90L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Sat, 22 Jun 2024 00:23:00 GMT",
+        "pub_date": "Fri, 21 Jun 2024 04:51:57 GMT",
+        "source_url": "https://westsidetoday.com",
+        "source_name": "Westside Today"
+    },
+    {
+        "title": "Changes to Metro buses across L.A. to go into effect Sunday - Audacy",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmF1ZGFjeS5jb20vOTMxamFja2ZtL25ld3MvY2hhbmdlcy10by1tZXRyby1idXNlcy1hY3Jvc3MtbC1hLXRvLWdvLWludG8tZWZmZWN0LXN1bmRhedIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 17:53:21 GMT",
         "source_url": "https://www.audacy.com",
         "source_name": "Audacy"
     },
@@ -264,60 +344,12 @@
         "source_name": "Spectrum News 1"
     },
     {
-        "title": "Fleeing driver crashes into cars, flips vehicle in Los Angeles - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8va3RsYS5jb20vbmV3cy9sb2NhbC1uZXdzL2ZsZWVpbmctZHJpdmVyLWNyYXNoZXMtaW50by1jYXJzLWZsaXBzLXZlaGljbGUtaW4tbG9zLWFuZ2VsZXMv0gFjaHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2xvY2FsLW5ld3MvZmxlZWluZy1kcml2ZXItY3Jhc2hlcy1pbnRvLWNhcnMtZmxpcHMtdmVoaWNsZS1pbi1sb3MtYW5nZWxlcy9hbXAv?oc=5",
+        "title": "L.A. teen got a second chance from Gasc\u00f3n after killing. Now he is accused in a new homicide - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNi0yMS9sYS1kYS1nZW9yZ2UtZ2FzY29uLWRlbm1vbm5lLWxlZdIBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 12:02:10 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
-    },
-    {
-        "title": "Changes to Metro buses across L.A. to go into effect Sunday - Audacy",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmF1ZGFjeS5jb20vOTMxamFja2ZtL25ld3MvY2hhbmdlcy10by1tZXRyby1idXNlcy1hY3Jvc3MtbC1hLXRvLWdvLWludG8tZWZmZWN0LXN1bmRhedIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 17:53:21 GMT",
-        "source_url": "https://www.audacy.com",
-        "source_name": "Audacy"
-    },
-    {
-        "title": "Ending single-family zoning in L.A. makes us more climate resilient - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL29waW5pb24vbmV3c2xldHRlci8yMDI0LTA2LTIyL29waW5pb24tbmV3c2xldHRlci1ob3VzaW5nLXNpbmdsZS1mYW1pbHktem9uaW5nLWNsaW1hdGUtb3BpbmlvbtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 11:00:40 GMT",
+        "pub_date": "Fri, 21 Jun 2024 15:05:45 GMT",
         "source_url": "https://www.latimes.com",
         "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "L.A. County reports second cyber fishing attack - The Eastsider",
-        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy50aGVlYXN0c2lkZXJsYS5jb20vbmV3cy9sLWEtY291bnR5LXJlcG9ydHMtc2Vjb25kLWN5YmVyLWZpc2hpbmctYXR0YWNrL2FydGljbGVfOTUxNThiOWMtMzAyZi0xMWVmLThjMGQtZjdlMmQwZmY5MTYxLmh0bWzSAYgBaHR0cHM6Ly93d3cudGhlZWFzdHNpZGVybGEuY29tL25ld3MvbC1hLWNvdW50eS1yZXBvcnRzLXNlY29uZC1jeWJlci1maXNoaW5nLWF0dGFjay9hcnRpY2xlXzk1MTU4YjljLTMwMmYtMTFlZi04YzBkLWY3ZTJkMGZmOTE2MS5hbXAuaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 00:37:00 GMT",
-        "source_url": "https://www.theeastsiderla.com",
-        "source_name": "The Eastsider"
-    },
-    {
-        "title": "California Supreme Court Blocks Tax Measure from November Ballot - Westside Today",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd2VzdHNpZGV0b2RheS5jb20vMjAyNC8wNi8yMC9jYWxpZm9ybmlhLXN1cHJlbWUtY291cnQtYmxvY2tzLXRheC1tZWFzdXJlLWZyb20tbm92ZW1iZXItYmFsbG90L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 04:51:57 GMT",
-        "source_url": "https://westsidetoday.com",
-        "source_name": "Westside Today"
-    },
-    {
-        "title": "LAPD offers $25K reward after LA Christian bookstore owner shot and left paralyzed - KABC-TV",
-        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYWJjNy5jb20vcG9zdC9sYXBkLW9mZmVyLXJld2FyZC1hZnRlci1sYS1jaHJpc3RpYW4tYm9va3N0b3JlLW93bmVyLWx1aXMtaGVybmFuZGV6LWxlZnQtcGFyYWx5emVkLWluLXNob290aW5nLzE0OTg0NjE3L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 14:46:12 GMT",
-        "source_url": "https://abc7.com",
-        "source_name": "KABC-TV"
-    },
-    {
-        "title": "L.A. families face \u2018nearly impossible\u2019 home down payments - KTLA Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL21lZGlhbi1pbmNvbWUtZmFtaWx5LWluLWwtYS13b3VsZC1uZWVkLW5lYXJseS1pbXBvc3NpYmxlLWRvd24tcGF5bWVudC10by1hZmZvcmQtbW9ydGdhZ2Uv0gF-aHR0cHM6Ly9rdGxhLmNvbS9uZXdzL2NhbGlmb3JuaWEvbWVkaWFuLWluY29tZS1mYW1pbHktaW4tbC1hLXdvdWxkLW5lZWQtbmVhcmx5LWltcG9zc2libGUtZG93bi1wYXltZW50LXRvLWFmZm9yZC1tb3J0Z2FnZS9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 22:33:24 GMT",
-        "source_url": "https://ktla.com",
-        "source_name": "KTLA Los Angeles"
     },
     {
         "title": "Your Morning LA Report - LAist",
@@ -336,7 +368,7 @@
         "source_name": "The San Gabriel Valley Tribune"
     },
     {
-        "title": "L.A. City Council to consider plan to save \u2018El Burro' at El Pueblo - Audacy",
+        "title": "L.A. City Council to consider plan to save 'El Burro' - Audacy",
         "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmF1ZGFjeS5jb20vOTMxamFja2ZtL25ld3MvbC1hLWNpdHktY291bmNpbC10by1jb25zaWRlci1wbGFuLXRvLXNhdmUtZWwtYnVycm_SAQA?oc=5",
         "description": [],
         "pub_date": "Fri, 21 Jun 2024 13:53:26 GMT",
@@ -344,15 +376,7 @@
         "source_name": "Audacy"
     },
     {
-        "title": "LA County sees surge in hate crimes against LGBTQ+ community - NBC Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvbG9zLWFuZ2VsZXMtY291bnR5LXNlZXMtc3VyZ2UtaGF0ZS1jcmltZXMtbGdidHEvMzQ0MTE5Mi_SAWdodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL2xvcy1hbmdlbGVzLWNvdW50eS1zZWVzLXN1cmdlLWhhdGUtY3JpbWVzLWxnYnRxLzM0NDExOTIvP2FtcD0x?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 01:42:14 GMT",
-        "source_url": "https://www.nbclosangeles.com",
-        "source_name": "NBC Los Angeles"
-    },
-    {
-        "title": "Hot Soups For Hot Days? - LAist",
+        "title": "Lemons In LA - LAist",
         "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbGFpc3QuY29tL2JyaWVmL25ld3MvZm9vZC95ZXMtd2Uta25vdy1hYm91dC1vcmFuZ2VzLWluLWxhLWhpc3RvcnktYnV0LWxlbW9ucy1oYWQtc29tZS1qdWljZS10b2_SAQA?oc=5",
         "description": [],
         "pub_date": "Fri, 21 Jun 2024 12:00:00 GMT",
@@ -360,28 +384,12 @@
         "source_name": "LAist"
     },
     {
-        "title": "D.i.D & tha cosmos: D.i.D Live In Los Angeles - Ventura County Reporter",
+        "title": "Ventura County Reporter Events - D.i.D & tha cosmos: D.i.D Live In Los Angeles - Ventura County Reporter",
         "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnZjcmVwb3J0ZXIuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDU1NjE2OTZuLWQtaS1kLXRoYS1jb3Ntb3MtZC1pLWQtbGl2ZS1pbi1sb3MtYW5nZWxlc9IBAA?oc=5",
         "description": [],
         "pub_date": "Fri, 21 Jun 2024 04:06:41 GMT",
         "source_url": "https://www.vcreporter.com",
         "source_name": "Ventura County Reporter"
-    },
-    {
-        "title": "Downtown L.A.'s graffiti-wrapped skyscrapers become permanent \u2014 in a tattoo - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5sYXRpbWVzLmNvbS9jYWxpZm9ybmlhL3N0b3J5LzIwMjQtMDYtMjAvc29jYWwtYXJ0aXN0LXBheXMtaG9tYWdlLXRvLWxvcy1hbmdlbGVzLXdpdGgtY29udHJvdmVyc2lhbC1ncmFmZml0aS1za3lzY3JhcGVyLXRhdHRvb9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 17:37:58 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "2 killed, 2 injured in crash near LAX - NBC Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvMi1raWxsZWQtMi1pbmp1cmVkLWluLWNyYXNoLW5lYXItbGF4LzM0NDIyMzgv0gFcaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9sb2NhbC8yLWtpbGxlZC0yLWluanVyZWQtaW4tY3Jhc2gtbmVhci1sYXgvMzQ0MjIzOC8_YW1wPTE?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 18:10:42 GMT",
-        "source_url": "https://www.nbclosangeles.com",
-        "source_name": "NBC Los Angeles"
     },
     {
         "title": "David Vela: Fostering Change in Education for LGBTQIA+ Students within the Los Angeles Community College District - Q Voice News",
@@ -392,76 +400,20 @@
         "source_name": "Q Voice News"
     },
     {
-        "title": "Catching Up with Priya Mehta: Host & Producer of South Asian Comedy Night - Voyage LA Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdm95YWdlbGEuY29tLzIwMjQvMDYvMjAvbWVldC1wcml5YS1tZWh0YS1ob3N0LXByb2R1Y2VyLW9mLXNvdXRoLWFzaWFuLWNvbWVkeS1uaWdodC_SAQA?oc=5",
+        "title": "Median income family in L.A. would need \u2018nearly impossible\u2019 down payment to afford mortgage - KGET 17",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmtnZXQuY29tL25ld3Mvc3RhdGUtbmV3cy9tZWRpYW4taW5jb21lLWZhbWlseS1pbi1sLWEtd291bGQtbmVlZC1uZWFybHktaW1wb3NzaWJsZS1kb3duLXBheW1lbnQtdG8tYWZmb3JkLW1vcnRnYWdlL9IBggFodHRwczovL3d3dy5rZ2V0LmNvbS9uZXdzL3N0YXRlLW5ld3MvbWVkaWFuLWluY29tZS1mYW1pbHktaW4tbC1hLXdvdWxkLW5lZWQtbmVhcmx5LWltcG9zc2libGUtZG93bi1wYXltZW50LXRvLWFmZm9yZC1tb3J0Z2FnZS9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Fri, 21 Jun 2024 04:47:50 GMT",
-        "source_url": "https://voyagela.com",
-        "source_name": "Voyage LA Magazine"
+        "pub_date": "Fri, 21 Jun 2024 04:42:55 GMT",
+        "source_url": "https://www.kget.com",
+        "source_name": "KGET 17"
     },
     {
-        "title": "Mixed-use building in the works at 13476 Washington Boulevard - Urbanize LA",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbGEudXJiYW5pemUuY2l0eS9wb3N0L21peGVkLXVzZS1idWlsZGluZy13b3Jrcy0xMzQ3Ni13YXNoaW5ndG9uLWJvdWxldmFyZNIBAA?oc=5",
+        "title": "Brother of LASD deputy searches for him in Greece - NBC Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvYnJvdGhlci1vZi1sYS1jb3VudHktZGVwdXR5LW1pc3NpbmctaW4tZ3JlZWNlLWlzLWRldGVybWluZWQtdG8tZmluZC1oaW0vMzQ0MjI2Ny_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 20 Jun 2024 17:30:00 GMT",
-        "source_url": "https://la.urbanize.city",
-        "source_name": "Urbanize LA"
-    },
-    {
-        "title": "Yes, We Know About Oranges In LA History \u2014 But Lemons Had Some Juice Too - LAist",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbGFpc3QuY29tL25ld3MvZm9vZC95ZXMtd2Uta25vdy1hYm91dC1vcmFuZ2VzLWluLWxhLWhpc3RvcnktYnV0LWxlbW9ucy1oYWQtc29tZS1qdWljZS10b2_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 12:00:00 GMT",
-        "source_url": "https://laist.com",
-        "source_name": "LAist"
-    },
-    {
-        "title": "One Year Ago Today (June 21, 2023)...LA City Council Approves Extending Therapeutic Van Program - MyNewsLA.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL215bmV3c2xhLmNvbS9nb3Zlcm5tZW50LzIwMjQvMDYvMjEvb25lLXllYXItYWdvLXRvZGF5LWp1bmUtMjEtMjAyMy1sYS1jaXR5LWNvdW5jaWwtYXBwcm92ZXMtZXh0ZW5kaW5nLXRoZXJhcGV1dGljLXZhbi1wcm9ncmFtL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 13:25:07 GMT",
-        "source_url": "https://mynewsla.com",
-        "source_name": "MyNewsLA.com"
-    },
-    {
-        "title": "LA CARNIVAL ON THE SHAW Culminates Juneteenth And Caribbean American Heritage Month - BroadwayWorld",
-        "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5icm9hZHdheXdvcmxkLmNvbS9sb3MtYW5nZWxlcy9hcnRpY2xlL0xBLUNBUk5JVkFMLU9OLVRIRS1TSEFXLUN1bG1pbmF0ZXMtSnVuZXRlZW50aC1BbmQtQ2FyaWJiZWFuLUFtZXJpY2FuLUhlcml0YWdlLU1vbnRoLTIwMjQwNjIw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 21:43:14 GMT",
-        "source_url": "https://www.broadwayworld.com",
-        "source_name": "BroadwayWorld"
-    },
-    {
-        "title": "Downtown Los Angeles' biotech market faces workforce challenges, industry experts say - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9sb3NhbmdlbGVzL25ld3MvMjAyNC8wNi8yMC9kb3dudG93bi1iaW90ZWNoLWxpZmUtc2NpZW5jZS1iaW9jb20tbGFydGEtbmV4Y29yZS5odG1s0gFyaHR0cHM6Ly93d3cuYml6am91cm5hbHMuY29tL2xvc2FuZ2VsZXMvbmV3cy8yMDI0LzA2LzIwL2Rvd250b3duLWJpb3RlY2gtbGlmZS1zY2llbmNlLWJpb2NvbS1sYXJ0YS1uZXhjb3JlLmFtcC5odG1s?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 21:25:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "The 16 Best Coffee Shops In LA - Los Angeles - The Infatuation",
-        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZWluZmF0dWF0aW9uLmNvbS9sb3MtYW5nZWxlcy9ndWlkZXMvYmVzdC1jb2ZmZWUtaW4tbGHSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 19:29:54 GMT",
-        "source_url": "https://www.theinfatuation.com",
-        "source_name": "The Infatuation"
-    },
-    {
-        "title": "Is LA ready for 'the big one'? What engineers are saying about SoCal's buildings - Spectrum News 1",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BlY3RydW1uZXdzMS5jb20vY2EvbGEtZWFzdC9wdWJsaWMtc2FmZXR5LzIwMjQvMDYvMjAvaXMtbGEtcmVhZHktZm9yLXRoZS1iaWctb25lLXdoYXQtZW5naW5lZXJzLWFyZS1zYXlpbmfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 18:40:00 GMT",
-        "source_url": "https://spectrumnews1.com",
-        "source_name": "Spectrum News 1"
-    },
-    {
-        "title": "Cause of death revealed for LA County deputy who died at South LA station - FOX 11 Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL2NhdXNlLWRlYXRoLXJldmVhbGVkLWxhLWNvdW50eS1kZXB1dHktd2hvLWRpZWQtc291dGgtbGEtc3RhdGlvbtIBXmh0dHBzOi8vd3d3LmZveGxhLmNvbS9uZXdzL2NhdXNlLWRlYXRoLXJldmVhbGVkLWxhLWNvdW50eS1kZXB1dHktd2hvLWRpZWQtc291dGgtbGEtc3RhdGlvbi5hbXA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 18:52:40 GMT",
-        "source_url": "https://www.foxla.com",
-        "source_name": "FOX 11 Los Angeles"
+        "pub_date": "Sat, 22 Jun 2024 18:36:15 GMT",
+        "source_url": "https://www.nbclosangeles.com",
+        "source_name": "NBC Los Angeles"
     },
     {
         "title": "Ionescu and Jones lead New York to 93-80 win over Los Angeles - AM 870 The ANSWER",
@@ -472,20 +424,44 @@
         "source_name": "AM 870 The ANSWER"
     },
     {
-        "title": "Theater's Thriving in LA - LAist",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbGFpc3QuY29tL2JyaWVmL25ld3MvaG91c2luZy1ob21lbGVzc25lc3MvbGEtY291bnR5LWhhbGYtY2VudC1zYWxlcy10YXgtbWVhc3VyZS1tYWtlcy1ub3ZlbWJlci1iYWxsb3TSAQA?oc=5",
+        "title": "Talking to empty chairs at City Hall - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5sYXRpbWVzLmNvbS9jYWxpZm9ybmlhL25ld3NsZXR0ZXIvMjAyNC0wNi0yMi9sYS1vbi10aGUtcmVjb3JkLW5ld3NsZXR0ZXItY2l0eS1jb3VuY2lsLW1lZXRpbmctYWJzZW50LWwtYS1vbi10aGUtcmVjb3Jk0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 20 Jun 2024 16:49:00 GMT",
+        "pub_date": "Sat, 22 Jun 2024 15:00:44 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "Yes, We Know About Oranges In LA History \u2014 But Lemons Had Some Juice Too - LAist",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbGFpc3QuY29tL25ld3MvZm9vZC95ZXMtd2Uta25vdy1hYm91dC1vcmFuZ2VzLWluLWxhLWhpc3RvcnktYnV0LWxlbW9ucy1oYWQtc29tZS1qdWljZS10b2_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 12:00:00 GMT",
         "source_url": "https://laist.com",
         "source_name": "LAist"
     },
     {
-        "title": "Justin Chart & COLORSTORM: Justin Chart - Ventura County Reporter",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnZjcmVwb3J0ZXIuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDU1NzkxMTRuLWp1c3Rpbi1jaGFydC1jb2xvcnN0b3JtLWp1c3Rpbi1jaGFydNIBAA?oc=5",
+        "title": "Nisei Week Japanese Festival (OPENING DAY) - Discover Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRpc2NvdmVybG9zYW5nZWxlcy5jb20vZXZlbnQvMjAyNC8wNy8xNC9uaXNlaS13ZWVrLWphcGFuZXNlLWZlc3RpdmFsLW9wZW5pbmctZGF50gEA?oc=5",
         "description": [],
-        "pub_date": "Sat, 22 Jun 2024 00:05:02 GMT",
-        "source_url": "https://www.vcreporter.com",
-        "source_name": "Ventura County Reporter"
+        "pub_date": "Sat, 22 Jun 2024 23:40:09 GMT",
+        "source_url": "https://www.discoverlosangeles.com",
+        "source_name": "Discover Los Angeles"
+    },
+    {
+        "title": "Westlake residents call on officials to clean up homeless encampment after fire causes damage - KABC-TV",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYWJjNy5jb20vcG9zdC93ZXN0bGFrZS1ob21lbGVzcy1lbmNhbXBtZW50LWZpcmUtZnJ1c3RyYXRlcy1yZXNpZGVudHMtYWZ0ZXItY2F1c2luZy1kYW1hZ2UtbG9zLWFuZ2VsZXMvMTQ5ODYwODIv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 23:53:15 GMT",
+        "source_url": "https://abc7.com",
+        "source_name": "KABC-TV"
+    },
+    {
+        "title": "How much a single person needs to earn to live alone in the 25 largest U.S. cities - NBC Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL25hdGlvbmFsLWludGVybmF0aW9uYWwvaG93LW11Y2gtYS1zaW5nbGUtcGVyc29uLW5lZWRzLXRvLWVhcm4tdG8tbGl2ZS1hbG9uZS1pbi10aGUtMjUtbGFyZ2VzdC11LXMtY2l0aWVzLzM0NDIyMTIv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 13:20:54 GMT",
+        "source_url": "https://www.nbclosangeles.com",
+        "source_name": "NBC Los Angeles"
     },
     {
         "title": "Playwright Roger Q. Mason says new play festival is 'changing the canon' - Spectrum News 1",
@@ -496,12 +472,28 @@
         "source_name": "Spectrum News 1"
     },
     {
-        "title": "Dine LA Restaurant Week (July 12-26, 2024) - Discover Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRpc2NvdmVybG9zYW5nZWxlcy5jb20vZXZlbnQvMjAyNC8wNy8xMi9kaW5lLWxhLXJlc3RhdXJhbnQtd2Vlay1qdWx5LTEyLTI2LTIwMjTSAQA?oc=5",
+        "title": "Downtown L.A.'s graffiti-wrapped skyscrapers become permanent \u2014 in a tattoo - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5sYXRpbWVzLmNvbS9jYWxpZm9ybmlhL3N0b3J5LzIwMjQtMDYtMjAvc29jYWwtYXJ0aXN0LXBheXMtaG9tYWdlLXRvLWxvcy1hbmdlbGVzLXdpdGgtY29udHJvdmVyc2lhbC1ncmFmZml0aS1za3lzY3JhcGVyLXRhdHRvb9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 20 Jun 2024 21:04:04 GMT",
-        "source_url": "https://www.discoverlosangeles.com",
-        "source_name": "Discover Los Angeles"
+        "pub_date": "Thu, 20 Jun 2024 17:37:58 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
+    },
+    {
+        "title": "One Year Ago Today (June 21, 2023)...LA City Council Approves Extending Therapeutic Van Program - MyNewsLA.com",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL215bmV3c2xhLmNvbS9nb3Zlcm5tZW50LzIwMjQvMDYvMjEvb25lLXllYXItYWdvLXRvZGF5LWp1bmUtMjEtMjAyMy1sYS1jaXR5LWNvdW5jaWwtYXBwcm92ZXMtZXh0ZW5kaW5nLXRoZXJhcGV1dGljLXZhbi1wcm9ncmFtL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 13:25:07 GMT",
+        "source_url": "https://mynewsla.com",
+        "source_name": "MyNewsLA.com"
+    },
+    {
+        "title": "LA County sees surge in hate crimes against LGBTQ+ community - NBC Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvbG9zLWFuZ2VsZXMtY291bnR5LXNlZXMtc3VyZ2UtaGF0ZS1jcmltZXMtbGdidHEvMzQ0MTE5Mi_SAWdodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsL2xvcy1hbmdlbGVzLWNvdW50eS1zZWVzLXN1cmdlLWhhdGUtY3JpbWVzLWxnYnRxLzM0NDExOTIvP2FtcD0x?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 01:42:14 GMT",
+        "source_url": "https://www.nbclosangeles.com",
+        "source_name": "NBC Los Angeles"
     },
     {
         "title": "The beautiful sounds of Street Symphony are heard on Skid Row - The Pasadena Star-News",
@@ -512,30 +504,6 @@
         "source_name": "The Pasadena Star-News"
     },
     {
-        "title": "Former Ace Hotel in downtown L.A. reopens as \u2018Airbnb on steroids\u2019 - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2J1c2luZXNzL3N0b3J5LzIwMjQtMDYtMjEvZm9ybWVyLWFjZS1ob3RlbC1pbi1kb3dudG93bi1sLWEtcmVvcGVucy1hcy1haXJibmItb24tc3Rlcm9pZHPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 20:42:24 GMT",
-        "source_url": "https://www.latimes.com",
-        "source_name": "Los Angeles Times"
-    },
-    {
-        "title": "How to best prevent and prepare for California's peak wildfire season - NBC Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvaG93LXRvLXByZXZlbnQtYW5kLXByZXBhcmUtZm9yLXdpbGRmaXJlLXNlYXNvbi8zNDQxMTQ1L9IBZmh0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvaG93LXRvLXByZXZlbnQtYW5kLXByZXBhcmUtZm9yLXdpbGRmaXJlLXNlYXNvbi8zNDQxMTQ1Lz9hbXA9MQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 02:03:45 GMT",
-        "source_url": "https://www.nbclosangeles.com",
-        "source_name": "NBC Los Angeles"
-    },
-    {
-        "title": "Keeping up with Coldwell Banker\u2019s Jade Mills - The Real Deal",
-        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlcmVhbGRlYWwuY29tL2xhLzIwMjQvMDYvMjAvcWEtd2l0aC1jb2xkd2VsbC1iYW5rZXJzLWphZGUtbWlsbHMv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 20 Jun 2024 15:14:00 GMT",
-        "source_url": "https://therealdeal.com",
-        "source_name": "The Real Deal"
-    },
-    {
         "title": "Councilman Introduces Motion for Pershing Square Name Change - MyNewsLA.com",
         "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbXluZXdzbGEuY29tL2xpZmUvMjAyNC8wNi8yMS9jb3VuY2lsbWFuLWludHJvZHVjZXMtbW90aW9uLWZvci1wZXJzaGluZy1zcXVhcmUtbmFtZS1jaGFuZ2UtMy_SAQA?oc=5",
         "description": [],
@@ -544,11 +512,51 @@
         "source_name": "MyNewsLA.com"
     },
     {
-        "title": "Kristen Bell Brings 'Reefer Madness' to Hollywood Boulevard, Putting The Spotlight On LA's Theater Scene - LAist",
-        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2xhaXN0LmNvbS9uZXdzL2hvdy10by1sYS9rcmlzdGVuLWJlbGwtYnJpbmdzLXJlZWZlci1tYWRuZXNzLXRvLWhvbGx5d29vZC1ib3VsZXZhcmQtcHV0dGluZy10aGUtc3BvdGxpZ2h0LW9uLWxhcy10aGVhdGVyLXNjZW5l0gEA?oc=5",
+        "title": "Loqui Set To Open Fourth Location - What Now Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd2hhdG5vd2xvc2FuZ2VsZXMuY29tL2xvcXVpLXNldC10by1vcGVuLWZvdXJ0aC1sb2NhdGlvbi_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 20 Jun 2024 15:43:00 GMT",
-        "source_url": "https://laist.com",
-        "source_name": "LAist"
+        "pub_date": "Sat, 22 Jun 2024 04:05:47 GMT",
+        "source_url": "https://whatnowlosangeles.com",
+        "source_name": "What Now Los Angeles"
+    },
+    {
+        "title": "Watch: Four-Year-Old Lost In Forest Overnight is Rescued - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvbG9zLWFuZ2VsZXMvd2F0Y2gtZm91ci15ZWFyLW9sZC1sb3N0LWZvcmVzdC1vdmVybmlnaHQtcmVzY3VlZNIBbWh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvbG9zLWFuZ2VsZXMvYW1wLzMxNzg5MDUwL3dhdGNoLWZvdXIteWVhci1vbGQtbG9zdC1pbi1mb3Jlc3Qtb3Zlcm5pZ2h0LWlzLXJlc2N1ZWQ?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 06:47:00 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Catching Up with Priya Mehta: Host & Producer of South Asian Comedy Night - Voyage LA Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdm95YWdlbGEuY29tLzIwMjQvMDYvMjAvbWVldC1wcml5YS1tZWh0YS1ob3N0LXByb2R1Y2VyLW9mLXNvdXRoLWFzaWFuLWNvbWVkeS1uaWdodC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 04:47:50 GMT",
+        "source_url": "https://voyagela.com",
+        "source_name": "Voyage LA Magazine"
+    },
+    {
+        "title": "A B.A. from Columbia could cost $500,000: Here are the top 10 most expensive places in the U.S. to go college - NBC Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL25hdGlvbmFsLWludGVybmF0aW9uYWwvYS1iLWEtZnJvbS1jb2x1bWJpYS1jb3VsZC1jb3N0LTUwMDAwMC1oZXJlLWFyZS10aGUtdG9wLTEwLW1vc3QtZXhwZW5zaXZlLXBsYWNlcy1pbi10aGUtdS1zLXRvLWdvLWNvbGxlZ2UvMzQ0MjE4Ny_SAbEBaHR0cHM6Ly93d3cubmJjbG9zYW5nZWxlcy5jb20vbmV3cy9uYXRpb25hbC1pbnRlcm5hdGlvbmFsL2EtYi1hLWZyb20tY29sdW1iaWEtY291bGQtY29zdC01MDAwMDAtaGVyZS1hcmUtdGhlLXRvcC0xMC1tb3N0LWV4cGVuc2l2ZS1wbGFjZXMtaW4tdGhlLXUtcy10by1nby1jb2xsZWdlLzM0NDIxODcvP2FtcD0x?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 11:54:02 GMT",
+        "source_url": "https://www.nbclosangeles.com",
+        "source_name": "NBC Los Angeles"
+    },
+    {
+        "title": "Ventura County Reporter Events - MK: Day Trip Festival LA - Ventura County Reporter",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnZjcmVwb3J0ZXIuY29tL2xvY2FsLWV2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDMxNzUyMzU0bi1tay1kYXktdHJpcC1mZXN0aXZhbC1sYdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 19:17:10 GMT",
+        "source_url": "https://www.vcreporter.com",
+        "source_name": "Ventura County Reporter"
+    },
+    {
+        "title": "Former Ace Hotel in downtown L.A. reopens as 'Airbnb on steroids' - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2J1c2luZXNzL3N0b3J5LzIwMjQtMDYtMjEvZm9ybWVyLWFjZS1ob3RlbC1pbi1kb3dudG93bi1sLWEtcmVvcGVucy1hcy1haXJibmItb24tc3Rlcm9pZHPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 21 Jun 2024 20:42:24 GMT",
+        "source_url": "https://www.latimes.com",
+        "source_name": "Los Angeles Times"
     }
 ]
