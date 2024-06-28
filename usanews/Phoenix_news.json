@@ -1,13 +1,5 @@
 [
     {
-        "title": "Phoenix chef Derek Christensen wins 'Chopped' - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvcGhvZW5peC1jaGVmLWRlcmVrLWNocmlzdGVuc2VuLXdpbnMtY2hvcHBlZC0xOTMyMjQzNtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 17:42:15 GMT",
-        "source_url": "https://www.phoenixnewtimes.com",
-        "source_name": "Phoenix New Times"
-    },
-    {
         "title": "Doobie Brothers and Michael McDonald bring the hits in Phoenix - The Arizona Republic",
         "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA2LzI3L2Rvb2JpZS1icm90aGVycy1waG9lbml4LWNvbmNlcnQtcmV2aWV3Lzc0MTc1Mjg5MDA3L9IBAA?oc=5",
         "description": [],
@@ -16,12 +8,60 @@
         "source_name": "The Arizona Republic"
     },
     {
-        "title": "Highway closed east of Phoenix indefinitely for rock blasting issue - KTAR.com",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8va3Rhci5jb20vc3RvcnkvNTU3ODI0MC9oaWdod2F5LXVzLTYwLWNsb3NlZC1lYXN0LW1ldHJvLXBob2VuaXgtYnJpZGdlLXJlcGxhY2VtZW50LXJvY2stYmxhc3Rpbmctc3VwZXJpb3ItbWlhbWkv0gEA?oc=5",
+        "title": "Phoenix chef Derek Christensen wins 'Chopped' - Phoenix New Times",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvcGhvZW5peC1jaGVmLWRlcmVrLWNocmlzdGVuc2VuLXdpbnMtY2hvcHBlZC0xOTMyMjQzNtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 17:42:15 GMT",
+        "source_url": "https://www.phoenixnewtimes.com",
+        "source_name": "Phoenix New Times"
+    },
+    {
+        "title": "Highway open east of Phoenix after bridge replacement hits snag - KTAR.com",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTU3ODI0MC91cy02MC1yZW9wZW5zLWVhc3Qtb2YtbWV0cm8tcGhvZW5peC1hZnRlci1icmlkZ2UtcmVwbGFjZW1lbnQtaGl0cy1zbmFnL9IBAA?oc=5",
         "description": [],
         "pub_date": "Thu, 27 Jun 2024 20:49:00 GMT",
         "source_url": "https://ktar.com",
         "source_name": "KTAR.com"
+    },
+    {
+        "title": "Phoenix mom says neighbor\u2019s guest house \u2018too close for comfort\u2019 blames city\u2019s new casita law - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3Bob2VuaXgtbW9tLXNheXMtbmVpZ2hib3JzLWd1ZXN0LWhvdXNlLXRvby1jbG9zZS1jb21mb3J0LWJsYW1lcy1jaXR5cy1uZXctY2FzaXRhLWxhdy_SAYgBaHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMjcvcGhvZW5peC1tb20tc2F5cy1uZWlnaGJvcnMtZ3Vlc3QtaG91c2UtdG9vLWNsb3NlLWNvbWZvcnQtYmxhbWVzLWNpdHlzLW5ldy1jYXNpdGEtbGF3Lz9vdXRwdXRUeXBlPWFtcA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 23:59:00 GMT",
+        "source_url": "https://www.azfamily.com",
+        "source_name": "Arizona's Family"
+    },
+    {
+        "title": "Nearly a dozen vehicles involved in chain-reaction crash on Loop 101 near 67th Avenue - ABC15 Arizona in Phoenix",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmFiYzE1LmNvbS90cmFmZmljL3NlcmlvdXMtY3Jhc2gtb24tbG9vcC0xMDEtbmVhci02N3RoLWF2ZW51ZS1sZWFkcy10by1tYWpvci1iYWNrdXDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 14:57:47 GMT",
+        "source_url": "https://www.abc15.com",
+        "source_name": "ABC15 Arizona in Phoenix"
+    },
+    {
+        "title": "Phoenix likely to hit warmest-ever low temp for June - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3Bob2VuaXgtbGlrZWx5LWhpdC13YXJtZXN0LWV2ZXItbG93LXRlbXAtanVuZS_SAWFodHRwczovL3d3dy5hemZhbWlseS5jb20vMjAyNC8wNi8yNy9waG9lbml4LWxpa2VseS1oaXQtd2FybWVzdC1ldmVyLWxvdy10ZW1wLWp1bmUvP291dHB1dFR5cGU9YW1w?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 17:04:00 GMT",
+        "source_url": "https://www.azfamily.com",
+        "source_name": "Arizona's Family"
+    },
+    {
+        "title": "Best breakfast in Phoenix: 10 restaurants to try - Phoenix New Times",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvYmVzdC1icmVha2Zhc3QtaW4tcGhvZW5peC0xOTMxNTE3MtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 16:10:08 GMT",
+        "source_url": "https://www.phoenixnewtimes.com",
+        "source_name": "Phoenix New Times"
+    },
+    {
+        "title": "Downtown Phoenix transit hub to be named 'Greg Stanton Central Station,' despite controversy - The Arizona Republic",
+        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvcGhvZW5peC8yMDI0LzA2LzI3L2Rvd250b3duLXBob2VuaXgtdHJhbnNpdC1odWItd2lsbC1iZS1ncmVnLXN0YW50b24tY2VudHJhbC1zdGF0aW9uLzc0MDc5MjUzMDA3L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 13:01:32 GMT",
+        "source_url": "https://www.azcentral.com",
+        "source_name": "The Arizona Republic"
     },
     {
         "title": "Phoenix prevailing wage ordinance denied by Maricopa Court, future in doubt - ABC15 Arizona in Phoenix",
@@ -40,26 +80,10 @@
         "source_name": "KTAR.com"
     },
     {
-        "title": "Best breakfast in Phoenix: 10 restaurants to try - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvYmVzdC1icmVha2Zhc3QtaW4tcGhvZW5peC0xOTMxNTE3MtIBAA?oc=5",
+        "title": "Giant TSMC plant in Phoenix is hiring and you don't need a college degree. Here's what to know - The Arizona Republic",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L21vbmV5L2J1c2luZXNzL2pvYnMvMjAyNC8wNi8yNy9qb2JzLWF0LXRzbWMtcGxhbnQtaW4tcGhvZW5peC15b3UtZG8tbm90LW5lZWQtYS1jb2xsZWdlLWRlZ3JlZS83NDE2MDE1MzAwNy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 16:10:08 GMT",
-        "source_url": "https://www.phoenixnewtimes.com",
-        "source_name": "Phoenix New Times"
-    },
-    {
-        "title": "Phoenix likely to hit warmest-ever low temp for June - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3Bob2VuaXgtbGlrZWx5LWhpdC13YXJtZXN0LWV2ZXItbG93LXRlbXAtanVuZS_SAWFodHRwczovL3d3dy5hemZhbWlseS5jb20vMjAyNC8wNi8yNy9waG9lbml4LWxpa2VseS1oaXQtd2FybWVzdC1ldmVyLWxvdy10ZW1wLWp1bmUvP291dHB1dFR5cGU9YW1w?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 17:04:00 GMT",
-        "source_url": "https://www.azfamily.com",
-        "source_name": "Arizona's Family"
-    },
-    {
-        "title": "Downtown Phoenix transit hub to be named 'Greg Stanton Central Station,' despite controversy - The Arizona Republic",
-        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvcGhvZW5peC8yMDI0LzA2LzI3L2Rvd250b3duLXBob2VuaXgtdHJhbnNpdC1odWItd2lsbC1iZS1ncmVnLXN0YW50b24tY2VudHJhbC1zdGF0aW9uLzc0MDc5MjUzMDA3L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 13:01:32 GMT",
+        "pub_date": "Thu, 27 Jun 2024 13:05:17 GMT",
         "source_url": "https://www.azcentral.com",
         "source_name": "The Arizona Republic"
     },
@@ -80,12 +104,12 @@
         "source_name": "ABC15 Arizona in Phoenix"
     },
     {
-        "title": "Giant TSMC plant in Phoenix is hiring and you don't need a college degree. Here's what to know - The Arizona Republic",
-        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L21vbmV5L2J1c2luZXNzL2pvYnMvMjAyNC8wNi8yNy9qb2JzLWF0LXRzbWMtcGxhbnQtaW4tcGhvZW5peC15b3UtZG8tbm90LW5lZWQtYS1jb2xsZWdlLWRlZ3JlZS83NDE2MDE1MzAwNy_SAQA?oc=5",
+        "title": "Popular Chicago popcorn shop denied opening of Arizona location - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3BvcHVsYXItY2hpY2Fnby1wb3Bjb3JuLXNob3AtZGVuaWVkLW9wZW5pbmctYXJpem9uYS1sb2NhdGlvbi_SAXBodHRwczovL3d3dy5hemZhbWlseS5jb20vMjAyNC8wNi8yNy9wb3B1bGFyLWNoaWNhZ28tcG9wY29ybi1zaG9wLWRlbmllZC1vcGVuaW5nLWFyaXpvbmEtbG9jYXRpb24vP291dHB1dFR5cGU9YW1w?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 13:05:17 GMT",
-        "source_url": "https://www.azcentral.com",
-        "source_name": "The Arizona Republic"
+        "pub_date": "Thu, 27 Jun 2024 19:54:00 GMT",
+        "source_url": "https://www.azfamily.com",
+        "source_name": "Arizona's Family"
     },
     {
         "title": "Anderson .Paak coming to Phoenix on his 'Malibu Tour' this fall - KTAR.com",
@@ -96,18 +120,26 @@
         "source_name": "KTAR.com"
     },
     {
-        "title": "Phoenix sued for not turning over records between officials, police union - ABC15 Arizona in Phoenix",
-        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFiYzE1LmNvbS9uZXdzL2xvY2FsLW5ld3MvaW52ZXN0aWdhdGlvbnMvcGhvZW5peC1zdWVkLWZvci1ub3QtdHVybmluZy1vdmVyLXJlY29yZHMtYmV0d2Vlbi1vZmZpY2lhbHMtcG9saWNlLXVuaW9u0gEA?oc=5",
+        "title": "Phoenix gives Police Chief Michael Sullivan new contract - Phoenix New Times",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vbmV3cy9waG9lbml4LWdpdmVzLXBvbGljZS1jaGllZi1taWNoYWVsLXN1bGxpdmFuLW5ldy1jb250cmFjdC0xOTMyNTI2OdIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 22:02:26 GMT",
-        "source_url": "https://www.abc15.com",
-        "source_name": "ABC15 Arizona in Phoenix"
+        "pub_date": "Fri, 28 Jun 2024 00:38:05 GMT",
+        "source_url": "https://www.phoenixnewtimes.com",
+        "source_name": "Phoenix New Times"
     },
     {
-        "title": "Popular Chicago popcorn shop denied opening of Arizona location - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3BvcHVsYXItY2hpY2Fnby1wb3Bjb3JuLXNob3AtZGVuaWVkLW9wZW5pbmctYXJpem9uYS1sb2NhdGlvbi_SAXBodHRwczovL3d3dy5hemZhbWlseS5jb20vMjAyNC8wNi8yNy9wb3B1bGFyLWNoaWNhZ28tcG9wY29ybi1zaG9wLWRlbmllZC1vcGVuaW5nLWFyaXpvbmEtbG9jYXRpb24vP291dHB1dFR5cGU9YW1w?oc=5",
+        "title": "Phoenix rental market remains fiercely competitive - Arizona Big Media",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXpiaWdtZWRpYS5jb20vcmVhbC1lc3RhdGUvcGhvZW5peC1yZW50YWwtbWFya2V0LXJlbWFpbnMtZmllcmNlbHktY29tcGV0aXRpdmUv0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 19:54:00 GMT",
+        "pub_date": "Thu, 27 Jun 2024 16:12:27 GMT",
+        "source_url": "https://azbigmedia.com",
+        "source_name": "Arizona Big Media"
+    },
+    {
+        "title": "Phoenix coffee company helping hotshots stay fueled during fire season - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3Bob2VuaXgtY29mZmVlLWNvbXBhbnktaGVscGluZy1ob3RzaG90cy1zdGF5LWZ1ZWxlZC1kdXJpbmctZmlyZS1zZWFzb24v0gF6aHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMjcvcGhvZW5peC1jb2ZmZWUtY29tcGFueS1oZWxwaW5nLWhvdHNob3RzLXN0YXktZnVlbGVkLWR1cmluZy1maXJlLXNlYXNvbi8_b3V0cHV0VHlwZT1hbXA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 15:48:00 GMT",
         "source_url": "https://www.azfamily.com",
         "source_name": "Arizona's Family"
     },
@@ -120,22 +152,6 @@
         "source_name": "The Arizona Republic"
     },
     {
-        "title": "Luxury Phoenix mansion with secret hideaways sells at auction - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNy9sdXh1cnktbWFuc2lvbi1zZWxscy1hdC1hdWN0aW9uLmh0bWzSAVxodHRwczovL3d3dy5iaXpqb3VybmFscy5jb20vcGhvZW5peC9uZXdzLzIwMjQvMDYvMjcvbHV4dXJ5LW1hbnNpb24tc2VsbHMtYXQtYXVjdGlvbi5hbXAuaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 21:53:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "Salvation Army hotline to help pay utility bills overwhelmed with calls in June - ABC15 Arizona in Phoenix",
-        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5hYmMxNS5jb20vbmV3cy9sb2NhbC1uZXdzL2ludmVzdGlnYXRpb25zL3NhbHZhdGlvbi1hcm15LWhvdGxpbmUtdG8taGVscC1wYXktdXRpbGl0eS1iaWxscy1vdmVyd2hlbG1lZC13aXRoLWNhbGxzLWluLWp1bmXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 22:58:28 GMT",
-        "source_url": "https://www.abc15.com",
-        "source_name": "ABC15 Arizona in Phoenix"
-    },
-    {
         "title": "Phoenix will spend $240,000 to form sports and events commission - KJZZ",
         "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lmtqenoub3JnLzIwMjQtMDYtMjcvcGhvZW5peC13aWxsLXNwZW5kLTI0MC0wMDAtdG8tZm9ybS1zcG9ydHMtYW5kLWV2ZW50cy1jb21taXNzaW9u0gEA?oc=5",
         "description": [],
@@ -144,20 +160,28 @@
         "source_name": "KJZZ"
     },
     {
-        "title": "Phoenix gives Police Chief Michael Sullivan new contract - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vbmV3cy9waG9lbml4LWdpdmVzLXBvbGljZS1jaGllZi1taWNoYWVsLXN1bGxpdmFuLW5ldy1jb250cmFjdC0xOTMyNTI2OdIBAA?oc=5",
+        "title": "12 Places to Beat the Heat in Phoenix This Summer - PHOENIX magazine",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBob2VuaXhtYWcuY29tLzIwMjQvMDYvMjcvMTItcGxhY2VzLXRvLWJlYXQtdGhlLWhlYXQtaW4tcGhvZW5peC10aGlzLXN1bW1lci_SAQA?oc=5",
         "description": [],
-        "pub_date": "Fri, 28 Jun 2024 00:38:05 GMT",
-        "source_url": "https://www.phoenixnewtimes.com",
-        "source_name": "Phoenix New Times"
+        "pub_date": "Thu, 27 Jun 2024 23:19:48 GMT",
+        "source_url": "https://www.phoenixmag.com",
+        "source_name": "PHOENIX magazine"
     },
     {
-        "title": "Phoenix coffee company helping hotshots stay fueled during fire season - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3Bob2VuaXgtY29mZmVlLWNvbXBhbnktaGVscGluZy1ob3RzaG90cy1zdGF5LWZ1ZWxlZC1kdXJpbmctZmlyZS1zZWFzb24v0gF6aHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMjcvcGhvZW5peC1jb2ZmZWUtY29tcGFueS1oZWxwaW5nLWhvdHNob3RzLXN0YXktZnVlbGVkLWR1cmluZy1maXJlLXNlYXNvbi8_b3V0cHV0VHlwZT1hbXA?oc=5",
+        "title": "Phoenix sued for not turning over records between officials, police union - ABC15 Arizona in Phoenix",
+        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFiYzE1LmNvbS9uZXdzL2xvY2FsLW5ld3MvaW52ZXN0aWdhdGlvbnMvcGhvZW5peC1zdWVkLWZvci1ub3QtdHVybmluZy1vdmVyLXJlY29yZHMtYmV0d2Vlbi1vZmZpY2lhbHMtcG9saWNlLXVuaW9u0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 15:48:00 GMT",
-        "source_url": "https://www.azfamily.com",
-        "source_name": "Arizona's Family"
+        "pub_date": "Wed, 26 Jun 2024 22:02:26 GMT",
+        "source_url": "https://www.abc15.com",
+        "source_name": "ABC15 Arizona in Phoenix"
+    },
+    {
+        "title": "Luxury Phoenix mansion with secret hideaways sells at auction - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNy9sdXh1cnktbWFuc2lvbi1zZWxscy1hdC1hdWN0aW9uLmh0bWzSAVxodHRwczovL3d3dy5iaXpqb3VybmFscy5jb20vcGhvZW5peC9uZXdzLzIwMjQvMDYvMjcvbHV4dXJ5LW1hbnNpb24tc2VsbHMtYXQtYXVjdGlvbi5hbXAuaHRtbA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 21:53:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
     },
     {
         "title": "Melanie Martinez concert is a trippy blend of spectacle and heart - The Arizona Republic",
@@ -168,20 +192,12 @@
         "source_name": "The Arizona Republic"
     },
     {
-        "title": "Free Sunscreen at City Parks Through Phoenix Parks & IMPACT Melanoma - Signals AZ",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNpZ25hbHNhei5jb20vYXJ0aWNsZXMvZnJlZS1zdW5zY3JlZW4tYXQtY2l0eS1wYXJrcy10aHJvdWdoLXBob2VuaXgtcGFya3MtaW1wYWN0LW1lbGFub21hL9IBAA?oc=5",
+        "title": "Where to Watch Fourth of July Fireworks in Phoenix - Arizona Foothills Magazine",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFyaXpvbmFmb290aGlsbHNtYWdhemluZS5jb20vdmFsbGV5Z2lybGJsb2cvZXZlbnRzL3doZXJlLXRvLXdhdGNoLWZvdXJ0aC1vZi1qdWx5LWZpcmV3b3Jrcy1pbi1waG9lbml4L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 23:14:58 GMT",
-        "source_url": "https://www.signalsaz.com",
-        "source_name": "Signals AZ"
-    },
-    {
-        "title": "Phoenix rental market remains fiercely competitive - Arizona Big Media",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXpiaWdtZWRpYS5jb20vcmVhbC1lc3RhdGUvcGhvZW5peC1yZW50YWwtbWFya2V0LXJlbWFpbnMtZmllcmNlbHktY29tcGV0aXRpdmUv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 16:12:27 GMT",
-        "source_url": "https://azbigmedia.com",
-        "source_name": "Arizona Big Media"
+        "pub_date": "Thu, 27 Jun 2024 11:26:15 GMT",
+        "source_url": "https://www.arizonafoothillsmagazine.com",
+        "source_name": "Arizona Foothills Magazine"
     },
     {
         "title": "Goodwill set to open in historic Firestone building in downtown Phoenix - The Business Journals",
@@ -192,6 +208,14 @@
         "source_name": "The Business Journals"
     },
     {
+        "title": "WATCH: Affordable housing 'hackathon' brings community together to create solutions - ABC15 Arizona in Phoenix",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmFiYzE1LmNvbS9uZXdzL2xvY2FsLW5ld3Mvd2F0Y2gtYWZmb3JkYWJsZS1ob3VzaW5nLWhhY2thdGhvbi1icmluZ3MtY29tbXVuaXR5LXRvZ2V0aGVyLXRvLWNyZWF0ZS1zb2x1dGlvbnPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 23:27:17 GMT",
+        "source_url": "https://www.abc15.com",
+        "source_name": "ABC15 Arizona in Phoenix"
+    },
+    {
         "title": "Hawaiian Bros launches 4th Valley restaurant in north Phoenix - MOUTH BY SOUTHWEST - mouth by southwest",
         "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbW91dGhieXNvdXRod2VzdC5jb20vMjAyNC8wNi8yNi9oYXdhaWlhbi1icm9zLWxhdW5jaGVzLTR0aC12YWxsZXktcmVzdGF1cmFudC1pbi1ub3J0aC1waG9lbml4L9IBAA?oc=5",
         "description": [],
@@ -200,12 +224,12 @@
         "source_name": "mouth by southwest"
     },
     {
-        "title": "Where to Watch Fourth of July Fireworks in Phoenix - Arizona Foothills Magazine",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFyaXpvbmFmb290aGlsbHNtYWdhemluZS5jb20vdmFsbGV5Z2lybGJsb2cvZXZlbnRzL3doZXJlLXRvLXdhdGNoLWZvdXJ0aC1vZi1qdWx5LWZpcmV3b3Jrcy1pbi1waG9lbml4L9IBAA?oc=5",
+        "title": "High heat sticks around in Phoenix with rain chances returning early next week - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L2hpZ2gtaGVhdC1zdGlja3MtYXJvdW5kLXBob2VuaXgtd2l0aC1yYWluLWNoYW5jZXMtcmV0dXJuaW5nLWVhcmx5LW5leHQtd2Vlay_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 11:26:15 GMT",
-        "source_url": "https://www.arizonafoothillsmagazine.com",
-        "source_name": "Arizona Foothills Magazine"
+        "pub_date": "Thu, 27 Jun 2024 13:00:00 GMT",
+        "source_url": "https://www.azfamily.com",
+        "source_name": "Arizona's Family"
     },
     {
         "title": "Food manufacturer plans to hire 100 in Laveen area deemed 'tech park' - The Arizona Republic",
@@ -224,6 +248,14 @@
         "source_name": "Phoenix New Times"
     },
     {
+        "title": "For July 4, sparklers and spinners are legal, but projectile fireworks are not - KJZZ",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lmtqenoub3JnL25ld3MvMjAyNC0wNi0yNi9mb3ItanVseS00LXNwYXJrbGVycy1hbmQtc3Bpbm5lcnMtYXJlLWxlZ2FsLWJ1dC1wcm9qZWN0aWxlLWZpcmV3b3Jrcy1hcmUtbm900gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 19:09:00 GMT",
+        "source_url": "https://www.kjzz.org",
+        "source_name": "KJZZ"
+    },
+    {
         "title": "Homebuilder eyes land near TSMC for new developments - Daily Independent",
         "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8veW91cnZhbGxleS5uZXQvc3Rvcmllcy9ob21lYnVpbGRlci1leWVzLWxhbmQtbmVhci10c21jLWZvci1uZXctZGV2ZWxvcG1lbnRzLDUxOTA2NtIBAA?oc=5",
         "description": [],
@@ -232,10 +264,18 @@
         "source_name": "Daily Independent"
     },
     {
-        "title": "Man\u2019s body found after Phoenix home catches on fire - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L2JvZHktZm91bmQtYWZ0ZXItcGhvZW5peC1ob21lLWNhdGNoZXMtZmlyZS_SAV5odHRwczovL3d3dy5hemZhbWlseS5jb20vMjAyNC8wNi8yNy9ib2R5LWZvdW5kLWFmdGVyLXBob2VuaXgtaG9tZS1jYXRjaGVzLWZpcmUvP291dHB1dFR5cGU9YW1w?oc=5",
+        "title": "Arizona Humane Society at capacity, offering free adoptions - KTAR.com",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTU3ODIwOS9hcml6b25hLWh1bWFuZS1zb2NpZXR5LWF0LWJyZWFraW5nLXBvaW50LWZvci1jYXBhY2l0eS1vZmZlcmluZy1mcmVlLWFkb3B0aW9ucy1mb3ItMTAtZGF5cy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 21:00:00 GMT",
+        "pub_date": "Thu, 27 Jun 2024 11:35:00 GMT",
+        "source_url": "https://ktar.com",
+        "source_name": "KTAR.com"
+    },
+    {
+        "title": "Answers may still lie in Arizona in case of Iowa news anchor who went missing in 1995 - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI4L2Fuc3dlcnMtbWF5LXN0aWxsLWxpZS1hcml6b25hLWNhc2UtaW93YS1uZXdzLWFuY2hvci13aG8td2VudC1taXNzaW5nLTE5OTUv0gF9aHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMjgvYW5zd2Vycy1tYXktc3RpbGwtbGllLWFyaXpvbmEtY2FzZS1pb3dhLW5ld3MtYW5jaG9yLXdoby13ZW50LW1pc3NpbmctMTk5NS8_b3V0cHV0VHlwZT1hbXA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 28 Jun 2024 04:24:00 GMT",
         "source_url": "https://www.azfamily.com",
         "source_name": "Arizona's Family"
     },
@@ -248,28 +288,28 @@
         "source_name": "The Business Journals"
     },
     {
-        "title": "Multi-family residential building coming to downtown Phoenix - KTAR.com",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTU3ODE4OC8yNi1zdG9yeS1tdWx0aS1mYW1pbHktcmVzaWRlbnRpYWwtYnVpbGRpbmctY29taW5nLXRvLWRvd250b3duLXBob2VuaXgv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 11:25:00 GMT",
-        "source_url": "https://ktar.com",
-        "source_name": "KTAR.com"
-    },
-    {
-        "title": "For July 4, sparklers and spinners are legal, but projectile fireworks are not - KJZZ",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lmtqenoub3JnL25ld3MvMjAyNC0wNi0yNi9mb3ItanVseS00LXNwYXJrbGVycy1hbmQtc3Bpbm5lcnMtYXJlLWxlZ2FsLWJ1dC1wcm9qZWN0aWxlLWZpcmV3b3Jrcy1hcmUtbm900gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 19:09:00 GMT",
-        "source_url": "https://www.kjzz.org",
-        "source_name": "KJZZ"
-    },
-    {
         "title": "Fuerza Regida tour 2024: Ticket, presale code for new Phoenix date - The Arizona Republic",
         "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDI0LzA2LzI3L2Z1ZXJ6YS1yZWdpZGEtdG91ci0yMDI0LW5ldy1waG9lbml4LWRhdGUvNzQyMjIzMDMwMDcv0gEA?oc=5",
         "description": [],
         "pub_date": "Thu, 27 Jun 2024 12:02:18 GMT",
         "source_url": "https://www.azcentral.com",
         "source_name": "The Arizona Republic"
+    },
+    {
+        "title": "Free Sunscreen at City Parks Through Phoenix Parks & IMPACT Melanoma - Signals AZ",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNpZ25hbHNhei5jb20vYXJ0aWNsZXMvZnJlZS1zdW5zY3JlZW4tYXQtY2l0eS1wYXJrcy10aHJvdWdoLXBob2VuaXgtcGFya3MtaW1wYWN0LW1lbGFub21hL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 23:14:58 GMT",
+        "source_url": "https://www.signalsaz.com",
+        "source_name": "Signals AZ"
+    },
+    {
+        "title": "Multi-family residential building coming to downtown Phoenix - KTAR.com",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8va3Rhci5jb20vc3RvcnkvNTU3ODE4OC8yNi1zdG9yeS1tdWx0aS1mYW1pbHktcmVzaWRlbnRpYWwtYnVpbGRpbmctY29taW5nLXRvLWRvd250b3duLXBob2VuaXgv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 11:25:00 GMT",
+        "source_url": "https://ktar.com",
+        "source_name": "KTAR.com"
     },
     {
         "title": "Phoenix business news: Televerde names new CEO | Local Business | citysuntimes.com - citysuntimes",
@@ -288,6 +328,14 @@
         "source_name": "Real Estate Daily News"
     },
     {
+        "title": "Firefighters battle 500-acre Boulder View wildfire threatens structures near north Scottsdale - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L2JydXNoLWZpcmUtYnVybmluZy1uZWFyLW5vcnRoLXNjb3R0c2RhbGUtbm8tc3RydWN0dXJlcy10aHJlYXRlbmVkL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 22:37:00 GMT",
+        "source_url": "https://www.azfamily.com",
+        "source_name": "Arizona's Family"
+    },
+    {
         "title": "City concern: Cheaper internet's impact on streets | News | ahwatukee.com - Ahwatukee Foothills News",
         "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5haHdhdHVrZWUuY29tL25ld3MvY2l0eS1jb25jZXJuLWNoZWFwZXItaW50ZXJuZXQtcy1pbXBhY3Qtb24tc3RyZWV0cy9hcnRpY2xlXzVjNGY2NzA2LTMyNjQtMTFlZi05MDdkLWRmOWU5ZDNkZjg0NC5odG1s0gEA?oc=5",
         "description": [],
@@ -296,34 +344,10 @@
         "source_name": "Ahwatukee Foothills News"
     },
     {
-        "title": "ADEQ works to stop mine from contaminating river outside of Prescott - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L2FkZXEtd29ya3Mtc3RvcC1taW5lLWNvbnRhbWluYXRpbmctcml2ZXItb3V0c2lkZS1wcmVzY290dC_SAW1odHRwczovL3d3dy5hemZhbWlseS5jb20vMjAyNC8wNi8yNy9hZGVxLXdvcmtzLXN0b3AtbWluZS1jb250YW1pbmF0aW5nLXJpdmVyLW91dHNpZGUtcHJlc2NvdHQvP291dHB1dFR5cGU9YW1w?oc=5",
+        "title": "WATCH: Tempe company's water-saving method for cleaning your pool filters - ABC15 Arizona in Phoenix",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFiYzE1LmNvbS93ZWF0aGVyL2ltcGFjdC1lYXJ0aC93YXRjaC10ZW1wZS1jb21wYW55cy13YXRlci1zYXZpbmctbWV0aG9kLWZvci1jbGVhbmluZy15b3VyLXBvb2wtZmlsdGVyc9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 01:30:00 GMT",
-        "source_url": "https://www.azfamily.com",
-        "source_name": "Arizona's Family"
-    },
-    {
-        "title": "Made in Arizona breweries, distilleries and wineries are becoming toast of the town - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNy9hcml6b25hLWJyZXdlcmllcy1kaXN0aWxsZXJpZXMtd2luZXJpZXMuaHRtbNIBZGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNy9hcml6b25hLWJyZXdlcmllcy1kaXN0aWxsZXJpZXMtd2luZXJpZXMuYW1wLmh0bWw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 22:59:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "Drones helping firefighters keep the Valley safe - 12news.com KPNX",
-        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy4xMm5ld3MuY29tL2FydGljbGUvbmV3cy9sb2NhbC92YWxsZXkvZHJvbmVzLWhlbHBpbmctZmlyc3QtcmVzcG9uZGVycy1rZWVwLXRoZS12YWxsZXktc2FmZS83NS1iNGQ4Mzg3Yi0zNWMzLTQxMzUtODMwNC0zNDJmZmJhODc0OTTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 01:30:00 GMT",
-        "source_url": "https://www.12news.com",
-        "source_name": "12news.com KPNX"
-    },
-    {
-        "title": "Owners of Little Miss BBQ look for new locations for new type of restaurant - ABC15 Arizona in Phoenix",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFiYzE1LmNvbS9uZXdzL2J1c2luZXNzL293bmVycy1vZi1saXR0bGUtbWlzcy1iYnEtbG9vay1mb3ItbmV3LWxvY2F0aW9ucy1mb3ItbmV3LXR5cGUtb2YtcmVzdGF1cmFudNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 15:41:50 GMT",
+        "pub_date": "Fri, 28 Jun 2024 00:48:00 GMT",
         "source_url": "https://www.abc15.com",
         "source_name": "ABC15 Arizona in Phoenix"
     },
@@ -336,12 +360,12 @@
         "source_name": "The Arizona Republic"
     },
     {
-        "title": "In Phoenix, VP Kamala Harris puts focus on abortion rights as advocates mark two years post-Roe v. Wade - Prescott Daily Courier",
-        "link": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5kY291cmllci5jb20vbmV3cy9pbi1waG9lbml4LXZwLWthbWFsYS1oYXJyaXMtcHV0cy1mb2N1cy1vbi1hYm9ydGlvbi1yaWdodHMtYXMtYWR2b2NhdGVzLW1hcmstdHdvLXllYXJzL2FydGljbGVfOGQ0NTY2NzQtMzMzMy0xMWVmLWExOTgtZDc2ZDU4MjcwN2RmLmh0bWzSAQA?oc=5",
+        "title": "Ernst & Young's top Phoenix market exec retires; successor named - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNi9lcm5zdC15b3VuZy1waG9lbml4LW1hcmtldC1wcmVzaWRlbnQtcmV0aXJlcy5odG1s0gFpaHR0cHM6Ly93d3cuYml6am91cm5hbHMuY29tL3Bob2VuaXgvbmV3cy8yMDI0LzA2LzI2L2VybnN0LXlvdW5nLXBob2VuaXgtbWFya2V0LXByZXNpZGVudC1yZXRpcmVzLmFtcC5odG1s?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 02:15:00 GMT",
-        "source_url": "https://www.dcourier.com",
-        "source_name": "Prescott Daily Courier"
+        "pub_date": "Wed, 26 Jun 2024 12:30:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
     },
     {
         "title": "Body found in Glendale backyard identified as missing teenager - KTAR.com",
@@ -352,12 +376,12 @@
         "source_name": "KTAR.com"
     },
     {
-        "title": "Ernst & Young's top Phoenix market exec retires; successor named - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNi9lcm5zdC15b3VuZy1waG9lbml4LW1hcmtldC1wcmVzaWRlbnQtcmV0aXJlcy5odG1s0gFpaHR0cHM6Ly93d3cuYml6am91cm5hbHMuY29tL3Bob2VuaXgvbmV3cy8yMDI0LzA2LzI2L2VybnN0LXlvdW5nLXBob2VuaXgtbWFya2V0LXByZXNpZGVudC1yZXRpcmVzLmFtcC5odG1s?oc=5",
+        "title": "Nature's therapy: How one Phoenix woman found healing in rock climbing - Phoenix New Times",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vYXJ0cy9ob3ctb25lLXBob2VuaXgtd29tYW4tZm91bmQtaGVhbGluZy1pbi1yb2NrLWNsaW1iaW5nLTE5MzIyOTkw0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 12:30:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
+        "pub_date": "Thu, 27 Jun 2024 21:21:50 GMT",
+        "source_url": "https://www.phoenixnewtimes.com",
+        "source_name": "Phoenix New Times"
     },
     {
         "title": "Things to do: Arizona Science Center to present livestream of 'OceanX Expedition: Unveiling the Deep' June 27 - Queen Creek Sun Times",
@@ -368,36 +392,36 @@
         "source_name": "Queen Creek Sun Times"
     },
     {
-        "title": "Phoenix Footprint Center parking: Pricing, options and more - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vbXVzaWMvcGhvZW5peC1mb290cHJpbnQtY2VudGVyLXBhcmtpbmctcHJpY2luZy0xOTI5ODkwOdIBAA?oc=5",
+        "title": "The Arizona Citizens Clean Elections Commission and Arizona Media Association host Arizona debates - KVOA Tucson News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5rdm9hLmNvbS9uZXdzL2RlY2lzaW9uMjAyNC90aGUtYXJpem9uYS1jaXRpemVucy1jbGVhbi1lbGVjdGlvbnMtY29tbWlzc2lvbi1hbmQtYXJpem9uYS1tZWRpYS1hc3NvY2lhdGlvbi1ob3N0LWFyaXpvbmEtZGViYXRlcy9hcnRpY2xlX2Y5NjM4MjIyLTM0MWEtMTFlZi04NjY4LTdmYTAzMjhjNjRkNy5odG1s0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 22:15:08 GMT",
-        "source_url": "https://www.phoenixnewtimes.com",
-        "source_name": "Phoenix New Times"
+        "pub_date": "Thu, 27 Jun 2024 01:00:00 GMT",
+        "source_url": "https://www.kvoa.com",
+        "source_name": "KVOA Tucson News"
     },
     {
-        "title": "Rancho Mirage woman leads Army veteran ladies in Phoenix - InMaricopa.com",
-        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmlubWFyaWNvcGEuY29tL3JhbmNoby1taXJhZ2Utd29tYW4tbGVhZHMtYXJteS12ZXRlcmFuLWxhZGllcy1pbi1waG9lbml4L9IBAA?oc=5",
+        "title": "Owners of Little Miss BBQ look for new locations for new type of restaurant - ABC15 Arizona in Phoenix",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFiYzE1LmNvbS9uZXdzL2J1c2luZXNzL293bmVycy1vZi1saXR0bGUtbWlzcy1iYnEtbG9vay1mb3ItbmV3LWxvY2F0aW9ucy1mb3ItbmV3LXR5cGUtb2YtcmVzdGF1cmFudNIBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 23:25:46 GMT",
-        "source_url": "https://www.inmaricopa.com",
-        "source_name": "InMaricopa.com"
+        "pub_date": "Wed, 26 Jun 2024 15:41:50 GMT",
+        "source_url": "https://www.abc15.com",
+        "source_name": "ABC15 Arizona in Phoenix"
     },
     {
-        "title": "Phoenix mom says neighbor\u2019s guest house \u2018too close for comfort\u2019 blames city\u2019s new casita law - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3Bob2VuaXgtbW9tLXNheXMtbmVpZ2hib3JzLWd1ZXN0LWhvdXNlLXRvby1jbG9zZS1jb21mb3J0LWJsYW1lcy1jaXR5cy1uZXctY2FzaXRhLWxhdy_SAYgBaHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMjcvcGhvZW5peC1tb20tc2F5cy1uZWlnaGJvcnMtZ3Vlc3QtaG91c2UtdG9vLWNsb3NlLWNvbWZvcnQtYmxhbWVzLWNpdHlzLW5ldy1jYXNpdGEtbGF3Lz9vdXRwdXRUeXBlPWFtcA?oc=5",
+        "title": "ADEQ works to stop mine from contaminating river outside of Prescott - Arizona's Family",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L2FkZXEtd29ya3Mtc3RvcC1taW5lLWNvbnRhbWluYXRpbmctcml2ZXItb3V0c2lkZS1wcmVzY290dC_SAW1odHRwczovL3d3dy5hemZhbWlseS5jb20vMjAyNC8wNi8yNy9hZGVxLXdvcmtzLXN0b3AtbWluZS1jb250YW1pbmF0aW5nLXJpdmVyLW91dHNpZGUtcHJlc2NvdHQvP291dHB1dFR5cGU9YW1w?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 23:59:00 GMT",
+        "pub_date": "Thu, 27 Jun 2024 01:30:00 GMT",
         "source_url": "https://www.azfamily.com",
         "source_name": "Arizona's Family"
     },
     {
-        "title": "Video: Why so much vitriol toward Maricopa County election supervisors? - KTAR.com - KTAR.com",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8va3Rhci5jb20vc3RvcnkveW91dHViZV92aWRlb3MvdmlkZW8td2h5LXNvLW11Y2gtdml0cmlvbC10b3dhcmQtbWFyaWNvcGEtY291bnR5LWVsZWN0aW9uLXN1cGVydmlzb3JzL9IBAA?oc=5",
+        "title": "Can you swim in Tempe Town Lake? - 12news.com KPNX",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy4xMm5ld3MuY29tL2FydGljbGUvbmV3cy9sb2NhbC93YXRlci1zYWZldHkvd2h5LXlvdS1jYW5ub3Qtc3dpbS10ZW1wZS10b3duLWxha2UvNzUtNGE4NjgyMTgtYjliOS00YTBhLWJkYzItMDI0ODNiZGI4MTA40gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 18:06:00 GMT",
-        "source_url": "https://ktar.com",
-        "source_name": "KTAR.com"
+        "pub_date": "Thu, 27 Jun 2024 22:32:00 GMT",
+        "source_url": "https://www.12news.com",
+        "source_name": "12news.com KPNX"
     },
     {
         "title": "How hot is too hot to fly? How extreme heat affects airplanes - The Arizona Republic",
@@ -408,28 +432,28 @@
         "source_name": "The Arizona Republic"
     },
     {
-        "title": "Phoenix is the Best Market for College Graduates, Report - Arizona Foothills Magazine",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFyaXpvbmFmb290aGlsbHNtYWdhemluZS5jb20vdmFsbGV5Z2lybGJsb2cvbmV3cy9waG9lbml4LWlzLXRoZS1iZXN0LW1hcmtldC1mb3ItY29sbGVnZS1ncmFkdWF0ZXMtcmVwb3J0L9IBAA?oc=5",
+        "title": "Video: Why so much vitriol toward Maricopa County election supervisors? - KTAR.com - KTAR.com",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8va3Rhci5jb20vc3RvcnkveW91dHViZV92aWRlb3MvdmlkZW8td2h5LXNvLW11Y2gtdml0cmlvbC10b3dhcmQtbWFyaWNvcGEtY291bnR5LWVsZWN0aW9uLXN1cGVydmlzb3JzL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 23:37:30 GMT",
-        "source_url": "https://www.arizonafoothillsmagazine.com",
-        "source_name": "Arizona Foothills Magazine"
+        "pub_date": "Thu, 27 Jun 2024 18:06:00 GMT",
+        "source_url": "https://ktar.com",
+        "source_name": "KTAR.com"
     },
     {
-        "title": "Taste 'The Bear' Italian beef sandwich at Huss Brewing Co. in Phoenix - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvdGFzdGUtdGhlLWJlYXItaXRhbGlhbi1iZWVmLXNhbmR3aWNoLWF0LWh1c3MtYnJld2luZy1jby1pbi1waG9lbml4LTE5MzE2OTQ20gEA?oc=5",
+        "title": "Phoenix Footprint Center parking: Pricing, options and more - Phoenix New Times",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vbXVzaWMvcGhvZW5peC1mb290cHJpbnQtY2VudGVyLXBhcmtpbmctcHJpY2luZy0xOTI5ODkwOdIBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 17:12:15 GMT",
+        "pub_date": "Wed, 26 Jun 2024 22:15:08 GMT",
         "source_url": "https://www.phoenixnewtimes.com",
         "source_name": "Phoenix New Times"
     },
     {
-        "title": "The Arizona Citizens Clean Elections Commission and Arizona Media Association host Arizona debates - KVOA Tucson News",
-        "link": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5rdm9hLmNvbS9uZXdzL2RlY2lzaW9uMjAyNC90aGUtYXJpem9uYS1jaXRpemVucy1jbGVhbi1lbGVjdGlvbnMtY29tbWlzc2lvbi1hbmQtYXJpem9uYS1tZWRpYS1hc3NvY2lhdGlvbi1ob3N0LWFyaXpvbmEtZGViYXRlcy9hcnRpY2xlX2Y5NjM4MjIyLTM0MWEtMTFlZi04NjY4LTdmYTAzMjhjNjRkNy5odG1s0gEA?oc=5",
+        "title": "Drones helping firefighters keep the Valley safe - 12news.com KPNX",
+        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy4xMm5ld3MuY29tL2FydGljbGUvbmV3cy9sb2NhbC92YWxsZXkvZHJvbmVzLWhlbHBpbmctZmlyc3QtcmVzcG9uZGVycy1rZWVwLXRoZS12YWxsZXktc2FmZS83NS1iNGQ4Mzg3Yi0zNWMzLTQxMzUtODMwNC0zNDJmZmJhODc0OTTSAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 01:00:00 GMT",
-        "source_url": "https://www.kvoa.com",
-        "source_name": "KVOA Tucson News"
+        "pub_date": "Wed, 26 Jun 2024 01:30:00 GMT",
+        "source_url": "https://www.12news.com",
+        "source_name": "12news.com KPNX"
     },
     {
         "title": "Rabbi David Rebibo, Phoenix's legendary Orthodox pioneer and visionary, dies in Jerusalem - Jewish News of Greater Phoenix",
@@ -440,12 +464,28 @@
         "source_name": "Jewish News of Greater Phoenix"
     },
     {
-        "title": "Firefighters battle 500-acre wildfire near north Scottsdale - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L2JydXNoLWZpcmUtYnVybmluZy1uZWFyLW5vcnRoLXNjb3R0c2RhbGUtbm8tc3RydWN0dXJlcy10aHJlYXRlbmVkL9IBAA?oc=5",
+        "title": "Made in Arizona breweries, distilleries and wineries are becoming toast of the town - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNy9hcml6b25hLWJyZXdlcmllcy1kaXN0aWxsZXJpZXMtd2luZXJpZXMuaHRtbNIBZGh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waG9lbml4L25ld3MvMjAyNC8wNi8yNy9hcml6b25hLWJyZXdlcmllcy1kaXN0aWxsZXJpZXMtd2luZXJpZXMuYW1wLmh0bWw?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 22:37:00 GMT",
-        "source_url": "https://www.azfamily.com",
-        "source_name": "Arizona's Family"
+        "pub_date": "Thu, 27 Jun 2024 22:59:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
+        "title": "Community remembers Diamond Fire one year later, exact cause still undetermined - ABC15 Arizona in Phoenix",
+        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hYmMxNS5jb20vbmV3cy9yZWdpb24tbm9ydGhlYXN0LXZhbGxleS9zY290dHNkYWxlL2NvbW11bml0eS1yZW1lbWJlcnMtZGlhbW9uZC1maXJlLW9uZS15ZWFyLWxhdGVyLWV4YWN0LWNhdXNlLXN0aWxsLXVuZGV0ZXJtaW5lZNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 21:58:10 GMT",
+        "source_url": "https://www.abc15.com",
+        "source_name": "ABC15 Arizona in Phoenix"
+    },
+    {
+        "title": "In Phoenix, VP Kamala Harris puts focus on abortion rights as advocates mark two years post-Roe v. Wade - Prescott Daily Courier",
+        "link": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5kY291cmllci5jb20vbmV3cy9pbi1waG9lbml4LXZwLWthbWFsYS1oYXJyaXMtcHV0cy1mb2N1cy1vbi1hYm9ydGlvbi1yaWdodHMtYXMtYWR2b2NhdGVzLW1hcmstdHdvLXllYXJzL2FydGljbGVfOGQ0NTY2NzQtMzMzMy0xMWVmLWExOTgtZDc2ZDU4MjcwN2RmLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 02:15:00 GMT",
+        "source_url": "https://www.dcourier.com",
+        "source_name": "Prescott Daily Courier"
     },
     {
         "title": "A Community Gem: Inside the Parsons Center for Health and Wellness - Downtown Phoenix Inc.",
@@ -456,76 +496,20 @@
         "source_name": "Downtown Phoenix Inc."
     },
     {
-        "title": "Nature's therapy: How one Phoenix woman found healing in rock climbing - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vYXJ0cy9ob3ctb25lLXBob2VuaXgtd29tYW4tZm91bmQtaGVhbGluZy1pbi1yb2NrLWNsaW1iaW5nLTE5MzIyOTkw0gEA?oc=5",
+        "title": "Taste 'The Bear' Italian beef sandwich at Huss Brewing Co. in Phoenix - Phoenix New Times",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvdGFzdGUtdGhlLWJlYXItaXRhbGlhbi1iZWVmLXNhbmR3aWNoLWF0LWh1c3MtYnJld2luZy1jby1pbi1waG9lbml4LTE5MzE2OTQ20gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 21:21:50 GMT",
+        "pub_date": "Thu, 27 Jun 2024 17:12:15 GMT",
         "source_url": "https://www.phoenixnewtimes.com",
         "source_name": "Phoenix New Times"
     },
     {
-        "title": "Best pizza in metro Phoenix: Chicago-style, slices and woodfire - The Arizona Republic",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9kaW5pbmcvMjAyNC8wNi8yNy9waG9lbml4LWVzc2VudGlhbC1waXp6ZXJpYS1waXp6YS1yZXN0YXVyYW50cy83NDIyNTM1MTAwNy_SAQA?oc=5",
+        "title": "Troy Hayden leaving Fox 10 Phoenix after 30 years: 'A tough decision' - The Arizona Republic",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tZWRpYS8yMDI0LzA2LzI2L3Ryb3ktaGF5ZGVuLWxlYXZlcy1mb3gtMTAtcGhvZW5peC83NDIyMTg3MzAwNy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 27 Jun 2024 13:12:23 GMT",
+        "pub_date": "Wed, 26 Jun 2024 20:48:20 GMT",
         "source_url": "https://www.azcentral.com",
         "source_name": "The Arizona Republic"
-    },
-    {
-        "title": "Man found dead on Sunday after shooting in west Phoenix - KTAR.com",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8va3Rhci5jb20vc3RvcnkvNTU3ODA2MC9tYW4tZm91bmQtZGVhZC1vbi1zdW5kYXktYWZ0ZXItc2hvb3RpbmctaW4td2VzdC1waG9lbml4L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 16:00:00 GMT",
-        "source_url": "https://ktar.com",
-        "source_name": "KTAR.com"
-    },
-    {
-        "title": "Pile-up collision causing delays on Loop 101 in Glendale; all lanes blocked - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L3BpbGUtdXAtY29sbGlzaW9uLWNhdXNpbmctZGVsYXlzLWxvb3AtMTAxLWdsZW5kYWxlLWFsbC1sYW5lcy1ibG9ja2VkL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 14:52:00 GMT",
-        "source_url": "https://www.azfamily.com",
-        "source_name": "Arizona's Family"
-    },
-    {
-        "title": "Phoenix free weed deals from Mint Cannabis in July - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vbWFyaWp1YW5hL3Bob2VuaXgtZnJlZS13ZWVkLWRlYWxzLW1pbnQtY2FubmFiaXMtanVseS0xOTMwNTYzNtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 19:51:27 GMT",
-        "source_url": "https://www.phoenixnewtimes.com",
-        "source_name": "Phoenix New Times"
-    },
-    {
-        "title": "Body found in Scottsdale, believed to be missing 85-year-old Brookhaven Assisted Living resident - FOX 10 News Phoenix",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9ib2R5LWZvdW5kLXNjb3R0c2RhbGUtYmVsaWV2ZWQtYmUtbWlzc2luZy04NS15ZWFyLW9sZC1icm9va2hhdmVuLWFzc2lzdGVkLWxpdmluZy1yZXNpZGVudNIBf2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9ib2R5LWZvdW5kLXNjb3R0c2RhbGUtYmVsaWV2ZWQtYmUtbWlzc2luZy04NS15ZWFyLW9sZC1icm9va2hhdmVuLWFzc2lzdGVkLWxpdmluZy1yZXNpZGVudC5hbXA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 04:05:14 GMT",
-        "source_url": "https://www.fox10phoenix.com",
-        "source_name": "FOX 10 News Phoenix"
-    },
-    {
-        "title": "Need to get your steps in? Where to find indoor tracks, walking spots on a budget this summer in the Valley - Arizona's Family",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzI3L25lZWQtZ2V0LXlvdXItc3RlcHMtd2hlcmUtZmluZC1pbmRvb3ItdHJhY2tzLXdhbGtpbmctc3BvdHMtYnVkZ2V0LXRoaXMtc3VtbWVyLXZhbGxleS_SAYgBaHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMjcvbmVlZC1nZXQteW91ci1zdGVwcy13aGVyZS1maW5kLWluZG9vci10cmFja3Mtd2Fsa2luZy1zcG90cy1idWRnZXQtdGhpcy1zdW1tZXItdmFsbGV5Lz9vdXRwdXRUeXBlPWFtcA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 27 Jun 2024 15:33:00 GMT",
-        "source_url": "https://www.azfamily.com",
-        "source_name": "Arizona's Family"
-    },
-    {
-        "title": "Anthony Reynolds accused of fatally beating puppy in Phoenix - The Arizona Republic",
-        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvcGhvZW5peC1icmVha2luZy8yMDI0LzA2LzI1L3Bob2VuaXgtbWFuLWFjY3VzZWQtb2YtYW5pbWFsLWFidXNlLWFmdGVyLXB1cHB5LWZvdW5kLWJlYXRlbi10by1kZWF0aC83NDIxMTcwNzAwNy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 23:53:55 GMT",
-        "source_url": "https://www.azcentral.com",
-        "source_name": "The Arizona Republic"
-    },
-    {
-        "title": "Hidden Track in downtown Phoenix has sold, new cafe moves in - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvaGlkZGVuLXRyYWNrLWNhZmUtaW4tZG93bnRvd24tcGhvZW5peC1oYXMtc29sZC1jYWN0dXMtY2xvdWQtbW92ZXMtaW4tMTkzMDYxOTfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 15:57:50 GMT",
-        "source_url": "https://www.phoenixnewtimes.com",
-        "source_name": "Phoenix New Times"
     },
     {
         "title": "Man sentenced to 42 years for deadly Burger King shooting in west Phoenix - Arizona's Family",
@@ -536,12 +520,12 @@
         "source_name": "Arizona's Family"
     },
     {
-        "title": "Fact or fiction? Ahead of Season 3, Phoenix chefs weigh in on 'The Bear' - Phoenix New Times",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvdGhlLWJlYXItbmV3LXNlYXNvbi1waG9lbml4LWNoZWZzLXdlaWdoLWluLTE5Mjc0MjAz0gEA?oc=5",
+        "title": "Body found in Scottsdale, believed to be missing 85-year-old Brookhaven Assisted Living resident - FOX 10 News Phoenix",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9ib2R5LWZvdW5kLXNjb3R0c2RhbGUtYmVsaWV2ZWQtYmUtbWlzc2luZy04NS15ZWFyLW9sZC1icm9va2hhdmVuLWFzc2lzdGVkLWxpdmluZy1yZXNpZGVudNIBf2h0dHBzOi8vd3d3LmZveDEwcGhvZW5peC5jb20vbmV3cy9ib2R5LWZvdW5kLXNjb3R0c2RhbGUtYmVsaWV2ZWQtYmUtbWlzc2luZy04NS15ZWFyLW9sZC1icm9va2hhdmVuLWFzc2lzdGVkLWxpdmluZy1yZXNpZGVudC5hbXA?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 15:50:25 GMT",
-        "source_url": "https://www.phoenixnewtimes.com",
-        "source_name": "Phoenix New Times"
+        "pub_date": "Thu, 27 Jun 2024 04:05:14 GMT",
+        "source_url": "https://www.fox10phoenix.com",
+        "source_name": "FOX 10 News Phoenix"
     },
     {
         "title": "Maricopa County animal shelter in Phoenix evacuated due to threat - 12news.com KPNX",
@@ -552,10 +536,26 @@
         "source_name": "12news.com KPNX"
     },
     {
-        "title": "Arizona Commerce Authority's 'CEO Forums' to continue with new rules - The Arizona Republic",
-        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvYXJpem9uYS8yMDI0LzA2LzI2L25ldy1ndWFyZHJhaWxzLWFyaXpvbmEtY29tbWVyY2UtYXV0aG9yaXR5LWNlby1mb3J1bXMvNzQxNDM0NzYwMDcv0gEA?oc=5",
+        "title": "Hidden Track in downtown Phoenix has sold, new cafe moves in - Phoenix New Times",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vcmVzdGF1cmFudHMvaGlkZGVuLXRyYWNrLWNhZmUtaW4tZG93bnRvd24tcGhvZW5peC1oYXMtc29sZC1jYWN0dXMtY2xvdWQtbW92ZXMtaW4tMTkzMDYxOTfSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 12:02:57 GMT",
+        "pub_date": "Wed, 26 Jun 2024 15:57:50 GMT",
+        "source_url": "https://www.phoenixnewtimes.com",
+        "source_name": "Phoenix New Times"
+    },
+    {
+        "title": "Man found dead on Sunday after shooting in west Phoenix - KTAR.com",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8va3Rhci5jb20vc3RvcnkvNTU3ODA2MC9tYW4tZm91bmQtZGVhZC1vbi1zdW5kYXktYWZ0ZXItc2hvb3RpbmctaW4td2VzdC1waG9lbml4L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 16:00:00 GMT",
+        "source_url": "https://ktar.com",
+        "source_name": "KTAR.com"
+    },
+    {
+        "title": "Scottsdale school district lacks cash to fund county tax ruling - The Arizona Republic",
+        "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvYXJpem9uYS1lZHVjYXRpb24vMjAyNC8wNi8yNy9zY290dHNkYWxlLXNjaG9vbC1kaXN0cmljdC1sYWNrcy1jYXNoLXRvLWZ1bmQtY291bnR5LXRheC1ydWxpbmcvNzQyMDg5NjAwMDcv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 13:11:08 GMT",
         "source_url": "https://www.azcentral.com",
         "source_name": "The Arizona Republic"
     }
