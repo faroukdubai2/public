@@ -1,73 +1,113 @@
 [
     {
-        "title": "Montreal tenant finally agrees to move after 5-year fight with real estate giant - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9tb250cmVhbC10ZW5hbnQtc2V0dGxlcy1hcGFydG1lbnQtMS43MjQ2NjA20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyNDY2MDY?oc=5",
+        "title": "11 free things to do in Montreal this weekend - MTL Blog",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL2ZyZWUtdGhpbmdzLXRvLWRvLWluLW1vbnRyZWFsLXRoaXMtd2Vla2VuZC1qdW5lLTI4LXRvLTMw0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 07:52:30 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "'Worrying rumours' of planned 'non-consensual sexual acts' at after-prom party prompts Quebec police investigation - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL21vbnRyZWFsLmN0dm5ld3MuY2Evd29ycnlpbmctcnVtb3Vycy1vZi1wbGFubmVkLW5vbi1jb25zZW5zdWFsLXNleHVhbC1hY3RzLWF0LWFmdGVyLXByb20tcGFydHktcHJvbXB0cy1xdWViZWMtcG9saWNlLWludmVzdGlnYXRpb24tMS42OTQyMTEw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 19:45:00 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Italian Air Force flies over Montreal leaving the sky green, white and red - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9pdGFsaWFuLWFpci1mb3JjZS1mbGllcy1vdmVyLW1vbnRyZWFsL9IBUmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9pdGFsaWFuLWFpci1mb3JjZS1mbGllcy1vdmVyLW1vbnRyZWFsL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 21:16:14 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "John Banks, gay rights pioneer who organized Montreal's 1st Pride march, has died - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9qb2huLWJhbmtzLWdheS1yaWdodHMtcGlvbmVlci0xLjcyNDU3MDLSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzI0NTcwMg?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 21:16:33 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Six-year-old Montrealer crowned Grand Champion of Canada at national math competition - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS95b3VuZy1tb250cmVhbGVyLWNoYW1waW9uLW5hdGlvbmFsLW1hdGgtY29tcGV0aXRpb24v0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 00:27:54 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "This Montreal taco restaurant is serving up $5 margaritas and palomas each week - MTL Blog",
-        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm10bGJsb2cuY29tL21vbnRyZWFsLXRhY28tcmVzdGF1cmFudC1tYXJnYXJpdGFzLXBhbG9tYXPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 18:59:08 GMT",
+        "pub_date": "Thu, 27 Jun 2024 13:26:01 GMT",
         "source_url": "https://www.mtlblog.com",
         "source_name": "MTL Blog"
     },
     {
-        "title": "Companies face confusion as they prepare for Quebec's new language rules next year - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9jb21wYW5pZXMtZmFjZS1jb25mdXNpb24tYXMtdGhleS1wcmVwYXJlLWZvci1xdWViZWMtcy1uZXctbGFuZ3VhZ2UtcnVsZXMtbmV4dC15ZWFyLTEuNjk0MTY0N9IBAA?oc=5",
+        "title": "Montreal transit users will be able to use their smartphones to board the metro, bus in 2025 - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL21vbnRyZWFsLmN0dm5ld3MuY2EvbW9udHJlYWwtdHJhbnNpdC11c2Vycy13aWxsLWJlLWFibGUtdG8tdXNlLXRoZWlyLXNtYXJ0cGhvbmVzLXRvLWJvYXJkLXRoZS1tZXRyby1idXMtaW4tMjAyNS0xLjY5NDM2NTHSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 15:13:00 GMT",
+        "pub_date": "Thu, 27 Jun 2024 18:23:00 GMT",
         "source_url": "https://montreal.ctvnews.ca",
         "source_name": "CTV News Montreal"
     },
     {
-        "title": "Man loses permit to own hunting rifles over alleged ties to Montreal Mafia - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbWFuLWxvc2VzLXBlcm1pdC10by1vd24taHVudGluZy1yaWZsZXMtb3Zlci1hbGxlZ2VkLXRpZXMtdG8tbW9udHJlYWwtbWFmaWHSAQA?oc=5",
+        "title": "Montreal's Canada Day parade is cancelled. Here are 5 things you can do instead - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbW9udHJlYWxzLWNhbmFkYS1kYXktcGFyYWRlLWlzLWNhbmNlbGxlZC1oZXJlLWFyZS01LXRoaW5ncy15b3UtY2FuLWRvLWluc3RlYWTSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 19:53:36 GMT",
+        "pub_date": "Thu, 27 Jun 2024 11:11:33 GMT",
         "source_url": "https://montrealgazette.com",
         "source_name": "Montreal Gazette"
     },
     {
-        "title": "Montreal\u2019s Spice Island Cultural Festival returns in July; featuring Grenadian Prime Minister - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi9tb250cmVhbC1zcGljZS1pc2xhbmQtY3VsdHVyYWwtZmVzdGl2YWwtanVseS_SAVlodHRwczovL21vbnRyZWFsLmNpdHluZXdzLmNhLzIwMjQvMDYvMjYvbW9udHJlYWwtc3BpY2UtaXNsYW5kLWN1bHR1cmFsLWZlc3RpdmFsLWp1bHkvYW1wLw?oc=5",
+        "title": "Moving day is just days away, and hundreds of Quebecers are struggling to find housing - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9tb3ZpbmctZGF5LW1vbnRyZWFsLWhvdXNpbmctMS43MjQ4MTk30gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyNDgxOTc?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 17:51:18 GMT",
+        "pub_date": "Thu, 27 Jun 2024 14:26:34 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Former Montreal priest who sexually abused boys is denied parole - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2NyaW1lL2Zvcm1lci1tb250cmVhbC1wcmllc3Qtd2hvLXNleHVhbGx5LWFidXNlZC1ib3lzLWlzLWRlbmllZC1wYXJvbGXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 18:52:39 GMT",
+        "source_url": "https://montrealgazette.com",
+        "source_name": "Montreal Gazette"
+    },
+    {
+        "title": "I played tourist in Montreal as a local \u2014 Here's what to do and what to skip - MTL Blog",
+        "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL3RvdXJpc3QtbW9udHJlYWwtbG9jYWwtdGhpbmdzLWRv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 15:04:14 GMT",
+        "source_url": "https://www.mtlblog.com",
+        "source_name": "MTL Blog"
+    },
+    {
+        "title": "Montreal makes top 50 list of most congested cities in the world - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9tb250cmVhbC1tYWtlcy10b3AtNTAtbGlzdC1vZi1tb3N0LWNvbmdlc3RlZC1jaXRpZXMtaW4tdGhlLXdvcmxkLTEuNjk0MzA0NtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 12:20:00 GMT",
+        "source_url": "https://montreal.ctvnews.ca",
+        "source_name": "CTV News Montreal"
+    },
+    {
+        "title": "McGill\u2019s Jazz Orchestra performing at the world\u2019s biggest jazz festival - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNy9tY2dpbGxzLWphenotb3JjaGVzdHJhLXBlcmZvcm1pbmctYXQtdGhlLXdvcmxkcy1iaWdnZXN0LWphenotZmVzdGl2YWwv0gFyaHR0cHM6Ly9tb250cmVhbC5jaXR5bmV3cy5jYS8yMDI0LzA2LzI3L21jZ2lsbHMtamF6ei1vcmNoZXN0cmEtcGVyZm9ybWluZy1hdC10aGUtd29ybGRzLWJpZ2dlc3QtamF6ei1mZXN0aXZhbC9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Fri, 28 Jun 2024 00:32:23 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
+        "title": "Encampments are tolerated for protesters, but not for unhoused people: Plante - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvZW5jYW1wbWVudHMtYXJlLXRvbGVyYXRlZC1mb3ItcHJvdGVzdHMtYnV0LW5vdC1mb3ItdW5ob3VzZWQtcGVvcGxlLXBsYW50ZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 19:37:24 GMT",
+        "source_url": "https://montrealgazette.com",
+        "source_name": "Montreal Gazette"
+    },
+    {
+        "title": "New public transit fares will start July 1 for Montreal area - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNy9uZXctcHVibGljLXRyYW5zaXQtZmFyZXMtbW9udHJlYWwtYXJlYS_SAVNodHRwczovL21vbnRyZWFsLmNpdHluZXdzLmNhLzIwMjQvMDYvMjcvbmV3LXB1YmxpYy10cmFuc2l0LWZhcmVzLW1vbnRyZWFsLWFyZWEvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 13:51:49 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
+        "title": "7 times celebrities mentioned Montreal on camera, revealing secrets and hot takes (VIDEOS) - MTL Blog",
+        "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL2NlbGVicml0aWVzLW1lbnRpb25lZC1tb250cmVhbC12aWRlb3PSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 21:35:58 GMT",
+        "source_url": "https://www.mtlblog.com",
+        "source_name": "MTL Blog"
+    },
+    {
+        "title": "It's going to be a mix of sun and rain this long weekend - The Beat 92.5",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZWJlYXQ5MjUuY2EvbmV3cy82MzQwODkvaXQtcy1nb2luZy10by1iZS1hLW1peC1vZi1zdW4tYW5kLXJhaW4tdGhpcy1sb25nLXdlZWtlbmTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 21:55:41 GMT",
+        "source_url": "https://www.thebeat925.ca",
+        "source_name": "The Beat 92.5"
+    },
+    {
+        "title": "River shuttle collides with boat near Ile-Charron, 9 injured: Quebec police - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9yaXZlci1zaHV0dGxlLWNvbGxpZGVzLXdpdGgtYm9hdC1pbmp1cmluZy05LW9uLW1vbnRyZWFsLXMtc291dGgtc2hvcmUtcG9saWNlLTEuNjk0NDExMdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 22:17:00 GMT",
+        "source_url": "https://montreal.ctvnews.ca",
+        "source_name": "CTV News Montreal"
+    },
+    {
+        "title": "Egyptian refugees in Montreal hoping to reunite with father - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvdmlkZW8vMjAyNC8wNi8yNy9lZ3lwdGlhbi1yZWZ1Z2Vlcy1pbi1tb250cmVhbC1ob3BpbmctdG8tcmV1bml0ZS13aXRoLWZhdGhlci_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 22:24:46 GMT",
         "source_url": "https://montreal.citynews.ca",
         "source_name": "CityNews Montreal"
     },
@@ -80,130 +120,26 @@
         "source_name": "MTL Blog"
     },
     {
-        "title": "This Montreal-developed app might be the answer to stop car thieves - The Beat 92.5",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWJlYXQ5MjUuY2EvbmV3cy82MzM3MDAvdGhpcy1tb250cmVhbC1kZXZlbG9wZWQtYXBwLW1pZ2h0LWJlLXRoZS1hbnN3ZXItdG8tc3RvcC1jYXItdGhpZXZlc9IBAA?oc=5",
+        "title": "From finance to fighting racism, Order of Canada appointees include prominent Quebecers - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9vcmRlci1vZi1jYW5hZGEtcXVlYmVjLWFwcG9pbnRlZXMtMS43MjQ3NDM20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyNDc0MzY?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 15:53:00 GMT",
-        "source_url": "https://www.thebeat925.ca",
-        "source_name": "The Beat 92.5"
-    },
-    {
-        "title": "Montreal peregrine falcon chicks take first flights into a world full of danger - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9wZXJlZ3JpbmUtZmFsY29uLWNoaWNrcy1maXJzdC1mbGlnaHRzLTEuNzI0NjkwMdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MjQ2OTAx?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 11:40:58 GMT",
+        "pub_date": "Thu, 27 Jun 2024 15:09:45 GMT",
         "source_url": "https://www.cbc.ca",
         "source_name": "CBC.ca"
     },
     {
-        "title": "Many in Montreal struggling to find a home a week from moving day - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9tYW55LWluLW1vbnRyZWFsLXNjcmFtYmxpbmctdG8tZmluZC1ob3VzaW5nLWFzLW1vdmluZy1kYXktYXBwcm9hY2hlcy0xLjY5NDI0NDjSAQA?oc=5",
+        "title": "Montreal weather: Cloudy with a chance of sunspots - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbW9udHJlYWwtd2VhdGhlci1jbG91ZHktd2l0aC1hLWNoYW5jZS1vZi1zdW5zcG90c9IBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 22:11:54 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Louis-Hippolyte-La Fontaine tunnel closed overnight for repairs - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi9sb3Vpcy1oaXBwb2x5dGUtbGEtZm9udGFpbmUtdHVubmVsLWNsb3NlZC1vdmVybmlnaHQtcmVwYWlycy_SAWhodHRwczovL21vbnRyZWFsLmNpdHluZXdzLmNhLzIwMjQvMDYvMjYvbG91aXMtaGlwcG9seXRlLWxhLWZvbnRhaW5lLXR1bm5lbC1jbG9zZWQtb3Zlcm5pZ2h0LXJlcGFpcnMvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 14:24:05 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "Montreal weather: No records were harmed in the making of this forecast - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbW9udHJlYWwtd2VhdGhlci1uby1yZWNvcmRzLXdlcmUtaGFybWVkLWluLXRoZS1tYWtpbmctb2YtdGhpcy1mb3JlY2FzdNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 11:42:08 GMT",
+        "pub_date": "Thu, 27 Jun 2024 10:32:02 GMT",
         "source_url": "https://montrealgazette.com",
         "source_name": "Montreal Gazette"
     },
     {
-        "title": "8 free things to do in Montreal this week - MTL Blog",
-        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL2ZyZWUtdGhpbmdzLXRvLWRvLWluLW1vbnRyZWFsLXRoaXMtd2Vlay1qdW5lLTI0LXRvLTMw0gEA?oc=5",
+        "title": "Montreal\u2019s Spice Island Cultural Festival returns in July; featuring Grenadian Prime Minister - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi9tb250cmVhbC1zcGljZS1pc2xhbmQtY3VsdHVyYWwtZmVzdGl2YWwtanVseS_SAVlodHRwczovL21vbnRyZWFsLmNpdHluZXdzLmNhLzIwMjQvMDYvMjYvbW9udHJlYWwtc3BpY2UtaXNsYW5kLWN1bHR1cmFsLWZlc3RpdmFsLWp1bHkvYW1wLw?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 12:51:02 GMT",
-        "source_url": "https://www.mtlblog.com",
-        "source_name": "MTL Blog"
-    },
-    {
-        "title": "Police seek more potential victims of man charged in Montreal with harassment, stalking - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9wb2xpY2Utc2Vlay1tb3JlLXBvdGVudGlhbC12aWN0aW1zLW9mLW1hbi1jaGFyZ2VkLWluLW1vbnRyZWFsLXdpdGgtaGFyYXNzbWVudC1zdGFsa2luZy0xLjY5NDA1OTLSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 20:02:00 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Montreal jazz fest: Artists remember director Jean-Marc Vall\u00e9e through his favourite music - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvYXJ0aXN0cy1yZW1lbWJlci1kaXJlY3Rvci1qZWFuLW1hcmMtdmFsbGVlLXRocm91Z2gtaGlzLWZhdm91cml0ZS1tdXNpY9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 20:15:32 GMT",
-        "source_url": "https://montrealgazette.com",
-        "source_name": "Montreal Gazette"
-    },
-    {
-        "title": "Seventeen McGill researchers honoured with prestigious Canada Research Chairs - McGill Reporter - McGill Reporter",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vcmVwb3J0ZXIubWNnaWxsLmNhL3NldmVudGVlbi1tY2dpbGwtcmVzZWFyY2hlcnMtaG9ub3VyZWQtd2l0aC1wcmVzdGlnaW91cy1jYW5hZGEtcmVzZWFyY2gtY2hhaXJzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 14:38:11 GMT",
-        "source_url": "https://reporter.mcgill.ca",
-        "source_name": "McGill Reporter"
-    },
-    {
-        "title": "Mixed bag of weather for Montreal this week - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9taXgtd2VhdGhlci1tb250cmVhbC1hZnRlci1oZWF0LXdhdmUv0gFeaHR0cHM6Ly9tb250cmVhbC5jaXR5bmV3cy5jYS8yMDI0LzA2LzI1L21peC13ZWF0aGVyLW1vbnRyZWFsLWFmdGVyLWhlYXQtd2F2ZS9hbXAvP2NvbnNlbnQ9dHJ1ZQ?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 16:59:51 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "17 things to do in Montreal's Old Port this summer - MTL Blog",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL3RoaW5ncy10by1kby1pbi1tb250cmVhbC1vbGQtcG9ydC10aGlzLXN1bW1lctIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 19:57:20 GMT",
-        "source_url": "https://www.mtlblog.com",
-        "source_name": "MTL Blog"
-    },
-    {
-        "title": "After teen's death on e-scooter, Montreal councillor reiterates street should be safer - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9hZnRlci10ZWVuLXMtZGVhdGgtb24tZS1zY29vdGVyLW1vbnRyZWFsLWNvdW5jaWxsb3ItcmVpdGVyYXRlcy1zdHJlZXQtc2hvdWxkLWJlLXNhZmVyLTEuNjk0MTkyNNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 18:13:00 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Don't be influenced to stop using sunscreen, Quebec order warns - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3Mvc29jaWFsLWluZmx1ZW5jZXItc3Vuc2NyZWVuLW1pc2luZm9ybWF0aW9uLXF1ZWJlYy1vcmRyZS1jaGltaXN0ZXPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 13:52:39 GMT",
-        "source_url": "https://montrealgazette.com",
-        "source_name": "Montreal Gazette"
-    },
-    {
-        "title": "Expert: Canada's dental plan expands to cover children, people with disabilities - McGill Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm1jZ2lsbC5jYS9uZXdzcm9vbS9jaGFubmVscy9uZXdzL2V4cGVydC1jYW5hZGFzLWRlbnRhbC1wbGFuLWV4cGFuZHMtY292ZXItY2hpbGRyZW4tcGVvcGxlLWRpc2FiaWxpdGllcy0zNTc3OTDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 21:56:01 GMT",
-        "source_url": "https://www.mcgill.ca",
-        "source_name": "McGill Newsroom"
-    },
-    {
-        "title": "Pyromusical extravaganzas: Montreal's international fireworks competition begins June 27 - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vbGlmZS9saWZlc3R5bGVzL3B5cm9tdXNpY2FsLWV4dHJhdmFnYW56YXMtbW9udHJlYWwtcy1pbnRlcm5hdGlvbmFsLWZpcmV3b3Jrcy1jb21wZXRpdGlvbi1iZWdpbnMtanVuZS0yNy9hcnRpY2xlXzVkN2EyZTMwLTAyODYtNTFiZC1hNzUwLTQzOTVlN2Y0OTlhOS5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 24 Jun 2024 17:30:00 GMT",
-        "source_url": "https://www.thesuburban.com",
-        "source_name": "The Suburban Newspaper"
-    },
-    {
-        "title": "English CEGEPs say French-language law fails to help Indigenous students - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi81LWVuZ2xpc2gtY2VnZXAtc2F5LWZyZW5jaC1sYW5ndWFnZS1sYXctZmFpbHMtdG8taGVscC1pbmRpZ2Vub3VzLXN0dWRlbnRzL9IBdmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi81LWVuZ2xpc2gtY2VnZXAtc2F5LWZyZW5jaC1sYW5ndWFnZS1sYXctZmFpbHMtdG8taGVscC1pbmRpZ2Vub3VzLXN0dWRlbnRzL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 20:37:45 GMT",
+        "pub_date": "Wed, 26 Jun 2024 17:51:18 GMT",
         "source_url": "https://montreal.citynews.ca",
         "source_name": "CityNews Montreal"
     },
@@ -216,6 +152,206 @@
         "source_name": "CBC.ca"
     },
     {
+        "title": "Montreal tenant being compensated by developer - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS90ZW5hbnQtd2hvLWZvdWdodC1yZW5vdmljdGlvbi1nZXR0aW5nLWNvbXBlbnNhdGVkLWJ5LW1ham9yLWRldmVsb3Blci0xLjY5NDI1NDbSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 22:47:00 GMT",
+        "source_url": "https://montreal.ctvnews.ca",
+        "source_name": "CTV News Montreal"
+    },
+    {
+        "title": "7 road trips from Montreal that lead you to a heavenly waterfront oasis in 5 hours or less - MTL Blog",
+        "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm10bGJsb2cuY29tL3JvYWQtdHJpcHMtZnJvbS1tb250cmVhbC13YXRlcmZyb2500gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 16:47:50 GMT",
+        "source_url": "https://www.mtlblog.com",
+        "source_name": "MTL Blog"
+    },
+    {
+        "title": "This Montreal-developed app might be the answer to stop car thieves - The Beat 92.5",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWJlYXQ5MjUuY2EvbmV3cy82MzM3MDAvdGhpcy1tb250cmVhbC1kZXZlbG9wZWQtYXBwLW1pZ2h0LWJlLXRoZS1hbnN3ZXItdG8tc3RvcC1jYXItdGhpZXZlc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 15:53:00 GMT",
+        "source_url": "https://www.thebeat925.ca",
+        "source_name": "The Beat 92.5"
+    },
+    {
+        "title": "Lyme disease cases on the rise in Quebec - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvdmlkZW8vMjAyNC8wNi8yNy9seW1lLWRpc2Vhc2UtY2FzZXMtb24tdGhlLXJpc2UtaW4tcXVlYmVjL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 22:09:31 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
+        "title": "Man loses permit to own hunting rifles over alleged ties to Montreal Mafia - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbWFuLWxvc2VzLXBlcm1pdC10by1vd24taHVudGluZy1yaWZsZXMtb3Zlci1hbGxlZ2VkLXRpZXMtdG8tbW9udHJlYWwtbWFmaWHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 19:53:36 GMT",
+        "source_url": "https://montrealgazette.com",
+        "source_name": "Montreal Gazette"
+    },
+    {
+        "title": "These are the 10 most dangerous intersections according to Montreal cyclists - The Beat 92.5",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWJlYXQ5MjUuY2EvYXVkaW8vNjMzNjk4L3RoZXNlLWFyZS10aGUtMTAtbW9zdC1kYW5nZXJvdXMtaW50ZXJzZWN0aW9ucy1hY2NvcmRpbmctdG8tbW9udHJlYWwtY3ljbGlzdHPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 15:50:00 GMT",
+        "source_url": "https://www.thebeat925.ca",
+        "source_name": "The Beat 92.5"
+    },
+    {
+        "title": "McGill offices honoured for their sustainability practices - McGill Reporter - McGill Reporter",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcmVwb3J0ZXIubWNnaWxsLmNhL21jZ2lsbC1vZmZpY2VzLWhvbm91cmVkLWZvci10aGVpci1zdXN0YWluYWJpbGl0eS1wcmFjdGljZXMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 28 Jun 2024 00:58:45 GMT",
+        "source_url": "https://reporter.mcgill.ca",
+        "source_name": "McGill Reporter"
+    },
+    {
+        "title": "This Montreal taco restaurant is serving up $5 margaritas and palomas each week - MTL Blog",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm10bGJsb2cuY29tL21vbnRyZWFsLXRhY28tcmVzdGF1cmFudC1tYXJnYXJpdGFzLXBhbG9tYXPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 18:59:08 GMT",
+        "source_url": "https://www.mtlblog.com",
+        "source_name": "MTL Blog"
+    },
+    {
+        "title": "Montreal peregrine falcon chicks take first flights into a world full of danger - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9tb250cmVhbC1wZXJlZ3JpbmUtZmFsY29uLWNoaWNrcy10YWtlLWZpcnN0LWZsaWdodHMtaW50by1hLXdvcmxkLWZ1bGwtb2YtZGFuZ2VyLTEuNjk0MTg1ONIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 17:24:00 GMT",
+        "source_url": "https://montreal.ctvnews.ca",
+        "source_name": "CTV News Montreal"
+    },
+    {
+        "title": "Louis-Hippolyte-La Fontaine tunnel closed overnight for repairs - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi9sb3Vpcy1oaXBwb2x5dGUtbGEtZm9udGFpbmUtdHVubmVsLWNsb3NlZC1vdmVybmlnaHQtcmVwYWlycy_SAWhodHRwczovL21vbnRyZWFsLmNpdHluZXdzLmNhLzIwMjQvMDYvMjYvbG91aXMtaGlwcG9seXRlLWxhLWZvbnRhaW5lLXR1bm5lbC1jbG9zZWQtb3Zlcm5pZ2h0LXJlcGFpcnMvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 14:24:05 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
+        "title": "What's open and closed in Montreal on Canada Day 2024 - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3Mvd2hhdHMtb3Blbi1hbmQtY2xvc2VkLWluLW1vbnRyZWFsLW9uLWNhbmFkYS1kYXktMjAyNNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 10:12:35 GMT",
+        "source_url": "https://montrealgazette.com",
+        "source_name": "Montreal Gazette"
+    },
+    {
+        "title": "Seven FMHS researchers honoured with prestigious Canada Research Chairs - Health e-News",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vaGVhbHRoZW5ld3MubWNnaWxsLmNhL3NldmVuLWZtaHMtcmVzZWFyY2hlcnMtaG9ub3VyZWQtd2l0aC1wcmVzdGlnaW91cy1jYW5hZGEtcmVzZWFyY2gtY2hhaXJzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 15:22:32 GMT",
+        "source_url": "https://healthenews.mcgill.ca",
+        "source_name": "Health e-News"
+    },
+    {
+        "title": "John Banks, gay rights pioneer who organized Montreal's 1st Pride march, has died - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9qb2huLWJhbmtzLWdheS1yaWdodHMtcGlvbmVlci0xLjcyNDU3MDLSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzI0NTcwMg?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 21:16:33 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Laura is hoping this boy band gets a tribute at the La Ronde fireworks - The Beat 92.5",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZWJlYXQ5MjUuY2EvYXVkaW8vNjM0MDMzL2xhdXJhLWlzLWhvcGluZy10aGlzLWJveS1iYW5kLWdldHMtYS10cmlidXRlLWF0LXRoZS1sYS1yb25kZS1maXJld29ya3PSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 21:48:00 GMT",
+        "source_url": "https://www.thebeat925.ca",
+        "source_name": "The Beat 92.5"
+    },
+    {
+        "title": "Montreal now has misting orange traffic cones \u2014 No, it wasn't a heat-induced fever dream - MTL Blog",
+        "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL21vbnRyZWFsLW1pc3Rpbmctb3JhbmdlLXRyYWZmaWMtY29uZXMtaGVhdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 23:21:58 GMT",
+        "source_url": "https://www.mtlblog.com",
+        "source_name": "MTL Blog"
+    },
+    {
+        "title": "Transit issues in NDG need attention | Letters To Editor | thesuburban.com - The Suburban Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vb3Bpbmlvbi9sZXR0ZXJzX3RvX2VkaXRvci90cmFuc2l0LWlzc3Vlcy1pbi1uZGctbmVlZC1hdHRlbnRpb24vYXJ0aWNsZV82NGYzYTdhMy00ZWUyLTUxMzUtYTkzMS03YzExZjU5MDk4OTIuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 13:00:00 GMT",
+        "source_url": "https://www.thesuburban.com",
+        "source_name": "The Suburban Newspaper"
+    },
+    {
+        "title": "Montreal Mayor says they are monitoring pro-Palestinian encampment at Square Victoria - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi9tb250cmVhbC1tYXlvci1wcm8tcGFsZXN0aW5pYW4tZW5jYW1wbWVudC1zcXVhcmUtdmljdG9yaWEv0gFmaHR0cHM6Ly9tb250cmVhbC5jaXR5bmV3cy5jYS8yMDI0LzA2LzI2L21vbnRyZWFsLW1heW9yLXByby1wYWxlc3Rpbmlhbi1lbmNhbXBtZW50LXNxdWFyZS12aWN0b3JpYS9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 19:51:41 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
+        "title": "New Indigenous housing project in Montreal - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS92aWRlby9jMjk0ODUzNS1uZXctaW5kaWdlbm91cy1ob3VzaW5nLXByb2plY3QtaW4tbW9udHJlYWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 28 Jun 2024 00:25:00 GMT",
+        "source_url": "https://montreal.ctvnews.ca",
+        "source_name": "CTV News Montreal"
+    },
+    {
+        "title": "Montreal SPCA is overcrowded even before July 1 Moving Day - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvaW4tcG9zdC1wYW5kZW1pYy1lcmEtYW5pbWFsLXNoZWx0ZXJzLWFyZS1mdWxsLWV2ZW4tYmVmb3JlLW1vdmluZy1kYXktcnVzaNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 27 Jun 2024 16:32:16 GMT",
+        "source_url": "https://montrealgazette.com",
+        "source_name": "Montreal Gazette"
+    },
+    {
+        "title": "Students don't get to dictate policy at a university - The Suburban Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vb3Bpbmlvbi9sZXR0ZXJzX3RvX2VkaXRvci9zdHVkZW50cy1kb24tdC1nZXQtdG8tZGljdGF0ZS1wb2xpY3ktYXQtYS11bml2ZXJzaXR5L2FydGljbGVfMWY4NjNmODItZWNhNy01ZTIyLWJkZGYtZDYzODg0NDhjOGE4Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 13:00:00 GMT",
+        "source_url": "https://www.thesuburban.com",
+        "source_name": "The Suburban Newspaper"
+    },
+    {
+        "title": "Suspect on the run in Montreal after stealing car with baby inside, dropping it off near daycare - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5jYmMuY2EvbmV3cy9jYW5hZGEvbW9udHJlYWwvc3VzcGVjdC1vbi10aGUtcnVuLWluLW1vbnRyZWFsLWFmdGVyLXN0ZWFsaW5nLWNhci13aXRoLWJhYnktaW5zaWRlLWRyb3BwaW5nLWl0LW9mZi1uZWFyLWRheWNhcmUtMS43MjQ1Nzcw0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyNDU3NzA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 15:31:14 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Yubari: chic Japanese restaurant in Old Montreal - Tastet",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGFzdGV0LmNhL2VuL3Jldmlld3MveXViYXJpLWNoaWMtamFwYW5lc2UtcmVzdGF1cmFudC1pbi1vbGQtbW9udHJlYWwv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 15:09:34 GMT",
+        "source_url": "https://tastet.ca",
+        "source_name": "Tastet"
+    },
+    {
+        "title": "17 things to do in Montreal's Old Port this summer - MTL Blog",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL3RoaW5ncy10by1kby1pbi1tb250cmVhbC1vbGQtcG9ydC10aGlzLXN1bW1lctIBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 19:57:20 GMT",
+        "source_url": "https://www.mtlblog.com",
+        "source_name": "MTL Blog"
+    },
+    {
+        "title": "Around the Towns: west end | City News | thesuburban.com - The Suburban Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZXN1YnVyYmFuLmNvbS9uZXdzL2NpdHlfbmV3cy9hcm91bmQtdGhlLXRvd25zLXdlc3QtZW5kL2FydGljbGVfNTUxYTdmYmEtMzlhOC01MzQxLTgwOWQtYTA3MzAzNDE2ZmJjLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 13:00:00 GMT",
+        "source_url": "https://www.thesuburban.com",
+        "source_name": "The Suburban Newspaper"
+    },
+    {
+        "title": "Italian Air Force flies over Montreal leaving the sky green, white and red - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9pdGFsaWFuLWFpci1mb3JjZS1mbGllcy1vdmVyLW1vbnRyZWFsL9IBUmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9pdGFsaWFuLWFpci1mb3JjZS1mbGllcy1vdmVyLW1vbnRyZWFsL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 21:16:14 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
         "title": "Centraide marks 50 years of serving community - CTV News Montreal",
         "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS92aWRlby9jMjk0NzAxOC1jZW50cmFpZGUtbWFya3MtNTAteWVhcnMtb2Ytc2VydmluZy1jb21tdW5pdHnSAQA?oc=5",
         "description": [],
@@ -224,10 +360,10 @@
         "source_name": "CTV News Montreal"
     },
     {
-        "title": "Montreal weather: Embrace the simple joy of a day without rain - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbW9udHJlYWwtd2VhdGhlci1lbWJyYWNlLXRoZS1zaW1wbGUtam95LW9mLWEtZGF5LXdpdGhvdXQtcmFpbtIBAA?oc=5",
+        "title": "Minor arrested in fraud case that saw victims hand over debit cards - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2NyaW1lL21pbm9yLWFycmVzdGVkLWluLWZyYXVkLWNhc2UtdGhhdC1zYXctdmljdGltcy1oYW5kLW92ZXItZGViaXQtY2FyZHPSAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 11:00:31 GMT",
+        "pub_date": "Thu, 27 Jun 2024 17:39:21 GMT",
         "source_url": "https://montrealgazette.com",
         "source_name": "Montreal Gazette"
     },
@@ -240,28 +376,28 @@
         "source_name": "McGill Reporter"
     },
     {
-        "title": "Transit issues in NDG need attention | Letters To Editor | thesuburban.com - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vb3Bpbmlvbi9sZXR0ZXJzX3RvX2VkaXRvci90cmFuc2l0LWlzc3Vlcy1pbi1uZGctbmVlZC1hdHRlbnRpb24vYXJ0aWNsZV82NGYzYTdhMy00ZWUyLTUxMzUtYTkzMS03YzExZjU5MDk4OTIuaHRtbNIBAA?oc=5",
+        "title": "New reserved bus lanes approved | City News | thesuburban.com - The Suburban Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZXN1YnVyYmFuLmNvbS9uZXdzL2NpdHlfbmV3cy9uZXctcmVzZXJ2ZWQtYnVzLWxhbmVzLWFwcHJvdmVkL2FydGljbGVfYjJhNzU2MGYtYjdjZS01YjI0LTljNDYtOWVlZDEwYTRjYzU3Lmh0bWzSAQA?oc=5",
         "description": [],
         "pub_date": "Wed, 26 Jun 2024 13:00:00 GMT",
         "source_url": "https://www.thesuburban.com",
         "source_name": "The Suburban Newspaper"
     },
     {
-        "title": "Quebec coroner orders public inquiry into assisted death of quadriplegic man - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9jb3JvbmVyLXMtaW5xdWlyeS1tYWlkLXF1YWRyaXBsZWdpYy1xdWViZWMtbWFuLTEuNzI0NTYxMdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MjQ1NjEx?oc=5",
+        "title": "Mike Lafaille: the rising star of Caribbean cuisine - Tastet",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdGFzdGV0LmNhL2VuL3Byb2ZpbGVzL21pa2UtbGFmYWlsbGUtdGhlLXJpc2luZy1zdGFyLW9mLWNhcmliYmVhbi1jdWlzaW5lL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 19:01:47 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
+        "pub_date": "Tue, 25 Jun 2024 14:24:56 GMT",
+        "source_url": "https://tastet.ca",
+        "source_name": "Tastet"
     },
     {
-        "title": "Montreal celebrates F\u00eate nationale, Saint-Jean-Baptiste Day - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNC9tb250cmVhbC1jZWxlYnJhdGVzLXNhaW50LWplYW4tYmFwdGlzdGUtZGF5L9IBWGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNC9tb250cmVhbC1jZWxlYnJhdGVzLXNhaW50LWplYW4tYmFwdGlzdGUtZGF5L2FtcC8?oc=5",
+        "title": "Travel smart: Four ways FlightHub offers budget-friendly business travel solutions \u2013 Ottawa Business Journal - Ottawa Business Journal",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vb2JqLmNhL3RyYXZlbC1zbWFydC1mb3VyLXdheXMtZmxpZ2h0aHViLW9mZmVycy1idWRnZXQtZnJpZW5kbHktYnVzaW5lc3MtdHJhdmVsLXNvbHV0aW9ucy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Mon, 24 Jun 2024 21:40:47 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
+        "pub_date": "Mon, 24 Jun 2024 19:28:39 GMT",
+        "source_url": "https://obj.ca",
+        "source_name": "Ottawa Business Journal"
     },
     {
         "title": "I moved to Montreal not knowing how to speak French \u2014 Here's how I learned FAST - MTL Blog",
@@ -272,44 +408,76 @@
         "source_name": "MTL Blog"
     },
     {
-        "title": "Place Versailles redo lacks social and affordable units, critics say - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvcGxhY2UtdmVyc2FpbGxlcy1yZWRldmVsb3BtZW50LWluY2x1ZGVzLXNvY2lhbC1ob3VzaW5nLWJ1dC1ub3QtZW5vdWdoLWNyaXRpY3Mtc2F50gEA?oc=5",
+        "title": "Nanana: playful desserts steps from Jean-Talon Market - Tastet",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdGFzdGV0LmNhL2VuL3Jldmlld3MvbmFuYW5hLXBsYXlmdWwtZGVzc2VydHMtc3RlcHMtZnJvbS1qZWFuLXRhbG9uLW1hcmtldC_SAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 15:06:01 GMT",
-        "source_url": "https://montrealgazette.com",
-        "source_name": "Montreal Gazette"
+        "pub_date": "Tue, 25 Jun 2024 14:04:26 GMT",
+        "source_url": "https://tastet.ca",
+        "source_name": "Tastet"
     },
     {
-        "title": "The musical 'Chicago' is coming to Quebec in 2025 - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS90aGUtbXVzaWNhbC1jaGljYWdvLWlzLWNvbWluZy10by1xdWViZWMtaW4tMjAyNS0xLjY5Mzk5NjjSAQA?oc=5",
+        "title": "Here are the road closures for moving day, fireworks weekend in Montreal - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9oZXJlLWFyZS10aGUtcm9hZC1jbG9zdXJlcy1mb3ItbW92aW5nLWRheS1maXJld29ya3Mtd2Vla2VuZC1pbi1tb250cmVhbC0xLjY5NDM4MDnSAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 25 Jun 2024 14:22:48 GMT",
+        "pub_date": "Thu, 27 Jun 2024 19:57:00 GMT",
         "source_url": "https://montreal.ctvnews.ca",
         "source_name": "CTV News Montreal"
     },
     {
-        "title": "New reserved bus lanes approved | City News | thesuburban.com - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZXN1YnVyYmFuLmNvbS9uZXdzL2NpdHlfbmV3cy9uZXctcmVzZXJ2ZWQtYnVzLWxhbmVzLWFwcHJvdmVkL2FydGljbGVfYjJhNzU2MGYtYjdjZS01YjI0LTljNDYtOWVlZDEwYTRjYzU3Lmh0bWzSAQA?oc=5",
+        "title": "Montreal celebrates F\u00eate nationale, Saint-Jean-Baptiste Day - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNC9tb250cmVhbC1jZWxlYnJhdGVzLXNhaW50LWplYW4tYmFwdGlzdGUtZGF5L9IBWGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNC9tb250cmVhbC1jZWxlYnJhdGVzLXNhaW50LWplYW4tYmFwdGlzdGUtZGF5L2FtcC8?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 13:00:00 GMT",
+        "pub_date": "Mon, 24 Jun 2024 21:40:47 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
+        "title": "Expert: Canada's dental plan expands to cover children, people with disabilities - McGill Newsroom",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm1jZ2lsbC5jYS9uZXdzcm9vbS9jaGFubmVscy9uZXdzL2V4cGVydC1jYW5hZGFzLWRlbnRhbC1wbGFuLWV4cGFuZHMtY292ZXItY2hpbGRyZW4tcGVvcGxlLWRpc2FiaWxpdGllcy0zNTc3OTDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 21:56:01 GMT",
+        "source_url": "https://www.mcgill.ca",
+        "source_name": "McGill Newsroom"
+    },
+    {
+        "title": "Montreal weather: No records were harmed in the making of this forecast - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbW9udHJlYWwtd2VhdGhlci1uby1yZWNvcmRzLXdlcmUtaGFybWVkLWluLXRoZS1tYWtpbmctb2YtdGhpcy1mb3JlY2FzdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 11:42:08 GMT",
+        "source_url": "https://montrealgazette.com",
+        "source_name": "Montreal Gazette"
+    },
+    {
+        "title": "Alma: high end Mexican cuisine - Tastet",
+        "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdGFzdGV0LmNhL2VuL3Jldmlld3MvYWxtYS1oaWdoLWVuZC1tZXhpY2FuLWN1aXNpbmUv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 13:59:48 GMT",
+        "source_url": "https://tastet.ca",
+        "source_name": "Tastet"
+    },
+    {
+        "title": "Quebec coroner orders public inquiry into assisted death of quadriplegic man - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9jb3JvbmVyLXMtaW5xdWlyeS1tYWlkLXF1YWRyaXBsZWdpYy1xdWViZWMtbWFuLTEuNzI0NTYxMdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MjQ1NjEx?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 19:01:47 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Lachine residents put up lawn signs to save ICU - The Suburban Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vbmV3cy93ZXN0X2lzbGFuZF9uZXdzL2xhY2hpbmUtcmVzaWRlbnRzLXB1dC11cC1sYXduLXNpZ25zLXRvLXNhdmUtaWN1L2FydGljbGVfODA5NzU5NTAtNmIyNi01NjgwLWIyZjUtMzM5Y2VlNTNjZjdkLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 14:00:00 GMT",
         "source_url": "https://www.thesuburban.com",
         "source_name": "The Suburban Newspaper"
     },
     {
-        "title": "Actor Jackie Chan was spotted hanging around Montreal this week - The Beat 92.5",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWJlYXQ5MjUuY2EvbmV3cy82MzMyOTMvYWN0b3ItamFja2llLWNoYW4td2FzLXNwb3R0ZWQtaGFuZ2luZy1hcm91bmQtbW9udHJlYWwtdGhpcy13ZWVr0gEA?oc=5",
+        "title": "Toronto Raptors sign Montreal native after he goes undrafted | Offside - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vZGFpbHloaXZlLmNvbS9tb250cmVhbC9yYXB0b3JzLXNpZ24tbW9udHJlYWwtbmF0aXZl0gEA?oc=5",
         "description": [],
-        "pub_date": "Sat, 22 Jun 2024 00:55:00 GMT",
-        "source_url": "https://www.thebeat925.ca",
-        "source_name": "The Beat 92.5"
-    },
-    {
-        "title": "National Indigenous Peoples Day brings dance and caribou awareness to Montreal - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9uYXRpb25hbC1pbmRpZ2Vub3VzLXBlb3BsZXMtZGF5LW1vbnRyZWFsLTEuNzI0MjQ4MtIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MjQyNDgy?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 22:25:15 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
+        "pub_date": "Thu, 27 Jun 2024 23:35:56 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
     },
     {
         "title": "10 Montreal caf\u00e9s where you can get the most unique iced drinks - MTL Blog",
@@ -320,10 +488,50 @@
         "source_name": "MTL Blog"
     },
     {
-        "title": "Ottawa invests $800K towards TOHU and Festival Montr\u00e9al Compl\u00e8tement Cirque - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNi9mZXN0aXZhbC1tb250cmVhbC1jb21wbGV0ZW1lbnQtY2lycXVlLWZ1bmRpbmcv0gFaaHR0cHM6Ly9tb250cmVhbC5jaXR5bmV3cy5jYS8yMDI0LzA2LzI2L2Zlc3RpdmFsLW1vbnRyZWFsLWNvbXBsZXRlbWVudC1jaXJxdWUtZnVuZGluZy9hbXAv?oc=5",
+        "title": "Police seek more potential victims of man charged in Montreal with harassment, stalking - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9wb2xpY2Utc2Vlay1tb3JlLXBvdGVudGlhbC12aWN0aW1zLW9mLW1hbi1jaGFyZ2VkLWluLW1vbnRyZWFsLXdpdGgtaGFyYXNzbWVudC1zdGFsa2luZy0xLjY5NDA1OTLSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 17:15:50 GMT",
+        "pub_date": "Tue, 25 Jun 2024 20:02:00 GMT",
+        "source_url": "https://montreal.ctvnews.ca",
+        "source_name": "CTV News Montreal"
+    },
+    {
+        "title": "Quebec refuses to expand language exemptions for Indigenous students - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvdmlkZW8vMjAyNC8wNi8yNi9xdWViZWMtcmVmdXNlcy10by1leHBhbmQtbGFuZ3VhZ2UtZXhlbXB0aW9ucy1mb3ItaW5kaWdlbm91cy1zdHVkZW50cy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 22:20:23 GMT",
+        "source_url": "https://montreal.citynews.ca",
+        "source_name": "CityNews Montreal"
+    },
+    {
+        "title": "Montreal jazz fest: Artists remember director Jean-Marc Vall\u00e9e through his favourite music - Montreal Gazette",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvYXJ0aXN0cy1yZW1lbWJlci1kaXJlY3Rvci1qZWFuLW1hcmMtdmFsbGVlLXRocm91Z2gtaGlzLWZhdm91cml0ZS1tdXNpY9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jun 2024 20:15:32 GMT",
+        "source_url": "https://montrealgazette.com",
+        "source_name": "Montreal Gazette"
+    },
+    {
+        "title": "Man, 21, drowns in St-Basile-le-Grand, Que. - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9kcm93bmluZy1tb250cmVhbC1zb3V0aC1zaG9yZS0xLjcyNDM4MjLSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzI0MzgyMg?oc=5",
+        "description": [],
+        "pub_date": "Sat, 22 Jun 2024 19:02:38 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "'Worrying rumours' of planned 'non-consensual sexual acts' at after-prom party prompts Quebec police investigation - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL21vbnRyZWFsLmN0dm5ld3MuY2Evd29ycnlpbmctcnVtb3Vycy1vZi1wbGFubmVkLW5vbi1jb25zZW5zdWFsLXNleHVhbC1hY3RzLWF0LWFmdGVyLXByb20tcGFydHktcHJvbXB0cy1xdWViZWMtcG9saWNlLWludmVzdGlnYXRpb24tMS42OTQyMTEw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 26 Jun 2024 19:45:00 GMT",
+        "source_url": "https://montreal.ctvnews.ca",
+        "source_name": "CTV News Montreal"
+    },
+    {
+        "title": "Montreal restaurant owner suspended meal program after OQLF letter - CityNews Montreal",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNC9tb250cmVhbC1yZXN0YXVyYW50LW93bmVyLXN1c3BlbmRlZC1tZWFsLXByb2dyYW0tYWZ0ZXItb3FsZi1sZXR0ZXIv0gFvaHR0cHM6Ly9tb250cmVhbC5jaXR5bmV3cy5jYS8yMDI0LzA2LzI0L21vbnRyZWFsLXJlc3RhdXJhbnQtb3duZXItc3VzcGVuZGVkLW1lYWwtcHJvZ3JhbS1hZnRlci1vcWxmLWxldHRlci9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Mon, 24 Jun 2024 15:09:54 GMT",
         "source_url": "https://montreal.citynews.ca",
         "source_name": "CityNews Montreal"
     },
@@ -336,226 +544,18 @@
         "source_name": "Montreal Gazette"
     },
     {
-        "title": "Around the Towns: west end | City News | thesuburban.com - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZXN1YnVyYmFuLmNvbS9uZXdzL2NpdHlfbmV3cy9hcm91bmQtdGhlLXRvd25zLXdlc3QtZW5kL2FydGljbGVfNTUxYTdmYmEtMzlhOC01MzQxLTgwOWQtYTA3MzAzNDE2ZmJjLmh0bWzSAQA?oc=5",
+        "title": "Montreal's 1993 Stanley Cup champions are watching as Edmonton can end Canada's title drought - CTV News Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL21vbnRyZWFsLmN0dm5ld3MuY2EvbW9iaWxlL21vbnRyZWFsLXMtMTk5My1zdGFubGV5LWN1cC1jaGFtcGlvbnMtYXJlLXdhdGNoaW5nLWFzLWVkbW9udG9uLWNhbi1lbmQtY2FuYWRhLXMtdGl0bGUtZHJvdWdodC0xLjY5MzgyODTSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 26 Jun 2024 13:00:00 GMT",
-        "source_url": "https://www.thesuburban.com",
-        "source_name": "The Suburban Newspaper"
-    },
-    {
-        "title": "Renting in Montreal: fed up tenants feel they're being overcharged - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9yZW50aW5nLWluLW1vbnRyZWFsLWZlZC11cC10ZW5hbnRzLWZlZWwtdGhleS1yZS1iZWluZy1vdmVyY2hhcmdlZC0xLjY5Mzc0NTfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 20:20:00 GMT",
+        "pub_date": "Mon, 24 Jun 2024 11:46:31 GMT",
         "source_url": "https://montreal.ctvnews.ca",
         "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Travel smart: Four ways FlightHub offers budget-friendly business travel solutions \u2013 Ottawa Business Journal - Ottawa Business Journal",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vb2JqLmNhL3RyYXZlbC1zbWFydC1mb3VyLXdheXMtZmxpZ2h0aHViLW9mZmVycy1idWRnZXQtZnJpZW5kbHktYnVzaW5lc3MtdHJhdmVsLXNvbHV0aW9ucy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 24 Jun 2024 19:28:39 GMT",
-        "source_url": "https://obj.ca",
-        "source_name": "Ottawa Business Journal"
-    },
-    {
-        "title": "Montreal borough mayor considers banning religious events in park after Eid celebration draws complaints - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9haHVudHNpYy1jYXJ0aWVydmlsbGUtZWlkLXBhcmstY29tcGxhaW50cy0xLjcyNDIyNzfSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzI0MjI3Nw?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 12:55:37 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "This Montreal home for sale features a sleek glass cube atop a 110-year-old duplex (PHOTOS) - MTL Blog",
-        "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm10bGJsb2cuY29tL21vbnRyZWFsLWhvbWUtZm9yLXNhbGUtZ2xhc3MtY3ViZdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 19:16:38 GMT",
-        "source_url": "https://www.mtlblog.com",
-        "source_name": "MTL Blog"
-    },
-    {
-        "title": "Lachine residents put up lawn signs to save ICU - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vbmV3cy93ZXN0X2lzbGFuZF9uZXdzL2xhY2hpbmUtcmVzaWRlbnRzLXB1dC11cC1sYXduLXNpZ25zLXRvLXNhdmUtaWN1L2FydGljbGVfODA5NzU5NTAtNmIyNi01NjgwLWIyZjUtMzM5Y2VlNTNjZjdkLmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 14:00:00 GMT",
-        "source_url": "https://www.thesuburban.com",
-        "source_name": "The Suburban Newspaper"
-    },
-    {
-        "title": "The '15-minute city' might not be realistic for North America, researchers find - McGill Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm1jZ2lsbC5jYS9uZXdzcm9vbS9jaGFubmVscy9uZXdzLzE1LW1pbnV0ZS1jaXR5LW1pZ2h0LW5vdC1iZS1yZWFsaXN0aWMtbm9ydGgtYW1lcmljYS1yZXNlYXJjaGVycy1maW5kLTM1Nzc2OdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 13:40:18 GMT",
-        "source_url": "https://www.mcgill.ca",
-        "source_name": "McGill Newsroom"
     },
     {
         "title": "SQ takes over Old Montreal kidnapping case as police search for 4th victim - CityNews Montreal",
         "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9zcS1vbGQtbW9udHJlYWwta2lkbmFwcGluZy1jYXNlL9IBTGh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9zcS1vbGQtbW9udHJlYWwta2lkbmFwcGluZy1jYXNlL2FtcC8?oc=5",
         "description": [],
         "pub_date": "Tue, 25 Jun 2024 14:59:31 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "Your guide to the 20 best shows at the Montreal jazz fest - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvMjAtYmVzdC1vZi1tb250cmVhbC1qYXp6LWZlc3TSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 10:02:14 GMT",
-        "source_url": "https://montrealgazette.com",
-        "source_name": "Montreal Gazette"
-    },
-    {
-        "title": "McGILL SPORTS HALL OF FAME PROFILE: Cathy Chartrand - McGill University Athletics - McGill Athletics",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbWNnaWxsYXRobGV0aWNzLmNhL25ld3MvMjAyNC82LzI2L3dvbWVucy1ob2NrZXktbWNnaWxsLXNwb3J0cy1oYWxsLW9mLWZhbWUtcHJvZmlsZS1jYXRoeS1jaGFydHJhbmQuYXNweNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 22:38:19 GMT",
-        "source_url": "https://mcgillathletics.ca",
-        "source_name": "McGill Athletics"
-    },
-    {
-        "title": "'Historic victory': Judge orders Quebec to pay taxi drivers $143 million for abolishing permits - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9tb2JpbGUvaGlzdG9yaWMtdmljdG9yeS1qdWRnZS1vcmRlcnMtcXVlYmVjLXRvLXBheS10YXhpLWRyaXZlcnMtMTQzLW1pbGxpb24tMS42OTM2NjM50gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 22:16:00 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Montreal's C\u00f4te-des-Neiges\u2014NDG borough launches anti-littering campaign - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9jbGVhbmxpbmVzcy1jYW1wYWlnbi1jJUMzJUI0dGUtZGVzLW5laWdlcy1uZGctMS43MjQxODI00gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyNDE4MjQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 08:00:00 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Economic integration is a major leveller for Quebecers' immigration preferences: Concordia study - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vdG93bm5ld3MvaHlkcm9ncmFwaHkvZWNvbm9taWMtaW50ZWdyYXRpb24taXMtYS1tYWpvci1sZXZlbGxlci1mb3ItcXVlYmVjZXJzLWltbWlncmF0aW9uLXByZWZlcmVuY2VzLWNvbmNvcmRpYS1zdHVkeS9hcnRpY2xlXzAwNGIxNTcyLTJmZTktMTFlZi1iZGRlLTFiNmVlMDdhYTY3Mi5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 16:15:00 GMT",
-        "source_url": "https://www.thesuburban.com",
-        "source_name": "The Suburban Newspaper"
-    },
-    {
-        "title": "Montreal restaurant owner suspended meal program after OQLF letter - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNC9tb250cmVhbC1yZXN0YXVyYW50LW93bmVyLXN1c3BlbmRlZC1tZWFsLXByb2dyYW0tYWZ0ZXItb3FsZi1sZXR0ZXIv0gFvaHR0cHM6Ly9tb250cmVhbC5jaXR5bmV3cy5jYS8yMDI0LzA2LzI0L21vbnRyZWFsLXJlc3RhdXJhbnQtb3duZXItc3VzcGVuZGVkLW1lYWwtcHJvZ3JhbS1hZnRlci1vcWxmLWxldHRlci9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Mon, 24 Jun 2024 15:09:54 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "Poilievre unscripted: He reveals the 'secret sauce' of his appeal - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL25hdGlvbmFsL3BvaWxpZXZyZS11bnNjcmlwdGVkLWhlLXJldmVhbHMtdGhlLXNlY3JldC1zYXVjZS1vZi1oaXMtYXBwZWFs0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 14:03:32 GMT",
-        "source_url": "https://montrealgazette.com",
-        "source_name": "Montreal Gazette"
-    },
-    {
-        "title": "MoWest calls on Quebec government to reverse university tuition hike - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vbmV3cy9jaXR5X25ld3MvbW93ZXN0LWNhbGxzLW9uLXF1ZWJlYy1nb3Zlcm5tZW50LXRvLXJldmVyc2UtdW5pdmVyc2l0eS10dWl0aW9uLWhpa2UvYXJ0aWNsZV84ZmRkNTMwMC1kYWI5LTU3ZWUtYTk4NS04Mjg2YTEwMWE1MmMuaHRtbNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 13:00:00 GMT",
-        "source_url": "https://www.thesuburban.com",
-        "source_name": "The Suburban Newspaper"
-    },
-    {
-        "title": "Man, 44, stabbed and sent to Montreal hospital - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9tYW4tNDUtYXJyZXN0ZWQtYWZ0ZXItc3RhYmJpbmctaW4tbW9udHJlYWwtcy1uZGctbmVpZ2hib3VyaG9vZC0xLjY5NDIxNznSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 20:18:00 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "70-year-old man missing in Laval - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9taXNzaW5nLW1hbi1sYXZhbC0xLjcyNDM5OTHSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzI0Mzk5MQ?oc=5",
-        "description": [],
-        "pub_date": "Sun, 23 Jun 2024 15:44:02 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Villa Maria teacher feted | City News | thesuburban.com - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZXN1YnVyYmFuLmNvbS9uZXdzL2NpdHlfbmV3cy92aWxsYS1tYXJpYS10ZWFjaGVyLWZldGVkL2FydGljbGVfMmZmOTYxODktZDdiMi01N2NhLWI5YjgtMmM2YzNhMWQ3MjFmLmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 13:00:00 GMT",
-        "source_url": "https://www.thesuburban.com",
-        "source_name": "The Suburban Newspaper"
-    },
-    {
-        "title": "Organizer cancels Montreal Canada Day parade, citing red tape, politics - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yMy9vcmdhbml6ZXItY2FuY2Vscy1tb250cmVhbC1jYW5hZGEtZGF5LXBhcmFkZS1jaXRpbmctcmVkLXRhcGUtcG9saXRpY3Mv0gFyaHR0cHM6Ly9tb250cmVhbC5jaXR5bmV3cy5jYS8yMDI0LzA2LzIzL29yZ2FuaXplci1jYW5jZWxzLW1vbnRyZWFsLWNhbmFkYS1kYXktcGFyYWRlLWNpdGluZy1yZWQtdGFwZS1wb2xpdGljcy9hbXAv?oc=5",
-        "description": [],
-        "pub_date": "Mon, 24 Jun 2024 05:26:15 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "Four injured in collision between two vehicles on Champlain Bridge - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvZm91ci1pbmp1cmVkLWluLWNvbGxpc2lvbi1iZXR3ZWVuLXR3by12ZWhpY2xlcy1vbi1jaGFtcGxhaW4tYnJpZGdl0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 17:49:54 GMT",
-        "source_url": "https://montrealgazette.com",
-        "source_name": "Montreal Gazette"
-    },
-    {
-        "title": "Teen driver, passenger in hospital after crash in Montreal's West Island - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS90ZWVuLWRyaXZlci1wYXNzZW5nZXItaW4taG9zcGl0YWwtYWZ0ZXItY3Jhc2gtaW4tbW9udHJlYWwtcy13ZXN0LWlzbGFuZC0xLjY5NDEzODLSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 11:54:00 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Man, 21, drowns in St-Basile-le-Grand, Que. - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9tb250cmVhbC9kcm93bmluZy1tb250cmVhbC1zb3V0aC1zaG9yZS0xLjcyNDM4MjLSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzI0MzgyMg?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 19:02:38 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Fan favourite Hill continues to excel for the Alliance - The Suburban Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy50aGVzdWJ1cmJhbi5jb20vc3BvcnRzL2Zhbi1mYXZvdXJpdGUtaGlsbC1jb250aW51ZXMtdG8tZXhjZWwtZm9yLXRoZS1hbGxpYW5jZS9hcnRpY2xlXzg0YzQ5OTdjLWQ5NWItNTliYS04NWFjLTI1YjU5YmNkZThlYS5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 13:00:00 GMT",
-        "source_url": "https://www.thesuburban.com",
-        "source_name": "The Suburban Newspaper"
-    },
-    {
-        "title": "36-year-old man found dead at Angrignon Park in Sud-Ouest borough - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yNS9tb250cmVhbC1tYW4tZGllcy1wYXJ0eS1hbmdyaWdub24tcGFyay_SAVNodHRwczovL21vbnRyZWFsLmNpdHluZXdzLmNhLzIwMjQvMDYvMjUvbW9udHJlYWwtbWFuLWRpZXMtcGFydHktYW5ncmlnbm9uLXBhcmsvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jun 2024 14:28:55 GMT",
-        "source_url": "https://montreal.citynews.ca",
-        "source_name": "CityNews Montreal"
-    },
-    {
-        "title": "Businesses west of Montreal being devastated by bridge work - CTV News Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9pbGUtYXV4LXRvdXJ0ZXMtY29uc3RydWN0aW9uLXNhZ2EtZGV2YXN0YXRpbmctbG9jYWwtYnVzaW5lc3Nlcy0xLjY5NDI2NDTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 26 Jun 2024 23:39:17 GMT",
-        "source_url": "https://montreal.ctvnews.ca",
-        "source_name": "CTV News Montreal"
-    },
-    {
-        "title": "Cyclist suffers serious head injuries after she was hit by a car in T.M.R. - Montreal Gazette",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvY3ljbGlzdC1zdWZmZXJzLXNlcmlvdXMtaGVhZC1pbmp1cmllcy1hZnRlci1zaGUtd2FzLWhpdC1ieS1hLWNhci1pbi1tb250LXJveWFs0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 22 Jun 2024 15:32:00 GMT",
-        "source_url": "https://montrealgazette.com",
-        "source_name": "Montreal Gazette"
-    },
-    {
-        "title": "Woman arrested after attempted kidnapping in Montreal - CityNews Montreal",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbW9udHJlYWwuY2l0eW5ld3MuY2EvMjAyNC8wNi8yMS92aWxsZS1tYXJpZS13b21hbi1hcnJlc3RlZC1hdHRlbXB0ZWQta2lkbmFwcGluZy1tb250cmVhbC_SAWVodHRwczovL21vbnRyZWFsLmNpdHluZXdzLmNhLzIwMjQvMDYvMjEvdmlsbGUtbWFyaWUtd29tYW4tYXJyZXN0ZWQtYXR0ZW1wdGVkLWtpZG5hcHBpbmctbW9udHJlYWwvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Fri, 21 Jun 2024 17:54:52 GMT",
         "source_url": "https://montreal.citynews.ca",
         "source_name": "CityNews Montreal"
     }
