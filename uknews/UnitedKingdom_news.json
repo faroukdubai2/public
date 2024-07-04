@@ -1,229 +1,935 @@
 [
     {
-        "title": "Boris Johnson takes swipe at Starmer and scorns Sunak in first campaign appearance - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAyL2JvcmlzLWpvaG5zb24tbWFrZXMtZmlyc3QtdG9yeS1lbGVjdGlvbi1jYW1wYWlnbi1hcHBlYXJhbmNl0gF0aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDIvYm9yaXMtam9obnNvbi1tYWtlcy1maXJzdC10b3J5LWVsZWN0aW9uLWNhbXBhaWduLWFwcGVhcmFuY2U?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 18:51:39 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
-    },
-    {
-        "title": "Jay Slater's mother reveals 'agony' in new statement after police end search - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvaG9tZS1uZXdzL2pheS1zbGF0ZXItbWlzc2luZy10ZW5lcmlmZS1wb2xpY2UtYjI1NzI4NjcuaHRtbNIBAA?oc=5",
+        "title": "Labour set for landslide win in UK election, polls suggest - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50Lzk4NmIxOWUyLTNmMGEtNDFiNC04YTVhLWZmNzI4Y2IzZWIxZtIBAA?oc=5",
         "description": [
             {
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvaG9tZS1uZXdzL2pheS1zbGF0ZXItbWlzc2luZy10ZW5lcmlmZS1wb2xpY2UtYjI1NzI4NjcuaHRtbNIBAA?oc=5",
-                "text": "Jay Slater's mother reveals 'agony' in new statement after police end search"
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50Lzk4NmIxOWUyLTNmMGEtNDFiNC04YTVhLWZmNzI4Y2IzZWIxZtIBAA?oc=5",
+                "text": "Labour set for landslide win in UK election, polls suggest"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDIvamF5LXNsYXRlci11cGRhdGUtcG9saWNlLXNlZW4tZm9yZW5zaWMtZ2Vhci1hdC1jb3R0YWdlL9IBAA?oc=5",
-                "text": "Jay Slater: Police seen in forensic gear at cottage where teen stayed"
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvdWstZWxlY3Rpb24tZmluYWwtbWVnYS1wb2xscy1wcmVkaWN0LXRvdGFsLXRvcnktYW5uaWhpbGF0aW9uLWxhYm91ci13aW4v0gEA?oc=5",
+                "text": "UK election: Tories set to suffer total annihilation, final mega polls predict"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3dvcmxkLW5ld3MvamF5LXNsYXRlcnMtbXVtLXRlbGxzLXRlbmVyaWZlLTMzMTQ2Mjg20gEA?oc=5",
-                "text": "Jay Slater's mum in desperate plea to Tenerife cops after they give major update"
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8wMy91ay91ay1nZW5lcmFsLWVsZWN0aW9uLXBvbGxzLW9wZW4tZ2JyLWludGwvaW5kZXguaHRtbNIBTWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMDMvdWsvdWstZ2VuZXJhbC1lbGVjdGlvbi1wb2xscy1vcGVuLWdici1pbnRs?oc=5",
+                "text": "UK voters head to polls for a momentous election"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTg1MjI5L1NwYW5pc2gtcG9saWNlLUpheS1TbGF0ZXItQWlyYm5iLWhvdXJzLWRpc2FwcGVhcmluZy1Ccml0aXNoLW9mZmljZXJzLWhlbHAtZXgtU2NvdGxhbmQtWWFyZC1vZmZpY2VyLXNheXMuaHRtbNIBogFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTg1MjI5L2FtcC9TcGFuaXNoLXBvbGljZS1KYXktU2xhdGVyLUFpcmJuYi1ob3Vycy1kaXNhcHBlYXJpbmctQnJpdGlzaC1vZmZpY2Vycy1oZWxwLWV4LVNjb3RsYW5kLVlhcmQtb2ZmaWNlci1zYXlzLmh0bWw?oc=5",
-                "text": "Spanish police hunting for Jay Slater must re-examine Airbnb where he was hours before disappearing and allow"
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8veW91Z292LmNvLnVrL3BvbGl0aWNzL2FydGljbGVzLzQ5OTUwLWZpbmFsLXlvdWdvdi1tcnAtc2hvd3MtbGFib3VyLW9uLWNvdXJzZS1mb3ItaGlzdG9yaWMtZWxlY3Rpb24tdmljdG9yedIBAA?oc=5",
+                "text": "Final YouGov MRP shows Labour on course for historic election victory"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5uYXRpb25hbHdvcmxkLmNvbS9uZXdzL3dvcmxkL2pheS1zbGF0ZXItbWlzc2luZy10aWt0b2staW5mbHVlbmNlci1zZWFyY2hpbmctZm9yLW1pc3NpbmctYnJpdGlzaC10ZWVuYWdlci1pbi10ZW5lcmlmZS1kaXNjb3ZlcnMtbmV3LWNsdWUtNDY4NjgxNNIBAA?oc=5",
-                "text": "Jay Slater missing: TikTok influencer discovers 'new clue'"
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzhlZGFhYzM5LTYwZTYtNDQyMi04MjhkLWFlMGFiMzhhNTJiM9IBAA?oc=5",
+                "text": "Tory minister predicts historic Labour landslide in general election"
             }
         ],
-        "pub_date": "Tue, 02 Jul 2024 22:11:28 GMT",
-        "source_url": "https://www.independent.co.uk",
-        "source_name": "The Independent"
-    },
-    {
-        "title": "Postal vote delays: Royal Mail denies backlog as concerns raised - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJneHh5ZHhsem_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZ3h4eWR4bHpvLmFtcA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 08:35:59 GMT",
-        "source_url": "https://www.bbc.com",
-        "source_name": "BBC.com"
-    },
-    {
-        "title": "Terrorist hospital worker ready to 'kill as many nurses as possible' with bomb plot found guilty - Manchester Evening News",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL3RlcnJvcmlzdC1ob3NwaXRhbC13b3JrZXItcmVhZHkta2lsbC0yOTQ2MjAzNtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 19:40:00 GMT",
-        "source_url": "https://www.manchestereveningnews.co.uk",
-        "source_name": "Manchester Evening News"
-    },
-    {
-        "title": "Dowden backs Atkins as potential new Tory leader - The Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAyL2Rvd2Rlbi1iYWNrcy1hdGtpbnMtYXMtcG90ZW50aWFsLW5ldy10b3J5LWxlYWRlci_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 18:40:00 GMT",
-        "source_url": "https://www.telegraph.co.uk",
-        "source_name": "The Telegraph"
-    },
-    {
-        "title": "19 pictures show scale of huge fire as smoke billows across city - Liverpool Echo",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy9saXZlcnBvb2wtbmV3cy9nYWxsZXJ5LzEzLXBpY3R1cmVzLXNob3ctc2NhbGUtaHVnZS0yOTQ2MjQxNtIBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy9saXZlcnBvb2wtbmV3cy9nYWxsZXJ5LzEzLXBpY3R1cmVzLXNob3ctc2NhbGUtaHVnZS0yOTQ2MjQxNtIBAA?oc=5",
-                "text": "19 pictures show scale of huge fire as smoke billows across city"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xOTE4MjE2L2xpdmVycG9vbC1maXJlLWh1eXRvbi1pbmR1dHJpYWwtZXN0YXRlLWxhdGVzdNIBW2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xOTE4MjE2L2xpdmVycG9vbC1maXJlLWh1eXRvbi1pbmR1dHJpYWwtZXN0YXRlLWxhdGVzdC9hbXA?oc=5",
-                "text": "Liverpool fire LIVE : Merseyside industrial estate in flames as firefighters rush to scene"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy9saXZlcnBvb2wtbmV3cy9jbG9zZS13aW5kb3dzLWRvb3JzLTEwLWZpcmUtMjk0NjIzNjXSAQA?oc=5",
-                "text": "'Close all windows and doors' as 10 fire engines descend on huge blaze scene"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 20:50:00 GMT",
-        "source_url": "https://www.liverpoolecho.co.uk",
-        "source_name": "Liverpool Echo"
-    },
-    {
-        "title": "West Wittering: Boy, 17, dies during school trip to the beach - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NwZDluNDdsZTg3b9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NwZDluNDdsZTg3by5hbXA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 18:15:44 GMT",
-        "source_url": "https://www.bbc.co.uk",
-        "source_name": "BBC"
-    },
-    {
-        "title": "Search for missing 85-year-old who walked more than 25 miles along coast - North Wales Live",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmRhaWx5cG9zdC5jby51ay9uZXdzL25vcnRoLXdhbGVzLW5ld3Mvc2VhcmNoLW1pc3NpbmctODUteWVhci1vbGQtMjk0NjE1MTbSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 16:31:00 GMT",
-        "source_url": "https://www.dailypost.co.uk",
-        "source_name": "North Wales Live"
-    },
-    {
-        "title": "Keir Starmer defends accepting freebies on security grounds - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzI1ZDAwMGRmLWJkNjMtNDljMC1iYzEwLWFhMjYzZTI5ZDk4YtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 17:32:09 GMT",
+        "pub_date": "Wed, 03 Jul 2024 23:12:52 GMT",
         "source_url": "https://www.ft.com",
         "source_name": "Financial Times"
     },
     {
-        "title": "Man arrested after house shot at while \u2018mum and her kids\u2019 were inside - Manchester Evening News",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL21hbi1hcnJlc3RlZC1hZnRlci1ob3VzZS1zaG90LTI5NDYyNTYw0gFvaHR0cHM6Ly93d3cubWFuY2hlc3RlcmV2ZW5pbmduZXdzLmNvLnVrL25ld3MvZ3JlYXRlci1tYW5jaGVzdGVyLW5ld3MvbWFuLWFycmVzdGVkLWFmdGVyLWhvdXNlLXNob3QtMjk0NjI1NjAuYW1w?oc=5",
+        "title": "Close election results \u2018could be challenged over delayed postal votes\u2019 - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL2Nsb3NlLWVsZWN0aW9uLXJlc3VsdHMtY291bGQtYmUtY2hhbGxlbmdlZC1vdmVyLWRlbGF5ZWQtcG9zdGFsLXZvdGVz0gF9aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDMvY2xvc2UtZWxlY3Rpb24tcmVzdWx0cy1jb3VsZC1iZS1jaGFsbGVuZ2VkLW92ZXItZGVsYXllZC1wb3N0YWwtdm90ZXM?oc=5",
         "description": [
             {
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL21hbi1hcnJlc3RlZC1hZnRlci1ob3VzZS1zaG90LTI5NDYyNTYw0gFvaHR0cHM6Ly93d3cubWFuY2hlc3RlcmV2ZW5pbmduZXdzLmNvLnVrL25ld3MvZ3JlYXRlci1tYW5jaGVzdGVyLW5ld3MvbWFuLWFycmVzdGVkLWFmdGVyLWhvdXNlLXNob3QtMjk0NjI1NjAuYW1w?oc=5",
-                "text": "Man arrested after house shot at while \u2018mum and her kids\u2019 were inside"
+                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL2Nsb3NlLWVsZWN0aW9uLXJlc3VsdHMtY291bGQtYmUtY2hhbGxlbmdlZC1vdmVyLWRlbGF5ZWQtcG9zdGFsLXZvdGVz0gF9aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDMvY2xvc2UtZWxlY3Rpb24tcmVzdWx0cy1jb3VsZC1iZS1jaGFsbGVuZ2VkLW92ZXItZGVsYXllZC1wb3N0YWwtdm90ZXM?oc=5",
+                "text": "Close election results \u2018could be challenged over delayed postal votes\u2019"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL3NhbGZvcmQtc2hvb3RpbmctbGl2ZS11cGRhdGVzLWFmdGVyLTI5NDU4Mjg20gEA?oc=5",
-                "text": "Salford shooting LIVE updates after gunman opens fire in street"
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NwMzhuM20zODUzb9IBAA?oc=5",
+                "text": "Undelivered Penarth postal ballots worry councils"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2dvdmVybm1lbnQtdXJnZW50bHktaW52ZXN0aWdhdGluZy1nZW5lcmFsLWVsZWN0aW9uLXBvc3RhbC1iYWxsb3QtZGVsYXlzLTEzMTYyMjAx0gEA?oc=5",
+                "text": "Royal Mail blames government for general election postal ballot delays"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzMzNDRhNzdiLWJkZGMtNDY1My1iMmFkLWNmMDYzMTJjZTJkNtIBAA?oc=5",
+                "text": "Scottish voters left 'disenfranchised' after postal delays, says John Swinney"
             }
         ],
-        "pub_date": "Tue, 02 Jul 2024 22:09:00 GMT",
-        "source_url": "https://www.manchestereveningnews.co.uk",
-        "source_name": "Manchester Evening News"
-    },
-    {
-        "title": "Tories narrow gap to Labour in poll as Sunak says election not 'foregone conclusion' - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvcG9saXRpY3MvZ2VuZXJhbC1lbGVjdGlvbi0yMDI0LXJpc2hpLXN1bmFrLXBvbGwtbGFib3VyLXN1cGVybWFqb3JpdHktYjExNjgwMTEuaHRtbNIBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvcG9saXRpY3MvZ2VuZXJhbC1lbGVjdGlvbi0yMDI0LXJpc2hpLXN1bmFrLXBvbGwtbGFib3VyLXN1cGVybWFqb3JpdHktYjExNjgwMTEuaHRtbNIBAA?oc=5",
-                "text": "Tories narrow gap to Labour in poll as Sunak says election not 'foregone conclusion'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi93aGVuLXN1bmFrLWNhbGxlZC1hbi1lbGVjdGlvbi1sYWJvdXItd2FzLTIyLXBvaW50cy1haGVhZC1oYXMtYW55dGhpbmctY2hhbmdlZNIBhgFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi93aGVuLXN1bmFrLWNhbGxlZC1hbi1lbGVjdGlvbi1sYWJvdXItd2FzLTIyLXBvaW50cy1haGVhZC1oYXMtYW55dGhpbmctY2hhbmdlZA?oc=5",
-                "text": "When Sunak called an election, Labour was 22 points ahead. Has anything changed?"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAyL2dlbmVyYWwtZWxlY3Rpb24tbGl2ZS1zdW5hay1zdGFybWVyLWZhcmFnZS_SAQA?oc=5",
-                "text": "Boris Johnson warns Labour super-majority would be 'height of insanity' in surprise speech"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vcmVkZmllbGRhbmR3aWx0b25zdHJhdGVnaWVzLmNvbS9sYXRlc3QtZ2Itdm90aW5nLWludGVudGlvbi0yOC1qdW5lLTItanVseS0yMDI0L9IBAA?oc=5",
-                "text": "Latest GB Voting Intention (28 June - 2 July 2024)"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMDIvdWstcG9sbHMtcG9pbnQtdG8tYS1iaWctbGFib3VyLXdpbi10aGUtcGFydHktZmVhcnMtdm90ZXItY29tcGxhY2VuY3kuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA3LzAyL3VrLXBvbGxzLXBvaW50LXRvLWEtYmlnLWxhYm91ci13aW4tdGhlLXBhcnR5LWZlYXJzLXZvdGVyLWNvbXBsYWNlbmN5Lmh0bWw?oc=5",
-                "text": "UK polls point to a massive win for Labour. The party doesn't want voters to think victory is a done deal"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 20:03:51 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "Family fear worst for boy who went missing in River Mersey - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvZGFuaWVsLWhhbGxpZGF5LWZhbWlseS1mZWFyLXdvcnN0LWJveS1taXNzaW5nLXJpdmVyLW1lcnNledIBcmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvZGFuaWVsLWhhbGxpZGF5LWZhbWlseS1mZWFyLXdvcnN0LWJveS1taXNzaW5nLXJpdmVyLW1lcnNleQ?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvZGFuaWVsLWhhbGxpZGF5LWZhbWlseS1mZWFyLXdvcnN0LWJveS1taXNzaW5nLXJpdmVyLW1lcnNledIBcmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvZGFuaWVsLWhhbGxpZGF5LWZhbWlseS1mZWFyLXdvcnN0LWJveS1taXNzaW5nLXJpdmVyLW1lcnNleQ?oc=5",
-                "text": "Family fear worst for boy who went missing in River Mersey"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9kYW5pZWwtaGFsbGlkYXktZmFtaWx5LW9mLXRlZW4td2hvLWVudGVyZWQtcml2ZXItbWVyc2V5LWZlYXItdHJhZ2ljLWFjY2lkZW50LWhhcy10YWtlbi1vdXItbG92ZWx5LWJveS0xMzE2MjQ1N9IBjQFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvZGFuaWVsLWhhbGxpZGF5LWZhbWlseS1vZi10ZWVuLXdoby1lbnRlcmVkLXJpdmVyLW1lcnNleS1mZWFyLXRyYWdpYy1hY2NpZGVudC1oYXMtdGFrZW4tb3VyLWxvdmVseS1ib3ktMTMxNjI0NTc?oc=5",
-                "text": "Daniel Halliday: Family of teen who entered River Mersey fear 'tragic accident has taken our lovely boy'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvaG9tZS1uZXdzL2RhbmllbC1oYWxsaWRheS1taXNzaW5nLXJpdmVyLW1lcnNleS1iMjU3Mjg0OS5odG1s0gEA?oc=5",
-                "text": "Brother tried to save boy, 14, who vanished after jumping waves in river"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeGUydmp2cms1OG_SAQA?oc=5",
-                "text": "Crosby Beach: Brother 'tried to save' missing boy, 14, from water"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5tZXJzZXlzaWRlLnBvbGljZS51ay9uZXdzL21lcnNleXNpZGUvbmV3cy8yMDI0L2p1bHkvc3RhdGVtZW50LWZyb20tZmFtaWx5LW9mLTE0LXllYXItb2xkLWJveS1taXNzaW5nLWFmdGVyLWdvaW5nLWludG8tcml2ZXItbWVyc2V5L9IBAA?oc=5",
-                "text": "Statement from family of 14 year-old boy missing after going into River Mersey"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 14:33:00 GMT",
+        "pub_date": "Wed, 03 Jul 2024 18:20:00 GMT",
         "source_url": "https://www.theguardian.com",
         "source_name": "The Guardian"
     },
     {
-        "title": "British PM Sunak hunts for votes among the robots at dawn - Reuters UK",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3Vrcy1zdW5hay1odW50cy12b3Rlcy1hbW9uZy1yb2JvdHMtNDUwLWFtLTIwMjQtMDctMDIv0gEA?oc=5",
+        "title": "Forensic police search Tenerife house for Jay Slater as mother reveals 'agony' - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvaG9tZS1uZXdzL2pheS1zbGF0ZXItdGVuZXJpZmUtbWlzc2luZy1mYW1pbHktZ29mdW5kbWUtYjI1NzMwNjkuaHRtbNIBAA?oc=5",
         "description": [
             {
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3Vrcy1zdW5hay1odW50cy12b3Rlcy1hbW9uZy1yb2JvdHMtNDUwLWFtLTIwMjQtMDctMDIv0gEA?oc=5",
-                "text": "British PM Sunak hunts for votes among the robots at dawn"
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvaG9tZS1uZXdzL2pheS1zbGF0ZXItdGVuZXJpZmUtbWlzc2luZy1mYW1pbHktZ29mdW5kbWUtYjI1NzMwNjkuaHRtbNIBAA?oc=5",
+                "text": "Forensic police search Tenerife house for Jay Slater as mother reveals 'agony'"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAyL3Jpc2hpLXN1bmFrLXNwZWVkeS1nb256YWxlei1mcmVuZXRpYy1maW5hbC1jYW1wYWlnbi1wdXNoL9IBAA?oc=5",
-                "text": "Rishi channels Speedy Gonzalez in frenetic final campaign push"
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2pheS1zbGF0ZXJzLW1vdGhlci1yZXZlYWxzLWhvdy1mYW1pbHktd2lsbC11c2UtcmVtYWluaW5nLWRvbmF0aW9ucy1mcm9tLTQ4LTAwMC1nb2Z1bmRtZS0xMzE2Mjk5MNIBAA?oc=5",
+                "text": "Jay Slater's mother reveals how family will use remaining donations from \u00a348,000 GoFundMe"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2MzMGUwODg1LWI1MzYtNGQ0OS1hZWZjLTVhNjBiMjIyNmZlNNIBAA?oc=5",
-                "text": "Rishi Sunak tries to revive Tory spirits as campaign nears its end"
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N6OWQ0cjFtMDE3b9IBAA?oc=5",
+                "text": "Jay Slater's mum tells of 'agony' as searches fail to find son"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3R2L25ld3Mvc3VuYWstZ2VuZXJhbC1lbGVjdGlvbi1tb3JyaXNvbnMtYmJjLWJyZWFrZmFzdC1iMjU3MjUxNC5odG1s0gEA?oc=5",
-                "text": "Rishi Sunak stacks shelves at Morrisons days ahead of general election"
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzAzL21vdGhlci1qYXktc2xhdGVyLWFnb255LXRlZW5hZ2VyLW1pc3NpbmctdGVuZXJpZmXSAQA?oc=5",
+                "text": "Mother of Jay Slater tells of \u2018pain and agony\u2019 over teenager missing in Tenerife"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LndoaXRlaGF2ZW5uZXdzLmNvLnVrL25ld3MvbmF0aW9uYWwvMjQ0MjYxOTMucGljdHVyZXMtZmFjdG9yaWVzLWZhcm1zLWZvb3RiYWxsLWZlYXR1cmUtY2FtcGFpZ24tdHJhaWwv0gEA?oc=5",
-                "text": "In Pictures: Factories, farms and football feature on campaign trail"
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDMvZmF0aGVyLW1pc3NpbmctamF5LXNsYXRlci10d28tbWVuLWNvdHRhZ2UtdGVuZXJpZmUtcG9saWNlL9IBAA?oc=5",
+                "text": "Father of missing Jay Slater questions why two men took the teenager to their cottage"
             }
         ],
-        "pub_date": "Tue, 02 Jul 2024 09:39:39 GMT",
-        "source_url": "https://www.reuters.com",
-        "source_name": "Reuters UK"
+        "pub_date": "Thu, 04 Jul 2024 00:30:00 GMT",
+        "source_url": "https://www.independent.co.uk",
+        "source_name": "The Independent"
     },
     {
-        "title": "Nigel Farage suffers new blow as bigotry storm engulfs his party just before UK election - POLITICO Europe",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvbmlnZWwtZmFyYWdlcy1wYXJ0eS1hY2N1c2VkLXJhY2lzbS1taXNvZ3lueS1ieS1mb3JtZXItZWxlY3Rpb24tY2FuZGlkYXRlL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 14:53:00 GMT",
-        "source_url": "https://www.politico.eu",
-        "source_name": "POLITICO Europe"
+        "title": "Keir Starmer hails \u2018new age of hope\u2019 as Rishi Sunak fears losing seat - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzA0L2tlaXItc3Rhcm1lci1oYWlscy1uZXctYWdlLW9mLWhvcGUtYXMtcmlzaGktc3VuYWstZmVhcnMtbG9zaW5nLXNlYXTSAXxodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wNC9rZWlyLXN0YXJtZXItaGFpbHMtbmV3LWFnZS1vZi1ob3BlLWFzLXJpc2hpLXN1bmFrLWZlYXJzLWxvc2luZy1zZWF0?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzA0L2tlaXItc3Rhcm1lci1oYWlscy1uZXctYWdlLW9mLWhvcGUtYXMtcmlzaGktc3VuYWstZmVhcnMtbG9zaW5nLXNlYXTSAXxodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wNC9rZWlyLXN0YXJtZXItaGFpbHMtbmV3LWFnZS1vZi1ob3BlLWFzLXJpc2hpLXN1bmFrLWZlYXJzLWxvc2luZy1zZWF0?oc=5",
+                "text": "Keir Starmer hails \u2018new age of hope\u2019 as Rishi Sunak fears losing seat"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvZ2VuZXJhbC1lbGVjdGlvbi1sYWJvdXItcmVmb3JtLWZhcmFnZS1zdW5hay1zdGFybWVyLWIyNTczMDA0Lmh0bWw_cGFnZT0y0gEA?oc=5",
+                "text": "General election UK live news: Keir Starmer slams Tory predictions of historic Labour landslide as \u2018voter suppression\u2019"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL3JlYWR5LXRvLWdvdmVybi1rZWlyLXN0YXJtZXItcG9sbHMtaGlzdG9yaWMtdmljdG9yeS_SAQA?oc=5",
+                "text": "I'm ready to govern, says Sir Keir Starmer as polls predict historic Labour victory"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NncjUyM3p5bHZ5b9IBAA?oc=5",
+                "text": "Party Leaders make final pitches as polling day looms"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbmV3cy5za3kuY29tL3ZpZGVvL3N0YXJtZXJzLWZpbmFsLWNhbXBhaWduLXNwZWVjaC1hcy1nZW5lcmFsLWVsZWN0aW9uLWNhbXBhaWduLWRyYXdzLXRvLWEtY2xvc2UtMTMxNjMxMzjSAQA?oc=5",
+                "text": "Starmer's final campaign speech as general election campaign draws to a close"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 23:01:00 GMT",
+        "source_url": "https://www.theguardian.com",
+        "source_name": "The Guardian"
     },
     {
-        "title": "General election 2024: Labour holds 24pt lead in Wales - YouGov",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8veW91Z292LmNvLnVrL3BvbGl0aWNzL2FydGljbGVzLzQ5OTI2LWdlbmVyYWwtZWxlY3Rpb24tMjAyNC1sYWJvdXItaG9sZHMtMjRwdC1sZWFkLWluLXdhbGVz0gEA?oc=5",
+        "title": "Man who let Jay Slater stay at Airbnb breaks silence saying 'he left alive' - Daily Record",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9tYW4td2hvLWpheS1zbGF0ZXItc3RheS0zMzE2NDI4MdIBVWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9tYW4td2hvLWpheS1zbGF0ZXItc3RheS0zMzE2NDI4MS5hbXA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9tYW4td2hvLWpheS1zbGF0ZXItc3RheS0zMzE2NDI4MdIBVWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9tYW4td2hvLWpheS1zbGF0ZXItc3RheS0zMzE2NDI4MS5hbXA?oc=5",
+                "text": "Man who let Jay Slater stay at Airbnb breaks silence saying 'he left alive'"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTc4OTkvamF5LXNsYXRlci1haXJibmItYnJpdGlzaC1tYW4tY29udmljdGVkLWRydWctZGVhbGVyLmh0bWzSAW5odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTk3ODk5L2FtcC9qYXktc2xhdGVyLWFpcmJuYi1icml0aXNoLW1hbi1jb252aWN0ZWQtZHJ1Zy1kZWFsZXIuaHRtbA?oc=5",
+                "text": "Revealed: British man, 31, who Jay Slater visited in AirBnb before vanishing is a convicted drug dealer and he"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2pheS1zbGF0ZXItYnJpdGlzaC1tYW4tMzEtd2l0aC10ZWVuLWFpcmJuYi1sZWZ0LWhvdXNlLWFsaXZlL9IBAA?oc=5",
+                "text": "British man, 31, who was with missing Jay Slater at Airbnb before he vanished breaks silence"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmdibmV3cy5jb20vbmV3cy9qYXktc2xhdGVyLXNwYW5pc2gtcG9saWNlLW15c3RlcnktYWlyYm5iLW1hbi1yZXZlYWxlZNIBAA?oc=5",
+                "text": "Jay Slater: Spanish Police criticised for 'overlooking basics' as mystery Airbnb man revealed"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3dvcmxkLW5ld3MvbXlzdGVyeS1tYW4td2hvLWpheS1zbGF0ZXItMzMxNjQ1MzjSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy93b3JsZC1uZXdzL215c3RlcnktbWFuLXdoby1qYXktc2xhdGVyLTMzMTY0NTM4LmFtcA?oc=5",
+                "text": "Mystery man who Jay Slater visited at Tenerife Airbnb issues 12-word statement"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 22:04:00 GMT",
+        "source_url": "https://www.dailyrecord.co.uk",
+        "source_name": "Daily Record"
+    },
+    {
+        "title": "London teen, 17, dies in 'tragic accident' at beach during school trip - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvc3R1ZGVudC11eGJyaWRnZS1jb2xsZWdlLWRpZXMtc2VhLXdlc3Qtd2l0dGVyaW5nLWJlYWNoLXN1c3NleC1wb2xpY2UtYjExNjgzOTcuaHRtbNIBAA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvc3R1ZGVudC11eGJyaWRnZS1jb2xsZWdlLWRpZXMtc2VhLXdlc3Qtd2l0dGVyaW5nLWJlYWNoLXN1c3NleC1wb2xpY2UtYjExNjgzOTcuaHRtbNIBAA?oc=5",
+                "text": "London teen, 17, dies in 'tragic accident' at beach during school trip"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2JveS0xNy1kaWVzLWluLXRyYWdpYy1hY2NpZGVudC1vbi1zY2hvb2wtdHJpcC0xMzE2Mjg4MNIBAA?oc=5",
+                "text": "Boy, 17, dies in 'tragic accident' on school trip"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDMvbG9uZG9uLXN0dWRlbnQtZGllZC13ZXN0LXdpdHRlcmluZy1iZWFjaC11eGJyaWRnZS13ZXN0LXN1c3NleNIBdWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDMvbG9uZG9uLXN0dWRlbnQtZGllZC13ZXN0LXdpdHRlcmluZy1iZWFjaC11eGJyaWRnZS13ZXN0LXN1c3NleA?oc=5",
+                "text": "London student died in \u2018tragic accident\u2019 at West Wittering beach, says principal"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDMvYm95LTE3LWRyb3ducy1vbi1zY2hvb2wtdHJpcC10by13ZXN0LXdpdHRlcmluZy1iZWFjaC_SAQA?oc=5",
+                "text": "Boy, 17, drowns on school trip to West Wittering beach"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTU5NTMvQm95LWRyb3ducy1zY2hvb2wtdHJpcC1TdXNzZXgtYmVhY2gtZ2V0dGluZy1kaWZmaWN1bHR5LXNlYS5odG1s0gF1aHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzU5NTk1My9hbXAvQm95LWRyb3ducy1zY2hvb2wtdHJpcC1TdXNzZXgtYmVhY2gtZ2V0dGluZy1kaWZmaWN1bHR5LXNlYS5odG1s?oc=5",
+                "text": "Police launch probe after boy, 17, drowned while on school trip 'after getting into difficulties in the sea' -"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 23:42:10 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "'Selfless act' of boy, 15, whose 'fighting spirit will live on' after his tragic death - Liverpool Echo",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy9saXZlcnBvb2wtbmV3cy9zZWxmbGVzcy1hY3QtYm95LTE1LXdob3NlLTI5NDY1OTM30gFaaHR0cHM6Ly93d3cubGl2ZXJwb29sZWNoby5jby51ay9uZXdzL2xpdmVycG9vbC1uZXdzL3NlbGZsZXNzLWFjdC1ib3ktMTUtd2hvc2UtMjk0NjU5MzcuYW1w?oc=5",
         "description": [],
-        "pub_date": "Tue, 02 Jul 2024 17:12:00 GMT",
-        "source_url": "https://yougov.co.uk",
-        "source_name": "YouGov"
+        "pub_date": "Wed, 03 Jul 2024 20:02:00 GMT",
+        "source_url": "https://www.liverpoolecho.co.uk",
+        "source_name": "Liverpool Echo"
+    },
+    {
+        "title": "Millions of voters to head to polls in UK general election - Sky News",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L21pbGxpb25zLW9mLXZvdGVycy10by1oZWFkLXRvLXBvbGxzLWluLXVrLWdlbmVyYWwtZWxlY3Rpb24tMTMxNjI0NjnSAWJodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvbWlsbGlvbnMtb2Ytdm90ZXJzLXRvLWhlYWQtdG8tcG9sbHMtaW4tdWstZ2VuZXJhbC1lbGVjdGlvbi0xMzE2MjQ2OQ?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L21pbGxpb25zLW9mLXZvdGVycy10by1oZWFkLXRvLXBvbGxzLWluLXVrLWdlbmVyYWwtZWxlY3Rpb24tMTMxNjI0NjnSAWJodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvbWlsbGlvbnMtb2Ytdm90ZXJzLXRvLWhlYWQtdG8tcG9sbHMtaW4tdWstZ2VuZXJhbC1lbGVjdGlvbi0xMzE2MjQ2OQ?oc=5",
+                "text": "Millions of voters to head to polls in UK general election"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL2dlbmVyYWwtZWxlY3Rpb24tcGhvdG8taWQtdm90aW5nLXBhc3Nwb3J0LWRyaXZpbmctbGljZW5jZdIBAA?oc=5",
+                "text": "What photo ID do I need to vote in the 2024 UK general election?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vZWxlY3Rpb24tMjAyNC1wb2xsaW5nLXN0YXRpb24tZG9zLWFuZC1kb250cy1mcm9tLWRvZ3MtdG8tc2VsZmllcy_SAQA?oc=5",
+                "text": "Election 2024: Polling station dos and don'ts - from dogs to selfies"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5ncG40Z2xqZ2_SAQA?oc=5",
+                "text": "Voters set to head to polls across UK in general election"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 23:01:37 GMT",
+        "source_url": "https://news.sky.com",
+        "source_name": "Sky News"
+    },
+    {
+        "title": "Scotland election: Polls show SNP in close battle with Labour eve of vote - Channel 4 News",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNoYW5uZWw0LmNvbS9uZXdzL3Njb3RsYW5kLWVsZWN0aW9uLXBvbGxzLXNob3ctc25wLWluLWNsb3NlLWJhdHRsZS13aXRoLWxhYm91ci1ldmUtb2Ytdm90ZdIBAA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNoYW5uZWw0LmNvbS9uZXdzL3Njb3RsYW5kLWVsZWN0aW9uLXBvbGxzLXNob3ctc25wLWluLWNsb3NlLWJhdHRsZS13aXRoLWxhYm91ci1ldmUtb2Ytdm90ZdIBAA?oc=5",
+                "text": "Scotland election: Polls show SNP in close battle with Labour eve of vote"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M0bmdwZWRlbno3b9IBAA?oc=5",
+                "text": "Leaders make last ditch pitch to Scottish voters"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8veW91Z292LmNvLnVrL3BvbGl0aWNzL2FydGljbGVzLzQ5ODgwLWdlbmVyYWwtZWxlY3Rpb24tMjAyNC1sYWJvdXItbGVhZHMtc25wLWluLXNjb3RsYW5kLWJ5LXNpeC1wb2ludHPSAQA?oc=5",
+                "text": "General election 2024: Labour leads SNP in Scotland by six points"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi9hLXZvdGUtZm9yLWxhYm91ci1jYW4tdHVybi10aGUtdGlkZS1hZ2FpbnN0LXRoZS1mYXItcmlnaHQtc2F5cy1zY290dGlzaC1sZWFkZXItYW5hcy1zYXJ3YXItYW5hcy1zYXJ3YXLSAZ8BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDIvYS12b3RlLWZvci1sYWJvdXItY2FuLXR1cm4tdGhlLXRpZGUtYWdhaW5zdC10aGUtZmFyLXJpZ2h0LXNheXMtc2NvdHRpc2gtbGVhZGVyLWFuYXMtc2Fyd2FyLWFuYXMtc2Fyd2Fy?oc=5",
+                "text": "A vote for Labour can turn tide against the far right, says Scottish leader"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL3Njb3RsYW5kLXNucC1sYWJvdXItcGFydHktc2F2YW50YS1wb2xsLWpvaG4tY3VydGljZS_SAQA?oc=5",
+                "text": "Labour falls behind SNP in Scotland, new poll suggests"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 19:06:40 GMT",
+        "source_url": "https://www.channel4.com",
+        "source_name": "Channel 4 News"
+    },
+    {
+        "title": "Rishi sinks into TV sofa as Boris gloats and Mel goes rogue - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL3Jpc2hpLXN1bmFrLXRoaXMtbW9ybmluZy10di1zb2ZhLWJvcmlzLWpvaG5zb24tbWVsLXN0cmlkZdIBAA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL3Jpc2hpLXN1bmFrLXRoaXMtbW9ybmluZy10di1zb2ZhLWJvcmlzLWpvaG5zb24tbWVsLXN0cmlkZdIBAA?oc=5",
+                "text": "Rishi sinks into TV sofa as Boris gloats and Mel goes rogue"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL3Jpc2hpLXN1bmFrcy1mYXZvdXJpdGUtbWVhbC1pcy1zYW5kd2ljaGVzLXRoaXMtbW9ybmluZy1pdHYv0gEA?oc=5",
+                "text": "Rishi reveals his favourite meal is... sandwiches"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL3doYXRzLWluLXJpc2hpLXN1bmFrcy1lbGVjdGlvbi1waWUv0gEA?oc=5",
+                "text": "What's in Rishi Sunak's traditional Election Pie, ahead of his possible last supper as Prime Minister?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3ZvaWNlcy9yaXNoaS1zdW5hay10aGlzLW1vcm5pbmctdGF0dG9vLXNhbmR3aWNoLWIyNTczMzQ0Lmh0bWzSAQA?oc=5",
+                "text": "Just when you thought it couldn't get any worse for Rishi\u2026 he goes on This Morning"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZ3JlYXRkcmlmZmllbGRyYWRpby5jby51ay91ay9yaXNoaS1zdW5hay1tZWV0cy11a3MtbW9zdC10YXR0b29lZC13b21hbi1hbmQtcmV2ZWFscy1mYXZvdXJpdGUtbWVhbC1pcy1zYW5kd2ljaGVzL9IBAA?oc=5",
+                "text": "Rishi Sunak Meets UK's Most Tattooed Woman And Reveals Favourite Meal Is Sandwiches"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 17:44:22 GMT",
+        "source_url": "https://www.theguardian.com",
+        "source_name": "The Guardian"
+    },
+    {
+        "title": "The Conservative Party faces devastation - The New Statesman",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvMjAyNC8wNy90aGUtY29uc2VydmF0aXZlLXBhcnR5LWZhY2VzLXRvdGFsLWRldmFzdGF0aW9u0gEA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvMjAyNC8wNy90aGUtY29uc2VydmF0aXZlLXBhcnR5LWZhY2VzLXRvdGFsLWRldmFzdGF0aW9u0gEA?oc=5",
+                "text": "The Conservative Party faces devastation"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzQxZTI5YWY4LTYxZTEtNDdjMy05OGM4LTRkYzQ3MTBmZWJjYdIBAA?oc=5",
+                "text": "Letter: The tide turned on the Tory party long ago"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAyL3Rvcmllcy1jdXQtbGFib3VyLWxlYWQtcmVmb3JtLXVrLXN1cHBvcnQtZGlwcy1wb2xsL9IBAA?oc=5",
+                "text": "Tories to win just 64 seats, latest poll predicts"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMDMvdGhlLWNvbnNlcnZhdGl2ZXMtZG93bmZhbGwtYmVnYW4td2F5LWJlZm9yZS1lbGVjdGlvbi1wb2xsaW5nLWd1cnUuaHRtbNIBAA?oc=5",
+                "text": "The Conservatives' downfall began way before election: polling guru"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvcG9saXRpY3MtZXhwbGFpbmVkL3N1cGVybWFqb3JpdHktbGFib3VyLXN0YXJtZXItdG9yaWVzLXN1bmFrLWIyNTczMzM5Lmh0bWzSAQA?oc=5",
+                "text": "Could the Tories really end up being the third-largest party in the Commons?"
+            }
+        ],
+        "pub_date": "Thu, 04 Jul 2024 01:18:45 GMT",
+        "source_url": "https://www.newstatesman.com",
+        "source_name": "The New Statesman"
+    },
+    {
+        "title": "The nurse colleague STILL standing by Lucy Letby - Daily Mail",
+        "link": "https://news.google.com/rss/articles/CBMi4QFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTk1ODQ5L1RoZS1udXJzZS1jb2xsZWFndWUtc3RhbmRpbmctTHVjeS1MZXRieS1zZXJpYWwtYmFieS1raWxsZXJzLWJlc3QtZnJpZW5kLXdvcmtlZC1hbG9uZ3NpZGUtaG9zcGl0YWwtbmVvLW5hdGFsLXVuaXQtdHVybmVkLWNvdXJ0LWRheS1zdXBwb3J0LWxhdGVzdC10cmlhbC1wYXJlbnRzLXN0YXllZC1hd2F5Lmh0bWzSAQA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMi4QFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTk1ODQ5L1RoZS1udXJzZS1jb2xsZWFndWUtc3RhbmRpbmctTHVjeS1MZXRieS1zZXJpYWwtYmFieS1raWxsZXJzLWJlc3QtZnJpZW5kLXdvcmtlZC1hbG9uZ3NpZGUtaG9zcGl0YWwtbmVvLW5hdGFsLXVuaXQtdHVybmVkLWNvdXJ0LWRheS1zdXBwb3J0LWxhdGVzdC10cmlhbC1wYXJlbnRzLXN0YXllZC1hd2F5Lmh0bWzSAQA?oc=5",
+                "text": "The nurse colleague STILL standing by Lucy Letby"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvbHVjeS1sZXRieS1yZXRyaWFsLXNjcnVtLW9mLXNwZWN0YXRvcnMtY291cnRyb29t0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VrLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi9sdWN5LWxldGJ5LXJldHJpYWwtc2NydW0tb2Ytc3BlY3RhdG9ycy1jb3VydHJvb20?oc=5",
+                "text": "A scrum of spectators and an elephant in the room during Lucy Letby retrial"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M3MjdqZ2RtN3I0b9IBAA?oc=5",
+                "text": "Lucy Letby: Courtroom drama, a failed appeal, and battles over the truth"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDIvbGV0YnktdmVyZGljdC1ndWlsdHktYmFieS_SAQA?oc=5",
+                "text": "Lucy Letby found guilty of trying to murder another baby girl"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2x1Y3ktbGV0Ynktc2VyaWFsLWtpbGxlci1udXJzZS1mb3VuZC1ndWlsdHktb2YtYXR0ZW1wdGVkLW11cmRlci1vZi1leHRyZW1lbHktcHJlbWF0dXJlLWJhYnktMTMxNjE3NjnSAQA?oc=5",
+                "text": "Lucy Letby: Serial killer nurse found guilty of attempted murder of extremely premature baby"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 13:17:23 GMT",
+        "source_url": "https://www.dailymail.co.uk",
+        "source_name": "Daily Mail"
+    },
+    {
+        "title": "Full list of charges against Jeffrey Donaldson as he is set for trial with wife - Belfast Live",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL25ld3MvYmVsZmFzdC1uZXdzL2Z1bGwtbGlzdC1jaGFyZ2VzLWFnYWluc3QtamVmZnJleS0yOTQ2NzU0NdIBXmh0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL25ld3MvYmVsZmFzdC1uZXdzL2Z1bGwtbGlzdC1jaGFyZ2VzLWFnYWluc3QtamVmZnJleS0yOTQ2NzU0NS5hbXA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL25ld3MvYmVsZmFzdC1uZXdzL2Z1bGwtbGlzdC1jaGFyZ2VzLWFnYWluc3QtamVmZnJleS0yOTQ2NzU0NdIBXmh0dHBzOi8vd3d3LmJlbGZhc3RsaXZlLmNvLnVrL25ld3MvYmVsZmFzdC1uZXdzL2Z1bGwtbGlzdC1jaGFyZ2VzLWFnYWluc3QtamVmZnJleS0yOTQ2NzU0NS5hbXA?oc=5",
+                "text": "Full list of charges against Jeffrey Donaldson as he is set for trial with wife"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3Npci1qZWZmcmV5LWRvbmFsZHNvbi10by1mYWNlLXRyaWFsLW92ZXItMTgtc2V4LW9mZmVuY2UtYWxsZWdhdGlvbnMtMTMxNjI3NzbSAQA?oc=5",
+                "text": "Ex-DUP leader Sir Jeffrey Donaldson to face trial over 18 sex offence allegations"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvamVmZnJleS1kb25hbGRzb24tZmFjZXMtZnVydGhlci1zZXZlbi1zZXh1YWwtb2ZmZW5jZS1jaGFyZ2Vz0gF0aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VrLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi9qZWZmcmV5LWRvbmFsZHNvbi1mYWNlcy1mdXJ0aGVyLXNldmVuLXNleHVhbC1vZmZlbmNlLWNoYXJnZXM?oc=5",
+                "text": "Jeffrey Donaldson faces further seven sexual offence charges"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5iZWxmYXN0dGVsZWdyYXBoLmNvLnVrL25ld3MvY291cnRzL2p1ZGdlLXJ1bGVzLXRoZXJlLWlzLXN1ZmZpY2llbnQtZXZpZGVuY2UtZm9yLWplZmZyZXktZG9uYWxkc29uLWFuZC13aWZlLXRvLXN0YW5kLXRyaWFsL2ExNDE0NjYyMzU3Lmh0bWzSAQA?oc=5",
+                "text": "Jeffrey Donaldson court case: Ex-DUP leader and wife Eleanor to formally answer historical sex offence charges in autumn"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8wMy9ldXJvcGUvamVmZnJleS1kb25hbGRzb24tc2V4LW9mZmVuc2UtY2hhcmdlcy1pbnRsL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzAzL2V1cm9wZS9qZWZmcmV5LWRvbmFsZHNvbi1zZXgtb2ZmZW5zZS1jaGFyZ2VzLWludGw?oc=5",
+                "text": "Former top Northern Irish politician Jeffrey Donaldson to stand trial over alleged sex offenses"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 17:31:00 GMT",
+        "source_url": "https://www.belfastlive.co.uk",
+        "source_name": "Belfast Live"
+    },
+    {
+        "title": "HMP Wandsworth inmate's victims furious he won't face police investigation - Metro.co.uk",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNy8wMy9obXAtd2FuZHN3b3J0aC1pbm1hdGVzLXZpY3RpbXMtZnVyaW91cy13b250LWZhY2UtcG9saWNlLWludmVzdGlnYXRpb24tMjExNTA1NDcv0gEA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNy8wMy9obXAtd2FuZHN3b3J0aC1pbm1hdGVzLXZpY3RpbXMtZnVyaW91cy13b250LWZhY2UtcG9saWNlLWludmVzdGlnYXRpb24tMjExNTA1NDcv0gEA?oc=5",
+                "text": "HMP Wandsworth inmate's victims furious he won't face police investigation"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTYwODMvd2FuZHN3b3J0aC1pbm1hdGUtc2V4LWxpbmRhLXNlLXNvdXNhLWFicmV1LXRpa3Rvay1maXRuZXNzLWZhbmF0aWMuaHRtbNIBfGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTYwODMvYW1wL3dhbmRzd29ydGgtaW5tYXRlLXNleC1saW5kYS1zZS1zb3VzYS1hYnJldS10aWt0b2stZml0bmVzcy1mYW5hdGljLmh0bWw?oc=5",
+                "text": "Revealed: Wandsworth inmate, 36, who 'had sex with female ex-prison guard Linda De Sousa Abreu in X-rated vide"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDEvbGluZGEtZGUtc291c2EtYWJyZXUtcHJpc29uLXNleC12aWRlby1pbi1jb3VydC_SAQA?oc=5",
+                "text": "Prison officer accused of having sex with an inmate on video appears in court"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVuLzMwL3dvbWFuLWNoYXJnZWQtb3Zlci12aWRlby1zaG93aW5nLXByaXNvbi1vZmZpY2VyLWhhdmluZy1zZXgtd2l0aC1pbm1hdGUtaW4tY2VsbNIBhgFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVuLzMwL3dvbWFuLWNoYXJnZWQtb3Zlci12aWRlby1zaG93aW5nLXByaXNvbi1vZmZpY2VyLWhhdmluZy1zZXgtd2l0aC1pbm1hdGUtaW4tY2VsbA?oc=5",
+                "text": "Woman charged over video \u2018showing prison officer having sex with inmate in cell\u2019"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 08:48:00 GMT",
+        "source_url": "https://metro.co.uk",
+        "source_name": "Metro.co.uk"
+    },
+    {
+        "title": "Nigel Farage can land a knockout blow on the Tories tomorrow \u2013 but that's not his priority - Express",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9wb2xpdGljcy8xOTE4NjYyL05pZ2VsLUZhcmFnZS1EZXJlay1DaGlzb3JhLXJlZm9ybS1VSy1Db25zZXJ2YXRpdmXSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL25ld3MvcG9saXRpY3MvMTkxODY2Mi9OaWdlbC1GYXJhZ2UtRGVyZWstQ2hpc29yYS1yZWZvcm0tVUstQ29uc2VydmF0aXZlL2FtcA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9wb2xpdGljcy8xOTE4NjYyL05pZ2VsLUZhcmFnZS1EZXJlay1DaGlzb3JhLXJlZm9ybS1VSy1Db25zZXJ2YXRpdmXSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL25ld3MvcG9saXRpY3MvMTkxODY2Mi9OaWdlbC1GYXJhZ2UtRGVyZWstQ2hpc29yYS1yZWZvcm0tVUstQ29uc2VydmF0aXZlL2FtcA?oc=5",
+                "text": "Nigel Farage can land a knockout blow on the Tories tomorrow \u2013 but that's not his priority"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAyL2FsbGlzb24tcGVhcnNvbi1tZWV0cy1uaWdlbC1mYXJhZ2UtZ2VuZXJhbC1lbGVjdGlvbi0yMDI0L9IBAA?oc=5",
+                "text": "Allison Pearson meets Nigel Farage: 'Kemi Badenoch was very unpleasant'"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzMwL2ZhcmFnZS1vbi10cmFjay1mcm9tLWNsYWN0b24tcGllci10by1hLXBhcmxpYW1lbnQtcHVscGl00gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdW4vMzAvZmFyYWdlLW9uLXRyYWNrLWZyb20tY2xhY3Rvbi1waWVyLXRvLWEtcGFybGlhbWVudC1wdWxwaXQ?oc=5",
+                "text": "Farage on track from Clacton pier to a parliament pulpit"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvdWstZWxlY3Rpb24tYnJpdGFpbi1uaWdlbC1mYXJhZ2UtY2xhY3Rvbi1yZWZvcm0tcmNuYTE1OTkzNdIBAA?oc=5",
+                "text": "Down-and-out U.K. coastal town looks set to elect Trump ally Nigel Farage"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL25pZ2VsLWZhcmFnZS1zZXRzLXNpZ2h0cy1iZWluZy10aG9ybi1sYWJvdXJzLXNpZGUtYWZ0ZXItdWstZWxlY3Rpb24tMjAyNC0wNy0wMy_SAQA?oc=5",
+                "text": "Nigel Farage sets sights on being thorn in Labour's side after UK election"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 18:27:00 GMT",
+        "source_url": "https://www.express.co.uk",
+        "source_name": "Express"
+    },
+    {
+        "title": "Last-minute poll predicts huge Labour general election win with Tories wiped out in the North East - Chronicle Live",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNocm9uaWNsZWxpdmUuY28udWsvbmV3cy9ub3J0aC1lYXN0LW5ld3MveW91Z292LW1ycC1wb2xsLWdlbmVyYWwtZWxlY3Rpb24tMjk0Njk0NTXSAWJodHRwczovL3d3dy5jaHJvbmljbGVsaXZlLmNvLnVrL25ld3Mvbm9ydGgtZWFzdC1uZXdzL3lvdWdvdi1tcnAtcG9sbC1nZW5lcmFsLWVsZWN0aW9uLTI5NDY5NDU1LmFtcA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNocm9uaWNsZWxpdmUuY28udWsvbmV3cy9ub3J0aC1lYXN0LW5ld3MveW91Z292LW1ycC1wb2xsLWdlbmVyYWwtZWxlY3Rpb24tMjk0Njk0NTXSAWJodHRwczovL3d3dy5jaHJvbmljbGVsaXZlLmNvLnVrL25ld3Mvbm9ydGgtZWFzdC1uZXdzL3lvdWdvdi1tcnAtcG9sbC1nZW5lcmFsLWVsZWN0aW9uLTI5NDY5NDU1LmFtcA?oc=5",
+                "text": "Last-minute poll predicts huge Labour general election win with Tories wiped out in the North East"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9jaGVjay13aGljaC1wYXJ0eS1jb3VsZC13aW4taW4teW91ci1jb25zdGl0dWVuY3ktYWZ0ZXItbGFzdC15b3Vnb3YtcHJvamVjdGlvbi1iZWZvcmUtcG9sbGluZy1kYXktMTMxNjI4NzXSAYgBaHR0cHM6Ly9uZXdzLnNreS5jb20vc3RvcnkvYW1wL2NoZWNrLXdoaWNoLXBhcnR5LWNvdWxkLXdpbi1pbi15b3VyLWNvbnN0aXR1ZW5jeS1hZnRlci1sYXN0LXlvdWdvdi1wcm9qZWN0aW9uLWJlZm9yZS1wb2xsaW5nLWRheS0xMzE2Mjg3NQ?oc=5",
+                "text": "Check which party could win in your constituency after last YouGov projection before polling day"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2EyMDE3ZjAzLTQ0YTUtNGI1Mi1hYWQzLWVhYWZiYzhhYjBmOdIBAA?oc=5",
+                "text": "UK general election latest: YouGov poll gives Labour 212-seat majority"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3Vrcy1sYWJvdXItd2luLWxhcmdlc3QtbWFqb3JpdHktbW9kZXJuLWhpc3RvcnkteW91Z292LWZvcmVjYXN0cy0yMDI0LTA3LTAzL9IBAA?oc=5",
+                "text": "UK's Labour to win largest majority in modern history, YouGov forecasts"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 17:53:00 GMT",
+        "source_url": "https://www.chroniclelive.co.uk",
+        "source_name": "Chronicle Live"
+    },
+    {
+        "title": "Water firms could be sued over sewage after ruling - BBC.com",
+        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnbXg4ZDUxeG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZ214OGQ1MXhvLmFtcA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 03 Jul 2024 15:39:58 GMT",
+        "source_url": "https://www.bbc.com",
+        "source_name": "BBC.com"
+    },
+    {
+        "title": "Tories accused of desperate new low as Johnson returns at 11th hour to save campaign - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvYm9yaXMtam9obnNvbi1zcGVlY2gtZ2VuZXJhbC1lbGVjdGlvbi1zdW5hay1iMjU3MzAzMi5odG1s0gEA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvYm9yaXMtam9obnNvbi1zcGVlY2gtZ2VuZXJhbC1lbGVjdGlvbi1zdW5hay1iMjU3MzAzMi5odG1s0gEA?oc=5",
+                "text": "Tories accused of desperate new low as Johnson returns at 11th hour to save campaign"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAyL2JvcmlzLWpvaG5zb24tbWFrZXMtZmlyc3QtdG9yeS1lbGVjdGlvbi1jYW1wYWlnbi1hcHBlYXJhbmNl0gEA?oc=5",
+                "text": "Boris Johnson takes swipe at Starmer and scorns Sunak in first campaign appearance"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvdWstZWxlY3Rpb24tMjAyNC1sYXRlc3QtdXBkYXRlcy1rZWlyLXN0YXJtZXItcmlzaGktc3VuYWstbmlnZWwtZmFyYWdlL9IBAA?oc=5",
+                "text": "UK election: The Sun backs Labour \u2014 latest updates"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL2JvcmlzLWFuZC1nb3ZlLWdpdmUtdGhlLXBlcmZlY3QtdG9yeS1yZXF1aWVtL9IBAA?oc=5",
+                "text": "Boris and Gove give the perfect Tory requiem"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9ib3Jpcy1qb2huc29uLXJldnMtdXAtdGhlLWZhaXRoZnVsLXdpdGgtdmludGFnZS1wZXJmb3JtYW5jZS1idXQtdGhlLWNhbWVvcy10b28tbGF0ZS10by1zYXZlLXRoZS10b3JpZXMtMTMxNjI2NTbSAQA?oc=5",
+                "text": "Boris Johnson revs up the faithful with vintage performance - but the cameo's too late to save the Tories"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 10:09:47 GMT",
+        "source_url": "https://www.independent.co.uk",
+        "source_name": "The Independent"
+    },
+    {
+        "title": "Met Office verdict on Atlantic jet-stream as UK weather set for major change - Express",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93ZWF0aGVyLzE5MTg1NzcvdWstd2VhdGhlci1tZXQtb2ZmaWNlLXZlcmRpY3QtYXRsYW50aWMtamV0LXN0cmVhbdIBZGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93ZWF0aGVyLzE5MTg1NzcvdWstd2VhdGhlci1tZXQtb2ZmaWNlLXZlcmRpY3QtYXRsYW50aWMtamV0LXN0cmVhbS9hbXA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93ZWF0aGVyLzE5MTg1NzcvdWstd2VhdGhlci1tZXQtb2ZmaWNlLXZlcmRpY3QtYXRsYW50aWMtamV0LXN0cmVhbdIBZGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93ZWF0aGVyLzE5MTg1NzcvdWstd2VhdGhlci1tZXQtb2ZmaWNlLXZlcmRpY3QtYXRsYW50aWMtamV0LXN0cmVhbS9hbXA?oc=5",
+                "text": "Met Office verdict on Atlantic jet-stream as UK weather set for major change"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5tZXRvZmZpY2UuZ292LnVrL2Fib3V0LXVzL25ld3MtYW5kLW1lZGlhL21lZGlhLWNlbnRyZS93ZWF0aGVyLWFuZC1jbGltYXRlLW5ld3MvMjAyNC91bnNldHRsZWQtY29uZGl0aW9ucy1jb250aW51ZS13aXRoLXN0cm9uZy13aW5kcy1pbi10aGUtbm9ydGjSAQA?oc=5",
+                "text": "Unsettled conditions continue with strong winds in the north"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3VtbWVyLXdlYXRoZXItdWstcmFpbi1mb3JlY2FzdC0xNTM0MDY2NTguaHRtbNIBAA?oc=5",
+                "text": "Why is the UK summer weather so bad and when will it improve?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmdibmV3cy5jb20vd2VhdGhlci91ay13ZWF0aGVyLWJyaXRhaW4tcG9sYXItd2luZHMtY29sZC1lbm91Z2gtaWNl0gEA?oc=5",
+                "text": "UK weather: Britain to be blasted by Polar winds and become 'cold enough for ice'"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3VrLXdlYXRoZXItd2hhdHMtdGhlLWZvcmVjYXN0LWZvci1qdWx5LTEzMTYxNjQ30gEA?oc=5",
+                "text": "UK weather: What's the forecast for July?"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 18:08:00 GMT",
+        "source_url": "https://www.express.co.uk",
+        "source_name": "Express"
+    },
+    {
+        "title": "Man found guilty of strangling wife in front of TikTok lover - Sky News",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L21hbi1mb3VuZC1ndWlsdHktb2Ytc3RyYW5nbGluZy13aWZlLWluLWZyb250LW9mLXRpa3Rvay1sb3Zlci0xMzE2MzA1N9IBZGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9tYW4tZm91bmQtZ3VpbHR5LW9mLXN0cmFuZ2xpbmctd2lmZS1pbi1mcm9udC1vZi10aWt0b2stbG92ZXItMTMxNjMwNTc?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L21hbi1mb3VuZC1ndWlsdHktb2Ytc3RyYW5nbGluZy13aWZlLWluLWZyb250LW9mLXRpa3Rvay1sb3Zlci0xMzE2MzA1N9IBZGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9tYW4tZm91bmQtZ3VpbHR5LW9mLXN0cmFuZ2xpbmctd2lmZS1pbi1mcm9udC1vZi10aWt0b2stbG92ZXItMTMxNjMwNTc?oc=5",
+                "text": "Man found guilty of strangling wife in front of TikTok lover"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVsLzAzL21hbi00Ni1ndWlsdHktb2YtbXVyZGVyaW5nLXdpZmUtd2hpbGUtaGVyLW9ubGluZS1ib3lmcmllbmQtd2FzLW9uLXZpZGVvLWxpbmvSAYQBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VrLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8wMy9tYW4tNDYtZ3VpbHR5LW9mLW11cmRlcmluZy13aWZlLXdoaWxlLWhlci1vbmxpbmUtYm95ZnJpZW5kLXdhcy1vbi12aWRlby1saW5r?oc=5",
+                "text": "Man, 46, guilty of murdering wife while her online boyfriend was on video link"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvbS91ay9jcmltZS9hcnRpY2xlL2plYWxvdXMtaHVzYmFuZC1tdXJkZXJlZC13aWZlLW9uLXZpZGVvLWNhbGwtd2l0aC1oZXItbG92ZXItbTBrNjhjZ2dx0gEA?oc=5",
+                "text": "Jealous husband murdered wife on video call with her lover"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbjA1NGRwcDU3ZW_SAQA?oc=5",
+                "text": "Suma Begum: Man found guilty of wife's murder"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2h1c2JhbmQtc3RyYW5nbGVkLXdpZmUtZHVtcGVkLXJpdmVyLXRpa3Rvay1hZmZhaXItZ3VpbHR5LW11cmRlci_SAQA?oc=5",
+                "text": "Husband who strangled wife and dumped her in river after TikTok affair found guilty of murder"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 17:42:43 GMT",
+        "source_url": "https://news.sky.com",
+        "source_name": "Sky News"
+    },
+    {
+        "title": "Road taped off and emergency services scrambled amid reports of 'cyclist hit by car' - Manchester Evening News",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL3dpbmRzY3JlZW4tbGVmdC1zbWFzaGVkLWFtaWQtcmVwb3J0cy0yOTQ3MDA2ONIBdmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL2dyZWF0ZXItbWFuY2hlc3Rlci1uZXdzL3dpbmRzY3JlZW4tbGVmdC1zbWFzaGVkLWFtaWQtcmVwb3J0cy0yOTQ3MDA2OC5hbXA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 03 Jul 2024 21:44:00 GMT",
+        "source_url": "https://www.manchestereveningnews.co.uk",
+        "source_name": "Manchester Evening News"
+    },
+    {
+        "title": "Sodden Sunak to Daredevil Davey: the most bizarre TV moments of the election campaign - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdHYtYW5kLXJhZGlvL2FydGljbGUvMjAyNC9qdWwvMDMvc29kZGVuLXN1bmFrLXRvLWRhcmVkZXZpbC1kYXZleS10aGUtbW9zdC1iaXphcnJlLXR2LW1vbWVudHMtb2YtdGhlLWVsZWN0aW9uLWNhbXBhaWdu0gGRAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vYXJ0aWNsZS8yMDI0L2p1bC8wMy9zb2RkZW4tc3VuYWstdG8tZGFyZWRldmlsLWRhdmV5LXRoZS1tb3N0LWJpemFycmUtdHYtbW9tZW50cy1vZi10aGUtZWxlY3Rpb24tY2FtcGFpZ24?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdHYtYW5kLXJhZGlvL2FydGljbGUvMjAyNC9qdWwvMDMvc29kZGVuLXN1bmFrLXRvLWRhcmVkZXZpbC1kYXZleS10aGUtbW9zdC1iaXphcnJlLXR2LW1vbWVudHMtb2YtdGhlLWVsZWN0aW9uLWNhbXBhaWdu0gGRAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vYXJ0aWNsZS8yMDI0L2p1bC8wMy9zb2RkZW4tc3VuYWstdG8tZGFyZWRldmlsLWRhdmV5LXRoZS1tb3N0LWJpemFycmUtdHYtbW9tZW50cy1vZi10aGUtZWxlY3Rpb24tY2FtcGFpZ24?oc=5",
+                "text": "Sodden Sunak to Daredevil Davey: the most bizarre TV moments of the election campaign"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9uZXdzL2F1ZGlvLzIwMjQvanVsLzAzL21hcmluYS1oeWRlLWFuZC1qb2huLWNyYWNlLW9uLXRoZS0yMDI0LWVsZWN0aW9uLWNhbXBhaWduLXBvZGNhc3TSAQA?oc=5",
+                "text": "Marina Hyde and John Crace on the 2024 election campaign \u2013 podcast"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3ZpZGVvcy9jNnAyMzlnNnhleG_SAQA?oc=5",
+                "text": "Election 2024 campaign: Do you remember these highlights?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vZWxlY3Rpb24tMjAyNC10ZXN0LXlvdXItcG9saXRpY2FsLWtub3dsZWRnZS13aXRoLWNpdHktYS1tLXMtcXVpei_SAQA?oc=5",
+                "text": "Election 2024: Test your political knowledge with City A.M.'s quiz"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 19:38:00 GMT",
+        "source_url": "https://www.theguardian.com",
+        "source_name": "The Guardian"
+    },
+    {
+        "title": "The Sun backs Labour Party saying it's 'time for change' - BBC.com",
+        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZDE3NTF2djB6N2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2QxNzUxdnYwejdvLmFtcA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZDE3NTF2djB6N2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2QxNzUxdnYwejdvLmFtcA?oc=5",
+                "text": "The Sun backs Labour Party saying it's 'time for change'"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL3RoZS1zdW4tc3VwcG9ydC1sYWJvdXItZ2VuZXJhbC1lbGVjdGlvbtIBYGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL3RoZS1zdW4tc3VwcG9ydC1sYWJvdXItZ2VuZXJhbC1lbGVjdGlvbg?oc=5",
+                "text": "The Sun backs Labour on eve of election as Times also offers cautious support"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzEyNjU0NzlkLTc3MDYtNDY2OS1hZjZmLTE5OGY1ZjQzYmU0ZNIBAA?oc=5",
+                "text": "The Sun backs Labour as much of Fleet Street swings behind Starmer"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9ub3QtdGhlLXN1bi13b3Qtd29uLWl0LXdoYXQtbXVyZG9jaHMtaGFsZi1oZWFydGVkLWxhc3QtbWludXRlLWVuZG9yc2VtZW50cy1tZWFuLWZvci1sYWJvdXItMjMzNzEx0gEA?oc=5",
+                "text": "Not the Sun wot won it: what Murdoch's half-hearted, last-minute endorsements mean for Labour"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 22:30:55 GMT",
+        "source_url": "https://www.bbc.com",
+        "source_name": "BBC.com"
+    },
+    {
+        "title": "Ellis Cox: Tributes to 19-year-old man shot dead in Liverpool - Sky News",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2VsbGlzLWNveC10cmlidXRlcy10by0xOS15ZWFyLW9sZC1tYW4tc2hvdC1kZWFkLWluLWxpdmVycG9vbC0xMzE2MjE3NdIBAA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2VsbGlzLWNveC10cmlidXRlcy10by0xOS15ZWFyLW9sZC1tYW4tc2hvdC1kZWFkLWluLWxpdmVycG9vbC0xMzE2MjE3NdIBAA?oc=5",
+                "text": "Ellis Cox: Tributes to 19-year-old man shot dead in Liverpool"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M1MXl2ZDQ4M201b9IBAA?oc=5",
+                "text": "Ellis Cox: Family pay tribute to 19-year-old shot at Aintree industrial estate"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdGVlbi1jYWxsZWQtbXVtLW1vbWVudHMtYmVmb3JlLTMzMTU5MTEw0gEA?oc=5",
+                "text": "Teen called his mum moments before he was shot dead on bike ride with friends"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1lcnNleXNpZGUucG9saWNlLnVrL25ld3MvbWVyc2V5c2lkZS9uZXdzLzIwMjQvanVseS93YXJyYW50cy1leGVjdXRlZC1hbmQtdHdvLXBlb3BsZS1hcnJlc3RlZC1pbi13YWx0b24v0gEA?oc=5",
+                "text": "Warrants executed and two people arrested in Walton"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI4OTI5ODA0L3RlZW4tYm95LXNob3QtZGVhZC13cm9uZy1wbGFjZS13cm9uZy10aW1lL9IBVWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI4OTI5ODA0L3RlZW4tYm95LXNob3QtZGVhZC13cm9uZy1wbGFjZS13cm9uZy10aW1lL2FtcC8?oc=5",
+                "text": "Teen boy shot dead on bike ride with friends \u2018was in wrong place at wrong time\u2019 as heartbroken family pays..."
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 10:07:30 GMT",
+        "source_url": "https://news.sky.com",
+        "source_name": "Sky News"
+    },
+    {
+        "title": "Reform UK: Ofcom dismisses complaints about Channel 4 News \u2013 Channel 4 News - Channel 4 News",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNoYW5uZWw0LmNvbS9uZXdzL3JlZm9ybS11ay1vZmNvbS1kaXNtaXNzZXMtY29tcGxhaW50cy1hYm91dC1jaGFubmVsLTQtbmV3c9IBAA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNoYW5uZWw0LmNvbS9uZXdzL3JlZm9ybS11ay1vZmNvbS1kaXNtaXNzZXMtY29tcGxhaW50cy1hYm91dC1jaGFubmVsLTQtbmV3c9IBAA?oc=5",
+                "text": "Reform UK: Ofcom dismisses complaints about Channel 4 News \u2013 Channel 4 News"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MxdmQzd3BnMWQ0b9IBAA?oc=5",
+                "text": "No criminal offences committed by Reform UK activisits - police"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzMwL25pZ2VsLWZhcmFnZS1kZW5pZXMtZmFubmluZy1mbGFtZXMtb2YtcHJlanVkaWNlLXJlZm9ybS1yYWNpc20tc2NhbmRhbNIBfmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzMwL25pZ2VsLWZhcmFnZS1kZW5pZXMtZmFubmluZy1mbGFtZXMtb2YtcHJlanVkaWNlLXJlZm9ybS1yYWNpc20tc2NhbmRhbA?oc=5",
+                "text": "Nigel Farage seeks to distance himself from \u2018bad apples\u2019 in Reform party"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmdibmV3cy5jb20vcG9saXRpY3MvYW5uLXdpZGRlY29tYmUtZGVmZW5kcy1yZWZvcm0tcmFjaXN0LWNsYWltcy1nZW9yZ2llLWRhdmlkLXJvd9IBAA?oc=5",
+                "text": "Ann Widdecombe in staunch defence of Reform over 'racist' claims from ex-candidate: 'She's not even met them!'"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5uZXdzdGF0ZXNtYW4uY29tL3BvbGl0aWNzL3BvbGl0aWNzLWludGVydmlldy8yMDI0LzA2L2l2ZS1kb25lLW1vcmUtdGhhbi1hbnlvbmUtZWxzZS10by1kZWZlYXQtdGhlLWZhci1yaWdodC1pbi1icml0YWlu0gEA?oc=5",
+                "text": "\u201cI've done more than anyone else to defeat the far right in Britain\u201d"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 19:10:00 GMT",
+        "source_url": "https://www.channel4.com",
+        "source_name": "Channel 4 News"
+    },
+    {
+        "title": "Mother says she gave terminally ill son morphine which 'did end' his life - as police 'make enquiries' - Sky News",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9tb3RoZXItc2F5cy1zaGUtZ2F2ZS10ZXJtaW5hbGx5LWlsbC1zb24tbW9ycGhpbmUtd2hpY2gtZGlkLWVuZC1oaXMtbGlmZS1hcy1wb2xpY2UtbWFrZS1lbnF1aXJpZXMtMTMxNjI5NjHSAYgBaHR0cHM6Ly9uZXdzLnNreS5jb20vc3RvcnkvYW1wL21vdGhlci1zYXlzLXNoZS1nYXZlLXRlcm1pbmFsbHktaWxsLXNvbi1tb3JwaGluZS13aGljaC1kaWQtZW5kLWhpcy1saWZlLWFzLXBvbGljZS1tYWtlLWVucXVpcmllcy0xMzE2Mjk2MQ?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9tb3RoZXItc2F5cy1zaGUtZ2F2ZS10ZXJtaW5hbGx5LWlsbC1zb24tbW9ycGhpbmUtd2hpY2gtZGlkLWVuZC1oaXMtbGlmZS1hcy1wb2xpY2UtbWFrZS1lbnF1aXJpZXMtMTMxNjI5NjHSAYgBaHR0cHM6Ly9uZXdzLnNreS5jb20vc3RvcnkvYW1wL21vdGhlci1zYXlzLXNoZS1nYXZlLXRlcm1pbmFsbHktaWxsLXNvbi1tb3JwaGluZS13aGljaC1kaWQtZW5kLWhpcy1saWZlLWFzLXBvbGljZS1tYWtlLWVucXVpcmllcy0xMzE2Mjk2MQ?oc=5",
+                "text": "Mother says she gave terminally ill son morphine which 'did end' his life - as police 'make enquiries'"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvbS9hcnRpY2xlL2ktdXNlZC1tb3JwaGluZS10by1lbmQtaGlzLWxpZmUtbW90aGVyLWNvbmZlc3Nlcy10by1raWxsaW5nLWhlci1zb24tNy0zZGJsZ3JxbTjSAQA?oc=5",
+                "text": "I used morphine to end his life: mother confesses to killing her son, 7"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5L2FydGljbGUvMjAyNC9qdWwvMDMvdWstd29tYW4tYWRtaXRzLWhlbHBpbmctZW5kLWxpZmUtb2YtdGVybWluYWxseS1pbGwtc29u0gEA?oc=5",
+                "text": "UK woman admits helping end life of terminally ill son"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbjMzejUzcHYzdm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY24zM3o1M3B2M3ZvLmFtcA?oc=5",
+                "text": "Assisted dying: Mum admits helping end life of terminally ill son"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNy8wMy9tdW0tYWRtaXRzLWdpdmluZy10ZXJtaW5hbGx5LWlsbC1zb24tbW9ycGhpbmUtZG9zZS1lbmQtbGlmZS0yMTE1NjY2MC_SAWhodHRwczovL21ldHJvLmNvLnVrLzIwMjQvMDcvMDMvbXVtLWFkbWl0cy1naXZpbmctdGVybWluYWxseS1pbGwtc29uLW1vcnBoaW5lLWRvc2UtZW5kLWxpZmUtMjExNTY2NjAvYW1wLw?oc=5",
+                "text": "Mum admits giving terminally-ill son morphine dose to 'end his life'"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 17:17:41 GMT",
+        "source_url": "https://news.sky.com",
+        "source_name": "Sky News"
+    },
+    {
+        "title": "Essex lorry deaths: Marius Draghici to be deported to Romania - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwZG12bXYyeTF6b9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwZG12bXYyeTF6by5hbXA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 03 Jul 2024 16:56:28 GMT",
+        "source_url": "https://www.bbc.co.uk",
+        "source_name": "BBC"
+    },
+    {
+        "title": "Slapping healer should have learned from six-year-old\u2019s death, UK court told - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVsLzAzL3NsYXBwaW5nLXRoZXJhcHktaGVhbGVyLXNob3VsZC1oYXZlLWxlYXJuZWQtZnJvbS1kZWF0aC1vZi1zaXgteWVhci1vbGQtdWstY291cnQtdG9sZNIBjAFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVsLzAzL3NsYXBwaW5nLXRoZXJhcHktaGVhbGVyLXNob3VsZC1oYXZlLWxlYXJuZWQtZnJvbS1kZWF0aC1vZi1zaXgteWVhci1vbGQtdWstY291cnQtdG9sZA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVsLzAzL3NsYXBwaW5nLXRoZXJhcHktaGVhbGVyLXNob3VsZC1oYXZlLWxlYXJuZWQtZnJvbS1kZWF0aC1vZi1zaXgteWVhci1vbGQtdWstY291cnQtdG9sZNIBjAFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVsLzAzL3NsYXBwaW5nLXRoZXJhcHktaGVhbGVyLXNob3VsZC1oYXZlLWxlYXJuZWQtZnJvbS1kZWF0aC1vZi1zaXgteWVhci1vbGQtdWstY291cnQtdG9sZA?oc=5",
+                "text": "Slapping healer should have learned from six-year-old\u2019s death, UK court told"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N5ZTA5eDRyOTAxb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N5ZTA5eDRyOTAxby5hbXA?oc=5",
+                "text": "Woman \"howling in pain\" before death at slapping therapy workshop"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9kaWFiZXRpYy13b21hbi1kaWVkLWF0LWFsdGVybmF0aXZlLXRoZXJhcHktd29ya3Nob3AtYWZ0ZXItc2hlLXN0b3BwZWQtdGFraW5nLWluc3VsaW4tY291cnQtdG9sZC0xMzE2MjUzMNIBhwFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvZGlhYmV0aWMtd29tYW4tZGllZC1hdC1hbHRlcm5hdGl2ZS10aGVyYXB5LXdvcmtzaG9wLWFmdGVyLXNoZS1zdG9wcGVkLXRha2luZy1pbnN1bGluLWNvdXJ0LXRvbGQtMTMxNjI1MzA?oc=5",
+                "text": "Diabetic woman died at alternative therapy workshop after she stopped taking insulin, court told"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTkyMDAzL0RpYWJldGljLWdyYW5kbW90aGVyLTcxLWtpbGxlZC1hbHRlcm5hdGl2ZS1oZWFsZXItc2xhcHBpbmctdGhlcmFweS1yZXRyZWF0LXZpZXdlZC1tZXNzZW5nZXItc2VudC1Hb2QtY291cnQtaGVhcnMuaHRtbNIBqwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTkyMDAzL2FtcC9EaWFiZXRpYy1ncmFuZG1vdGhlci03MS1raWxsZWQtYWx0ZXJuYXRpdmUtaGVhbGVyLXNsYXBwaW5nLXRoZXJhcHktcmV0cmVhdC12aWV3ZWQtbWVzc2VuZ2VyLXNlbnQtR29kLWNvdXJ0LWhlYXJzLmh0bWw?oc=5",
+                "text": "Diabetic grandmother, 71, 'killed by alternative healer' at slapping therapy retreat viewed him as a 'messenge"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNy8wMi9zbGFwcGluZy10aGVyYXB5LWhlYWxlci1mYWlsZWQtZ2V0LWhlbHAtZHlpbmctZGlhYmV0aWMtd29tYW4tMjExNDM5NDQv0gEA?oc=5",
+                "text": "'Slapping therapy' healer 'failed to get help' for dying diabetic woman"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 13:24:00 GMT",
+        "source_url": "https://www.theguardian.com",
+        "source_name": "The Guardian"
+    },
+    {
+        "title": "Welsh Government to ban politicians from lying - The Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL3dlbHNoLWdvdmVybm1lbnQtdG8tYmFuLXBvbGl0aWNpYW5zLWZyb20tbHlpbmcv0gEA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL3dlbHNoLWdvdmVybm1lbnQtdG8tYmFuLXBvbGl0aWNpYW5zLWZyb20tbHlpbmcv0gEA?oc=5",
+                "text": "Welsh Government to ban politicians from lying"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnbWUyeTk4bm_SAQA?oc=5",
+                "text": "Welsh government promises Senedd politicians lying ban"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAyL3dlbHNoLWdvdmVybm1lbnQtY29tbWl0cy10by1tYWtpbmctbHlpbmctaW4tcG9saXRpY3PSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi93ZWxzaC1nb3Zlcm5tZW50LWNvbW1pdHMtdG8tbWFraW5nLWx5aW5nLWluLXBvbGl0aWNz?oc=5",
+                "text": "Welsh government commits to making lying in politics illegal"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3dlbHNoLWdvdmVybm1lbnQtY29tbWl0cy10by1iYW5uaW5nLXNlbmVkZC1tZW1iZXJzLWZvci1seWluZy0xMzE2Mjc0NdIBZGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC93ZWxzaC1nb3Zlcm5tZW50LWNvbW1pdHMtdG8tYmFubmluZy1zZW5lZGQtbWVtYmVycy1mb3ItbHlpbmctMTMxNjI3NDU?oc=5",
+                "text": "Welsh government commits to banning Senedd members for lying"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbmF0aW9uLmN5bXJ1L29waW5pb24vc2VuZWRkLXZvdGUtb24tbHlpbmctYmFuLWEtdmVyeS1kYW5nZXJvdXMtbW9tZW50LWluLWhpc3Rvcnkv0gEA?oc=5",
+                "text": "Senedd vote on lying ban 'a very dangerous moment in history'"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 08:33:00 GMT",
+        "source_url": "https://www.telegraph.co.uk",
+        "source_name": "The Telegraph"
+    },
+    {
+        "title": "Keir Starmer rules out UK rejoining EU single market in his lifetime - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzZjMTJiN2NjLWQ0YmQtNDk2ZC1iZTg2LTI1ODQxMzFiNGQyZtIBAA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzZjMTJiN2NjLWQ0YmQtNDk2ZC1iZTg2LTI1ODQxMzFiNGQyZtIBAA?oc=5",
+                "text": "Keir Starmer rules out UK rejoining EU single market in his lifetime"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL2JyaXRhaW4td2lsbC1ub3QtcmVqb2luLWV1LWluLW15LWxpZmV0aW1lLXNheXMtc3Rhcm1lctIBAA?oc=5",
+                "text": "Britain will not rejoin EU in my lifetime, says Starmer"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA3LTAzL3N0YXJtZXItc2F5cy11ay13b24tdC1yZWpvaW4tZXUtdHJhZGUtYmxvYy1pbi1oaXMtbGlmZXRpbWXSAQA?oc=5",
+                "text": "Starmer Says UK Won't Rejoin EU Trade Bloc in His Lifetime"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9wb2RjYXN0L3N0YXJtZXJzLWV1cm9wZS1kaWxlbW1hL9IBAA?oc=5",
+                "text": "Starmer's Europe dilemma"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoZW5hdGlvbmFsLnNjb3QvbmV3cy8yNDQyOTE0NC5rZWlyLXN0YXJtZXItbm8tcmV0dXJuLWV1LXNpbmdsZS1tYXJrZXQtbGlmZXRpbWUv0gEA?oc=5",
+                "text": "Keir Starmer, 61: 'No return to the single market in my lifetime'"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 16:01:14 GMT",
+        "source_url": "https://www.ft.com",
+        "source_name": "Financial Times"
+    },
+    {
+        "title": "UK heatwave: Met Office issues verdict on claims Brits set to bask in 29C scorcher - The Mirror",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdWstaGVhdHdhdmUtbWV0LW9mZmljZS1pc3N1ZXMtMzMxNTc2ODfSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL3VrLWhlYXR3YXZlLW1ldC1vZmZpY2UtaXNzdWVzLTMzMTU3Njg3LmFtcA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdWstaGVhdHdhdmUtbWV0LW9mZmljZS1pc3N1ZXMtMzMxNTc2ODfSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL3VrLWhlYXR3YXZlLW1ldC1vZmZpY2UtaXNzdWVzLTMzMTU3Njg3LmFtcA?oc=5",
+                "text": "UK heatwave: Met Office issues verdict on claims Brits set to bask in 29C scorcher"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJpcm1pbmdoYW1tYWlsLmNvLnVrL25ld3MvbWlkbGFuZHMtbmV3cy9tZXQtb2ZmaWNlLWJyZWFrLXNpbGVuY2Utb3Zlci0yOTQ2NTE1ONIBXmh0dHBzOi8vd3d3LmJpcm1pbmdoYW1tYWlsLmNvLnVrL25ld3MvbWlkbGFuZHMtbmV3cy9tZXQtb2ZmaWNlLWJyZWFrLXNpbGVuY2Utb3Zlci0yOTQ2NTE1OC5hbXA?oc=5",
+                "text": "Met Office break silence over 29C heatwave sizzling UK in July"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmdibmV3cy5jb20vd2VhdGhlci91ay13ZWF0aGVyLW1ldC1vZmZpY2UtaG90LWJsYXN0LWljZWxhbmRpYy1wb2xhci13aW5kc9IBAA?oc=5",
+                "text": "UK weather: Met Office outlines exactly when hot blasts to return as Britain suffers Icelandic polar winds"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2V4YWN0LWRhdGUtdGVtcGVyYXR1cmVzLTI3Yy1zZWNvbmQtc3VtbWVyLWhlYXR3YXZlL9IBAA?oc=5",
+                "text": "Exact date temperatures to hit 27C in second summer heatwave as temperatures drop"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdWstd2VhdGhlci1uZXctaGVhdHdhdmUtbWFwcy0zMzE1NTE2NtIBAA?oc=5",
+                "text": "UK weather: New heatwave maps turn red showing five areas that will see 29C"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 10:04:00 GMT",
+        "source_url": "https://www.mirror.co.uk",
+        "source_name": "The Mirror"
+    },
+    {
+        "title": "The election issues young voters say are important to them - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MyOWR4anJyZDQ3b9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MyOWR4anJyZDQ3by5hbXA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MyOWR4anJyZDQ3b9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MyOWR4anJyZDQ3by5hbXA?oc=5",
+                "text": "The election issues young voters say are important to them"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAyL2xpdHRsZS1mYWl0aC1pbi1wb2xpdGljcy15b3VuZy1wZW9wbGUtbm90dGluZ2hhbS1lYXN0LWVsZWN0aW9u0gF3aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDIvbGl0dGxlLWZhaXRoLWluLXBvbGl0aWNzLXlvdW5nLXBlb3BsZS1ub3R0aW5naGFtLWVhc3QtZWxlY3Rpb24?oc=5",
+                "text": "\u2018I don\u2019t feel like your vote counts\u2019: little faith in politics among young people of Nottingham"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMjkvd29ybGQvZXVyb3BlL2JyaXRhaW4teW91bmctdm90ZXJzLmh0bWzSAQA?oc=5",
+                "text": "Why U.K.\u2019s Young Voters Feel Forgotten by Politicians"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2VsZWN0aW9uLXR1cm5vdXQtYW1vbmcteW91bmctcGVvcGxlLXByZWRpY3RlZC1sb3dlc3QtaW4tZGVjYWRlL9IBAA?oc=5",
+                "text": "Election turnout among young people predicted to be lowest in a decade"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5za3kuY29tL3ZpZGVvL3doYXQtZG8teW91bmctdm90ZXJzLXRoaW5rLWFib3V0LWlzc3Vlcy1yYWlzZWQtaW4tdGhlLWdlbmVyYWwtZWxlY3Rpb24tMTMxNjI2ODjSAQA?oc=5",
+                "text": "What do young voters think about issues raised in general election?"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 09:56:16 GMT",
+        "source_url": "https://www.bbc.co.uk",
+        "source_name": "BBC"
+    },
+    {
+        "title": "Rishi Sunak fearful of losing his seat, sources say - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL3Jpc2hpLXN1bmFrLWZlYXJmdWwtb2YtbG9zaW5nLWhpcy1zZWF0LXNvdXJjZXMtc2F50gFraHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDMvcmlzaGktc3VuYWstZmVhcmZ1bC1vZi1sb3NpbmctaGlzLXNlYXQtc291cmNlcy1zYXk?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL3Jpc2hpLXN1bmFrLWZlYXJmdWwtb2YtbG9zaW5nLWhpcy1zZWF0LXNvdXJjZXMtc2F50gFraHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDMvcmlzaGktc3VuYWstZmVhcmZ1bC1vZi1sb3NpbmctaGlzLXNlYXQtc291cmNlcy1zYXk?oc=5",
+                "text": "Rishi Sunak fearful of losing his seat, sources say"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvZ2VuZXJhbC1lbGVjdGlvbi12b3RlLWxhYm91ci1zdW5hay1wb2xscy1zdGFybWVyLXRvcnktYjI1NzM1NDYuaHRtbNIBAA?oc=5",
+                "text": "Election - live: Sunak 'fears losing own seat' as poll predicts Labour landslide"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL2dlbmVyYWwtZWxlY3Rpb24tbGl2ZS1zdW5hay1zdGFybWVyLWZhcmFnZS_SAQA?oc=5",
+                "text": "We have just 24 hours to save Britain from Labour government, Rishi Sunak warns"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcmlzaGktc3VuYWstZmFpbHVyZS_SAQA?oc=5",
+                "text": "Rishi Sunak is destined for failure. Does he even know why?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3ZpZGVvcy9jMnYwZzIycGpld2_SAQA?oc=5",
+                "text": "Rishi Sunak has 'absolutely not' given up on election result"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 21:13:06 GMT",
+        "source_url": "https://www.theguardian.com",
+        "source_name": "The Guardian"
+    },
+    {
+        "title": "Election exit polls are \u2018worst invention ever\u2019, says David Dimbleby - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL2RhdmlkLWRpbWJsZWJ5LWVsZWN0aW9uLWV4aXQtcG9sbHMtYXJlLXdvcnN0LWludmVudGlvbi1ldmVy0gF0aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDMvZGF2aWQtZGltYmxlYnktZWxlY3Rpb24tZXhpdC1wb2xscy1hcmUtd29yc3QtaW52ZW50aW9uLWV2ZXI?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL2RhdmlkLWRpbWJsZWJ5LWVsZWN0aW9uLWV4aXQtcG9sbHMtYXJlLXdvcnN0LWludmVudGlvbi1ldmVy0gF0aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDMvZGF2aWQtZGltYmxlYnktZWxlY3Rpb24tZXhpdC1wb2xscy1hcmUtd29yc3QtaW52ZW50aW9uLWV2ZXI?oc=5",
+                "text": "Election exit polls are \u2018worst invention ever\u2019, says David Dimbleby"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lmlwc29zLmNvbS9lbi11ay90aGUtaXBzb3MtZXhpdC1wb2xsLWhvdy1kb2VzLWl0LXdvcmvSAQA?oc=5",
+                "text": "What is an Exit Poll and how does it work?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3NlY3JldC1idW5rZXItYW5kLTE3LTAwMC1pbnRlcnZpZXdzLXRoZS1zY2llbmNlLWFuZC1zZWN1cml0eS1vZi10aGUtZXhpdC1wb2xsLTEzMTYxNjQz0gEA?oc=5",
+                "text": "Exit polls: How accurate are they? The science of predicting the outcome of an election"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNoYW5uZWw0LmNvbS9uZXdzL2ZhY3RjaGVjay9mYWN0Y2hlY2std2hhdC10aW1lLWlzLXRoZS1leGl0LXBvbGwtcHVibGlzaGVkLWFuZC1ob3ctcmVsaWFibGUtaXMtaXTSAQA?oc=5",
+                "text": "FactCheck: What time is the exit poll published and how reliable is it?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL2V4aXQtcG9sbC11ay1nZW5lcmFsLWVsZWN0aW9uLWFjY3VyYXRlLWxhYm91ci1jb25zZXJ2YXRpdmVzL9IBAA?oc=5",
+                "text": "How accurate are exit polls?"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 21:13:06 GMT",
+        "source_url": "https://www.theguardian.com",
+        "source_name": "The Guardian"
+    },
+    {
+        "title": "General Election key timings - LBC",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2dlbmVyYWwtZWxlY3Rpb24tbmlnaHQta2V5LXRpbWluZ3Mv0gEA?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2dlbmVyYWwtZWxlY3Rpb24tbmlnaHQta2V5LXRpbWluZ3Mv0gEA?oc=5",
+                "text": "General Election key timings"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL2dlbmVyYWwtZWxlY3Rpb24tdGltZXRhYmxlLXdoZW4td2hhdC10aW1lLXJlc3VsdHMv0gEA?oc=5",
+                "text": "What time will we get election results: Your hour-by-hour guide"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzI5L3doYXQtdGltZS13aWxsLXdlLWtub3ctd2hvLXdvbi1ob3VyLWJ5LWhvdXItZWxlY3Rpb24tbmlnaHQtZ3VpZGUtMjAyNNIBfmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzI5L3doYXQtdGltZS13aWxsLXdlLWtub3ctd2hvLXdvbi1ob3VyLWJ5LWhvdXItZWxlY3Rpb24tbmlnaHQtZ3VpZGUtMjAyNA?oc=5",
+                "text": "What time will we know who won? Hour-by-hour guide to election night"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NkMXh2ejU1MTR6b9IBAA?oc=5",
+                "text": "North East and Cumbria election night takeaways: Speedy counts and new names"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 14:02:00 GMT",
+        "source_url": "https://www.lbc.co.uk",
+        "source_name": "LBC"
+    },
+    {
+        "title": "\u2018No-drama Starmer\u2019: How Labour would govern - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL25vLWRyYW1hLXN0YXJtZXItaG93LWxhYm91ci13b3VsZC1nb3Zlcm7SAWFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMy9uby1kcmFtYS1zdGFybWVyLWhvdy1sYWJvdXItd291bGQtZ292ZXJu?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAzL25vLWRyYW1hLXN0YXJtZXItaG93LWxhYm91ci13b3VsZC1nb3Zlcm7SAWFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMy9uby1kcmFtYS1zdGFybWVyLWhvdy1sYWJvdXItd291bGQtZ292ZXJu?oc=5",
+                "text": "\u2018No-drama Starmer\u2019: How Labour would govern"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vY29tbWVudGlzZnJlZS9hcnRpY2xlLzIwMjQvanVsLzAzL2dlbmVyYWwtZWxlY3Rpb24tbGFib3VyLXdpbm5pbmcta2Vpci1zdGFybWVyLWhpc3RvcmljLXZpY3Rvcnktb3Bwb3NpdGlvbi1sZWFkZXLSAY0BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2NvbW1lbnRpc2ZyZWUvYXJ0aWNsZS8yMDI0L2p1bC8wMy9nZW5lcmFsLWVsZWN0aW9uLWxhYm91ci13aW5uaW5nLWtlaXItc3Rhcm1lci1oaXN0b3JpYy12aWN0b3J5LW9wcG9zaXRpb24tbGVhZGVy?oc=5",
+                "text": "Labour isn\u2019t winning by luck. Keir Starmer has earned a historic victory"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzViMDBjNDRjLTg4MDgtNDQ0My1hMGU1LWYwZmI1N2I5ZWJlY9IBAA?oc=5",
+                "text": "What Labour's first 100 days in government would look like"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vYnJpdGFpbi8yMDI0LzA3LzAyL3dpbGwtc2lyLWtlaXItc3Rhcm1lci1oYXZlLWEtbWFuZGF0ZS10by1jaGFuZ2UtYnJpdGFpbtIBAA?oc=5",
+                "text": "Will Sir Keir Starmer have a mandate to change Britain?"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAzL3Jpc2Uta2Vpci1zdGFybWVyLXN1cGVyYm95LWxhYm91ci1sZWFkZXIv0gEA?oc=5",
+                "text": "Keir Starmer profile: The grammar school 'superboy' who could be the next Labour PM"
+            }
+        ],
+        "pub_date": "Wed, 03 Jul 2024 10:30:00 GMT",
+        "source_url": "https://www.theguardian.com",
+        "source_name": "The Guardian"
     },
     {
         "title": "Chris Mason: We stand on the threshold of a landmark election - BBC",
@@ -232,762 +938,5 @@
         "pub_date": "Wed, 03 Jul 2024 00:34:22 GMT",
         "source_url": "https://www.bbc.co.uk",
         "source_name": "BBC"
-    },
-    {
-        "title": "Half of Scotland's councils set for bin strikes - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeWUwOWs4NTZuZG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3llMDlrODU2bmRvLmFtcA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeWUwOWs4NTZuZG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3llMDlrODU2bmRvLmFtcA?oc=5",
-                "text": "Half of Scotland's councils set for bin strikes"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZ3Vlcm5zZXlwcmVzcy5jb20vbmV3cy91ay1uZXdzLzIwMjQvMDcvMDEvcnViYmlzaC13aWxsLXBpbGUtdXAtd2l0aG91dC1pbXByb3ZlZC1wYXktb2ZmZXItdW5pb24td2FybnMv0gEA?oc=5",
-                "text": "Rubbish will pile up without improved pay offer, union warns"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4taWUvbmV3cy91a25ld3MvYmluLXN0cmlrZXMtcGxhbm5lZC1hdC1tb3JlLXRoYW4taGFsZi1vZi1zY290bGFuZC1zLWNvdW5jaWxzL2FyLUJCMXBoenpu0gEA?oc=5",
-                "text": "Bin strikes planned at more than half of Scotland's councils"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vbmVuLnByZXNzL3RhZy9yZWZ1c2Utd29ya2Vycy_SAQA?oc=5",
-                "text": "refuse workers \u2013 The NEN \u2013 North Edinburgh News"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5vcmlnaW5hbGZtLmNvbS9uZXdzL25vcnRoLWVhc3Qtc2NvdGxhbmQtbmV3cy93YXJuaW5nLW9mLWRlbGF5cy10by1iaW4tY29sbGVjdGlvbnMtYXMtd2FzdGUtc3RhZmYtaW4tYWJlcmRlZW4tY29uZmlybS1zdHJpa2UtYWN0aW9uL9IBAA?oc=5",
-                "text": "Warning of delays to bin collections as waste staff in Aberdeen confirm strike action"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 15:37:21 GMT",
-        "source_url": "https://www.bbc.com",
-        "source_name": "BBC.com"
-    },
-    {
-        "title": "Woman who died at slapping therapy retreat viewed healer as \u2018sent by God\u2019, court told - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvd29tYW4tZGllZC1zbGFwcGluZy10aGVyYXB5LWhlYWxlci1zZW50LWJ5LWdvZC1jb3VydC10b2xk0gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VrLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi93b21hbi1kaWVkLXNsYXBwaW5nLXRoZXJhcHktaGVhbGVyLXNlbnQtYnktZ29kLWNvdXJ0LXRvbGQ?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvd29tYW4tZGllZC1zbGFwcGluZy10aGVyYXB5LWhlYWxlci1zZW50LWJ5LWdvZC1jb3VydC10b2xk0gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VrLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi93b21hbi1kaWVkLXNsYXBwaW5nLXRoZXJhcHktaGVhbGVyLXNlbnQtYnktZ29kLWNvdXJ0LXRvbGQ?oc=5",
-                "text": "Woman who died at slapping therapy retreat viewed healer as \u2018sent by God\u2019, court told"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeWUwOXg0cjkwMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3llMDl4NHI5MDFvLmFtcA?oc=5",
-                "text": "Woman \"howling in pain\" before death at slapping therapy workshop"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9kaWFiZXRpYy13b21hbi1kaWVkLWF0LWFsdGVybmF0aXZlLXRoZXJhcHktd29ya3Nob3AtYWZ0ZXItc2hlLXN0b3BwZWQtdGFraW5nLWluc3VsaW4tY291cnQtdG9sZC0xMzE2MjUzMNIBhwFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvZGlhYmV0aWMtd29tYW4tZGllZC1hdC1hbHRlcm5hdGl2ZS10aGVyYXB5LXdvcmtzaG9wLWFmdGVyLXNoZS1zdG9wcGVkLXRha2luZy1pbnN1bGluLWNvdXJ0LXRvbGQtMTMxNjI1MzA?oc=5",
-                "text": "Diabetic woman died at alternative therapy workshop after she stopped taking insulin, court told"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDIvZGFya25lc3MtY29tZXMtYmVmb3JlLWRhd24tc2xhcHBpbmctdGhlcmFwaXN0LXRvbGQtZGlhYmV0aWMv0gEA?oc=5",
-                "text": "'Darkness comes before dawn,' slapping therapist told dying diabetic"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvY3JpbWUvaG9uZ2NoaS14aWFvLWlucXVlc3QtZGlhYmV0aWMtcG9saWNlLWIyNTcyNjQzLmh0bWzSAQA?oc=5",
-                "text": "Diabetic woman 'howled in pain' before death at slap therapy workshop, court hears"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 13:40:00 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
-    },
-    {
-        "title": "'Hitwoman' wanted over botched Birmingham contract killing 'arrested in Armenia' - Birmingham Live",
-        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJpcm1pbmdoYW1tYWlsLmNvLnVrL25ld3MvbWlkbGFuZHMtbmV3cy9oaXR3b21hbi13YW50ZWQtb3Zlci1ib3RjaGVkLWJpcm1pbmdoYW0tMjk0NjA1MDnSAQA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJpcm1pbmdoYW1tYWlsLmNvLnVrL25ld3MvbWlkbGFuZHMtbmV3cy9oaXR3b21hbi13YW50ZWQtb3Zlci1ib3RjaGVkLWJpcm1pbmdoYW0tMjk0NjA1MDnSAQA?oc=5",
-                "text": "'Hitwoman' wanted over botched Birmingham contract killing 'arrested in Armenia'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMi0AFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTkxNDU5L0RyYW1hdGljLW1vbWVudC1ydW4tYXNzYXNzaW4ta25vd24taGl0d29tYW4taGlqYWItd2FudGVkLWJvdGNoZWQtY29udHJhY3Qta2lsbGluZy1Ccml0aXNoLWJ1c2luZXNzbWFuLWFycmVzdGVkLUFybWVuaWEtTWFpbE9ubGluZS10cmFja2VkLXNlY3JldC1oaWRlYXdheS5odG1s0gEA?oc=5",
-                "text": "Dramatic moment on-the-run 'assassin' known as the hitwoman in the hijab - wanted over the botched contract killing of a British businessman - is arrested in Armenia after MailOnline tracked down her secret hideaway"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2hpdHdvbWFuLWhpamFiLWFycmVzdGVkLWFybWVuaWEteWVyZXZhbi_SAQA?oc=5",
-                "text": "Hitwoman in a hijab who 'botched British murder attempt' is 'arrested in Armenia' after international manhunt"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNy8wMi9hbWVyaWNhbi1oaXR3b21hbi1idW5nbGVkLWJyaXRpc2gtYnVzaW5lc3NtYW4tYXJyZXN0ZWQtMjExNDY4NjAv0gFjaHR0cHM6Ly9tZXRyby5jby51ay8yMDI0LzA3LzAyL2FtZXJpY2FuLWhpdHdvbWFuLWJ1bmdsZWQtYnJpdGlzaC1idXNpbmVzc21hbi1hcnJlc3RlZC0yMTE0Njg2MC9hbXAv?oc=5",
-                "text": "American \u2018hitwoman\u2019 who bungled British businessman arrested"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmloZWFydC5jb20vY29udGVudC8yMDI0LTA3LTAyLWluc3RhZ3JhbS1zZWxmaWVzLWhlbHBlZC1sb2NhdGUtZnVnaXRpdmUtYXNzYXNzaW4tb24tdGhlLXJ1bi1zaW5jZS0yMDE5L9IBeGh0dHBzOi8vd3d3LmloZWFydC5jb20vYWx0ZXJuYXRlL2FtcC8yMDI0LTA3LTAyLWluc3RhZ3JhbS1zZWxmaWVzLWhlbHBlZC1sb2NhdGUtZnVnaXRpdmUtYXNzYXNzaW4tb24tdGhlLXJ1bi1zaW5jZS0yMDE5Lw?oc=5",
-                "text": "Instagram Selfies Helped Locate Fugitive Assassin On The Run Since 2019"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 15:23:00 GMT",
-        "source_url": "https://www.birminghammail.co.uk",
-        "source_name": "Birmingham Live"
-    },
-    {
-        "title": "Activists arrested on suspicion of contempt after London court protest - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvYWN0aXZpc3RzLWFycmVzdGVkLW9uLXN1c3BpY2lvbi1vZi1jb250ZW1wdC1hZnRlci1sb25kb24tY291cnQtcHJvdGVzdNIBfmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDIvYWN0aXZpc3RzLWFycmVzdGVkLW9uLXN1c3BpY2lvbi1vZi1jb250ZW1wdC1hZnRlci1sb25kb24tY291cnQtcHJvdGVzdA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 18:11:00 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
-    },
-    {
-        "title": "Book festivals previously sponsored by Baillie Gifford seek donations - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9ib29rcy9hcnRpY2xlLzIwMjQvanVsLzAyL2Jvb2stZmVzdGl2YWxzLXByZXZpb3VzbHktc3BvbnNvcmVkLWJ5LWJhaWxsaWUtZ2lmZm9yZC1zZWVrLWRvbmF0aW9ucy1oYXnSAQA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9ib29rcy9hcnRpY2xlLzIwMjQvanVsLzAyL2Jvb2stZmVzdGl2YWxzLXByZXZpb3VzbHktc3BvbnNvcmVkLWJ5LWJhaWxsaWUtZ2lmZm9yZC1zZWVrLWRvbmF0aW9ucy1oYXnSAQA?oc=5",
-                "text": "Book festivals previously sponsored by Baillie Gifford seek donations"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDIvc2NvdGxhbmRzLW5hdGlvbmFsLWdhbGxlcmllcy1yZWZ1c2UtdG8tZHJvcC1zcG9uc29yLWlzcmFlbC_SAQA?oc=5",
-                "text": "Scotland's national galleries refuse to drop sponsor over 'Israel links'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGV0aW1lcy5jb20vdWsvc2NvdGxhbmQvYXJ0aWNsZS93aHktdGhlLW5hdGlvbmFsLWdhbGxlcmllcy1vZi1zY290bGFuZC13b250LWRyb3AtYmFpbGxpZS1naWZmb3JkLWFzLXNwb25zb3ItbDNsOWNobmRx0gEA?oc=5",
-                "text": "Why the National Galleries of Scotland won't drop Baillie Gifford as sponsor"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWJvb2tzZWxsZXIuY29tL25ld3MvbGl0ZXJhcnktZmVzdGl2YWxzLXByZXZpb3VzbHktZnVuZGVkLWJ5LWJhaWxsaWUtZ2lmZm9yZC1sYXVuY2gtam9pbnQtYXBwZWFsLWZvci1zdXBwb3J00gEA?oc=5",
-                "text": "Nine UK literary festivals have released a joint statement calling for 'increased support', as Bloomsbury donates \u00a3100000."
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy5zY290c21hbi5jb20vd2hhdHMtb24vYXJ0cy1hbmQtZW50ZXJ0YWlubWVudC9uYXRpb25hbC1nYWxsZXJpZXMta2VlcHMtYmFpbGxpZS1naWZmb3JkLW9uLWJvYXJkLWFzLWl0LXdhcm5zLXNjb3R0aXNoLWN1bHR1cmUtaXMtbm93LWluLWluY3JlZGlibHktZnJhZ2lsZS1zdGF0ZS00Njg1MDM10gEA?oc=5",
-                "text": "National Galleries keeps Baillie Gifford on board as it warns Scottish culture is now in 'incredibly fragile state'"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 16:10:00 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
-    },
-    {
-        "title": "Ann Widdecombe in staunch defence of Reform over 'racist' claims from ex-candidate: 'She's not even met them!' - GB News",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmdibmV3cy5jb20vcG9saXRpY3MvYW5uLXdpZGRlY29tYmUtZGVmZW5kcy1yZWZvcm0tcmFjaXN0LWNsYWltcy1nZW9yZ2llLWRhdmlkLXJvd9IBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmdibmV3cy5jb20vcG9saXRpY3MvYW5uLXdpZGRlY29tYmUtZGVmZW5kcy1yZWZvcm0tcmFjaXN0LWNsYWltcy1nZW9yZ2llLWRhdmlkLXJvd9IBAA?oc=5",
-                "text": "Ann Widdecombe in staunch defence of Reform over 'racist' claims from ex-candidate: 'She's not even met them!'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3ZpZGVvcy9jNTF5MHg2cjcyM2_SAQA?oc=5",
-                "text": "Nigel Farage asked how he will handle racism within Reform UK"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5uZXdzdGF0ZXNtYW4uY29tL3BvbGl0aWNzL3BvbGl0aWNzLWludGVydmlldy8yMDI0LzA2L2l2ZS1kb25lLW1vcmUtdGhhbi1hbnlvbmUtZWxzZS10by1kZWZlYXQtdGhlLWZhci1yaWdodC1pbi1icml0YWlu0gEA?oc=5",
-                "text": "\u201cI've done more than anyone else to defeat the far right in Britain\u201d"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzI5L25pZ2VsLWZhcmFnZS10by1ib3ljb3R0LWJiYy1vdmVyLWJpYXNlZC1xdWVzdGlvbi10aW1lLWF1ZGllbmNl0gF3aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdW4vMjkvbmlnZWwtZmFyYWdlLXRvLWJveWNvdHQtYmJjLW92ZXItYmlhc2VkLXF1ZXN0aW9uLXRpbWUtYXVkaWVuY2U?oc=5",
-                "text": "Nigel Farage to boycott BBC over \u2018biased\u2019 Question Time audience"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvcmVmb3JtLXVrLXJhY2lzbS1lbGVjdG9yYWwtY29tbWlzc2lvbi1iMjU3MDY4OC5odG1s0gEA?oc=5",
-                "text": "Election watchdog needs new powers to tackle alleged racism after Reform 'p***' row"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 21:12:27 GMT",
-        "source_url": "https://www.gbnews.com",
-        "source_name": "GB News"
-    },
-    {
-        "title": "A vote for Labour can turn tide against the far right, says Scottish leader - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi9hLXZvdGUtZm9yLWxhYm91ci1jYW4tdHVybi10aGUtdGlkZS1hZ2FpbnN0LXRoZS1mYXItcmlnaHQtc2F5cy1zY290dGlzaC1sZWFkZXItYW5hcy1zYXJ3YXItYW5hcy1zYXJ3YXLSAZ8BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDIvYS12b3RlLWZvci1sYWJvdXItY2FuLXR1cm4tdGhlLXRpZGUtYWdhaW5zdC10aGUtZmFyLXJpZ2h0LXNheXMtc2NvdHRpc2gtbGVhZGVyLWFuYXMtc2Fyd2FyLWFuYXMtc2Fyd2Fy?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bC8wMi9hLXZvdGUtZm9yLWxhYm91ci1jYW4tdHVybi10aGUtdGlkZS1hZ2FpbnN0LXRoZS1mYXItcmlnaHQtc2F5cy1zY290dGlzaC1sZWFkZXItYW5hcy1zYXJ3YXItYW5hcy1zYXJ3YXLSAZ8BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDIvYS12b3RlLWZvci1sYWJvdXItY2FuLXR1cm4tdGhlLXRpZGUtYWdhaW5zdC10aGUtZmFyLXJpZ2h0LXNheXMtc2NvdHRpc2gtbGVhZGVyLWFuYXMtc2Fyd2FyLWFuYXMtc2Fyd2Fy?oc=5",
-                "text": "A vote for Labour can turn tide against the far right, says Scottish leader"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNzbW9uaXRvci5jb20vV29ybGQvRXVyb3BlLzIwMjQvMDcwMS9zY290bGFuZC1VSy1lbGVjdGlvbi1TTlAtaW5kZXBlbmRlbmNl0gEA?oc=5",
-                "text": "As UK elections near, Scottish identity isn\u2019t saving the SNP"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZ3Vlcm5zZXlwcmVzcy5jb20vbmV3cy91ay1uZXdzLzIwMjQvMDcvMDIvc2NvdHMtY2FuLWVuZC10b3J5LW5pZ2h0bWFyZS1vbi10aHVyc2RheS1ieS12b3RpbmctbGFib3VyLXNheXMtc2Fyd2FyL9IBAA?oc=5",
-                "text": "Scots can 'end Tory nightmare' on Thursday by voting Labour, says Sarwar"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMDQ0N3J4azdqeG_SAQA?oc=5",
-                "text": "What impact could the 2024 general election have on Scottish independence?"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9zbnAtY2xvc2VzLWdhcC1vbi1sYWJvdXItaW4tc2t5LW5ld3Mtc2NvdGxhbmQtcG9sbC1idXQtaXQtd291bGQtc3RpbGwtbWVhbi1odWdlLWdhaW5zLWZvci1zaXIta2Vpci1zdGFybWVyLTEzMTYwMTE30gGSAWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9zbnAtY2xvc2VzLWdhcC1vbi1sYWJvdXItaW4tc2t5LW5ld3Mtc2NvdGxhbmQtcG9sbC1idXQtaXQtd291bGQtc3RpbGwtbWVhbi1odWdlLWdhaW5zLWZvci1zaXIta2Vpci1zdGFybWVyLTEzMTYwMTE3?oc=5",
-                "text": "SNP closes gap on Labour in Sky News Scotland poll - but it would still mean huge gains for Sir Keir Starmer"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 21:56:00 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
-    },
-    {
-        "title": "Welsh government promises Senedd politicians lying ban - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnbWUyeTk4bm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZ21lMnk5OG5vLmFtcA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 13:11:37 GMT",
-        "source_url": "https://www.bbc.com",
-        "source_name": "BBC.com"
-    },
-    {
-        "title": "Labour have been predicted to win a landslide, but the reality is just 132,000 voters in key seats could stop - Daily Mail",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTM0ODcvTGFib3VyLWxhbmRzbGlkZS1zdG9wLVVzZS10YWN0aWNhbC12b3RpbmctU3Rhcm1lci1PTkUtUEFSVFktU1RBVEUuaHRtbNIBfGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTM0ODcvYW1wL0xhYm91ci1sYW5kc2xpZGUtc3RvcC1Vc2UtdGFjdGljYWwtdm90aW5nLVN0YXJtZXItT05FLVBBUlRZLVNUQVRFLmh0bWw?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTM0ODcvTGFib3VyLWxhbmRzbGlkZS1zdG9wLVVzZS10YWN0aWNhbC12b3RpbmctU3Rhcm1lci1PTkUtUEFSVFktU1RBVEUuaHRtbNIBfGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTM0ODcvYW1wL0xhYm91ci1sYW5kc2xpZGUtc3RvcC1Vc2UtdGFjdGljYWwtdm90aW5nLVN0YXJtZXItT05FLVBBUlRZLVNUQVRFLmh0bWw?oc=5",
-                "text": "Labour have been predicted to win a landslide, but the reality is just 132,000 voters in key seats could stop"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9saXZlL2M5OHF2ZGR4NzhudNIBAA?oc=5",
-                "text": "General election live updates: Voting for the first time? We're answering your questions on issues you care about"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3R2L2RlY29tcGxpY2F0ZWQvZ2VuZXJhbC1lbGVjdGlvbi10YWN0aWNhbC12b3RpbmctZXhwbGFpbmVkLWIyNTcxOTI4Lmh0bWzSAQA?oc=5",
-                "text": "What is tactical voting - and why could it be a powerful tool? | Decomplicated"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdW5oZXJkLmNvbS9uZXdzcm9vbS93aG9zLXRoZS1iaWctbG9zZXItZnJvbS10YWN0aWNhbC12b3Rpbmcv0gEA?oc=5",
-                "text": "Who's the big loser from tactical voting?"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8veW91Z292LmNvLnVrL3BvbGl0aWNzL2FydGljbGVzLzQ5ODg2LW9uZS1pbi1maXZlLXZvdGVycy1zYXktdGhleS1hcmUtdm90aW5nLXRhY3RpY2FsbHktYXQtdGhlLTIwMjQtZ2VuZXJhbC1lbGVjdGlvbtIBAA?oc=5",
-                "text": "One in five voters say they are voting tactically at the 2024 general election"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 19:27:37 GMT",
-        "source_url": "https://www.dailymail.co.uk",
-        "source_name": "Daily Mail"
-    },
-    {
-        "title": "Water companies face legal challenges after landmark UK pollution ruling - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzllN2U4NDBlLTZkMTYtNDdlZS04YWMxLTk1ODZhM2RlMTQ5NdIBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzllN2U4NDBlLTZkMTYtNDdlZS04YWMxLTk1ODZhM2RlMTQ5NdIBAA?oc=5",
-                "text": "Water companies face legal challenges after landmark UK pollution ruling"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8wMi9sYW5kbWFyay11bml0ZWQtdXRpbGl0aWVzLXJ1bGluZy1wYXZlcy13YXktZm9yLWxlZ2FsLWFjdGlvbi1vdmVyLXNld2FnZdIBgwFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8wMi9sYW5kbWFyay11bml0ZWQtdXRpbGl0aWVzLXJ1bGluZy1wYXZlcy13YXktZm9yLWxlZ2FsLWFjdGlvbi1vdmVyLXNld2FnZQ?oc=5",
-                "text": "Ruling paves way for businesses and public to sue water firms over sewage"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N6OWQ0bjNkdnY4b9IBAA?oc=5",
-                "text": "Manchester ship canal company wins water firm sewage appeal"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDIvY291cnQtcnVsZXMtd2F0ZXItY29tcGFuaWVzLWNhbi1iZS1zdWVkLWR1bXBpbmctcmF3LXNld2FnZS_SAQA?oc=5",
-                "text": "Court rules water companies can be sued for dumping raw sewage"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZ29vZGxhd3Byb2plY3Qub3JnL3N1cHJlbWUtY291cnQtb3BlbnMtdGhlLWZsb29kZ2F0ZXMtZm9yLXNld2FnZS1kdW1waW5nLWNoYWxsZW5nZXMv0gEA?oc=5",
-                "text": "Water companies could face raft of legal challenges after landmark sewage ruling"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 14:08:00 GMT",
-        "source_url": "https://www.ft.com",
-        "source_name": "Financial Times"
-    },
-    {
-        "title": "Ed for heights: Lib Dem leader Davey's campaign stunts \u2013 in pictures - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9nYWxsZXJ5LzIwMjQvanVsLzAyL2VkLWZvci1oZWlnaHRzLWxpYi1kZW0tbGVhZGVyLWRhdmV5LWNhbXBhaWduLXN0dW50cy1pbi1waWN0dXJlc9IBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9nYWxsZXJ5LzIwMjQvanVsLzAyL2VkLWZvci1oZWlnaHRzLWxpYi1kZW0tbGVhZGVyLWRhdmV5LWNhbXBhaWduLXN0dW50cy1pbi1waWN0dXJlc9IBAA?oc=5",
-                "text": "Ed for heights: Lib Dem leader Davey's campaign stunts \u2013 in pictures"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL2ludGVybmF0aW9uYWwvYXJ0aWNsZS8yMDI0LzA3LzAyL3RoZS1jaGVlcmZ1bC1jYW1wYWlnbi1vZi1lZC1kYXZleS1sZWFkZXItb2YtdGhlLXVrLWxpYmVyYWwtZGVtb2NyYXRzXzY2NzY0NzNfNC5odG1s0gEA?oc=5",
-                "text": "The cheerful campaign of Ed Davey, leader of the UK Liberal Democrats"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzAyL3BhcnRpbmctc2hvdC1zdHVtcGluZy1hY3Jvc3MtdGhlLXBvbmQtYW3SAQA?oc=5",
-                "text": "Parting shot: Stumping across the pond"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvZWQtZGF2ZXktbGliLWRlbS1pYW4tbXVycmF5LWxhYm91ci1zY290dGlzaC1iMjU3MjA0NS5odG1s0gEA?oc=5",
-                "text": "In Pictures: Sir Ed Davey's leap of faith as election race enters final week"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMi4QFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvbGl2ZS8yMDI0L2p1bC8wMS91ay1nZW5lcmFsLWVsZWN0aW9uLWxpdmUtc3Rhcm1lci1wZXJtYW5lbnQtbGFib3VyLWdvdmVybm1lbnQtamFtZXMtY2xldmVybHktY2xhaW1zLXJpc2hpLXN1bmFrLWNvbnNlcnZhdGl2ZXM_ZmlsdGVyS2V5RXZlbnRzPWZhbHNlJnBhZ2U9d2l0aDpibG9jay02NjgyN2RkMDhmMDhlNmIwMzg1MjM3ZjfSAaIBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2xpdmUvMjAyNC9qdWwvMDEvdWstZ2VuZXJhbC1lbGVjdGlvbi1saXZlLXN0YXJtZXItcGVybWFuZW50LWxhYm91ci1nb3Zlcm5tZW50LWphbWVzLWNsZXZlcmx5LWNsYWltcy1yaXNoaS1zdW5hay1jb25zZXJ2YXRpdmVz?oc=5",
-                "text": "Rishi Sunak hints he might not quit as Tory leader immediately if he loses UK general election \u2013 live"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 06:30:36 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
-    },
-    {
-        "title": "Douglas Macarthur named as man found dead after being hit by lorry in Oban - STV News",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy5zdHYudHYvd2VzdC1jZW50cmFsL2RvdWdsYXMtbWFjYXJ0aHVyLW5hbWVkLWFzLW1hbi1mb3VuZC1kZWFkLWFmdGVyLWJlaW5nLWhpdC1ieS1sb3JyeS1pbi1vYmFu0gEA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy5zdHYudHYvd2VzdC1jZW50cmFsL2RvdWdsYXMtbWFjYXJ0aHVyLW5hbWVkLWFzLW1hbi1mb3VuZC1kZWFkLWFmdGVyLWJlaW5nLWhpdC1ieS1sb3JyeS1pbi1vYmFu0gEA?oc=5",
-                "text": "Douglas Macarthur named as man found dead after being hit by lorry in Oban"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwNDdna3llZW1ub9IBAA?oc=5",
-                "text": "Community 'united in grief' after Oban lorry death"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2RvdWdsYXMtbWFjYXJ0aHVyLWZhbWlseS10cmlidXRlLXRvLW1hbi13aG8tZGllZC1hZnRlci1iZWluZy1zdHJ1Y2stYnktbG9ycnktaW4tb2Jhbi0xMzE2MjIzNNIBfGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9kb3VnbGFzLW1hY2FydGh1ci1mYW1pbHktdHJpYnV0ZS10by1tYW4td2hvLWRpZWQtYWZ0ZXItYmVpbmctc3RydWNrLWJ5LWxvcnJ5LWluLW9iYW4tMTMxNjIyMzQ?oc=5",
-                "text": "Douglas Macarthur: Family tribute to man who died after being struck by lorry in Oban"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnByZXNzYW5kam91cm5hbC5jby51ay9mcC9uZXdzL2hpZ2hsYW5kcy1pc2xhbmRzLzY1MjIyMjkvb2Jhbi1jcmFzaC1kb3VnbGFzLW1hY2FydGh1ci1mYW1pbHktdHJpYnV0ZS_SAQA?oc=5",
-                "text": "Family of Oban crash victim pay tribute as investigation continues"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9mYW1pbHktbWFuLWhpdC1sb3JyeS1vYmFuLTMzMTQ4ODMw0gFXaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL2ZhbWlseS1tYW4taGl0LWxvcnJ5LW9iYW4tMzMxNDg4MzAuYW1w?oc=5",
-                "text": "Family of man hit by lorry in Oban pay tribute to 'much-loved' brother"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 08:40:05 GMT",
-        "source_url": "https://news.stv.tv",
-        "source_name": "STV News"
-    },
-    {
-        "title": "First picture of Asda security guard who died at store as woman charged with culpable homicide - Daily Record",
-        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9maXJzdC1waWN0dXJlLWFzZGEtc2VjdXJpdHktZ3VhcmQtMzMxNTQyNDfSAQA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9maXJzdC1waWN0dXJlLWFzZGEtc2VjdXJpdHktZ3VhcmQtMzMxNTQyNDfSAQA?oc=5",
-                "text": "First picture of Asda security guard who died at store as woman charged with culpable homicide"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N2Mmc2cDk2dnJub9IBAA?oc=5",
-                "text": "Woman appears in court charged with death of supermarket worker"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5zdHYudHYvbm9ydGgvc2VjdXJpdHktZ3VhcmQta2lsbGVkLWluLWFzZGEtc3VwZXJtYXJrZXQtaW5jaWRlbnQtd2FzLWJlbG92ZWQtaHVzYmFuZC1hbmQtYmFtcHnSAQA?oc=5",
-                "text": "Security guard killed in supermarket incident was beloved 'husband and bampy'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWNvdXJpZXIuY28udWsvZnAvbmV3cy9jb3VydHMvNTAyODIyMi9uYXRhc2hhLXNtaXRoLWFzZGEtYXJicm9hdGgtYXNzYXVsdC_SAQA?oc=5",
-                "text": "Woman accused of culpable homicide after death at Arbroath Asda"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoZW5hdGlvbmFsLnNjb3QvbmV3cy8yNDQyMjQwMy5hcmJyb2F0aC1tYW4tZGllcy13b21hbi1hcnJlc3RlZC11bmV4cGxhaW5lZC1pbmNpZGVudC_SAQA?oc=5",
-                "text": "Man dies and woman arrested after 'unexplained' incident at supermarket"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 15:44:00 GMT",
-        "source_url": "https://www.dailyrecord.co.uk",
-        "source_name": "Daily Record"
-    },
-    {
-        "title": "Second young teen arrested after city centre knife attack on 13-year-old boy - Bristol Live",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvYnJpc3RvbC1uZXdzL3NlY29uZC15b3VuZy10ZWVuLWFycmVzdGVkLWFmdGVyLTkzODMwNjHSAQA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvYnJpc3RvbC1uZXdzL3NlY29uZC15b3VuZy10ZWVuLWFycmVzdGVkLWFmdGVyLTkzODMwNjHSAQA?oc=5",
-                "text": "Second young teen arrested after city centre knife attack on 13-year-old boy"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M2cDIzN2duNnJ4b9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M2cDIzN2duNnJ4by5hbXA?oc=5",
-                "text": "Horsefair stabbing: Two boys arrested after attack"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmJyaXN0b2wyNDcuY29tL25ld3MtYW5kLWZlYXR1cmVzL25ld3MvMTMteWVhci1vbGQtc3RhYmJlZC1pbi1icm9hZG1lYWQv0gEA?oc=5",
-                "text": "13-year-old stabbed in Broadmead"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvYnJpc3RvbC1uZXdzL3lvdW5nLXRlZW4tYXJyZXN0ZWQtYWZ0ZXItYnJpc3RvbC05MzgyMzU20gFdaHR0cHM6Ly93d3cuYnJpc3RvbHBvc3QuY28udWsvbmV3cy9icmlzdG9sLW5ld3MveW91bmctdGVlbi1hcnJlc3RlZC1hZnRlci1icmlzdG9sLTkzODIzNTYuYW1w?oc=5",
-                "text": "Young teen arrested after Bristol knife attack leaves boy seriously injured"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 11:52:00 GMT",
-        "source_url": "https://www.bristolpost.co.uk",
-        "source_name": "Bristol Live"
-    },
-    {
-        "title": "Three officers investigated over their inquiries into Nottingham triple killer Valdo Calocane - Sky News",
-        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS90aHJlZS1vZmZpY2Vycy1pbnZlc3RpZ2F0aW9uLW92ZXItdGhlaXItaW5xdWlyaWVzLWludG8tbm90dGluZ2hhbS10cmlwbGUta2lsbGVyLXZhbGRvLWNhbG9jYW5lLTEzMTYyMzg50gGGAWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC90aHJlZS1vZmZpY2Vycy1pbnZlc3RpZ2F0aW9uLW92ZXItdGhlaXItaW5xdWlyaWVzLWludG8tbm90dGluZ2hhbS10cmlwbGUta2lsbGVyLXZhbGRvLWNhbG9jYW5lLTEzMTYyMzg5?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS90aHJlZS1vZmZpY2Vycy1pbnZlc3RpZ2F0aW9uLW92ZXItdGhlaXItaW5xdWlyaWVzLWludG8tbm90dGluZ2hhbS10cmlwbGUta2lsbGVyLXZhbGRvLWNhbG9jYW5lLTEzMTYyMzg50gGGAWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC90aHJlZS1vZmZpY2Vycy1pbnZlc3RpZ2F0aW9uLW92ZXItdGhlaXItaW5xdWlyaWVzLWludG8tbm90dGluZ2hhbS10cmlwbGUta2lsbGVyLXZhbGRvLWNhbG9jYW5lLTEzMTYyMzg5?oc=5",
-                "text": "Three officers investigated over their inquiries into Nottingham triple killer Valdo Calocane"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5pdHYuY29tL3dhdGNoL25ld3MvcG9saWNlLW9mZmljZXJzLXVuZGVyLWludmVzdGlnYXRpb24tb3Zlci1pbnF1aXJpZXMtaW50by1hbGxlZ2VkLWFzc2F1bHRzLWJ5LXZhbGRvLWNhbG9jYW5lL3NibHhrcDjSAQA?oc=5",
-                "text": "Police officers under investigation over inquiries into alleged assaults by Valdo Calocane - Latest From ITV News"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmxlaWNlc3Rlcm1lcmN1cnkuY28udWsvbmV3cy9sb2NhbC1uZXdzL3RocmVlLWxlaWNlc3RlcnNoaXJlLXBvbGljZS1vZmZpY2Vycy1iZWluZy05MzgzMzEw0gEA?oc=5",
-                "text": "Leicestershire officers probed over handling of killer"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI4OTA3MDI2L3RocmVlLXBvbGljZS1pbnZlc3RpZ2F0aW9uLWFsbGVnZWQtYXNzYXVsdHMtdmFsZG8tY2Fsb2NhbmUv0gFmaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrL25ld3MvMjg5MDcwMjYvdGhyZWUtcG9saWNlLWludmVzdGlnYXRpb24tYWxsZWdlZC1hc3NhdWx0cy12YWxkby1jYWxvY2FuZS9hbXAv?oc=5",
-                "text": "Three cops probed over inquiries into Nottingham killer Valdo Calocane a month before he slaughtered 3 in..."
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYXUubmV3cy55YWhvby5jb20vb2ZmaWNlcnMtZmFjZS1taXNjb25kdWN0LXByb2JlLW92ZXItMTI1NjE0Nzk5Lmh0bWzSAQA?oc=5",
-                "text": "Officers face misconduct probe over contact with Valdo Calocane"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 12:42:56 GMT",
-        "source_url": "https://news.sky.com",
-        "source_name": "Sky News"
-    },
-    {
-        "title": "Prisoner at centre of jail guard sex tape scandal named and pictured for first time - Daily Record",
-        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvY3JpbWUvcHJpc29uZXItY2VudHJlLWphaWwtZ3VhcmQtc2V4LTMzMTU0Mjc00gFUaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9jcmltZS9wcmlzb25lci1jZW50cmUtamFpbC1ndWFyZC1zZXgtMzMxNTQyNzQuYW1w?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvY3JpbWUvcHJpc29uZXItY2VudHJlLWphaWwtZ3VhcmQtc2V4LTMzMTU0Mjc00gFUaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvbmV3cy9jcmltZS9wcmlzb25lci1jZW50cmUtamFpbC1ndWFyZC1zZXgtMzMxNTQyNzQuYW1w?oc=5",
-                "text": "Prisoner at centre of jail guard sex tape scandal named and pictured for first time"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDcvMDEvbGluZGEtZGUtc291c2EtYWJyZXUtcHJpc29uLXNleC12aWRlby1pbi1jb3VydC_SAQA?oc=5",
-                "text": "Prison officer accused of having sex with an inmate on video appears in court"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL3ByaXNvbmVyLXNleC1wcmlzb24tZ3VhcmQtcHJlZ25hbnQtZ2lybGZyaWVuZC1yb2JiZXJ5L9IBAA?oc=5",
-                "text": "Prisoner filmed 'having sex with prison guard' has 'pregnant girlfriend and is in jail for \u00a365000 jewel heist'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVuLzMwL3dvbWFuLWNoYXJnZWQtb3Zlci12aWRlby1zaG93aW5nLXByaXNvbi1vZmZpY2VyLWhhdmluZy1zZXgtd2l0aC1pbm1hdGUtaW4tY2VsbNIBhgFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdWstbmV3cy9hcnRpY2xlLzIwMjQvanVuLzMwL3dvbWFuLWNoYXJnZWQtb3Zlci12aWRlby1zaG93aW5nLXByaXNvbi1vZmZpY2VyLWhhdmluZy1zZXgtd2l0aC1pbm1hdGUtaW4tY2VsbA?oc=5",
-                "text": "Woman charged over video \u2018showing prison officer having sex with inmate in cell\u2019"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMi3wFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTk0MzU1L0Z1cmlvdXMtdmljdGltcy1ITVAtV2FuZHN3b3J0aC1pbm1hdGUtZmlsbWVkLWhhdmluZy1zZXgtZmVtYWxlLXByaXNvbi1ndWFyZC1zbGFtLXJlcG9ydHMtV09OVC1mYWNlLXBvbGljZS1pbnZlc3RpZ2F0aW9uLWFjdGlvbnMtY2xhaW0tbm90LXRob3VnaHQtbWVhbnQtaGFyZC10aW1lLXByaXNvbi5odG1s0gHjAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTQzNTUvYW1wL0Z1cmlvdXMtdmljdGltcy1ITVAtV2FuZHN3b3J0aC1pbm1hdGUtZmlsbWVkLWhhdmluZy1zZXgtZmVtYWxlLXByaXNvbi1ndWFyZC1zbGFtLXJlcG9ydHMtV09OVC1mYWNlLXBvbGljZS1pbnZlc3RpZ2F0aW9uLWFjdGlvbnMtY2xhaW0tbm90LXRob3VnaHQtbWVhbnQtaGFyZC10aW1lLXByaXNvbi5odG1s?oc=5",
-                "text": "Furious victims of HMP Wandsworth inmate 'filmed having sex with female prison guard' slam reports he WON'T fa"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 16:47:00 GMT",
-        "source_url": "https://www.dailyrecord.co.uk",
-        "source_name": "Daily Record"
-    },
-    {
-        "title": "Carl Cooper: Man who murdered two girlfriends jailed for 35 years - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnbm42bjBkZW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZ25uNm4wZGVvLmFtcA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnbm42bjBkZW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZ25uNm4wZGVvLmFtcA?oc=5",
-                "text": "Carl Cooper: Man who murdered two girlfriends jailed for 35 years"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvY3JpbWUvY2FybC1jb29wZXItbXVyZGVyLXBhcnRuZXJzLWphaWxlZC1sb25kb24tc2VudGVuY2UtYjI1NzI0NzMuaHRtbNIBAA?oc=5",
-                "text": "Handyman who murdered girlfriends jailed as police offer reward to find missing body"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjQ0MjU1OTQuZmFtaWx5LXRvcnR1cmVkLWhpdGhlci1ncmVlbi1tdW1zLW1pc3NpbmctYm9keS_SAQA?oc=5",
-                "text": "Family tortured by Hither Green mum's missing body"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTMyNjcvaGFuZHltYW4ta2lsbGVkLXR3by13b21lbi1qYWlsZWQtbGlmZS5odG1s0gFgaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzU5MzI2Ny9hbXAvaGFuZHltYW4ta2lsbGVkLXR3by13b21lbi1qYWlsZWQtbGlmZS5odG1s?oc=5",
-                "text": "'Psychopath' handyman, 66, who murdered his girlfriend while he was on bail for killing another partner just 1"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdmFsZW50aW5lcy1kYXkta2lsbGVyLWdldHMtMzUtMzMxNTAwMDHSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL3ZhbGVudGluZXMtZGF5LWtpbGxlci1nZXRzLTM1LTMzMTUwMDAxLmFtcA?oc=5",
-                "text": "Valentine's Day killer gets 35 years for murdering two former girlfriends"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 14:26:15 GMT",
-        "source_url": "https://www.bbc.com",
-        "source_name": "BBC.com"
-    },
-    {
-        "title": "West Lothian mum gives birth to region's first naturally-conceived quadruplets - Edinburgh News",
-        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5lZGluYnVyZ2huZXdzLnNjb3RzbWFuLmNvbS9uZXdzL3dlc3QtbG90aGlhbi1tdW0tY2VsZWJyYXRlcy1hZnRlci1naXZpbmctYmlydGgtdG8tcmVnaW9ucy1maXJzdC1uYXR1cmFsbHktY29uY2VpdmVkLXF1YWRydXBsZXRzLTQ2ODc5MDHSAQA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5lZGluYnVyZ2huZXdzLnNjb3RzbWFuLmNvbS9uZXdzL3dlc3QtbG90aGlhbi1tdW0tY2VsZWJyYXRlcy1hZnRlci1naXZpbmctYmlydGgtdG8tcmVnaW9ucy1maXJzdC1uYXR1cmFsbHktY29uY2VpdmVkLXF1YWRydXBsZXRzLTQ2ODc5MDHSAQA?oc=5",
-                "text": "West Lothian mum gives birth to region's first naturally-conceived quadruplets"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGhlZWRpbmJ1cmdocmVwb3J0ZXIuY28udWsvMjAyNC8wNy93ZXN0LWxvdGhpYW4tY291cGxlLXdlbGNvbWUtcXVhZHJ1cGxldHMtYmVuLW5vYWgtaGFycmlzb24tYW5kLXJvcnkv0gEA?oc=5",
-                "text": "West Lothian couple welcome quadruplets Ben, Noah, Harrison and Rory"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy5zdHYudHYvZWFzdC1jZW50cmFsL2ZhbWlseS13ZWxjb21lLXF1YWRydXBsZXQtYmFieS1ib3lzLWluLWZpcnN0LWZvci1lZGluYnVyZ2gtcm95YWwtaW5maXJtYXJ50gEA?oc=5",
-                "text": "Family welcome quadruplet baby boys in first for hospital"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTkzMDI3L01lZXQtcmVhbC1GYW50YXN0aWMtRm91ci1TY290cy1jb3VwbGUtb3ZlcndoZWxtZWQtd2VsY29taW5nLXJhcmUtcXVhZHJ1cGxldHMuaHRtbNIBhwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTkzMDI3L2FtcC9NZWV0LXJlYWwtRmFudGFzdGljLUZvdXItU2NvdHMtY291cGxlLW92ZXJ3aGVsbWVkLXdlbGNvbWluZy1yYXJlLXF1YWRydXBsZXRzLmh0bWw?oc=5",
-                "text": "Meet the real Fantastic Four... Scots couple 'overwhelmed' after welcoming rare quadruplets"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3dlc3QtbG90aGlhbi1jb3VwbGUtY2VsZWJyYXRlLXJhcmUtYmlydGgtb2YtcXVhZHJ1cGxldHMtMTMxNjI0MzfSAQA?oc=5",
-                "text": "West Lothian couple celebrate rare birth of quadruplets"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 14:08:00 GMT",
-        "source_url": "https://www.edinburghnews.scotsman.com",
-        "source_name": "Edinburgh News"
-    },
-    {
-        "title": "UK faces new 'hottest day of year' with temperatures jumping 13C within days - Birmingham Live",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJpcm1pbmdoYW1tYWlsLmNvLnVrL25ld3MvbWlkbGFuZHMtbmV3cy91ay1mYWNlcy1uZXctaG90dGVzdC1kYXktMjk0NTU1MjLSAVlodHRwczovL3d3dy5iaXJtaW5naGFtbWFpbC5jby51ay9uZXdzL21pZGxhbmRzLW5ld3MvdWstZmFjZXMtbmV3LWhvdHRlc3QtZGF5LTI5NDU1NTIyLmFtcA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 05:20:00 GMT",
-        "source_url": "https://www.birminghammail.co.uk",
-        "source_name": "Birmingham Live"
-    },
-    {
-        "title": "Ten bot-like X accounts having 'oversized influence' on General Election - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvdHdpdHRlci1ib3RzLXgtZ2VuZXJhbC1lbGVjdGlvbi1ydXNzaWEtYjI1NzIzMjguaHRtbNIBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvdHdpdHRlci1ib3RzLXgtZ2VuZXJhbC1lbGVjdGlvbi1ydXNzaWEtYjI1NzIzMjguaHRtbNIBAA?oc=5",
-                "text": "Ten bot-like X accounts having 'oversized influence' on General Election"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnNjb3R0aXNoZGFpbHlleHByZXNzLmNvLnVrL25ld3Mvc2NvdHRpc2gtbmV3cy9wcm9iZS1maW5kcy0xMC14LWFjY291bnRzLTMzMTQ5Nzgy0gFgaHR0cHM6Ly93d3cuc2NvdHRpc2hkYWlseWV4cHJlc3MuY28udWsvbmV3cy9zY290dGlzaC1uZXdzL3Byb2JlLWZpbmRzLTEwLXgtYWNjb3VudHMtMzMxNDk3ODIuYW1w?oc=5",
-                "text": "Probe finds 10 X accounts have posted 60k times and have 'huge influence' on General Election"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wNy8wMi9zcG90LWVsZWN0aW9uLWJvdC1mYWtlLWFjY291bnRzLWZsb29kLXNvY2lhbC1tZWRpYS0yMTE0MzkxNy_SAQA?oc=5",
-                "text": "How to spot an election bot as fake accounts flood social media"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vcHJvZmVzc2lvbmFsc2VjdXJpdHkuY28udWsvbmV3cy9nb3Zlcm5tZW50L3VrLWVsZWN0aW9uLXdhcm5pbmcv0gEA?oc=5",
-                "text": "UK election warning | Professional Security"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 06:09:29 GMT",
-        "source_url": "https://www.independent.co.uk",
-        "source_name": "The Independent"
-    },
-    {
-        "title": "\u2018I don\u2019t feel like your vote counts\u2019: little faith in politics among young people of Nottingham - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAyL2xpdHRsZS1mYWl0aC1pbi1wb2xpdGljcy15b3VuZy1wZW9wbGUtbm90dGluZ2hhbS1lYXN0LWVsZWN0aW9u0gF3aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDIvbGl0dGxlLWZhaXRoLWluLXBvbGl0aWNzLXlvdW5nLXBlb3BsZS1ub3R0aW5naGFtLWVhc3QtZWxlY3Rpb24?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVsLzAyL2xpdHRsZS1mYWl0aC1pbi1wb2xpdGljcy15b3VuZy1wZW9wbGUtbm90dGluZ2hhbS1lYXN0LWVsZWN0aW9u0gF3aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdWwvMDIvbGl0dGxlLWZhaXRoLWluLXBvbGl0aWNzLXlvdW5nLXBlb3BsZS1ub3R0aW5naGFtLWVhc3QtZWxlY3Rpb24?oc=5",
-                "text": "\u2018I don\u2019t feel like your vote counts\u2019: little faith in politics among young people of Nottingham"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdGltZS5jb20vNjk5MjQ5OC91ay1lbGVjdGlvbi10b3J5LWNvbnNlcnZhdGl2ZS1hdXN0ZXJpdHktcG92ZXJ0eS_SAQA?oc=5",
-                "text": "How 14 Years of Conservative Rule Pushed UK Youth Into Poverty"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkL2V1cm9wZS8xMDAwMDAwMDk1Mzg0MTAveW91bmctdm90ZXJzLXZvaWNlcy11ay1lbGVjdGlvbi5odG1s0gEA?oc=5",
-                "text": "Video: Young People Demand Change Ahead of Britain's Election"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGhlZmFjZS5jb20vc29jaWV0eS9nZW5lcmFsLWVsZWN0aW9uLTIwMjQtYnVyeS1ub3J0aC15b3VuZy1wZW9wbGUtdm90ZdIBAA?oc=5",
-                "text": "\u201cYoung people get so little representation\u201d: Bury's youth on the\u2026"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kYXplZGRpZ2l0YWwuY29tL2xpZmUtY3VsdHVyZS9hcnRpY2xlLzYyOTcwLzEvdWstZ2VuZXJhbC1lbGVjdGlvbi0yMDI0LXdoYXQtMTQteWVhcnMtb2YtdG9yeS1ydWxlLWhhcy1jb3N0LWJyaXRpc2gteW91dGjSAQA?oc=5",
-                "text": "What 14 years of Tory rule has cost British youth"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 17:36:00 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
-    },
-    {
-        "title": "Ex-British Museum boss wants foreigners to pay to see UK artefacts - Euronews",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9jdWx0dXJlLzIwMjQvMDcvMDIvZXgtYnJpdGlzaC1tdXNldW0tY2hpZWYtd2FudHMtZm9yZWlnbmVycy10by1wYXktdG8tc2VlLXVrLWN1bHR1cmFsLXRyZWFzdXJlc9IBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9jdWx0dXJlLzIwMjQvMDcvMDIvZXgtYnJpdGlzaC1tdXNldW0tY2hpZWYtd2FudHMtZm9yZWlnbmVycy10by1wYXktdG8tc2VlLXVrLWN1bHR1cmFsLXRyZWFzdXJlc9IBAA?oc=5",
-                "text": "Ex-British Museum boss wants foreigners to pay to see UK artefacts"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGV0aW1lcy5jb20vdWsvaGlzdG9yeS9hcnRpY2xlL2RhbWUtbWFyeS1iZWFyZC1lbGdpbi1tYXJibGVzLXNob3VsZC1iZS1zZW50LWFicm9hZC1hcy1jdWx0dXJhbC1hbWJhc3NhZG9ycy1oOXp4bXpsenDSAQA?oc=5",
-                "text": "Dame Mary Beard: Elgin Marbles should be sent abroad as cultural ambassadors"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL2JyaXRpc2gtbXVzZXVtLWludGVyaW0tZGlyZWN0b3ItY2hhcmdlLXRvdXJpc3RzLXNoYXJlLWVsZ2luLW1hcmJsZXMtZ3JlZWNlLWIxMTY3NzEyLmh0bWzSAQA?oc=5",
-                "text": "British Museum interim director wants to charge tourists \u00a320 entry and share marbles"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFvbC5jby51ay9uZXdzL2NoYXJnZS1mb3JlaWduLWJyaXRpc2gtbXVzZXVtLXZpc2l0b3JzLTA5NTQ1MjA1My5odG1s0gEA?oc=5",
-                "text": "Charge foreign British Museum visitors and share Elgin Marbles, former boss says"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDYvMzAvY2hhcmdlLXRvdXJpc3RzLXRvLXZpc2l0LWJyaXRpc2gtbXVzZXVtLXNheXMtZm9ybWVyLWJvc3Mv0gEA?oc=5",
-                "text": "Charge tourists to visit British Museum, says former boss"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 05:16:48 GMT",
-        "source_url": "https://www.euronews.com",
-        "source_name": "Euronews"
-    },
-    {
-        "title": "Keir Starmer to signal Britain is 'back' on the world stage - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2FiODg0MmYxLTlhN2EtNDg0MC04ZjRmLTRmZDNmMzdlM2M0NNIBAA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2FiODg0MmYxLTlhN2EtNDg0MC04ZjRmLTRmZDNmMzdlM2M0NNIBAA?oc=5",
-                "text": "Keir Starmer to signal Britain is 'back' on the world stage"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9nbG9iYWwtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8wMi9jb25mbGljdHMtY2xpbWF0ZS11ay1wYXJ0aWVzLWludGVybmF0aW9uYWwtcGxhbnMtZWxlY3Rpb27SAXxodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZ2xvYmFsLWRldmVsb3BtZW50L2FydGljbGUvMjAyNC9qdWwvMDIvY29uZmxpY3RzLWNsaW1hdGUtdWstcGFydGllcy1pbnRlcm5hdGlvbmFsLXBsYW5zLWVsZWN0aW9u?oc=5",
-                "text": "From conflict to the climate \u2013 what are the UK parties\u2019 international plans?"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMDIvd2hhdC1hLWxhYm91ci1nb3Zlcm5tZW50LW1lYW5zLWZvci11cy1ldS1jaGluYS1yZWxhdGlvbnMuaHRtbNIBYWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA3LzAyL3doYXQtYS1sYWJvdXItZ292ZXJubWVudC1tZWFucy1mb3ItdXMtZXUtY2hpbmEtcmVsYXRpb25zLmh0bWw?oc=5",
-                "text": "What a new Labour government will mean for the UK's foreign policy"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vZm9yZWlnbnBvbGljeS5jb20vMjAyNC8wNy8wMi91ay1lbGVjdGlvbi1sYWJvdXIta2Vpci1zdGFybWVyLXN1bmFrLWNsYXNzLXN1cGVybWFqb3JpdHktc29jaWFsLWRlbW9jcmFjeS1nbG9iYWwtbGVmdC_SAQA?oc=5",
-                "text": "U.K. Election: How Keir Starmer's Labour Could Win a Supermajority and Reinvigorate the Global Left"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDYvMjgva2Vpci1zdGFybWVyLWZvcmVpZ24tcG9saWN5LWdhemEtaXNyYWVsLXVrcmFpbmUv0gEA?oc=5",
-                "text": "Starmer has no foreign policy \u2013 and in just six days, the whole world will know"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 14:26:25 GMT",
-        "source_url": "https://www.ft.com",
-        "source_name": "Financial Times"
-    },
-    {
-        "title": "The paedophile head teacher hiding in plain sight: How school chief who used lace handcuffs in sickening abuse - Daily Mail",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTExOTUvcGFlZG9waGlsZS1oZWFkLXRlYWNoZXItaGlkaW5nLXBsYWluLXNpZ2h0LWFidXNlLWdpcmxzLmh0bWzSAXFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTkxMTk1L2FtcC9wYWVkb3BoaWxlLWhlYWQtdGVhY2hlci1oaWRpbmctcGxhaW4tc2lnaHQtYWJ1c2UtZ2lybHMuaHRtbA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1OTExOTUvcGFlZG9waGlsZS1oZWFkLXRlYWNoZXItaGlkaW5nLXBsYWluLXNpZ2h0LWFidXNlLWdpcmxzLmh0bWzSAXFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTkxMTk1L2FtcC9wYWVkb3BoaWxlLWhlYWQtdGVhY2hlci1oaWRpbmctcGxhaW4tc2lnaHQtYWJ1c2UtZ2lybHMuaHRtbA?oc=5",
-                "text": "The paedophile head teacher hiding in plain sight: How school chief who used lace handcuffs in sickening abuse"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L211c3QtbGVhcm4tbGVzc29ucy1mcm9tLWhlYWR0ZWFjaGVyLWFidXNlLXdhbGVzcy1jaGlsZHJlbnMtY29tbWlzc2lvbmVyLXNheXMtMTMxNjI0NDLSAXRodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvbXVzdC1sZWFybi1sZXNzb25zLWZyb20taGVhZHRlYWNoZXItYWJ1c2Utd2FsZXNzLWNoaWxkcmVucy1jb21taXNzaW9uZXItc2F5cy0xMzE2MjQ0Mg?oc=5",
-                "text": "'Must learn lessons' from headteacher abuse, Wales's children's commissioner says"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3R2L25ld3MvcGFlZG9waGlsZS1oZWFkdGVhY2hlci1uZWlsLWZvZGVuLWFycmVzdGVkLXdhbGVzLWIyNTcyMDgzLmh0bWzSAQA?oc=5",
-                "text": "Watch moment paedophile headteacher Neil Foden is arrested at school"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LndhbGVzb25saW5lLmNvLnVrL25ld3Mvd2FsZXMtbmV3cy92aWRlby1zaG93cy1wYWVkb3BoaWxlLWhlYWR0ZWFjaGVycy1vbmUtMjk0NTM5NTTSAWJodHRwczovL3d3dy53YWxlc29ubGluZS5jby51ay9uZXdzL3dhbGVzLW5ld3MvdmlkZW8tc2hvd3MtcGFlZG9waGlsZS1oZWFkdGVhY2hlcnMtb25lLTI5NDUzOTU0LmFtcA?oc=5",
-                "text": "Paedophile headteacher's one-word response as he's arrested"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jejk5ZGVwNXk2Mm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3o5OWRlcDV5NjJvLmFtcA?oc=5",
-                "text": "Neil Foden: Sex abuse head teacher 'could have been stopped'"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 11:05:24 GMT",
-        "source_url": "https://www.dailymail.co.uk",
-        "source_name": "Daily Mail"
-    },
-    {
-        "title": "The Conservative catastrophe - The New Statesman",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvY29uc2VydmF0aXZlcy8yMDI0LzA3L3RoZS1jb25zZXJ2YXRpdmUtY2F0YXN0cm9waGXSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 05:01:13 GMT",
-        "source_url": "https://www.newstatesman.com",
-        "source_name": "The New Statesman"
-    },
-    {
-        "title": "These seats have long voted Tory. That might be about to change - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDd5MnhqNzI4ZG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w3eTJ4ajcyOGRvLmFtcA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 10:08:26 GMT",
-        "source_url": "https://www.bbc.com",
-        "source_name": "BBC.com"
-    },
-    {
-        "title": "Badenoch and Braverman deny association with Tory leadership campaign websites - Sky News",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2JhZGVub2NoLWFuZC1icmF2ZXJtYW4tZGVueS1hc3NvY2lhdGlvbi13aXRoLXRvcnktbGVhZGVyc2hpcC1jYW1wYWlnbi13ZWJzaXRlcy0xMzE2MTg5ONIBdmh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9iYWRlbm9jaC1hbmQtYnJhdmVybWFuLWRlbnktYXNzb2NpYXRpb24td2l0aC10b3J5LWxlYWRlcnNoaXAtY2FtcGFpZ24td2Vic2l0ZXMtMTMxNjE4OTg?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2JhZGVub2NoLWFuZC1icmF2ZXJtYW4tZGVueS1hc3NvY2lhdGlvbi13aXRoLXRvcnktbGVhZGVyc2hpcC1jYW1wYWlnbi13ZWJzaXRlcy0xMzE2MTg5ONIBdmh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9iYWRlbm9jaC1hbmQtYnJhdmVybWFuLWRlbnktYXNzb2NpYXRpb24td2l0aC10b3J5LWxlYWRlcnNoaXAtY2FtcGFpZ24td2Vic2l0ZXMtMTMxNjE4OTg?oc=5",
-                "text": "Badenoch and Braverman deny association with Tory leadership campaign websites"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzI5L3doby1jb3VsZC1yZXBsYWNlLXJpc2hpLXN1bmFrLXRvcnktbGVhZGVyLWxvc2VzLWVsZWN0aW9u0gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzL2FydGljbGUvMjAyNC9qdW4vMjkvd2hvLWNvdWxkLXJlcGxhY2UtcmlzaGktc3VuYWstdG9yeS1sZWFkZXItbG9zZXMtZWxlY3Rpb24?oc=5",
-                "text": "Who could replace Rishi Sunak as Tory leader if he loses the election?"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvY29uc2VydmF0aXZlcy8yMDI0LzA3L2luc2lkZS10aGUtc2hhZG93LXRvcnktbGVhZGVyc2hpcC1lbGVjdGlvbtIBAA?oc=5",
-                "text": "Inside the shadow Tory leadership election"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvbS91ay9wb2xpdGljcy9hcnRpY2xlL3Nlbmlvci10b3JpZXMtcmVnaXN0ZXItbGVhZGVyc2hpcC1jYW1wYWlnbi13ZWJzaXRlcy0wcDA5aDlwcmrSAQA?oc=5",
-                "text": "Leadership campaign websites registered for senior Tories"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmdibmV3cy5jb20vcG9saXRpY3MvdmlkZW8ta2VtaS1iYWRlbm9jaC1udW1iZXItb25lLXJlcGxhY2VtZW50LXJpc2hpLXN1bmFr0gEA?oc=5",
-                "text": "Kemi Badenoch is 'number one' to replace Rishi Sunak as Tory leader, Kelvin MacKenzie claims"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 10:23:39 GMT",
-        "source_url": "https://news.sky.com",
-        "source_name": "Sky News"
-    },
-    {
-        "title": "Tory minister says there should be 'no space' for Nigel Farage in his party - and hints at leadership bid - Sky News",
-        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS90b3J5LW1pbmlzdGVyLXNheXMtdGhlcmUtc2hvdWxkLWJlLW5vLXNwYWNlLWZvci1uaWdlbC1mYXJhZ2UtaW4taGlzLXBhcnR5LWFuZC1oaW50cy1hdC1sZWFkZXJzaGlwLWJpZC0xMzE2MTk3NdIBjQFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvdG9yeS1taW5pc3Rlci1zYXlzLXRoZXJlLXNob3VsZC1iZS1uby1zcGFjZS1mb3ItbmlnZWwtZmFyYWdlLWluLWhpcy1wYXJ0eS1hbmQtaGludHMtYXQtbGVhZGVyc2hpcC1iaWQtMTMxNjE5NzU?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS90b3J5LW1pbmlzdGVyLXNheXMtdGhlcmUtc2hvdWxkLWJlLW5vLXNwYWNlLWZvci1uaWdlbC1mYXJhZ2UtaW4taGlzLXBhcnR5LWFuZC1oaW50cy1hdC1sZWFkZXJzaGlwLWJpZC0xMzE2MTk3NdIBjQFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvdG9yeS1taW5pc3Rlci1zYXlzLXRoZXJlLXNob3VsZC1iZS1uby1zcGFjZS1mb3ItbmlnZWwtZmFyYWdlLWluLWhpcy1wYXJ0eS1hbmQtaGludHMtYXQtbGVhZGVyc2hpcC1iaWQtMTMxNjE5NzU?oc=5",
-                "text": "Tory minister says there should be 'no space' for Nigel Farage in his party - and hints at leadership bid"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJpem5ld3MuY29tL2dsb2JhbC1jaXRpemVuLzIwMjQvMDcvMDEvZmFyYWdlcy1yZWZvcm0tcGFydHktc3VyZ2VzLWNsYWN0b27SAQA?oc=5",
-                "text": "Farage's Reform surges in Clacton, threatens Tory stronghold"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9wb2xpdGljcy8xOTE4MTcyL05pZ2VsLUZhcmFnZS1SaXNoaS1TdW5hay1SZWZvcm0tQ29uc2VydmF0aXZlc9IBYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9wb2xpdGljcy8xOTE4MTcyL05pZ2VsLUZhcmFnZS1SaXNoaS1TdW5hay1SZWZvcm0tQ29uc2VydmF0aXZlcy9hbXA?oc=5",
-                "text": "Nigel Farage's nine-word reply when asked if he'll join Tories after shock poll released"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTgxNjgzL1FVRU5USU4tTEVUVFMtVG9yeS12b3RlcnMtaGVsbC1iZW50LWhpdHRpbmctYm90dGxlLVBpZWQtUGlwZXItQ2xhY3Rvbi1wYWludC1jb3VudHJ5LXNvY2lhbGlzdC1yZWQtcHJlcGFyZS1vbmUtaGVsbC1oYW5nb3Zlci5odG1s0gG2AWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1ODE2ODMvYW1wL1FVRU5USU4tTEVUVFMtVG9yeS12b3RlcnMtaGVsbC1iZW50LWhpdHRpbmctYm90dGxlLVBpZWQtUGlwZXItQ2xhY3Rvbi1wYWludC1jb3VudHJ5LXNvY2lhbGlzdC1yZWQtcHJlcGFyZS1vbmUtaGVsbC1oYW5nb3Zlci5odG1s?oc=5",
-                "text": "QUENTIN LETTS: Tory voters hell-bent on hitting the bottle with the Pied Piper of Clacton will paint the whole"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzI3L3RoZS1mYXJhZ2UtZmFpdGhmdWwta25vdy1oZXMtYS1idXQtdGhleS1kb250LWNhcmXSAWpodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bi8yNy90aGUtZmFyYWdlLWZhaXRoZnVsLWtub3ctaGVzLWEtYnV0LXRoZXktZG9udC1jYXJl?oc=5",
-                "text": "The Farage faithful know he\u2019s a fraud but they don\u2019t care"
-            }
-        ],
-        "pub_date": "Mon, 01 Jul 2024 20:49:50 GMT",
-        "source_url": "https://news.sky.com",
-        "source_name": "Sky News"
-    },
-    {
-        "title": "General election 2024: Parties stress core messages as election nears - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NubDA4cjQ0MDRwb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NubDA4cjQ0MDRwby5hbXA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 02 Jul 2024 20:30:37 GMT",
-        "source_url": "https://www.bbc.co.uk",
-        "source_name": "BBC"
-    },
-    {
-        "title": "Keir Starmer says big Labour majority 'better for the country' - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N4ZTJ2dnhneTRqb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N4ZTJ2dnhneTRqby5hbXA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N4ZTJ2dnhneTRqb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N4ZTJ2dnhneTRqby5hbXA?oc=5",
-                "text": "Keir Starmer says big Labour majority 'better for the country'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYXUubmV3cy55YWhvby5jb20va2Vpci1zdGFybWVyLXdhcm5zLWhhcmRlc3QtbWlsZS0xNzM3Mjk4MDQuaHRtbNIBAA?oc=5",
-                "text": "Keir Starmer warns 'hardest mile' ahead as he tries to rally Labour activists for final push"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vYXUubmV3cy55YWhvby5jb20vc2lyLWtlaXItc3Rhcm1lci1yaXNoaS1zdW5hay0xNzMyMjAyNjMuaHRtbNIBAA?oc=5",
-                "text": "Sir Keir Starmer and Rishi Sunak rally supporters in London as election campaign enters its 'final furlong'"
-            }
-        ],
-        "pub_date": "Tue, 02 Jul 2024 09:41:52 GMT",
-        "source_url": "https://www.bbc.co.uk",
-        "source_name": "BBC"
-    },
-    {
-        "title": "Hung parliament is in our grasp, says Sunak - The Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAxL2RlbGl2ZXItaHVuZy1wYXJsaWFtZW50LWRlbnktbGFib3VyLW1ham9yaXR5LXN1bmFrLXBsZWFkcy_SAQA?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA3LzAxL2RlbGl2ZXItaHVuZy1wYXJsaWFtZW50LWRlbnktbGFib3VyLW1ham9yaXR5LXN1bmFrLXBsZWFkcy_SAQA?oc=5",
-                "text": "Hung parliament is in our grasp, says Sunak"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy54bS5jb20vcmVzZWFyY2gvbWFya2V0cy9hbGxOZXdzL3JldXRlcnMvdWtzLXN1bmFrLXNheXMtb25seS1oaXMtY29uc2VydmF0aXZlcy1jYW4tZm9ybS1zdHJvbmctb3Bwb3NpdGlvbi10by1sYWJvdXItNTM4NzEzMDTSAQA?oc=5",
-                "text": "UK's Sunak says only his Conservatives can form strong opposition to Labour"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm1zbi5jb20vZW4temEvbmV3cy9vdGhlci9wbS11cmdlcy10ZWFtLXRvLWRvLWV2ZXJ5dGhpbmctb24tZG9vcnN0ZXAtdG8tc3dheS12b3RlcnMvdmktQkIxcGVXVGnSAQA?oc=5",
-                "text": "PM urges team to do everything on doorstep to sway voters"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4temEvbmV3cy9vdGhlci9yaXNoaS1zdW5hay13YXJucy1hZ2FpbnN0LXNsZWVwd2Fsa2luZy10by1hLWxhYm91ci1nb3Zlcm5tZW50L3ZpLUJCMXBmM2Fm0gEA?oc=5",
-                "text": "Rishi Sunak warns against \"sleepwalking\" to a Labour government"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4temEvbmV3cy9vdGhlci9yaXNoaS1zdW5hay1zYXlzLXBvbGxzLXByZWRpY3RpbmctaGVhdnktZGVmZWF0LW5vdC1nb2luZy10by1zdG9wLW1lL3ZpLUJCMXBnbHRp0gEA?oc=5",
-                "text": "Rishi Sunak says polls predicting heavy defeat 'not going to stop me'"
-            }
-        ],
-        "pub_date": "Mon, 01 Jul 2024 21:30:00 GMT",
-        "source_url": "https://www.telegraph.co.uk",
-        "source_name": "The Telegraph"
     }
 ]
