@@ -1,13 +1,5 @@
 [
     {
-        "title": "Flash Flood Warning issued for southeastern San Diego County - FOX 5 San Diego",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS93ZWF0aGVyL2ZsYXNoLWZsb29kLXdhcm5pbmctaXNzdWVkLWZvci1zb3V0aGVhc3Rlcm4tc2FuLWRpZWdvLWNvdW50eS00L9IBZGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS93ZWF0aGVyL2ZsYXNoLWZsb29kLXdhcm5pbmctaXNzdWVkLWZvci1zb3V0aGVhc3Rlcm4tc2FuLWRpZWdvLWNvdW50eS00L2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 23:45:47 GMT",
-        "source_url": "https://fox5sandiego.com",
-        "source_name": "FOX 5 San Diego"
-    },
-    {
         "title": "DSTLRY San Diego Comic-Con 2024 Exclusives [UPDATE July 13] - San Diego Comic-Con Unofficial Blog",
         "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvZHN0bHJ5LXNhbi1kaWVnby1jb21pYy1jb24tMjAyNC1leGNsdXNpdmVzL9IBAA?oc=5",
         "description": [],
@@ -16,10 +8,18 @@
         "source_name": "San Diego Comic-Con Unofficial Blog"
     },
     {
+        "title": "Flash Flood Warning issued for southeastern San Diego County - FOX 5 San Diego",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS93ZWF0aGVyL2ZsYXNoLWZsb29kLXdhcm5pbmctaXNzdWVkLWZvci1zb3V0aGVhc3Rlcm4tc2FuLWRpZWdvLWNvdW50eS00L9IBZGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS93ZWF0aGVyL2ZsYXNoLWZsb29kLXdhcm5pbmctaXNzdWVkLWZvci1zb3V0aGVhc3Rlcm4tc2FuLWRpZWdvLWNvdW50eS00L2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 23:45:47 GMT",
+        "source_url": "https://fox5sandiego.com",
+        "source_name": "FOX 5 San Diego"
+    },
+    {
         "title": "San Diego man describes being 10 yards from Trump when shots rang out - OCRegister",
         "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDcvMTMvc2FuLWRpZWdvLW1hbi1kZXNjcmliZXMtYmVpbmctMTAtZmVldC1mcm9tLXRydW1wLXdoZW4tc2hvdHMtcmFuZy1vdXQv0gFvaHR0cHM6Ly93d3cub2NyZWdpc3Rlci5jb20vMjAyNC8wNy8xMy9zYW4tZGllZ28tbWFuLWRlc2NyaWJlcy1iZWluZy0xMC1mZWV0LWZyb20tdHJ1bXAtd2hlbi1zaG90cy1yYW5nLW91dC9hbXAv?oc=5",
         "description": [],
-        "pub_date": "Sun, 14 Jul 2024 02:47:21 GMT",
+        "pub_date": "Sun, 14 Jul 2024 03:29:31 GMT",
         "source_url": "https://www.ocregister.com",
         "source_name": "OCRegister"
     },
@@ -32,20 +32,20 @@
         "source_name": "FOX 5 San Diego"
     },
     {
-        "title": "Tijuana now has the San Diego border region\u2019s only nonstop flight to this major Asian capital - The San Diego Union-Tribune",
-        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zYW5kaWVnb3VuaW9udHJpYnVuZS5jb20vMjAyNC8wNy8xMy90aWp1YW5hLW5vdy1oYXMtdGhlLXNhbi1kaWVnby1ib3JkZXItcmVnaW9ucy1vbmx5LW5vbnN0b3AtZmxpZ2h0LXRvLXRoaXMtbWFqb3ItYXNpYW4tY2FwaXRhbC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 12:00:45 GMT",
-        "source_url": "https://www.sandiegouniontribune.com",
-        "source_name": "The San Diego Union-Tribune"
-    },
-    {
         "title": "High bacteria levels prompt water contact closures at these San Diego County beaches - NBC San Diego",
         "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5iY3NhbmRpZWdvLmNvbS9uZXdzL2xvY2FsL2hpZ2gtYmFjdGVyaWEtbGV2ZWxzLXByb21wdC13YXRlci1jb250YWN0LWNsb3N1cmVzLXNhbi1kaWVnby1jb3VudHktYmVhY2hlcy8zNTY1MjY2L9IBgQFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9oaWdoLWJhY3RlcmlhLWxldmVscy1wcm9tcHQtd2F0ZXItY29udGFjdC1jbG9zdXJlcy1zYW4tZGllZ28tY291bnR5LWJlYWNoZXMvMzU2NTI2Ni8_YW1wPTE?oc=5",
         "description": [],
         "pub_date": "Sun, 14 Jul 2024 02:50:06 GMT",
         "source_url": "https://www.nbcsandiego.com",
         "source_name": "NBC San Diego"
+    },
+    {
+        "title": "Tijuana now has the San Diego border region\u2019s only nonstop flight to this major Asian capital - The San Diego Union-Tribune",
+        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zYW5kaWVnb3VuaW9udHJpYnVuZS5jb20vMjAyNC8wNy8xMy90aWp1YW5hLW5vdy1oYXMtdGhlLXNhbi1kaWVnby1ib3JkZXItcmVnaW9ucy1vbmx5LW5vbnN0b3AtZmxpZ2h0LXRvLXRoaXMtbWFqb3ItYXNpYW4tY2FwaXRhbC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 12:00:45 GMT",
+        "source_url": "https://www.sandiegouniontribune.com",
+        "source_name": "The San Diego Union-Tribune"
     },
     {
         "title": "Rapper \u2018Boosie\u2019 cleared of firearm charge in San Diego arrest - FOX 5 San Diego",
@@ -56,20 +56,20 @@
         "source_name": "FOX 5 San Diego"
     },
     {
-        "title": "Ex-San Diego Politico Peter Navarro Set to Speak at GOP Convention, Get Married - Times of San Diego",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9wb2xpdGljcy8yMDI0LzA3LzEzL2V4LXNhbi1kaWVnby1wb2xpdGljby1wZXRlci1uYXZhcnJvLXNldC10by1zcGVhay1hdC1nb3AtY29udmVudGlvbi1nZXQtbWFycmllZC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 15:30:00 GMT",
-        "source_url": "https://timesofsandiego.com",
-        "source_name": "Times of San Diego"
-    },
-    {
         "title": "Twitter & Instagram Tips: Who To Follow \u2018Outside\u2019 Comic-Con 2024 Edition - San Diego Comic-Con Unofficial Blog",
         "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvdHdpdHRlci1pbnN0YWdyYW0tdGlwcy13aG8tdG8tZm9sbG93LW91dHNpZGUtY29taWMtY29uLTIwMjQtZWRpdGlvbi_SAQA?oc=5",
         "description": [],
         "pub_date": "Sat, 13 Jul 2024 15:04:12 GMT",
         "source_url": "https://sdccblog.com",
         "source_name": "San Diego Comic-Con Unofficial Blog"
+    },
+    {
+        "title": "Ex-San Diego Politico Peter Navarro Set to Speak at GOP Convention, Get Married - Times of San Diego",
+        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9wb2xpdGljcy8yMDI0LzA3LzEzL2V4LXNhbi1kaWVnby1wb2xpdGljby1wZXRlci1uYXZhcnJvLXNldC10by1zcGVhay1hdC1nb3AtY29udmVudGlvbi1nZXQtbWFycmllZC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 15:30:00 GMT",
+        "source_url": "https://timesofsandiego.com",
+        "source_name": "Times of San Diego"
     },
     {
         "title": "Man died in San Diego jail after deputies wrongly placed him in cell with violent offender, outside review finds - The San Diego Union-Tribune",
@@ -96,6 +96,14 @@
         "source_name": "FOX 5 San Diego"
     },
     {
+        "title": "Deborah Harkness: The Black Bird Oracle - San Diego Reader",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9ldmVudHMvMjAyNC9qdWwvMjcvZGVib3JhaC1oYXJrbmVzcy10aGUtYmxhY2stYmlyZC1vcmFjbGUvP2V0PTMyOTIwNtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Jul 2024 00:52:48 GMT",
+        "source_url": "https://www.sandiegoreader.com",
+        "source_name": "San Diego Reader"
+    },
+    {
         "title": "Special Politics Report: What San Diego Democratic Delegates Think - Voice of San Diego",
         "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdm9pY2VvZnNhbmRpZWdvLm9yZy8yMDI0LzA3LzEzL3NwZWNpYWwtcG9saXRpY3MtcmVwb3J0LXdoYXQtc2FuLWRpZWdvLWRlbW9jcmF0aWMtZGVsZWdhdGVzLXRoaW5rL9IBAA?oc=5",
         "description": [],
@@ -112,6 +120,14 @@
         "source_name": "Times of San Diego"
     },
     {
+        "title": "Viz Media San Diego Comic-Con 2024 Exclusives - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvdml6LW1lZGlhLXNhbi1kaWVnby1jb21pYy1jb24tMjAyNC1leGNsdXNpdmVzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 04:22:55 GMT",
+        "source_url": "https://sdccblog.com",
+        "source_name": "San Diego Comic-Con Unofficial Blog"
+    },
+    {
         "title": "San Diego police release videos of officer fatally shooting man with knife in La Jolla - NBC San Diego",
         "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5iY3NhbmRpZWdvLmNvbS9uZXdzL2xvY2FsL2xhLWpvbGxhLXNob290aW5nLXNhbi1kaWVnby1wb2xpY2UtYm9keS13b3JuLWNhbWVyYS1mb290YWdlLzM1NjQ5ODcv0gFxaHR0cHM6Ly93d3cubmJjc2FuZGllZ28uY29tL25ld3MvbG9jYWwvbGEtam9sbGEtc2hvb3Rpbmctc2FuLWRpZWdvLXBvbGljZS1ib2R5LXdvcm4tY2FtZXJhLWZvb3RhZ2UvMzU2NDk4Ny8_YW1wPTE?oc=5",
         "description": [],
@@ -120,20 +136,12 @@
         "source_name": "NBC San Diego"
     },
     {
-        "title": "Doctor Who & Star Trek Teaming Up for Panel & Offsite at San Diego Comic-Con 2024 - San Diego Comic-Con Unofficial Blog",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvZG9jdG9yLXdoby1zdGFyLXRyZWstdGVhbWluZy11cC1mb3ItcGFuZWwtb2Zmc2l0ZS1hdC1zYW4tZGllZ28tY29taWMtY29uLTIwMjQv0gEA?oc=5",
+        "title": "Live Arts Fest, San Diego Bayfest, Cardiff Dog Days of Summer - San Diego Reader",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9uZXdzLzIwMjQvanVsLzEzL2xpdmUtYXJ0cy1mZXN0LXNhbi1kaWVnby1iYXlmZXN0LWNhcmRpZmYtZG9nLWRheXMtb2Ytc3VtbWVyL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 12 Jul 2024 18:45:20 GMT",
-        "source_url": "https://sdccblog.com",
-        "source_name": "San Diego Comic-Con Unofficial Blog"
-    },
-    {
-        "title": "5 things to do in San Diego this weekend - FOX 5 San Diego",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9lbnRlcnRhaW5tZW50LzUtdGhpbmdzLXRvLWRvLWluLXNhbi1kaWVnby10aGlzLXdlZWtlbmQtNS_SAVZodHRwczovL2ZveDVzYW5kaWVnby5jb20vZW50ZXJ0YWlubWVudC81LXRoaW5ncy10by1kby1pbi1zYW4tZGllZ28tdGhpcy13ZWVrZW5kLTUvYW1wLw?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 19:55:03 GMT",
-        "source_url": "https://fox5sandiego.com",
-        "source_name": "FOX 5 San Diego"
+        "pub_date": "Sat, 13 Jul 2024 19:03:21 GMT",
+        "source_url": "https://www.sandiegoreader.com",
+        "source_name": "San Diego Reader"
     },
     {
         "title": "San Diego's fight for beachside yoga classes heads to Federal Court - CBS News 8",
@@ -152,28 +160,12 @@
         "source_name": "The San Diego Union-Tribune"
     },
     {
-        "title": "Deborah Harkness: The Black Bird Oracle - San Diego Reader",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9ldmVudHMvMjAyNC9qdWwvMjcvZGVib3JhaC1oYXJrbmVzcy10aGUtYmxhY2stYmlyZC1vcmFjbGUvP2V0PTMyOTIwNtIBAA?oc=5",
+        "title": "The Best of San Diego - San Diego Reader",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9ldmVudHMvMjAyNC9hdWcvMTUvdGhlLWJlc3Qtb2Ytc2FuLWRpZWdvLz9ldD0zMjkxOTfSAQA?oc=5",
         "description": [],
-        "pub_date": "Sun, 14 Jul 2024 00:52:48 GMT",
+        "pub_date": "Sun, 14 Jul 2024 00:12:58 GMT",
         "source_url": "https://www.sandiegoreader.com",
         "source_name": "San Diego Reader"
-    },
-    {
-        "title": "California Coastal Commission Approves Safe Homeless Parking Expansion Near Harbor Island - Times of San Diego",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9saWZlLzIwMjQvMDcvMTIvY2FsaWZvcm5pYS1jb2FzdGFsLWNvbW1pc3Npb24tYXBwcm92ZXMtc2FmZS1wYXJraW5nLXByb2dyYW0tZXhwYW5zaW9uL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 06:45:35 GMT",
-        "source_url": "https://timesofsandiego.com",
-        "source_name": "Times of San Diego"
-    },
-    {
-        "title": "San Diego County jails will start screenings for drugs, contraband. Some say it's not enough - NBC San Diego",
-        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9zYW4tZGllZ28tY291bnR5LWphaWxzLXdpbGwtc3RhcnQtc2NyZWVuaW5ncy1mb3ItZHJ1Z3MtY29udHJhYmFuZC1zb21lLXNheS1pdHMtbm90LWVub3VnaC8zNTY1NDc0L9IBjwFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9zYW4tZGllZ28tY291bnR5LWphaWxzLXdpbGwtc3RhcnQtc2NyZWVuaW5ncy1mb3ItZHJ1Z3MtY29udHJhYmFuZC1zb21lLXNheS1pdHMtbm90LWVub3VnaC8zNTY1NDc0Lz9hbXA9MQ?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Jul 2024 05:42:36 GMT",
-        "source_url": "https://www.nbcsandiego.com",
-        "source_name": "NBC San Diego"
     },
     {
         "title": "Man stabbed with icepick in Little Italy - FOX 5 San Diego",
@@ -184,12 +176,28 @@
         "source_name": "FOX 5 San Diego"
     },
     {
-        "title": "Gotta Catch The Pok\u00e9mon Company at San Diego Comic-Con 2024 - San Diego Comic-Con Unofficial Blog",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvZ290dGEtY2F0Y2gtdGhlLXBva2Vtb24tY29tcGFueS1hdC1zYW4tZGllZ28tY29taWMtY29uLTIwMjQv0gEA?oc=5",
+        "title": "San Diego County jails will start screenings for drugs, contraband. Some say it's not enough - NBC San Diego",
+        "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9zYW4tZGllZ28tY291bnR5LWphaWxzLXdpbGwtc3RhcnQtc2NyZWVuaW5ncy1mb3ItZHJ1Z3MtY29udHJhYmFuZC1zb21lLXNheS1pdHMtbm90LWVub3VnaC8zNTY1NDc0L9IBjwFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9zYW4tZGllZ28tY291bnR5LWphaWxzLXdpbGwtc3RhcnQtc2NyZWVuaW5ncy1mb3ItZHJ1Z3MtY29udHJhYmFuZC1zb21lLXNheS1pdHMtbm90LWVub3VnaC8zNTY1NDc0Lz9hbXA9MQ?oc=5",
         "description": [],
-        "pub_date": "Fri, 12 Jul 2024 13:35:15 GMT",
+        "pub_date": "Sun, 14 Jul 2024 04:32:29 GMT",
+        "source_url": "https://www.nbcsandiego.com",
+        "source_name": "NBC San Diego"
+    },
+    {
+        "title": "Doctor Who & Star Trek Teaming Up for Panel & Offsite at San Diego Comic-Con 2024 - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvZG9jdG9yLXdoby1zdGFyLXRyZWstdGVhbWluZy11cC1mb3ItcGFuZWwtb2Zmc2l0ZS1hdC1zYW4tZGllZ28tY29taWMtY29uLTIwMjQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 18:45:20 GMT",
         "source_url": "https://sdccblog.com",
         "source_name": "San Diego Comic-Con Unofficial Blog"
+    },
+    {
+        "title": "Know about a great place to work in San Diego? Make a nomination - The San Diego Union-Tribune",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzE0L2tub3ctYWJvdXQtYS1ncmVhdC1wbGFjZS10by13b3JrLWluLXNhbi1kaWVnby1tYWtlLWEtbm9taW5hdGlvbi_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Jul 2024 12:02:00 GMT",
+        "source_url": "https://www.sandiegouniontribune.com",
+        "source_name": "The San Diego Union-Tribune"
     },
     {
         "title": "Cool photos of cars at Day at the Bay! - Cool San Diego Sights!",
@@ -200,60 +208,12 @@
         "source_name": "Cool San Diego Sights!"
     },
     {
-        "title": "The Best of San Diego - San Diego Reader",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9ldmVudHMvMjAyNC9hdWcvMTUvdGhlLWJlc3Qtb2Ytc2FuLWRpZWdvLz9ldD0zMjkxOTfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Jul 2024 00:12:58 GMT",
-        "source_url": "https://www.sandiegoreader.com",
-        "source_name": "San Diego Reader"
-    },
-    {
-        "title": "San Diego councilman repeats his support for keeping La Jolla Cove open - The San Diego Union-Tribune",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEzL3Nhbi1kaWVnby1jb3VuY2lsbWFuLXJlcGVhdHMtaGlzLXN1cHBvcnQtZm9yLWtlZXBpbmctbGEtam9sbGEtY292ZS1vcGVuL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 19:49:15 GMT",
-        "source_url": "https://www.sandiegouniontribune.com",
-        "source_name": "The San Diego Union-Tribune"
-    },
-    {
         "title": "Girls Scouts San Diego camps - Star-News",
         "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnRoZXN0YXJuZXdzLmNvbS9naXJscy1zY291dHMtc2FuLWRpZWdvLWNhbXBzL9IBAA?oc=5",
         "description": [],
         "pub_date": "Sat, 13 Jul 2024 15:05:01 GMT",
         "source_url": "https://www.thestarnews.com",
         "source_name": "Star-News"
-    },
-    {
-        "title": "Fighting back against corporate investors buying up San Diego's homes - CBS News 8",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmNiczguY29tL2FydGljbGUvbmV3cy9sb2NhbC9jb3Jwb3JhdGUtaW52ZXN0b3JzLWJ1eWluZy11cC1zYW4tZGllZ29zLWhvbWVzLzUwOS1iYTk2MzdlMS1iZDIyLTQyMzAtYjY2NC01NGJmYjY4NGZhMDfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 15:39:00 GMT",
-        "source_url": "https://www.cbs8.com",
-        "source_name": "CBS News 8"
-    },
-    {
-        "title": "3-Day Somatic Healing With Body Work and Sacred Plant Medicine Retreat - FOX 5 San Diego",
-        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL2ZveDVzYW5kaWVnby5jb20vY29tbXVuaXR5LWNhbGVuZGFyLyMhL2RldGFpbHMvM0RBWS1TT01BVElDLUhFQUxJTkctV0lUSC1CT0RZLVdPUkstQU5ELVNBQ1JFRC1QTEFOVC1NRURJQ0lORS1SRVRSRUFULzEzODAzOTQ0LzIwMjQtMDctMTNUMDDSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 18:29:38 GMT",
-        "source_url": "https://fox5sandiego.com",
-        "source_name": "FOX 5 San Diego"
-    },
-    {
-        "title": "California heat has immigration activists bracing for a humanitarian crisis - KPBS",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmtwYnMub3JnL25ld3MvbmF0aW9uYWwvMjAyNC8wNy8xMy9jYWxpZm9ybmlhLWhlYXQtaGFzLWltbWlncmF0aW9uLWFjdGl2aXN0cy1icmFjaW5nLWZvci1hLWh1bWFuaXRhcmlhbi1jcmlzaXPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 09:00:00 GMT",
-        "source_url": "https://www.kpbs.org",
-        "source_name": "KPBS"
-    },
-    {
-        "title": "Viz Media San Diego Comic-Con 2024 Exclusives - San Diego Comic-Con Unofficial Blog",
-        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvdml6LW1lZGlhLXNhbi1kaWVnby1jb21pYy1jb24tMjAyNC1leGNsdXNpdmVzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 04:22:55 GMT",
-        "source_url": "https://sdccblog.com",
-        "source_name": "San Diego Comic-Con Unofficial Blog"
     },
     {
         "title": "The House of Venus - San Diego Reader",
@@ -264,12 +224,44 @@
         "source_name": "San Diego Reader"
     },
     {
-        "title": "San Diego OK\u2019d more new homes in 2023 than any year in decades - The San Diego Union-Tribune",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEyL3Nhbi1kaWVnby1va2QtbW9yZS1uZXctaG9tZXMtaW4tMjAyMy10aGFuLWFueS15ZWFyLWluLWRlY2FkZXMv0gEA?oc=5",
+        "title": "5 things to do in San Diego this weekend - FOX 5 San Diego",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9lbnRlcnRhaW5tZW50LzUtdGhpbmdzLXRvLWRvLWluLXNhbi1kaWVnby10aGlzLXdlZWtlbmQtNS_SAVZodHRwczovL2ZveDVzYW5kaWVnby5jb20vZW50ZXJ0YWlubWVudC81LXRoaW5ncy10by1kby1pbi1zYW4tZGllZ28tdGhpcy13ZWVrZW5kLTUvYW1wLw?oc=5",
         "description": [],
-        "pub_date": "Fri, 12 Jul 2024 17:09:07 GMT",
+        "pub_date": "Fri, 12 Jul 2024 19:55:03 GMT",
+        "source_url": "https://fox5sandiego.com",
+        "source_name": "FOX 5 San Diego"
+    },
+    {
+        "title": "San Diego councilman repeats his support for keeping La Jolla Cove open - The San Diego Union-Tribune",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEzL3Nhbi1kaWVnby1jb3VuY2lsbWFuLXJlcGVhdHMtaGlzLXN1cHBvcnQtZm9yLWtlZXBpbmctbGEtam9sbGEtY292ZS1vcGVuL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 19:49:15 GMT",
         "source_url": "https://www.sandiegouniontribune.com",
         "source_name": "The San Diego Union-Tribune"
+    },
+    {
+        "title": "Gotta Catch The Pok\u00e9mon Company at San Diego Comic-Con 2024 - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvZ290dGEtY2F0Y2gtdGhlLXBva2Vtb24tY29tcGFueS1hdC1zYW4tZGllZ28tY29taWMtY29uLTIwMjQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 13:35:15 GMT",
+        "source_url": "https://sdccblog.com",
+        "source_name": "San Diego Comic-Con Unofficial Blog"
+    },
+    {
+        "title": "California Coastal Commission Approves Safe Homeless Parking Expansion Near Harbor Island - Times of San Diego",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9saWZlLzIwMjQvMDcvMTIvY2FsaWZvcm5pYS1jb2FzdGFsLWNvbW1pc3Npb24tYXBwcm92ZXMtc2FmZS1wYXJraW5nLXByb2dyYW0tZXhwYW5zaW9uL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 06:45:35 GMT",
+        "source_url": "https://timesofsandiego.com",
+        "source_name": "Times of San Diego"
+    },
+    {
+        "title": "Timeless: an iconic lowrider in San Diego! - Cool San Diego Sights!",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vY29vbHNhbmRpZWdvc2lnaHRzLmNvbS8yMDI0LzA3LzEzL3RpbWVsZXNzLWFuLWljb25pYy1sb3dyaWRlci1pbi1zYW4tZGllZ28v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 22:16:49 GMT",
+        "source_url": "https://coolsandiegosights.com",
+        "source_name": "Cool San Diego Sights!"
     },
     {
         "title": "Exploring San Diego's growing food and drink scene - KPBS",
@@ -288,6 +280,14 @@
         "source_name": "ABC 10 News San Diego KGTV"
     },
     {
+        "title": "3-Day Somatic Healing With Body Work and Sacred Plant Medicine Retreat - FOX 5 San Diego",
+        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL2ZveDVzYW5kaWVnby5jb20vY29tbXVuaXR5LWNhbGVuZGFyLyMhL2RldGFpbHMvM0RBWS1TT01BVElDLUhFQUxJTkctV0lUSC1CT0RZLVdPUkstQU5ELVNBQ1JFRC1QTEFOVC1NRURJQ0lORS1SRVRSRUFULzEzODAzOTQ0LzIwMjQtMDctMTNUMDDSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 18:29:38 GMT",
+        "source_url": "https://fox5sandiego.com",
+        "source_name": "FOX 5 San Diego"
+    },
+    {
         "title": "City of San Diego Credit Boosted by Fitch Ratings Due to Strong Local Economy, Demographics - Times of San Diego",
         "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vcG9saXRpY3MvMjAyNC8wNy8xMi9jaXR5LW9mLXNhbi1kaWVnby1jcmVkaXQtYm9vc3RlZC1ieS1maXRjaC1yYXRpbmdzLWR1ZS10by1zdHJvbmctbG9jYWwtZWNvbm9teS1kZW1vZ3JhcGhpY3Mv0gEA?oc=5",
         "description": [],
@@ -296,12 +296,28 @@
         "source_name": "Times of San Diego"
     },
     {
-        "title": "UC San Diego Health, city garner partnership to fight opioid addiction - FOX 5 San Diego",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2xvY2FsLW5ld3MvdWMtc2FuLWRpZWdvLWhlYWx0aC1jaXR5LWdhcm5lci1wYXJ0bmVyc2hpcC10by1maWdodC1vcGlvaWQtYWRkaWN0aW9uL9IBc2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2xvY2FsLW5ld3MvdWMtc2FuLWRpZWdvLWhlYWx0aC1jaXR5LWdhcm5lci1wYXJ0bmVyc2hpcC10by1maWdodC1vcGlvaWQtYWRkaWN0aW9uL2FtcC8?oc=5",
+        "title": "Fighting back against corporate investors buying up San Diego's homes - CBS News 8",
+        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmNiczguY29tL2FydGljbGUvbmV3cy9sb2NhbC9jb3Jwb3JhdGUtaW52ZXN0b3JzLWJ1eWluZy11cC1zYW4tZGllZ29zLWhvbWVzLzUwOS1iYTk2MzdlMS1iZDIyLTQyMzAtYjY2NC01NGJmYjY4NGZhMDfSAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 13 Jul 2024 16:45:49 GMT",
-        "source_url": "https://fox5sandiego.com",
-        "source_name": "FOX 5 San Diego"
+        "pub_date": "Fri, 12 Jul 2024 15:39:00 GMT",
+        "source_url": "https://www.cbs8.com",
+        "source_name": "CBS News 8"
+    },
+    {
+        "title": "Under the Tents 2024: Rhode Montijo, Now or Never Comics, Matt Hebb, James Silvani, Alex Pardee - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvdW5kZXItdGhlLXRlbnRzLTIwMjQtcmhvZGUtbW9udGlqby1ub3ctb3ItbmV2ZXItY29taWNzLW1hdHQtaGViYi1qYW1lcy1zaWx2YW5pLWFsZXgtcGFyZGVlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Jul 2024 01:00:25 GMT",
+        "source_url": "https://sdccblog.com",
+        "source_name": "San Diego Comic-Con Unofficial Blog"
+    },
+    {
+        "title": "California heat has immigration activists bracing for a humanitarian crisis - KPBS",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmtwYnMub3JnL25ld3MvbmF0aW9uYWwvMjAyNC8wNy8xMy9jYWxpZm9ybmlhLWhlYXQtaGFzLWltbWlncmF0aW9uLWFjdGl2aXN0cy1icmFjaW5nLWZvci1hLWh1bWFuaXRhcmlhbi1jcmlzaXPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 09:00:00 GMT",
+        "source_url": "https://www.kpbs.org",
+        "source_name": "KPBS"
     },
     {
         "title": "One of San Diego Fire's first helicopter rescue medics retires - CBS News 8",
@@ -312,10 +328,42 @@
         "source_name": "CBS News 8"
     },
     {
-        "title": "Hulu Animayhem Returns to San Diego Comic-Con - San Diego Comic-Con Unofficial Blog",
-        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvaHVsdS1hbmltYXloZW0tcmV0dXJucy10by1zYW4tZGllZ28tY29taWMtY29uL9IBAA?oc=5",
+        "title": "San Diego Public Library Hosting Week-Long Events for Pride 2024 - Times of San Diego",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9saWZlLzIwMjQvMDcvMTIvc2FuLWRpZWdvLXB1YmxpYy1saWJyYXJ5LWhvc3Rpbmctd2Vlay1sb25nLWV2ZW50cy1mb3ItcHJpZGUtMjAyNC_SAQA?oc=5",
         "description": [],
-        "pub_date": "Fri, 12 Jul 2024 13:19:20 GMT",
+        "pub_date": "Sat, 13 Jul 2024 02:05:24 GMT",
+        "source_url": "https://timesofsandiego.com",
+        "source_name": "Times of San Diego"
+    },
+    {
+        "title": "21 unique San Diego coffee experiences - The San Diego Union-Tribune",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEyLzIxLXVuaXF1ZS1zYW4tZGllZ28tY29mZmVlLWV4cGVyaWVuY2VzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 13:02:31 GMT",
+        "source_url": "https://www.sandiegouniontribune.com",
+        "source_name": "The San Diego Union-Tribune"
+    },
+    {
+        "title": "UC San Diego Health, city garner partnership to fight opioid addiction - FOX 5 San Diego",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2xvY2FsLW5ld3MvdWMtc2FuLWRpZWdvLWhlYWx0aC1jaXR5LWdhcm5lci1wYXJ0bmVyc2hpcC10by1maWdodC1vcGlvaWQtYWRkaWN0aW9uL9IBc2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2xvY2FsLW5ld3MvdWMtc2FuLWRpZWdvLWhlYWx0aC1jaXR5LWdhcm5lci1wYXJ0bmVyc2hpcC10by1maWdodC1vcGlvaWQtYWRkaWN0aW9uL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 16:45:49 GMT",
+        "source_url": "https://fox5sandiego.com",
+        "source_name": "FOX 5 San Diego"
+    },
+    {
+        "title": "Hispanic homeownership is on the rise in San Diego. Here's why - CBS News 8",
+        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnM4LmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L291ci1jb21tdW5pdHkvaGlzcGFuaWMtaG9tZW93bmVyc2hpcC1yaXNlLXNhbi1kaWVnby81MDktNGVhOTQ4MmQtM2VhMi00ZmU4LTk5MjgtNDllMGJiMTk0Nzlh0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jul 2024 05:44:00 GMT",
+        "source_url": "https://www.cbs8.com",
+        "source_name": "CBS News 8"
+    },
+    {
+        "title": "Useful Apps for San Diego Comic-Con 2024 - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvdXNlZnVsLWFwcHMtZm9yLXNhbi1kaWVnby1jb21pYy1jb24tMjAyNC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Jul 2024 02:00:19 GMT",
         "source_url": "https://sdccblog.com",
         "source_name": "San Diego Comic-Con Unofficial Blog"
     },
@@ -328,34 +376,66 @@
         "source_name": "KPBS"
     },
     {
-        "title": "21 unique San Diego coffee experiences - The San Diego Union-Tribune",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEyLzIxLXVuaXF1ZS1zYW4tZGllZ28tY29mZmVlLWV4cGVyaWVuY2VzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 13:02:31 GMT",
-        "source_url": "https://www.sandiegouniontribune.com",
-        "source_name": "The San Diego Union-Tribune"
-    },
-    {
-        "title": "San Diego Public Library Hosting Week-Long Events for Pride 2024 - Times of San Diego",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9saWZlLzIwMjQvMDcvMTIvc2FuLWRpZWdvLXB1YmxpYy1saWJyYXJ5LWhvc3Rpbmctd2Vlay1sb25nLWV2ZW50cy1mb3ItcHJpZGUtMjAyNC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 02:05:24 GMT",
-        "source_url": "https://timesofsandiego.com",
-        "source_name": "Times of San Diego"
-    },
-    {
-        "title": "Hispanic homeownership is on the rise in San Diego. Here's why - CBS News 8",
-        "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnM4LmNvbS9hcnRpY2xlL25ld3MvY29tbXVuaXR5L291ci1jb21tdW5pdHkvaGlzcGFuaWMtaG9tZW93bmVyc2hpcC1yaXNlLXNhbi1kaWVnby81MDktNGVhOTQ4MmQtM2VhMi00ZmU4LTk5MjgtNDllMGJiMTk0Nzlh0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 05:44:00 GMT",
-        "source_url": "https://www.cbs8.com",
-        "source_name": "CBS News 8"
-    },
-    {
         "title": "San Diego Movers: Stress-Free - San Diego Reader",
         "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9jbGFzc2lmaWVkcy9jYXRlZ29yeS9zZXJ2aWNlcy8zNjMyOS9zYW4tZGllZ28tbW92ZXJzLXN0cmVzcy1mcmVlL9IBAA?oc=5",
         "description": [],
         "pub_date": "Sat, 13 Jul 2024 01:05:02 GMT",
+        "source_url": "https://www.sandiegoreader.com",
+        "source_name": "San Diego Reader"
+    },
+    {
+        "title": "San Diego Blood Bank Urgently Looks for Donors to Support Texas During Hurricane Beryl - Times of San Diego",
+        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vaGVhbHRoLzIwMjQvMDcvMTIvc2FuLWRpZWdvLWJsb29kLWJhbmstdXJnZW50bHktbG9va3MtZm9yLWRvbm9ycy10by1zdXBwb3J0LXRleGFzLWR1cmluZy1odXJyaWNhbmUtYmVyeWwv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 21:23:57 GMT",
+        "source_url": "https://timesofsandiego.com",
+        "source_name": "Times of San Diego"
+    },
+    {
+        "title": "As COVID Cases Rise, Health Officials Encourage Vaccinations, Testing - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvL2NvdmlkLWNhc2VzLXJpc2UtaGVhbHRoLW9mZmljaWFscy1lbmNvdXJhZ2UtdmFjY2luYXRpb25zLXRlc3RpbmfSAXdodHRwczovL3BhdGNoLmNvbS9jYWxpZm9ybmlhL3Nhbi1kaWVnby9hbXAvMzE4MTEyNDcvYXMtY292aWQtY2FzZXMtcmlzZS1oZWFsdGgtb2ZmaWNpYWxzLWVuY291cmFnZS12YWNjaW5hdGlvbnMtdGVzdGluZw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 18:04:25 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Michael Smolens: San Diego faces minimal water cutbacks under state conservation plan - The San Diego Union-Tribune",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEyL3Nhbi1kaWVnby1mYWNlcy1taW5pbWFsLXdhdGVyLWN1dGJhY2tzLXVuZGVyLXN0YXRlLWNvbnNlcnZhdGlvbi1wbGFuL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 12:00:48 GMT",
+        "source_url": "https://www.sandiegouniontribune.com",
+        "source_name": "The San Diego Union-Tribune"
+    },
+    {
+        "title": "These Are The Most And Least Educated Cities In CA: Report - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvL3RoZXNlLWFyZS1tb3N0LWxlYXN0LWVkdWNhdGVkLWNpdGllcy1jYS1yZXBvcnTSAW1odHRwczovL3BhdGNoLmNvbS9jYWxpZm9ybmlhL3Nhbi1kaWVnby9hbXAvMzE4MTEyMzcvdGhlc2UtYXJlLXRoZS1tb3N0LWFuZC1sZWFzdC1lZHVjYXRlZC1jaXRpZXMtaW4tY2EtcmVwb3J0?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 17:57:48 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Lori Weisberg - Long Beach Press Telegram",
+        "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnByZXNzdGVsZWdyYW0uY29tL2F1dGhvci9sb3JpLXdlaXNiZXJnL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 17:29:27 GMT",
+        "source_url": "https://www.presstelegram.com",
+        "source_name": "Long Beach Press Telegram"
+    },
+    {
+        "title": "Hulu Animayhem Returns to San Diego Comic-Con - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvaHVsdS1hbmltYXloZW0tcmV0dXJucy10by1zYW4tZGllZ28tY29taWMtY29uL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 13:19:20 GMT",
+        "source_url": "https://sdccblog.com",
+        "source_name": "San Diego Comic-Con Unofficial Blog"
+    },
+    {
+        "title": "The Wilma to Power - San Diego Reader",
+        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9uZXdzLzIwMjQvanVsLzEyL3NkcXQtdGhlLXdpbG1hLXRvLXBvd2VyL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 17:04:58 GMT",
         "source_url": "https://www.sandiegoreader.com",
         "source_name": "San Diego Reader"
     },
@@ -368,84 +448,12 @@
         "source_name": "San Diego Magazine"
     },
     {
-        "title": "Under the Tents 2024: Rhode Montijo, Now or Never Comics, Matt Hebb, James Silvani, Alex Pardee - San Diego Comic-Con Unofficial Blog",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvdW5kZXItdGhlLXRlbnRzLTIwMjQtcmhvZGUtbW9udGlqby1ub3ctb3ItbmV2ZXItY29taWNzLW1hdHQtaGViYi1qYW1lcy1zaWx2YW5pLWFsZXgtcGFyZGVlL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Jul 2024 01:00:25 GMT",
-        "source_url": "https://sdccblog.com",
-        "source_name": "San Diego Comic-Con Unofficial Blog"
-    },
-    {
-        "title": "As COVID Cases Rise, Health Officials Encourage Vaccinations, Testing - San Diego, CA Patch",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvL2NvdmlkLWNhc2VzLXJpc2UtaGVhbHRoLW9mZmljaWFscy1lbmNvdXJhZ2UtdmFjY2luYXRpb25zLXRlc3RpbmfSAXdodHRwczovL3BhdGNoLmNvbS9jYWxpZm9ybmlhL3Nhbi1kaWVnby9hbXAvMzE4MTEyNDcvYXMtY292aWQtY2FzZXMtcmlzZS1oZWFsdGgtb2ZmaWNpYWxzLWVuY291cmFnZS12YWNjaW5hdGlvbnMtdGVzdGluZw?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 18:04:25 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "San Diego, CA Patch"
-    },
-    {
-        "title": "Michael Smolens: San Diego faces minimal water cutbacks under state conservation plan - The San Diego Union-Tribune",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEyL3Nhbi1kaWVnby1mYWNlcy1taW5pbWFsLXdhdGVyLWN1dGJhY2tzLXVuZGVyLXN0YXRlLWNvbnNlcnZhdGlvbi1wbGFuL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 12:00:48 GMT",
-        "source_url": "https://www.sandiegouniontribune.com",
-        "source_name": "The San Diego Union-Tribune"
-    },
-    {
-        "title": "San Diego Blood Bank Urgently Looks for Donors to Support Texas During Hurricane Beryl - Times of San Diego",
-        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3RpbWVzb2ZzYW5kaWVnby5jb20vaGVhbHRoLzIwMjQvMDcvMTIvc2FuLWRpZWdvLWJsb29kLWJhbmstdXJnZW50bHktbG9va3MtZm9yLWRvbm9ycy10by1zdXBwb3J0LXRleGFzLWR1cmluZy1odXJyaWNhbmUtYmVyeWwv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 21:23:57 GMT",
-        "source_url": "https://timesofsandiego.com",
-        "source_name": "Times of San Diego"
-    },
-    {
-        "title": "The Wilma to Power - San Diego Reader",
-        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnNhbmRpZWdvcmVhZGVyLmNvbS9uZXdzLzIwMjQvanVsLzEyL3NkcXQtdGhlLXdpbG1hLXRvLXBvd2VyL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 17:04:58 GMT",
-        "source_url": "https://www.sandiegoreader.com",
-        "source_name": "San Diego Reader"
-    },
-    {
-        "title": "These Are The Most And Least Educated Cities In CA: Report - Patch",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vcGF0Y2guY29tL2NhbGlmb3JuaWEvc2FuLWRpZWdvL3RoZXNlLWFyZS1tb3N0LWxlYXN0LWVkdWNhdGVkLWNpdGllcy1jYS1yZXBvcnTSAW1odHRwczovL3BhdGNoLmNvbS9jYWxpZm9ybmlhL3Nhbi1kaWVnby9hbXAvMzE4MTEyMzcvdGhlc2UtYXJlLXRoZS1tb3N0LWFuZC1sZWFzdC1lZHVjYXRlZC1jaXRpZXMtaW4tY2EtcmVwb3J0?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 17:57:48 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
         "title": "Don't forget to check on seniors during San Diego's hotter months - CBS News 8",
         "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmNiczguY29tL2FydGljbGUvbmV3cy9sb2NhbC9jaGVjay1vbi1zZW5pb3JzLXNhbi1kaWVnb3MtaG90dGVyLW1vbnRocy81MDktZmVhOTY3ZmEtZjIwMy00MGFhLTllMTQtN2Y4MjVmMWRkY2Ix0gEA?oc=5",
         "description": [],
         "pub_date": "Sat, 13 Jul 2024 01:20:00 GMT",
         "source_url": "https://www.cbs8.com",
         "source_name": "CBS News 8"
-    },
-    {
-        "title": "Lori Weisberg - Long Beach Press Telegram",
-        "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnByZXNzdGVsZWdyYW0uY29tL2F1dGhvci9sb3JpLXdlaXNiZXJnL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 17:29:27 GMT",
-        "source_url": "https://www.presstelegram.com",
-        "source_name": "Long Beach Press Telegram"
-    },
-    {
-        "title": "Useful Apps for San Diego Comic-Con 2024 - San Diego Comic-Con Unofficial Blog",
-        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvdXNlZnVsLWFwcHMtZm9yLXNhbi1kaWVnby1jb21pYy1jb24tMjAyNC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Jul 2024 02:00:19 GMT",
-        "source_url": "https://sdccblog.com",
-        "source_name": "San Diego Comic-Con Unofficial Blog"
-    },
-    {
-        "title": "How the Lowe\u2019s Foundation and SkillsUSA are meeting the critical need for skilled trades talent in San Diego a - L.A. Business First ",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9sb3NhbmdlbGVzL25ld3MvMjAyNC8wNy8xMi9sb3dlcy1mb3VuZGF0aW9uLXNraWxsc3VzYS10cmFkZXMtc2FuLWRpZWdvLmh0bWzSAWtodHRwczovL3d3dy5iaXpqb3VybmFscy5jb20vbG9zYW5nZWxlcy9uZXdzLzIwMjQvMDcvMTIvbG93ZXMtZm91bmRhdGlvbi1za2lsbHN1c2EtdHJhZGVzLXNhbi1kaWVnby5hbXAuaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 13:00:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "L.A. Business First "
     },
     {
         "title": "Summer Camp Isn\u2019t Just For Kids! - Times of San Diego",
@@ -456,6 +464,30 @@
         "source_name": "Times of San Diego"
     },
     {
+        "title": "How the Lowe\u2019s Foundation and SkillsUSA are meeting the critical need for skilled trades talent in San Diego a - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9sb3NhbmdlbGVzL25ld3MvMjAyNC8wNy8xMi9sb3dlcy1mb3VuZGF0aW9uLXNraWxsc3VzYS10cmFkZXMtc2FuLWRpZWdvLmh0bWzSAWtodHRwczovL3d3dy5iaXpqb3VybmFscy5jb20vbG9zYW5nZWxlcy9uZXdzLzIwMjQvMDcvMTIvbG93ZXMtZm91bmRhdGlvbi1za2lsbHN1c2EtdHJhZGVzLXNhbi1kaWVnby5hbXAuaHRtbA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 12 Jul 2024 13:00:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
+        "title": "Probation officers faulted for beating disabled boy in juvenile hall - The San Diego Union-Tribune",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzE0L3Byb2JhdGlvbi1vZmZpY2Vycy1mYXVsdGVkLWZvci1iZWF0aW5nLWRpc2FibGVkLWJveS1pbi1qdXZlbmlsZS1oYWxsL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Jul 2024 12:00:43 GMT",
+        "source_url": "https://www.sandiegouniontribune.com",
+        "source_name": "The San Diego Union-Tribune"
+    },
+    {
+        "title": "Books + Records Presents: Brunch + Live Jazz with JP Balmat and The Preservationists - KPBS",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtwYnMub3JnL2V2ZW50cy8yMDI0LzA3LzE0L2Jvb2tzLXJlY29yZHMtcHJlc2VudHMtYnJ1bmNoLWxpdmUtamF6ei13aXRoLWpwLWJhbG1hdC1hbmQtdGhlLXByZXNlcnZhdGlvbmlzdHPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Jul 2024 10:00:04 GMT",
+        "source_url": "https://www.kpbs.org",
+        "source_name": "KPBS"
+    },
+    {
         "title": "Wholesale prices rose 0.2% in June, slightly hotter than expected - NBC San Diego",
         "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9uYXRpb25hbC1pbnRlcm5hdGlvbmFsL3dob2xlc2FsZS1wcmljZXMtcm9zZS0wLTItaW4tanVuZS1zbGlnaHRseS1ob3R0ZXItdGhhbi1leHBlY3RlZC8zNTY0MzIyL9IBhgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9uYXRpb25hbC1pbnRlcm5hdGlvbmFsL3dob2xlc2FsZS1wcmljZXMtcm9zZS0wLTItaW4tanVuZS1zbGlnaHRseS1ob3R0ZXItdGhhbi1leHBlY3RlZC8zNTY0MzIyLz9hbXA9MQ?oc=5",
         "description": [],
@@ -464,20 +496,12 @@
         "source_name": "NBC San Diego"
     },
     {
-        "title": "Strike during Comic-Con averted as union reaches \u2018unprecedented\u2019 deal for convention workers - The San Diego Union-Tribune",
-        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zYW5kaWVnb3VuaW9udHJpYnVuZS5jb20vMjAyNC8wNy8xMi9zdHJpa2UtZHVyaW5nLWNvbWljLWNvbi1hdmVydGVkLWFzLXVuaW9uLXJlYWNoZXMtdW5wcmVjZWRlbnRlZC1kZWFsLWZvci1jb252ZW50aW9uLXdvcmtlcnMv0gEA?oc=5",
+        "title": "Peanuts San Diego Comic-Con 2024 Panel, Exclusives, Offsite, & More in Honor of 75th Anniversary - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vc2RjY2Jsb2cuY29tLzIwMjQvMDcvcGVhbnV0cy1zYW4tZGllZ28tY29taWMtY29uLTIwMjQtcGFuZWwtZXhjbHVzaXZlcy1vZmZzaXRlLW1vcmUtaW4taG9ub3Itb2YtNzV0aC1hbm5pdmVyc2FyeS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 13 Jul 2024 02:01:19 GMT",
-        "source_url": "https://www.sandiegouniontribune.com",
-        "source_name": "The San Diego Union-Tribune"
-    },
-    {
-        "title": "Books + Records Presents: Live Jazz with Gypsy Sally - KPBS",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmtwYnMub3JnL2V2ZW50cy8yMDI0LzA3LzEzL2Jvb2tzLXJlY29yZHMtcHJlc2VudHMtbGl2ZS1qYXp6LXdpdGgtZ3lwc3ktc2FsbHnSAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 13 Jul 2024 22:13:02 GMT",
-        "source_url": "https://www.kpbs.org",
-        "source_name": "KPBS"
+        "pub_date": "Thu, 11 Jul 2024 21:05:08 GMT",
+        "source_url": "https://sdccblog.com",
+        "source_name": "San Diego Comic-Con Unofficial Blog"
     },
     {
         "title": "Local restaurants that have withstood the test of time - San Diego Community Newspaper Group",
@@ -488,36 +512,12 @@
         "source_name": "San Diego Community Newspaper Group"
     },
     {
-        "title": "Sierra Club sues East County development project - The East County Californian",
-        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZWNjYWxpZm9ybmlhbi5jb20vc2llcnJhLWNsdWItc3Vlcy1lYXN0LWNvdW50eS1kZXZlbG9wbWVudC1wcm9qZWN0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 11:16:10 GMT",
-        "source_url": "https://eccalifornian.com",
-        "source_name": "The East County Californian"
-    },
-    {
         "title": "Fit Athletic Hosts Free PRIDE Yoga at The Rady Shell - There San Diego",
         "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdGhlcmVzYW5kaWVnby5jb20vZXZlbnQvZnJlZS1wcmlkZS15b2dhLXJhZHktc2hlbGwtZml0LWF0aGxldGljL9IBAA?oc=5",
         "description": [],
         "pub_date": "Fri, 12 Jul 2024 17:19:30 GMT",
         "source_url": "https://theresandiego.com",
         "source_name": "There San Diego"
-    },
-    {
-        "title": "Relativity Media and Legion M's \"The Man in the White Van\" Hits the Road for San Diego Comic-Con 2024 - San Diego Comic-Con Unofficial Blog",
-        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3NkY2NibG9nLmNvbS8yMDI0LzA3L3JlbGF0aXZpdHktbWVkaWEtYW5kLWxlZ2lvbi1tcy10aGUtbWFuLWluLXRoZS13aGl0ZS12YW4taGl0cy10aGUtcm9hZC1mb3Itc2FuLWRpZWdvLWNvbWljLWNvbi0yMDI0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 00:55:08 GMT",
-        "source_url": "https://sdccblog.com",
-        "source_name": "San Diego Comic-Con Unofficial Blog"
-    },
-    {
-        "title": "Organizer of Black Mountain hike that woman died on didn't have proper permit: San Diego - NBC San Diego",
-        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9vcmdhbml6ZXItb2YtYmxhY2stbW91bnRhaW4taGlrZS10aGF0LXdvbWFuLWRpZWQtb24tZGlkbnQtaGF2ZS1wcm9wZXItcGVybWl0LXNhbi1kaWVnby8zNTYzOTIxL9IBjAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9vcmdhbml6ZXItb2YtYmxhY2stbW91bnRhaW4taGlrZS10aGF0LXdvbWFuLWRpZWQtb24tZGlkbnQtaGF2ZS1wcm9wZXItcGVybWl0LXNhbi1kaWVnby8zNTYzOTIxLz9hbXA9MQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 01:46:28 GMT",
-        "source_url": "https://www.nbcsandiego.com",
-        "source_name": "NBC San Diego"
     },
     {
         "title": "San Diego Vegan Night Market - San Diego Reader",
@@ -528,27 +528,27 @@
         "source_name": "San Diego Reader"
     },
     {
-        "title": "Topside Terrace Presents: Saturday Night Bands with Megan Nguyen Trio - KPBS",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmtwYnMub3JnL2V2ZW50cy8yMDI0LzA3LzEzL3RvcHNpZGUtdGVycmFjZS1wcmVzZW50cy1zYXR1cmRheS1uaWdodC1iYW5kcy13aXRoLW1lZ2FuLW5ndXllbi10cmlv0gEA?oc=5",
+        "title": "San Diego Crews Help Fight Pauba Fire in Riverside County - Times of San Diego",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGltZXNvZnNhbmRpZWdvLmNvbS9jcmltZS8yMDI0LzA3LzEyL3Nhbi1kaWVnby1jcmV3cy1oZWxwLWZpZ2h0LXBhdWJhLWZpcmUtaW4tcml2ZXJzaWRlLWNvdW50eS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 13 Jul 2024 22:02:32 GMT",
+        "pub_date": "Fri, 12 Jul 2024 23:20:53 GMT",
+        "source_url": "https://timesofsandiego.com",
+        "source_name": "Times of San Diego"
+    },
+    {
+        "title": "Topside Terrace Presents: Sunday PRIDE Brunch with DJ Dr. Stoykavich - KPBS",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmtwYnMub3JnL2V2ZW50cy8yMDI0LzA3LzE0L3RvcHNpZGUtdGVycmFjZS1wcmVzZW50cy1zdW5kYXktcHJpZGUtYnJ1bmNoLXdpdGgtZGotZHItc3RveWthdmljaNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 14 Jul 2024 10:00:04 GMT",
         "source_url": "https://www.kpbs.org",
         "source_name": "KPBS"
     },
     {
-        "title": "\u2018It gets a bad wrap:\u2019 East Village block party aims to change the narrative - The San Diego Union-Tribune",
+        "title": "\u2018It gets a bad rap:\u2019 East Village block party aims to change the narrative - The San Diego Union-Tribune",
         "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS8yMDI0LzA3LzEzL2l0LWdldHMtYS1iYWQtd3JhcC1lYXN0LXZpbGxhZ2UtYmxvY2stcGFydHktYWltcy10by1jaGFuZ2UtdGhlLW5hcnJhdGl2ZS_SAQA?oc=5",
         "description": [],
         "pub_date": "Sat, 13 Jul 2024 23:29:32 GMT",
         "source_url": "https://www.sandiegouniontribune.com",
         "source_name": "The San Diego Union-Tribune"
-    },
-    {
-        "title": "City Housing Agency Concludes Review of Father Joe\u2019s Villages Programs - Voice of San Diego",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdm9pY2VvZnNhbmRpZWdvLm9yZy8yMDI0LzA3LzEyL2NpdHktaG91c2luZy1hZ2VuY3ktY29uY2x1ZGVzLXJldmlldy1vZi1mYXRoZXItam9lcy12aWxsYWdlcy1wcm9ncmFtcy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 12 Jul 2024 11:30:00 GMT",
-        "source_url": "https://voiceofsandiego.org",
-        "source_name": "Voice of San Diego"
     }
 ]
