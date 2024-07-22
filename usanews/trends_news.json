@@ -1,7 +1,7 @@
 [
     {
         "name": "Biden",
-        "summary": "Recent polls are showing setbacks for Joe Biden's presidential ambitions. An AP-NORC poll indicates that a majority of Americans believe he should withdraw from the race. In key states like Iowa and New Hampshire, Biden is trailing in polls, according to a Times/Siena poll. Several high-profile figures, including Rep. Schiff and Sen. Tester, have publicly expressed concerns about Biden's viability as a candidate. A CBS News poll suggests that Trump has widened his national lead over Biden. There are reports that House Speaker Pelosi has shared internal polling with Biden, indicating that he may not be able to win and could jeopardize the Democratic majority in the House. Amidst these challenges, there are signs that some top Democrats believe Biden will ultimately decide not to seek another term.",
+        "summary": "Recent polls and political commentary indicate significant challenges facing Joe Biden's presidential campaign. A majority of Democrats surveyed in an AP-NORC poll favor Biden's withdrawal. Polling in critical states by the Times/Siena also presents obstacles. NBC News has published a transcript of an interview with Biden addressing these concerns. Calls for Biden to drop out have come from Rep. Schiff, who cites concerns over his winnability, and House Speaker Pelosi, who reportedly shared polling data indicating his inability to secure victory. A CBS News poll shows Trump maintaining a national lead over Biden. In a similar vein, Schumer has reportedly urged Biden to step aside in the 2024 election. Despite these setbacks, some Texas delegates have shifted their support to Kamala Harris, indicating divisions within Biden's camp.",
         "items": [
             {
                 "title": "Most say Biden should withdraw from the Presidential race - AP-NORC",
@@ -11,16 +11,6 @@
                 "publisher": {
                     "href": "https://apnorc.org",
                     "title": "AP-NORC"
-                }
-            },
-            {
-                "title": "Biden Facing Challenges in Two Must-Win States, Times/Siena Polls Find - The New York Times",
-                "description": "Biden Facing Challenges in Two Must-Win States, Times/Siena Polls Find  The New York Times",
-                "published date": "Mon, 15 Jul 2024 15:01:04 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTUvdXMvcG9saXRpY3MvcGVubnN5bHZhbmlhLXZpcmdpbmlhLXBvbGxzLWJpZGVuLXRydW1wLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
                 }
             },
             {
@@ -34,6 +24,16 @@
                 }
             },
             {
+                "title": "Biden Facing Challenges in Two Must-Win States, Times/Siena Polls Find - The New York Times",
+                "description": "Biden Facing Challenges in Two Must-Win States, Times/Siena Polls Find  The New York Times",
+                "published date": "Mon, 15 Jul 2024 15:01:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTUvdXMvcG9saXRpY3MvcGVubnN5bHZhbmlhLXZpcmdpbmlhLXBvbGxzLWJpZGVuLXRydW1wLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
                 "title": "Rep. Schiff calls on Biden to drop out, citing \u2018serious concerns\u2019 that he can\u2019t win - Los Angeles Times",
                 "description": "Rep. Schiff calls on Biden to drop out, citing \u2018serious concerns\u2019 that he can\u2019t win  Los Angeles Times",
                 "published date": "Thu, 18 Jul 2024 00:43:46 GMT",
@@ -41,16 +41,6 @@
                 "publisher": {
                     "href": "https://www.latimes.com",
                     "title": "Los Angeles Times"
-                }
-            },
-            {
-                "title": "Trump's national lead over Biden grows \u2014 CBS News poll - CBS News",
-                "description": "Trump's national lead over Biden grows \u2014 CBS News poll  CBS News",
-                "published date": "Thu, 18 Jul 2024 21:40:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdHJ1bXAtcG9sbC1iaWRlbi1uYXRpb25hbC0wNy0xOC0yMDI0L9IBRmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3RydW1wLXBvbGwtYmlkZW4tbmF0aW9uYWwtMDctMTgtMjAyNC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
                 }
             },
             {
@@ -64,13 +54,13 @@
                 }
             },
             {
-                "title": "Sen. Tester calls on Biden not to seek another term - Daily Montanan",
-                "description": "Sen. Tester calls on Biden not to seek another term  Daily Montanan",
-                "published date": "Fri, 19 Jul 2024 00:37:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZGFpbHltb250YW5hbi5jb20vMjAyNC8wNy8xOC9zZW4tdGVzdGVyLWNhbGxzLW9uLWJpZGVuLW5vdC10by1zZWVrLWFub3RoZXItdGVybS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Trump's national lead over Biden grows \u2014 CBS News poll - CBS News",
+                "description": "Trump's national lead over Biden grows \u2014 CBS News poll  CBS News",
+                "published date": "Thu, 18 Jul 2024 21:40:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdHJ1bXAtcG9sbC1iaWRlbi1uYXRpb25hbC0wNy0xOC0yMDI0L9IBRmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3RydW1wLXBvbGwtYmlkZW4tbmF0aW9uYWwtMDctMTgtMjAyNC8?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://dailymontanan.com",
-                    "title": "Daily Montanan"
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
@@ -84,39 +74,49 @@
                 }
             },
             {
-                "title": "Joe Biden drops out of 2024 election: Live updates and analysis - POLITICO",
-                "description": "Joe Biden drops out of 2024 election: Live updates and analysis  POLITICO",
-                "published date": "Sun, 21 Jul 2024 18:12:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wNy8yMS9qb2UtYmlkZW4tZHJvcHMtb3V0LWVsZWN0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Schumer privately urged Biden to step aside in 2024 election: Sources - ABC News",
+                "description": "Schumer privately urged Biden to step aside in 2024 election: Sources  ABC News",
+                "published date": "Thu, 18 Jul 2024 09:33:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2NodW1lci1wcml2YXRlbHktdXJnZWQtYmlkZW4tc3RlcC1hc2lkZS0yMDI0LWVsZWN0aW9uL3N0b3J5P2lkPTExMjA0NjAxMdIBbWh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3NjaHVtZXItcHJpdmF0ZWx5LXVyZ2VkLWJpZGVuLXN0ZXAtYXNpZGUtMjAyNC1lbGVjdGlvbi9zdG9yeT9pZD0xMTIwNDYwMTE?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.politico.com",
-                    "title": "POLITICO"
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
                 }
             },
             {
-                "title": "Behind the Curtain: Top Dems now believe Biden will exit - Axios",
-                "description": "Behind the Curtain: Top Dems now believe Biden will exit  Axios",
-                "published date": "Thu, 18 Jul 2024 14:29:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzE4L3ByZXNpZGVudC1iaWRlbi1kcm9wLW91dC1lbGVjdGlvbi1kZW1vY3JhdHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Opinion | For Joe Biden, who never gave up - The Washington Post",
+                "description": "Opinion | For Joe Biden, who never gave up  The Washington Post",
+                "published date": "Mon, 22 Jul 2024 01:03:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI0LzA3LzIxL2JpZGVuLWRlY2lzaW9uLWVuZC1yZWVsZWN0aW9uLWNhcmVlci1wb2xpdGljYWwtcmVzaWxpZW5jZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.axios.com",
-                    "title": "Axios"
+                    "href": "https://www.washingtonpost.com",
+                    "title": "The Washington Post"
+                }
+            },
+            {
+                "title": "Several Texas delegates coalesce behind Kamala Harris after Joe Biden abandons reelection - The Texas Tribune",
+                "description": "Several Texas delegates coalesce behind Kamala Harris after Joe Biden abandons reelection  The Texas Tribune",
+                "published date": "Sun, 21 Jul 2024 18:28:52 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wNy8yMS9qb2UtYmlkZW4td2l0aGRyYXctMjAyNC10ZXhhcy1kZW1vY3JhdHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.texastribune.org",
+                    "title": "The Texas Tribune"
                 }
             }
         ]
     },
     {
         "name": "Josh Shapiro",
-        "summary": "Various media outlets are speculating on the potential of Pennsylvania Governor Josh Shapiro as a vice presidential candidate for the Democratic Party. Shapiro has gained attention due to his political experience, including his election in a swing state and his handling of a recent shooting incident. He has also received endorsements from other prominent Democrats. Democratic donors are actively vetting potential vice presidential candidates, and Shapiro is reportedly among those being considered. The Philadelphia Inquirer and other outlets are discussing his potential strengths as a running mate, including his appeal to battleground state voters. The Wall Street Journal reports that Shapiro endorsed Kamala Harris, while CBS News and Axios speculate on his chances of being selected as Biden's running mate now that Biden has dropped out of the running. WETM-MyTwinTiers.com quotes Shapiro praising Biden's patriotism amidst speculation about his vice presidential ambitions.",
+        "summary": "Governor Josh Shapiro of Pennsylvania has emerged as a potential vice presidential candidate following President Biden's decision to step down. His appeal lies in his ability to swing a battleground state and his political experience. As a former state representative, Attorney General, and now Governor, Shapiro has demonstrated both legislative and executive leadership. His support for Vice President Kamala Harris has garnered attention, and Democratic donors are actively considering him for the role. However, Shapiro's biggest test will be navigating the aftermath of a Trump rally shooting in his state, highlighting his crisis management skills and political resilience.",
         "items": [
             {
-                "title": "Democratic donors are funding an effort to vet potential VP candidates - The Washington Post",
-                "description": "Democratic donors are funding an effort to vet potential VP candidates  The Washington Post",
-                "published date": "Sun, 21 Jul 2024 02:53:28 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA3LzIwL2RlbW9jcmF0LWRvbm9ycy1mdW5kLXZwLXZldHRpbmctcHVzaC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Pa. Gov. Josh Shapiro is a top contender for vice president. What would he bring to the ticket? - 90.5 WESA",
+                "description": "Pa. Gov. Josh Shapiro is a top contender for vice president. What would he bring to the ticket?  90.5 WESA",
+                "published date": "Sun, 21 Jul 2024 21:34:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53ZXNhLmZtL3BvbGl0aWNzLWdvdmVybm1lbnQvMjAyNC0wNy0yMS9wYS1nb3Ytam9zaC1zaGFwaXJvLWlzLWEtdG9wLWNvbnRlbmRlci1mb3ItdmljZS1wcmVzaWRlbnQtd2hhdC13b3VsZC1oZS1icmluZy10by10aGUtdGlja2V00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.washingtonpost.com",
-                    "title": "The Washington Post"
+                    "href": "https://www.wesa.fm",
+                    "title": "90.5 WESA"
                 }
             },
             {
@@ -140,29 +140,29 @@
                 }
             },
             {
-                "title": "Pa. Gov. Josh Shapiro is a top contender for vice president. What would he bring to the ticket? - 90.5 WESA",
-                "description": "Pa. Gov. Josh Shapiro is a top contender for vice president. What would he bring to the ticket?  90.5 WESA",
-                "published date": "Sun, 21 Jul 2024 21:34:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53ZXNhLmZtL3BvbGl0aWNzLWdvdmVybm1lbnQvMjAyNC0wNy0yMS9wYS1nb3Ytam9zaC1zaGFwaXJvLWlzLWEtdG9wLWNvbnRlbmRlci1mb3ItdmljZS1wcmVzaWRlbnQtd2hhdC13b3VsZC1oZS1icmluZy10by10aGUtdGlja2V00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Democratic donors are funding an effort to vet potential VP candidates - The Washington Post",
+                "description": "Democratic donors are funding an effort to vet potential VP candidates  The Washington Post",
+                "published date": "Sun, 21 Jul 2024 02:53:28 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA3LzIwL2RlbW9jcmF0LWRvbm9ycy1mdW5kLXZwLXZldHRpbmctcHVzaC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.wesa.fm",
-                    "title": "90.5 WESA"
+                    "href": "https://www.washingtonpost.com",
+                    "title": "The Washington Post"
                 }
             },
             {
-                "title": "Gavin Newsom, Josh Shapiro, Pete Buttigieg, Phil Murphy Endorse Kamala Harris - The Wall Street Journal",
-                "description": "Gavin Newsom, Josh Shapiro, Pete Buttigieg, Phil Murphy Endorse Kamala Harris  The Wall Street Journal",
-                "published date": "Mon, 22 Jul 2024 01:03:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS9iaWRlbi1kcm9wcy1vdXQtZWxlY3Rpb24tMjAyNC9jYXJkL2dhdmluLW5ld3NvbS1hbmQtam9zaC1zaGFwaXJvLWVuZG9yc2Uta2FtYWxhLWhhcnJpcy05R0VFSUwyM2RJU2hrVEJ0cDh1QtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "With Biden out, Josh Shapiro emerges as possible VP pick - Axios",
+                "description": "With Biden out, Josh Shapiro emerges as possible VP pick  Axios",
+                "published date": "Sun, 21 Jul 2024 23:14:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9waGlsYWRlbHBoaWEvMjAyNC8wNy8yMS9qb3NoLXNoYXBpcm8ta2FtYWxhLWhhcnJpcy12aWNlLXByZXNpZGVudNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.wsj.com",
-                    "title": "The Wall Street Journal"
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
                 }
             },
             {
                 "title": "Could Josh Shapiro become the Democrats\u2019 pick for vice president? - The Philadelphia Inquirer",
                 "description": "Could Josh Shapiro become the Democrats\u2019 pick for vice president?  The Philadelphia Inquirer",
-                "published date": "Sun, 21 Jul 2024 21:02:17 GMT",
+                "published date": "Mon, 22 Jul 2024 00:35:59 GMT",
                 "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9wb2xpdGljcy9lbGVjdGlvbi9wZW5uc3lsdmFuaWEtZ292ZXJub3Itam9zaC1zaGFwaXJvLXBvc3NpYmxlLXZpY2UtcHJlc2lkZW50LTIwMjQwNzIxLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.inquirer.com",
@@ -170,23 +170,33 @@
                 }
             },
             {
+                "title": "Gavin Newsom, Josh Shapiro, Pete Buttigieg, Phil Murphy Endorse Kamala Harris - The Wall Street Journal",
+                "description": "Gavin Newsom, Josh Shapiro, Pete Buttigieg, Phil Murphy Endorse Kamala Harris  The Wall Street Journal",
+                "published date": "Mon, 22 Jul 2024 04:50:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS9iaWRlbi1kcm9wcy1vdXQtZWxlY3Rpb24tMjAyNC9jYXJkL2dhdmluLW5ld3NvbS1hbmQtam9zaC1zaGFwaXJvLWVuZG9yc2Uta2FtYWxhLWhhcnJpcy05R0VFSUwyM2RJU2hrVEJ0cDh1QtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wsj.com",
+                    "title": "The Wall Street Journal"
+                }
+            },
+            {
+                "title": "President Joe Biden is dropping out: Here's what it means for Gov. Josh Shapiro and Pennsylvania - WTAE Pittsburgh",
+                "description": "President Joe Biden is dropping out: Here's what it means for Gov. Josh Shapiro and Pennsylvania  WTAE Pittsburgh",
+                "published date": "Mon, 22 Jul 2024 04:02:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lnd0YWUuY29tL2FydGljbGUvcHJlc2lkZW50LWJpZGVuLWRyb3BzLW91dC1wZW5uc3lsdmFuaWEtZ292ZXJub3Itam9zaC1zaGFwaXJvLzYxNjU2NTM40gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wtae.com",
+                    "title": "WTAE Pittsburgh"
+                }
+            },
+            {
                 "title": "Could Pennsylvania Gov. Josh Shapiro be a candidate for vice president after Biden dropped out? - CBS News",
                 "description": "Could Pennsylvania Gov. Josh Shapiro be a candidate for vice president after Biden dropped out?  CBS News",
-                "published date": "Sun, 21 Jul 2024 23:15:46 GMT",
+                "published date": "Mon, 22 Jul 2024 03:48:06 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNic25ld3MuY29tL3BoaWxhZGVscGhpYS9uZXdzL2pvc2gtc2hhcGlyby1iaWRlbi1oYXJyaXMtcHJlc2lkZW50LTIwMjQtZWxlY3Rpb24v0gFgaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL3BoaWxhZGVscGhpYS9uZXdzL2pvc2gtc2hhcGlyby1iaWRlbi1oYXJyaXMtcHJlc2lkZW50LTIwMjQtZWxlY3Rpb24v?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbsnews.com",
                     "title": "CBS News"
-                }
-            },
-            {
-                "title": "With Biden out, Josh Shapiro emerges as possible VP pick - Axios",
-                "description": "With Biden out, Josh Shapiro emerges as possible VP pick  Axios",
-                "published date": "Sun, 21 Jul 2024 23:20:06 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9waGlsYWRlbHBoaWEvMjAyNC8wNy8yMS9qb3NoLXNoYXBpcm8ta2FtYWxhLWhhcnJpcy12aWNlLXByZXNpZGVudNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.axios.com",
-                    "title": "Axios"
                 }
             },
             {
@@ -198,22 +208,12 @@
                     "href": "https://thehill.com",
                     "title": "The Hill"
                 }
-            },
-            {
-                "title": "Josh Shapiro calls Biden a \u2018patriot who served our country honorably\u2019 amid Vice President rumors - WETM - MyTwinTiers.com",
-                "description": "Josh Shapiro calls Biden a \u2018patriot who served our country honorably\u2019 amid Vice President rumors  WETM - MyTwinTiers.com",
-                "published date": "Sun, 21 Jul 2024 20:45:44 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5teXR3aW50aWVycy5jb20vbmV3cy1jYXQvcGVubnN5bHZhbmlhLW5ld3Mvam9zaC1zaGFwaXJvLWNhbGxzLWJpZGVuLWEtcGF0cmlvdC13aG8tc2VydmVkLW91ci1jb3VudHJ5LWhvbm9yYWJseS1hbWlkLXZpY2UtcHJlc2lkZW50LXJ1bW9ycy_SAZoBaHR0cHM6Ly93d3cubXl0d2ludGllcnMuY29tL25ld3MtY2F0L3Blbm5zeWx2YW5pYS1uZXdzL2pvc2gtc2hhcGlyby1jYWxscy1iaWRlbi1hLXBhdHJpb3Qtd2hvLXNlcnZlZC1vdXItY291bnRyeS1ob25vcmFibHktYW1pZC12aWNlLXByZXNpZGVudC1ydW1vcnMvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.mytwintiers.com",
-                    "title": "WETM - MyTwinTiers.com"
-                }
             }
         ]
     },
     {
         "name": "Gavin Newsom",
-        "summary": "Numerous news articles focus on Governor Gavin Newsom's political actions and potential presidential aspirations. One article mentions Newsom's endorsement of Kamala Harris for president, citing his belief in her ability to present a strong case against President Trump. Another article highlights a pollster's view that Newsom is in a strong position, potentially hinting at future presidential ambitions. Other articles discuss Newsom's support for Joe Biden and his response to Biden's withdrawal from the 2024 race. Overall, these articles provide insights into Newsom's political involvement, endorsements, and potential future in national politics.",
+        "summary": "Governor Gavin Newsom has been actively involved in political discussions and endorsements. He recently issued a legislative update and endorsed Kamala Harris for president, highlighting his support for her as a strong candidate against Trump. While Newsom has not explicitly announced a presidential bid, he has received positive reviews from a top Democratic pollster who believes he is in a strong position. Additionally, California has made history by banning school rules that require parents to be notified of their child's pronoun change, making it the first state to implement such a policy.",
         "items": [
             {
                 "title": "Governor Newsom issues legislative update 7.15.24 - Office of Governor Gavin Newsom",
@@ -238,7 +238,7 @@
             {
                 "title": "Gavin Newsom, Josh Shapiro, Pete Buttigieg, Phil Murphy Endorse Kamala Harris - The Wall Street Journal",
                 "description": "Gavin Newsom, Josh Shapiro, Pete Buttigieg, Phil Murphy Endorse Kamala Harris  The Wall Street Journal",
-                "published date": "Mon, 22 Jul 2024 01:03:00 GMT",
+                "published date": "Mon, 22 Jul 2024 04:50:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS9iaWRlbi1kcm9wcy1vdXQtZWxlY3Rpb24tMjAyNC9jYXJkL2dhdmluLW5ld3NvbS1hbmQtam9zaC1zaGFwaXJvLWVuZG9yc2Uta2FtYWxhLWhhcnJpcy05R0VFSUwyM2RJU2hrVEJ0cDh1QtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.wsj.com",
@@ -248,7 +248,7 @@
             {
                 "title": "Top Dem pollster memo: California Gov. Gavin Newsom is in a strong position - POLITICO",
                 "description": "Top Dem pollster memo: California Gov. Gavin Newsom is in a strong position  POLITICO",
-                "published date": "Sun, 21 Jul 2024 22:45:11 GMT",
+                "published date": "Sun, 21 Jul 2024 20:05:28 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wNy8yMS9qb2UtYmlkZW4tZHJvcHMtb3V0LWVsZWN0aW9uL2RlbS1wb2xsc3Rlci1uZXdzb20tMDAxNzAwNjHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.politico.com",
@@ -256,13 +256,13 @@
                 }
             },
             {
-                "title": "What California Gov. Gavin Newsom has said about a possible presidential bid - KCRA Sacramento",
-                "description": "What California Gov. Gavin Newsom has said about a possible presidential bid  KCRA Sacramento",
-                "published date": "Mon, 22 Jul 2024 00:33:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmtjcmEuY29tL2FydGljbGUvY2FsaWZvcm5pYS1nb3YtZ2F2aW4tbmV3c29tLXBvc3NpYmxlLXByZXNpZGVudGlhbC1iaWQtY29tbWVudHMvNjE2NTYxODTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "California Gov. Gavin Newsom endorses \"fearless\" Kamala Harris for president - Axios",
+                "description": "California Gov. Gavin Newsom endorses \"fearless\" Kamala Harris for president  Axios",
+                "published date": "Mon, 22 Jul 2024 00:16:33 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIyL2dhdmluLW5ld3NvbS1rYW1hbGEtaGFycmlzLWVuZG9yc2UtY2FsaWZvcm5pYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.kcra.com",
-                    "title": "KCRA Sacramento"
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
                 }
             },
             {
@@ -273,6 +273,16 @@
                 "publisher": {
                     "href": "https://www.semafor.com",
                     "title": "Semafor"
+                }
+            },
+            {
+                "title": "What California Gov. Gavin Newsom has said about a possible presidential bid - KCRA Sacramento",
+                "description": "What California Gov. Gavin Newsom has said about a possible presidential bid  KCRA Sacramento",
+                "published date": "Mon, 22 Jul 2024 01:31:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmtjcmEuY29tL2FydGljbGUvY2FsaWZvcm5pYS1nb3YtZ2F2aW4tbmV3c29tLXBvc3NpYmxlLXByZXNpZGVudGlhbC1iaWQtY29tbWVudHMvNjE2NTYxODTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.kcra.com",
+                    "title": "KCRA Sacramento"
                 }
             },
             {
@@ -296,31 +306,31 @@
                 }
             },
             {
-                "title": "California Gov. Gavin Newsom endorses \"fearless\" Kamala Harris for president - Axios",
-                "description": "California Gov. Gavin Newsom endorses \"fearless\" Kamala Harris for president  Axios",
-                "published date": "Mon, 22 Jul 2024 00:02:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIyL2dhdmluLW5ld3NvbS1rYW1hbGEtaGFycmlzLWVuZG9yc2UtY2FsaWZvcm5pYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "California is 1st state to ban school rules requiring parents get notified of child\u2019s pronoun change - The Associated Press",
+                "description": "California is 1st state to ban school rules requiring parents get notified of child\u2019s pronoun change  The Associated Press",
+                "published date": "Tue, 16 Jul 2024 00:46:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2dlbmRlci1pZGVudGl0eS1zY2hvb2xzLWNhbGlmb3JuaWEtbGF3LWFmMzg3YmVmNWMyNWMxNGY1MWQxY2YwNWE3ZTQyMmVi0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.axios.com",
-                    "title": "Axios"
-                }
-            },
-            {
-                "title": "California Governor Newsom responds to Biden\u2019s withdrawal from 2024 race - FOX 5 San Diego",
-                "description": "California Governor Newsom responds to Biden\u2019s withdrawal from 2024 race  FOX 5 San Diego",
-                "published date": "Sun, 21 Jul 2024 18:59:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2NhbGlmb3JuaWEtbmV3cy9jYWxpZm9ybmlhLWdvdmVybm9yLW5ld3NvbS1yZXNwb25kcy10by1iaWRlbnMtd2l0aGRyYXdhbC1mcm9tLTIwMjQtcmFjZS_SAXpodHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9jYWxpZm9ybmlhLW5ld3MvY2FsaWZvcm5pYS1nb3Zlcm5vci1uZXdzb20tcmVzcG9uZHMtdG8tYmlkZW5zLXdpdGhkcmF3YWwtZnJvbS0yMDI0LXJhY2UvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://fox5sandiego.com",
-                    "title": "FOX 5 San Diego"
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
                 }
             }
         ]
     },
     {
         "name": "Mark Kelly",
-        "summary": "Recent polling has reignited discussions within the Democratic party about the possibility of replacing President Biden in the 2024 election. Senator Mark Kelly of Arizona has emerged as a potential replacement, with his name being circulated as a possible running mate for Vice President Kamala Harris if Biden decides not to run. Kelly, a former astronaut and Navy pilot, is described as a moderate Democrat, and pundits suggest that he could be a strong presidential candidate. Some argue that he has the experience and qualifications to lead the country, while others question whether he has the national recognition and charisma to be a viable contender. Despite the speculation, Biden is expected to make a decision about his political future in the coming days, and it remains to be seen if Kelly will play a role in the upcoming election.",
+        "summary": "As speculation swirls about Vice President Kamala Harris's potential presidential run in 2024, several news outlets are highlighting Mark Kelly, the Democratic senator from Arizona, as a possible vice presidential candidate or even a replacement for President Biden on the ticket. Recent polling suggests a decline in support for Biden, prompting discussions about alternative candidates. Kelly's moderate stance and strong polling numbers make him an attractive option for the Democrats. As Harris is seen as the heir apparent, Kelly's name has emerged as a potential running mate. His background as a former astronaut and his marriage to former Congresswoman Gabby Giffords add to his appeal. Analysts believe that Kelly would be a strong candidate due to his moderate views and ability to appeal to both liberals and conservatives. However, it remains to be seen if Biden will indeed step down and whether Kelly would accept the nomination if offered.",
         "items": [
+            {
+                "title": "The Democrats Need a Hero. They Actually Already Have One in Mark Kelly - The Daily Beast",
+                "description": "The Democrats Need a Hero. They Actually Already Have One in Mark Kelly  The Daily Beast",
+                "published date": "Wed, 17 Jul 2024 22:13:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3RoZS1kZW1vY3JhdHMtbmVlZC1hLWhlcm8tdGhleS1hY3R1YWxseS1hbHJlYWR5LWhhdmUtb25lLWluLW1hcmsta2VsbHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thedailybeast.com",
+                    "title": "The Daily Beast"
+                }
+            },
             {
                 "title": "Playbook: New polling bolsters \u2018Dump Biden\u2019 push - POLITICO",
                 "description": "Playbook: New polling bolsters \u2018Dump Biden\u2019 push  POLITICO",
@@ -342,8 +352,8 @@
                 }
             },
             {
-                "title": "Sen. Mark Kelly rumored as possible running mate for Harris if Biden drops out - Axios",
-                "description": "Sen. Mark Kelly rumored as possible running mate for Harris if Biden drops out  Axios",
+                "title": "Sen. Mark Kelly rumored as possible Harris running mate - Axios",
+                "description": "Sen. Mark Kelly rumored as possible Harris running mate  Axios",
                 "published date": "Fri, 19 Jul 2024 19:58:24 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9waG9lbml4LzIwMjQvMDcvMTkvbWFyay1rZWxseS12aWNlLXByZXNpZGVudC1ydW5uaW5nLW1hdGUtc3BlY3VsYXRpb24taGFycmlz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
@@ -352,23 +362,23 @@
                 }
             },
             {
+                "title": "AZ Sen. Mark Kelly mentioned as possible VP candidate for Kamala Harris as Biden drops out of 2024 race - AZ Luminaria",
+                "description": "AZ Sen. Mark Kelly mentioned as possible VP candidate for Kamala Harris as Biden drops out of 2024 race  AZ Luminaria",
+                "published date": "Mon, 22 Jul 2024 00:49:37 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL2F6bHVtaW5hcmlhLm9yZy8yMDI0LzA3LzIxL2F6LXNlbi1tYXJrLWtlbGx5LW1lbnRpb25lZC1hcy1wb3NzaWJsZS12cC1jYW5kaWRhdGUtZm9yLWthbWFsYS1oYXJyaXMtYXMtYmlkZW4tZHJvcHMtb3V0LW9mLTIwMjQtcmFjZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://azluminaria.org",
+                    "title": "AZ Luminaria"
+                }
+            },
+            {
                 "title": "Who is Mark Kelly? All about the US senator from Arizona and Gabrielle Giffords' husband - The Arizona Republic",
                 "description": "Who is Mark Kelly? All about the US senator from Arizona and Gabrielle Giffords' husband  The Arizona Republic",
-                "published date": "Sat, 20 Jul 2024 19:58:17 GMT",
+                "published date": "Sat, 20 Jul 2024 13:01:47 GMT",
                 "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvZWxlY3Rpb25zLzIwMjQvMDcvMjAvd2hvLWlzLW1hcmsta2VsbHktaGUtaXMtYS11cy1zZW5hdG9yLWFuZC1nYWJyaWVsbGUtZ2lmZm9yZHMtaHVzYmFuZC83NDQ3MTM2NTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.azcentral.com",
                     "title": "The Arizona Republic"
-                }
-            },
-            {
-                "title": "Why pundits say Sen. Mark Kelly would be strong presidential candidate - KOLD",
-                "description": "Why pundits say Sen. Mark Kelly would be strong presidential candidate  KOLD",
-                "published date": "Thu, 18 Jul 2024 04:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmtvbGQuY29tL3ZpZGVvLzIwMjQvMDcvMTgvd2h5LXB1bmRpdHMtc2F5LXNlbi1tYXJrLWtlbGx5LXdvdWxkLWJlLXN0cm9uZy1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.kold.com",
-                    "title": "KOLD"
                 }
             },
             {
@@ -382,6 +392,16 @@
                 }
             },
             {
+                "title": "Why pundits say Sen. Mark Kelly would be strong presidential candidate - KOLD",
+                "description": "Why pundits say Sen. Mark Kelly would be strong presidential candidate  KOLD",
+                "published date": "Thu, 18 Jul 2024 04:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmtvbGQuY29tL3ZpZGVvLzIwMjQvMDcvMTgvd2h5LXB1bmRpdHMtc2F5LXNlbi1tYXJrLWtlbGx5LXdvdWxkLWJlLXN0cm9uZy1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.kold.com",
+                    "title": "KOLD"
+                }
+            },
+            {
                 "title": "Could Arizona's Mark Kelly replace Biden as the Democratic nominee? - 12news.com KPNX",
                 "description": "Could Arizona's Mark Kelly replace Biden as the Democratic nominee?  12news.com KPNX",
                 "published date": "Sun, 21 Jul 2024 19:31:00 GMT",
@@ -389,16 +409,6 @@
                 "publisher": {
                     "href": "https://www.12news.com",
                     "title": "12news.com KPNX"
-                }
-            },
-            {
-                "title": "The Democrats Need a Hero. They Actually Already Have One in Mark Kelly - The Daily Beast",
-                "description": "The Democrats Need a Hero. They Actually Already Have One in Mark Kelly  The Daily Beast",
-                "published date": "Wed, 17 Jul 2024 22:13:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3RoZS1kZW1vY3JhdHMtbmVlZC1hLWhlcm8tdGhleS1hY3R1YWxseS1hbHJlYWR5LWhhdmUtb25lLWluLW1hcmsta2VsbHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thedailybeast.com",
-                    "title": "The Daily Beast"
                 }
             },
             {
@@ -410,234 +420,118 @@
                     "href": "https://ktar.com",
                     "title": "KTAR.com"
                 }
-            },
-            {
-                "title": "US Presidential Election 2024: Senator Mark Kelly likely to replace Joe Biden, according to this poll - The Economic Times",
-                "description": "US Presidential Election 2024: Senator Mark Kelly likely to replace Joe Biden, according to this poll  The Economic Times",
-                "published date": "Thu, 18 Jul 2024 16:32:25 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL3VzLXByZXNpZGVudGlhbC1lbGVjdGlvbi0yMDI0LXNlbmF0b3ItbWFyay1rZWxseS1saWtlbHktdG8tcmVwbGFjZS1qb2UtYmlkZW4tYWNjb3JkaW5nLXRvLXRoaXMtcG9sbC9hcnRpY2xlc2hvdy8xMTE4NDMzMTMuY21z0gGzAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvdXMtcHJlc2lkZW50aWFsLWVsZWN0aW9uLTIwMjQtc2VuYXRvci1tYXJrLWtlbGx5LWxpa2VseS10by1yZXBsYWNlLWpvZS1iaWRlbi1hY2NvcmRpbmctdG8tdGhpcy1wb2xsL2FtcF9hcnRpY2xlc2hvdy8xMTE4NDMzMTMuY21z?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://m.economictimes.com",
-                    "title": "The Economic Times"
-                }
             }
         ]
     },
     {
-        "name": "Pete Buttigieg",
-        "summary": "Transportation Secretary Pete Buttigieg has been featured in various news articles related to his role and political involvements. He joined leaders to initiate a $1.5 billion project at the Port of Long Beach. He has expressed support for Kamala Harris' presidential candidacy and criticized JD Vance's vice presidential aspirations. Buttigieg also commented on the impact of a global cyber outage on transportation and criticized airlines for offering only flight credits after the disruption. Additionally, he questioned a billionaire's support for Vance, highlighting the complexities of political alignments.",
+        "name": "Joe Manchin",
+        "summary": "Senator Joe Manchin has sparked controversy by publicly calling for President Biden to withdraw from the upcoming presidential race in 2024. Manchin's statement has garnered significant attention, with several news outlets reporting on it. The general consensus is that Manchin's call for Biden to step aside stems from concerns over Biden's age and mental fitness. Manchin has stated that he believes it is time for a new generation of leaders to take the helm. However, Manchin's comments have been met with mixed reactions, with some supporting his position and others criticizing it. The issue has caused an uproar within the Democratic Party and the public, and it remains to be seen how it will impact Biden's campaign and the future of the party.",
         "items": [
             {
-                "title": "INVESTING IN AMERICA: U.S. Transportation Secretary Pete Buttigieg Joins Leaders to Break Ground on $1.5B Port of Long Beach On-Dock Rail Support Facility Project in California - Department of Transportation",
-                "description": "INVESTING IN AMERICA: U.S. Transportation Secretary Pete Buttigieg Joins Leaders to Break Ground on $1.5B Port of Long Beach On-Dock Rail Support Facility Project in California  Department of Transportation",
-                "published date": "Thu, 18 Jul 2024 20:25:44 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRyYW5zcG9ydGF0aW9uLmdvdi9icmllZmluZy1yb29tL2ludmVzdGluZy1hbWVyaWNhLXVzLXRyYW5zcG9ydGF0aW9uLXNlY3JldGFyeS1wZXRlLWJ1dHRpZ2llZy1qb2lucy1sZWFkZXJzLWJyZWFr0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Joe Manchin Considers Presidential Bid - The Wall Street Journal",
+                "description": "Joe Manchin Considers Presidential Bid  The Wall Street Journal",
+                "published date": "Mon, 22 Jul 2024 04:59:34 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lndzai5jb20vbGl2ZWNvdmVyYWdlL2JpZGVuLWRyb3BzLW91dC1lbGVjdGlvbi0yMDI0L2NhcmQvam9lLW1hbmNoaW4tY29uc2lkZXJzLXByZXNpZGVudGlhbC1iaWQtTDhiYUpCbzJEOHR3UGM2NlVDd3bSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.transportation.gov",
-                    "title": "Department of Transportation"
+                    "href": "https://www.wsj.com",
+                    "title": "The Wall Street Journal"
                 }
             },
             {
-                "title": "Buttigieg for Harris - POLITICO",
-                "description": "Buttigieg for Harris  POLITICO",
-                "published date": "Mon, 22 Jul 2024 00:02:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wNy8yMS9qb2UtYmlkZW4tZHJvcHMtb3V0LWVsZWN0aW9uL3BldGUtYnV0dGlnaWVnLWVuZG9yc2VzLWthbWFsYS1oYXJyaXMtMDAxNzAxODHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.politico.com",
-                    "title": "POLITICO"
-                }
-            },
-            {
-                "title": "Transportation Secretary Pete Buttigieg on impact of global cyber outage - CNBC",
-                "description": "Transportation Secretary Pete Buttigieg on impact of global cyber outage  CNBC",
-                "published date": "Fri, 19 Jul 2024 14:59:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjQvMDcvMTkvdS1zLXNlY3JldGFyeS1idXR0aWdpZWctdHJhY2tpbmctdGhlLWltcGFjdHMtaGl0dGluZy12YXJpb3VzLWZvcm1zLW9mLXRyYW5zcG9ydGF0aW9uLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnbc.com",
-                    "title": "CNBC"
-                }
-            },
-            {
-                "title": "Buttigieg compares JD Vance to Mike Pence in rebuke of Trump VP pick - The Hill",
-                "description": "Buttigieg compares JD Vance to Mike Pence in rebuke of Trump VP pick  The Hill",
-                "published date": "Sat, 20 Jul 2024 17:17:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDc4MzYwNS1wZXRlLWJ1dHRpZ2llZy1qZC12YW5jZS1taWtlLXBlbmNlLWRvbmFsZC10cnVtcC1ydW5uaW5nLW1hdGUtMjAyNC_SAXRodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzQ3ODM2MDUtcGV0ZS1idXR0aWdpZWctamQtdmFuY2UtbWlrZS1wZW5jZS1kb25hbGQtdHJ1bXAtcnVubmluZy1tYXRlLTIwMjQvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://thehill.com",
-                    "title": "The Hill"
-                }
-            },
-            {
-                "title": "Buttigieg Hopes MAGA Mob Won\u2019t Come for Vance Like Pence - The Daily Beast",
-                "description": "Buttigieg Hopes MAGA Mob Won\u2019t Come for Vance Like Pence  The Daily Beast",
-                "published date": "Sun, 21 Jul 2024 07:30:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3BldGUtYnV0dGlnaWVnLXRlbGxzLWJpbGwtbWFoZXItaGUtaG9wZXMtbWFnYS1tb2Itd29udC1jb21lLWZvci1qZC12YW5jZS1saWtlLW1pa2UtcGVuY2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thedailybeast.com",
-                    "title": "The Daily Beast"
-                }
-            },
-            {
-                "title": "Kamala Harris' vice president - top names include Beshear, Buttigieg - Reuters.com",
-                "description": "Kamala Harris' vice president - top names include Beshear, Buttigieg  Reuters.com",
-                "published date": "Sun, 21 Jul 2024 22:11:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2thbWFsYS1oYXJyaXMtdmljZS1wcmVzaWRlbnQtdG9wLW5hbWVzLWluY2x1ZGUtYmVzaGVhci1idXR0aWdpZWctMjAyNC0wNy0yMS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters.com"
-                }
-            },
-            {
-                "title": "'Extraordinary leadership': Democrat Pete Buttigieg backs Kamala Harris for president - IndyStar",
-                "description": "'Extraordinary leadership': Democrat Pete Buttigieg backs Kamala Harris for president  IndyStar",
-                "published date": "Mon, 22 Jul 2024 00:22:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmluZHlzdGFyLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDI0LzA3LzIxL3BldGUtYnV0dGlnaWVnLWJhY2tzLWthbWFsYS1oYXJyaXMtZm9yLXByZXNpZGVudC83NDQ5MzQ0OTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.indystar.com",
-                    "title": "IndyStar"
-                }
-            },
-            {
-                "title": "Pete Buttigieg shames airlines only offering flight credits after global outage - FOX 5 Atlanta",
-                "description": "Pete Buttigieg shames airlines only offering flight credits after global outage  FOX 5 Atlanta",
-                "published date": "Sat, 20 Jul 2024 18:55:01 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveDVhdGxhbnRhLmNvbS9uZXdzL3BldGUtYnV0dGlnaWVnLXNoYW1lcy1haXJsaW5lcy1vbmx5LW9mZmVyaW5nLWZsaWdodC1jcmVkaXRzLWFmdGVyLWdsb2JhbC1vdXRhZ2XSAXRodHRwczovL3d3dy5mb3g1YXRsYW50YS5jb20vbmV3cy9wZXRlLWJ1dHRpZ2llZy1zaGFtZXMtYWlybGluZXMtb25seS1vZmZlcmluZy1mbGlnaHQtY3JlZGl0cy1hZnRlci1nbG9iYWwtb3V0YWdlLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.fox5atlanta.com",
-                    "title": "FOX 5 Atlanta"
-                }
-            },
-            {
-                "title": "Pete Buttigieg Takes Down JD Vance's VP Hopes In 1 'Exact' Way - HuffPost",
-                "description": "Pete Buttigieg Takes Down JD Vance's VP Hopes In 1 'Exact' Way  HuffPost",
-                "published date": "Sat, 20 Jul 2024 10:11:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9wZXRlLWJ1dHRpZ2llZy1qZC12YW5jZS1taWtlLXBlbmNlLWJpbGwtbWFoZXJfbl82NjliNWVhZGU0YjA3ZjI3NTVmNDhlNTnSAWtodHRwczovL3d3dy5odWZmcG9zdC5jb20vZW50cnkvcGV0ZS1idXR0aWdpZWctamQtdmFuY2UtbWlrZS1wZW5jZS1iaWxsLW1haGVyX25fNjY5YjVlYWRlNGIwN2YyNzU1ZjQ4ZTU5L2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.huffpost.com",
-                    "title": "HuffPost"
-                }
-            },
-            {
-                "title": "\"It's not that complicated\": Pete Buttigieg on why a gay billionaire is backing JD Vance - Salon",
-                "description": "\"It's not that complicated\": Pete Buttigieg on why a gay billionaire is backing JD Vance  Salon",
-                "published date": "Sat, 20 Jul 2024 15:23:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA3LzIwL2l0cy1ub3QtdGhhdC1jb21wbGljYXRlZC1wZXRlLWJ1dHRpZ2llZy1vbi13aHktYS1nYXktYmlsbGlvbmFpcmUtaXMtYmFja2luZy1qZC12YW5jZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.salon.com",
-                    "title": "Salon"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Dnc Convention",
-        "summary": "Democratic House members are opposing the Democratic National Committee's (DNC) plan to nominate Joe Biden early, before the August convention. The DNC plans to hold a virtual roll call in August for the formal nomination, but House Democrats are threatening to send a protest letter. Despite these concerns, DNC officials are moving forward with the virtual roll call vote for Biden, and outside groups are educating delegates on other potential scenarios. The DNC's convention was originally scheduled for Chicago, but its location is now uncertain due to the ongoing Republican National Convention in Milwaukee.",
-        "items": [
-            {
-                "title": "House Democrats want to stop early DNC effort to nominate Biden before party convention in August - The Associated Press",
-                "description": "House Democrats want to stop early DNC effort to nominate Biden before party convention in August  The Associated Press",
-                "published date": "Tue, 16 Jul 2024 19:04:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLWRlbW9jcmF0cy10cnVtcC1yZWVsZWN0aW9uLWNvbnZlbnRpb24tMjAyNC05OWRiNmNhMGI3ZGYyMTU0NDJiN2ZjMWZkMjRmNDQ2M9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "Democrats plan to formally nominate Biden in early August, ahead of convention - NBC News",
-                "description": "Democrats plan to formally nominate Biden in early August, ahead of convention  NBC News",
-                "published date": "Wed, 17 Jul 2024 18:58:18 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzLzIwMjQtZWxlY3Rpb24vZGVtb2NyYXRzLXBsYW5zLWZvcm1hbGx5LW5vbWluYXRlLWJpZGVuLWVhcmx5LWF1Z3VzdC1haGVhZC1jb252ZW50aW9uLXJjbmExNjIzMjDSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYyMzIw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Sen. Joe Manchin joins calls for Biden to drop out of the presidential race - NBC News",
+                "description": "Sen. Joe Manchin joins calls for Biden to drop out of the presidential race  NBC News",
+                "published date": "Sun, 21 Jul 2024 13:32:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzLzIwMjQtZWxlY3Rpb24vc2VuLWpvZS1tYW5jaGluLWJpZGVuLWRyb3Atb3V0LXByZXNpZGVudGlhbC1yYWNlLXJjbmExNjI4OTLSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYyODky?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nbcnews.com",
                     "title": "NBC News"
                 }
             },
             {
-                "title": "DNC delays virtual roll call to nominate Biden to August as House Dems hold off on protest letter - Spectrum News NY1",
-                "description": "DNC delays virtual roll call to nominate Biden to August as House Dems hold off on protest letter  Spectrum News NY1",
-                "published date": "Wed, 17 Jul 2024 18:26:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnkxLmNvbS9ueWMvYWxsLWJvcm91Z2hzL25ld3MvMjAyNC8wNy8xNy9kbmMtbm9taW5hdGUtam9lLWJpZGVuLXZpcnR1YWwtcm9sbC1jYWxsLWNvbnZlbnRpb24t0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://ny1.com",
-                    "title": "Spectrum News NY1"
-                }
-            },
-            {
-                "title": "Scoop: How the DNC plans to run out the clock for Biden - Axios",
-                "description": "Scoop: How the DNC plans to run out the clock for Biden  Axios",
-                "published date": "Tue, 16 Jul 2024 08:33:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzE2L2JpZGVuLWRuYy12b3RlLW5vbWluYXRpb24tc3RhdGVzLTIwMjQtZWxlY3Rpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.axios.com",
-                    "title": "Axios"
-                }
-            },
-            {
-                "title": "DNC readies to move forward with virtual roll call Biden nomination despite concerns - ABC News",
-                "description": "DNC readies to move forward with virtual roll call Biden nomination despite concerns  ABC News",
-                "published date": "Fri, 19 Jul 2024 22:13:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvZG5jLXJlYWRpZXMtbW92ZS1mb3J3YXJkLXZpcnR1YWwtcm9sbC1jYWxsLWJpZGVuL3N0b3J5P2lkPTExMjExNDkyONIBZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL2RuYy1yZWFkaWVzLW1vdmUtZm9yd2FyZC12aXJ0dWFsLXJvbGwtY2FsbC1iaWRlbi9zdG9yeT9pZD0xMTIxMTQ5Mjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
-                }
-            },
-            {
-                "title": "DNC officials defend virtual roll call vote - POLITICO",
-                "description": "DNC officials defend virtual roll call vote  POLITICO",
-                "published date": "Fri, 19 Jul 2024 17:38:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTkvZG5jLW9mZmljaWFscy1kZWZlbmQtdmlydHVhbC1yb2xsLWNhbGwtdm90ZS0wMDE2OTgwM9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Manchin calls on Biden to withdraw from race - POLITICO",
+                "description": "Manchin calls on Biden to withdraw from race  POLITICO",
+                "published date": "Sun, 21 Jul 2024 15:11:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjEvbWFuY2hpbi1jYWxscy1vbi1iaWRlbi10by13aXRoZHJhdy0wMDE2OTk3MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.politico.com",
                     "title": "POLITICO"
                 }
             },
             {
-                "title": "DNC backs virtual roll call vote for Biden as outside groups educate delegates about other scenarios - CBS News",
-                "description": "DNC backs virtual roll call vote for Biden as outside groups educate delegates about other scenarios  CBS News",
-                "published date": "Sat, 20 Jul 2024 00:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYmlkZW4tbm9taW5hdGlvbi1yb2xsLWNhbGwtYXVndXN0LW91dHNpZGUtZ3JvdXBzLWVkdWNhdGUtZGVsZWdhdGVzLW90aGVyLXNjZW5hcmlvcy_SAXRodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9iaWRlbi1ub21pbmF0aW9uLXJvbGwtY2FsbC1hdWd1c3Qtb3V0c2lkZS1ncm91cHMtZWR1Y2F0ZS1kZWxlZ2F0ZXMtb3RoZXItc2NlbmFyaW9zLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Uproar over Biden's campaign shows no signs of abating. Manchin is latest to call for a new nominee - The Associated Press",
+                "description": "Uproar over Biden's campaign shows no signs of abating. Manchin is latest to call for a new nominee  The Associated Press",
+                "published date": "Sun, 21 Jul 2024 17:14:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLW1hbmNoaW4tcmVlbGVjdGlvbi1jYW1wYWlnbi1kZW1vY3JhdHMtdHJ1bXAtY2E4YjM0NTNjNWYzMTc0ZDc4ZGU1ZmNkNmFlY2Q1MzPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Sen. Joe Manchin calls for Biden to step aside in 2024 race - Axios",
+                "description": "Sen. Joe Manchin calls for Biden to step aside in 2024 race  Axios",
+                "published date": "Sun, 21 Jul 2024 15:41:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIxL2pvZS1iaWRlbi1zdGVwLWFzaWRlLTIwMjQtam9lLW1hbmNoaW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
+                }
+            },
+            {
+                "title": "Sen. Joe Manchin Calls for Biden to Withdraw His Candidacy - The New York Times",
+                "description": "Sen. Joe Manchin Calls for Biden to Withdraw His Candidacy  The New York Times",
+                "published date": "Sun, 21 Jul 2024 15:57:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjEvdXMvcG9saXRpY3Mvam9lLW1hbmNoaW4tYmlkZW4td2l0aGRyYXcuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Manchin, 'with a heavy heart,' calls on Biden to end his presidential campaign - ABC News",
+                "description": "Manchin, 'with a heavy heart,' calls on Biden to end his presidential campaign  ABC News",
+                "published date": "Sun, 21 Jul 2024 14:03:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvam9lLW1hbmNoaW4tY2FsbHMtb24tYmlkZW4tZW5kLXByZXNpZGVudGlhbC1jYW1wYWlnbi9zdG9yeT9pZD0xMTIxMjkwNTnSAWtodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9qb2UtbWFuY2hpbi1jYWxscy1vbi1iaWRlbi1lbmQtcHJlc2lkZW50aWFsLWNhbXBhaWduL3N0b3J5P2lkPTExMjEyOTA1OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
+                }
+            },
+            {
+                "title": "Senator Joe Manchin calls on Biden to drop out - BBC.com",
+                "description": "Senator Joe Manchin calls on Biden to drop out  BBC.com",
+                "published date": "Sun, 21 Jul 2024 17:41:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jajdkOTEzMzh5ZG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2o3ZDkxMzM4eWRvLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.bbc.com",
+                    "title": "BBC.com"
+                }
+            },
+            {
+                "title": "Sen. Joe Manchin calls on Biden to drop out of presidential race - CNBC",
+                "description": "Sen. Joe Manchin calls on Biden to drop out of presidential race  CNBC",
+                "published date": "Sun, 21 Jul 2024 13:32:53 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjEvc2VuLWpvZS1tYW5jaGluLWNhbGxzLW9uLWJpZGVuLXRvLWRyb3Atb3V0LW9mLXByZXNpZGVudGlhbC1yYWNlLmh0bWzSAWhodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNy8yMS9zZW4tam9lLW1hbmNoaW4tY2FsbHMtb24tYmlkZW4tdG8tZHJvcC1vdXQtb2YtcHJlc2lkZW50aWFsLXJhY2UuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnbc.com",
+                    "title": "CNBC"
+                }
+            },
+            {
+                "title": "Transcript: Sen. Joe Manchin on \"Face the Nation,\" July 21, 2024 - CBS News",
+                "description": "Transcript: Sen. Joe Manchin on \"Face the Nation,\" July 21, 2024  CBS News",
+                "published date": "Sun, 21 Jul 2024 17:43:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvam9lLW1hbmNoaW4td2VzdC12aXJnaW5pYS1zZW5hdG9yLWZhY2UtdGhlLW5hdGlvbi10cmFuc2NyaXB0LTA3LTIxLTIwNC_SAWhodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9qb2UtbWFuY2hpbi13ZXN0LXZpcmdpbmlhLXNlbmF0b3ItZmFjZS10aGUtbmF0aW9uLXRyYW5zY3JpcHQtMDctMjEtMjA0Lw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbsnews.com",
                     "title": "CBS News"
-                }
-            },
-            {
-                "title": "When is the DNC in Chicago? What to know as the RNC continues in Milwaukee - NBC Chicago",
-                "description": "When is the DNC in Chicago? What to know as the RNC continues in Milwaukee  NBC Chicago",
-                "published date": "Thu, 18 Jul 2024 02:11:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL2RuYy1jaGljYWdvLTIwMjQvMjAyNC1kbmMtY2hpY2Fnby13aGF0LXRvLWtub3ctcm5jLW1pbHdhdWtlZS8zNDkzMDQ1L9IBZmh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL2RuYy1jaGljYWdvLTIwMjQvMjAyNC1kbmMtY2hpY2Fnby13aGF0LXRvLWtub3ctcm5jLW1pbHdhdWtlZS8zNDkzMDQ1Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcchicago.com",
-                    "title": "NBC Chicago"
-                }
-            },
-            {
-                "title": "When is the Democratic National Convention? Info on when and where for the DNC - NorthJersey.com",
-                "description": "When is the Democratic National Convention? Info on when and where for the DNC  NorthJersey.com",
-                "published date": "Wed, 17 Jul 2024 15:44:26 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9uZXdzLzIwMjQvMDcvMTcvd2hlbi1pcy10aGUtZG5jLTIwMjQvNzQ0Mzk5MzAwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.northjersey.com",
-                    "title": "NorthJersey.com"
-                }
-            },
-            {
-                "title": "When is the DNC? Here's what to know about 2024 convention after Biden drops out of race - USA TODAY",
-                "description": "When is the DNC? Here's what to know about 2024 convention after Biden drops out of race  USA TODAY",
-                "published date": "Sun, 21 Jul 2024 21:56:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDI0LzA3LzIxL3doZW4taXMtZG5jLWNvbnZlbnRpb24tY2hpY2Fnby0yMDI0Lzc0NDkxMzc4MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
                 }
             }
         ]
     },
     {
         "name": "Michelle Obama",
-        "summary": "Several news articles speculate about the political futures of former First Lady Michelle Obama and Vice President Kamala Harris. Republicans are reportedly wary of Harris and Obama, while Biden's alleged resentment toward Obama may be driving his determination to seek reelection in 2024. Sources within the Obama camp indicate that the former president would endorse Biden again, but only if he actively campaigned. Michelle Obama has previously expressed a reluctance to run for office, but recent interviews suggest that she may be reconsidering. Some commentators believe that either Obama or Harris could be formidable candidates in 2024, especially if Biden does not run. The media has also highlighted Michelle Obama's recent entrepreneurial endeavors, while also considering her potential as a presidential candidate. Overall, these articles underscore the political prominence of both Harris and Obama, and their potential roles in shaping the future of the Democratic Party.",
+        "summary": "The potential of Kamala Harris and Michelle Obama as Democratic presidential candidates in 2024 is generating speculation among Republicans and political observers. While Republicans are wary of the threat posed by both women, Biden's relationship with Obama has reportedly influenced his decision to seek re-election. Despite not publicly endorsing Biden, Obama's silence has been interpreted as a sign of lukewarm support. Meanwhile, Michelle Obama has remained coy about her own presidential ambitions but has openly supported candidates in the past. Several outlets have suggested that she and Harris could replace Biden as the Democratic nominee. However, the exact dynamics within the party and the potential outcomes of a Biden departure remain uncertain.",
         "items": [
             {
                 "title": "Republicans Are Waiting for Kamala Harris and Fearing Michelle Obama - New York Magazine",
@@ -652,7 +546,7 @@
             {
                 "title": "Biden's Obama grudge drives 2024 resolve - Axios",
                 "description": "Biden's Obama grudge drives 2024 resolve  Axios",
-                "published date": "Sun, 21 Jul 2024 11:51:55 GMT",
+                "published date": "Sun, 21 Jul 2024 16:00:04 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIxL2JpZGVuLW9iYW1hLTIwMjQtcHJlc2lkZW50LWRyb3Atb3V00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.axios.com",
@@ -680,16 +574,6 @@
                 }
             },
             {
-                "title": "Madam President: Kamala Harris vs Michelle Obama - The Telegraph",
-                "description": "Madam President: Kamala Harris vs Michelle Obama  The Telegraph",
-                "published date": "Wed, 17 Jul 2024 18:04:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay91cy9wb2xpdGljcy8yMDI0LzA3LzE3L21hZGFtLXByZXNpZGVudC1rYW1hbGEtaGFycmlzLXZzLW1pY2hlbGxlLW9iYW1hL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.telegraph.co.uk",
-                    "title": "The Telegraph"
-                }
-            },
-            {
                 "title": "With Biden out, Michelle Obama would be Donald Trump\u2019s worst self-inflicted nightmare | Opinion - Yahoo! Voices",
                 "description": "With Biden out, Michelle Obama would be Donald Trump\u2019s worst self-inflicted nightmare | Opinion  Yahoo! Voices",
                 "published date": "Sun, 21 Jul 2024 18:15:56 GMT",
@@ -697,6 +581,16 @@
                 "publisher": {
                     "href": "https://www.yahoo.com",
                     "title": "Yahoo! Voices"
+                }
+            },
+            {
+                "title": "Read Obama's full statement on Biden dropping out - CBS News",
+                "description": "Read Obama's full statement on Biden dropping out  CBS News",
+                "published date": "Mon, 22 Jul 2024 03:00:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYmFyYWNrLW9iYW1hLWJpZGVuLWRyb3BwaW5nLW91dC0yMDI0LXByZXNpZGVudGlhbC1yYWNlLWZ1bGwtc3RhdGVtZW50L9IBZ2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2JhcmFjay1vYmFtYS1iaWRlbi1kcm9wcGluZy1vdXQtMjAyNC1wcmVzaWRlbnRpYWwtcmFjZS1mdWxsLXN0YXRlbWVudC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
                 }
             },
             {
@@ -730,232 +624,232 @@
                 }
             },
             {
-                "title": "Opinion| Can the Democrats replace Biden with Michelle Obama in the presidential race? - Daily News Egypt",
-                "description": "Opinion| Can the Democrats replace Biden with Michelle Obama in the presidential race?  Daily News Egypt",
-                "published date": "Wed, 17 Jul 2024 08:00:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5bmV3c2VneXB0LmNvbS8yMDI0LzA3LzE3L29waW5pb24tY2FuLXRoZS1kZW1vY3JhdHMtcmVwbGFjZS1iaWRlbi13aXRoLW1pY2hlbGxlLW9iYW1hLWluLXRoZS1wcmVzaWRlbnRpYWwtcmFjZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Madam President: Kamala Harris vs Michelle Obama - The Telegraph",
+                "description": "Madam President: Kamala Harris vs Michelle Obama  The Telegraph",
+                "published date": "Wed, 17 Jul 2024 18:04:57 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay91cy9wb2xpdGljcy8yMDI0LzA3LzE3L21hZGFtLXByZXNpZGVudC1rYW1hbGEtaGFycmlzLXZzLW1pY2hlbGxlLW9iYW1hL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.dailynewsegypt.com",
-                    "title": "Daily News Egypt"
+                    "href": "https://www.telegraph.co.uk",
+                    "title": "The Telegraph"
                 }
             }
         ]
     },
     {
-        "name": "Joe Manchin",
-        "summary": "Democratic Senator Joe Manchin of West Virginia has made a significant announcement regarding the 2024 presidential race. Manchin has called on President Joe Biden to withdraw from the race, citing concerns about Biden's age and the need for a \"new generation\" of leadership. This call has been met with mixed reactions, with some Democrats expressing support for Manchin's stance and others defending Biden's decision to run for reelection. Manchin's comments have created uncertainty about the future of the Democratic Party and its presidential candidate for the 2024 election.",
+        "name": "DNC Convention 2024",
+        "summary": "Several news sources are reporting on the upcoming Democratic National Convention (DNC) and the nomination of Joe Biden. House Democrats are expressing their desire to postpone the official nomination of Biden until the convention in August, despite the early efforts of the DNC to nominate him beforehand. The DNC has since delayed the virtual roll call to nominate Biden until August due to concerns raised by House Democrats. Various media outlets are providing information about the location and timing of the DNC, including its scheduled date in Chicago. Additionally, there is speculation about who will replace Biden as the Democratic nominee as the 2024 convention approaches.",
         "items": [
             {
-                "title": "Joe Manchin Considers Presidential Bid - The Wall Street Journal",
-                "description": "Joe Manchin Considers Presidential Bid  The Wall Street Journal",
-                "published date": "Mon, 22 Jul 2024 00:47:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lndzai5jb20vbGl2ZWNvdmVyYWdlL2JpZGVuLWRyb3BzLW91dC1lbGVjdGlvbi0yMDI0L2NhcmQvam9lLW1hbmNoaW4tY29uc2lkZXJzLXByZXNpZGVudGlhbC1iaWQtTDhiYUpCbzJEOHR3UGM2NlVDd3bSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wsj.com",
-                    "title": "The Wall Street Journal"
-                }
-            },
-            {
-                "title": "Manchin calls on Biden to withdraw from race - POLITICO",
-                "description": "Manchin calls on Biden to withdraw from race  POLITICO",
-                "published date": "Sun, 21 Jul 2024 15:11:13 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjEvbWFuY2hpbi1jYWxscy1vbi1iaWRlbi10by13aXRoZHJhdy0wMDE2OTk3MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.politico.com",
-                    "title": "POLITICO"
-                }
-            },
-            {
-                "title": "Transcript: Sen. Joe Manchin on \"Face the Nation,\" July 21, 2024 - CBS News",
-                "description": "Transcript: Sen. Joe Manchin on \"Face the Nation,\" July 21, 2024  CBS News",
-                "published date": "Sun, 21 Jul 2024 17:43:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvam9lLW1hbmNoaW4td2VzdC12aXJnaW5pYS1zZW5hdG9yLWZhY2UtdGhlLW5hdGlvbi10cmFuc2NyaXB0LTA3LTIxLTIwNC_SAWhodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9qb2UtbWFuY2hpbi13ZXN0LXZpcmdpbmlhLXNlbmF0b3ItZmFjZS10aGUtbmF0aW9uLXRyYW5zY3JpcHQtMDctMjEtMjA0Lw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
-                "title": "Sen. Joe Manchin joins calls for Biden to drop out of the presidential race - NBC News",
-                "description": "Sen. Joe Manchin joins calls for Biden to drop out of the presidential race  NBC News",
-                "published date": "Sun, 21 Jul 2024 13:32:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzLzIwMjQtZWxlY3Rpb24vc2VuLWpvZS1tYW5jaGluLWJpZGVuLWRyb3Atb3V0LXByZXNpZGVudGlhbC1yYWNlLXJjbmExNjI4OTLSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYyODky?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
-                }
-            },
-            {
-                "title": "Sen. Joe Manchin Calls for Biden to Withdraw His Candidacy - The New York Times",
-                "description": "Sen. Joe Manchin Calls for Biden to Withdraw His Candidacy  The New York Times",
-                "published date": "Sun, 21 Jul 2024 16:12:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjEvdXMvcG9saXRpY3Mvam9lLW1hbmNoaW4tYmlkZW4td2l0aGRyYXcuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Sen. Joe Manchin calls for Biden to step aside in 2024 race - Axios",
-                "description": "Sen. Joe Manchin calls for Biden to step aside in 2024 race  Axios",
-                "published date": "Sun, 21 Jul 2024 20:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIxL2pvZS1iaWRlbi1zdGVwLWFzaWRlLTIwMjQtam9lLW1hbmNoaW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.axios.com",
-                    "title": "Axios"
-                }
-            },
-            {
-                "title": "Uproar over Biden's campaign shows no signs of abating. Manchin is latest to call for a new nominee - The Associated Press",
-                "description": "Uproar over Biden's campaign shows no signs of abating. Manchin is latest to call for a new nominee  The Associated Press",
-                "published date": "Sun, 21 Jul 2024 17:14:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLW1hbmNoaW4tcmVlbGVjdGlvbi1jYW1wYWlnbi1kZW1vY3JhdHMtdHJ1bXAtY2E4YjM0NTNjNWYzMTc0ZDc4ZGU1ZmNkNmFlY2Q1MzPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "House Democrats want to stop early DNC effort to nominate Biden before party convention in August - The Associated Press",
+                "description": "House Democrats want to stop early DNC effort to nominate Biden before party convention in August  The Associated Press",
+                "published date": "Tue, 16 Jul 2024 19:04:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLWRlbW9jcmF0cy10cnVtcC1yZWVsZWN0aW9uLWNvbnZlbnRpb24tMjAyNC05OWRiNmNhMGI3ZGYyMTU0NDJiN2ZjMWZkMjRmNDQ2M9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://apnews.com",
                     "title": "The Associated Press"
                 }
             },
             {
-                "title": "Manchin, 'with a heavy heart,' calls on Biden to end his presidential campaign - ABC News",
-                "description": "Manchin, 'with a heavy heart,' calls on Biden to end his presidential campaign  ABC News",
-                "published date": "Sun, 21 Jul 2024 14:03:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvam9lLW1hbmNoaW4tY2FsbHMtb24tYmlkZW4tZW5kLXByZXNpZGVudGlhbC1jYW1wYWlnbi9zdG9yeT9pZD0xMTIxMjkwNTnSAWtodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9qb2UtbWFuY2hpbi1jYWxscy1vbi1iaWRlbi1lbmQtcHJlc2lkZW50aWFsLWNhbXBhaWduL3N0b3J5P2lkPTExMjEyOTA1OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
-                }
-            },
-            {
-                "title": "Senator Joe Manchin calls on Biden to drop out - BBC.com",
-                "description": "Senator Joe Manchin calls on Biden to drop out  BBC.com",
-                "published date": "Sun, 21 Jul 2024 17:04:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jajdkOTEzMzh5ZG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2o3ZDkxMzM4eWRvLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.bbc.com",
-                    "title": "BBC.com"
-                }
-            },
-            {
-                "title": "\u2018Time to pass the torch\u2019: Sen. Manchin on Biden\u2019s campaign - CNN",
-                "description": "\u2018Time to pass the torch\u2019: Sen. Manchin on Biden\u2019s campaign  CNN",
-                "published date": "Sun, 21 Jul 2024 13:29:51 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMS9wb2xpdGljcy92aWRlby9zZW4tbWFuY2hpbi1iaWRlbi1jYW1wYWlnbi1zb3R1LWRpZ3ZpZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnn.com",
-                    "title": "CNN"
-                }
-            }
-        ]
-    },
-    {
-        "name": "National Ice Cream Day 2024",
-        "summary": "National Ice Cream Day 2024 is approaching on July 21st, and various establishments across the country are offering special deals and freebies to celebrate. NBC Chicago, USA TODAY, NBC Washington, TODAY, The Arizona Republic, Austin American-Statesman, Syracuse University News, OCRegister, The News Journal, and NJ.com provide comprehensive coverage of all the free scoops, specials, and discounts available at popular ice cream chains like Dairy Queen, Cold Stone, Jeni's, Baskin-Robbins, Carvel, and more. These deals and freebies include free scoops, discounted treats, and other sweet offers to indulge in on this special day dedicated to the beloved frozen dessert.",
-        "items": [
-            {
-                "title": "Free scoops and specials for National Ice Cream Day 2024 - NBC Chicago",
-                "description": "Free scoops and specials for National Ice Cream Day 2024  NBC Chicago",
-                "published date": "Sat, 20 Jul 2024 18:11:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL2VudGVydGFpbm1lbnQvdGhlLXNjZW5lL2ZyZWUtc2Nvb3BzLWFuZC1zcGVjaWFscy1mb3ItbmF0aW9uYWwtaWNlLWNyZWFtLWRheS0yMDI0LzM0OTQyMjUv0gF6aHR0cHM6Ly93d3cubmJjY2hpY2Fnby5jb20vZW50ZXJ0YWlubWVudC90aGUtc2NlbmUvZnJlZS1zY29vcHMtYW5kLXNwZWNpYWxzLWZvci1uYXRpb25hbC1pY2UtY3JlYW0tZGF5LTIwMjQvMzQ5NDIyNS8_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcchicago.com",
-                    "title": "NBC Chicago"
-                }
-            },
-            {
-                "title": "National Ice Cream Day 2024: Get some cool deals at Dairy Queen, Cold Stone, Jeni's and more - USA TODAY",
-                "description": "National Ice Cream Day 2024: Get some cool deals at Dairy Queen, Cold Stone, Jeni's and more  USA TODAY",
-                "published date": "Fri, 19 Jul 2024 15:26:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9tb25leS9mb29kLzIwMjQvMDcvMTkvbmF0aW9uYWwtaWNlLWNyZWFtLWRheS0yMDI0LWRlYWxzLzc0MTM4MjU5MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When is the DNC? Here's what to know about 2024 convention after Biden drops out of race - USA TODAY",
+                "description": "When is the DNC? Here's what to know about 2024 convention after Biden drops out of race  USA TODAY",
+                "published date": "Sun, 21 Jul 2024 21:56:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDI0LzA3LzIxL3doZW4taXMtZG5jLWNvbnZlbnRpb24tY2hpY2Fnby0yMDI0Lzc0NDkxMzc4MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
                 }
             },
             {
-                "title": "Free scoops and specials for National Ice Cream Day in the DC area - NBC Washington",
-                "description": "Free scoops and specials for National Ice Cream Day in the DC area  NBC Washington",
-                "published date": "Wed, 17 Jul 2024 20:38:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uYmN3YXNoaW5ndG9uLmNvbS9lbnRlcnRhaW5tZW50L3RoZS1zY2VuZS9mcmVlLXNjb29wcy1hbmQtc3BlY2lhbHMtZm9yLW5hdGlvbmFsLWljZS1jcmVhbS1kYXktaW4tdGhlLWRjLWFyZWEvMzY2Njg4Mi_SAYcBaHR0cHM6Ly93d3cubmJjd2FzaGluZ3Rvbi5jb20vZW50ZXJ0YWlubWVudC90aGUtc2NlbmUvZnJlZS1zY29vcHMtYW5kLXNwZWNpYWxzLWZvci1uYXRpb25hbC1pY2UtY3JlYW0tZGF5LWluLXRoZS1kYy1hcmVhLzM2NjY4ODIvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "DNC delays virtual roll call to nominate Biden to August as House Dems hold off on protest letter - Spectrum News NY1",
+                "description": "DNC delays virtual roll call to nominate Biden to August as House Dems hold off on protest letter  Spectrum News NY1",
+                "published date": "Wed, 17 Jul 2024 18:26:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnkxLmNvbS9ueWMvYWxsLWJvcm91Z2hzL25ld3MvMjAyNC8wNy8xNy9kbmMtbm9taW5hdGUtam9lLWJpZGVuLXZpcnR1YWwtcm9sbC1jYWxsLWNvbnZlbnRpb24t0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcwashington.com",
-                    "title": "NBC Washington"
+                    "href": "https://ny1.com",
+                    "title": "Spectrum News NY1"
                 }
             },
             {
-                "title": "Best National Ice Cream Day Deals - TODAY",
-                "description": "Best National Ice Cream Day Deals  TODAY",
-                "published date": "Sat, 20 Jul 2024 21:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRvZGF5LmNvbS9mb29kL25ld3MvYmVzdC1uYXRpb25hbC1pY2UtY3JlYW0tZGF5LWRlYWxzLTIwMjQtcmNuYTE1OTg3ONIBKmh0dHBzOi8vd3d3LnRvZGF5LmNvbS90b2RheS9hbXAvcmNuYTE1OTg3OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When is the DNC in Chicago? What to know as the RNC continues in Milwaukee - NBC Chicago",
+                "description": "When is the DNC in Chicago? What to know as the RNC continues in Milwaukee  NBC Chicago",
+                "published date": "Thu, 18 Jul 2024 02:11:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL2RuYy1jaGljYWdvLTIwMjQvMjAyNC1kbmMtY2hpY2Fnby13aGF0LXRvLWtub3ctcm5jLW1pbHdhdWtlZS8zNDkzMDQ1L9IBZmh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL2RuYy1jaGljYWdvLTIwMjQvMjAyNC1kbmMtY2hpY2Fnby13aGF0LXRvLWtub3ctcm5jLW1pbHdhdWtlZS8zNDkzMDQ1Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.today.com",
-                    "title": "TODAY"
+                    "href": "https://www.nbcchicago.com",
+                    "title": "NBC Chicago"
                 }
             },
             {
-                "title": "National Ice Cream Day 2024: All the freebies, deals and discounts in metro Phoenix - The Arizona Republic",
-                "description": "National Ice Cream Day 2024: All the freebies, deals and discounts in metro Phoenix  The Arizona Republic",
-                "published date": "Sat, 20 Jul 2024 12:02:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9kaW5pbmcvMjAyNC8wNy8yMC9uYXRpb25hbC1pY2UtY3JlYW0tZGF5LWRlYWxzLTIwMjQtcGhvZW5peC83NDI2ODIzODAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When is the Democratic National Convention? Info on when and where for the DNC - NorthJersey.com",
+                "description": "When is the Democratic National Convention? Info on when and where for the DNC  NorthJersey.com",
+                "published date": "Wed, 17 Jul 2024 15:44:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5vcnRoamVyc2V5LmNvbS9zdG9yeS9uZXdzLzIwMjQvMDcvMTcvd2hlbi1pcy10aGUtZG5jLTIwMjQvNzQ0Mzk5MzAwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
+                    "href": "https://www.northjersey.com",
+                    "title": "NorthJersey.com"
                 }
             },
             {
-                "title": "Sunday is National Ice Cream Day. Get free treats, sweet deals from Dairy Queen and more - Austin American-Statesman",
-                "description": "Sunday is National Ice Cream Day. Get free treats, sweet deals from Dairy Queen and more  Austin American-Statesman",
-                "published date": "Fri, 19 Jul 2024 11:04:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyNC8wNy8xOS9uYXRpb25hbC1pY2UtY3JlYW0tZGF5LTIwMjQtZnJlZS1kZWFscy1kYWlyeS1xdWVlbi1tY2RvbmFsZHMtdGV4YXMtc3VuZGF5LXN3ZWV0LXRyZWF0cy1mbGF2b3IvNzQ0NTIzNjkwMDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.statesman.com",
-                    "title": "Austin American-Statesman"
-                }
-            },
-            {
-                "title": "What\u2019s Happening in CNY: Celebrating National Ice Cream Day - Syracuse University News",
-                "description": "What\u2019s Happening in CNY: Celebrating National Ice Cream Day  Syracuse University News",
-                "published date": "Tue, 16 Jul 2024 18:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbmV3cy5zeXIuZWR1L2Jsb2cvMjAyNC8wNy8xNi93aGF0cy1oYXBwZW5pbmctaW4tY255LWNlbGVicmF0aW5nLW5hdGlvbmFsLWljZS1jcmVhbS1kYXkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://news.syr.edu",
-                    "title": "Syracuse University News"
-                }
-            },
-            {
-                "title": "National Ice Cream Day 2024: Where to get treated on Sunday, July 21 - OCRegister",
-                "description": "National Ice Cream Day 2024: Where to get treated on Sunday, July 21  OCRegister",
-                "published date": "Fri, 19 Jul 2024 23:38:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDcvMTkvbmF0aW9uYWwtaWNlLWNyZWFtLWRheS0yMDI0LXdoZXJlLXRvLWdldC10cmVhdGVkLW9uLXN1bmRheS1qdWx5LTIxL9IBbWh0dHBzOi8vd3d3Lm9jcmVnaXN0ZXIuY29tLzIwMjQvMDcvMTkvbmF0aW9uYWwtaWNlLWNyZWFtLWRheS0yMDI0LXdoZXJlLXRvLWdldC10cmVhdGVkLW9uLXN1bmRheS1qdWx5LTIxL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.ocregister.com",
-                    "title": "OCRegister"
-                }
-            },
-            {
-                "title": "National Ice Cream Day 2024: Where to find ice cream deals and parties in Delaware - The News Journal",
-                "description": "National Ice Cream Day 2024: Where to find ice cream deals and parties in Delaware  The News Journal",
-                "published date": "Sat, 20 Jul 2024 17:47:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5kZWxhd2FyZW9ubGluZS5jb20vc3RvcnkvbGlmZS9mb29kLzIwMjQvMDcvMjAvd2hlcmUtdG8tZmluZC1pY2UtY3JlYW0tZGVhbHMtaW4tZGVsYXdhcmUtb24tbmF0aW9uYWwtaWNlLWNyZWFtLWRheS83NDQ4MjMxMjAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When is the DNC 2024? Who will replace Joe Biden as Democratic National Convention nears - The News Journal",
+                "description": "When is the DNC 2024? Who will replace Joe Biden as Democratic National Convention nears  The News Journal",
+                "published date": "Sun, 21 Jul 2024 19:03:28 GMT",
+                "url": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5kZWxhd2FyZW9ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyNC8wNy8yMS93aGVuLWlzLXRoZS1kbmMtMjAyNC13aG8td2lsbC1yZXBsYWNlLXByZXNpZGVudC1qb2UtYmlkZW4tZGVtb2NyYXRpYy1uYXRpb25hbC1jb252ZW50aW9uLzc0NDkxMDE0MDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.delawareonline.com",
                     "title": "The News Journal"
                 }
             },
             {
-                "title": "National Ice Cream Day 2024: Deals, freebies at Dairy Queen, Baskin Robbins, Carvel, Cold Stone, and more - NJ.com",
-                "description": "National Ice Cream Day 2024: Deals, freebies at Dairy Queen, Baskin Robbins, Carvel, Cold Stone, and more  NJ.com",
-                "published date": "Sun, 21 Jul 2024 16:08:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5uai5jb20vZm9vZC8yMDI0LzA3L25hdGlvbmFsLWljZS1jcmVhbS1kYXktMjAyNC1kZWFscy1mcmVlYmllcy1hdC1kYWlyeS1xdWVlbi1iYXNraW4tcm9iYmlucy1jYXJ2ZWwtY29sZC1zdG9uZS1hbmQtbW9yZS5odG1s0gGXAWh0dHBzOi8vd3d3Lm5qLmNvbS9mb29kLzIwMjQvMDcvbmF0aW9uYWwtaWNlLWNyZWFtLWRheS0yMDI0LWRlYWxzLWZyZWViaWVzLWF0LWRhaXJ5LXF1ZWVuLWJhc2tpbi1yb2JiaW5zLWNhcnZlbC1jb2xkLXN0b25lLWFuZC1tb3JlLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Scoop: How the DNC plans to run out the clock for Biden - Axios",
+                "description": "Scoop: How the DNC plans to run out the clock for Biden  Axios",
+                "published date": "Tue, 16 Jul 2024 08:33:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzE2L2JpZGVuLWRuYy12b3RlLW5vbWluYXRpb24tc3RhdGVzLTIwMjQtZWxlY3Rpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nj.com",
-                    "title": "NJ.com"
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
+                }
+            },
+            {
+                "title": "When is the DNC? Everything to know about the 2024 Democratic National Convention - Austin American-Statesman",
+                "description": "When is the DNC? Everything to know about the 2024 Democratic National Convention  Austin American-Statesman",
+                "published date": "Fri, 19 Jul 2024 13:27:44 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zdGF0ZXNtYW4uY29tL3N0b3J5L25ld3Mvc3RhdGUvMjAyNC8wNy8xOS9kbmMtMjAyNC1kZW1vY3JhdGljLW5hdGlvbmFsLWNvbnZlbnRpb24tY2hpY2Fnby1qb2UtYmlkZW4ta2FtYWxhLWhhcnJpcy83NDQ2NzAyMTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.statesman.com",
+                    "title": "Austin American-Statesman"
+                }
+            },
+            {
+                "title": "Democrats plan to formally nominate Biden in early August, ahead of convention - NBC News",
+                "description": "Democrats plan to formally nominate Biden in early August, ahead of convention  NBC News",
+                "published date": "Wed, 17 Jul 2024 18:58:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzLzIwMjQtZWxlY3Rpb24vZGVtb2NyYXRzLXBsYW5zLWZvcm1hbGx5LW5vbWluYXRlLWJpZGVuLWVhcmx5LWF1Z3VzdC1haGVhZC1jb252ZW50aW9uLXJjbmExNjIzMjDSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYyMzIw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
+                }
+            },
+            {
+                "title": "When is the 2024 DNC? Here's what to know about the Democratic National Convention - The Arizona Republic",
+                "description": "When is the 2024 DNC? Here's what to know about the Democratic National Convention  The Arizona Republic",
+                "published date": "Tue, 16 Jul 2024 17:59:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmF6Y2VudHJhbC5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAyNC8wNy8xNi93aGVuLWlzLXRoZS1kbmMtMjAyNC83NDQyNjExMTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Robert F. Kennedy Jr",
+        "summary": "Robert F. Kennedy Jr., a prominent anti-vaccine activist, has garnered significant attention from both political figures and the media. President Biden has ordered the Secret Service to protect him amid concerns over his safety, particularly in the wake of the assassination attempt on former President Trump. The Nebraska Democratic Party is attempting to prevent Kennedy from appearing on the fall ballot, while former President Trump has expressed support for Kennedy and advocated for his inclusion with the Secret Service. Kennedy has met with both Trump and Biden, and his discussions with Trump regarding vaccine skepticism have been widely reported. Despite his association with the Democratic Party in the past, Kennedy's current political affiliations remain unclear, with some questioning his true independence. Recent news also highlights Kennedy's financial struggles, and he has faced criticism for his involvement in the anti-vaccine movement.",
+        "items": [
+            {
+                "title": "Biden orders Secret Service to protect RFK Jr. after attempt on Trump\u2019s life - The Associated Press",
+                "description": "Biden orders Secret Service to protect RFK Jr. after attempt on Trump\u2019s life  The Associated Press",
+                "published date": "Mon, 15 Jul 2024 21:48:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLWVsZWN0aW9uLXJmay1iYWYyMjgxYTg4OGQ3MzZhNTBkNzhhM2FlNDE4ODUyMdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Nebraska Democratic Party seeks to block RFK Jr. from fall ballot - Nebraska Examiner",
+                "description": "Nebraska Democratic Party seeks to block RFK Jr. from fall ballot  Nebraska Examiner",
+                "published date": "Fri, 19 Jul 2024 23:30:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmVicmFza2FleGFtaW5lci5jb20vMjAyNC8wNy8xOS9uZWJyYXNrYS1kZW1vY3JhdGljLXBhcnR5LXNlZWtzLXRvLWJsb2NrLXJmay1qci1mcm9tLWZhbGwtYmFsbG90L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nebraskaexaminer.com",
+                    "title": "Nebraska Examiner"
+                }
+            },
+            {
+                "title": "Is RFK Jr truly independent? - Al Jazeera English",
+                "description": "Is RFK Jr truly independent?  Al Jazeera English",
+                "published date": "Thu, 18 Jul 2024 00:46:34 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZmVhdHVyZXMvMjAyNC83LzE3L2lzLXJmay1qci10cnVseS1pbmRlcGVuZGVudNIBTGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL2ZlYXR1cmVzLzIwMjQvNy8xNy9pcy1yZmstanItdHJ1bHktaW5kZXBlbmRlbnQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "Trump and RFK Jr. discuss vaccine skepticism in since-deleted video - CNN",
+                "description": "Trump and RFK Jr. discuss vaccine skepticism in since-deleted video  CNN",
+                "published date": "Tue, 16 Jul 2024 19:20:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNi9wb2xpdGljcy92aWRlby90cnVtcC1yZmstanItdmFjY2luZXMtbGVha2VkLXBob25lLWNhbGwtZGlndmlk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnn.com",
+                    "title": "CNN"
+                }
+            },
+            {
+                "title": "Robert F. Kennedy Jr. Meets With Trump at the R.N.C. - The New York Times",
+                "description": "Robert F. Kennedy Jr. Meets With Trump at the R.N.C.  The New York Times",
+                "published date": "Fri, 19 Jul 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTUvdXMvcG9saXRpY3MvcmZrLWpyLXRydW1wLXJuYy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Cash struggles continued for RFK Jr. in June - POLITICO",
+                "description": "Cash struggles continued for RFK Jr. in June  POLITICO",
+                "published date": "Fri, 19 Jul 2024 22:36:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTkvY2FzaC1zdHJ1Z2dsZXMtcmZrLWpyLWp1bmUtMDAxNjk4OTTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.politico.com",
+                    "title": "POLITICO"
+                }
+            },
+            {
+                "title": "Trump: RFK Jr. should get Secret Service protection - Axios",
+                "description": "Trump: RFK Jr. should get Secret Service protection  Axios",
+                "published date": "Mon, 15 Jul 2024 16:58:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzE1L3RydW1wLXJmay1qci1zZWNyZXQtc2VydmljZS1hc3Nhc3NpbmF0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
+                }
+            },
+            {
+                "title": "Robert F. Kennedy Jr. files with state for Indiana ballot - Indiana Capital Chronicle",
+                "description": "Robert F. Kennedy Jr. files with state for Indiana ballot  Indiana Capital Chronicle",
+                "published date": "Mon, 15 Jul 2024 16:30:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vaW5kaWFuYWNhcGl0YWxjaHJvbmljbGUuY29tL2JyaWVmcy9yb2JlcnQtZi1rZW5uZWR5LWpyLWZpbGVzLXdpdGgtc3RhdGUtZm9yLWluZGlhbmEtYmFsbG90L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://indianacapitalchronicle.com",
+                    "title": "Indiana Capital Chronicle"
+                }
+            },
+            {
+                "title": "Biden orders Secret Service protection for RFK Jr. following Trump assassination attempt - CBS News",
+                "description": "Biden orders Secret Service protection for RFK Jr. following Trump assassination attempt  CBS News",
+                "published date": "Mon, 15 Jul 2024 19:51:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvc2VjcmV0LXNlcnZpY2UtcHJvdGVjdGlvbi1yb2JlcnQta2VubmVkeS1qci10cnVtcC1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3Mvc2VjcmV0LXNlcnZpY2UtcHJvdGVjdGlvbi1yb2JlcnQta2VubmVkeS1qci10cnVtcC1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
+                }
+            },
+            {
+                "title": "RFK Jr. reacts to Biden news Cape Cod, pushes for 'open process' - WCVB Boston",
+                "description": "RFK Jr. reacts to Biden news Cape Cod, pushes for 'open process'  WCVB Boston",
+                "published date": "Sun, 21 Jul 2024 21:58:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LndjdmIuY29tL2FydGljbGUvcm9iZXJ0LWYta2VubmVkeS1qci1yZWFjdHMtam9lLWJpZGVuLW1hc3NhY2h1c2V0dHMtb3Blbi1wcm9jZXNzLzYxNjU2NTg00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wcvb.com",
+                    "title": "WCVB Boston"
                 }
             }
         ]
     },
     {
         "name": "Green Bay Packers",
-        "summary": "News about the Green Bay Packers highlights the team's strong financial position, with record revenues of $654 million despite a 12.5% decline in profit. The Packers remain ranked 9th in the NFL offseason power rankings following Jordan Love's breakout. Key dates, new additions, and storylines to watch in the upcoming training camp have been previewed. Three Packers players have been recognized on the Pro Football Network's Top 100 List. The team also reported a fourth consecutive year of record revenue and $98 million in net income. Kenny Clark has signed a 3-year, $64 million contract extension, securing his future with the Packers. Notably, former President Trump mentioned the Packers in his 2024 RNC acceptance speech, seeking support in Milwaukee.",
+        "summary": "The Green Bay Packers, an NFL franchise, have experienced a successful year, reporting record revenues of $654 million. Despite a slight drop in profits, the team's financial footing remains strong. The Packers are ranked ninth in NFL offseason power rankings after a breakout performance by quarterback Jordan Love. The team has added notable players during the offseason and is preparing for training camp, which will address key storylines and feature key dates. Three Packers players have earned spots on the Pro Football Network's Top 100 List. Kenny Clark has agreed to a three-year, $64 million contract extension. In addition to these developments, former President Donald Trump mentioned the Packers and Milwaukee during his RNC 2024 acceptance speech.",
         "items": [
             {
                 "title": "Running the Packers Is Complicated. A Sense of Humor Helps. - The New York Times",
@@ -1060,8 +954,114 @@
         ]
     },
     {
+        "name": "Esta TerBlanche",
+        "summary": "Esta TerBlanche, the American actress best known for her role as Gillian Andrassy in the popular soap opera \"All My Children,\" has passed away at the age of 51. News of her passing has been widely reported by entertainment publications, including TMZ, Variety, Deadline, The New York Times, TheWrap, USA Today, Page Six, New York Post, E! Online, and PEOPLE.",
+        "items": [
+            {
+                "title": "Esta TerBlanche, 'All My Children' Actress, Dead at 51 - TMZ",
+                "description": "Esta TerBlanche, 'All My Children' Actress, Dead at 51  TMZ",
+                "published date": "Sun, 21 Jul 2024 12:52:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnRtei5jb20vMjAyNC8wNy8yMS9lc3RhLXRlcmJsYW5jaGUtZGVhZC1kaWVzLTUxLWFsbC1teS1jaGlsZHJlbi_SAUxodHRwczovL2FtcC50bXouY29tLzIwMjQvMDcvMjEvZXN0YS10ZXJibGFuY2hlLWRlYWQtZGllcy01MS1hbGwtbXktY2hpbGRyZW4v?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.tmz.com",
+                    "title": "TMZ"
+                }
+            },
+            {
+                "title": "Esta TerBlanche, \u2018All My Children\u2019 Actor, Dies at 51 - Variety",
+                "description": "Esta TerBlanche, \u2018All My Children\u2019 Actor, Dies at 51  Variety",
+                "published date": "Sun, 21 Jul 2024 17:24:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
+                "title": "Esta TerBlanche Dies: \u2018All My Children\u2019 Soap Star Was 51 - Deadline",
+                "description": "Esta TerBlanche Dies: \u2018All My Children\u2019 Soap Star Was 51  Deadline",
+                "published date": "Sun, 21 Jul 2024 15:38:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvZXN0YS10ZXJibGFuY2hlLWRlYWQtYWxsLW15LWNoaWxkcmVuLW9iaXR1YXJ5LTEyMzYwMTY4NjYv0gFaaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNy9lc3RhLXRlcmJsYW5jaGUtZGVhZC1hbGwtbXktY2hpbGRyZW4tb2JpdHVhcnktMTIzNjAxNjg2Ni9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://deadline.com",
+                    "title": "Deadline"
+                }
+            },
+            {
+                "title": "Esta TerBlanche, \u2018All My Children\u2019 Star, Dies at 51 - The New York Times",
+                "description": "Esta TerBlanche, \u2018All My Children\u2019 Star, Dies at 51  The New York Times",
+                "published date": "Mon, 22 Jul 2024 02:54:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjEvYXJ0cy9lc3RhLXRlcmJsYW5jaGUtZGVhZC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Esta TerBlanche, \u2018All My Children\u2019 Star, Dies at 51 - TheWrap",
+                "description": "Esta TerBlanche, \u2018All My Children\u2019 Star, Dies at 51  TheWrap",
+                "published date": "Sun, 21 Jul 2024 16:53:54 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2VzdGEtdGVyYmxhbmNoZS1kaWVzLWFsbC1teS1jaGlsZHJlbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thewrap.com",
+                    "title": "TheWrap"
+                }
+            },
+            {
+                "title": "Esta TerBlanche, who played Gillian Andrassy on 'All My Children,' dies at 51 - USA TODAY",
+                "description": "Esta TerBlanche, who played Gillian Andrassy on 'All My Children,' dies at 51  USA TODAY",
+                "published date": "Sun, 21 Jul 2024 21:48:28 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9jZWxlYnJpdGllcy8yMDI0LzA3LzIxL2VzdGEtdGVyYmxhbmNoZS1kZWF0aC1hbGwtbXktY2hpbGRyZW4tZ2lsbGlhbi1hbmRyYXNzeS83NDQ5MDA5MzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "\u2018All My Children\u2019 actress Esta TerBlanche dead at 51 - Page Six",
+                "description": "\u2018All My Children\u2019 actress Esta TerBlanche dead at 51  Page Six",
+                "published date": "Sun, 21 Jul 2024 17:03:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNy8yMS9lbnRlcnRhaW5tZW50L2FsbC1teS1jaGlsZHJlbi1hY3RyZXNzLWVzdGEtdGVyYmxhbmNoZS1kZWFkLWF0LTUxL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://pagesix.com",
+                    "title": "Page Six"
+                }
+            },
+            {
+                "title": "Esta TerBlanche, \u2018All My Children\u2019 actress, dead at 51 - New York Post",
+                "description": "Esta TerBlanche, \u2018All My Children\u2019 actress, dead at 51  New York Post ",
+                "published date": "Sun, 21 Jul 2024 15:56:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIxL2VudGVydGFpbm1lbnQvZXN0YS10ZXJibGFuY2hlLWRlYWQtYWxsLW15LWNoaWxkcmVuLWFjdHJlc3MtZGllcy1hdC01MS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://nypost.com",
+                    "title": "New York Post"
+                }
+            },
+            {
+                "title": "Esta TerBlanche, All My Children Star, Dead at 51 - E! Online - E! NEWS",
+                "description": "Esta TerBlanche, All My Children Star, Dead at 51 - E! Online  E! NEWS",
+                "published date": "Sun, 21 Jul 2024 20:21:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwNTIyNC9lc3RhLXRlcmJsYW5jaGUtYWxsLW15LWNoaWxkcmVuLXN0YXItZGVhZC1hdC01MdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.eonline.com",
+                    "title": "E! NEWS"
+                }
+            },
+            {
+                "title": "Esta TerBlanche, All My Children Star and Former Miss Teen South Africa, Dies at 51 - PEOPLE",
+                "description": "Esta TerBlanche, All My Children Star and Former Miss Teen South Africa, Dies at 51  PEOPLE",
+                "published date": "Sun, 21 Jul 2024 19:02:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vcGVvcGxlLmNvbS9lc3RhLXRlcmJsYW5jaGUtZGVhZC1hbGwtbXktY2hpbGRyZW4tc3Rhci04NjgxMjE20gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://people.com",
+                    "title": "PEOPLE"
+                }
+            }
+        ]
+    },
+    {
         "name": "Brickyard 400",
-        "summary": "The Brickyard 400, an iconic NASCAR Cup Series race, returns to Indianapolis Motor Speedway. Tyler Reddick secured the pole position in qualifying. The race saw Kyle Larson emerge victorious, dedicating his win to the passionate Indiana fans. Expert predictions and analysis for the 2024 Brickyard 400 are already in circulation, highlighting potential betting strategies for the upcoming race. A historical article reflects on the near-misses and disappointments at the inaugural 1994 Brickyard 400. Despite rumors, the Brickyard 400 remains a staple event, with the weekend schedule available for enthusiasts.",
+        "summary": "The Brickyard 400, a prestigious race in the NASCAR Cup Series, made its highly anticipated return to the Indianapolis Motor Speedway. Kyle Larson, a fan favorite, emerged victorious after a thrilling overtime finish, earning the adoration of Indiana fans. The race, known for its tradition and allure, garnered significant attention, with pundits and experts offering their insights and predictions for the upcoming 2024 edition. The weekend schedule for the Brickyard 400 was meticulously planned, ensuring an unforgettable experience for attendees. The event has not been discontinued and continues to hold a prominent place in the NASCAR calendar.",
         "items": [
             {
                 "title": "What to Watch: Tradition, prestige rising as Cup Series braces for Brickyard return - NASCAR",
@@ -1071,36 +1071,6 @@
                 "publisher": {
                     "href": "https://www.nascar.com",
                     "title": "NASCAR"
-                }
-            },
-            {
-                "title": "Tyler Reddick uses final Brickyard 400 qualifying run to win the pole - The Associated Press",
-                "description": "Tyler Reddick uses final Brickyard 400 qualifying run to win the pole  The Associated Press",
-                "published date": "Sat, 20 Jul 2024 20:53:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JyaWNreWFyZC00MDAtY3VwLXF1YWxpZnlpbmctaW5kaWFuYXBvbGlzLTFmMDk4ZmM5NGU5YjkyMmYwYjQ1MzdmNmU1Y2RmMGEz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "NASCAR Cup Series race at Indianapolis: Live updates, highlights, live leaderboard of Brickyard 400 - Tennessean",
-                "description": "NASCAR Cup Series race at Indianapolis: Live updates, highlights, live leaderboard of Brickyard 400  Tennessean",
-                "published date": "Sun, 21 Jul 2024 21:40:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9zcG9ydHMvbmFzY2FyLzIwMjQvMDcvMjEvbmFzY2FyLWluZGlhbmFwb2xpcy1sZWFkZXJib2FyZC1saXZlLXVwZGF0ZXMtaGlnaGxpZ2h0cy1jdXAtc2VyaWVzLXJhY2UtYnJpY2t5YXJkLTQwMC83NDQzMTA4NDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.tennessean.com",
-                    "title": "Tennessean"
-                }
-            },
-            {
-                "title": "2024 Brickyard 400 props, Indianapolis odds, expert picks, prediction, odds: Use Chase Elliott in NASCAR bets - CBS Sports",
-                "description": "2024 Brickyard 400 props, Indianapolis odds, expert picks, prediction, odds: Use Chase Elliott in NASCAR bets  CBS Sports",
-                "published date": "Sun, 21 Jul 2024 16:45:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25hc2Nhci9uZXdzLzIwMjQtYnJpY2t5YXJkLTQwMC1wcm9wcy1pbmRpYW5hcG9saXMtb2Rkcy1leHBlcnQtcGlja3MtcHJlZGljdGlvbi1vZGRzLXVzZS1jaGFzZS1lbGxpb3R0LWluLW5hc2Nhci1iZXRzL9IBkwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25hc2Nhci9uZXdzLzIwMjQtYnJpY2t5YXJkLTQwMC1wcm9wcy1pbmRpYW5hcG9saXMtb2Rkcy1leHBlcnQtcGlja3MtcHJlZGljdGlvbi1vZGRzLXVzZS1jaGFzZS1lbGxpb3R0LWluLW5hc2Nhci1iZXRzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
                 }
             },
             {
@@ -1114,6 +1084,26 @@
                 }
             },
             {
+                "title": "2024 Brickyard 400 props, Indianapolis odds, expert picks, prediction, odds: Use Chase Elliott in NASCAR bets - CBS Sports",
+                "description": "2024 Brickyard 400 props, Indianapolis odds, expert picks, prediction, odds: Use Chase Elliott in NASCAR bets  CBS Sports",
+                "published date": "Sun, 21 Jul 2024 16:45:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25hc2Nhci9uZXdzLzIwMjQtYnJpY2t5YXJkLTQwMC1wcm9wcy1pbmRpYW5hcG9saXMtb2Rkcy1leHBlcnQtcGlja3MtcHJlZGljdGlvbi1vZGRzLXVzZS1jaGFzZS1lbGxpb3R0LWluLW5hc2Nhci1iZXRzL9IBkwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25hc2Nhci9uZXdzLzIwMjQtYnJpY2t5YXJkLTQwMC1wcm9wcy1pbmRpYW5hcG9saXMtb2Rkcy1leHBlcnQtcGlja3MtcHJlZGljdGlvbi1vZGRzLXVzZS1jaGFzZS1lbGxpb3R0LWluLW5hc2Nhci1iZXRzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "Larson closes strong for 'surreal' Brickyard win - ESPN",
+                "description": "Larson closes strong for 'surreal' Brickyard win  ESPN",
+                "published date": "Sun, 21 Jul 2024 23:17:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmVzcG4uY29tL3JhY2luZy9uYXNjYXIvc3RvcnkvXy9pZC80MDYxMjU1Ni9reWxlLWxhcnNvbi1tYWRlLWxhdGUtY2hhcmdlLXdpbi1maXJzdC1icmlja3lhcmQtNDAw0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
                 "title": "Kyle Larson wins NASCAR Brickyard 400: Results, recap, highlights of Indianapolis race - USA TODAY",
                 "description": "Kyle Larson wins NASCAR Brickyard 400: Results, recap, highlights of Indianapolis race  USA TODAY",
                 "published date": "Sun, 21 Jul 2024 23:21:46 GMT",
@@ -1121,6 +1111,16 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "NASCAR Cup Series race at Indianapolis: Live updates, highlights, live leaderboard of Brickyard 400 - Tennessean",
+                "description": "NASCAR Cup Series race at Indianapolis: Live updates, highlights, live leaderboard of Brickyard 400  Tennessean",
+                "published date": "Sun, 21 Jul 2024 18:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy50ZW5uZXNzZWFuLmNvbS9zdG9yeS9zcG9ydHMvbmFzY2FyLzIwMjQvMDcvMjEvbmFzY2FyLWluZGlhbmFwb2xpcy1sZWFkZXJib2FyZC1saXZlLXVwZGF0ZXMtaGlnaGxpZ2h0cy1jdXAtc2VyaWVzLXJhY2UtYnJpY2t5YXJkLTQwMC83NDQzMTA4NDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.tennessean.com",
+                    "title": "Tennessean"
                 }
             },
             {
@@ -1134,10 +1134,10 @@
                 }
             },
             {
-                "title": "Indy\u2019s inaugural near-misses: The history of the 1994 Brickyard 400\u2019s DNQs - NASCAR",
-                "description": "Indy\u2019s inaugural near-misses: The history of the 1994 Brickyard 400\u2019s DNQs  NASCAR",
-                "published date": "Sun, 21 Jul 2024 16:27:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5hc2Nhci5jb20vbmV3cy1tZWRpYS8yMDI0LzA3LzIxL2N1cC1zZXJpZXMtMjAyNC1icmlja3lhcmQtNDAwLWluYXVndXJhbC1xdWFsaWZ5aW5nLW1pc3Nlcy_SAWtodHRwczovL3d3dy5uYXNjYXIuY29tL25ld3MtbWVkaWEvMjAyNC8wNy8yMS9jdXAtc2VyaWVzLTIwMjQtYnJpY2t5YXJkLTQwMC1pbmF1Z3VyYWwtcXVhbGlmeWluZy1taXNzZXMvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Kyle Larson wins the Brickyard 400 in NASCAR Overtime - NASCAR",
+                "description": "Kyle Larson wins the Brickyard 400 in NASCAR Overtime  NASCAR",
+                "published date": "Sun, 21 Jul 2024 22:37:46 GMT",
+                "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5hc2Nhci5jb20vdmlkZW9zL2ZyYW5jaGlzZS9uYXNjYXItY3VwLWZpbmFsLWxhcHMva3lsZS1sYXJzb24td2lucy10aGUtYnJpY2t5YXJkLTQwMC1pbi1uYXNjYXItb3ZlcnRpbWUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nascar.com",
                     "title": "NASCAR"
@@ -1154,10 +1154,10 @@
                 }
             },
             {
-                "title": "2024 Brickyard 400 odds, lineup, predictions, start time: Model gives surprising NASCAR at Indianapolis picks - CBS Sports",
-                "description": "2024 Brickyard 400 odds, lineup, predictions, start time: Model gives surprising NASCAR at Indianapolis picks  CBS Sports",
-                "published date": "Fri, 19 Jul 2024 14:08:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25hc2Nhci9uZXdzLzIwMjQtYnJpY2t5YXJkLTQwMC1vZGRzLWxpbmV1cC1wcmVkaWN0aW9ucy1zdGFydC10aW1lLW1vZGVsLWdpdmVzLXN1cnByaXNpbmctbmFzY2FyLWF0LWluZGlhbmFwb2xpcy1waWNrcy_SAZQBaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9uYXNjYXIvbmV3cy8yMDI0LWJyaWNreWFyZC00MDAtb2Rkcy1saW5ldXAtcHJlZGljdGlvbnMtc3RhcnQtdGltZS1tb2RlbC1naXZlcy1zdXJwcmlzaW5nLW5hc2Nhci1hdC1pbmRpYW5hcG9saXMtcGlja3MvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "2024 Brickyard 400 odds, lineup, predictions, start time: Model shares surprising NASCAR at Indianapolis picks - CBS Sports",
+                "description": "2024 Brickyard 400 odds, lineup, predictions, start time: Model shares surprising NASCAR at Indianapolis picks  CBS Sports",
+                "published date": "Sun, 21 Jul 2024 02:02:53 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25hc2Nhci9uZXdzLzIwMjQtYnJpY2t5YXJkLTQwMC1vZGRzLWxpbmV1cC1wcmVkaWN0aW9ucy1zdGFydC10aW1lLW1vZGVsLXNoYXJlcy1zdXJwcmlzaW5nLW5hc2Nhci1hdC1pbmRpYW5hcG9saXMtcGlja3Mv0gGVAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmFzY2FyL25ld3MvMjAyNC1icmlja3lhcmQtNDAwLW9kZHMtbGluZXVwLXByZWRpY3Rpb25zLXN0YXJ0LXRpbWUtbW9kZWwtc2hhcmVzLXN1cnByaXNpbmctbmFzY2FyLWF0LWluZGlhbmFwb2xpcy1waWNrcy9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
@@ -1167,7 +1167,7 @@
     },
     {
         "name": "Andre Seldon Jr",
-        "summary": "Utah State University mourns the tragic death of their student-athlete, Andre Seldon Jr. The 22-year-old football player passed away in an apparent cliff-diving accident at Porcupine Reservoir. Andre's death has deeply saddened the athletic community, with Vanderbilt's coach Jerry Kill expressing his grief by saying Andre was \"like a son\" to him. The incident has rocked the university, leading to an outpouring of support and condolences for Andre's family, friends, and fellow athletes.",
+        "summary": "Tragedy struck the Utah State University community as they mourn the heartbreaking loss of their student-athlete and football player, Andre Seldon Jr. The 22-year-old lost his life in an apparent cliff-diving accident at Porcupine Reservoir. The news has devastated the university and former teams, including Vanderbilt and New Mexico State. Andre's passing has left an unfillable void with his coaches and teammates, who are deeply saddened by his untimely demise.",
         "items": [
             {
                 "title": "Utah State University Mourns Death of Student-Athlete - Utah State Aggies",
@@ -1220,13 +1220,13 @@
                 }
             },
             {
-                "title": "Utah St. football player Seldon dies in drowning - ESPN",
-                "description": "Utah St. football player Seldon dies in drowning  ESPN",
-                "published date": "Sun, 21 Jul 2024 11:57:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmVzcG4uY29tL2NvbGxlZ2UtZm9vdGJhbGwvc3RvcnkvXy9pZC80MDYwOTA0Ni91dGFoLXN0YXRlLWZvb3RiYWxsLXBsYXllci1hbmRyZS1zZWxkb24tanItZGllcy1kcm93bmluZ9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Utah State football player Andre Seldon Jr. dies in drowning accident at Porcupine Reservoir - Cache Valley Daily",
+                "description": "Utah State football player Andre Seldon Jr. dies in drowning accident at Porcupine Reservoir  Cache Valley Daily",
+                "published date": "Sun, 21 Jul 2024 05:52:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5jYWNoZXZhbGxleWRhaWx5LmNvbS9uZXdzL3V0YWgtc3RhdGUtZm9vdGJhbGwtcGxheWVyLWFuZHJlLXNlbGRvbi1qci1kaWVzLWluLWRyb3duaW5nLWFjY2lkZW50LWF0LXBvcmN1cGluZS1yZXNlcnZvaXIvYXJ0aWNsZV81YjUxOGNkMi00NzI1LTExZWYtYjEzMy05YmNkMGYzNGQ2YzQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://www.cachevalleydaily.com",
+                    "title": "Cache Valley Daily"
                 }
             },
             {
@@ -1240,23 +1240,23 @@
                 }
             },
             {
-                "title": "Utah State football player Andre Seldon Jr. dies in drowning accident at Porcupine Reservoir - Cache Valley Daily",
-                "description": "Utah State football player Andre Seldon Jr. dies in drowning accident at Porcupine Reservoir  Cache Valley Daily",
-                "published date": "Sun, 21 Jul 2024 05:52:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5jYWNoZXZhbGxleWRhaWx5LmNvbS9uZXdzL3V0YWgtc3RhdGUtZm9vdGJhbGwtcGxheWVyLWFuZHJlLXNlbGRvbi1qci1kaWVzLWluLWRyb3duaW5nLWFjY2lkZW50LWF0LXBvcmN1cGluZS1yZXNlcnZvaXIvYXJ0aWNsZV81YjUxOGNkMi00NzI1LTExZWYtYjEzMy05YmNkMGYzNGQ2YzQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Utah State football player Andre Seldon Jr dead at 22, school says - Fox News",
+                "description": "Utah State football player Andre Seldon Jr dead at 22, school says  Fox News",
+                "published date": "Sun, 21 Jul 2024 13:19:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy91dGFoLXN0YXRlLWZvb3RiYWxsLXBsYXllci1hbmRyZS1zZWxkb24tanItZGVhZC0yMi1zY2hvb2wtc2F5c9IBYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy91dGFoLXN0YXRlLWZvb3RiYWxsLXBsYXllci1hbmRyZS1zZWxkb24tanItZGVhZC0yMi1zY2hvb2wtc2F5cy5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cachevalleydaily.com",
-                    "title": "Cache Valley Daily"
+                    "href": "https://www.foxnews.com",
+                    "title": "Fox News"
                 }
             },
             {
-                "title": "A tragedy for Utah State football - Deseret News",
-                "description": "A tragedy for Utah State football  Deseret News",
-                "published date": "Sun, 21 Jul 2024 05:24:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRlc2VyZXQuY29tL3Nwb3J0cy8yMDI0LzA3LzIwL2FuZHJlLXNlbGRvbi1kcm93bnMtdXRhaC1zdGF0ZS1jb2xsZWdlLWZvb3RiYWxsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Utah State CB Andre Seldon Jr. dies at 22: Former New Mexico State captain perished in apparent drowning - CBS Sports",
+                "description": "Utah State CB Andre Seldon Jr. dies at 22: Former New Mexico State captain perished in apparent drowning  CBS Sports",
+                "published date": "Sun, 21 Jul 2024 20:17:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2NvbGxlZ2UtZm9vdGJhbGwvbmV3cy91dGFoLXN0YXRlLWNiLWFuZHJlLXNlbGRvbi1qci1kaWVzLWF0LTIyLWZvcm1lci1uZXctbWV4aWNvLXN0YXRlLWNhcHRhaW4tcGVyaXNoZWQtaW4tYXBwYXJlbnQtZHJvd25pbmcv0gGbAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vY29sbGVnZS1mb290YmFsbC9uZXdzL3V0YWgtc3RhdGUtY2ItYW5kcmUtc2VsZG9uLWpyLWRpZXMtYXQtMjItZm9ybWVyLW5ldy1tZXhpY28tc3RhdGUtY2FwdGFpbi1wZXJpc2hlZC1pbi1hcHBhcmVudC1kcm93bmluZy9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.deseret.com",
-                    "title": "Deseret News"
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
                 }
             },
             {
@@ -1272,114 +1272,8 @@
         ]
     },
     {
-        "name": "Esta TerBlanche",
-        "summary": "Esta TerBlanche, an actress best known for her role as Gillian Andrassy on the soap opera \"All My Children,\" has passed away at the age of 51. Her death was reported by several entertainment news outlets, including TMZ, Deadline, Variety, TheWrap, USA TODAY, E! NEWS, New York Post, PEOPLE, Page Six, and Entertainment Weekly. No further details about her passing have been released at this time.",
-        "items": [
-            {
-                "title": "Esta TerBlanche, 'All My Children' Actress, Dead at 51 - TMZ",
-                "description": "Esta TerBlanche, 'All My Children' Actress, Dead at 51  TMZ",
-                "published date": "Sun, 21 Jul 2024 12:52:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnRtei5jb20vMjAyNC8wNy8yMS9lc3RhLXRlcmJsYW5jaGUtZGVhZC1kaWVzLTUxLWFsbC1teS1jaGlsZHJlbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.tmz.com",
-                    "title": "TMZ"
-                }
-            },
-            {
-                "title": "Esta TerBlanche Dies: \u2018All My Children\u2019 Soap Star Was 51 - Deadline",
-                "description": "Esta TerBlanche Dies: \u2018All My Children\u2019 Soap Star Was 51  Deadline",
-                "published date": "Sun, 21 Jul 2024 15:38:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvZXN0YS10ZXJibGFuY2hlLWRlYWQtYWxsLW15LWNoaWxkcmVuLW9iaXR1YXJ5LTEyMzYwMTY4NjYv0gFaaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNy9lc3RhLXRlcmJsYW5jaGUtZGVhZC1hbGwtbXktY2hpbGRyZW4tb2JpdHVhcnktMTIzNjAxNjg2Ni9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://deadline.com",
-                    "title": "Deadline"
-                }
-            },
-            {
-                "title": "Esta TerBlanche, \u2018All My Children\u2019 Actor, Dies at 51 - Variety",
-                "description": "Esta TerBlanche, \u2018All My Children\u2019 Actor, Dies at 51  Variety",
-                "published date": "Sun, 21 Jul 2024 17:24:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
-                }
-            },
-            {
-                "title": "Esta TerBlanche, \u2018All My Children\u2019 Star, Dies at 51 - TheWrap",
-                "description": "Esta TerBlanche, \u2018All My Children\u2019 Star, Dies at 51  TheWrap",
-                "published date": "Sun, 21 Jul 2024 16:53:54 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2VzdGEtdGVyYmxhbmNoZS1kaWVzLWFsbC1teS1jaGlsZHJlbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.thewrap.com",
-                    "title": "TheWrap"
-                }
-            },
-            {
-                "title": "Esta TerBlanche, who played Gillian Andrassy on 'All My Children,' dies at 51 - USA TODAY",
-                "description": "Esta TerBlanche, who played Gillian Andrassy on 'All My Children,' dies at 51  USA TODAY",
-                "published date": "Sun, 21 Jul 2024 21:48:28 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9jZWxlYnJpdGllcy8yMDI0LzA3LzIxL2VzdGEtdGVyYmxhbmNoZS1kZWF0aC1hbGwtbXktY2hpbGRyZW4tZ2lsbGlhbi1hbmRyYXNzeS83NDQ5MDA5MzAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Esta TerBlanche, All My Children Star, Dead at 51 - E! NEWS",
-                "description": "Esta TerBlanche, All My Children Star, Dead at 51  E! NEWS",
-                "published date": "Sun, 21 Jul 2024 20:21:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwNTIyNC9lc3RhLXRlcmJsYW5jaGUtYWxsLW15LWNoaWxkcmVuLXN0YXItZGVhZC1hdC01MdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.eonline.com",
-                    "title": "E! NEWS"
-                }
-            },
-            {
-                "title": "Esta TerBlanche, \u2018All My Children\u2019 actress, dead at 51 - New York Post",
-                "description": "Esta TerBlanche, \u2018All My Children\u2019 actress, dead at 51  New York Post ",
-                "published date": "Sun, 21 Jul 2024 15:56:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIxL2VudGVydGFpbm1lbnQvZXN0YS10ZXJibGFuY2hlLWRlYWQtYWxsLW15LWNoaWxkcmVuLWFjdHJlc3MtZGllcy1hdC01MS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
-                "title": "Esta TerBlanche, All My Children Star and Former Miss Teen South Africa, Dies at 51 - PEOPLE",
-                "description": "Esta TerBlanche, All My Children Star and Former Miss Teen South Africa, Dies at 51  PEOPLE",
-                "published date": "Sun, 21 Jul 2024 19:02:20 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vcGVvcGxlLmNvbS9lc3RhLXRlcmJsYW5jaGUtZGVhZC1hbGwtbXktY2hpbGRyZW4tc3Rhci04NjgxMjE20gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://people.com",
-                    "title": "PEOPLE"
-                }
-            },
-            {
-                "title": "\u2018All My Children\u2019 actress Esta TerBlanche dead at 51 - Page Six",
-                "description": "\u2018All My Children\u2019 actress Esta TerBlanche dead at 51  Page Six",
-                "published date": "Sun, 21 Jul 2024 17:03:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNy8yMS9lbnRlcnRhaW5tZW50L2FsbC1teS1jaGlsZHJlbi1hY3RyZXNzLWVzdGEtdGVyYmxhbmNoZS1kZWFkLWF0LTUxL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://pagesix.com",
-                    "title": "Page Six"
-                }
-            },
-            {
-                "title": "Esta TerBlanche, All My Children star, dies at 51 - Entertainment Weekly News",
-                "description": "Esta TerBlanche, All My Children star, dies at 51  Entertainment Weekly News",
-                "published date": "Sun, 21 Jul 2024 17:11:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZXcuY29tL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi1hY3RyZXNzLTg2ODEyMTDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://ew.com",
-                    "title": "Entertainment Weekly News"
-                }
-            }
-        ]
-    },
-    {
         "name": "Mitt Romney",
-        "summary": "",
+        "summary": "Several news articles have emerged discussing the possibility of Mitt Romney becoming the Democratic nominee in the 2024 presidential election. Aaron Sorkin, creator of the TV show \"The West Wing,\" initially suggested that the Democrats nominate Romney to defeat former President Donald Trump. This proposal received mixed reactions, with some, including Sorkin himself, later retracting their support. Romney has expressed respect for President Biden but has also criticized the upcoming 2023 book by JD Vance, who is running for the Republican nomination against him in Utah. Several news outlets have reported on Sorkin's evolving views on the matter and the potential implications for the Democratic Party's strategy in the upcoming election.",
         "items": [
             {
                 "title": "Opinion | Aaron Sorkin: How I Would Script This Moment for Biden and the Democrats - The New York Times",
@@ -1394,21 +1288,11 @@
             {
                 "title": "Mitt Romney Says He Respects Biden and His Decision \u2018Is in the Best Interest of the Country\u2019 - The Wall Street Journal",
                 "description": "Mitt Romney Says He Respects Biden and His Decision \u2018Is in the Best Interest of the Country\u2019  The Wall Street Journal",
-                "published date": "Mon, 22 Jul 2024 01:03:00 GMT",
+                "published date": "Mon, 22 Jul 2024 01:34:26 GMT",
                 "url": "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS9iaWRlbi1kcm9wcy1vdXQtZWxlY3Rpb24tMjAyNC9jYXJkL21pdHQtcm9tbmV5LXNheXMtaGUtcmVzcGVjdHMtYmlkZW4tYW5kLWhpcy1kZWNpc2lvbi1pcy1pbi10aGUtYmVzdC1pbnRlcmVzdC1vZi10aGUtY291bnRyeS0tVVVHbDAzbllCQTVZS1BQd3VYRDfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.wsj.com",
                     "title": "The Wall Street Journal"
-                }
-            },
-            {
-                "title": "Romney on Vance in 2023 book: \"It's not like you\u2019re going to be famous and powerful\" - Axios",
-                "description": "Romney on Vance in 2023 book: \"It's not like you\u2019re going to be famous and powerful\"  Axios",
-                "published date": "Tue, 16 Jul 2024 22:55:12 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9zYWx0LWxha2UtY2l0eS8yMDI0LzA3LzE2L3JvbW5leS1qZC12YW5jZS1xdW90ZS12aWNlLXByZXNpZGVudC10cnVtcC1ydW5uaW5nLW1hdGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.axios.com",
-                    "title": "Axios"
                 }
             },
             {
@@ -1422,13 +1306,13 @@
                 }
             },
             {
-                "title": "Aaron Sorkin Takes Back Divisive Op-Ed Urging Democratic Party to Select Mitt Romney: Kamala \u2018Harris for America!\u2019 - Variety",
-                "description": "Aaron Sorkin Takes Back Divisive Op-Ed Urging Democratic Party to Select Mitt Romney: Kamala \u2018Harris for America!\u2019  Variety",
-                "published date": "Sun, 21 Jul 2024 22:12:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9wb2xpdGljcy9uZXdzL2Fhcm9uLXNvcmtpbi10YWtlcy1iYWNrLW9wLWVkLWRlbW9jcmF0aWMtcGFydHktbWl0dC1yb21uZXkta2FtYWxhLWhhcnJpcy0xMjM2MDc5NDk2L9IBf2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9wb2xpdGljcy9uZXdzL2Fhcm9uLXNvcmtpbi10YWtlcy1iYWNrLW9wLWVkLWRlbW9jcmF0aWMtcGFydHktbWl0dC1yb21uZXkta2FtYWxhLWhhcnJpcy0xMjM2MDc5NDk2L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Romney on Vance in 2023 book: \"It's not like you\u2019re going to be famous and powerful\" - Axios",
+                "description": "Romney on Vance in 2023 book: \"It's not like you\u2019re going to be famous and powerful\"  Axios",
+                "published date": "Tue, 16 Jul 2024 22:55:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9zYWx0LWxha2UtY2l0eS8yMDI0LzA3LzE2L3JvbW5leS1qZC12YW5jZS1xdW90ZS12aWNlLXByZXNpZGVudC10cnVtcC1ydW5uaW5nLW1hdGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://variety.com",
-                    "title": "Variety"
+                    "href": "https://www.axios.com",
+                    "title": "Axios"
                 }
             },
             {
@@ -1442,6 +1326,16 @@
                 }
             },
             {
+                "title": "Aaron Sorkin Takes Back Divisive Op-Ed Urging Democratic Party to Select Mitt Romney: Kamala \u2018Harris for America!\u2019 - Variety",
+                "description": "Aaron Sorkin Takes Back Divisive Op-Ed Urging Democratic Party to Select Mitt Romney: Kamala \u2018Harris for America!\u2019  Variety",
+                "published date": "Sun, 21 Jul 2024 22:12:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9wb2xpdGljcy9uZXdzL2Fhcm9uLXNvcmtpbi10YWtlcy1iYWNrLW9wLWVkLWRlbW9jcmF0aWMtcGFydHktbWl0dC1yb21uZXkta2FtYWxhLWhhcnJpcy0xMjM2MDc5NDk2L9IBf2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9wb2xpdGljcy9uZXdzL2Fhcm9uLXNvcmtpbi10YWtlcy1iYWNrLW9wLWVkLWRlbW9jcmF0aWMtcGFydHktbWl0dC1yb21uZXkta2FtYWxhLWhhcnJpcy0xMjM2MDc5NDk2L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://variety.com",
+                    "title": "Variety"
+                }
+            },
+            {
                 "title": "Aaron Sorkin Proposes A New \u201cScript\u201d For Democrats: Mitt Romney As The Nominee - Deadline",
                 "description": "Aaron Sorkin Proposes A New \u201cScript\u201d For Democrats: Mitt Romney As The Nominee  Deadline",
                 "published date": "Sun, 21 Jul 2024 16:12:00 GMT",
@@ -1449,6 +1343,16 @@
                 "publisher": {
                     "href": "https://deadline.com",
                     "title": "Deadline"
+                }
+            },
+            {
+                "title": "Aaron Sorkin Backpedals Earlier Op-Ed Piece Claiming Democrats Should Nominate Mitt Romney - IndieWire",
+                "description": "Aaron Sorkin Backpedals Earlier Op-Ed Piece Claiming Democrats Should Nominate Mitt Romney  IndieWire",
+                "published date": "Mon, 22 Jul 2024 01:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmluZGlld2lyZS5jb20vbmV3cy9nZW5lcmFsLW5ld3MvYWFyb24tc29ya2luLW1pdHQtcm9tbmV5LW9wLWVkLTEyMzUwMjgxODMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.indiewire.com",
+                    "title": "IndieWire"
                 }
             },
             {
@@ -1470,22 +1374,12 @@
                     "href": "https://www.newsweek.com",
                     "title": "Newsweek"
                 }
-            },
-            {
-                "title": "Why Mitt Romney once said, \u2018I don\u2019t know that I can disrespect someone more than JD Vance\u2019 - Boston.com",
-                "description": "Why Mitt Romney once said, \u2018I don\u2019t know that I can disrespect someone more than JD Vance\u2019  Boston.com",
-                "published date": "Wed, 17 Jul 2024 18:40:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vbmV3cy9wb2xpdGljcy8yMDI0LzA3LzE3L21pdHQtcm9tbmV5LWpkLXZhbmNlLWRpc3Jlc3BlY3QtcXVvdGUv0gFcaHR0cHM6Ly93d3cuYm9zdG9uLmNvbS9uZXdzL3BvbGl0aWNzLzIwMjQvMDcvMTcvbWl0dC1yb21uZXktamQtdmFuY2UtZGlzcmVzcGVjdC1xdW90ZS8_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.boston.com",
-                    "title": "Boston.com"
-                }
             }
         ]
     },
     {
         "name": "Russian fighter jets",
-        "summary": "",
+        "summary": "Multiple incidents have occurred between Russian and NATO forces in the Arctic and Baltic Sea regions. Russia claims its fighter jets intercepted two U.S. strategic bombers over the Arctic, while the U.S. maintains the aircraft were operating in international airspace. Additionally, NATO's two newest members intercepted two Russian fighter jets over the Baltic Sea, prompting a response from the alliance. In the Arctic, Russian jets scrambled to intercept two U.S. B-52H bombers, according to Russia. Meanwhile, Finland and Sweden, NATO's newest members, remained vigilant and closely integrated into Air Policing operations on the Baltic Sea. Overall, these incidents highlight the ongoing tensions and increased military activity in these strategic regions.",
         "items": [
             {
                 "title": "Russia claims it intercepted US fighter jets over the Arctic - Al Jazeera English",
@@ -1528,16 +1422,6 @@
                 }
             },
             {
-                "title": "Russia Scrambles Fighter Jets To Meet U.S. Arctic Patrol - Radio Free Europe / Radio Liberty",
-                "description": "Russia Scrambles Fighter Jets To Meet U.S. Arctic Patrol  Radio Free Europe / Radio Liberty",
-                "published date": "Sun, 21 Jul 2024 10:12:35 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL25hdG8tcnVzc2lhLWJvbWJlcnMtYXJjdGljLXNjcmFtYmxlLzMzMDQ0NzM4Lmh0bWzSAUtodHRwczovL3d3dy5yZmVybC5vcmcvYW1wL25hdG8tcnVzc2lhLWJvbWJlcnMtYXJjdGljLXNjcmFtYmxlLzMzMDQ0NzM4Lmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.rferl.org",
-                    "title": "Radio Free Europe / Radio Liberty"
-                }
-            },
-            {
                 "title": "Russian fighter jets over Baltic Sea prompt response by 2 newest NATO members - Stars and Stripes",
                 "description": "Russian fighter jets over Baltic Sea prompt response by 2 newest NATO members  Stars and Stripes",
                 "published date": "Wed, 17 Jul 2024 12:38:34 GMT",
@@ -1545,6 +1429,16 @@
                 "publisher": {
                     "href": "https://www.stripes.com",
                     "title": "Stars and Stripes"
+                }
+            },
+            {
+                "title": "Russia Scrambles Fighter Jets To Meet U.S. Arctic Patrol - Radio Free Europe / Radio Liberty",
+                "description": "Russia Scrambles Fighter Jets To Meet U.S. Arctic Patrol  Radio Free Europe / Radio Liberty",
+                "published date": "Sun, 21 Jul 2024 10:12:35 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL25hdG8tcnVzc2lhLWJvbWJlcnMtYXJjdGljLXNjcmFtYmxlLzMzMDQ0NzM4Lmh0bWzSAUtodHRwczovL3d3dy5yZmVybC5vcmcvYW1wL25hdG8tcnVzc2lhLWJvbWJlcnMtYXJjdGljLXNjcmFtYmxlLzMzMDQ0NzM4Lmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.rferl.org",
+                    "title": "Radio Free Europe / Radio Liberty"
                 }
             },
             {
@@ -1578,20 +1472,126 @@
                 }
             },
             {
-                "title": "Russia's Su-57 Felon Fighter Nightmare Just Won't End Anytime Soon - The National Interest Online",
-                "description": "Russia's Su-57 Felon Fighter Nightmare Just Won't End Anytime Soon  The National Interest Online",
-                "published date": "Mon, 15 Jul 2024 07:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3J1c3NpYXMtc3UtNTctZmVsb24tZmlnaHRlci1uaWdodG1hcmUtanVzdC13b250LWVuZC1hbnl0aW1lLXNvb24tMjA5OTc30gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Russia says it scrambled fighter jets to intercept U.S. bomber planes over Barents Sea - Spectrum News NY1",
+                "description": "Russia says it scrambled fighter jets to intercept U.S. bomber planes over Barents Sea  Spectrum News NY1",
+                "published date": "Sun, 21 Jul 2024 13:41:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vbnkxLmNvbS9ueWMvYnJvbngvaW50ZXJuYXRpb25hbC8yMDI0LzA3LzIxL3J1c3NpYS1maWdodGVyLWpldHMtdXMtYmFyZW50cy1zZWHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://nationalinterest.org",
-                    "title": "The National Interest Online"
+                    "href": "https://ny1.com",
+                    "title": "Spectrum News NY1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Earthquake",
+        "summary": "California, Illinois, and Missouri have all experienced recent earthquakes. A 3.5-magnitude earthquake shook Palos Verdes Estates in Los Angeles, while a 3.5-magnitude earthquake struck near Borrego Springs in San Diego County. Illinois was hit by a 3.4-magnitude earthquake 60 miles west of Chicago, and a 3.4-magnitude earthquake was reported in DeKalb County. A 3.3-magnitude earthquake rattled near Gilroy in the Bay Area. In the Midwest, an article discusses the enigmatic earthquake hotspot in America's heartland. Meanwhile, St. Louis is preparing for a major earthquake with drills in the streets, skies, and waterways. A large earthquake also rocked Northern Chile. Additionally, a 3.5-magnitude earthquake hit the Palos Verdes Peninsula, and a 3.4-magnitude earthquake was recorded outside of Chicago on Monday morning.",
+        "items": [
+            {
+                "title": "3.5-magnitude earthquake rattles Palos Verdes Estates - NBC Los Angeles",
+                "description": "3.5-magnitude earthquake rattles Palos Verdes Estates  NBC Los Angeles",
+                "published date": "Mon, 22 Jul 2024 05:28:36 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY2xvc2FuZ2VsZXMuY29tL25ld3MvbG9jYWwvMy01LW1hZ25pdHVkZS1lYXJ0aHF1YWtlLXJhdHRsZXMtcGFsb3MtdmVyZGVzLWVzdGF0ZXMvMzQ2NTE5MC_SAW1odHRwczovL3d3dy5uYmNsb3NhbmdlbGVzLmNvbS9uZXdzL2xvY2FsLzMtNS1tYWduaXR1ZGUtZWFydGhxdWFrZS1yYXR0bGVzLXBhbG9zLXZlcmRlcy1lc3RhdGVzLzM0NjUxOTAvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbclosangeles.com",
+                    "title": "NBC Los Angeles"
+                }
+            },
+            {
+                "title": "Magnitude 3.5 earthquake strikes near Borrego Springs, felt across San Diego County - NBC San Diego",
+                "description": "Magnitude 3.5 earthquake strikes near Borrego Springs, felt across San Diego County  NBC San Diego",
+                "published date": "Thu, 18 Jul 2024 05:33:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5iY3NhbmRpZWdvLmNvbS9uZXdzL2xvY2FsL2JvcnJlZ28tc3ByaW5ncy1lYXJ0aHF1YWtlLXNhbi1kaWVnby1jb3VudHkvMzU2OTQ0Ny_SAWFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9ib3JyZWdvLXNwcmluZ3MtZWFydGhxdWFrZS1zYW4tZGllZ28tY291bnR5LzM1Njk0NDcvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcsandiego.com",
+                    "title": "NBC San Diego"
+                }
+            },
+            {
+                "title": "The Enigmatic Earthquake Hotspot in America\u2019s Heartland - Undark Magazine",
+                "description": "The Enigmatic Earthquake Hotspot in America\u2019s Heartland  Undark Magazine",
+                "published date": "Mon, 15 Jul 2024 07:19:54 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdW5kYXJrLm9yZy8yMDI0LzA3LzE1L2VuaWdtYXRpYy1lYXJ0aHF1YWtlLWhvdHNwb3QtYW1lcmljYS1oZWFydGxhbmQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://undark.org",
+                    "title": "Undark Magazine"
+                }
+            },
+            {
+                "title": "3.4 Magnitude Earthquake Shakes Illinois, 60 Miles West of Chicago - WTTW News",
+                "description": "3.4 Magnitude Earthquake Shakes Illinois, 60 Miles West of Chicago  WTTW News",
+                "published date": "Mon, 15 Jul 2024 14:11:19 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmV3cy53dHR3LmNvbS8yMDI0LzA3LzE1LzM0LW1hZ25pdHVkZS1lYXJ0aHF1YWtlLXNoYWtlcy1pbGxpbm9pcy02MC1taWxlcy13ZXN0LWNoaWNhZ2_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://news.wttw.com",
+                    "title": "WTTW News"
+                }
+            },
+            {
+                "title": "3.4 magnitude earthquake reported in DeKalb County: USGS - NBC Chicago",
+                "description": "3.4 magnitude earthquake reported in DeKalb County: USGS  NBC Chicago",
+                "published date": "Mon, 15 Jul 2024 16:24:10 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvMy00LW1hZ25pdHVkZS1lYXJ0aHF1YWtlLXJlcG9ydGVkLWluLWRla2FsYi1jb3VudHktdXNncy8zNDg5NjI1L9IBbGh0dHBzOi8vd3d3Lm5iY2NoaWNhZ28uY29tL25ld3MvbG9jYWwvMy00LW1hZ25pdHVkZS1lYXJ0aHF1YWtlLXJlcG9ydGVkLWluLWRla2FsYi1jb3VudHktdXNncy8zNDg5NjI1Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcchicago.com",
+                    "title": "NBC Chicago"
+                }
+            },
+            {
+                "title": "3.3 magnitude earthquake rattles near Gilroy - NBC Bay Area",
+                "description": "3.3 magnitude earthquake rattles near Gilroy  NBC Bay Area",
+                "published date": "Wed, 17 Jul 2024 22:36:11 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5iY2JheWFyZWEuY29tL25ld3MvbG9jYWwvZWFydGhxdWFrZXMvZWFydGhxdWFrZS1yYXR0bGVzLWdpbHJveS8zNTk1MzY4L9IBWmh0dHBzOi8vd3d3Lm5iY2JheWFyZWEuY29tL25ld3MvbG9jYWwvZWFydGhxdWFrZXMvZWFydGhxdWFrZS1yYXR0bGVzLWdpbHJveS8zNTk1MzY4Lz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcbayarea.com",
+                    "title": "NBC Bay Area"
+                }
+            },
+            {
+                "title": "St. Louis prepares for major earthquake with drills in streets, skies and waterways - STLPR",
+                "description": "St. Louis prepares for major earthquake with drills in streets, skies and waterways  STLPR",
+                "published date": "Thu, 18 Jul 2024 19:17:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnN0bHByLm9yZy9oZWFsdGgtc2NpZW5jZS1lbnZpcm9ubWVudC8yMDI0LTA3LTE4L3N0LWxvdWlzLWhvc3RzLW1ham9yLWVhcnRocXVha2UtcmVzcG9uc2Utc2ltdWxhdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.stlpr.org",
+                    "title": "STLPR"
+                }
+            },
+            {
+                "title": "Large Earthquake Rocks Northern Chile - The New York Times",
+                "description": "Large Earthquake Rocks Northern Chile  The New York Times",
+                "published date": "Fri, 19 Jul 2024 02:41:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTgvd29ybGQvYW1lcmljYXMvY2hpbGUtZWFydGhxdWFrZS1hdGFjYW1hLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "3.5 earthquake rattles Palos Verdes Peninsula - Los Angeles Times",
+                "description": "3.5 earthquake rattles Palos Verdes Peninsula  Los Angeles Times",
+                "published date": "Sun, 21 Jul 2024 22:24:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2NhbGlmb3JuaWEvc3RvcnkvMjAyNC0wNy0yMS9wYWxvcy12ZXJkZXMtZWFydGhxdWFrZS1qdWx5LTIx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.latimes.com",
+                    "title": "Los Angeles Times"
+                }
+            },
+            {
+                "title": "Magnitude 3.4 earthquake recorded outside of Chicago Monday morning - USA TODAY",
+                "description": "Magnitude 3.4 earthquake recorded outside of Chicago Monday morning  USA TODAY",
+                "published date": "Mon, 15 Jul 2024 11:01:59 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA3LzE1L2lsbGlub2lzLWVhcnRocXVha2Utc29tb25hdWstbW9uZGF5Lzc0NDA1ODAyMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
                 }
             }
         ]
     },
     {
         "name": "Bruce Springsteen",
-        "summary": "",
+        "summary": "Bruce Springsteen's financial status has significantly increased, with Forbes estimating his net worth to have surpassed $1 billion. This milestone has prompted various news outlets to report on Springsteen's newfound billionaire status, with headlines such as \"Bruce Springsteen Is Now a Billionaire\" and \"Bruce Springsteen Is Officially a Billionaire.\" Additionally, news sources have highlighted Springsteen's recent achievements, including his first appearance on the Hot Country Songs Chart, aided by Zach Bryan's support.",
         "items": [
             {
                 "title": "Bruce Springsteen Is Now a Billionaire, Forbes Estimates - Variety",
@@ -1601,16 +1601,6 @@
                 "publisher": {
                     "href": "https://variety.com",
                     "title": "Variety"
-                }
-            },
-            {
-                "title": "Bruce Springsteen Is Now A Billionaire - Forbes",
-                "description": "Bruce Springsteen Is Now A Billionaire  Forbes",
-                "published date": "Fri, 19 Jul 2024 11:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbGlzZXR0ZXZveXRrby8yMDI0LzA3LzE5L2JydWNlLXNwcmluZ3N0ZWVuLWlzLW5vdy1hLWJpbGxpb25haXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
                 }
             },
             {
@@ -1624,9 +1614,19 @@
                 }
             },
             {
+                "title": "Bruce Springsteen Is Now A Billionaire - Forbes",
+                "description": "Bruce Springsteen Is Now A Billionaire  Forbes",
+                "published date": "Fri, 19 Jul 2024 11:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbGlzZXR0ZXZveXRrby8yMDI0LzA3LzE5L2JydWNlLXNwcmluZ3N0ZWVuLWlzLW5vdy1hLWJpbGxpb25haXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
+                }
+            },
+            {
                 "title": "Bruce Springsteen is officially a billionaire, according to Forbes - The Guardian",
                 "description": "Bruce Springsteen is officially a billionaire, according to Forbes  The Guardian",
-                "published date": "Sun, 21 Jul 2024 10:00:04 GMT",
+                "published date": "Fri, 19 Jul 2024 04:00:30 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tdXNpYy9hcnRpY2xlLzIwMjQvanVsLzE5L2JydWNlLXNwcmluZ3N0ZWVuLWJpbGxpb25haXJl0gFTaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL211c2ljL2FydGljbGUvMjAyNC9qdWwvMTkvYnJ1Y2Utc3ByaW5nc3RlZW4tYmlsbGlvbmFpcmU?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.theguardian.com",
@@ -1664,16 +1664,6 @@
                 }
             },
             {
-                "title": "Springsteen's net worth soars past $1 billion: Forbes - Asbury Park Press",
-                "description": "Springsteen's net worth soars past $1 billion: Forbes  Asbury Park Press",
-                "published date": "Fri, 19 Jul 2024 14:07:37 GMT",
-                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5hcHAuY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbXVzaWMvMjAyNC8wNy8xOS9icnVjZS1zcHJpbmdzdGVlbi1iaWxsaW9uYWlyZS1hc2J1cnktcGFyay1qZXJzZXktc2hvcmUtZm9yYmVzLzc0NDY3OTkxMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.app.com",
-                    "title": "Asbury Park Press"
-                }
-            },
-            {
                 "title": "Bruce Springsteen Has Zach Bryan to Thank for This Career First - Ultimate Classic Rock",
                 "description": "Bruce Springsteen Has Zach Bryan to Thank for This Career First  Ultimate Classic Rock",
                 "published date": "Tue, 16 Jul 2024 17:17:14 GMT",
@@ -1684,8 +1674,18 @@
                 }
             },
             {
-                "title": "Medical License of Doc Treating Trump\u2019s Ear Wound Has Expired: Report - The Daily Beast",
-                "description": "Medical License of Doc Treating Trump\u2019s Ear Wound Has Expired: Report  The Daily Beast",
+                "title": "Springsteen's net worth soars past $1 billion: Forbes - Asbury Park Press",
+                "description": "Springsteen's net worth soars past $1 billion: Forbes  Asbury Park Press",
+                "published date": "Fri, 19 Jul 2024 14:07:37 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5hcHAuY29tL3N0b3J5L2VudGVydGFpbm1lbnQvbXVzaWMvMjAyNC8wNy8xOS9icnVjZS1zcHJpbmdzdGVlbi1iaWxsaW9uYWlyZS1hc2J1cnktcGFyay1qZXJzZXktc2hvcmUtZm9yYmVzLzc0NDY3OTkxMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.app.com",
+                    "title": "Asbury Park Press"
+                }
+            },
+            {
+                "title": "Mitt Romney\u2019s Biden Statement Sounds Very Different From His GOP Colleagues - The Daily Beast",
+                "description": "Mitt Romney\u2019s Biden Statement Sounds Very Different From His GOP Colleagues  The Daily Beast",
                 "published date": "Fri, 19 Jul 2024 16:46:05 GMT",
                 "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL2dvb2QtdG8tYmUtdGhlLWJvc3MtZm9yYmVzLXNheXMtYnJ1Y2Utc3ByaW5nc3RlZW4taXMtbm93LWEtYmlsbGlvbmFpcmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
@@ -1696,8 +1696,114 @@
         ]
     },
     {
+        "name": "Wes Moore",
+        "summary": "With President Biden's term winding down, speculation is rising about the future of Maryland Governor Wes Moore. Some analysts believe Moore, seen as a rising star within the Democratic Party, could be a potential vice presidential candidate. Governor Moore has weighed in on the presidential election, voiced his support for Vice President Harris, and has been involved in initiatives such as the \"Buy Local Cookout.\" Despite political differences, Moore has joined Governor Hogan in advocating for civility in political discourse. Moore has also criticized Republican candidate JD Vance for \"political shapeshifting.\" Meanwhile, the Maryland board has approved significant budget cuts to bolster Medicaid and childcare support.",
+        "items": [
+            {
+                "title": "With Biden out, what\u2019s next for Maryland Gov. Wes Moore? - The Baltimore Banner",
+                "description": "With Biden out, what\u2019s next for Maryland Gov. Wes Moore?  The Baltimore Banner",
+                "published date": "Sun, 21 Jul 2024 18:28:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vcG9saXRpY3MtcG93ZXIvc3RhdGUtZ292ZXJubWVudC93ZXMtbW9vcmUtZnV0dXJlLWpvZS1iaWRlbi00QVFTQVJaRk9OR0w1SFI3NVQzSFIyNEJGWS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.thebaltimorebanner.com",
+                    "title": "The Baltimore Banner"
+                }
+            },
+            {
+                "title": "Gov. Wes Moore weighs in on presidential election - WBAL TV Baltimore",
+                "description": "Gov. Wes Moore weighs in on presidential election  WBAL TV Baltimore",
+                "published date": "Fri, 19 Jul 2024 11:55:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LndiYWx0di5jb20vYXJ0aWNsZS9nb3Ytd2VzLW1vb3JlLXdlaWdocy1pbi0yMDI0LXByZXNpZGVudGlhbC1lbGVjdGlvbi82MTY0MDYyOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wbaltv.com",
+                    "title": "WBAL TV Baltimore"
+                }
+            },
+            {
+                "title": "Could Maryland Gov. Wes Moore be a contender for VP? - CBS News",
+                "description": "Could Maryland Gov. Wes Moore be a contender for VP?  CBS News",
+                "published date": "Mon, 22 Jul 2024 03:21:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2JhbHRpbW9yZS9uZXdzL2NvdWxkLW1hcnlsYW5kLWdvdi13ZXMtbW9vcmUtYmUtYS12aWNlLXByZXNpZGVudGlhbC1jYW5kaWRhdGUv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2JhbHRpbW9yZS9uZXdzL2NvdWxkLW1hcnlsYW5kLWdvdi13ZXMtbW9vcmUtYmUtYS12aWNlLXByZXNpZGVudGlhbC1jYW5kaWRhdGUv?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
+                }
+            },
+            {
+                "title": "Maryland Gov. Wes Moore, seen as a possible presidential candidate, thanks Biden and plans to endorse Harris on Monday - Baltimore Sun",
+                "description": "Maryland Gov. Wes Moore, seen as a possible presidential candidate, thanks Biden and plans to endorse Harris on Monday  Baltimore Sun",
+                "published date": "Sun, 21 Jul 2024 21:46:52 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJhbHRpbW9yZXN1bi5jb20vMjAyNC8wNy8yMS9tYXJ5bGFuZC1nb3Ytd2VzLW1vb3JlLXN0b3BzLXNob3J0LW9mLWVuZG9yc2luZy1oYXJyaXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.baltimoresun.com",
+                    "title": "Baltimore Sun"
+                }
+            },
+            {
+                "title": "Governor Moore and the Maryland Department of Agriculture Host the 2024 Governor\u2019s Buy Local Cookout - Governor Larry Hogan - Official Website for the Governor of Maryland",
+                "description": "Governor Moore and the Maryland Department of Agriculture Host the 2024 Governor\u2019s Buy Local Cookout  Governor Larry Hogan - Official Website for the Governor of Maryland",
+                "published date": "Fri, 19 Jul 2024 05:18:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMioAFodHRwczovL2dvdmVybm9yLm1hcnlsYW5kLmdvdi9uZXdzL3ByZXNzL3BhZ2VzL2dvdmVybm9yLW1vb3JlLWFuZC10aGUtbWFyeWxhbmQtZGVwYXJ0bWVudC1vZi1hZ3JpY3VsdHVyZS1ob3N0LXRoZS0yMDI0LWdvdmVybm9yJUUyJTgwJTk5cy1idXktbG9jYWwtY29va291dC5hc3B40gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://governor.maryland.gov",
+                    "title": "Governor Larry Hogan - Official Website for the Governor of Maryland"
+                }
+            },
+            {
+                "title": "Maryland Gov. Wes Moore's name floated as potential VP pick for Harris ticket - FOX 5 DC",
+                "description": "Maryland Gov. Wes Moore's name floated as potential VP pick for Harris ticket  FOX 5 DC",
+                "published date": "Sun, 21 Jul 2024 23:45:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy9tYXJ5bGFuZC1nb3Ytd2VzLW1vb3Jlcy1uYW1lLWZsb2F0ZWQtcG90ZW50aWFsLXBpY2staGFycmlzLXRpY2tldNIBYWh0dHBzOi8vd3d3LmZveDVkYy5jb20vbmV3cy9tYXJ5bGFuZC1nb3Ytd2VzLW1vb3Jlcy1uYW1lLWZsb2F0ZWQtcG90ZW50aWFsLXBpY2staGFycmlzLXRpY2tldC5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.fox5dc.com",
+                    "title": "FOX 5 DC"
+                }
+            },
+            {
+                "title": "Moore, Hogan join call for a more temperate political discourse - Maryland Matters",
+                "description": "Moore, Hogan join call for a more temperate political discourse  Maryland Matters",
+                "published date": "Mon, 15 Jul 2024 23:02:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbWFyeWxhbmRtYXR0ZXJzLm9yZy8yMDI0LzA3LzE1L21vb3JlLWhvZ2FuLWpvaW4tY2FsbC1mb3ItYS1tb3JlLXRlbXBlcmF0ZS1wb2xpdGljYWwtZGlzY291cnNlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://marylandmatters.org",
+                    "title": "Maryland Matters"
+                }
+            },
+            {
+                "title": "MD Governor Wes Moore talks Biden, Trump - WAMU 88.5",
+                "description": "MD Governor Wes Moore talks Biden, Trump  WAMU 88.5",
+                "published date": "Sat, 20 Jul 2024 06:39:18 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd2FtdS5vcmcvc3RvcnkvMjQvMDcvMTkvdGhlLXBvbGl0aWNzLWhvdXItbWFyeWxhbmQtZ292ZXJub3Itd2VzLW1vb3JlLW9uLXRoZS1uZWVkLWZvci1jb29sZXItcmhldG9yaWMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://wamu.org",
+                    "title": "WAMU 88.5"
+                }
+            },
+            {
+                "title": "'Incredibly dangerous and problematic': Gov. Moore knocks JD Vance for political 'shapeshifting' - MSNBC",
+                "description": "'Incredibly dangerous and problematic': Gov. Moore knocks JD Vance for political 'shapeshifting'  MSNBC",
+                "published date": "Thu, 18 Jul 2024 05:23:05 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5tc25iYy5jb20vbXNuYmMvd2F0Y2gvLWluY3JlZGlibHktZGFuZ2Vyb3VzLWFuZC1wcm9ibGVtYXRpYy1nb3YtbW9vcmUta25vY2tzLWpkLXZhbmNlLWZvci1wb2xpdGljYWwtc2hhcGVzaGlmdGluZy0yMTUxMzY4Mzc5NTTSATZodHRwczovL3d3dy5tc25iYy5jb20vbXNuYmMvYW1wLXZpZGVvL21tdm8yMTUxMzY4Mzc5NTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.msnbc.com",
+                    "title": "MSNBC"
+                }
+            },
+            {
+                "title": "Maryland board approves $148M in cuts to help support Medicaid, child care - The Associated Press",
+                "description": "Maryland board approves $148M in cuts to help support Medicaid, child care  The Associated Press",
+                "published date": "Wed, 17 Jul 2024 18:31:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21hcnlsYW5kLWJ1ZGdldC1jdXRzLWdvdmVybm9yLWE3NTMxMjI2NWUwYTAyYzk1MzdjOWRhNjYwOTU0NmQ50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            }
+        ]
+    },
+    {
         "name": "Jake Paul vs Mike Perry",
-        "summary": "",
+        "summary": "Jake Paul's highly anticipated boxing match against Mike Perry has generated significant buzz, with a range of sources providing fight details, schedules, odds, predictions, and live stream information. The Forbes article captures the highlight of the knockout and fan reactions, while CBS Sports offers a comprehensive guide on the fight card, date, start time, and other pertinent details. Yahoo Sports acknowledges the unusual nature of the Paul-Perry matchup but emphasizes its genuine excitement. DAZN provides the fight week schedule, including dates and times for weigh-ins and the main event. USA TODAY addresses the specific walk-in time for the main event. Bleacher Report offers predictions and live stream information, while ESPN reports on Paul's TKO victory and his post-fight call-out of Mike Tyson. Variety provides instructions on how to access the pay-per-view livestream, and CBS Sports presents pre-fight predictions, odds, and expert analysis. Finally, Forbes succinctly summarizes the date, time, and viewing options for the Paul-Perry fight.",
         "items": [
             {
                 "title": "Jake Paul Vs. Mike Perry Results: KO Highlight And Reaction - Forbes",
@@ -1720,16 +1826,6 @@
                 }
             },
             {
-                "title": "Jake Paul vs. Mike Perry fight week schedule: Dates, start times, how to watch on DAZN - DAZN",
-                "description": "Jake Paul vs. Mike Perry fight week schedule: Dates, start times, how to watch on DAZN  DAZN",
-                "published date": "Thu, 18 Jul 2024 06:04:20 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5kYXpuLmNvbS9lbi1VUy9uZXdzL2JveGluZy9qYWtlLXBhdWwtdnMtbWlrZS1wZXJyeS1maWdodC13ZWVrLXNjaGVkdWxlLWRhdGVzLXN0YXJ0LXRpbWVzLWhvdy10by13YXRjaC1vbi1kYXpuL2F6ajNvNmU5eTJ5NDEwbGdkeHdkdnlkbHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.dazn.com",
-                    "title": "DAZN"
-                }
-            },
-            {
                 "title": "Jake Paul vs. Mike Perry, while completely ridiculous, is a genuinely exciting (and real) fight - Yahoo Sports",
                 "description": "Jake Paul vs. Mike Perry, while completely ridiculous, is a genuinely exciting (and real) fight  Yahoo Sports",
                 "published date": "Thu, 18 Jul 2024 21:51:32 GMT",
@@ -1737,6 +1833,16 @@
                 "publisher": {
                     "href": "https://sports.yahoo.com",
                     "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "Jake Paul vs. Mike Perry fight week schedule: Dates, start times, how to watch on DAZN - DAZN",
+                "description": "Jake Paul vs. Mike Perry fight week schedule: Dates, start times, how to watch on DAZN  DAZN",
+                "published date": "Thu, 18 Jul 2024 06:04:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5kYXpuLmNvbS9lbi1VUy9uZXdzL2JveGluZy9qYWtlLXBhdWwtdnMtbWlrZS1wZXJyeS1maWdodC13ZWVrLXNjaGVkdWxlLWRhdGVzLXN0YXJ0LXRpbWVzLWhvdy10by13YXRjaC1vbi1kYXpuL2F6ajNvNmU5eTJ5NDEwbGdkeHdkdnlkbHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.dazn.com",
+                    "title": "DAZN"
                 }
             },
             {
@@ -1780,16 +1886,6 @@
                 }
             },
             {
-                "title": "Why Jake Paul is fighting Mike Perry Saturday and not Mike Tyson - Tennessean",
-                "description": "Why Jake Paul is fighting Mike Perry Saturday and not Mike Tyson  Tennessean",
-                "published date": "Tue, 16 Jul 2024 10:05:53 GMT",
-                "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRlbm5lc3NlYW4uY29tL3N0b3J5L3Nwb3J0cy8yMDI0LzA3LzE2L21pa2UtdHlzb24tamFrZS1wYXVsLWZpZ2h0LXJlc2NoZWR1bGVkLWRhdGUtbWlrZS1wZXJyeS83NDM4MzQ3NjAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.tennessean.com",
-                    "title": "Tennessean"
-                }
-            },
-            {
                 "title": "Jake Paul vs. Mike Perry fight predictions, odds, preview, undercard, start time, expert picks - CBS Sports",
                 "description": "Jake Paul vs. Mike Perry fight predictions, odds, preview, undercard, start time, expert picks  CBS Sports",
                 "published date": "Sat, 20 Jul 2024 23:00:00 GMT",
@@ -1798,118 +1894,22 @@
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
                 }
-            }
-        ]
-    },
-    {
-        "name": "USA vs South Sudan",
-        "summary": "In a pre-Olympic exhibition game, Team USA narrowly escaped an upset against South Sudan. Led by LeBron James' clutch performance in the final minutes, the Americans ultimately emerged victorious 101-100. James' game-winning shot with eight seconds remaining proved crucial in avoiding a shocking defeat. The match, which marked the opening of the USA Basketball Showcase in London, showcased a thrilling contest between the two teams. Despite trailing by 14 points at one point, Team USA's resilience and James' leadership ultimately prevailed.",
-        "items": [
-            {
-                "title": "LeBron James bails out Team USA with closeout performance against South Sudan - NBA.com",
-                "description": "LeBron James bails out Team USA with closeout performance against South Sudan  NBA.com",
-                "published date": "Sun, 21 Jul 2024 01:20:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9sZWJyb24tamFtZXMtdGVhbS11c2EtZWRnZXMtc291dGgtc3VkYW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nba.com",
-                    "title": "NBA.com"
-                }
             },
             {
-                "title": "James hits game winner with 8 seconds left, US avoids upset and escapes South Sudan 101-100 - The Associated Press",
-                "description": "James hits game winner with 8 seconds left, US avoids upset and escapes South Sudan 101-100  The Associated Press",
-                "published date": "Sat, 20 Jul 2024 22:49:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NvdXRoLXN1ZGFuLXVzYS1iYXNrZXRiYWxsLXBhcmlzLW9seW1waWNzLWM4MmQwNzQ0NWE4ZDQzMDQwOTE1ZjMwMDI1OGMyMmE20gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Jake Paul Vs. Mike Perry: Date, Time And How To Watch - Forbes",
+                "description": "Jake Paul Vs. Mike Perry: Date, Time And How To Watch  Forbes",
+                "published date": "Thu, 18 Jul 2024 16:19:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvYnJpYW5tYXppcXVlLzIwMjQvMDcvMTgvamFrZS1wYXVsLXZzLW1pa2UtcGVycnktZGF0ZS10aW1lLWFuZC1ob3ctdG8td2F0Y2gv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            },
-            {
-                "title": "LeBron, Team USA hold off South Sudan in a pre-Olympic thriller - ESPN",
-                "description": "LeBron, Team USA hold off South Sudan in a pre-Olympic thriller  ESPN",
-                "published date": "Sat, 20 Jul 2024 21:55:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmVzcG4uY29tL29seW1waWNzL3N0b3J5L18vaWQvNDA1OTIzNDIvdGVhbS11c2Etc291dGgtc3VkYW4tbGl2ZS1zY29yZS11cGRhdGVzLW9seW1waWNzLXR1bmV1cNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "USA Basketball Showcase London Opens With USA vs. South Sudan - USA Basketball",
-                "description": "USA Basketball Showcase London Opens With USA vs. South Sudan  USA Basketball",
-                "published date": "Fri, 19 Jul 2024 19:07:11 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnVzYWIuY29tL25ld3MvMjAyNC8wNy91c2EtYmFza2V0YmFsbC1zaG93Y2FzZS1sb25kb24tb3BlbnMtd2l0aC11c2EtdnMtc291dGgtc3VkYW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usab.com",
-                    "title": "USA Basketball"
-                }
-            },
-            {
-                "title": "Team USA Basketball Showcase highlights: USA escapes upset vs. South Sudan - USA TODAY",
-                "description": "Team USA Basketball Showcase highlights: USA escapes upset vs. South Sudan  USA TODAY",
-                "published date": "Sat, 20 Jul 2024 21:45:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL29seW1waWNzLzIwMjQvMDcvMjAvdXNhLXNvdXRoLXN1ZGFuLWxpdmUtdXBkYXRlcy1zY29yZS1oaWdobGlnaHRzLW9seW1waWMtc2hvd2Nhc2UtYmFza2V0YmFsbC83NDQzOTA2NDAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Where to watch Team USA vs. South Sudan: TV channel, game time, live stream, odds for pre-Olympics exhibition - CBS Sports",
-                "description": "Where to watch Team USA vs. South Sudan: TV channel, game time, live stream, odds for pre-Olympics exhibition  CBS Sports",
-                "published date": "Sat, 20 Jul 2024 17:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL3doZXJlLXRvLXdhdGNoLXRlYW0tdXNhLXZzLXNvdXRoLXN1ZGFuLXR2LWNoYW5uZWwtZ2FtZS10aW1lLWxpdmUtc3RyZWFtLW9kZHMtZm9yLXByZS1vbHltcGljcy1leGhpYml0aW9uL9IBkAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL3doZXJlLXRvLXdhdGNoLXRlYW0tdXNhLXZzLXNvdXRoLXN1ZGFuLXR2LWNoYW5uZWwtZ2FtZS10aW1lLWxpdmUtc3RyZWFtLW9kZHMtZm9yLXByZS1vbHltcGljcy1leGhpYml0aW9uL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "USA men's basketball overcomes 14-point deficit to beat South Sudan 101-100 - FOX Sports",
-                "description": "USA men's basketball overcomes 14-point deficit to beat South Sudan 101-100  FOX Sports",
-                "published date": "Sat, 20 Jul 2024 21:17:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvdXNhLW1lbnMtYmFza2V0YmFsbC10cmFpbGluZy1zb3V0aC1zdWRhbi0xNC1wb2ludHMtaGFsZtIBXWh0dHBzOi8vYW1wLmZveHNwb3J0cy5jb20vc3Rvcmllcy9uYmEvdXNhLW1lbnMtYmFza2V0YmFsbC10cmFpbGluZy1zb3V0aC1zdWRhbi0xNC1wb2ludHMtaGFsZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
-                }
-            },
-            {
-                "title": "USA vs South Sudan score updates: Time, TV channel, streaming for USA Basketball Showcase - Oklahoman.com",
-                "description": "USA vs South Sudan score updates: Time, TV channel, streaming for USA Basketball Showcase  Oklahoman.com",
-                "published date": "Sat, 20 Jul 2024 17:03:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5va2xhaG9tYW4uY29tL3N0b3J5L3Nwb3J0cy9vbHltcGljcy8yMDI0LzA3LzIwL3VzLXNvdXRoLXN1ZGFuLWxpdmUtdXBkYXRlcy1zY29yZS1oaWdobGlnaHRzLXVzYS1iYXNrZXRiYWxsLXNob3djYXNlLzc0NDc5NjYyMDA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.oklahoman.com",
-                    "title": "Oklahoman.com"
-                }
-            },
-            {
-                "title": "USA vs. South Sudan: TV Schedule, Start Time and Live Stream for Basketball Showcase - Bleacher Report",
-                "description": "USA vs. South Sudan: TV Schedule, Start Time and Live Stream for Basketball Showcase  Bleacher Report",
-                "published date": "Fri, 19 Jul 2024 14:05:58 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzEwMTI4ODEzLXVzYS12cy1zb3V0aC1zdWRhbi10di1zY2hlZHVsZS1zdGFydC10aW1lLWFuZC1saXZlLXN0cmVhbS1mb3ItYmFza2V0YmFsbC1zaG93Y2FzZdIBjgFodHRwczovL3N5bmRpY2F0aW9uLmJsZWFjaGVycmVwb3J0LmNvbS9hbXAvMTAxMjg4MTMtdXNhLXZzLXNvdXRoLXN1ZGFuLXR2LXNjaGVkdWxlLXN0YXJ0LXRpbWUtYW5kLWxpdmUtc3RyZWFtLWZvci1iYXNrZXRiYWxsLXNob3djYXNlLmFtcC5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
-                "title": "USA vs. South Sudan: How to watch the next USA Men's Basketball pre-Olympics showcase game today - Yahoo Sports",
-                "description": "USA vs. South Sudan: How to watch the next USA Men's Basketball pre-Olympics showcase game today  Yahoo Sports",
-                "published date": "Sat, 20 Jul 2024 18:15:36 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vdXNhLXZzLXNvdXRoLXN1ZGFuLWhvdy10by13YXRjaC10aGUtbmV4dC11c2EtbWVucy1iYXNrZXRiYWxsLXByZS1vbHltcGljcy1zaG93Y2FzZS1nYW1lLXRvZGF5LTExNTUyODc3OS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
                 }
             }
         ]
     },
     {
         "name": "WNBA All-Star Game",
-        "summary": "",
+        "summary": "The upcoming 2024 WNBA All-Star Game promises an exciting showdown between WNBA All-Stars and Team USA. The rosters for the game feature rising stars like Caitlin Clark of the Indiana Fever and Angel Reese of the LSU Tigers. Fans can witness the All-Star debut of Clark and listen live to the game on SiriusXM. Live streams and TV coverage will be available on CBS Sports, USA Today, and other major outlets. The game marks the latest appearance of rookie duos in the WNBA All-Star Game, with Arike Ogunbowale and Clark leading the All-Stars to victory over Team USA in a thrilling contest.",
         "items": [
             {
                 "title": "WNBA All-Star Countdown to Tipoff - Mitchell, Boston, Clark Gear Up for 2024 WNBA All-Star Game - Indiana Fever",
@@ -1972,16 +1972,6 @@
                 }
             },
             {
-                "title": "Caitlin Clark, Angel Reese latest rookie duo in WNBA All-Star Game - ESPN",
-                "description": "Caitlin Clark, Angel Reese latest rookie duo in WNBA All-Star Game  ESPN",
-                "published date": "Sat, 20 Jul 2024 12:28:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmVzcG4uY29tL3duYmEvc3RvcnkvXy9pZC80MDU5MzE4Mi93bmJhLWFsbC1zdGFyLWdhbWUtcm9va2llLWR1b3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
                 "title": "WNBA All-Star Game: Schedule, TV, rosters - USA TODAY",
                 "description": "WNBA All-Star Game: Schedule, TV, rosters  USA TODAY",
                 "published date": "Mon, 15 Jul 2024 10:08:12 GMT",
@@ -1989,6 +1979,16 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Caitlin Clark, Angel Reese latest rookie duo in WNBA All-Star Game - ESPN",
+                "description": "Caitlin Clark, Angel Reese latest rookie duo in WNBA All-Star Game  ESPN",
+                "published date": "Sat, 20 Jul 2024 12:28:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmVzcG4uY29tL3duYmEvc3RvcnkvXy9pZC80MDU5MzE4Mi93bmJhLWFsbC1zdGFyLWdhbWUtcm9va2llLWR1b3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
                 }
             },
             {
@@ -2015,7 +2015,7 @@
     },
     {
         "name": "USA Basketball",
-        "summary": "The United States men's basketball team has had a successful run in the lead-up to the 2024 Paris Olympics. They recently held an exhibition game against Australia, showcasing their skills and teamwork. In another game against Serbia, Stephen Curry led the team to a dominant victory, scoring 24 points. Despite facing unique pressures associated with representing the United States, the team remains determined to perform well at the Olympics. The upcoming WNBA All-Star Game will feature a special showdown between the USA and WNBA teams. The match will provide a glimpse of the talent and athleticism of women's basketball. Team USA men's basketball has also had a successful showing, narrowly defeating South Sudan in a tune-up game for the 2024 Olympics.",
+        "summary": "The WNBA All-Star Game will showcase a matchup between the USA and WNBA teams. Team USA Basketball is preparing for the 2024 Paris Olympics, with recent updates and scores available from ESPN. Highlights from the USA vs. Australia exhibition game are featured on USA Today. Team USA's men's basketball team has dominated Serbia in a Paris Olympics preview, while they narrowly escaped with a one-point win against South Sudan in a tune-up game. Stephen Curry has showcased strong performance in their 105-79 win over Serbia. The pressure faced by Team USA Basketball in the Olympics is discussed in The Guardian, while CBS News provides information on upcoming games. Notably, LeBron James stepped up with a closeout performance against South Sudan, securing a win for Team USA.",
         "items": [
             {
                 "title": "WNBA All-Star Game To Feature Showdown Between USA And WNBA - USA Basketball",
@@ -2025,16 +2025,6 @@
                 "publisher": {
                     "href": "https://www.usab.com",
                     "title": "USA Basketball"
-                }
-            },
-            {
-                "title": "Team USA men's basketball escapes with a one-point win against South Sudan in Paris 2024 tuneup - Olympics",
-                "description": "Team USA men's basketball escapes with a one-point win against South Sudan in Paris 2024 tuneup  Olympics",
-                "published date": "Sat, 20 Jul 2024 21:32:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vb2x5bXBpY3MuY29tL2VuL25ld3MvdGVhbS11c2EtbWVuLXMtYmFza2V0YmFsbC1lc2NhcGVzLXdpdGgtYS1vbmUtcG9pbnQtd2luLWFnYWluc3Qtc291dGgtc3VkYW4taW4tcGFyaXMtMjAyNC10dW5ldXDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://olympics.com",
-                    "title": "Olympics"
                 }
             },
             {
@@ -2065,6 +2055,16 @@
                 "publisher": {
                     "href": "https://www.nbcnewyork.com",
                     "title": "NBC New York"
+                }
+            },
+            {
+                "title": "Team USA men's basketball escapes with a one-point win against South Sudan in Paris 2024 tuneup - Olympics",
+                "description": "Team USA men's basketball escapes with a one-point win against South Sudan in Paris 2024 tuneup  Olympics",
+                "published date": "Sat, 20 Jul 2024 21:32:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vb2x5bXBpY3MuY29tL2VuL25ld3MvdGVhbS11c2EtbWVuLXMtYmFza2V0YmFsbC1lc2NhcGVzLXdpdGgtYS1vbmUtcG9pbnQtd2luLWFnYWluc3Qtc291dGgtc3VkYW4taW4tcGFyaXMtMjAyNC10dW5ldXDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://olympics.com",
+                    "title": "Olympics"
                 }
             },
             {
@@ -2108,13 +2108,13 @@
                 }
             },
             {
-                "title": "USA Basketball Showcase London Opens With USA vs. South Sudan - USA Basketball",
-                "description": "USA Basketball Showcase London Opens With USA vs. South Sudan  USA Basketball",
-                "published date": "Fri, 19 Jul 2024 19:07:11 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnVzYWIuY29tL25ld3MvMjAyNC8wNy91c2EtYmFza2V0YmFsbC1zaG93Y2FzZS1sb25kb24tb3BlbnMtd2l0aC11c2EtdnMtc291dGgtc3VkYW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "LeBron James bails out Team USA with closeout performance against South Sudan - NBA.com",
+                "description": "LeBron James bails out Team USA with closeout performance against South Sudan  NBA.com",
+                "published date": "Sun, 21 Jul 2024 01:20:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lm5iYS5jb20vbmV3cy9sZWJyb24tamFtZXMtdGVhbS11c2EtZWRnZXMtc291dGgtc3VkYW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.usab.com",
-                    "title": "USA Basketball"
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
                 }
             }
         ]
