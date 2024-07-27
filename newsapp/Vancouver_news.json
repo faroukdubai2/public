@@ -1,223 +1,247 @@
 [
     {
+        "title": "'The Last of Us' sets up post-apocalyptic Vancouver film set in park - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vZXZlbnRzLWFuZC1lbnRlcnRhaW5tZW50L2xhc3Qtb2YtdXMtdmFuY291dmVyLWZpbG1pbmctbG9jYXRpb24tMjAyNC05MjczNTg10gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 27 Jul 2024 00:49:12 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
+        "title": "10 Vancouver concerts for music lovers to check out in August - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvdmFuY291dmVyLWNvbmNlcnRzLWF1Z3VzdC0yMDI00gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 23:00:41 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Vancouver weather: Organized rainstorm expected to drench city - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vd2VhdGhlcmhvb2QtbG9jYWwvdmFuY291dmVyLXdlYXRoZXItb3JnYW5pemVkLXJhaW5zdG9ybS1qdWx5LTIwMjQtOTI3MzIyMdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 23:52:24 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
+        "title": "B.C. seeks forfeiture of Vancouver condos after police uncover drugs, cash, guns - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdmFuY291dmVyc3VuLmNvbS9uZXdzL2JjLXNlZWtzLWZvcmZlaXR1cmUtdmFuY291dmVyLWNvbmRvcy1hZnRlci1wb2xpY2UtdW5jb3Zlci1kcnVncy1jYXNoLWd1bnPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 13:05:38 GMT",
+        "source_url": "https://vancouversun.com",
+        "source_name": "Vancouver Sun"
+    },
+    {
+        "title": "60+ restaurant openings to watch in and around Vancouver - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvbmV3LXJlc3RhdXJhbnRzLXZhbmNvdXZlci1qdWx5LTIwMjTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 19:42:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "How to help first-time buyers get a footing on the property ladder - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGVnbG9iZWFuZG1haWwuY29tL3JlYWwtZXN0YXRlL3ZhbmNvdXZlci9hcnRpY2xlLWhvdy10by1oZWxwLWZpcnN0LXRpbWUtYnV5ZXJzLWdldC1hLWZvb3Rpbmctb24tdGhlLXByb3BlcnR5LWxhZGRlci_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 15:00:00 GMT",
+        "source_url": "https://www.theglobeandmail.com",
+        "source_name": "The Globe and Mail"
+    },
+    {
+        "title": "Ryan Reynolds talks about working at Vancouver grocery store in Hot Ones interview - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy52YW5jb3V2ZXJpc2F3ZXNvbWUuY29tL2V2ZW50cy1hbmQtZW50ZXJ0YWlubWVudC9yeWFuLXJleW5vbGRzLWhvdC1vbmVzLWludGVydmlldy13b3JrZWQtZ3JvY2VyeS1zdG9yZS12YW5jb3V2ZXItOTI2ODExMNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 03:23:54 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
         "title": "\"Breaking Bad\" star Bryan Cranston visits Vancouver for adorable reason - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aTmI4d25fNmN0M3pfU1U4NGFsWDFMcmo1SUdSR0piRmdKTmIydG5DSnNXLTl5MkVDaDdBVURBMkowMUlLdnZ3Y0xtWjhKSWN4MGtJbU9MOG95OVZmdWY0ZEloanRjUnNIVU5Jc0NIa1I5TkFlSHlB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvYnJ5YW4tY3JhbnN0b24tYW5uaXZlcnNhcnktdmFuY291dmVy0gEA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 21:25:00 GMT",
         "source_url": "https://dailyhive.com",
         "source_name": "Daily Hive"
     },
     {
-        "title": "Ryan Reynolds talks about working at Vancouver grocery store in Hot Ones interview - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEV3MmJIcmx3MnRUdXVKb2w2dDhMQlotUTNqT2YtektrSGVTZTVxd2l3Wk9VX1loZ2JxNUhZMUVyQzg5bHg0M2kxNTZQRGZJc1g0NUJxOE83TnhzTjZFdFpKMzlFSEZZRWVUNWtwMVdVdXhiUW9HNlV2MnFhUlVmXzdpT0xHUmxhaGVIa1g1bkx4Tzc5YnVRdENJNmpJRDA5M2k1cGVVYVJiV1d5emItYk5SdWJFb2RtRGJ5U2xtR0sxRDdiZnlBMFBqaw?oc=5",
+        "title": "Vancouver city council suspends work of integrity commissioner to launch third-party review - CTV News Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYmMuY3R2bmV3cy5jYS92YW5jb3V2ZXItY2l0eS1jb3VuY2lsLXN1c3BlbmRzLXdvcmstb2YtaW50ZWdyaXR5LWNvbW1pc3Npb25lci10by1sYXVuY2gtdGhpcmQtcGFydHktcmV2aWV3LTEuNjk3OTIyNNIBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 26 Jul 2024 00:10:15 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "Bif Naked calls Vancouver home, reveals her restaurant \"last supper\" | Listed - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNUp4OUVVU1JCVm9wRUtYdng0VXNMNGlzV3E0Z3Z6TFNVNHF3QUtjNXNvd0tDaGhfcDZZcjRxVmktUU5ONENBRlZ0OHFIWUNva25HVnZKTGVXNWpfV3lwQXhMYU1tWWJSRjZZN2VqWQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 22:21:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Vancouver council reverses policy on natural gas ban in new homes - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclJySFJaY0JXem04dkNJMTBZSHVQbVBpWEVnQjRLUlpJR0NvTmx4aDhXVzZoZWlZZTQ0QnVSbF9IX2IyYjVxYl9HTnhIcEpZczFNY0pTdTY5OE43VGR4dnFhNW9UUUF1alpEU0EyczNBdmlpTFZWTmItaDJ3anJrU04yWll3cktzS194dmVNejBsSEx4ZV9oMGxmeXpsX0o2eERrWG1oRGZwWldRT1N4clBzZjJCWVVJQmR3RjdRUTlNWjdVWHFyRHl5bmxWTU0?oc=5",
-        "description": [],
-        "pub_date": "Fri, 26 Jul 2024 00:00:00 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "15 fun things to do in Vancouver this weekend: July 26 to 28 - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pSF8wT1lPcFc0NEU3U3JJVHM5aEw1OUhtVVA5MW14Y212X19aZlNMNlhKbWtnZmE0M19vYlptMmdqdkhhd3IxcnpXMFVvM2xiMGwya2lRTHUtOGtzbk9LTFcyamV0bGR6b1hSUjFqM2VtSFBsYWc?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 14:00:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Vancouver to get new dedicated bus lanes on these key routes - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0Q4RmVsZFFwX1RnOTJicmN1TjhhX2pNV3V5Q1FJZ0dyeTFWd2h6YmZ6dFZGb2NzRzg3bjNYaUcwd0NJUk1SRTBsanctcndKbjA4ZjcxWXpVeV9jZ0xaNXB5bXhjVUQyVWZVRlJjRFppZjdsaEQ0MVhNVWRuLXl4VlB3M3ViS2h2em0yUEVib3dmazE5NXdDRHBKdGRoLXhnTU92Wg?oc=5",
-        "description": [],
-        "pub_date": "Fri, 26 Jul 2024 01:22:55 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "New interest rate will not impact Vancouver housing market: expert - CityNews Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2xyNUFaYkVZOGJOdEpNelREZUgwLXhvNWNmTUxXell2LTJNenkxVTloQkZCRTh1UkhYNFAwQzloanc2am11elloSVNURGZsOW1fSkRjdTc5UjJCbDFRaEpTOFFYaDBvWjVGOVJFeWM0VDlEYmVlXzVWOXY3TW90Nm4xWTMxRWJ1cFNBT2Uzd3VHVTVjejB3YkgxVFNhMWxWbTRFcUFqTzI?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 01:57:56 GMT",
-        "source_url": "https://vancouver.citynews.ca",
-        "source_name": "CityNews Vancouver"
-    },
-    {
-        "title": "Sold (Bought): Deep Cove waterfront luxury home boasts boat slip - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVFUMTFSWkJaemQxeTlxMHVhY2hEVmZ6OXJDVWJHcDJyc3lxU1VCblhLM3VkTlZWNkFISUdDY3ZYZmlNZDEyWW9ES0F5WV96dTE4M2FOLVllWThlSUluZ0Qwck9JbnlhMTlQZE91ZWFSdXZTTTJOdzBxNTB0UVd2RnFhcUlXYmp2MEVsQ3FDaTZseFhGc2h1Y2lfcDRBWDA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 16:35:20 GMT",
-        "source_url": "https://vancouversun.com",
-        "source_name": "Vancouver Sun"
-    },
-    {
-        "title": "Amazing Race Canada contestants visited these iconic Metro Vancouver locations - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmxjSDM4Z20xNlAxaEZIZktHN2JWM3dUbDJuQTU5X0RUMlhNM1ptdm1oWHpvb2I0bHFvdUtRRlE5dS03amxhRVJTeXB1bUVpbTRQc2YyTG93aG4xYURKV3lYOEd2dV9IcEt3OTVRLWNfYlFJNGNBekVqbmEtUHFvdzVQTlZzUQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 23:13:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "BC United transportation platform includes new bridge - CityNews Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0M1T0E2aE85WG9oMW5qUjhjV283dUZSSE8zbGk1S2N1T2d0a0x3b1RHRGZYWFl3UGVhQW4zNVNZdmFMel9CVG1Va3c2MVVOaVV6YnU4V293OGxKWWRDODJyQXZkbU5pS29QSERFOThNSk9xd09PRDBmNUFQemJRbA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 21:18:13 GMT",
-        "source_url": "https://vancouver.citynews.ca",
-        "source_name": "CityNews Vancouver"
-    },
-    {
-        "title": "'Wok on by': Celebrity Vancouver chef Stephen Yan and retro clothing company launch collab - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWRPNC1XX0pSMlpBNTZGNi1kQlZoT2xnMlFjcnhzRzBOTFJJY2lyR3Ruay1TdkxZcldVbjJfejhaXzZJN2dtd2laOEJqOEcwTWRPbnlFcVJ5QXQzNWhNbnhXay1RQTBTYTFSLXR0TEg4Qkw5R3B5WEc1N3cwTWRkZ1Vjb1RSMjNEcVBlWlZudGJDMjVKajJnMDFjbVl6bG9SemdUT1R3NHpRZDg2RWhXY1h5VTFYcUlLQ1FiVk1FNktMRTdSaHJn?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 04:15:00 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "Former Spiritbox bassist Bill Crook dies, sparking a flood of tributes from Vancouver music fans - The Georgia Straight",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjJ3V1c1MjFCTnpQUEprM1hPVFl4SHd6b2VoTVBHeGJqMTlDa0I0bmFvdklySTRMempTSV9JcWRSZ3dWTS1XWUgtd1BGeXRNWTZseFE0UmJmaEo5SXFwZEVXZnFEZklLNDlyLXFvN25jOGxLUkhtbjJaVTBDd2tickhpX2JoRjI4VjlnYU1nQWRXYmgtQXk4N0FtZ2tDaE80Z2U5LTVYbHc1RnVxYVJmQnhSbEZtbG41clhSZFp3?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 19:37:40 GMT",
-        "source_url": "https://www.straight.com",
-        "source_name": "The Georgia Straight"
-    },
-    {
-        "title": "A FREE street festival celebrating Japanese-Canadian culture is coming to Vancouver - Curiocity",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFpILWRrV1VsRzVKYVd0TURFeFhVbnRhR1NEWkdVRm56S0ZoaFVJcXplc2hzRXFEM3gtcHZLblV2T2NjU3VaZnExSHc5bUFZY216ZWZxQ3E0RFZ0bjQ5WnV0SzNvT0ZmX2JlaA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 18:19:45 GMT",
-        "source_url": "https://curiocity.com",
-        "source_name": "Curiocity"
-    },
-    {
-        "title": "New 35-storey tower includes second entrance for South Granville SkyTrain | Urbanized - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHhhTHhFSDRwTGhYakJzeHh6NkVsTE1vWjhteFhZVVgzX3RPRmJnb1R1OVBsSF9abnlBVm9VVjBKTF81ckhjV1lCOHlVRS1fMGR4dm94V1MwVjdvZjRwclIwSDlvNFJLdGduSzl4V3NQVFZaeHVab1BJVTBueWRrcFV6NERtam9lY2NvbkZkemFGX1JuVkExRHdWM3ZyMWZCWTJiSA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 02:24:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "How to not be cringe at the beach - The Georgia Straight",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01UGNabTRhODJneVhFa2szQmhjTHh3Z2FVSk5ZZmFVZWdodTFCZk5IdFg0VVpXa01BdlQzWG1WWDd1RFJrMEtjVk5ZY0VUTl90MmRaRm5VRzVTWklMbm1lU1otSElTdGszX0YzWk53?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 17:19:43 GMT",
-        "source_url": "https://www.straight.com",
-        "source_name": "The Georgia Straight"
-    },
-    {
-        "title": "Vancouver suicide barrier plan delayed, funding reduced - CityNews Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS00xaEhpemNDVVQxQmxNa190UmFmSDJsbjA2QkMyQTZIeVdSNXRNV2t2cXZKYlRUbXdZbTQ1UldTWVVjakxsLU9RdDZ2Ym5KVkRfcGhmYkhiclR0Wm1mQ3lpNmFyeC1Yby1MZi1jU2hka1gtbVgzLUNKM2tRanRDY21uQWVKeFpXUG5PVUVWRi1NQ1lqVkNPTlgxOA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 22:09:38 GMT",
-        "source_url": "https://vancouver.citynews.ca",
-        "source_name": "CityNews Vancouver"
-    },
-    {
-        "title": "Here's everything you need to know about the Wrexham AFC and Vancouver Whitecaps game - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWVQeTZyVTByQXNFVjBrMUJTcFoyb2NCTENybnpGX2R0OGZBeUJRRmtTemZJV2poLW1ZaTFvUjZIVWhsRXh3bnNxbDJkZFhhVFdFTTh4WWJnR2xiSGZGT3ptRWwzRVNkcmQ3TkJlRnNfQlREeFVDZWxBM2JMR3pwdlNORFZkWFh3ZnNQa0hvc1JBaGJXZjBEbzNmNzRmODZ5Uk9LdmgyOC1wOHRwYkVsX0hOOU9JeEY1?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 04:50:00 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "Vancouver Island contractor ordered to pay over $125,000 to community non-profit - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnVTc0MwTWFpYWsyR1NlaVF6ck51MUw3cXBwMndvOEc3NjRMeEpEY0xZZEVRRzdCZko0R2ppOF9jeUR4cnNSVmh3NHg0TC1XYURxY0ZjaW1STEIxVzE5M0NlWENOemtFMjlJRnV1VmZGMTQ1dHlURUFBcVJqNXBsc1NYellXRDQtNU52Rks3VjBJMlY0b2JkYUlhc21pUW9VbktVZXlBQ2NsZWRU?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 01:25:09 GMT",
-        "source_url": "https://vancouversun.com",
-        "source_name": "Vancouver Sun"
-    },
-    {
-        "title": "You won\u2019t believe where he\u2019s taking transit to from Vancouver! - Buzzer Blog",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHBwTU5mVmFiLW81WW1tT21wTE9hUHdPN3EzNkpNUm9lSWxUNVBoeHgxU2wyNnFIMEpVSVZPLXdYdWFIWXV4UHQwQlY5ZGkyczh6S0UtbW43NzZYdXN5ZVZ1X3VQdTNrb3B4TDkxNk5NVDZxaVRnaGdnblE0cEpqTU9zMzlhVkZoQ2l5MUk3R3NoeGVxSmQ2ZFJRYw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 17:07:37 GMT",
-        "source_url": "https://buzzer.translink.ca",
-        "source_name": "Buzzer Blog"
-    },
-    {
-        "title": "Hugh Jackman excitedly shares what he loves about Vancouver - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kR3BqZXJXNDMwTnk3ZU5LRHdTYjlxUWRTR0VEYWR0dFBxWFB6bVJFcjJYdEJ1OVRURXE3MHR2ZG1mcG5SWG5EMDdSN1RWUVk5c0VKTTVsekctTzBRdHdHX0RzMXRuVkV5NEFqZA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 23:56:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Matilda the Musical composer Tim Minchin launches North American tour in Vancouver - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX19ZWExoZXlMT090cC0xeGRwbGRXS2wtbWsyODdUWnotUTVSTEpxbElzanRVdmxzb1JWenhTMFZEdUUxSkFLQ2V6b3hEclJNNUtIamNnVEg4Q3Azd1hTcE5UUzYyWHlwMFVST0JDckRVUXplYk5wOUF6ZEdPM0wzZFFEck53WTJKUU9tLTZB?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 18:06:10 GMT",
-        "source_url": "https://vancouversun.com",
-        "source_name": "Vancouver Sun"
-    },
-    {
-        "title": "6 Things to Do in Vancouver for Pride - Vancouver Magazine",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TWmpBTnBJSGthQWtITTJ1TkwtSDhwVTdST1l1RGlsaV9PMjVpSno2el9zQlljR192UzVpZXZTRVlCcW9iLTVlWUpFdnk5SmtIUkswYmhaemtHRkRPbi1ZYnZPbVI2eVRnM3ZTTW10VzBNTmV0MWFUemplOXRfUQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 22:21:25 GMT",
-        "source_url": "https://www.vanmag.com",
-        "source_name": "Vancouver Magazine"
-    },
-    {
-        "title": "Northern lights could dance on 2 nights this week in Metro Vancouver skies - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVZUMUZJamNjT21aTnIyTmpqek41bGFZVWNEcThqa0VsRFc5a3ZTSW1HMjdaLUpvVDgtMjRIaFYwemdtbVJrVjROdFdoYTVmMnY1QWQtbjVNaVp6TEQyVHA5Q3I2NWFaMVQxa2pxWldiNXlmN3hybG1YdlhDZm9SSUVQSVJLMG1MLWJrUS1zN3hOOS1UTHpzREI4ZVAyU2k1THVHLWdCbw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 01:14:00 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "38 damaging blazes and counting: Vancouver firefighters grapple with busy week - CTV News Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUFyZm53T0lFNjVnVnVMN2oyMExIeTBRZnRxU1J3S0xCcmpodGVDdm5CTVFYTGdSUEVlbk9IT0ZNOEVvV1NodzEteGV5bjZ0elo4WnpzUXY5ZDlxekVaX1pvdVpPOVJ3R28wR29fYTB0YVN2VWFfaHZMRlFKcUZRYmdRLTJkTTBGelZKbmRqYjZramVsWUFmeXRkZms2UGRYT1g2QWVBdllmV1dzNlE?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 20:59:00 GMT",
+        "pub_date": "Fri, 26 Jul 2024 20:05:48 GMT",
         "source_url": "https://bc.ctvnews.ca",
         "source_name": "CTV News Vancouver"
     },
     {
-        "title": "I'm a Vancouver local, and we hate when tourists do these 6 things - Narcity Canada",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFJlV0w1YkQ0ZXowU3RydEJmMFpMSlhHYWlpNmZwZng2YzhRbkZDSXhjNWlnbmhuUXFVRHFlZ3ZZTDZWWFZUT2s1S0lZVUhPRTk2d29EMlJLRm5Rbnd5dXJrZ19qNFd0ZF9KRkFaOUQ3M1BwNnZDa1RQQ0RBeEFDX0x3WGx5UDJwWldQOA?oc=5",
+        "title": "A sinking failure: Outdoor public pools 'not a priority for Vancouver,' say advocates - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdmFuY291dmVyc3VuLmNvbS9uZXdzL3ZhbmNvdXZlci1vdXRkb29yLXBvb2wtc3RyYXRlZ3ktZmFpbHVyZdIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 19:27:56 GMT",
-        "source_url": "https://www.narcity.com",
-        "source_name": "Narcity Canada"
+        "pub_date": "Fri, 26 Jul 2024 13:05:39 GMT",
+        "source_url": "https://vancouversun.com",
+        "source_name": "Vancouver Sun"
+    },
+    {
+        "title": "Photos: Check out this new business class Vancouver-New York flight option - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vdHJhdmVsL3ZhbmNvdXZlci1uZXcteW9yay1idXNpbmVzcy1jbGFzcy1mbGlnaHQtamV0Ymx1ZS05MjY3OTY00gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 23:15:00 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
+        "title": "421 sq ft: What you get in a Vancouver apartment under $400K - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvdmFuY291dmVyLWFwYXJ0bWVudC1zb2xkLTQwMGvSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 22:50:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Do it or we do it for you: B.C. government tells West Vancouver it has 30 days to allow small-scale, multi unit housing - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdmFuY291dmVyc3VuLmNvbS9uZXdzL2JjLWdvdmVybm1lbnQtdGVsbHMtd2VzdC12YW5jb3V2ZXItaXQtaGFzLTMwLWRheXMtdG8tYWxsb3ctc21hbGwtc2NhbGUtbXVsdGktdW5pdC1ob3VzaW5n0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 22:36:14 GMT",
+        "source_url": "https://vancouversun.com",
+        "source_name": "Vancouver Sun"
     },
     {
         "title": "Mike Hurley asked to step down from Metro Vancouver board - CityNews Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFU4QzJJU3FtMlJubi1DVE1Bc2xfeGZkYmZCWWd2bExtZXp5cWRJVWdnWUtBeGtISVdWTGU3cGJIakRneFJhLTZHWDh0XzBxZjV5MExDOV9GemM5SkQzeDhsMmxQSWotVE5OZVA3c05GRkZ3S0FjeDJfcnl3WWp0cEJrU29PUUZQNEFCVVJta3ZwUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjQvMDcvMjUvbWlrZS1odXJsZXktYXNrZWQtcmVzaWduLW1ldHJvLXZhbmNvdXZlci1ib2FyZC_SAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 20:05:59 GMT",
         "source_url": "https://vancouver.citynews.ca",
         "source_name": "CityNews Vancouver"
     },
     {
-        "title": "TransLink could axe 50% of buses and 30% of SkyTrain service | Urbanized - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHc5bVZLZE1Nc3dCVW9iUnAyMmFsbUh3U1NPVnUydm52VFhuU3lBVjNVYk92ZFZKc2dEc2w0cEhIVUMweHY5LXhQMVl2Q1hFSlQwSXM3RnI4ai0wWWg3bXV2OU44d1JQSVY0WmpmT1VPRTg1cWhDYXI1dlN5dExiRk5kcUxQWGpOWm9LbzY4SkdXcDY4?oc=5",
+        "title": "Pride, light and chillin' in the park: Things to do in Vancouver this weekend - CTV News Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYmMuY3R2bmV3cy5jYS9wcmlkZS1saWdodC1hbmQtY2hpbGxpbi1pbi10aGUtcGFyay10aGluZ3MtdG8tZG8taW4tdmFuY291dmVyLXRoaXMtd2Vla2VuZC0xLjY5NzgxNDjSAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 25 Jul 2024 14:51:00 GMT",
+        "pub_date": "Thu, 25 Jul 2024 23:29:01 GMT",
+        "source_url": "https://bc.ctvnews.ca",
+        "source_name": "CTV News Vancouver"
+    },
+    {
+        "title": "BC United transportation platform includes new bridge - CityNews Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjQvMDcvMjUvYmMtdW5pdGVkLXRyYW5zcG9ydGF0aW9uLXBsYXRmb3JtL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 21:18:13 GMT",
+        "source_url": "https://vancouver.citynews.ca",
+        "source_name": "CityNews Vancouver"
+    },
+    {
+        "title": "Bif Naked calls Vancouver home, reveals her restaurant \"last supper\" | Listed - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvYmlmLW5ha2VkLXZhbmNvdXZlci1yZXN0YXVyYW500gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 22:21:00 GMT",
         "source_url": "https://dailyhive.com",
         "source_name": "Daily Hive"
     },
     {
+        "title": "This local artist paints some of Vancouver\u2019s most recognizable storefronts - The Georgia Straight",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnN0cmFpZ2h0LmNvbS9hcnRzL3RoaXMtbG9jYWwtYXJ0aXN0LXBhaW50cy1zb21lLW9mLXZhbmNvdXZlcnMtbW9zdC1yZWNvZ25pemFibGUtc3RvcmVmcm9udHPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 16:18:46 GMT",
+        "source_url": "https://www.straight.com",
+        "source_name": "The Georgia Straight"
+    },
+    {
+        "title": "Sunfest shines bright on Vancouver Island with stellar country lineup - Maple Ridge News",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1hcGxlcmlkZ2VuZXdzLmNvbS9lbnRlcnRhaW5tZW50L3N1bmZlc3Qtc2hpbmVzLWJyaWdodC1vbi12YW5jb3V2ZXItaXNsYW5kLXdpdGgtc3RlbGxhci1jb3VudHJ5LWxpbmV1cC03NDU4NTAz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 15:53:44 GMT",
+        "source_url": "https://www.mapleridgenews.com",
+        "source_name": "Maple Ridge News"
+    },
+    {
+        "title": "Vancouver to get new dedicated bus lanes on these key routes - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy92YW5jb3V2ZXItbmV3LWRlZGljYXRlZC1idXMtbGFuZXMtdHJhbnNsaW5rLTIwMjQtOTI2NzUyM9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 01:40:00 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
+        "title": "Sold (Bought): Deep Cove waterfront luxury home boasts boat slip - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdmFuY291dmVyc3VuLmNvbS9ob21lcy9zb2xkLWJvdWdodC1kZWVwLWNvdmUtd2F0ZXJmcm9udC1yZXNpZGVuY2UtYm9hc3RzLXByaXZhdGUtYm9hdC1zbGlw0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 16:35:20 GMT",
+        "source_url": "https://vancouversun.com",
+        "source_name": "Vancouver Sun"
+    },
+    {
+        "title": "Hotel spats aside, B.C. lags rest of Canada for work stoppages - Business in Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJpdi5jb20vbmV3cy9lY29ub215LWxhdy1wb2xpdGljcy9ob3RlbC1zcGF0cy1hc2lkZS1iYy1sYWdzLXJlc3Qtb2YtY2FuYWRhLWZvci13b3JrLXN0b3BwYWdlcy05Mjc1NDEy0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 23:00:00 GMT",
+        "source_url": "https://www.biv.com",
+        "source_name": "Business in Vancouver"
+    },
+    {
+        "title": "C\u00e9line Dion\u2019s comeback energy is exactly what Team Canada needed - The Georgia Straight",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnN0cmFpZ2h0LmNvbS9tdXNpYy9jZWxpbmUtZGlvbi1jb21lYmFjay1lbmVyZ3ktaXMtZXhhY3RseS13aGF0LXRlYW0tY2FuYWRhLW5lZWRlZNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 27 Jul 2024 00:59:32 GMT",
+        "source_url": "https://www.straight.com",
+        "source_name": "The Georgia Straight"
+    },
+    {
+        "title": "Aurora lights up Metro Vancouver for lucky sky watchers - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvYXVyb3JhLW1ldHJvLXZhbmNvdXZlctIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 19:20:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "A FREE street festival celebrating Japanese-Canadian culture is coming to Vancouver - Curiocity",
+        "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vY3VyaW9jaXR5LmNvbS9wb3dlbGwtc3RyZWV0LWZlc3RpdmFsLXZhbmNvdXZlci0yMDI0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 18:19:45 GMT",
+        "source_url": "https://curiocity.com",
+        "source_name": "Curiocity"
+    },
+    {
+        "title": "Vancouver council reverses policy on natural gas ban in new homes - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy52YW5jb3V2ZXJpc2F3ZXNvbWUuY29tL2xvY2FsLW5ld3MvdmFuY291dmVyLWNvdW5jaWwtcmV2ZXJzZXMtcG9saWN5LW9uLW5hdHVyYWwtZ2FzLWJhbi1pbi1uZXctaG9tZXMtYnJpYW4tbW9udGFndWUtOTI2NjMzOdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 00:00:00 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
+        "title": "In contest between view cones and ice cream cones, the ice cream wins - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3ZhbmNvdXZlcnN1bi5jb20vb3Bpbmlvbi9sZXR0ZXJzL2xldHRlcnMtdG8tdGhlLXZhbmNvdXZlci1zdW4taW4tYS1jb250ZXN0LWJldHdlZW4tdmlldy1jb25lcy1hbmQtaWNlLWNyZWFtLWNvbmVzLXRoZS1pY2UtY3JlYW0ta2luZC13aW5zLWV2ZXJ5LXRpbWXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 27 Jul 2024 01:08:12 GMT",
+        "source_url": "https://vancouversun.com",
+        "source_name": "Vancouver Sun"
+    },
+    {
+        "title": "TransLink will be forced to cut services by 50%: report - CityNews Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjQvMDcvMjUvdHJhbnNsaW5rLXNlcnZpY2UtY3V0LWZ1bmRpbmctbW9kZWwv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 07:55:58 GMT",
+        "source_url": "https://vancouver.citynews.ca",
+        "source_name": "CityNews Vancouver"
+    },
+    {
+        "title": "2nd woman found dead in English Bay: Vancouver police - CTV News Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL2JjLmN0dm5ld3MuY2EvbW9iaWxlLzJuZC13b21hbi1mb3VuZC1kZWFkLWluLWVuZ2xpc2gtYmF5LXZhbmNvdXZlci1wb2xpY2UtMS42OTczNjA3P2NhY2hlPWtsZmNueWZmaXM_YXV0b1BsYXk9dHJ1ZS83LjYzODQwNtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 16:03:42 GMT",
+        "source_url": "https://bc.ctvnews.ca",
+        "source_name": "CTV News Vancouver"
+    },
+    {
+        "title": "These are the best things to do in & around Vancouver on BC Day this year - Curiocity",
+        "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vY3VyaW9jaXR5LmNvbS90aGluZ3MtdG8tZG8tdmFuY291dmVyLWJjLWRheS0yMDI0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 22:09:24 GMT",
+        "source_url": "https://curiocity.com",
+        "source_name": "Curiocity"
+    },
+    {
         "title": "At 469-483 East 10th Avenue, a 17-storey tower is proposed by Fastmark. Online Q&A July 17-30, 2024. One of 100+ projects in Broadway Plan pipeline. - CityHallWatch",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm8tcTFlTlhHOXdla085S0VEQldxcGgxQnptOGVrZEpGSlVoTzIzQko2RFpqbDVsWnRoaTRjcGxnWmR1LUMyVG9mY2VjYXVLS3VFSUVRVDNma05MN1NFX21ZYkdnNG1HSWF5WEJVcDlybEg4UjJQenFJaU8xYUlEMW8wQlRVbVctQmdpY3JDVDNMU2kzU2gw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vY2l0eWhhbGx3YXRjaC53b3JkcHJlc3MuY29tLzIwMjQvMDcvMjUvYXQtNDY5LTQ4My1lMTB0aC1mYXN0bWFyay0xN3N0b3JleXMtcmV6b25pbmcv0gEA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 21:03:57 GMT",
         "source_url": "https://cityhallwatch.wordpress.com",
@@ -225,87 +249,191 @@
     },
     {
         "title": "The Outsider\u2019s Guide: The Best Places to Rock Climb Outside of Vancouver - Vancouver Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRmJxeFdWR0g4MGtJRmswY1lyZHN3MTJfUktPcEwzRzZXWlpGaHhNbGpoS2xZeHFDRFg0dmg5dTRhMGlCcmdqUDROQUVHLXZhUlBnS1Q0QnVJZy1fWlRsOVl4REdEZG83d2hzWUVLN3RFUmFKeTlyVW5NVF9rUmpNMXZR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnZhbm1hZy5jb20vZ28vZGF5LXRyaXBzL2Jlc3Qtcm9jay1jbGltYmluZy1ib3VsZGVyaW5nLXZhbmNvdXZlci_SAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 18:02:43 GMT",
         "source_url": "https://www.vanmag.com",
         "source_name": "Vancouver Magazine"
     },
     {
-        "title": "Grownups can order Pirate Paks for one day only (for a great cause) - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlpmSDFhbHppcDNJeTk5SHpqMG12MjUwSXZra0NYd1JyclFnN2w4eFBIeWN3V1E4dTNGcGg0SVdKU1lvVjg2enRrVGdpalJfUE5iWDVBWENCSkZWT29GYkxJbzJqOC1XNWJlbG5SM1ZFQWVuSndseHRBZE5sUHFEaHlFZVZoRXdtc2Z3cmpQVlI5U1hFNVdQZHUtdy1xMUc1cDZScExvLTBieGtwb2NuXzB3QUlRZF9tUGpF?oc=5",
+        "title": "'Very exciting!': Metro Vancouver man wins $313K Slots Jackpot online - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy92YW5jb3V2ZXItbWFuLXdpbnMtc2xvdHMtamFja3BvdC1vbmxpbmUtMjAyNC05Mjc2MzYx0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 25 Jul 2024 01:35:00 GMT",
+        "pub_date": "Fri, 26 Jul 2024 22:38:44 GMT",
         "source_url": "https://www.vancouverisawesome.com",
         "source_name": "Vancouver Is Awesome"
     },
     {
-        "title": "North Vancouver firefighters prepare to travel to Ukraine for rope rescue mission - CTV News Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2Y3d0l3OXFUQ3ZocHdVc1BsOXpEODk1SklIUlg0V0RoZjA4djlvOG1hRHZPRXZtZjFFbXgxcGR2bGU5dllWZWUxZFl0ZW1xWmV0QlNIdV92N0lJUFhiSmtyaVF2NEp1YkJqeG1WdHlhOVYzZzRISk5EU3N5SG5JOUtoTnVHMy1tSGJ2NjJtY0NzY0gxTDQxX2Z6aXBwQngtRG9vY3pDejU2N1lsaTljSXlhWQ?oc=5",
+        "title": "Matilda the Musical composer Tim Minchin launches North American tour in Vancouver - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdmFuY291dmVyc3VuLmNvbS9lbnRlcnRhaW5tZW50L21hdGlsZGEtbXVzaWNhbC1jb21wb3Nlci10aW0tbWluY2hpbi12YW5jb3V2ZXLSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 16:43:53 GMT",
+        "pub_date": "Thu, 25 Jul 2024 18:06:10 GMT",
+        "source_url": "https://vancouversun.com",
+        "source_name": "Vancouver Sun"
+    },
+    {
+        "title": "Vancouver Island wildfire expected to grow until rain, cooler temperatures arrive - CTV News Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYmMuY3R2bmV3cy5jYS9tb2JpbGUvdmFuY291dmVyLWlzbGFuZC13aWxkZmlyZS1leHBlY3RlZC10by1ncm93LXVudGlsLXJhaW4tY29vbGVyLXRlbXBlcmF0dXJlcy1hcnJpdmUtMS42OTc5MjEz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 19:58:15 GMT",
         "source_url": "https://bc.ctvnews.ca",
         "source_name": "CTV News Vancouver"
     },
     {
-        "title": "40 of the best things to do in and around Vancouver this August - Curiocity",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTkdoZ25hbEUyTy1EaW8wWEpwMXRzYjdKQnVIb3FPdG1LS21CNmpFQmp0Q25CNnVPRE9OWnNZTVFfaTBLYkJvTE9GZnV3clFCaWNyRHpJUURYeENSQnMxaVVqUlhIeV9m?oc=5",
+        "title": "TransLink's first rental housing project approved by Vancouver City Council | Urbanized - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvc2t5dHJhaW4tYXJidXR1cy1zdGF0aW9uLXRyYW5zbGluay1yZW50YWwtaG91c2luZy10b3dlci1hcHByb3ZlZC0yMDk2LXdlc3QtYnJvYWR3YXktdmFuY291dmVy0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 20:06:58 GMT",
-        "source_url": "https://curiocity.com",
-        "source_name": "Curiocity"
+        "pub_date": "Fri, 26 Jul 2024 04:13:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Boulevard Kitchen & Oyster Bar teams up with Tealeaves to create biodiversity-positive ice cream - The Georgia Straight",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnN0cmFpZ2h0LmNvbS9mb29kL2JvdWxldmFyZC1raXRjaGVuLW95c3Rlci1iYXItdGVhbXMtdXAtd2l0aC10ZWFsZWF2ZXMtdG8tY3JlYXRlLWJpb2RpdmVyc2l0eS1wb3NpdGl2ZS1pY2UtY3JlYW3SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 20:46:50 GMT",
+        "source_url": "https://www.straight.com",
+        "source_name": "The Georgia Straight"
+    },
+    {
+        "title": "Poverty more prevalent among those who died during B.C.'s heat dome: study - Business in Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJpdi5jb20vbmV3cy9wb3ZlcnR5LW1vcmUtcHJldmFsZW50LWFtb25nLXRob3NlLXdoby1kaWVkLWR1cmluZy1iY3MtaGVhdC1kb21lLXN0dWR5LTkyNjc0NDTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 21:45:00 GMT",
+        "source_url": "https://www.biv.com",
+        "source_name": "Business in Vancouver"
+    },
+    {
+        "title": "Navigating Vancouver's busy Burrard Inlet - CTV News Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYmMuY3R2bmV3cy5jYS92aWRlby9jMjk2NjM3NS1uYXZpZ2F0aW5nLXZhbmNvdXZlci1zLWJ1c3ktYnVycmFyZC1pbmxldNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 04:53:00 GMT",
+        "source_url": "https://bc.ctvnews.ca",
+        "source_name": "CTV News Vancouver"
+    },
+    {
+        "title": "Vancouver's oldest and largest LGBTQ+ library is moving to Granville Island - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy92YW5jb3V2ZXJzLW9sZGVzdC1sYXJnZXN0LWxnYnRxLWxpYnJhcnktbW92aW5nLWdyYW52aWxsZS1pc2xhbmQtOTI3MDUxMtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 21:46:23 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
+        "title": "New interest rate will not impact Vancouver housing market: expert - CityNews Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjQvMDcvMjQvZWNvbm9taXN0LXNheXMtaW50ZXJlc3QtcmF0ZS1jdXQtd2lsbC1ub3QtaW1wYWN0LWhvdXNpbmctbWFya2V0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 01:57:56 GMT",
+        "source_url": "https://vancouver.citynews.ca",
+        "source_name": "CityNews Vancouver"
+    },
+    {
+        "title": "'Playing field not level': Jeanette Ashe drops out of NDP nomination race in Vancouver-Yaletown - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdmFuY291dmVyc3VuLmNvbS9uZXdzL25kcC1ub21pbmF0aW9uLWplYW5ldHRlLWFzaGUtZHJvcHMtb3V0LXZhbmNvdXZlci15YWxldG93btIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 23:30:13 GMT",
+        "source_url": "https://vancouversun.com",
+        "source_name": "Vancouver Sun"
+    },
+    {
+        "title": "Science World hosts future-themed Pride After Dark party - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvc2NpZW5jZS13b3JsZC1hZnRlci1kYXJrLXByaWRlLTIwMjTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 11:00:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Art Vancouver is returning for ninth year of visual allure - The Georgia Straight",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmFpZ2h0LmNvbS9hcnRzL2FydC12YW5jb3V2ZXItaXMtcmV0dXJuaW5nLWZvci1uaW50aC15ZWFyLW9mLXZpc3VhbC1hbGx1cmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 19:43:36 GMT",
+        "source_url": "https://www.straight.com",
+        "source_name": "The Georgia Straight"
+    },
+    {
+        "title": "7 Buffets In Metro Vancouver You Have To Try At Least Once - 604 Now",
+        "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vNjA0bm93LmNvbS9idWZmZXRzLWluLW1ldHJvLXZhbmNvdXZlci15b3UtaGF2ZS10by10cnkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 20:09:10 GMT",
+        "source_url": "https://604now.com",
+        "source_name": "604 Now"
+    },
+    {
+        "title": "Property management company's licence suspended, accounts frozen in 'urgent' BCFSA order - CTV News Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYmMuY3R2bmV3cy5jYS9wcm9wZXJ0eS1tYW5hZ2VtZW50LWNvbXBhbnktcy1saWNlbmNlLXN1c3BlbmRlZC1hY2NvdW50cy1mcm96ZW4taW4tdXJnZW50LWJjZnNhLW9yZGVyLTEuNjk3OTQ3ONIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 22:37:14 GMT",
+        "source_url": "https://bc.ctvnews.ca",
+        "source_name": "CTV News Vancouver"
     },
     {
         "title": "New B.C. regulations spark debate over future of gig workers - Business in Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2RtQVg5V2RNc09fQktQUnBPRUc0Zi1vbEx0OVZ2U0tKMG1oREMxU0lMMVF2djU3ZnhxY1V5TFR6dS1YczEtcXo2TVo2cnBPUjAxMi1zczlMVGZYUDhzY3RkLXo3bmstOV9Jd0hsTUtXanIzZ0Jmck5Lb1A4cFNTYlJfMFBXZGl0Y2xKQmoycmdSVk9pR1E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmJpdi5jb20vbmV3cy9uZXctYmMtcmVndWxhdGlvbnMtc3BhcmstZGViYXRlLW92ZXItZnV0dXJlLW9mLWdpZy13b3JrZXJzLTkyNjQxMjHSAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 14:30:00 GMT",
         "source_url": "https://www.biv.com",
         "source_name": "Business in Vancouver"
     },
     {
-        "title": "The Case of Metro Vancouver\u2019s Lost Electric Railway - TheTyee.ca",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2lBRGZCQVRvYk9yUjlISHlsa3h1RXdtYlRyTlViZ3d6cWNfNy1Xa0t5MXdGSjVBdXVURTVnVC1LbFhLelRmTnZieHRzNWhzUkdwclFQd01wMjZUQkY2bG1EYTYyaFFVYnpYT2w4aDJqZUsweTJxM2lqdGw4U3YybEJ3?oc=5",
+        "title": "5 places Vancouver tourists should venture outside of downtown for (PHOTOS) - Narcity Canada",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm5hcmNpdHkuY29tL3ZhbmNvdXZlci90aGluZ3MtdG8tc2VlLW91dHNpZGUtb2YtZG93bnRvd24tdmFuY291dmVy0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 04:14:07 GMT",
-        "source_url": "https://thetyee.ca",
-        "source_name": "TheTyee.ca"
+        "pub_date": "Fri, 26 Jul 2024 12:43:57 GMT",
+        "source_url": "https://www.narcity.com",
+        "source_name": "Narcity Canada"
     },
     {
-        "title": "Vancouver home sold for nearly $6M under initial listing price - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3ViUW9INVJIcFNHVkR5SHpxM0NLMnc2My1peW02cmZRZHByUXM4ZnhqRGpjV0ZXMGlkMWREd2twT21rZGU1OEpaWmhsNEpLc1hwSVE5WVRCVzFWQjBYdFp2OVctM1pLaFhsTlZPc0QtOUNjdG1DS1pidkdYdnZfTENB?oc=5",
+        "title": "Vancouver suicide barrier plan delayed, funding reduced - CityNews Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjQvMDcvMjQvdmFuY291dmVyLXN1aWNpZGUtYmFycmllci1ncmFudmlsbGUtbW90aW9uLWFtZW5kbWVudHMv0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 25 Jul 2024 01:49:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
+        "pub_date": "Wed, 24 Jul 2024 22:10:23 GMT",
+        "source_url": "https://vancouver.citynews.ca",
+        "source_name": "CityNews Vancouver"
     },
     {
-        "title": "Police identify two women found dead in Vancouver, say deaths aren't connected - Castanet.net",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1dPZEdDSUtpc2RORlZJVkt0d2FCSlB2V281dWFzcFU1NFA5WkpHYVZVM2x5MUlNd05OM05ES0d2VlVQdnVWQkoybkFJelpWbVJtZkdQWlBLVU44UGEzSVFiNHdkeV81WUx5TFRCck9vcDZGRVMxek85ZV9obVpXMThnaFdDZnN2RzVha2dKOVAtRnhKZkZYTktXQjJwSjA4S3VwcElzbElGRXBzaTBEWXNKRGZCeVJM?oc=5",
+        "title": "Book review: Catherine Babault's Wild Vancouver Island is perfectly framed, visually stunning - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3ZhbmNvdXZlcnN1bi5jb20vZW50ZXJ0YWlubWVudC9ib29rcy9ib29rLXJldmlldy1jYXRoZXJpbmUtYmFiYXVsdHMtd2lsZC12YW5jb3V2ZXItaXNsYW5kLWlzLXBlcmZlY3RseS1mcmFtZWQtdmlzdWFsbHktc3R1bm5pbmfSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 22:43:00 GMT",
-        "source_url": "https://www.castanet.net",
-        "source_name": "Castanet.net"
-    },
-    {
-        "title": "'Playing field not level': Jeanette Ashe drops out of NDP nomination race in Vancouver-Yaletown - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHFERjBMdDNHNDBKa1czZE5SaTQ5d0lRN1hLWGE4TjA5djlBOG1EY0pOZVMyZWJnaHRDNVZFQ2JxV2JSamdyYXBWNGtjckQyTElWXzRJaHJEdkdvNkJOLXBRX1M0V2RSbDJkNHNMcTBEcEJGWWVoMDBqc1dQT1RPTEktZmI4RWQwbHVOMEVDOFg?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 23:29:16 GMT",
+        "pub_date": "Thu, 25 Jul 2024 18:05:51 GMT",
         "source_url": "https://vancouversun.com",
         "source_name": "Vancouver Sun"
     },
     {
-        "title": "Downtown Vancouver park to be shut down for three days due to filming - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmJULU56OEEtWE1malVMVm1BM0NEZWd0MWVfVHliQzBZdHlWNE52dElwZXhYZzlzSzlUTGd5NkwzY2dRUmxEUDhZRl9uWHR3anAxcWhmWTZpa3M0QTBXeExnTV84M0htaHJWZG1ueXhhRzlfOWFMRkxIQXlfT245dko3Q3NnbDVVM2JTU3BBdjBoNnBQQlJQVlZZek11Q0c3UWxOY2VOTFhLM3ZJazdzci1XVQ?oc=5",
+        "title": "Department of Fisheries untangles gear from humpback whale off B.C.'s coast - Bowen Island Undercurrent",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5ib3dlbmlzbGFuZHVuZGVyY3VycmVudC5jb20vbmF0aW9uYWwtbmV3cy9kZXBhcnRtZW50LW9mLWZpc2hlcmllcy11bnRhbmdsZXMtZ2Vhci1mcm9tLWh1bXBiYWNrLXdoYWxlLW9mZi1iY3MtY29hc3QtOTI3Njc5MtIBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 25 Jul 2024 03:54:34 GMT",
+        "pub_date": "Fri, 26 Jul 2024 23:55:54 GMT",
+        "source_url": "https://www.bowenislandundercurrent.com",
+        "source_name": "Bowen Island Undercurrent"
+    },
+    {
+        "title": "La Casa Gelato flavour makes list of world's most iconic ice creams - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvbGEtY2FzYS1nZWxhdG8tbW9zdC1pY29uaWPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 19:37:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Video: Stranger allegedly sneaks into Metro Vancouver house, gropes woman - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzYXdlc29tZS5jb20vbG9jYWwtbmV3cy92aWRlby1tYW4tYWxsZWdlZGx5LXNuZWFrcy1pbnRvLW1ldHJvLXZhbmNvdXZlci1ob3VzZS1ncm9wZXMtd29tYW4tOTI2Nzc1NdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 18:26:38 GMT",
         "source_url": "https://www.vancouverisawesome.com",
         "source_name": "Vancouver Is Awesome"
     },
     {
+        "title": "New social housing coming to Grandview-Woodland neighbourhood - City of Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdmFuY291dmVyLmNhL25ld3MtY2FsZW5kYXIvbmV3LXNvY2lhbC1ob3VzaW5nLWdyYW5kdmlldy13b29kbGFuZC1uZWlnaGJvdXJob29kLWp1bHktMjAyNC5hc3B40gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 18:19:56 GMT",
+        "source_url": "https://vancouver.ca",
+        "source_name": "City of Vancouver"
+    },
+    {
         "title": "Van Vogue Jam\u2019s annual Posh Ball marks Vancouver's first-ever mainstream ballroom function - Stir",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzFxMjdjRUU2Nnk3RDdHOGVFV3Bxd3dCYkxDN0RhX3V1SjgxZDJvenRXVHN3TU1LeDVHc0toNlFrVmVLSWdsSndjbVJxZFhnQkx2ekd6ajNyTkpSOWk3ZVVVU215ZXVJZlRQZ2Z1alBDd29Mbm5jMU9KMXc3VWUxdEY3OWRwY09PYklfbUNVT0pxTjlrcGdzVXhxa0V1TTg0N2c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNyZWF0ZWFzdGlyLmNhL2FydGljbGVzL3Zhbi12b2d1ZS1qYW0tcG9zaC1iYWxsLXZhbmNvdXZlci1wcmlkZS1zb2NpZXR5LXJhbHBoLWVzY2FtaWxsYW7SAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 18:40:37 GMT",
         "source_url": "https://www.createastir.ca",
@@ -313,271 +441,122 @@
     },
     {
         "title": "Personal Space: Inside Illustrator Carson Ting\u2019s Art-Filled Home Studio - Vancouver Magazine",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnWFg3VzZKWlVrZTY2b2VkNnRLWUx2bEVNWFQtMVAwMHlwaXdDUUp3NVFueDVBTWFWRWF3N0NUTDdWTVRUSXZ4S3hCZUtSR0JpYjV0X053cHlwRERGN1NUVjA4anFUX1A1UzVnQmVCSVNpZWJEUVU0ajkyZw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnZhbm1hZy5jb20vc3R5bGUvaG9tZS1kZWNvci9jYXJzb24tdGluZy1ob21lLWNoYWlybWFuLXRpbmcv0gEA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 18:11:17 GMT",
         "source_url": "https://www.vanmag.com",
         "source_name": "Vancouver Magazine"
     },
     {
-        "title": "7 Buffets In Metro Vancouver You Have To Try This Summer - 604 Now",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YLUtvS1Ryd2dUSmJOcEUxMEZWUG1kMzVNMXJ0V3JEeElHSU9ld2RNOUw1a3BUTnNfZDlrYXYxbzZKTFpfelZycmRkY2VrSFlJcGZWTEJqX2daM1VIMkNHODlBelEweTVGNGdFc3F4dw?oc=5",
+        "title": "Social Cues: The secrets behind wedding dress retailer Truvelle\u2019s online strategy - BCBusiness",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmJjYnVzaW5lc3MuY2EvaW5kdXN0cmllcy9yZXRhaWwvc29jaWFsLWN1ZXMtdGhlLXNlY3JldHMtYmVoaW5kLXdlZGRpbmctZHJlc3MtcmV0YWlsZXItdHJ1dmVsbGVzLW9ubGluZS1zdHJhdGVneS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 25 Jul 2024 20:09:10 GMT",
-        "source_url": "https://604now.com",
-        "source_name": "604 Now"
+        "pub_date": "Fri, 26 Jul 2024 03:32:34 GMT",
+        "source_url": "https://www.bcbusiness.ca",
+        "source_name": "BCBusiness"
     },
     {
-        "title": "North Vancouver commercial property sells for redevelopment - Western Investor",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUxIak8zMkRHR2JmYnF1LW52QmY3ZnFXRVFyZTlfTG5hN040UVpzUlY4UXFyVWNkQVFoUWkxcE9oVkNVYXVWSEEzMDlCaTRhVk9tcGxJUFpDTGJEQjlZZjlTRC1LVlFWRlpCbldHNmM0OHJYYlloTXpwTmFKRHhsVTVCWTd5NF9CVmJxcmpOLXdsaGkwNm9fdExfT2ZiUjJRZG5uU1ZNM0ttUWpxVEFr?oc=5",
+        "title": "Former Spiritbox bassist Bill Crook dies, sparking a flood of tributes from Vancouver music fans - The Georgia Straight",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnN0cmFpZ2h0LmNvbS9tdXNpYy9mb3JtZXItc3Bpcml0Ym94LWJhc3Npc3QtYmlsbC1jcm9vay1kaWVzLXNwYXJraW5nLWEtZmxvb2Qtb2YtdHJpYnV0ZXMtZnJvbS12YW5jb3V2ZXItbXVzaWPSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 16:41:00 GMT",
-        "source_url": "https://www.westerninvestor.com",
-        "source_name": "Western Investor"
-    },
-    {
-        "title": "Who killed Janet Smith? Nurse's murder gripped Vancouver for decades - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFR4QjRaVjZDX1RoTF9VcVVPR2RQRUc0d0FCTkVtVThDR1FkNWZtM3hfOGZXbVdQX09VUEdmZGh5bWV2ZnAyTTdsQUxkNTZEYjZ1V2xRazh6NWRNR3U4Qk8tbnk0ZUhWQ1NXTFhXRXo1dnE1Q3B5MjVuWkR6WU1lb1lhRC1UQVM0MXNUU0t1S2w3d2dCdmhMY0h4YTM?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 13:07:14 GMT",
-        "source_url": "https://vancouversun.com",
-        "source_name": "Vancouver Sun"
-    },
-    {
-        "title": "Aging population prompts City of Vancouver to create new seniors housing strategy - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTBoSlRfSlJmZ2VneUVtMjZSemtzLURuYW5tR013aGgzNmtpSWpWWmFkSjhUTjVrVHc5RUUtZGVhRUFsaUhzRVBqdTdrVUxDMkpGbnZzWFM2ZVkxV2MtSlk5QlktZkZRUjlhM3BnVThxdk9ZOFpXNVBkXzRaQlU5dUtkZ0s4NGc?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 03:35:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "B.C. says team chosen to design Vancouver's Massey Tunnel replacement - CityNews Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1FtQ09nWE15Z09BaWdMcEJyMGVRSjFCVm1zRXdQVktYamUxYXpvVy1LbXVYQjhhclJ6eFdHcmhYazFyS01GOF9RWmI0Vl9zRDM2SWU3dW5xcXdsOXpUZFpyVzdoRENmcGRHS3lxRmpXNkQ4Q2s3UlFSRXhiSU9hVk81d3JCV3lpUWM0?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 05:37:46 GMT",
-        "source_url": "https://vancouver.citynews.ca",
-        "source_name": "CityNews Vancouver"
+        "pub_date": "Thu, 25 Jul 2024 19:37:40 GMT",
+        "source_url": "https://www.straight.com",
+        "source_name": "The Georgia Straight"
     },
     {
         "title": "Capture Photography Festival is Seeking a Grant and Development Coordinator - Scout Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1lKaXhIUGQyY00yR2hfSjNqeXFDNV9XSUVxcGdpZlIwSGVubkZYbkd0UWhwLWg5SFB2TGR1RGNPaVVUNE5NTl9rM0FhNkNfelh6bzEwQ3NTYS1xZmVMX1dZX1BBazltbTZoNGJWeUZ5OHR2Y1BTSmJCNGlhR3BWb3phUG96eElmUl9QYW5TTnNRVmpJVmtoaEJQRzRtanRzNXVr?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2NvdXRtYWdhemluZS5jYS9jYXB0dXJlLXBob3RvZ3JhcGh5LWZlc3RpdmFsLWlzLXNlZWtpbmctYS1ncmFudC1hbmQtZGV2ZWxvcG1lbnQtY29vcmRpbmF0b3Iv0gEA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 16:39:03 GMT",
         "source_url": "https://scoutmagazine.ca",
         "source_name": "Scout Magazine"
     },
     {
-        "title": "Will Metro Vancouver have another heat wave this summer? - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTU5PX0s5WlRXWkkzTGdfd0VqcXhQb0IzbDZmLWc0OTdyNzJlUjdmblctLWwwdFlLSlBycU5mOWVPNks3Q2h2WkZUUFdsdnlMTjBIVkVteWxLZXJhbnFSMHh0UlVjQWVjT29jUk1ONVhwYUNjaVN6UUU3MVRzZVhQcGQtaERaSHNzZVBUWDcwcTgyT0NPM2dtUzVFUXBLVGczXzRJa0ZvajNZaUdLbXVoUHB1RlpDYlU?oc=5",
+        "title": "B.C. helping individuals injured outside of work to get back on the job - Cloverdale Reporter",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNsb3ZlcmRhbGVyZXBvcnRlci5jb20vbmV3cy9iYy1oZWxwaW5nLWluZGl2aWR1YWxzLWluanVyZWQtb3V0c2lkZS1vZi13b3JrLXRvLWdldC1iYWNrLW9uLXRoZS1qb2ItNzQ1OTMzM9IBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 07:30:00 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "Opinion: Whitecaps Moneyball maestro defies financial odds stacked against team - Burnaby Now",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRlF3eVhaeV9MWmVWdEY4bGFqUVFpMy1FRFZQTC1yT1RBQTdqZXpDZGFTYzl3VGhGRE5VODB6c09tWXN0RDNNekZlUFU0Zlg0MFpUNThTME5jMkNHRnpwUV9KYkJGOTBSbU5iZ3BrOUhIMlA3QUVfV0k2bWxIX0VBU1VIN1hhNE9JWmprWGFnVWFfZTRORWxQU3h0eEQ1QjRCMVVLSExDZDdOVG9wdkxvVVZFdm1acGp5N3Q0T3hRd1NQNzNrQ3lzcktIYnp3NVZWVnQzcHFxYw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 16:00:00 GMT",
-        "source_url": "https://www.burnabynow.com",
-        "source_name": "Burnaby Now"
-    },
-    {
-        "title": "North Vancouver smoke is from movie production \u2013 not fire: officials - CTV News Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzB1OWFzNGk5aVdDT2ptNmlXUkw1RHI2RnBzbTFDZHhaV2JTckJSWHQySUVfVVcya0UwU00tT0EyYUVaZ2tFQzd2dDB6TDREaW5MNWtYRUtGSjgxaEgyY0MyZkcycVpXRXZESi1PVzNxblZqOXdkUzZzRHF0SmQxX1l5ZXRGNDY5R0lHZEp2QVFwMHdRQ3ZkcHhJOHJreGNlNlF1bnZkWQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 02:04:36 GMT",
-        "source_url": "https://bc.ctvnews.ca",
-        "source_name": "CTV News Vancouver"
-    },
-    {
-        "title": "The independence of the BCUC again ignored by the Eby cabinet - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVRMLV81QktHZWJZVVpDN003LUdITE16WjZYRUVRRVhQQ1hESzZ3cUQyWGFfOXNLemZxOURDYjVvSTIyX3lUNW41M0hJZ3FVaGpzdGc5LTNIRnhsQ0pWREFtSWtINWF3UWd6OVJGUkFiVmc5bVRfNDVwMFJxWkhEVDFOaEp1dnp1VTFMWEJYMmw4TU02a1g1VXJDem9TVl81cHBpRkFlYkM?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 23:12:10 GMT",
-        "source_url": "https://vancouversun.com",
-        "source_name": "Vancouver Sun"
+        "pub_date": "Fri, 26 Jul 2024 20:12:14 GMT",
+        "source_url": "https://www.cloverdalereporter.com",
+        "source_name": "Cloverdale Reporter"
     },
     {
         "title": "Female-owned Burnaby eateries receive $20K thanks to Made by Women grants - Burnaby Now",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd04wcERoNHZZVDJ6Mjd2LTVlX2l0dEg3UUZPalJCZFFXNnl2RlRJYWIya1U3d1ZvdmFGOV9Od21sa2prQ1NOc003RGh3blUyUXlyTTRyTHBuY0RvdmZ3OTJsc3ZtUjJnTm05WkNFY0NtRmRlUTRyMnd6T2FaSEMyQVlLdnBMT1FrU3pKeDZnYk1UMFpTYUNLYU93bWVteVpFZk90c3NCUzMxNm5sSzRWYWRwbjNpemRIMUE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJ1cm5hYnlub3cuY29tL2xvY2FsLW5ld3MvZmVtYWxlLW93bmVkLWJ1cm5hYnktZWF0ZXJpZXMtcmVjZWl2ZS0yMGstdGhhbmtzLXRvLW1hZGUtYnktd29tZW4tZ3JhbnRzLTkyNjg5ODDSAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 25 Jul 2024 20:39:00 GMT",
         "source_url": "https://www.burnabynow.com",
         "source_name": "Burnaby Now"
     },
     {
-        "title": "IDS Vancouver returns to showcase all things design and decor - The Georgia Straight",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVBBT0owc2JyZ0tFV04za2txTXo5VUYzM1hpZEpkRURFdDhLb1IxXzE2NHBUei1jZ0VHMGpUc3hTenl5aURjU21PMmE4eFZiN1E1bVNwZHBGUEJyYTl0RkJlZl9XQktPaDNtVHFpSGp0NnVQSFAzWmlRYkpibUxFcW90M1ZnR04xX3hUZlNtWVltYzhUbXZRSw?oc=5",
+        "title": "New vision for the Gastown waterfront railyard in downtown Vancouver - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvZG93bnRvd24tdmFuY291dmVyLWNlbnRyYWwtd2F0ZXJmcm9udC1nYXN0b3duLXJhaWx5YXJkLWZhcnJlbGxzLWFydXDSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 18:56:51 GMT",
+        "pub_date": "Fri, 26 Jul 2024 01:50:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "'Wok on by': Celebrity Vancouver chef Stephen Yan and retro clothing company launch collab - Vancouver Is Awesome",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy52YW5jb3V2ZXJpc2F3ZXNvbWUuY29tL2Zvb2QtYW5kLWRyaW5rL2NlbGVicml0eS12YW5jb3V2ZXItY2hlZi1zdGVwaGVuLXlhbi1yZXRyb2tpZC1tZXJjaC1jb2xsYWJvcmF0aW9uLTIwMjQtOTI2MzAzMNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 25 Jul 2024 04:15:00 GMT",
+        "source_url": "https://www.vancouverisawesome.com",
+        "source_name": "Vancouver Is Awesome"
+    },
+    {
+        "title": "Port authority, VPD share safety tips in wake of boat crash with floatplane - CTV News Vancouver",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYmMuY3R2bmV3cy5jYS9wb3J0LWF1dGhvcml0eS12cGQtc2hhcmUtc2FmZXR5LXRpcHMtaW4td2FrZS1vZi1ib2F0LWNyYXNoLXdpdGgtZmxvYXRwbGFuZS0xLjY5NzgzNDLSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 26 Jul 2024 01:40:45 GMT",
+        "source_url": "https://bc.ctvnews.ca",
+        "source_name": "CTV News Vancouver"
+    },
+    {
+        "title": "How to not be cringe at the beach - The Georgia Straight",
+        "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnN0cmFpZ2h0LmNvbS9saXZpbmcvaG93LXRvLW5vdC1iZS1jcmluZ2UtYXQtYmVhY2jSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 24 Jul 2024 17:19:43 GMT",
         "source_url": "https://www.straight.com",
         "source_name": "The Georgia Straight"
     },
     {
-        "title": "Late-night patios to check out in & around Vancouver this summer - Curiocity",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WckQyZE5CQ2lpSVlha2tVcThFSzBOcGsySGtyUGNGb3hhbmxFaUZDTGtNbXVrWnhVS0VYMlVPOV85cmdVS0JCZFdYZUl5b05iT1AzQ3gwMlJqRTBDclJlcjgwMzJ3Zw?oc=5",
+        "title": "You won\u2019t believe where he\u2019s taking transit to from Vancouver! - Buzzer Blog",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYnV6emVyLnRyYW5zbGluay5jYS8yMDI0LzA3L3lvdS13b250LWJlbGlldmUtd2hlcmUtaGVzLXRha2luZy10cmFuc2l0LXRvLWZyb20tdmFuY291dmVy0gEA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Jul 2024 23:11:24 GMT",
-        "source_url": "https://curiocity.com",
-        "source_name": "Curiocity"
+        "pub_date": "Wed, 24 Jul 2024 17:07:37 GMT",
+        "source_url": "https://buzzer.translink.ca",
+        "source_name": "Buzzer Blog"
     },
     {
-        "title": "\u201cPure greed\u201d: Parking lot price in Metro Vancouver doubles in six years - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oRTAtZDgzdDBlejhEX1BqcHlyOGI4N2RHWmFRYWFReTVJUjRXUlk0b19CSjBBNEtYYkZJdGV5dXBHVTY5STE1UHkwTjBsOFMzYTF6eGpTcF82TjlRczVHZ0VoT2s3ekx2ZlBtaWM1NUZIOWNvZlAzZ1N3?oc=5",
+        "title": "Opinion: Whitecaps Moneyball maestro defies financial odds stacked against team - Burnaby Now",
+        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5idXJuYWJ5bm93LmNvbS9lbnRlcnRhaW5tZW50LW1lZGlhLXNwb3J0cy9vcGluaW9uLXdoaXRlY2Fwcy1tb25leWJhbGwtbWFlc3Ryby1kZWZpZXMtZmluYW5jaWFsLW9kZHMtc3RhY2tlZC1hZ2FpbnN0LXRlYW0tOTI2NjM1M9IBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 22:09:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
+        "pub_date": "Thu, 25 Jul 2024 16:00:00 GMT",
+        "source_url": "https://www.burnabynow.com",
+        "source_name": "Burnaby Now"
     },
     {
-        "title": "Deaths of women, 3 stabbings are 'deeply unsettling,' Vancouver mayor says - Castanet.net",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaURQem9fa1BTUTFnR3hNNlNlVHRFX2gwLWtuM1hxSVRHMFNqX3lVcFN5azhZd2ZUMGFkaEg1ZHgzSTlNaFNockZhQzY4YkQtbWtwTndxQl80MXFUMnBzSkVhT25kQ0s5aUhjU1hOZHdrXzdpbkg5bVRwcW95OVk3elI3NmVQaDQ5MHZlZmx3YVByTlhKZU44dzA5dldEN2dDTmc1VUpveEFYOFJoaTZj?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaURQem9fa1BTUTFnR3hNNlNlVHRFX2gwLWtuM1hxSVRHMFNqX3lVcFN5azhZd2ZUMGFkaEg1ZHgzSTlNaFNockZhQzY4YkQtbWtwTndxQl80MXFUMnBzSkVhT25kQ0s5aUhjU1hOZHdrXzdpbkg5bVRwcW95OVk3elI3NmVQaDQ5MHZlZmx3YVByTlhKZU44dzA5dldEN2dDTmc1VUpveEFYOFJoaTZj?oc=5",
-                "text": "Deaths of women, 3 stabbings are 'deeply unsettling,' Vancouver mayor says"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM1I2bl9wV2sxYnA4QVdqcUR6ZEVxTVVfX29yNXF1OWtWU3Z1NGQzd2RoQzdDMFl0bU1WZHNzX0dwOWNKTEdmYXlvdVZ5c1FzQld4X2t3N2gzTFF0TWhucVFDM3c2VGJXMEVJZGM0UzBQYlk0ZHF0Y2dGQkNlRGNnUjdR?oc=5",
-                "text": "Three men stabbed in downtown Vancouver"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONkJpZmtHRHMtZFRCelp6VXpfVkhOaXJIRWFpLUpXdkp1cklQd2FOMnNaMUY1ZmJTOU13UEpiaWJrU3ZUcWg0aFlMQy1lcFZzQVU4OWRmMW01UXc1NXFPem1ISkJ2cDF2MGI4M0RIWXo4NHYwTHlVak9ILWdBYVRfZklLVkJGTmVKMF9PR3ZLVnc?oc=5",
-                "text": "Arrest made after three random stabbings in downtown Vancouver: VPD"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR21SVXZJdlFFaGNkVjhJR3A5cnRWZFJ5TF9vTk1NYnRZd3piZE1DNEZRX3pOSkgyRW1EYUYxanByQ3BMWmlvU1NuVkNHSG8wSXVxOC1pcHVkREE2UVhnLTFwNTBPVEd5U2U1YjJ0V3JDTmlQa0pRNXNMS0tfaXZuNGgzX2ExTG05eUNxS3kxeURJcVQxT2fSAUdBVV95cUxNV2RnZXh1aWtPbW9jbGNZSHRpQWUyMkF4QVhhUE1fdzQ2Ni1yamRnSXFUWGpsa2kwTjVvX3ZoTF9TckpKMUhxbw?oc=5",
-                "text": "3 men stabbed in Vancouver within minutes of each other: police"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWFZVElrOWNvU1RJZlQxMm5DVHVpTEQzZ1dYQ1M1X2Rjb3drVm9jNDFxTW9CQ0tyNV91YjZRR3IxbjUyTE8xbHV6MFpNdFNDNGFhdDhhZkJHejZEN29MNUpWOU14czYwQl8waENtS3NpVjF3VVVvdG5hSE1Dbnl0QXViSUhsMW5QUXZJT3lDSFV5MENFZGpCTUwxTkRFN2syYlJMeGdn?oc=5",
-                "text": "3 people stabbed in stranger attack in Vancouver; suspect arrested"
-            }
-        ],
-        "pub_date": "Tue, 23 Jul 2024 22:41:00 GMT",
-        "source_url": "https://www.castanet.net",
-        "source_name": "Castanet.net"
-    },
-    {
-        "title": "90% of B.C. communities adopt province's plans for more small-scale housing - Business in Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2Z1RjVyOThLMEtNQzFfZmxmSm80ek9VSkRnN3U0TE5JQkM1cTllRXlNUE5wM3JlS1VZdUU5NWQ5cnVvSk5QbkllUFRwb0tLeVVDVG5zWDNiSUY5SURXUzQ1NFJYOFg1dURERkt4V0hMcFpTOGlhd0FQS1RpMktkYVprSDRhSlNDLXdkRGpPLThjLXJlZUx2XzYxUE5pR0Q1MVhrR2U2NUppUC03NVpDX3dRN0VmVzQ?oc=5",
+        "title": "Vancouver Island contractor ordered to pay over $125,000 to community non-profit - Vancouver Sun",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdmFuY291dmVyc3VuLmNvbS9uZXdzL3ZhbmNvdXZlci1pc2xhbmQtY29udHJhY3Rvci1vcmRlcmVkLXRvLXBheS1vdmVyLTEyNTAwMC10by1jb21tdW5pdHktbm9uLXByb2ZpdNIBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 25 Jul 2024 21:22:29 GMT",
-        "source_url": "https://www.biv.com",
-        "source_name": "Business in Vancouver"
-    },
-    {
-        "title": "Book review: Catherine Babault's Wild Vancouver Island is perfectly framed, visually stunning - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVkUzdVFOR2dnNUtRLVJMeFFnZEZYbjA0ZUEzbGk3NXNYalRTOFJYSWgtdkJLVzJTM1hYTEZncmYzV2FaTTlVOWw1T2dIVlhoR1ZyU0RFSlI2bVpMdWpKa3dfWXg5YnEyOS0ycnBNaEVJdTZSamdXVTJtUnF1MFVaVEx6VW9wQVBDWC1PbzRpZEtrdG45eXdnNS04NVVyRjhoejVyYndNNGtaU2NBUDBwYU5VYkI2VnRTTEt0VS01OWw4Z2ZyQU9Vd3hpWENmSGtB?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 18:05:51 GMT",
+        "pub_date": "Thu, 25 Jul 2024 01:25:09 GMT",
         "source_url": "https://vancouversun.com",
         "source_name": "Vancouver Sun"
     },
     {
-        "title": "Days are numbered for this unique Vancouver transit shelter - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVBicHBUNEFHVTNrMVpJc2Jla0hTZExSaWFqdU1OMEtXa0RCaFFvd2ZWcEUwYWt4VF9UT0ltUmdqM2M4WnNXMnJJZENsN2ZmaUhNZ3dSeGRwVlRaYU5YOHo4ME4wSDZIUVFhZkFPeVI0X3FacE55RFplcGFseWp4eEtDd1VsZmwxSUh0bjgxdGp0NjFmSGRpNFc2cDJlSExmT1FVTk1WNU5tUnpRQk83Q1BFeDFYczN3YUtnaDBhTVU?oc=5",
+        "title": "British DJ and producer TroyBoi to play the Malkin Bowl - The Georgia Straight",
+        "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnN0cmFpZ2h0LmNvbS9qdXN0LWFubm91bmNlZC9icml0aXNoLWRqLWFuZC1wcm9kdWNlci10cm95Ym9pLXRvLXBsYXktbWFsa2luLWJvd2zSAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 24 Jul 2024 04:22:00 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "Cobie Smulders is returning to Vancouver to celebrate the first anniversary of Please! Beverage Co. - The Georgia Straight",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSEJBOGVzZEFpNTNlNnRHb3oxTU9PbmNINU44UUFNanZuYklPQldDR0dqekI4X0E4VGYwWDVUX0NTNUpTbDJkX2NBZnJtTmlHRjFobi1mZ3ZfOVoyWEhTY1BfWHM3cEdEQkFhWmVnME1rVnc4UVFJLWZoRkVfZExuRkRyMEN5X1JxYk1vSnlKTTJpR1VsdVFxY052SUw3MTRfWXJnZmhuX0o1VnpyNFl0Snl1b252QjlobjhxTmY1Z3Q?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 18:16:04 GMT",
+        "pub_date": "Fri, 26 Jul 2024 19:40:21 GMT",
         "source_url": "https://www.straight.com",
         "source_name": "The Georgia Straight"
     },
     {
-        "title": "Video shows 'heroic' Vancouver bus driver douse flames in Downtown Eastside - CTV News Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkh6SmlSN2l4dWFYRUoteWdZUXNsQ2FLNFNUMC1RblN0eVAzZVVTcGIzb1VTVmJkUGdvXzc3Y0RXaWpMa3pFTUJoQ1BabWQzeDhEai03dHF1a3o1ZDRfYzJnQUc5bDdJWDNFdDJlZ0RucFJuQ0trbUxvQXRlRU8wdXBZWi1WUmNOUFZ2Q1RuTDNMcTVqb3RHYlJoQVo5YmQ0VllyNzhmRTU?oc=5",
+        "title": "Amazing Race Canada contestants visited these iconic Metro Vancouver locations | Curated - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZGFpbHloaXZlLmNvbS92YW5jb3V2ZXIvYW1hemluZy1yYWNlLWNhbmFkYS1jb250ZXN0YW50cy1tZXRyby12YW5jb3V2ZXLSAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 23 Jul 2024 22:06:46 GMT",
-        "source_url": "https://bc.ctvnews.ca",
-        "source_name": "CTV News Vancouver"
-    },
-    {
-        "title": "West Fraser second-quarter profits rise from loss last year, sales also up - Western Investor",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGVEMmljNkppLTJuem81b0hDT0wtcGpFaDRPSnd4Y2lpRjNQaWNEWUd1ek9CYWZwX0dxSlZMdUdtRWNWU3FXUHBuMTRrYXlvYm9hMlNlVDBiNHVjRmlFRXh1ejlWV3F0ck9Vc0p0SkJrVy1fY3l2ZEstUGFQMUhnS0UzWUhneVFHOERzYlJSeEN5UFVEc01HMHJIRDZaQVNEXzA2R0xxT1Y3S2hoQml2RjVCN2xDaW5NdV90V2pNYXl6a3A2Z0E3OHhvOA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 21:54:25 GMT",
-        "source_url": "https://www.westerninvestor.com",
-        "source_name": "Western Investor"
-    },
-    {
-        "title": "The Narrow levels up its happy hour with buy-one-get-one deal | Dished - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82UEQ0TG41dmdLTV80Wjk5aWJjYmZBc1ZkVEcwZEREUXZxX0FZdXllTENvY083N3R6SXNRQTBBdEtOeWNGQWlySENma2IyNVBJN0RhVUxrd3BNbnV3bHJSeWktZw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 21:43:00 GMT",
+        "pub_date": "Wed, 24 Jul 2024 23:13:00 GMT",
         "source_url": "https://dailyhive.com",
         "source_name": "Daily Hive"
-    },
-    {
-        "title": "Vancouver's Langara College among those bracing for drastic plunge in foreign students - Vancouver Sun",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2hzdS1NUk9oZlJ3TU1FRlktTkNOQkl4NmZqTG1XZmktdmtDc3p4Z2gwVjZxcEJXblRGdncwU01PZFd4WmJOdDdjY2c4S0NQX3Jsc0NfNHdpVHd5d05vV095cnpsNm5INngzNlo0NlN3OW15WlBRSk1ob1o3R21YV1V6b3c5RXpw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 13:06:54 GMT",
-        "source_url": "https://vancouversun.com",
-        "source_name": "Vancouver Sun"
-    },
-    {
-        "title": "Video shows theft of 11-year-old girl's bracelets from Vancouver Island porch: RCMP - CTV News Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWFMWEZMbXU5enFxWEl4R1FyMld1WW9taHprb0pGZjJyRDZkM2hvOXh5eHk0WFJPckh2Sk5YUVljYmJfWTAzMmp5TFkwV0Fsam80QzJiSGZlWjBKX3NrdHdiSWgycE0xd3BZNDVuc1hvR0ptaDdfb051TU0waDBkeDBfdkRHY2twVWhCTlhFNEsxb1pHM0ctYmJDSXZvNTdrM2NKYm1iYm9ZVU94UExsOUdhY0c?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Jul 2024 21:29:42 GMT",
-        "source_url": "https://bc.ctvnews.ca",
-        "source_name": "CTV News Vancouver"
-    },
-    {
-        "title": "Vancouver celebrates 80th anniversary of sister city relationship with Odesa - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVlY3VkQzMGdNcm4wU3cyU05TaGxNMXlfQTFJbUI1ZEVXVlJhUzFqeHFJRElhcVoyN1o4NDU4dW9ULUxFWTlPbFpjTkxOb1RXREZBZ2RFWUZleEZaNDNBTms1ekxTX3FQLUV5WERGQ0xOUFAzN1hOY0kycWJrQ3I4UlFINTFwT21lUVgxenpFSWhPYkQyd2VtUzNySGc3YTdGazRKQnktMVhxMktNX3JxaG4tTThGcGphX1NDQlQ1Y0pDZGtuanZrNlpQTzFWUTliQ3U0UA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 26 Jul 2024 01:22:50 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
-    },
-    {
-        "title": "Vancouver odour app chronicles behavioural responses to stink - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUxRNFpNYzE4WTNndnB4dEZKRHpfNHJqOThYd1VRQ1JmMVRhdnhxNkFlXzdfRDRncnFxNGNsOGNudllacEJGR0Rhc1JONFcxTDlOdmNyUnlPWElMZ3p5R2pPemNQRGdtSGhjTUNLMmdiVXIyeEIxZDZ0S1lVak5TZTZ5UUhMOGVyTEhaY0xXdjBDSVhRZlhzX05VQmXSAUdBVV95cUxQSTN3SnZPUlBRVUlNcnVqMWVJUDE4dE5qX25KWDQyak55cURXT1g4U2cwZUV2SDhDR3c1cXZuWXpkV2ZHTzNmNA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Jul 2024 19:49:22 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Park board approves rules for 'appropriate' swimwear at Vancouver's pools - CTV News Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVcyN0VHQ25RSUtWQUJmVzc1YUl5cGhiN0p3M05fUVl1MG9CTnV0cUl6Nzg5M25vazZPaS16Z3VFV0RTMURoa25FZmZmQ3FqbWdyVHJsQnVBY2dIUjJDMUpOLVlTZF9rOUw3RzZPQWNPUWVIdm9wY3hXc1pJNHMxdmh3dENlUjU0V29GalJtc041VFQ1QW5zaFBISmJ4S3Zxc2FXQnJn?oc=5",
-        "description": [],
-        "pub_date": "Tue, 23 Jul 2024 20:56:46 GMT",
-        "source_url": "https://bc.ctvnews.ca",
-        "source_name": "CTV News Vancouver"
-    },
-    {
-        "title": "Win $100 for the Dished Food Truck Fest in downtown Vancouver on August 11 - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHBrR05vd05Xc0xEOVRVUmpaQlVqWEtwR1NRcW9EUHNsMy1kdDdVVkw3eWhfejA5a2hFX0d0aXI5UnU3NG5jdVlYVlNHcTZXcmxFM1NBVVEyZ0F6NFZhdVBlZ3ZoRk5tZTZKbDd4enFzR1VncjhKeWtfUlRxaVRYXy1DRTlnd0E?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 05:01:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "B.C. blanketed by smoke as more than 400 wildfires burn - CTV News Vancouver",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUFwbXNZOFcwWXhpcWw1Wnh2Wkt6SVFiX0hwSEFITm03TE14eFQ0Tk5qR2lHZWdwXzg0T042U2YtV1liUVdrTEhoVncwQWQwQlZhbVBCMGdBZjFXRXZDcFlJeFlpZmFIUWM0SVE1MEQ1SlNYUi05N1B2UHNsUnZuYTdvWjVkM0E2U1o2MmwyUQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 24 Jul 2024 16:55:00 GMT",
-        "source_url": "https://bc.ctvnews.ca",
-        "source_name": "CTV News Vancouver"
-    },
-    {
-        "title": "Video: Stranger allegedly sneaks into Metro Vancouver house, gropes woman - Vancouver Is Awesome",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1VEOG0yTkpYYTVDaUJwZlM1NkVhcEZUbnh0LWNVdElzSW5JMHZrWjZQZUJ4bUpxTk1idmxKVHMwNUcwVDZOZGlUalk3WWxTMFFLaDk3UFlYemxqYmNfb19kUFZZZW9PdXJoZDRjQ2FQNGF1TFBHdzFNeWN0RGpwMEgzcEhaQ3VTVkVmdmUzRk5xVkV5TWx6LUxkaGFwX2xHQmh5T0o3aDhuYnNYYTcwT0t5V012c2JLQV9WWnlTaUFvcE0?oc=5",
-        "description": [],
-        "pub_date": "Thu, 25 Jul 2024 18:22:37 GMT",
-        "source_url": "https://www.vancouverisawesome.com",
-        "source_name": "Vancouver Is Awesome"
     }
 ]
