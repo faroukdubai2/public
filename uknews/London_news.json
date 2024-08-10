@@ -1,56 +1,155 @@
 [
     {
-        "title": "London shooting: Three teenagers injured in Orpington - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVHZ6azZGTWx5emFERUVJcGpmWHctcEpOaVZFU1Bwc01GenUwT3VFN2dXRjIxNkZFMG9CaUs2cXpNRTVnM0V5UDlOS3lRcm92eTZiLTFDamdDQTlH0gFiQVVfeXFMTVJUci1OU090MXVKTTlXb2tWZ3JoV2l2NmswSzBJaUw4a3RiaXhIR1VvM2YwaGoydXNKWWNBc1MtX3Q3VTJnVlFyblRqYzVfaTNqVDNuSTBoVE9nLWhEUkF0TkE?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVHZ6azZGTWx5emFERUVJcGpmWHctcEpOaVZFU1Bwc01GenUwT3VFN2dXRjIxNkZFMG9CaUs2cXpNRTVnM0V5UDlOS3lRcm92eTZiLTFDamdDQTlH0gFiQVVfeXFMTVJUci1OU090MXVKTTlXb2tWZ3JoV2l2NmswSzBJaUw4a3RiaXhIR1VvM2YwaGoydXNKWWNBc1MtX3Q3VTJnVlFyblRqYzVfaTNqVDNuSTBoVE9nLWhEUkF0TkE?oc=5",
-                "text": "London shooting: Three teenagers injured in Orpington"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2EtN29ITkZBVHlGR3Z2X05CSGRaT2tTV2dvSUxGUGxFT3FwN0tBV0hXZE1PdnozX0p3bnNlZVhCS19XbDh6Vng5dU9BWU9DeGU3VlE2M3RLRFpQZm9kSVVCdHpDTnZFZlNJN2FRUlZDOXZwUkItd3NiSnhsQ2FIQ1JZSHp4SjRPal9FaWZvTkdRLWlZLVJVWGFJdm1YN1Zz0gGmAUFVX3lxTE9rS2Y0eHEteHV5dHVZT3dqLUtvakxHcmVmX1d2OG0zVkw4dFpPZ0JkX2tLLURHQmZoVkR1dUdULUFieHZsclh6Tlo5cXJHS3gybVVvUkxDZ3hNWkxyRUoxdXhyRDBkUEZScDhxQ0k0RXFxQThRSlhvZXJKdGlXcHlUemN6RTBwSFVHS0V1XzZ0T2JHRDRsYTJHUzMxZmRQVlN4RXdOYUE?oc=5",
-                "text": "Two 14-year-old boys among three teenagers shot in south London"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWJNMkREYjRteVI1NHJBZEJILUdtRE1JRlNhTVFBcVBjR1QwaGN2ckZDb2JINHFrM0piTkNjaTNHc1RxVkJVWlVkbTBrRXFCYlg2dDlYcEk4b3ljMUI4Y3lId0taY2FJZHM1aHR3X3VOR2NVSjBpS3B6S29EVWd6cGpxckdQSGdiSFRaMEVmdElQZzF5Nmc5MUU0SlotdEt0Nmc?oc=5",
-                "text": "Manhunt launched after three teenagers shot on quiet London street"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjY4R3libnFsaXdRQzN3dmdnM2t5NFBaOFlycUphYk5QaHNEeEF6eUtPMEZNS1hYZ2N1UTlXQlE5ajNMOEM0aU9OOG1xd3pudDBpT2hlSGlBN1J1VDRWRjh3YnB1UmRLUFdxUnI2NWc3ajRoR0FUSDZqSXgxS1k0NlJQRWhPaFhOZVdndlloeFJRSDVUU2F2a2xRT0lVWGEweWdqWHdSQ3JMZw?oc=5",
-                "text": "Two boys, 14, and another teenager wounded in Orpington shooting"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xVHV4Y3E0c3dDbk5KWk8xZG1Db0JhWThkMUg3SE1pUXVoUTRId2tET2pmY1N6VXZ4TXhVam13YVBEVjFmLWxLazByN1UxSnV4RnZ4NlloVmlZUQ?oc=5",
-                "text": "Three teens injured in Orpington shooting"
-            }
-        ],
-        "pub_date": "Thu, 08 Aug 2024 12:29:46 GMT",
+        "title": "Banksy: Fifth London work in five days appears in Walthamstow - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mR0ZnaUF1SkRPanZxTTFlN3FDZTA5RDFFS29jNUM1M04wSTltaUpXcVBmLTliYUJtVC1tbHhpZ0l2YUp1Y1U3TDVMVF9OQ3lsUUJBRlA3SEs4Qy1I0gFiQVVfeXFMT0hCc1RWcThiRzlnOVEyTnFySlBmaU51TTA1eHd2V2JnZFlveXBmZU5Ebld4R08xLTRUZ3hBQTgxSGwtbDZ2aUNwWDBLRUVVOHdtdjcteTRRU0xTdWpUYmNoT1E?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 12:01:01 GMT",
         "source_url": "https://www.bbc.co.uk",
         "source_name": "BBC"
     },
     {
-        "title": "Three masked men remove Banksy artwork in Peckham hours after it was revealed - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWVXQ1RKSWlJdlR4MFpOSkk4MEVqODdFcFJiWXBjb2FkdVF2RGdOQVQtekNSTHFhdGFvTUxWUlBNc2x4X3o4SzFRampPUVdyaTZkWTR1djZYcDlRdnpKaDJta1c2MTBVOWlpcDdwdXd6d3FzZThkbzZDbV94eHhTaXFsYUdKcWtSVXdrZV9jLXRZM2p2SkE?oc=5",
+        "title": "Fire started by 'catastrophic' failure of lithium battery destroys Wembley house - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0k5MlV1NEhzek15ajlQVkp5NndfNnFiTDN5eVY1ZkVQcHBvcjhwTGVkQzdKeG1lOXdWX2RfYnpXRFZ6MVdJWUkyb1U0aEJsVEJHaHNLaWM2ZnJMaXJWMUlaOHhCdU1kUF9QbDAwNmZZTFZlZ0xXVk1zY1YyUG9Nb19nTzQ2Wm42djc0SUpjWTk3b3lXd0RPLWtpaTF0aUNVbWFYXzhuMExrTTIxS1R0ZEJUbDkwd1U3TkE?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 15:49:23 GMT",
+        "pub_date": "Fri, 09 Aug 2024 17:27:41 GMT",
         "source_url": "https://www.standard.co.uk",
         "source_name": "Evening Standard"
     },
     {
-        "title": "Imogen Kwok's insider guide to Notting Hill: 'Everything I need is here' - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUFab0VEanhRd2J6bkptaW9HNWIxeTlaTm9PMFFEdG5yVUpIQ3ZpMkNNN2VEXzJqdExVNVJ3THVmRUM5NkEwaTB5a25oVUVIeENGMUNHd1hqaDEtRHM0ZHNfWFVtVVBoZXp5SVJJM28tTXZrejB5VHZibmJUazB5cG9PN2pIM2ROQUVrc1BUZkstWFZVcU1pVmRRaHdpQlBGa2NBRFdJQXMxeTAta2RlYkRYVlpwTzBFMEVZR04waXp0M0IwRHEtaUhHb2s?oc=5",
+        "title": "Starmer guards against complacency - POLITICO Europe",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1N5LWViRXQ0MjdBbTgxblJFZHNVRk03T3hsRmNTSngwd0ZXZUw4NmR4dmlVQ2FFWE5UQzVENWJtc0RuSEFEMGFERlFPMXZhS3ZtOWxkcUtFeEVsNGxZLXBzT0FZbWg5QXkxZVIyeXdhNFJZWFROcFp2UzdwTFJIRG9UZkNaU195X3oyVlNsbw?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 09:50:15 GMT",
+        "pub_date": "Fri, 09 Aug 2024 07:00:00 GMT",
+        "source_url": "https://www.politico.eu",
+        "source_name": "POLITICO Europe"
+    },
+    {
+        "title": "Over 80 bikes rally in London to promote pollution-free business deliveries, as use soars 63% in one year - Harrow Online",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbHB4SmFNckpxRk5RUmVHS09Qd1BsVHc1NFVZcmpEMXdueU5rbHp5RGJCLUtDVGlGZlY2ejRPbndEZndBdVVLb0xNX2hoQk9PeG1VX0R0M0thNXRjS1BDR25ZV3FucEZIbndDT0tXQ1NwRXVPa0phaE9lZFlaNTBHenhfcVdtZmtoVHM1ZkNWXzN4UGZLU09OWFdIRzR6Tjh3T0xFT0cweHFkanZDanpGUVRUaDZVelFScXhNblVMSi1WWlVrU0x2WHRQeS1QSXFMQkFIY3E1bw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 11:57:32 GMT",
+        "source_url": "https://harrowonline.org",
+        "source_name": "Harrow Online"
+    },
+    {
+        "title": "Hargreaves Lansdown to leave London listing behind as it backs \u00a35.4 billion private equity bid - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM19fem9kdk1oTVY3V0JVMmxmTWJDaV9qTEFIMW94aHNwQWo0ZmlFU1FPTGVpUzA5QUxQTk8yRm5FeHkxRkNQUERiazdjejJXUWtkTm56dlNUa2hTSU9HQ1FCRlM3a0xoSTYxSk1aSHpOallXMDJoUTNFcXV3MXdrX1ZVM0dETzJXd2dwejJ4ZWRRbjJJYWJyVTFOaFQ4ZEtGRjZzTDRZSWx5em1mWXFGUkt1ejFUWG5EZ1RJQTFwVDN6U2FMbjZBVGUzMGtGUQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 08:01:02 GMT",
         "source_url": "https://www.standard.co.uk",
         "source_name": "Evening Standard"
     },
     {
-        "title": "Heat health alert issued as \u2018short but intense\u2019 hot weather to hit London - This is Local London",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEZTckNpZEhzWmlWeWdiQ2hlV2lZcHhRSy1BLU9YbVhYQ0hYNVJoUTg2cVlpaW9YV3hOLWhfUGROc29EMEdYOVFhLTV0Y1prMG5COGF2Rnh4NXdjekJfWTR1S241VXJQMXMxSHpLU21qdE13by1fNlQwYThGeUZQeVMyNm15azFSLUtNV0tCcGtHRGFBT2VadGgzSHBxa00?oc=5",
+        "title": "The London Buzz \u2013 9th August 2024 - ianVisits",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXM1azc0Z2EzT2FGUjRjQ2F1dmk3eDRSSHdnRVpDMG5YT2lFSTNvU3g5c1BHQXlud2ZuWmxDOUtCQ2NnM1pmU24yd2QxOENmeWFLSms1N3BjaHg5V21QUFhQLTFDaktVR0xiektFczM1cFE3dTY3NmJQN2Z2SFRtNw?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 16:24:44 GMT",
-        "source_url": "https://www.thisislocallondon.co.uk",
-        "source_name": "This is Local London"
+        "pub_date": "Fri, 09 Aug 2024 16:00:52 GMT",
+        "source_url": "https://www.ianvisits.co.uk",
+        "source_name": "ianVisits"
+    },
+    {
+        "title": "Commuter chaos as trespasser sees London's train and tube networks grind to a halt at rush hour - LBC",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTZFUWZoUGtNRUd3cmp1OVRBaG5jNjJJb2JUWTR4RkdqR0t1VWVfZjViXzd1elhxVmVJcHkzWFUwTzBBODJ0a004b2U1ajNTdk9kS0FOWWRiSkJydU1RWDI1U2JjVDdlMUhXbm5lbFRxcld1MGZORWkzN3NBOFRvcUR5Z3BRWS1RZHlWdDNBRGVacmZxQzBIanMtbGdva1prZ19nbWRlMlk3MkJq?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 07:24:48 GMT",
+        "source_url": "https://www.lbc.co.uk",
+        "source_name": "LBC"
+    },
+    {
+        "title": "Newlyweds win Omaze\u2019s biggest ever house draw with \u00a35 million dream pad in London - Express",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDhpazQ4WjY1XzdWMGcySFNpblU4UVlCVlhvcEJkZXc0Sk5JZ0t6T3NxbzlUM3RycTY5X200RW13ZF9PSVIwZkxmUGJVMEhId0dFUllhZDlobjdwSktBOERSZUJpZWYwQkRVaE5MV2xJbU5ubWllcUdRTmQxTDZVTUE5dXU2ZWFfQkdn0gGQAUFVX3lxTE1HLTA3cjNReXUzdEpQbF92LXpWb2h4WmJ2b2Q2bGw5dFE0bmlPNGVDYnpCT3diMm03VmFXS2dRcm40VVlzTkdYMWd3aklQcUdjUFBJN3F1cTNJTnJEdC01OFZJSWZRSGlZTFhBSXhGZ2Y5ckJ0UXQ5aHNZVVpRVkZXS3BsT0Vqd3kyMFBwOEIyVg?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 07:01:00 GMT",
+        "source_url": "https://www.express.co.uk",
+        "source_name": "Express"
+    },
+    {
+        "title": "Labour MP tweeted about giving drunk homeless man in London's Covent Garden 'massive elbow to the ribs' - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzhUQ1o1eXNCdjg2Y3JGZHFjeUFxWm1OZFFOZEtnemF0TURvMVdpUlA2NlVlSmJIcVhLRmpfOFZEc0xwY2VHZHlYajBfd0pqUTVFWGV0LXQ0R2RfOEdxbVV4RkNTcFJ3NG9SUmpCeVdvLVpMUktscnBmZkdkV3M1czhqbHdvSS03SmR2MHk3RTF5cXVBakpfQ0VPUDdPWGVTOG1IUUE0TnhnbG1BX0FicFg1UQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 07:57:08 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "'Parklets brought trouble to our streets instead of brightening them up' - Hampstead Highgate Express",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWlpWFF1RHpwODgya3h5dmMxSDFVRDdjV3hzbmdPTHd5VEVydnNzSEx5dGtLUU1oaE1tMTNkbHIySXlSNDhMS0REaEFvbllwWlZNR3ZvN0NISFRLWnBpUEZ4c1Q3WkRKakExTjRXTUtPVUF1TEJqLVZSNTlUM2NZVk4zZ1plTHFWOXJUbWZoNmZoUmhqLXJheEtR?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 13:36:06 GMT",
+        "source_url": "https://www.hamhigh.co.uk",
+        "source_name": "Hampstead Highgate Express"
+    },
+    {
+        "title": "The 13th annual Sculpture in the City - ianVisits",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGhOa2hCUm90NFNCYVpIWjBEV1ZwQUw5ZXBfMklZRlNPeGJKYWEzNVIzcl9IRnV0UEhJUHN3dGRrVXF0d3JJeWNQMjlvZl9seWZqSVJ3SmxxeEkxN24zenN5bGlzeENXY2hxWk1UTVJYQ05Gckx2YVVTTEVwM1dMTFdEcFVXeFhU?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 14:00:25 GMT",
+        "source_url": "https://www.ianvisits.co.uk",
+        "source_name": "ianVisits"
+    },
+    {
+        "title": "Isle of Dogs: Two men charged with murder of 23-year-old man - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2Q3ZETEZ0VTUtcF94bW9FMVJhaUEwWk5ibVVrNkRDQU5FaEhkVU9JOTZxTGJMUW1mX2pZVEx5SWEyT2N5SUhtRWZwc1lwcEJfZ3M0QzB4ZVpmbTla0gFiQVVfeXFMT2J4UEtPandyTk9YT0FicFppUk5fei0xSWNXcVhtcVc5UFlkUU5MVXJzRl9WREF0NEJQTHpNdHR3TXlrZWRKWkI5T3ZnWHN4YnBZekNlbUlOUVVWYmdlN2o3cXc?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 18:41:35 GMT",
+        "source_url": "https://www.bbc.co.uk",
+        "source_name": "BBC"
+    },
+    {
+        "title": "TfL hints at future cycling deals after 5,000 used 'Cycle Sundays' - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3lGV280bGMyTzd6cl9OT2pPX21hTGx4bjk3dE9YNFhhQVUyWDc4R3FVRFpiOHpXZjZzTjIzLXM3bXJDd25HWTFwUE9iR2E3Y3VSc3ZhMGVQa1NlVUhmVGpIRjdrUzhhV2t2bWhyUnhXVEcyLURZNlhJa2lqMzdZR2ZLeldWV0pUa1pwYzdsQnZfSFduaFRldHhwR2Q0aHBpakdaRExSX1ZwOElKdkVWaDhZeWwtUQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 16:11:17 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "\u2018I went to a beach with sand, hammocks, and deck chairs\u2026 all in Croydon\u2019 - Sutton & Croydon Guardian",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ29VeTFwbWVDRHU5aEVjb1duWW1vY3AwbWhpNUphMDFRdlJsaGVmUjlub3dsREdaNlJmcTRlSUlGTlJQU3c2OGdadFRER2txc2l3YzVMQXpMTjJNbkxpRjdqSUJUNHduTkx4ZC1LVE1xVUl3NmwtSVdXdXZEbHhpWHJUTFo4eHM0R0FtMWFxQ1FmZmxldlo2VkdBTW14UUxNRGV2YXZNNld5c2N2SU1B?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 04:00:00 GMT",
+        "source_url": "https://www.yourlocalguardian.co.uk",
+        "source_name": "Sutton & Croydon Guardian"
+    },
+    {
+        "title": "How to watch the Perseids meteor shower peak in London this weekend - Time Out London",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG10X05PT2NwVVRUbktVQW5MeXV5bk1uMHN3elNZaUhaNV9Xa3dNbFRGd08xU0pXaW45T29EcjB4SE4tU0ZTRFFSVGtLaDJHdDJoUEU3d3ZLbzBHRWg2bGJlOS1pY2pnQUdjdUVYNDZOVmZaTXpOWmZtWUxNZnN3c1FSZWpZQWl4LTRpMVdfUzRrWUZla0w1U2ptYTR1YVRQVm92U2lobm9xZDlVMUlF?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 09:42:47 GMT",
+        "source_url": "https://www.timeout.com",
+        "source_name": "Time Out London"
+    },
+    {
+        "title": "The south east London borough named best in the city to try outdoor tennis - News Shopper",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQzl0ZW9vV2l1TVhKR2VGWFlkNF9YTVZvVkRMdDlTOUJ1SEtib1BmR0VSdFVJNm9HUzBXcmtrMGN0d0gxY2RpeTE2YUxPcjNmWXVubDc0TzlVdFRENUV3eDZtRnBiT3dxcWZZN0JfbHRRWFl1eXhwXzQ5S05heDd1MDF5TXhWeFd0MDJDcG9yOA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 04:00:00 GMT",
+        "source_url": "https://www.newsshopper.co.uk",
+        "source_name": "News Shopper"
+    },
+    {
+        "title": "VAT threshold concerns for London taxi drivers as costs spiral pushing revenue higher to make profit - TaxiPoint Taxi News",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTdlU3pCeVYwaVZkaWo2cUNCbm5wZlByV2dRMDJPNGtsV3VkRzZ5QnJmTDYzOHdldzBuenNUTDlGV2NhVlM5WlEzTklsblgtWlhlQm5Va3NLck52ZzE4WXotdnhKTFBVNGRYT0t2aWY4U3BHc2FiZmQwRUFzUlhKZDlRNlRUM181SDVEbjFma1ZCMU9ZT1gyeDlONjVoVjh3ZUxCTWZ3UUI0ckZ4ZG5jMlJBVnB5WjNCeS1fUkE1bUZ6bWhuZ3pEVmpNVWxFSWs?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 07:23:21 GMT",
+        "source_url": "https://www.taxi-point.co.uk",
+        "source_name": "TaxiPoint Taxi News"
+    },
+    {
+        "title": "Wild swimming: where to cool off within an hour of London - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnZVOGE3U3JZeDFGRmo5WVVQbUxEcFQxckYzOTRhMVdmU2wzOXFOcHpGMEx2UVg5NlRESEdxdmtGWnBfSjJ6ei1aVVYxblBTSkFXSkg4SWh5OG0wTE4wOHdaVzJJTVRzU0ZSQk9ZNlZUanRCQ25CMkl6dmZsOFNXUWI5NmtYdlNMVDJfUHBuY054Vy16d0JNVnBfb2Nvb1NkYXc?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 17:17:21 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "Full list of every London Underground station and line closed this weekend - Southend Echo",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnRHNWpzeUstX1JyYjJkb0k4bkZpNzlEc1c1Q01GQnVtN0Z3WHVwX0M2R2tKbjQwYzdpdjB5c3BxUmV0S0R5RjhRcnZkRHVybTNnQkhkLWF6anFsTHluZGNPYXdKdnQ5QWxkS1E2VE1TLWE1bGZuOHpiczVUZDExQUdUTTNOMExTbVFjTU5Od3NheS10UnlSRg?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 08:20:31 GMT",
+        "source_url": "https://www.echo-news.co.uk",
+        "source_name": "Southend Echo"
     },
     {
         "title": "Huge UK city's sky turns bright red as Algerians celebrate milestone with 'illegal' flare - Express",
@@ -61,44 +160,52 @@
         "source_name": "Express"
     },
     {
-        "title": "Labour councillor arrested over 'cut throats' comments at Walthamstow rally - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNG52aWM4UmpKVU5DYWlZdTJiOWhhY2RhNVU3NVlGQTlBTjRxQ1R2cTNEeVNOWUU4dkNwazBRbzlYX1pYcHJkUGx4TmdpelJ0blVFLXNwd0hKWGU5Zy1PMmhibkxwSFNwb0tTaUlFRFZJREI0SjJHYjlxQUtVc04zeW9aQ0xSTGRSako1UU9fRW1wZFdKOGdSOTVibnhFVDZhSjk5NGplbU1WYzkzd1BHZEcyR0Q3Ulg0QlNXMGdLRlAzRnJF?oc=5",
+        "title": "Heat health alert issued as \u2018short but intense\u2019 hot weather to hit London - Wimbledon Guardian",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkZ4TnhGYWRSd0c5TUZPbkI3QWY2THBBTTFFZWdJVFE3dFQ1cldMVXJBYVJkeFFQbnlZZUxKYXRwdU5fcEJWYVYwVGFDbVJZbkM5bnJraWVZUDRvZzhROVhSX2dwUTBHNFlkQzBFTTJCUHFvalpjaDJ3OXI5Q2VUZTR3ZXhPdms1REtfUGd3TVB5cG9FUGFSX0UwQjR2WEU?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 16:16:08 GMT",
+        "pub_date": "Thu, 08 Aug 2024 16:24:44 GMT",
+        "source_url": "https://www.wimbledonguardian.co.uk",
+        "source_name": "Wimbledon Guardian"
+    },
+    {
+        "title": "Most expensive and cheapest streets in Stratford revealed - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkZEUkFVYXdub3pUTVc4R2NDZWNmOU1fQ2UzTndqay1KbEF2dkVjeDQtUVlOZmhNSFBCU29vd3JVTE9kNUN5X29kY0NvM0VOc1EyOHY5d3A2UGNvRndQdHFONm83UmFlTTBCWUl2b1Z4Mnp0cjdLZnRkREtUWHFpVmpHWllsMzU3YVFfVUd0VmpMQ08tMUFITWh3?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 18:25:00 GMT",
+        "source_url": "https://www.thisislocallondon.co.uk",
+        "source_name": "This is Local London"
+    },
+    {
+        "title": "Nine of the hottest houseboats in London on the market now \u2014 from \u00a3150,000 to \u00a31.8 million - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2lqSlpFVE85UHowNHJWNW1lQ083aWJBbUgtcW5yTUZVNzBnV3JHRXZYbWlMTXlZMDZ5TEd5Z2FnZUptYUtQc0J2a0ZCTVJ0S1hKVmthTkdfaXJBTVZ4NmdqRzVXTndLRndzT3c5WHQ2Ul9nRW1tNWFDaWhsaV9XZGdoRU9fenNQRk84aUF3bjZkdWFzQlJxRkVwVDJfRUU0Vll6R2k3MjducGF6aVNRVVIwSGxHOWFVTEE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 13:31:01 GMT",
         "source_url": "https://www.standard.co.uk",
         "source_name": "Evening Standard"
     },
     {
-        "title": "TfL is selling off its surplus engineering locomotives - ianVisits",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnJFM3A5cUc5dlRTZHJ3WXctUzlTaDg2dU04VkY1cjV5WFZBcXJBX2I5U24wU1ZOcHBjLWtMdmkxeHdVMTRxc20wV0NtMjNRZElQM0RWOWkwWnJEX29nSFIybzl0V2xLUGM3U2pJSUljLS15V3Q2LUlEWm8ybUZSam1KeXdpLWNUZGU2YzU2ZFZZS3RROE03VzhBUVdud2M?oc=5",
+        "title": "Extra police patrols to continue in east London borough - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmxuZmZUZVM0VEMwMUNHNTJrLU1UZjlTUnRWcE1WSzhJX3pmaVkwcVhpNlhmVU9KVTZMamFFcWRVX3J1Q2FLZ25PZWpwdDlSd2haMVF4VFVKWTNkOXBFR2Q3bVkwR1kyTUNwcG5FTDNPcFlzMk0xR0ZNUFhkVlcxOEd4emVYLVJ2NkFMSmZHd0YxNUNKcC1LLWN4VzhQaE5RVUdzaldoVGptRURzblFfNg?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 09:10:50 GMT",
-        "source_url": "https://www.ianvisits.co.uk",
-        "source_name": "ianVisits"
+        "pub_date": "Fri, 09 Aug 2024 18:10:00 GMT",
+        "source_url": "https://www.thisislocallondon.co.uk",
+        "source_name": "This is Local London"
     },
     {
-        "title": "Seven exits in a day: Sidley swipes five partners from Latham in London - The Lawyer",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUhuOVhEWG11eEh5bmJnbThGdTB6Tm1FTlhVdWFkaFA5ajRIQVBOS0QzeExCSDV0ajBEY2k4U213NWJhTk1MUGxyalgzbjk4SXd3WExLeXRKV3h6R0pFei1wT1pTNXNJa2J6a0t3RDhwSURlelZKNzZucnNRbmJ5eHJDNVp3RU5yYkNVZ3BQZ3M1ay1hdF9QZnVRbHlzUQ?oc=5",
+        "title": "Seven bus routes will change in London this weekend - East London and West Essex Guardian Series",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalBwNGtJckdtMkpmbGdkeXBVUmFoTUpNd2FrZWlLWmhPaFV1eFJXMnhRU2kxZ2Q2QW9VQ2pVbUFrZTJTekJfVTA2bG00MVFuOXJ2Z0RPVnZ0ZDFnYjZRSjJHM3lTc0F5R2Y1SUE5NTdObGRjdFMzQTRMclk0eVRHbnZkMHVnUnJha3ljSEVHVGpJUnpD?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 16:11:55 GMT",
-        "source_url": "https://www.thelawyer.com",
-        "source_name": "The Lawyer"
+        "pub_date": "Fri, 09 Aug 2024 17:00:00 GMT",
+        "source_url": "https://www.guardian-series.co.uk",
+        "source_name": "East London and West Essex Guardian Series"
     },
     {
-        "title": "Thousands gather at peaceful protest against far-right riots - Harrow Times",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTZOejg2dTI5X184ckVZYzJQUlBnQmlBUWFCT2gzdUhvX1NsTi1MNnNtU3ZFN1lZdXNnZ1o3MDlCMXNNNjNWd3JqcUMxWU1sSFNLcDRaTWJuUi1UMFRWRW5uX2JFVDZQQ3IxaUxHdk4tUEpWSjZnbmcyRXYyNG9mVHZaQ1VPcnRad2Jyd29jZDZtRGk3Z3E3c1ZRQll0SHJ1b0E?oc=5",
+        "title": "LEVC Brewery Road unveils \u00a35,000 taxi scrappage deal for cabbies in London and North West - TaxiPoint Taxi News",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0lhZ3NPZlpTUnRYVGhUdGRuTE4xbzlrWUFkZlp0cVRHZWFPTDVSWjM0RFJHeFZMemQzQ25DQXVNbjZvQVFaZGJ4NjVqV0t1akQ1RmVlZHBhaDFKMTItMEJCLWRLWmRraW0wbXg3QkxlOXZyVXhfQUpNdm05c19HQkhVeDlBZDVwN3lKc2wtd2x6YXRVNWg1ems1ZHpEZkhNbjV6aWxVR3d3cmwzckY1N3FwWVhuRWJwMmpiSmhKTQ?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 11:20:50 GMT",
-        "source_url": "https://www.harrowtimes.co.uk",
-        "source_name": "Harrow Times"
-    },
-    {
-        "title": "Five London neighbourhoods to receive share of \u00a312.4m regeneration cash, Sadiq Khan announces - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUNHb2NueHpFcy1RSWVzV0hCOXZlZkdQRmhjMkNZUmtCLTRKa3o5ZzNLRGhkdGxOSDJubkQ4N01LaXB4dFFLd1E0S1JXZFhjaDJhenRuUjZNM2ppaXZITHZsY0RjcENienlPa2F4UWZyalQ5TTFJMjNad2hnOW1JRTZvVjZpM1d1eGxEOG5IU2I3ejJ1QmpwY3lQakhVbnFpUDNDRWh4VGVTck55Q1IwRzFmc3JjTWpRMGN0aXhxUlZaNXpWOTBKRV9CWFg?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 17:44:20 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
+        "pub_date": "Fri, 09 Aug 2024 14:23:05 GMT",
+        "source_url": "https://www.taxi-point.co.uk",
+        "source_name": "TaxiPoint Taxi News"
     },
     {
         "title": "Tulip Siddiq cleared after London property income investigation - BBC",
@@ -109,84 +216,20 @@
         "source_name": "BBC"
     },
     {
-        "title": "Huge fire destroys canal boat as explosion warning issued - Newham Recorder",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWhrbjJXb2RZWlZiaXJCS29hS3B2Ti1ZelpaaExNS3JRNmN6TVkxUEZlVmxRdFRhQjJLNVhIRDlrRzJ5NF9iYVRrd1V3UnVnNG5WTU1WMGxMZmp0d083eWNFRHk0WmhYR0hoQno2ck04U1luY1ZiZDBDUlQ4RUZCYURfT2ZZNXloQVdSSmhSSE0yR3ZBVTJ3Tmg0LUdyNDFhMXNv?oc=5",
+        "title": "Business Support Officer - LocalGov.co.uk",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nZlhONUtrb0FRN3NMWUhWcXpfeElKZWxCZ241Q3BITGNSRnBZMXdCbG14X1BxdEVDT2tBM3MwOGdpanloWjNpb0JmenYtNmw3RVlMZ0c0aGdPbDM2XzJlNlVUcWpMMlVlMlFJWElhSkVvdw?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 10:54:00 GMT",
-        "source_url": "https://www.newhamrecorder.co.uk",
-        "source_name": "Newham Recorder"
+        "pub_date": "Fri, 09 Aug 2024 13:40:12 GMT",
+        "source_url": "https://jobs.localgov.co.uk",
+        "source_name": "LocalGov.co.uk"
     },
     {
-        "title": "By-elections planned after councillor accused of sexually assaulting boy, 11 - Hackney Gazette",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNV91RUxPd3laemsyRno2MFd4ajhmLUZIVVpyZlpTT1AxamUydUFBU0pjb21pOXpmT0hjUmdza2FRUTlrY0hxM2owcHdibU5KZXJxbnJkVmpBTlN0bEp6WThwMGQ2c3FFcHV3Y1VFbWgzODFYM1RuRk4zNHpNWGpweUpMWDZRV3JJcEQxOF9GZmxPcDFXTC1OTi1SRQ?oc=5",
+        "title": "Man in major trauma centre after early morning stabbing - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmpOMTcyaXplb3BUVnFrZjVZbnVlZ01LVzg4LXBCUEFQSDlUNTRBWkF4a2VtaHdZTm03ZzBlbkl0NkRqX3FnRHVlcHR3SlFrMWh3MEpIczRULVN1bkk4QkRVYlQ5ODZQYXhRcG93Ul9jaDRTUE1fcEpiaEdmcnF1UWl3MmVQcmIzdDY2cnNqbkhTc0pEeDVid181QzNfWVh6ZXJUc0FIaVV1dw?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 09:35:51 GMT",
-        "source_url": "https://www.hackneygazette.co.uk",
-        "source_name": "Hackney Gazette"
-    },
-    {
-        "title": "Full list of every London Underground station and line closed this weekend - News Shopper",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVNkaE1VWEo2Ri0wS0hhd1hsVTlsSFJtMEVndURadFFhOTJsb0x3UFlIXzFONmc3YTFZNHRjN1ZpYkdlc0NTVWZTcEszY2ZjMVNWclVGR3RaeGpNb3lNSExWb2FReS1QY1NkajlLZV9uUkdQNUhzS2RDNTl1cXd6azRWQjRZcjFPTXBXd3VHbGdtQW04UV9tNS1IZw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 05:31:27 GMT",
-        "source_url": "https://www.newsshopper.co.uk",
-        "source_name": "News Shopper"
-    },
-    {
-        "title": "London\u2019s FTSE closes lower despite improved afternoon trading - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmNfZnNxQmpxVWFVTWt5SnBJa3dEZUF0YXd3NGlzV3hIai14d3M3bDljR1ZfMHdpQXJUdzVqTTJzTS1taXZ6X0JaeTlXZEpUOUNUWlhNblJNb2ZHOTZ2MG1Na01pbnh0OTNwWm1VR3BYSFlHN1ltemJ6SXhZTFlpNVg4YVdXa0E2UGpKZ2dRR3lnVS05WXlGZ20wSEZkOE56WjZYMk8wWEVSaEd0cWQwazY5cVRoZVR2Sl82RGcxREZDems?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 18:18:02 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "Bexley and Bromley ULEZ activists charged with harassing Sadiq Khan at his home - This is Local London",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzAtalRXZmp4OWVQVk9Yb1I3X3VBS09HeldQbmkyVjdLZXk4dGVYRlREU3dfZXktSjFoZVB2TWhlRUtiZzBONHZMaU15SktDZlhjdVpMM1o4N1RHM1NLRkpYTWM4ZEphNVZTNHB0SjdsMVVjWS1XaU5qX2RxaUhtaVRpQzlOLUc5MTRrYURld0FsYllMNHVoY1ZIOGVUUHVsdF9CRXNR?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 14:15:52 GMT",
+        "pub_date": "Fri, 09 Aug 2024 12:03:00 GMT",
         "source_url": "https://www.thisislocallondon.co.uk",
         "source_name": "This is Local London"
-    },
-    {
-        "title": "Pictures of counter protestors in north London on day riots expected - Hampstead Highgate Express",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXpmSWU3R1hOSmdPZDNseVZyUXVHajNaM2FkTEtPcGRBdHlabXNvZ2llR2VIa1lLZEVPeWREekp3UU5BcE5YMzZhY2xTckNaNjFtM0I5T0oxMVRDS2JnRTczMzFNTXFwaFU3ajJqZWc1N1o2ZUhzR1l5dGV2MFRUbktsczJteEhCSkZRLXhEajEybnk3UGZ1Zw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 19:56:09 GMT",
-        "source_url": "https://www.hamhigh.co.uk",
-        "source_name": "Hampstead Highgate Express"
-    },
-    {
-        "title": "London food banks see surge in demand over school holidays - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03aENOVlZPanZGRmxKYW1UTlN0czZqRDBsLUxCVDQtaUl6WFR4dUVJR28yTnJXZklRUm9VQTJBN09YYmUtZVo3WXlCS1h3MVNIOVJzZTU4M2ZwSkFt0gFiQVVfeXFMUGc5M2F3ekE3b1FHQTBiTFlFdm1JNnAwYWVtQzRORDFNOGtER1BpLTlVQWZYaXFvSDVQc1NWcnVKazlyLUZmb2xnZDdQeXVMY1E4Rmd2NS1UX3FXZnhnUFZuQ2c?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 05:17:41 GMT",
-        "source_url": "https://www.bbc.co.uk",
-        "source_name": "BBC"
-    },
-    {
-        "title": "Homeless people are still being arrested under a 200-year-old act criminalising rough sleeping - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON3Q0MnkwVWh6N1pJSGd4WUZWZmtPU0l4b3E1SkJtTmFBb00tSmwxbUtBSDE2R2d0MExsNFpmbU0tUUFDdHpxOTNjSmxOV2dXM1NHT2xWREZaWmdCd2FTUmdydURIbXcwcUZRTEgwTVFSd3FuY2hOUzQtTTM1MTJrSDlrOFN3UEVfRWJqNExUSnNZdVkwWlNVLU9NRmk5SzlUd1dGM3VqQjRZemVKa3c?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 22:09:07 GMT",
-        "source_url": "https://www.independent.co.uk",
-        "source_name": "The Independent"
-    },
-    {
-        "title": "TfL spent \u00a322m on fare evasion crackdown, collected only \u00a31.3M in fines - Harrow Online",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzNuM2oxUW1YQkF5UGh2eUdYT0tzazIycjlPT1RBTklBSlV2MEVJQ3Mwa0E3cXRHTXJBVHJvRnZoMk9JWHBXTjFHNk0tRmdSZmFOOHRRano4bm1JUUs4bmVaakJSMWJDVzVWek14bE8tMEJobk1jQ0ZLS1pNYjlISEtyd1VYZHRqSVVzWHAzNHFCOU1oZXJ6T25KWUwzbDVBcjZoYXlnWWo?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 06:58:52 GMT",
-        "source_url": "https://harrowonline.org",
-        "source_name": "Harrow Online"
-    },
-    {
-        "title": "New London taxi booking app JUMP set to join the market in 2024 - TaxiPoint Taxi News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXVpTTVMaG9CNXBaaDM0VEQwaTBzX3NqQ3NhRXVzSktEWjVFcHpWNzNEV2xuWVZ6bGdsU3RNV1JYdXgxOEdQdXpBMlBTcm5ZcFdMQjQ4OHhxenFIeFdLZURvX0g5U1RKWm5ldkRORHpfR2phWmVyRDRyU0E0dXkwV1dDZTBnNk9uZHQ1ZW9KS1QzdXBKNzJWT1lWYl9sdw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 18:55:11 GMT",
-        "source_url": "https://www.taxi-point.co.uk",
-        "source_name": "TaxiPoint Taxi News"
     },
     {
         "title": "Cheers to the London Craft Beer Festival 2024: everything you need to know - Evening Standard",
@@ -197,6 +240,38 @@
         "source_name": "Evening Standard"
     },
     {
+        "title": "Return of planning powers to \u201csecure Hackney\u2019s London 2012 legacy\u201d - News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3lKeWRFSG9TUDhlY1FFbmRBRmU3SjdsQ0dkWVhVaWc5VG9laGR3SENhRWRHVEJUcVBjU1NBRlh5bFNUT0xyajZyNjVlWmNzZVR4TE1oRFJQX1YxZUpSZ0VZX1VLeWdNLXRWNlVRa2haMDl3ODFycWdlb1IyVU9aQzRZUGsxRThIX2pRUkduYWt3Yi1HSXdn?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 11:53:31 GMT",
+        "source_url": "https://news.hackney.gov.uk",
+        "source_name": "News"
+    },
+    {
+        "title": "Thousands gather at peaceful protest against far-right riots - Harrow Times",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTZOejg2dTI5X184ckVZYzJQUlBnQmlBUWFCT2gzdUhvX1NsTi1MNnNtU3ZFN1lZdXNnZ1o3MDlCMXNNNjNWd3JqcUMxWU1sSFNLcDRaTWJuUi1UMFRWRW5uX2JFVDZQQ3IxaUxHdk4tUEpWSjZnbmcyRXYyNG9mVHZaQ1VPcnRad2Jyd29jZDZtRGk3Z3E3c1ZRQll0SHJ1b0E?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 11:20:50 GMT",
+        "source_url": "https://www.harrowtimes.co.uk",
+        "source_name": "Harrow Times"
+    },
+    {
+        "title": "TfL will progress with DLR extension to Thamesmead after 'overwhelming' support - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXNaRm10amRmOHcyTHpFYW1fbFBYcUotcGw5SEtUSDhacmRKZ0xENWF3ZUQ5ZTh1R1NZVGdKcG5EcHBuMVJzdmFhMDBVb25tNnp0dzA1LTZ5d3E0eEo4WDR4OXVMWVV2OG9TSXlaQ2VwdzhDZTFBc3ByR2VNYVE0TTE2THVUZXJ1MXpUS1ItaWQ3VHB2Y1AxVXg1TjQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 13:45:04 GMT",
+        "source_url": "https://www.thisislocallondon.co.uk",
+        "source_name": "This is Local London"
+    },
+    {
+        "title": "By-elections planned after councillor accused of sexually assaulting boy, 11 - Hackney Gazette",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNV91RUxPd3laemsyRno2MFd4ajhmLUZIVVpyZlpTT1AxamUydUFBU0pjb21pOXpmT0hjUmdza2FRUTlrY0hxM2owcHdibU5KZXJxbnJkVmpBTlN0bEp6WThwMGQ2c3FFcHV3Y1VFbWgzODFYM1RuRk4zNHpNWGpweUpMWDZRV3JJcEQxOF9GZmxPcDFXTC1OTi1SRQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 09:35:51 GMT",
+        "source_url": "https://www.hackneygazette.co.uk",
+        "source_name": "Hackney Gazette"
+    },
+    {
         "title": "Manhunt as police officer seriously injured after driver mounts pavement in lawless London - Express",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWtiT3kxc3JMWVppdlBEVEVHVTlpUXB5XzFqcl9hUzlRV3Nlb2QwRmZnVXJ6NlFiWFRiOFhIZlFNbTc3UmZBNV8tUVAwLXo3ajN1VGJQUV9Vd2dKOURocDVLdFZjZndBMmlxakN2d2loNG5vWXQxNDVTWDVNYU1iM0tqQmRtVVJ3MEFCS0Vn0gGTAUFVX3lxTE9mbGhKOEdYZjA3aXhTYVY5N2hrMW9mREE4bHR0WXpZVjZWd1FIcmdHYlNjbzdITnN2cms4bkk1VDctelVmWnBWZnNuLWdVQmxtOG55LTRTRGZrVXk2NjVVa0lyWWZSVHVXWVVoSm85MmpOclM3TlhKZS1YQVY0X0M1MmxHTkRpNEx0V0xQVWR6U0FtQQ?oc=5",
         "description": [],
@@ -205,45 +280,28 @@
         "source_name": "Express"
     },
     {
-        "title": "Free things to do this weekend in southeast London - Southwark News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlA0TkxLay13NUJuLW1fUjJVQlc0TDBnRDRITDcxQWlhWXhCaTNMdTkzQ3ljUU1vTVd6TW1OZFBxTE1hVjVscTYySTFoZWxMZENuU0J4M2VhQU5PeHdYYWpSREZReHN2QXExdzl6TVhBU0E2UnBXUTVBcEFDZEljLUZZYjg4ZjRBWDJJZU83M3Q1VTZxSTN3?oc=5",
+        "title": "London food banks see surge in demand over school holidays - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03aENOVlZPanZGRmxKYW1UTlN0czZqRDBsLUxCVDQtaUl6WFR4dUVJR28yTnJXZklRUm9VQTJBN09YYmUtZVo3WXlCS1h3MVNIOVJzZTU4M2ZwSkFt0gFiQVVfeXFMUGc5M2F3ekE3b1FHQTBiTFlFdm1JNnAwYWVtQzRORDFNOGtER1BpLTlVQWZYaXFvSDVQc1NWcnVKazlyLUZmb2xnZDdQeXVMY1E4Rmd2NS1UX3FXZnhnUFZuQ2c?oc=5",
         "description": [],
-        "pub_date": "Wed, 07 Aug 2024 17:41:50 GMT",
-        "source_url": "https://southwarknews.co.uk",
-        "source_name": "Southwark News"
+        "pub_date": "Thu, 08 Aug 2024 05:17:41 GMT",
+        "source_url": "https://www.bbc.co.uk",
+        "source_name": "BBC"
     },
     {
-        "title": "Shop windows boarded up in case of riot as people warned to keep away - East London and West Essex Guardian Series",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGptS3p4czNnR2pSSklyQkY4MFowT0xNTFNYZjN3a1hEQ1dRN1dhNG9Yd2JyUlBUN3hIN084V3dQRUdfWDg1Y0hfa1lfc3pfTV9wTk1RdjRYZHN3bFJuT2lHeGlrNFF1X29iMmFtQnAxOWFwd0dLTWlKeHk3OEx2dWctMlZJdHFWWTFWWTZJYndScWhFRngyLUVrdFlOY2Fj?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGptS3p4czNnR2pSSklyQkY4MFowT0xNTFNYZjN3a1hEQ1dRN1dhNG9Yd2JyUlBUN3hIN084V3dQRUdfWDg1Y0hfa1lfc3pfTV9wTk1RdjRYZHN3bFJuT2lHeGlrNFF1X29iMmFtQnAxOWFwd0dLTWlKeHk3OEx2dWctMlZJdHFWWTFWWTZJYndScWhFRngyLUVrdFlOY2Fj?oc=5",
-                "text": "Shop windows boarded up in case of riot as people warned to keep away"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TVjhvTFlBZ19qOWY4QjFMRjlBTGRoMGZ5OGY4aFFydkJGRHZCSUtfbUJvVFRUalFfZ3BYWFZFS3VWa1RwSjBHanA1dWdnc0k2U0NwUEVUTldvUQ?oc=5",
-                "text": "Why are there riots in the UK and where are they taking place?"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRi0zSW1uZlVQTXFlWkdlUXdZdXhta3ZjbXJOYjEwb3ZtVTg3alhVUHhWVERaOVVid1AwOFNKTUVEVWtkb3ZOeUgxQUM0VEk2TEhSTjYyTFo1MkczMmNJSW5oc3YtU2ttNUY2bjIyMjhJeTdxbTVqSzZuOHNpN2JYUHJURDhzVG0tbEZaWndtX0RtV3B1a1hwZWo3ZV9BTmI4VE1fUEFWX1hDUXPSAasBQVVfeXFMT0hzc3BfNURPQl9NYjd2cWlMMmJEOENiT2pFUTJQVlhfNjdSQktjd2lEdlVmZkJXT0tydlk3ZUl6eHNlVmhnWDNvOVRTX2l4TXpOWTZCaUc4NXc1YmlXOVV1RnpUX0xma3M4ZDc2c3NEUVVNa0tOYndXVk5VUnZnbkNROE0yM0NsT2s4ZHozV0ZydUVTa3VQTVpqOVk4N2tBQnR0Tm0yX3M0WkhR?oc=5",
-                "text": "The violence was shocking but not surprising: Britain\u2019s economy makes it ripe for far-right thuggery"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRFlTdmFRRXdDbmpHQmZGRzdKVnRfOXd0amNnVDJoaUtPdjYwc0R0Uk9UdW1OMWg4SDV2NllQejdlS2E4QlFnM01KMm1iNmVJY1dfMVg4bjB4MFpScERxcjAzX3RMc0d2TFV4ZV9tUEdQTl9rNXFuOFZvaDh4bkt1X1BWaTRrU01Fd3NvdmNuNXc2aEw1Y3hyak5WeERIWW9Uc2RnT3g5NGt2SndzcGMtUS1hZ1ItTDg3S3loV0tFc2xMYjhfOVNfd3c5LUVrbk5QMjg1UHd4UUM5dw?oc=5",
-                "text": "Politics latest: New poll makes grim reading for Farage - as PM tells COBRA meeting to 'maintain high alert'"
-            }
-        ],
-        "pub_date": "Wed, 07 Aug 2024 15:54:00 GMT",
-        "source_url": "https://www.guardian-series.co.uk",
-        "source_name": "East London and West Essex Guardian Series"
+        "title": "New London taxi booking app JUMP set to join the market in 2024 - TaxiPoint Taxi News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXVpTTVMaG9CNXBaaDM0VEQwaTBzX3NqQ3NhRXVzSktEWjVFcHpWNzNEV2xuWVZ6bGdsU3RNV1JYdXgxOEdQdXpBMlBTcm5ZcFdMQjQ4OHhxenFIeFdLZURvX0g5U1RKWm5ldkRORHpfR2phWmVyRDRyU0E0dXkwV1dDZTBnNk9uZHQ1ZW9KS1QzdXBKNzJWT1lWYl9sdw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 07:54:24 GMT",
+        "source_url": "https://www.taxi-point.co.uk",
+        "source_name": "TaxiPoint Taxi News"
     },
     {
-        "title": "Surrealist star wows London after 50-year absence - antiquestradegazette.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2RpMWJUSHVKLUlQSkxENjFCcE15djl3ckJXSm5VMWJ4dVNxVXJEWXhoOGpmZ0hmSWFoX2hqWDlyWFhzVWkxOVU3QTA1VkEyOUlHVHRZLUxvMVRaM01wdjl0U3BJcmdPZUs3TW5oejc5eU5zRjJHTHduOW9aVEliTW5WYXRORUthYl96OWdla0otODgydXdnRWVNbWxhZw?oc=5",
+        "title": "Five London neighbourhoods to receive share of \u00a312.4m regeneration cash, Sadiq Khan announces - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUNHb2NueHpFcy1RSWVzV0hCOXZlZkdQRmhjMkNZUmtCLTRKa3o5ZzNLRGhkdGxOSDJubkQ4N01LaXB4dFFLd1E0S1JXZFhjaDJhenRuUjZNM2ppaXZITHZsY0RjcENienlPa2F4UWZyalQ5TTFJMjNad2hnOW1JRTZvVjZpM1d1eGxEOG5IU2I3ejJ1QmpwY3lQakhVbnFpUDNDRWh4VGVTck55Q1IwRzFmc3JjTWpRMGN0aXhxUlZaNXpWOTBKRV9CWFg?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 15:10:33 GMT",
-        "source_url": "https://www.antiquestradegazette.com",
-        "source_name": "antiquestradegazette.com"
+        "pub_date": "Fri, 09 Aug 2024 12:49:48 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
     },
     {
         "title": "The Three Inch Fools visit Greenwich on summer outdoor tour of UK heritage sites - South London News",
@@ -254,478 +312,369 @@
         "source_name": "South London News"
     },
     {
-        "title": "Shocking moment motorbike mob shuts down major London ring-road sparking traffic chaos - Express",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnRDdkZZaldNcUNBdzZYZTRIanhDNnNoN3htM2pHVnIyVm1ENmpDT2hjQThwMExCakU0UnBWUFNRNW5QbU1KbkFaVWVhVWxRQ2RNTTFHeTlHcXFlT0xBcV82ZmtuZzRUaTFTeHltcFlKbnlrRU5WZERqY2VhWEJXRWtvQWJzNnVxQ28xMjNBakVVQQ?oc=5",
+        "title": "Huge fire destroys canal boat as explosion warning issued - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEI3T011MW1OaHlKTWJCRGlMamlVTmZBQmhabGlKenJqMld5d0hYdVg5S0xMdjl4d3JuMFpid0Z0aTVJa0dXWjEzTF9seTZfTEtac09oM3paQ2NiT3NrM1lzdGs5WjhTaHF3S25WR1RQdUVCUUQwcGt3bDYzNWExYVdjQlVBVV93cGtuQ2lPaHBfY3VUQWstRjdCemd4NVhFZHdNVjNzRQ?oc=5",
         "description": [],
-        "pub_date": "Wed, 07 Aug 2024 13:21:00 GMT",
-        "source_url": "https://www.express.co.uk",
-        "source_name": "Express"
+        "pub_date": "Thu, 08 Aug 2024 10:54:00 GMT",
+        "source_url": "https://www.thisislocallondon.co.uk",
+        "source_name": "This is Local London"
+    },
+    {
+        "title": "TfL is selling off its surplus engineering locomotives - ianVisits",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnJFM3A5cUc5dlRTZHJ3WXctUzlTaDg2dU04VkY1cjV5WFZBcXJBX2I5U24wU1ZOcHBjLWtMdmkxeHdVMTRxc20wV0NtMjNRZElQM0RWOWkwWnJEX29nSFIybzl0V2xLUGM3U2pJSUljLS15V3Q2LUlEWm8ybUZSam1KeXdpLWNUZGU2YzU2ZFZZS3RROE03VzhBUVdud2M?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 09:10:50 GMT",
+        "source_url": "https://www.ianvisits.co.uk",
+        "source_name": "ianVisits"
+    },
+    {
+        "title": "'Peaceful protest showed our community coming together' - Romford Recorder",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXJ1TmJTSHRPc2tNLXpUTGFkMWxpdkZvVkRWOWphcjZGMjNPWDJNbmt4b0NucVV2UlI1LTNwc2pDU2pLOEdYcFNvVFlBa3JSV3p1dUpGbVdrRnJXQnQ0R2t0cTc5dHVPU0FEZV9ZSmQxdFk1U3Z0OVE1YUVqZm1GYU9jLWk1QWdqVjJxeGZ0c3Z1M1paSTFwZDZic0ZyNThpQnNXLVFQbV82bnFQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 10:27:00 GMT",
+        "source_url": "https://www.romfordrecorder.co.uk",
+        "source_name": "Romford Recorder"
+    },
+    {
+        "title": "'Nobody notices' as Margot Robbie enjoys a Pret on UK train - Wales Online",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUhuVEwyV1FaVXYyUDNUQmJ4MnN4UGxHYjNrZnRUQVlSTkktaVhVZGZ2bDVnSVZZamYwQllCMVNHbTM0Y203bVhXYUxZdUJsaGFqWnNZbko0bFM4VmxCeWhMbjRmZTlLeWk4S1k4VzN4eENXQXFXSnlJY3pUbm1jNkZORm1URW9wam9OVjBhTmZUOWk0V0R30gGcAUFVX3lxTE9kMk96RHRQTUpfRGdPR293MFNNNGlUaGVremZIMDdPOEdKeVN3bmZBUC0tQmY4TGV2U1JWVkU0aHZWMnJ6VUlucV9qcno0blA5MjRHdGVScm92SzQ0clFjTDlva0pfM3lfQXBMRTRlMUtROVI4OGtHT1JPMDNWWGVsVFhtSXR3YWdTSnhwMlhCaVo2VFdzUzZWYWtrWA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 08:19:00 GMT",
+        "source_url": "https://www.walesonline.co.uk",
+        "source_name": "Wales Online"
+    },
+    {
+        "title": "Police hunt \u2018violent\u2019 man who is \u2018risk to women\u2019 after he escapes care facility - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEJNM3RxblZLR2w2cF94OXZCMDhmejlXMExSODlUYkpTVVFueGYxWHhUYVNVSllkUVdERkVOTjdmYkIzb0JaVEJveGktWnJZV0NMcGlnNXVKcHpJaFRUWHRsS0dfWU1wcFVHNjhjc1g0Q3FNZFVuTzBYUjVMTDlOZ29MTENDTmUyZDVqSUhhY280QWhBMkJ6Vk9xUlF1X2k5UnM2RXhCM1UxcHVYeWpqOEd6TE82MFdkbzF4OQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 17:35:52 GMT",
+        "source_url": "https://www.independent.co.uk",
+        "source_name": "The Independent"
+    },
+    {
+        "title": "Labour suspends member after \u2018completely unacceptable\u2019 comments at London rally - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2lFemo0Vk9SNmdHMFVaZWc3S2Jkdy1QRlI2MEt5SE5vWEkycU4yQnFPTjJQaFNOUVJ0QVNyUEVwVThCczJtSzFEa0hRVkZyZUl4aW03YlBieTJrbDAtSnJ1aExxZWI5MF9SeDhuSEw2ZTBsQm43OGxKa2Mwd1NRbVBqd0dON0FFWWN0Q1gyd3lIbTg?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 12:38:53 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "TfL to \u2018urgently\u2019 investigate Bexleyheath bus crash where \u2018little princess\u2019 died - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGpwbEdJS2pkMDNMbkdWSnBPNHotc25JbWM1LXRtekRuSjc1Q1hFcXppSHcwQnE4b1d2amtMNHFsbWN1eFAyMHViZ2tZSWltNGs2OHh0ZEl1cGc0UlAzel82UC1kV1lMSXF2N2RlQXE2cGkxOTlKLUEyZGNFSm9GNnQ4czVRZG1kQ1JTUm14RFhnX1lDSXFjdnRRMGpVOW9pdEVhMF90TF9mWFU?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 09:53:00 GMT",
+        "source_url": "https://www.thisislocallondon.co.uk",
+        "source_name": "This is Local London"
+    },
+    {
+        "title": "Businesses begin to take down boarding and reopen after feared riots don't happen - Romford Recorder",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3NlUkRaal9nLUlVUU5wSW1JRmZfczhmc19DRm50Q0x1SENnWUt5Mm9JVmM2WG42NWREdndBS0dwQ3IzZXhvOTBXNUlCeTNqZ0xRVi12eWxhZl9QeUNUNVp6Vnh3V1JaSW9XNGJpdlE4QlVnNVpjQzB0Z3NPamtCOFpBdzMwb0JJUTAxM0YwRU51aUplSDZDWXpIVlFrLXZoaFpJdGd3?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 12:28:00 GMT",
+        "source_url": "https://www.romfordrecorder.co.uk",
+        "source_name": "Romford Recorder"
+    },
+    {
+        "title": "Dave Hill: The far right didn't show up in London, but its threat remains - onlondon.co.uk",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHNqam9oYTBvZTFXaFFDWVlrSVVORk0xY1Z1MVFBYVF3VkNRNnN1bTk0T1ktZEhWUEUzTGhrN0xjME5JbkI2Rm1iSi1FOWlWY1p4dVR6NV8tVEh0enpiRGp2aWZObkpwbXg4R1o1V3dZUGZRa2drdmJneFdwcnE4aTJKRXpMcVp5bXdjV0dpYkZ6UElkLTVJbWxuWkJTUVnSAaQBQVVfeXFMUHNxMGZWSmlPMFgzVTNOcndzekZNSm81WkZ5anRUbzhYR1JVQ2J1UjlSb28yWk9tSEpsZG1GVEF6VGQzLU9FWUZOdDVKLU1FV2QzMV9rVEh5d0JYS21mWnFhV3ZHbDV4WENBVjUwZ1FNNk9DS0FmdDlFOUN1MWFoWnprRnlqSEF0UlRkTGxzM2E2OXphZGhtV1JWb3lTOUZINDlFakM?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 10:23:06 GMT",
+        "source_url": "https://www.onlondon.co.uk",
+        "source_name": "onlondon.co.uk"
+    },
+    {
+        "title": "London: More than 30 people charged after disorder - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBc1pMb3k1Qzg1ZEFPVDBKRHBSZzBxNTZiVVh3bGJrWnpHRG1rM0RaQm5hZWszOHg4aHM3aEtmeUZqbUIzWUtqM29GdHl3ek5TN1l6TTB2c0FBNUpS0gFiQVVfeXFMUGxOTkVrSlBIMC1VM0RiMEZMM0oyQzVickhvOFZDV0FsZTNRZTE0OHJjOXZEMzRvMW5nNkJQS0NIOG1aWDhHVzgwMk5oNno5VUczQ1JpZmVWQmlGYlF1TkE5Nnc?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 15:30:06 GMT",
+        "source_url": "https://www.bbc.co.uk",
+        "source_name": "BBC"
+    },
+    {
+        "title": "FTSE finishes higher as European markets steady - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM1hXcnptdTdmSmtxU2JGaHk5Ym4waWcybXEyeVczSUlqUDRxOU1qdC1IYzBEekFoamtyN1pJYWtPUnlEOS1MWjA3WHJGTDdFOC12WGFhM3ZJMW8yR3VsSnBrRUloNXZxNTRTYzU4d3RBeE5kQmNucktySkxmNTQzUk5QbDBQZE96MWRyQnpkUm5zR25pRmRuNElFRGlPSG01VldfWDBQUFRGbF91YjcyLQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 16:37:51 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "TfL spent \u00a322m on fare evasion crackdown, collected only \u00a31.3M in fines - Harrow Online",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzNuM2oxUW1YQkF5UGh2eUdYT0tzazIycjlPT1RBTklBSlV2MEVJQ3Mwa0E3cXRHTXJBVHJvRnZoMk9JWHBXTjFHNk0tRmdSZmFOOHRRano4bm1JUUs4bmVaakJSMWJDVzVWek14bE8tMEJobk1jQ0ZLS1pNYjlISEtyd1VYZHRqSVVzWHAzNHFCOU1oZXJ6T25KWUwzbDVBcjZoYXlnWWo?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 06:58:52 GMT",
+        "source_url": "https://harrowonline.org",
+        "source_name": "Harrow Online"
+    },
+    {
+        "title": "48-hour dispersal zone ahead of 'unlicensed event' - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1VFVFFnRENKbVhsNWV1RTQ4bjlFX21ZU1N4LXl1dS1qcFlIR0YwXzVoc2JFUlliU0dnZ2d6akRmOE9QR0w3VFZQUG42bHhnbXRBcVRIR2FGdFAtdUpNcWdKanhpN3libzljdzRsWFdXMXZXWk5yd0psNHhHVEoydHNwZG04OVBlYkQ5QjhJdGlUek5aR1pZUEpNdFBVSXc?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 14:24:00 GMT",
+        "source_url": "https://www.thisislocallondon.co.uk",
+        "source_name": "This is Local London"
+    },
+    {
+        "title": "Sadiq Khan says he does not feel safe as a Muslim following far-right riots - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2ZGTm9JX1ZhMjI0T1ExNnd1bVZNem9kUjRiekRUNEhRcjBxSi1GUE5IWmNoaVN6TnBibzRIRWN1N3FuLURhN1BucDJxQWkySzdCejBLRjYxSElfbkpGaEVZSHg3UXZEM19mVEVSc2RibGRKR3lnMk9GcC10X3U3RjQ1aVk3RExEMi1KbFdfYUxJQTVDYVZfeHVfWGpvcUpKUDI0SWYwNElMVWs?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 07:24:17 GMT",
+        "source_url": "https://www.independent.co.uk",
+        "source_name": "The Independent"
+    },
+    {
+        "title": "Imogen Kwok's insider guide to Notting Hill: 'Everything I need is here' - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUFab0VEanhRd2J6bkptaW9HNWIxeTlaTm9PMFFEdG5yVUpIQ3ZpMkNNN2VEXzJqdExVNVJ3THVmRUM5NkEwaTB5a25oVUVIeENGMUNHd1hqaDEtRHM0ZHNfWFVtVVBoZXp5SVJJM28tTXZrejB5VHZibmJUazB5cG9PN2pIM2ROQUVrc1BUZkstWFZVcU1pVmRRaHdpQlBGa2NBRFdJQXMxeTAta2RlYkRYVlpwTzBFMEVZR04waXp0M0IwRHEtaUhHb2s?oc=5",
+        "description": [],
+        "pub_date": "Thu, 08 Aug 2024 08:05:27 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "London\u2019s weekly railway news - ianVisits",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXNSczNBaVpZUW5EVTZQbkd0aTFWNUJQVkdMZVNneFQ5SVdUcS1GMkowNDc1ZmNrUVhhbVNBUkRKeDNNdlNhZzAxbmpXNjk2blpJRXZUQ2JXRmFyZWhweHFYektyUFF4OWpHbmszMDRLUnZLdVN6clZHaTJfS2c2TA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 06:00:40 GMT",
+        "source_url": "https://www.ianvisits.co.uk",
+        "source_name": "ianVisits"
     },
     {
         "title": "Leading London property chiefs see revival in office investment - Evening Standard",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZU9NMUNIRElmT1FiRS1sVkJfMnNObG5XQjdOanJFNFZKd21nRFN0aXpWR2pRRjZaNG9SYnFqWmlaakdObnhtTmUzY3pURTZPb2cxWXo3Z3FmY2xPa1VTT1VmRlZvekdVYnkxcFV5SS1vbW4wbXYxR0FWSmx5REdqaUMwYl9xNnlrM1pFLXlIaF8yZ2hYNTc1cU5VNXVGcjRUdWdscVMtVTZoZw?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 12:43:02 GMT",
+        "pub_date": "Fri, 09 Aug 2024 08:33:33 GMT",
         "source_url": "https://www.standard.co.uk",
         "source_name": "Evening Standard"
     },
     {
-        "title": "You Can Get Yourself A Free Iced Coffee In London Next Week - Secret London",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MLUNKUXY0dGhVSmY0NU11cXZiaXFpRGtwQWJWdEhTV3hfT2gzODVsWHJTUjlJbWlVUkNtRUY4aVM3MFNTeUxfRXlJbHVNUGdicmxtdWo3V0xCal9oVnc?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 17:06:41 GMT",
-        "source_url": "https://secretldn.com",
-        "source_name": "Secret London"
-    },
-    {
-        "title": "Recap after trains disrupted due to signalling fault near Lewisham - This is Local London",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSTVEWVBvRV9DNWpqNHNobm5jajRCUF9iYWU3RFBYSERjMlk3RkxYZUQzQ1VmRGtKOFdjRWg2S3B0UVBQQ3ptY3NDalJ1QjBqbWhSNkUxVUN0RFVVb09UelBqa3BYaUUxYUlhZUFoV3JIS2FLSmNleFU1c0UyOTZKUk1GYS1GcklTbmJnUEdnV3YzeF83NG1qODlmZnJ1YTlS?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 17:31:30 GMT",
-        "source_url": "https://www.thisislocallondon.co.uk",
-        "source_name": "This is Local London"
-    },
-    {
-        "title": "Dispersal order issued for town ahead of potential riot - East London and West Essex Guardian Series",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWxDbnY5QU5kSFVERzFfbHl6VURPbllITEFybTRndDlYSFVOUDU4bzlkektLSlo5aWtFRkUweTdVOWlsTmxMeVlyWE9OQmlKOEpsTzVTOTlCOTdJUEU4ZExUWVJ4b2ZLUGJyNmc1Q1QxWDEwOEpGWXd5Y1RiSnJaRWU4WGI4NzlRd1lGZHhHUzBpZEVGeF9JNjZ6VHJ5eHp4a1NWMENn?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 17:42:00 GMT",
-        "source_url": "https://www.guardian-series.co.uk",
-        "source_name": "East London and West Essex Guardian Series"
-    },
-    {
-        "title": "10 of the best Greek restaurants in SW London and Surrey - Time & Leisure",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uMlhWdmlPczh0MmJ1cUg3Tm5jNV9aS0dBODJOWHl1bmdlV3pramFnZGVaMU5jdFVwQkRiSjRBQ2FCZkJkWHBaaEtYMlhTSmsxOUhZeWZGZTJxMFhxWDNMcFZWLU0wTmhkeTdiN1lGemYtcjlRa0VVYk9R?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 15:26:23 GMT",
-        "source_url": "https://www.timeandleisure.co.uk",
-        "source_name": "Time & Leisure"
-    },
-    {
-        "title": "Figure it out: London numbers roadshow heads to Ealing - Ealing Times",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2haREFtUGFyYzFwNTRiQW9MT1QweWZtNHVLSU9zU3ZRd0RFMUFQTXpuUmFtYVZmZ2kzSXp1WjdZRTZTQVFSbExqaFFkTXpTUHFuVlBFS3ZlMXd0VjhHZktzTlRvd2VLZnB0MnI2UjNCOWNiNU1YOTZxazBoSENwZ0tYWmNsSUlPaFBUZ0YxcTJWdw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 15:20:34 GMT",
-        "source_url": "https://www.ealingtimes.co.uk",
-        "source_name": "Ealing Times"
-    },
-    {
-        "title": "Sadiq Khan says Tory ex-ministers use language that \u2018plays on people\u2019s fears\u2019 - Herald Series",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUNWNk5BSFZLUXB0NmEzNWZHUDBpMVQ4ZHdBdWNTdUdLLVVlalRXeS1SMkNBUjZGZFlqLVpMTUpUbjBHRDVHR1hVYWxMUXVVbVQ4aWxzZGtGemloTm5zM01oaWdmWEZPNDFWMWlvVE00TXJ4SmVzWEo0QlRsclpROVRESXJid2tNd0w0QjZhb2NCbldhZE42V3hBSV9oRjdrY0kxbENWMlNRUEFhS3pPU3RsZGVsam1QYjNMYXhn?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 14:45:35 GMT",
-        "source_url": "https://www.heraldseries.co.uk",
-        "source_name": "Herald Series"
-    },
-    {
-        "title": "'Fire could rip through my tower block due to shoddy repairs' - This is Local London",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTlsTzVWLU9mOVdTTFlaLVNrYlcxeVBsUTQxWWJxQnhUODVlZ1U2VTRZTXM4YlhFdUZBeXphbUpQTk1kT09DcGxzZnNCYUVZb19yMFVvWEROWEVqS1BLR2lVQktRX3FWWWcyU0NydFRFcUNmWkI5dEZ2WFQ0TzlONUNzQkktRjBFdThVV19CYUVMcFBhRzVyVmZGbkkyZE41allpNzN3?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 11:00:00 GMT",
-        "source_url": "https://www.thisislocallondon.co.uk",
-        "source_name": "This is Local London"
-    },
-    {
-        "title": "London firms urged to ditch vans amid rising popularity of cargo bikes - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2Q5aTBDdjZ1eFVNcXN3TDlIcnczbG8tN216ZnlGemJxd2VWUHRKRnN1bGhaSHduNjNoWTFWSkxuQlE5cjNMTEd6ZEQ2a3I5NzdVLVNfeUtMbEpkeVJnVE12ZkRvNDZ1azlBOGlKYWV6Vi1iTEIzYmc1aVlmWmhBYXhZQl9nekpOZmxxV0JkdS11SURpX1Ftb3RGUUxwNExGdXo2Yzhka2lKUFpaWnVCRmRzR21wUFIzNEE?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 10:37:08 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "The London Buzz \u2013 7th August 2024 - ianVisits",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmZGMC1iUjd1ZFA4RXl6S2hiYVhJU2NuNnlGQ3VPWFQ2cDY4Q21XMlNOQU5QMTNVVkZ6eDEyRTZmTVFzc3FKMnFUY3Fpb01RNXlQNDVLWXBHWlF0ZXhKaGxQUGRIejdEeUpvdWpKelRWekxuY2lnbTNPSlNMME9OTw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 16:00:58 GMT",
-        "source_url": "https://www.ianvisits.co.uk",
-        "source_name": "ianVisits"
-    },
-    {
-        "title": "Increased police presence in Lewisham tonight to \u2018reassure public and businesses\u2019 - News Shopper",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXdQbldJVW1keWJYM3c1MUlkRU5NMGlfejhFdnVVWjhIV296SjEwNnA2TmU3aldTLVBNRGtERk9ONVBYenEzTW1pU1ZjRml0dmVJMnpaZ1ZjUnhFM3JLU25waUVISDNsdklQUG55Q0F5aFVib3BWdHpPbkFNVHdoMl9wWWhNQ0xIUzIxLVNPQzlXUQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 15:28:30 GMT",
-        "source_url": "https://www.newsshopper.co.uk",
-        "source_name": "News Shopper"
-    },
-    {
-        "title": "London \u00bb Karen Bonner to become Chief Nurse for London - NHS England",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVhBRTQ0TUtMNTI0V0N0YkF5SUZONGt2SEY3OE8xSVVqdWlPdUNXUmEwQjdYanBydFBjTm1jb0xXcW04dHpsam9CS1duQ1RmWWJPY2RRUWFnMFRsTTlIaUo5Z2dHdG5SYzBFM0JzSnp2bEk4ZWF1dXZhUjdiLVRuMlpEM1VRYVBqcFpmYWJ4M3F5aHV1blE?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 13:39:54 GMT",
-        "source_url": "https://www.england.nhs.uk",
-        "source_name": "NHS England"
-    },
-    {
-        "title": "Revealed: the London borough with the most traffic congestion - Time Out London",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWJ1MTI1aFRtRV80QWpVT2FDU2d5cTdFMnBYempvckRwTDg5bnpSWURMaDhuNkVvS0haWVhUbWJYbWxKeGRZNzh3R2NKdFhKMW1LVEJoR2l0bTZnUzR1TVBFc3daeUZPUGo2c3pjeGVDOWU2Q1QtcWM4WURWSVNJSENXNDBhU1FYMjJUeVpickQ5bmY1ZklhQ3JMVE9JaVZEQzdwbnRR?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 13:12:01 GMT",
-        "source_url": "https://www.timeout.com",
-        "source_name": "Time Out London"
-    },
-    {
-        "title": "National Lottery grant boosts plan to exhibit Oxyrhynchus Papyri in London - ianVisits",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGtuZVFEXzZCakVUcTJ0WHo3MGk4WGVjZ1VseHBicUI0bG00RDJWYVVuaU10V2pwcFU4WDFPU19Dei1WV1QwOE9nYjJ1RVVEZnVUUU1YSi0yTXY3UFVlUWpkVWgtcWhMcmc2b25pdUxzakhkb1dzaFJWeFdLM1lkR3VUUWk3Y05NNmlUSnUtUDMyNk9ZamwzbVU3ZThqZW54SHR2TGhmOTd6WFMwVDI5cWQwWHZidDdRWGc?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 12:00:58 GMT",
-        "source_url": "https://www.ianvisits.co.uk",
-        "source_name": "ianVisits"
-    },
-    {
-        "title": "NLA\u2019s Reimagine London contest shortlists ideas to transform capital - Architect's Journal",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVFrcW5HdkRDYnRnVndLeXRySTRUYTN1WjFPR1BOVEtxN1hXR3BQdVd3LUhVMkVMX3o4VUFvcFRQZWZmRXduczlBaFJUQl9CVUFRV1YybUJpM2VJRUNxTlRlUFE4dDhMQkRyNG1VbDVLWDlfY2RQWHNCWE9tNE1OS0VReDNCQ1M3aGFoN01GZHlEYXM2UXpvdkJNaW56ZzdRZ2xLVlhudVNFdWY2?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 08:54:20 GMT",
-        "source_url": "https://www.architectsjournal.co.uk",
-        "source_name": "Architect's Journal"
-    },
-    {
-        "title": "TfL has just stopped 8 north London bus routes from being scrapped - Time Out London",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVEotOUVNWUhsZmNOcTNKYnpKTjlUMjRsOTRLbkcyVVg1Q1lrZlVhclZZMWpiX0JsVmU4Mk4zSHNOVTdLTmtXN09jaXkxbEFOQ0lPZjNkWlNOMVJYX01VSkZaSWsySUhvSW53WVJQQkJ5bHNOaElJTkdwMWVhMWpnQU5leDRHOFc5Z1VkeE9HMW1GU1p3U0ZWbWlDZFczMlh5ZUJUNkhTZ3YzUnVoMFE?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 08:38:09 GMT",
-        "source_url": "https://www.timeout.com",
-        "source_name": "Time Out London"
-    },
-    {
-        "title": "London's Low Emission Zone improved children's school performance, study finds - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObE1QV0VtdHo4ZTNkX0NLNWNLSHQ5RGtXY1VPS2k1WlFodm5OUGdyTmN0U0pMZ3RHdFR2a2lCNTZ1REpoRnVicHlITDVuSW9vRHpTYXB4X0l0TTEzeW5NREJUT1lwbFVZTlRjY1lGd1pmUUxRWU5NZ3JsMEYtSDkyQUxSZ0Z2d0piOU1rbm5mOE1oa2hsTkktQlBtRWs3TVNocUg2cGpvb0RaaXpFQ094NVpTem05VVlVbTNTSQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 00:01:50 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "TRADE SECRET: Is the decline in London taxi drivers due to a lack of Knowledge around how much you could earn? - TaxiPoint Taxi News",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYkg0OXd3Tmk3LTZJaUhpS1Q3c0dCNld5VXlZVVVpUFhmbnJlYjBZTGNfSGViMW0wVWIyc3F1LUpNeHd1UjVkcnlzYnBKektjdERaZHJSSW9qeExqM1ZmLUxad2hZZllSakdrM0h1WnpfWDMzaDdnTU92aFBlTUF5UkNPZlFWYS1rMGtfWE1lMXd0akZVNFRrYzZKQXNXei1FNFBsWUR0VzQtMmFSZm1ia3ptcTJTYU8wcUJKOWZmTEtxY3hoejhHZVNpMWtIUQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 05:36:52 GMT",
-        "source_url": "https://www.taxi-point.co.uk",
-        "source_name": "TaxiPoint Taxi News"
-    },
-    {
-        "title": "Police thank London for unity and 'community spirit' - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEVkRKR3pmNVNCOXVFSEgxam03OGlyOG5sZ2xHYk92cXlOX0diVm5FZWZOSFMzQzRvYTN6YzFKQk93WWZfSDg5cWdWRi12ZGEzWkZJdGdtczBVWmJa0gFiQVVfeXFMT1JnNGVnNEpqQ1MxdzRpWHZOeV8xZUlHTmd3cTc5YVFmR1lLcmRQeFgwSHB5b0ZNQ3VCSWRYekNXajF3X1NPcGczckEyeEJqYll0bm9Ea01lV2tUeE04N2tlM1E?oc=5",
+        "title": "London shooting: Three teenagers injured in Orpington - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVHZ6azZGTWx5emFERUVJcGpmWHctcEpOaVZFU1Bwc01GenUwT3VFN2dXRjIxNkZFMG9CaUs2cXpNRTVnM0V5UDlOS3lRcm92eTZiLTFDamdDQTlH0gFiQVVfeXFMTVJUci1OU090MXVKTTlXb2tWZ3JoV2l2NmswSzBJaUw4a3RiaXhIR1VvM2YwaGoydXNKWWNBc1MtX3Q3VTJnVlFyblRqYzVfaTNqVDNuSTBoVE9nLWhEUkF0TkE?oc=5",
         "description": [
             {
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEVkRKR3pmNVNCOXVFSEgxam03OGlyOG5sZ2xHYk92cXlOX0diVm5FZWZOSFMzQzRvYTN6YzFKQk93WWZfSDg5cWdWRi12ZGEzWkZJdGdtczBVWmJa0gFiQVVfeXFMT1JnNGVnNEpqQ1MxdzRpWHZOeV8xZUlHTmd3cTc5YVFmR1lLcmRQeFgwSHB5b0ZNQ3VCSWRYekNXajF3X1NPcGczckEyeEJqYll0bm9Ea01lV2tUeE04N2tlM1E?oc=5",
-                "text": "Police thank London for unity and 'community spirit'"
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVHZ6azZGTWx5emFERUVJcGpmWHctcEpOaVZFU1Bwc01GenUwT3VFN2dXRjIxNkZFMG9CaUs2cXpNRTVnM0V5UDlOS3lRcm92eTZiLTFDamdDQTlH0gFiQVVfeXFMTVJUci1OU090MXVKTTlXb2tWZ3JoV2l2NmswSzBJaUw4a3RiaXhIR1VvM2YwaGoydXNKWWNBc1MtX3Q3VTJnVlFyblRqYzVfaTNqVDNuSTBoVE9nLWhEUkF0TkE?oc=5",
+                "text": "London shooting: Three teenagers injured in Orpington"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSWJtbnFiOUk5MUNuNGM5SU5SYTAzT2lpcmxpTnVXbDlORmxMNkxQbzBrcUt2NHlHOEZhZ3g4eDFUalpfbk5iVEtDZXRZOVRSU29QRzZWWG5vcFo3?oc=5",
-                "text": "How the tide turned after a week of riots in the UK"
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWJNMkREYjRteVI1NHJBZEJILUdtRE1JRlNhTVFBcVBjR1QwaGN2ckZDb2JINHFrM0piTkNjaTNHc1RxVkJVWlVkbTBrRXFCYlg2dDlYcEk4b3ljMUI4Y3lId0taY2FJZHM1aHR3X3VOR2NVSjBpS3B6S29EVWd6cGpxckdQSGdiSFRaMEVmdElQZzF5Nmc5MUU0SlotdEt0Nmc?oc=5",
+                "text": "Manhunt launched after three teenagers shot on quiet London street"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR01RbnVWLWtzRmlnbHd5VHJfc05XdUNKX1BwcFNldzA0MlI0aUlza3E1SzBkTkRhNmpXaWZpSkZhTW9TbVY0VXBkdldoTm90eV9vc0tCRFFMVDJHWk9Cdl9hNVE3dGpoN3JvUTVWTl83WXI1U3hUbG9YZ3Bua01uc19vV3czVldWV1JJc2ZiRnhSRmp4STVUQ2RsVkhCQTAyaVh4S3BqVnphN2NBazg1blVIZTRNQngzSHfSAboBQVVfeXFMTzBDTlpoYnkybE9kTnNJSVBxWWptd0dlSDRhb29qSEc5bW5OZVNoQ0RpWWN3UERxaDZEVkpyQXNCaDRGUXJGd3lVODZDRFM0eW9UeUJINFNOcEV2cTV1OTJFc21iSUtzX1FPQ2lob2NlQ19jUkw5RU5nZlRHZko2S1lnOEh6V3Zma05HS1Y0V1J5V2pmQkZlRVJEWEg2d0tkallDY21LaE9IMHptRFVuYXhkX05EX21sRnVn?oc=5",
-                "text": "Starmer tells Cobra meeting to maintain \u2018high alert\u2019 for further far-right disorder"
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjY4R3libnFsaXdRQzN3dmdnM2t5NFBaOFlycUphYk5QaHNEeEF6eUtPMEZNS1hYZ2N1UTlXQlE5ajNMOEM0aU9OOG1xd3pudDBpT2hlSGlBN1J1VDRWRjh3YnB1UmRLUFdxUnI2NWc3ajRoR0FUSDZqSXgxS1k0NlJQRWhPaFhOZVdndlloeFJRSDVUU2F2a2xRT0lVWGEweWdqWHdSQ3JMZw?oc=5",
+                "text": "Two boys, 14, and another teenager wounded in Orpington shooting"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LMndWWFJucUZyWF9fWHp4bmllOFU4WmVjZHh2RkZYdFhxSmsyd2ZDNUdSTGhOTndDYTFHNTdUZ05MM1ZUVzVRY2x3NzlkQkVXY1Yya2pBNkUwVzg4Y3lkdlpmbEtPNHUzcEVRdUtwdVE?oc=5",
-                "text": "Huge UK anti-racist rallies held as far-right protests fail to materialise"
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVW9yMzg0ZDhFMGNMbVV5XzhwMHJxR2lvVHBuOWVpMmJQek5QdE1OalRlaXBEYlFFNWxnZnZUWkhvTnpFb2NGMG94d3RpTmQ4c3hpMnFZNmlRZTJLeWFTaFk1XzhabmduV25ZU3NjaTIwMk9XREVKVVV6ZWc2TDF5b3dMNGdZREluaWNQZ1VGYjZXamZId0ZmNTRPVTE2azdLZ2c?oc=5",
+                "text": "Police Confirm Three Persons Including Two Schoolboys Shot In UK"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU3MxS0tkMklwOVpLcE1EaUJ4M001X0VjUE9BT1F0cDlsOVhLSkgxeFRzbm9ZQ1pCZWFYMmgtSnA1RVY5ODNnNkxRMjhvT1ExY3JuMDVEYjE1ODNiR0hsMS1GNjFuYUQ5TEVzSk9wY2ZLX3hqMmozMTdUY1k2cUQ5T1R4U0cwcUZnYkdkRVhsbEdLY3c?oc=5",
-                "text": "Swift justice and people power may have saved our streets last night, but it has come at a cost"
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTMxOThtQTdhdUFYbzlkSHpGbEx2MXNYU0JkQjJKNHh4dDZUaG9pU0hBVHFpMk5rblM2UVpjWUVBZk9VN3pFUlViZ2k5RmZFOV83VTNiV1NnVXJqOEVlZWtNc3NrbkYxV2IweTI2cHFEMmc5MVFHUXpJNk55V212UTdCWkViaUM4dWhLc2EteXBXQUdUYUdJUlNOa3BhTVXSAaQBQVVfeXFMUGZUa0dhcFNJcUhqNW1uTjJHU05BWVdyaGRublRRVEVoYzJsNnNEaUlBNjRHVmFoNFNIWGxWZVBvYXFGY1lTdHpoUXNnckMxYlVoaWJDSTF6WkhsMFI3MDVwTzJJQ0RkWkFLY3Q3TW9hTW0wREYwLXk2czJXNUl1bGtoRnJuSlpwbzdnaFg1YmltTER4Y2dSSkNZZTNmeU5GNDZfWEs?oc=5",
+                "text": "Three boys in hospital after shooting"
             }
         ],
-        "pub_date": "Thu, 08 Aug 2024 06:36:59 GMT",
+        "pub_date": "Thu, 08 Aug 2024 12:29:46 GMT",
         "source_url": "https://www.bbc.co.uk",
         "source_name": "BBC"
     },
     {
-        "title": "Clerk to School Governing Boards - LocalGov.co.uk",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yV205QWQtcjQ2VkRYTnIxemZxMU1EQmxjMExkVHlhSEM2cVZ4VWR4Uk55RVVYOWtxb0YzSmlNNUtHU1VOVW9IdzJLU3dFc1dUTEY5cmotcGN0bkxNeGlYczZIZUhxMi1ONzJNSXlnMElmbE1taGZwc19PNDVwdw?oc=5",
+        "title": "Katie Price: Judge tells bandaged ex-glamour model to appear at next court hearing with 'no ifs or buts' - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZF9oMV9FdG00Ql9IWXNzTmtsOHRCOGVjX3VVN2JrbG40U2FIR2ZzXzVyNXJPOFNiNWRnWVlvdmdMU0xCM0ttZlRYVmZIbjFfSHNMTkszR3NyOWtxYUtudllHU2gxQjlMVF9oeTJwRGRqcEtUcm9RWFlDN2lLYkw5S2cwNHZicV9oSlhfQjhqdGRQLXBaUkVvZjhEdDk1Q2ttWElxNA?oc=5",
         "description": [],
-        "pub_date": "Wed, 07 Aug 2024 16:01:47 GMT",
-        "source_url": "https://jobs.localgov.co.uk",
-        "source_name": "LocalGov.co.uk"
-    },
-    {
-        "title": "War Horse tour \u2013 first look at rehearsals - WhatsOnStage.com",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOblNtRmZpZ2ViY3FDRnNqUUNzaGpsSnZkWVRDNXVhUlcxeUNOelVhTmI3RmltOWRpYTFVb3JFcnRpTEVEZ05nZTBlSENkOVdmaVZVOFhwMHh4bjJDY0tPcVduclRVTi02NHhfdDItUVpMTVdqS2FZTzVzQ2lwSmxpZnlzYjZBRHN2Z0E?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 07:59:00 GMT",
-        "source_url": "https://www.whatsonstage.com",
-        "source_name": "WhatsOnStage.com"
-    },
-    {
-        "title": "Modern Buildings in Blackheath and Greenwich: London 1950-2000 - Building Design",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjhuREN6S082MlJhLUZ0Tmd2bkhHc2hBQmFJM3RCZnR6dGhOaEU4T2V0d3NfUXh5OWlpVlRRck9DREU3UERZOTFpRENDMlg4dV9ONlBJLXJUSkJWQUFDR0dpalR0RGJ6emhBTko2VUdmb1dMX1FjWnVhcHZIMVJzQ3U1YWhla0trVThpY0dZMWFPZE5BVVEwNHdkY1FDLURkVjZOZlUtN2pRZmdzclh1VWFrdw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 04:22:35 GMT",
-        "source_url": "https://www.bdonline.co.uk",
-        "source_name": "Building Design"
-    },
-    {
-        "title": "LONDON TAXI FARES 2025: What can drivers expect from the next annual tariff update? - TaxiPoint Taxi News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0hMVWlieExKNzBCN2ltUVpRQXJvSjhzU1Y5cjlzTWZPeEdNd1NfMUpMa0cydl80X1JadGZ1Tm9haks4cnBMUWJJY092MzFJTmJocUxDQldnNHJrTGZuTXJSNkY2MmwwZXp6aVRQZEdOY2o2MnZqZVRvWWIxLU4yR0VlOE5JMkNySWlzN2lUNDRJUGUwb1E5NnZ3TS13QzNMLV90OXNQSTNFemUwVjRTVk9lMC1MZw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 06:02:12 GMT",
-        "source_url": "https://www.taxi-point.co.uk",
-        "source_name": "TaxiPoint Taxi News"
-    },
-    {
-        "title": "Row erupts over 'rushed through' low traffic neighbourhood in north London - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcEk5RTJnWjdTcXZ4SFpDSUtnR3RkaTRrQndnWGUwd3RkZVVnR1ZqWWMyR1g1QXhPUWNCd2pTNlp3eXR5UUZoSzFkQS1qRmR3TGpRcGJZMmpaX2YyV3BxMXFDOWJnMTF3UnpDQi0wMnFDMk93MkxqRlg1dF9OTjJobVBtWENQa1N6RVRFRGFjdkpJZzduT3pyS3BkZGtWWGFiOUxoODhyVENtQmFRQmFQeXZVdWsyMV9jb2dkLW1vcDJwa3p3OW5sSXlTakt4ejNvdk1RQkJYYVZoTjM1?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 09:51:28 GMT",
+        "pub_date": "Fri, 09 Aug 2024 15:22:54 GMT",
         "source_url": "https://www.standard.co.uk",
         "source_name": "Evening Standard"
     },
     {
-        "title": "Girl, 9, hit by bus in Bexleyheath dies - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcHZlT0NESEhHckg3QjIxUjNiWjhUMGxTa194SDRJcEI1ZXBWRWFja1k4U2o5SFR0dS1SMnJlRk1KZVJtYi13RUY2cGRNc0lxYWV5eGlaOGprQXNR0gFiQVVfeXFMUGhGWHpGempRZWZaeWpTbTIyaEk5WWNVNnhYYUlmUVFqS29Xc0RXTDJOcWlkVmZuVFhTTFRsU2pZZnVSLVg5R0NOSkZWa0dmTm5lOGZrZ3lzV0FGSllOcUx3a3c?oc=5",
+        "title": "Anti-ULEZ activists deny harassing Sadiq Khan at his home - This is Local London",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVFlMTBNRmtoMzhYZzRxb3lWNE1Hb3FIV1poSHp6c2pDYzBEUWVSR0VIWV9OaFlDSkF3Ml83Q1diNENEam1zTTh2OVVpeVZCZl92Y1B1RzFhaW1KQ0pCakRVRzNJbVFvY3JxcHNIaVdxYVNRNWtPaThzLXdEek40VmdlV0NUdEFZS1N3a2diYTBtcVJFWGJuMEhPX0dlMTU4UEE?oc=5",
         "description": [],
-        "pub_date": "Wed, 07 Aug 2024 14:43:50 GMT",
-        "source_url": "https://www.bbc.co.uk",
-        "source_name": "BBC"
+        "pub_date": "Fri, 09 Aug 2024 16:00:40 GMT",
+        "source_url": "https://www.thisislocallondon.co.uk",
+        "source_name": "This is Local London"
     },
     {
-        "title": "Number of appointments at NHS trusts impacted by cyber attack passes 10,000 - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tWGRaTnpjUlpTMF9tX0g5b2lLQWd2ZUNIWmFOTFlMem5QbTFJU0RzQzJLcURkSktibDg2QllDX0w2b25EYmNlZ3FVekF0UXVLWS1MalhPVDdwZVltVHNiaDhFVy1TUkRvNnA0aFJxcDRCd3QteGlncXhHcw?oc=5",
+        "title": "\u2018Violent disorder quelled by show of police force and public unity\u2019 \u2013 Met chief - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2RYa3BDalRXY1VjZDlhTm5ZM2MxZVZCeTBZOWVIS0VmeG50dE1ycVJJSGpwQUxKd1R2SU1tNUNKT2o0NUV0djVJVmNuR013S3NUbFR3b2FmV1ZUV25pdjZGOFVoWDIxcHFXOHdGaEFLUE1xYlhEWTVjaThGSVctZkxGbU9PcXRwa25fZTNKaF8tck1BRFk2Wi1aRjY4cmNMOGZEMy00RQ?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 14:48:47 GMT",
+        "pub_date": "Thu, 08 Aug 2024 15:46:14 GMT",
         "source_url": "https://www.standard.co.uk",
         "source_name": "Evening Standard"
     },
     {
-        "title": "Eight arrests after rioters hurl bottles at police in Croydon - News Shopper",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0Q3NXdZNjN3VVl2YkZEQV9mMElfMHFMN1h4YlNYeURkb0lubzZ1eEw4dS1PNGpVX3pnNzJCNWZHQU04V2tza1ZoY0tkYzJ0azRvZzluTlNtTjQxOTNDbFJkNVFmal9yak1MMTJRb3NpVEV3OUtEYkRTeFJzT29rSXZsMGZ2YzJ4Mkxma1I3TWE3WlQ0bFNvaEpvc04?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 20:57:00 GMT",
-        "source_url": "https://www.newsshopper.co.uk",
-        "source_name": "News Shopper"
-    },
-    {
-        "title": "London clubbing luminary Hannah Holland curates your Friday Night Playlist - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlcwdkkwV3JuTEttbC1IaUZudFRhMnZZWXdVSUFFZHBDMjItNFI4S29fZWRQRU05aGt2UGQ3RnVYX2toY2ZWc1lkb240Xzg0RXMyWXZSdHk3WmU2WGtSUUZSLVdwWUNrRkRFNUhDOHZvbWVuYmhZR1NiUk5ScWRoQ21lRVBkaVZsLTJBcFZOX3ZzU1FoREE?oc=5",
-        "description": [],
-        "pub_date": "Thu, 08 Aug 2024 14:00:23 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "Robert Jenrick says people shouting \u2018Allahu Akbar\u2019 on London streets should be arrested immediately - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamtYbGs0X0xaWW56Z2M1ZFFTYjdEd0liSXhrYmducGdpaDQwOUhvdHllUVFoU0RaaENfTDFlNG83VXRUNzhfSXNHU2UtMjE1dGViZHJXQktnNHQ1MWNLVFgyaEdscURuN2h1c0pmWGoycGRFWFBCTWZnUzJPQ19RNGxvWVc1cHdERXFMd1ZyQ09rSG9wNHJCRXhDOC1ZWTJQR1JCUWNhR1p6U1FGTmt2TQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 16:00:52 GMT",
-        "source_url": "https://www.independent.co.uk",
-        "source_name": "The Independent"
-    },
-    {
-        "title": "The Standard View: Hate has no place in a city that celebrates diversity - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHNTTjdaYXUxMjl1UjRlLWNqUnRZUVpnX2NqdEtvNUN0b2xkTDl2VzM3S2kyTnpMM3poQWRuQ1hmbmNZekJjeVJnMWpiZHplQUtFVzU2dDk4NlFra19VOVlwZ1hXT3NZZHJIV3NvUXV6cURNMWZzYWtRNGFUVmYtY0NLZjlKeDk4WE5MTV9JNzhGMG42Q0JFLUhWUHBGb0hoTU5GRVBSVDRsaVZwWUE?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 13:08:43 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "How we buy in London now: Londoners at three price points share their journey on the property ladder - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEx4S1JhNWxKZVFzOEUxRnoycUhGMW1xY1ozX3p2bWh3aFBUOE43SXpXUkFQS3ZEN2t1LUdxaXhpcFhYQndDeEFxWUJ6OEY2SEE3Ni1MTkNzdWd4bFdCX1hwYWdzYTNFclg5NjNWV29PZUxheV9VcWUzdU1EMnEweW5Mc3hBeDdwcTZZZGExT0twZGNnTXV5dTlFU2Z6RHJZdkk4aUpaVExyeFljcEk3NEFPdjVhcmFwbkdtbGhwTC01MkI3Z1ptM1lLcGtGLVhNVlQzOHFIc0hwX0hXMUE?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 09:42:35 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "Average London house price up 1.2 per cent annually as sub-4% mortgages return - Evening Standard",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb0dvVnpBcDNmVU50ZVJmZEhNRDlEblVwNnY0eXljRXp3WHpIX0hqRE5sNmpOZUV0V19MaXpJZXg5enpmRmw5TGVScEJockR5VjZuZzU5VzJna080TWhJLXNSVERDeXhpbTdVNEVFTTBtY0NoNnJueFE5NUgtUkN6a3lEUXI5U1ZoTWNMcVNsdnB6RlpyYmxGM1p1TkQ3a0p0VHlUUGtmZ1YydW5GQ1NUNElhVzd2cGR6YUVnczB3RnloeU9EVHZJRjBHQXcyNnBF?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Aug 2024 06:52:54 GMT",
-        "source_url": "https://www.standard.co.uk",
-        "source_name": "Evening Standard"
-    },
-    {
-        "title": "Fourth new Banksy artwork stolen in London hours after it appeared - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFd2WlZEcml6VHpYWXZZNXZlU3J3ZTI3Rk0tU3N0Y3VJLS16S3Vtd1hfVkpianl4VG5UYm1TMjVHZ19keVNWQUtTcFVNdUF1R25EOGszczRhcTRwN25TeDh2cW5YUndHWFVKUV91dUNLbHVSeUtXR3d5b195VUM3clVUbmJQN2tBbEt2RXR5WmVhdi1RTkY2VDhiV3NtMW9yb1lF0gGjAUFVX3lxTE1DX2EyN0FqUnFsT0t3bUFCdi04Q2pvS050aWtKV2NhWUhTQ0gwamM1T00wVWkzb1NJNEpPUmtpUllQd3FBTFBkckFJeWRZc3pVeDliRUJnZnNBTVhnRl9XbFM0SlNNR2V6cHlnU0xGV1ZYbkFwN3EwZk95RjhlQXJ2TWctWENZSVIxN0hUVHpuZlVVN2d6cXB0eTMyNUxzMGp5aFE?oc=5",
+        "title": "Speculation rife about Banksy\u2019s London murals after five appear in a week - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1psay1PMFIyYTFmcUJxWXVkTW1HWVRHbWZtb2dpRml5cHQtQW85djI5WVJkSTVvRDI1dHd5NzY2RTBVeGdlOFBWLTVmRXVvTEZQM3d4ZTF0VnhHMmNUbGk1Mm9ma3RodVJLbUdpMXBTNDJEeGJVejNQSEpydDFrQ0pzRzRPY1Z2LXd0OUJsa2VHcXVxeEVRR2U3T0JuV2N5NWNMOEpfVjBDUkdXNC1sRzNPSWk2VldYRlVCbmJR?oc=5",
         "description": [
             {
-                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFd2WlZEcml6VHpYWXZZNXZlU3J3ZTI3Rk0tU3N0Y3VJLS16S3Vtd1hfVkpianl4VG5UYm1TMjVHZ19keVNWQUtTcFVNdUF1R25EOGszczRhcTRwN25TeDh2cW5YUndHWFVKUV91dUNLbHVSeUtXR3d5b195VUM3clVUbmJQN2tBbEt2RXR5WmVhdi1RTkY2VDhiV3NtMW9yb1lF0gGjAUFVX3lxTE1DX2EyN0FqUnFsT0t3bUFCdi04Q2pvS050aWtKV2NhWUhTQ0gwamM1T00wVWkzb1NJNEpPUmtpUllQd3FBTFBkckFJeWRZc3pVeDliRUJnZnNBTVhnRl9XbFM0SlNNR2V6cHlnU0xGV1ZYbkFwN3EwZk95RjhlQXJ2TWctWENZSVIxN0hUVHpuZlVVN2d6cXB0eTMyNUxzMGp5aFE?oc=5",
-                "text": "Fourth new Banksy artwork stolen in London hours after it appeared"
+                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1psay1PMFIyYTFmcUJxWXVkTW1HWVRHbWZtb2dpRml5cHQtQW85djI5WVJkSTVvRDI1dHd5NzY2RTBVeGdlOFBWLTVmRXVvTEZQM3d4ZTF0VnhHMmNUbGk1Mm9ma3RodVJLbUdpMXBTNDJEeGJVejNQSEpydDFrQ0pzRzRPY1Z2LXd0OUJsa2VHcXVxeEVRR2U3T0JuV2N5NWNMOEpfVjBDUkdXNC1sRzNPSWk2VldYRlVCbmJR?oc=5",
+                "text": "Speculation rife about Banksy\u2019s London murals after five appear in a week"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1lURmhDbi1LWFNaLWhBZEV6ekE0dW92WE1kcS05aWo1NkdzM1VHUVlmZVZYeHZSa2JhRTVtTk5oMlJrdkZ1Y20wTUFxeTh3ZE1GSGZ6REJIV2JHd2dwUjdETHVqSkQ4VUJFWVRreGhKdk5zLVlUQ0M3aXVtWFZrVGJqNHBIQlRScXBZdW1HRXB2dGZlU1QzejBRcE56MnN0a0V0ZlowZm1CS21KUnhhNC11TzdrZ2xUQWhJ?oc=5",
-                "text": "Banksy wolf artwork in Peckham stolen within hours of being unveiled"
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNd0VFQjNEdVFiS0pvazFFbmhZRmc1QmlwNmc4MmtzX3VyVVBkaURaTkVOVEdvTmljMEVWUHdOZndsR1cxbE15eWx3SUpjX3ZYejdYZ05tTTZsOWNM?oc=5",
+                "text": "What is the meaning behind Banksy's new urban jungle?"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTV9RalV4bHVXNFZvdHVTNmxydUU5MHpIV09VcmQxTUp3UmNDcmZLMEd6UEc0THNtaFZ6ZmJ4bXdoWmR2QjJmLUp1eF9YR05QX0U3Ym5YWVd2YnpoWS01cVAtR3NWZjJpeUdBdWdJaEUtT1ZOZ0FuMXRRZ3h3ZGxFX0x0eDlzTENtSWRDdXdSQ1lDWW13cFh5RA?oc=5",
-                "text": "Banksy reveals fourth new artwork... and it\u2019s stolen within an hour"
+                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalFpWG5MWmVfZVQ0aF9WWHFPcFJScnA1RllGa01KQWFXSGhHX2JLSjlsMkxzcnM3bEI5MEt2OWJ6V3c1cENoSnc4UE91em1GQk5vT1AzeFI0eU9QTjhMNUswSEZ1amdUd3pEZUVIYWZEWWdfVklkNVBKM2QzTlNJUU8tb2RtNE01WERSTmZVenhoZG5qaWNkZ3hCRUlJTlktQTFpMzdidmUzLUphM2VXc2Rmb2ZacHhNOEdQMjlSZw?oc=5",
+                "text": "Fifth Banksy mural in five days appears above chip shop in Walthamstow"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYld0YVc0QVNDR1ZIZW93UGhucER4d0YzODFFdVNwNjV0MWtjVHY5NjR3TEZJazhabjYyeE1UcjVwRVNwMWtLUFAxa3ZmNFFvTktuYUVLcFoxNy1GWWg5NGRreFNhWFo4T2J3aFVLWHRGZFVUbzVYOTRwRGpyTk9UOGlfQlpWTHFROFVSdjV5dFdwaXZfUGdn0gGcAUFVX3lxTE1VTDBaOEZlSzY4YlFMTnQwM040OHFmSXVJb2VyRDVyR1hCa3dOdmMzWTl5VmV6QlhTOVl6ZGtJN0hJSklUbjhhRFFDSnJhR2UwenlucjlsVkJ6MDhIeWwxRVRHMXJyYmhLMmFxbTltUENPWk05eVZ2VzU5WUZJT1BpRThDRlk3V0YxWWo0UFBOTzNzT1NzLW9XUkRZdQ?oc=5",
-                "text": "Rob the Bank(sy)! Guerilla artist's howling lone wolf on a satellite dish - his fourth animal work in as many"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmF3Z2V2WDJaR1FWZG9HZkxsYVdvLXhLTksxRThTRTVjS0lPYmY2RjYyZXpLam4za3ZjeEVBVk1VMTZZVTBMV3FZd3UyMVVyZ0VGZTY4UWFBaGs3R0o0TDc3SVBPalBjN0U0Q2E4U2twMFVncmdGZFZ4REo3Vk5oRDBZdjA?oc=5",
+                "text": "Can you tell a Banksy from graffiti? Take our quiz to find out"
             }
         ],
-        "pub_date": "Thu, 08 Aug 2024 18:11:00 GMT",
+        "pub_date": "Fri, 09 Aug 2024 15:53:00 GMT",
         "source_url": "https://www.theguardian.com",
         "source_name": "The Guardian"
     },
     {
-        "title": "Watch: BBC joins Met Police raid on disorder suspect - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MQ2pORHZfRmdiLTBMd1VOclFvUjA5b0U4WnFBRV95X2xfbWRMZ3g0RGpueHBjS3NaT3dSRjd3SF9iTkFTSGpVVVhwVzBubC15R2VNVkZSQQ?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MQ2pORHZfRmdiLTBMd1VOclFvUjA5b0U4WnFBRV95X2xfbWRMZ3g0RGpueHBjS3NaT3dSRjd3SF9iTkFTSGpVVVhwVzBubC15R2VNVkZSQQ?oc=5",
-                "text": "Watch: BBC joins Met Police raid on disorder suspect"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFBejczU1ZRSW1mMkFyRmN6a0U3cG5FS25HeGwteEpqb1dDaFNKcjFOOHluWUlVUlZiNF9uUE9mQ1JnWG5mbU5vMHBhSDNpV2swRTN1VU5SNUNfQ2V5ODFyMk5vTW9vOWhvYUFZR2VkeW1pbjI5QzlGaUc1eFFsSExSVWgwSV9zRnlldTg4RjhLTHNTVmZrdkNsbjhnREd0M3Q2aWFua1BYN0pKZGhkeDUwaXlEdnpDZjhKTktRZEFWbzk2QWZV?oc=5",
-                "text": "UK riots latest: 'I'm not a scumbag': Mother of jailed brothers who looted library speaks outside court"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzQzcmxvcUttVllJblYyb3ZGZ1dhckRFc1didktKVGsxVjZVVFB6VGpLRVpLVjJ4RlRuT19yZDFkSWpYcGw3dmxvQ0p3OExISmROUkxEcHpyUWM5T2l1d0RCNUktakRCSWtkVmhBQTAxLUZCLVRNS0t3Mm1TSWdDVUsxdWZEMzk0S2RtbVpPQ3Myc1JxdVZqZlpmdnpyT3JKcS1fTThn?oc=5",
-                "text": "Watch: Anti-social behaviour arrests in Croydon \u2018not linked to riots\u2019"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ3N4dllGSDllNklhUkhCVUJQMVRESHdWUG1wQkQ3YnZZanQ4WGZzZWQ2cXI3MFhaYnE5aFBYVExyVTMzSnA4ODdUTmtQeldXRWpvUTFzYUhjMmNGLTFoS1kwTWVhUG1RajRYNWxQc2RVTW9lT2I1ZzdBd3Q0aXBfSTBNVEZkSmRrZVh3MjZrYlBqVzh0UWQ4cHotNS1CV2c?oc=5",
-                "text": "Croydon: 10 arrested as group throw bottles and emergency worker attacked in 'pure anti-social behaviour'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0YwVnhGOXZvOUpVSl9WY19IVUFxdVZWUDNvZllmVF9haGZibDVfWXM3U2pWYlVEaEpLRXJQWmk5dF9udVdFNXdCaUJfNkxkS19tRnVHc3BEUHNqcGhTVUNrRDhTZ05qTzRId1VPQzhDSjBQNzA5ZHpFVWphekF3YmhEUzkyVmhtNnpoWGZBNENZWmNfOG12Slpn?oc=5",
-                "text": "Police dawn raid 'seriously violent' thugs from riots"
-            }
-        ],
-        "pub_date": "Thu, 08 Aug 2024 10:53:30 GMT",
-        "source_url": "https://www.bbc.com",
-        "source_name": "BBC.com"
-    },
-    {
-        "title": "BA to axe direct flights from London Heathrow to Beijing - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3ozZTBNMERnNndrTW5QanVCT1J6cm9xTFlCelhQcjdrNkxtTlkwZjAzY0kyOWlfS0hzM3oyY1pRSk9jaHJqUHN5al9EemxZRG51dzhnMmVCT2lDZGEtTUxFVVk5XzVVREtvOFFxRGlRWUZkX05iNmh5cWFiaGNFUDBONVlVWHV6aDNzQUp5d1RucXdsMHdtdUd2QkQ5aEk4cklFN0w2dGJFeUNCVDR0S1kxWdIBswFBVV95cUxNSXZBYjJjalgyMk5nNEFSUk90dVRRTTZ3cXVhMzhBSThMa05CWXJXVGdKM1FvQURPUGEwall2cEVmWWREZklyS1JUTWplSzdKVkFvamN1SHBYU25vZGhIX2p5bXRoZWd5MEVGX3JZUmllQVYyaDhiZ1VZdHFZODU2bTJrNmxLUGNPNU9IQUlpNmt2RXRLZjdUMF80T2Jkb0lfczRXOEhCdEtzblM0RVdqLUQ2cw?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3ozZTBNMERnNndrTW5QanVCT1J6cm9xTFlCelhQcjdrNkxtTlkwZjAzY0kyOWlfS0hzM3oyY1pRSk9jaHJqUHN5al9EemxZRG51dzhnMmVCT2lDZGEtTUxFVVk5XzVVREtvOFFxRGlRWUZkX05iNmh5cWFiaGNFUDBONVlVWHV6aDNzQUp5d1RucXdsMHdtdUd2QkQ5aEk4cklFN0w2dGJFeUNCVDR0S1kxWdIBswFBVV95cUxNSXZBYjJjalgyMk5nNEFSUk90dVRRTTZ3cXVhMzhBSThMa05CWXJXVGdKM1FvQURPUGEwall2cEVmWWREZklyS1JUTWplSzdKVkFvamN1SHBYU25vZGhIX2p5bXRoZWd5MEVGX3JZUmllQVYyaDhiZ1VZdHFZODU2bTJrNmxLUGNPNU9IQUlpNmt2RXRLZjdUMF80T2Jkb0lfczRXOEhCdEtzblM0RVdqLUQ2cw?oc=5",
-                "text": "BA to axe direct flights from London Heathrow to Beijing"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMVZvdG5JaWlkYmF6dzB3WnN5eDNTckF3d0NmeHdHNU9HeXM1Q2JoN05XQjJoZlBJRUNQSHlhWFRYbkpGV1VBbXRUeXFCcU5BWkpUNGstblU0QTlK?oc=5",
-                "text": "Russia airspace ban forces BA to drop key China flights"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1dOazJYMHpoYkpJX1J0R1loQ2M1VmpaT0t2aTNqaFg0YkdqLUY3cjI3V292V2g0OUJNRWRBekl1cFpRX0ZYX1VxLWpZbWtTdWlXb2pmZHNBTmdfekRoVC1Md2lrMXV1Z3VLNnR0ZWVEaUNDdWVqZ1RWZVg3MGdMdjhlNVdoSzJyczNpVkhhay1Nd0d4REtoOWxTTURJb3JabGd4cWhLYzFxa01QSUN0aW9STQ?oc=5",
-                "text": "British Airways has just axed one of its \u2018most important\u2019 routes"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oRnR2OWsyYTFPWVpRZEJWT3FTVVM5cllEckpSMzJ5dG9PMkdIQXBQT2lvR1NRcnQxR051QWZRTjlrLUp5a2RnaUlBWV8zdXJSVGpGekJZQjFudjdLTzQ4SHFLZjhsYXgxVTJDTC1tM2E?oc=5",
-                "text": "British Airways to suspend flights to Beijing as Russia diversion adds costs"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNG1hbE11WkhaaXU1RnlOdnlidDFidnRsMnFmdW5sVVdySnhvMjl3Sy0teDZmZHZ5WXBLaTlxeWlhcE9JeHloVFhualN4SUxyWElWcEZmaE41SE8wSWJLVVRWWFFQaE56TmtyekNBel9LcUI3RDREMGFvWUJzenJJS053?oc=5",
-                "text": "British Airways halts flights to Beijing"
-            }
-        ],
-        "pub_date": "Thu, 08 Aug 2024 12:18:00 GMT",
+        "title": "Anti-racism activist in London reports break-in attempt after far-right threats - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelY0RGhpQUkzcFlieFhBeXRZaVRsTnkxMzhEdEZScWhfLUx0OHVoUzZ6TXBLU0FOZ245eVlZZ2JXSTYxQmtCXzJmbmE4akFpOHpjVDUtMURuRTZ6OXZFTzJEU253Rl9Qek9SZzVSZWktYm1oYmUzNDE1bkJ4b1B0UHlaSDlfaU0tYUVnbkt0R2xlRk1rUDM1YklfWVlDd1pHVmtCeFNUR19CWXE1NjJ1WmUzdUxnbVlvSERQc1U0cU91enN5dlNXZi04UTRNdWJU0gHQAUFVX3lxTE9raHJHZ2E3RkpvU2lrMmFYU01ONmkwMnU0cHZhVk80UV9pcTl3a1ZZZFdXTzBpUUoxN2dJWHlvRDNIa1BBRFBKOU5laGVsLWRDd0V6WEM4dDZsd2sxN25NTFJzQjNVdHluQTNQVC1vczdzV2sxamU4OWxfZk1Lako1Q0NDNnFnY0w5V01TNEJGRFhPN0pRbGJXcmJ0SHBOQlJSekNKQmtRTVd2Zmhwc3JnMkFzOUdwc3k1a3RBaGNhcVlWX1VFVFdFVzd5S004d1Y?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 17:35:28 GMT",
         "source_url": "https://www.theguardian.com",
         "source_name": "The Guardian"
     },
     {
-        "title": "Walthamstow counter-protest: 'We won't be pushed around' - BBC.com",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTDY5NG41Y0ROLUdVT3p0WnVMV0NBN29ucE9GNWVUcmI4dDNtb0JuSGRaVXAtTUdROFJBR3V0WHhLcWRkaVJIUGJmWV91TkZodHVUZTFHREF1d9IBX0FVX3lxTE41YzBBMTF1SjFSVlc5Z3g0R21sVU5aZktBTDRhc1Q3Z1JPWGRaVTBzN1JlZTZ6a0ZCdFp0eGdRZTNZRGNTX1VNY19IREZrWm1TalRzOGJiZUI3MHY2S0Ew?oc=5",
+        "title": "Newlyweds win Omaze's biggest ever house draw with \u00a35m dream pad in Victoria Park - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRThVQlNLN1lNbFdhRGRDV0QtajRzRmJtZkZSMWtmMWdkcmExaXJhNGpSUUNKbzRjbUpJaEhYckI3NXZ6N05wakQxNW1FUFNCSmYzTFdoYWdiUzdXeUlzYU8yOXRMakFVSTYtVUdYN05SSVR4QjRBZ3hwallYV2ItNkVGSEZNS1g1M05qS3RyWHZNcG5JLU0tcGtnMDIxSlFMREpKM2dDZ1hlN0RBZ1ROdVZLRQ?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRThVQlNLN1lNbFdhRGRDV0QtajRzRmJtZkZSMWtmMWdkcmExaXJhNGpSUUNKbzRjbUpJaEhYckI3NXZ6N05wakQxNW1FUFNCSmYzTFdoYWdiUzdXeUlzYU8yOXRMakFVSTYtVUdYN05SSVR4QjRBZ3hwallYV2ItNkVGSEZNS1g1M05qS3RyWHZNcG5JLU0tcGtnMDIxSlFMREpKM2dDZ1hlN0RBZ1ROdVZLRQ?oc=5",
+                "text": "Newlyweds win Omaze's biggest ever house draw with \u00a35m dream pad in Victoria Park"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeUd5eWpLNncwVlBTSGQzd0x0YXJZWW5QVmVqeTVuRVdYNEg1N0RWekhBZ2VBdVRMNEdGTUpkZ0JIVXFZYV9qVURqSGV4NGJxRlUwcjhEMl9WekhhSWgzU0dvYllfQnhWT0R5V2hGOXpJdjNtT3BVNm1lTnZJMHNTRjg0TjdhT0NkdnJKdWFrV3M5T3B4RHIxNEZvTk5BTXhpeG5vOFVpTTF0VGFTX2d4ZUY0RElSMm9fME5mc1lDZUFwUUR5MWFtcWp3U2NXRTNkWWFZMEJB?oc=5",
+                "text": "Newlywed Nottinghamshire couple receive 'best wedding present ever' after winning \u00a35 million home"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmY4QjFPY0M5OVdEZ1dSem8zRld1MmltVGxySlhVRzhRcE5OSWpNanZFLVZIV2xQS01hV0Z6NnNqV1VoR2V4THJQUHpuY3hiMGtVZkViWEhiUE5wZzFtRklzbHdPZDJadmRHRFVJX3NXVFFlM3pPNjY0eXZDSmJzQmxTc2ZPZ2RINjY0VTJ2RE02RUx6T0pURXAxYzg?oc=5",
+                "text": "Newly-wed Nottinghamshire couple win \u00a35m 'spectacular' London property in \u00a320 prize draw"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vTld6MTBpZWZFWGd2ZHVHTEdNeFc2X2FkLXBoNEZpaWpCbzlVWW9ZX2tTUGdFZ3VSOUlQUW9sbEhLTnR5RFhXakdoOW5saXlHVTJHNEo5MVdnaHdwTzlXX3N6NzI2Nk9XSnJwUFIwai0xR0dnOUxWMmhTWmU?oc=5",
+                "text": "Omaze: Newlyweds win UK's biggest ever house draw with \u00a35million dream pad in London\u2019s Victoria Park"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HY1M5dTJiSEVKeGFFRDByeV9Vd1B5Q2NhNS05a2Q2RGxURUhkaS1DdmMwMEVOel9RbDFNY0VfZHR5WkIxOHBtUmstRHYzeTh2MFA5bkhnVmVoeFlqUlFnbzg4ZTZraUpsQTdKaGt3WHNnT1VzOXfSAXtBVV95cUxQNWtLVFlVMFByS1dxb1hFRDdnOGpIQkEtUGk3VW80ZXlQZ3NuZjhwai0tRjE5YXJmaWdteXA0VVVtdC1lSDZQY3dLT3NPV2I4UkU0Q19NeC1PclY0SGZUUlJLLWdmblFwMEtjN0tQd3NleXNtTkJvckpQY00?oc=5",
+                "text": "Newlyweds left stunned as they land \u00a35m house as \u2018best wedding gift\u2019 ever \u2013 it comes with a gym and secret..."
+            }
+        ],
+        "pub_date": "Fri, 09 Aug 2024 10:01:28 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "Police hunt man considered 'risk to women' who absconded from care facility in east London - Sky News",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmpkcTFPN0NyaXI3Y0ZBTmVNdFktdFdDekRuX2FYMldaRVgxazB3TVlhemExLXd1bm1vdFo3clhwVkF6OWxTZ3NlUmNsZ2Y3WUV1ZUhQT0RaYzNSRkF0OVZGU2pNMk1oR1Qtc0Jsbm9YREp4UUprMTQzd25FZVVJTmQtZ1NWZUhvWmU2MDlHTS14dy1XYnpYZEswYVZNQ1BNMGRfY0duOVFjMnFzQmdCNDAxRUNZYXJBWXNENWo2QUpxZ9IBxwFBVV95cUxQMXJTNnk4UTNsLWc3d1MtZldEQThFLTlMcThiay04LUc2NG9iNEU2TUN1cVRJQWM2dmJmcFZMSWNzM1NvUGs1NXd4SkJoNE9vOS05T21UWEIyUV9BZi15ZGQyaXZmS3VHTFlVdzBlci1TMXVQejZjQWtjY28tQmRVSVlnb2FjMnNoc3RHY3ozS2VpVGFUcHpZRzRwY0x6WkV4YU9ZTHBxYjJsaHB6RGlwQnBUSWRHa2xncGtTcUM1QjZ5dEtOX2RJ?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmpkcTFPN0NyaXI3Y0ZBTmVNdFktdFdDekRuX2FYMldaRVgxazB3TVlhemExLXd1bm1vdFo3clhwVkF6OWxTZ3NlUmNsZ2Y3WUV1ZUhQT0RaYzNSRkF0OVZGU2pNMk1oR1Qtc0Jsbm9YREp4UUprMTQzd25FZVVJTmQtZ1NWZUhvWmU2MDlHTS14dy1XYnpYZEswYVZNQ1BNMGRfY0duOVFjMnFzQmdCNDAxRUNZYXJBWXNENWo2QUpxZ9IBxwFBVV95cUxQMXJTNnk4UTNsLWc3d1MtZldEQThFLTlMcThiay04LUc2NG9iNEU2TUN1cVRJQWM2dmJmcFZMSWNzM1NvUGs1NXd4SkJoNE9vOS05T21UWEIyUV9BZi15ZGQyaXZmS3VHTFlVdzBlci1TMXVQejZjQWtjY28tQmRVSVlnb2FjMnNoc3RHY3ozS2VpVGFUcHpZRzRwY0x6WkV4YU9ZTHBxYjJsaHB6RGlwQnBUSWRHa2xncGtTcUM1QjZ5dEtOX2RJ?oc=5",
+                "text": "Police hunt man considered 'risk to women' who absconded from care facility in east London"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQSWUtVng5T1hOVHlkZ25lRXZtODNmcy15UEhtN2tZb25NMmhSWHRqZllKWTFNSVQ2X2QtT3IwT3ZDMWhndTRsWGVxenJnakNQUXNyNDBzN3hEMnpC?oc=5",
+                "text": "Man who is 'risk to women' flees care facility in Ilford"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFlhcmFZVGZkaEpmTjhwVEtiQ0NVMGtsMUxkSUlReHpaZEtubDlZUi01YlV6UGZaSnRubnIwWUxKdHFQLVpGR2NNT0ZWNlBseEdoTHg4Z0QzMzdYTmZjeWQ2bHNFaFBJNGVIM19lejFlb1pUOEYtS21TSUhJMnl1MWFvUzhNNnN4QU5icVBxTXdSSE0xdEdRbGZHeVdLbnh4?oc=5",
+                "text": "Manhunt launched for escaped mental health patient who is \u2018risk to women\u2019"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVdHRkxvZkcwbk5MOUVpUjhWcUNEaWlyaWtDZGhsQ1R4WGpmX01rY01UZFRxZmhZQlhnMkx2Z2JiNlFDckRYRFdEYS1oZ1NULTZwdVFvbjQxQlVNMjBYTk9QTVU3TnNsMDVCbXRMbXVyX1RFNGlZMWd5U1Y4RzlRMGVkcGplVG1BNkxYUExLQVRhYnQz?oc=5",
+                "text": "Urgent search for man considered risk to women who absconded from London care facility"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeVJtMUpGWHJnaVgyVHp4QThSTkE0NjYwUU9yb1BHdElCTS03ZWJucllPaWdGR0oxNy1zMFVuOGhNUnVfSldzYXZ2WkhyOUN2T3VSem9JSk16SnRXWkMyMVRMWTdUcnNEMy1XWXI2UkNkNV9GdU1KMlpFLVU5U0lfQlRxNTNfYWFFcHJxaktiYUdTSlpkbUNWNWlKS0ZDcVBTRl9xUU9LU25QbnVDSlZzVDhwR3BPcmpGQlVZQ1NYMTRkcVE4czVVTmpBdXdKX2tJby1Yci0wNWJmODVuZGg2NGdOaFQ2QTZNaFHSAe8BQVVfeXFMT0trVVJIVnFMbjR1SGFlZWhBZW1RT3BrdU1Rb3Boc3lRUlVmM2NpQmltQzBDMnh3Nm5ORk1iNXlsd282R0xsY05oNmdvTExBcG5Tc2JRSzhJa2V3WXd1Y2g0QmpjS0M5N1FyYTkzQVJCOWZRTkJjY1F6YW95cnVyQnRMVTdwU0xzcF8wakhkSVZLeG1xRUxidE9jZ3lFYUg5M0FTVVRpZ3VxbGhrMVotYVhXYlFUY0xncnNDUTgwY29mWVBRSmktRGNDS0xaTU1MTnc1UUhrd2E1dnBQTWU3Vkh0SFM2SjVCeU42ZzFnVVE?oc=5",
+                "text": "Urgent manhunt is launched to find a 'violent' mental health patient who is a 'risk to women' after he abscond"
+            }
+        ],
+        "pub_date": "Fri, 09 Aug 2024 10:17:13 GMT",
+        "source_url": "https://news.sky.com",
+        "source_name": "Sky News"
+    },
+    {
+        "title": "London travel news LIVE: Severe delays on District line and Overground - Evening Standard",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRzhxdjBOSW9zUW9mWkZaYm8xaTBMbWpLMWZmT1ZDYlJEcFBwOEstM1BnemZyYUdhVjNNMGhiRU52MlRaLWVHZllleFJzRFoyenljaUlmRERpbzdGbzdIMXRLVjV5Y0FNUHpWRXNCaWRaeHlDcllIa2E0U3F5YnI1a0hReThiYUkxT0ZfQ2pGelZqT2dRaTZsSFExck5XU3ZVaGV0b2NHZml2S0dyS04xZlRSNjhmeGhBSHBXMi1DTEU2VGhFdHNfenRBNGlHcEJPd1hSR3Y0VmNPV1BBSExwWEdDVmhTbEM0aHVqcWhiSmQ1dw?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRzhxdjBOSW9zUW9mWkZaYm8xaTBMbWpLMWZmT1ZDYlJEcFBwOEstM1BnemZyYUdhVjNNMGhiRU52MlRaLWVHZllleFJzRFoyenljaUlmRERpbzdGbzdIMXRLVjV5Y0FNUHpWRXNCaWRaeHlDcllIa2E0U3F5YnI1a0hReThiYUkxT0ZfQ2pGelZqT2dRaTZsSFExck5XU3ZVaGV0b2NHZml2S0dyS04xZlRSNjhmeGhBSHBXMi1DTEU2VGhFdHNfenRBNGlHcEJPd1hSR3Y0VmNPV1BBSExwWEdDVmhTbEM0aHVqcWhiSmQ1dw?oc=5",
+                "text": "London travel news LIVE: Severe delays on District line and Overground"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNkFtd3VxTzhZUEZtck5LeGMtZ19BSDNnRzI1eDlxSWpPOTl2NGRHaEIzVkVwUmYtYjBFZ05FWGllbWVFMGN3aEdfUGNJWWZOcU82SEE2M2FadFhIeHkxZkpqaWxxcndLUkladG1WWGY0eDlmT25ROGN6eTdXTGJxQ0VQeDU5YlAwNmY5ejhMdlB0UUl3TlVRNHlrWjlzd1owR3lOSWpqTUdhMmp4RWhmZGNCc2xmUdIBuwFBVV95cUxQWHRCOUx3UGRZQlRzSlFfVlNvQndGeWlNd2NlZDd6YTh4UmdOX3lNTmxESEpVQ0R3RndpeFZ0M01VekVXMVhqQ3NvTUQyaThLRkNJWEtxaDh4Q09WQzNhWWVJbDhUNXNXY2Vya0lJR0FFQzQxcEJBTUhlTERUbEJWMC1aVnBoX3dHSEthXzB5VnBHOVBvWnlrNmdiSXprUEZqdzJxT1pEMDA0MGNYY3pJSVRiZ0ZCQWpHTktr?oc=5",
+                "text": "London's train and Tube network thrown into chaos for rush hour commute - as incident over 'trespasser' paraly"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2lEb3FSWG51Rll3RWhzM21SMjdYVUtrb0tNREM5bmg0amIwSHNaVll4QTZsYWF6UDQxVHlwWUdDVVFoYnJ0aG5laEd0M0xTRzV6M2lVeGx3MzdrYzdrWlI5UVNsY2F6SnlSLU9VUGpnSjZIcjM1VGlpNmtEWGpVM2Nyc2VYT2RzVUM3andmSVBsVzFOSGc?oc=5",
+                "text": "Train lines between Bucks and London blocked after \u2018incident\u2019 on tracks"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmQtVTZ6RnNlNllVbXNHM2liZGNNN20wc0tVTTBxbXB4V0Y3UlZ0M2FoSENoN2g2WTVkXzBsYzBFWGlvbU41ZTliaW4tTHVjSzZabTloeTlJVTFwN2xwNUFuRkJJcUpJM2JSTjRnckhvNHBsRVZLLVc4OFRDdjBrQlRtRQ?oc=5",
+                "text": "London commuter chaos: TfL passengers left fuming as trains and tubes cancelled due to trespassers"
+            }
+        ],
+        "pub_date": "Fri, 09 Aug 2024 17:02:13 GMT",
+        "source_url": "https://www.standard.co.uk",
+        "source_name": "Evening Standard"
+    },
+    {
+        "title": "The moment Vanderpump Rules star Scheana Shay gets BITTEN by King's Guard horse... as she becomes latest Londo - Daily Mail",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzhhTHhtUW9PT3UyT2VMa05aM01hOWF3TE1WUnF6QzlfTF81X3Zvb3RLQVlMU2RfSWs4dElWbGc2TGZMcHB0Z01ZYmhjZTZyY0hpaEF6b2I3N1FlV2w2MDZ6cHM3TV9xZVlrV1ZlVkN2UDBwaGlWT193dDRrTjRqYzhYa0o2MzJTbExSN3NNNkxkTEhuOHhWVVRMZHBiaFFYWHNvMVBQcnltOTBKVFdRYnhmQ1huNzVNdGRLeVlB0gHDAUFVX3lxTE5SRExaUVV2amM3VWRCay1jZThwLW5rSmRqRHJ6SW9mZW1YV1FCNUgzZzB0U3hLZV9kYmNWb253NzBTRnZkcndmYzZ3d1V0VEZNeVhVdUNoVzNpWDNwNElFTWJwV1pHVHBob2Uzd3NfcXZXdGI1OENnWEgwT1YtSmVXUi1EclRBTFE5eEJTY2YyRV9nRWxYS3NfQXJwbFdNYUpBSjNMTE1MNHdvS0p1cmZrSE15MHZCZUloWUI5WDRiNlhVMA?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 02:20:01 GMT",
-        "source_url": "https://www.bbc.com",
-        "source_name": "BBC.com"
-    },
-    {
-        "title": "Taylor Swift Still Due to Perform at London\u2019s Wembley Stadium Amid Enhanced Security as U.K. Police Evaluates Intelligence - Variety",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzNFd0s1cG1hc3p4WDZ2TkVMNmllVlZRSGkxRHFZOFg2cnN3aVA1NU1vM0pFLWxRNlctVloxVnIyZnVzTkxTU1g1WHRZRVlQWUxDSXU2NG9ST2V2TWNpX2FVaVlPZ0oxUkhJMVltSktJbE1FakZQYnBLaFVfYzNnWTFRaE1STkV2UVhGWUlFM01fZWNPLTEyU9IBngFBVV95cUxPenN5Z3VVOUhtN0dnNTJKUDl4cGtCc3hoWHBkeVVrMnF0SGpPZUUycDR2QWxuRThYVlFzdFJIc3FHY3RTVFU0azlUazQyWnBzdE54bDFsV3VtSWxaZXBSd1AyZnZ4M0tEMkRfNUNPVEtGVjg5OW5vUzBpTnJBU3dNQ19tVGg1bTRpTVM2dy15NVNJZWFkakRBZEpJdDY1UQ?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzNFd0s1cG1hc3p4WDZ2TkVMNmllVlZRSGkxRHFZOFg2cnN3aVA1NU1vM0pFLWxRNlctVloxVnIyZnVzTkxTU1g1WHRZRVlQWUxDSXU2NG9ST2V2TWNpX2FVaVlPZ0oxUkhJMVltSktJbE1FakZQYnBLaFVfYzNnWTFRaE1STkV2UVhGWUlFM01fZWNPLTEyU9IBngFBVV95cUxPenN5Z3VVOUhtN0dnNTJKUDl4cGtCc3hoWHBkeVVrMnF0SGpPZUUycDR2QWxuRThYVlFzdFJIc3FHY3RTVFU0azlUazQyWnBzdE54bDFsV3VtSWxaZXBSd1AyZnZ4M0tEMkRfNUNPVEtGVjg5OW5vUzBpTnJBU3dNQ19tVGg1bTRpTVM2dy15NVNJZWFkakRBZEpJdDY1UQ?oc=5",
-                "text": "Taylor Swift Still Due to Perform at London\u2019s Wembley Stadium Amid Enhanced Security as U.K. Police Evaluates Intelligence"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13MzlHdmRMelRqWnktYmtNYVdzSTdKdlZFX1ozaGhORDlWYk9RRkJMckNnMlNZVHV4M0ZsV3VvX1U1YXZIN3VPS3cyZzJ1TktCend4WmlTeURsMnox?oc=5",
-                "text": "Teen planned 'explosives and knives' attack at Swift concert"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUdza29hVUtsMTJSLXdlU1kyS0dNZlEzVDRfZUdZT3pYaThkZjVYRm5uVjRBV3BhajNWWjltVG9JSUJBdUtfT1J6Q1RINVFVTnpnaE5DNGZkdjVWQ2dwa1dDbmFFZjdVQXJvYngxRW1PV2I2T1pZSWs3eFdCZTkzUkJiTzRmRXhfdDYwQmluWThQRm10cVpRYWpFSnhrRDNSNndjYVpmMTFYM09QY3VUZkc2SFFmNTVEY01TSmVSVkJYbk1aUk0wcDFQUQ?oc=5",
-                "text": "Taylor Swift terror plot suspect 'planned to kill as many people as possible'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1VUclNvODlKOXluZUowMm4tc2FXOWQwY0FoamNITndZV1YzbkdyWnFiN00wTWNvTDlfc2JrUmpWUnN0aWNmU0sybGY1RXRKR2NST05rZDdlV1E1QU5rbVd1ZW5TNG5Zd2VscDV6c3hvRi0zOHlFODI2V0JQVlFFMXdqZGRnb1Q5SEJnNE56dFRzS1pXX0IydFJVR0g3Y2NOaUJyZDZTS3ZSd1FWMVVnLXAzTG04NWZUM3FNZ9IBvAFBVV95cUxOcC11eXJpLUlqNFhPdWphc09TWTRsRlVaTnZqTXU4dkl5akQxem1PZ2hGa1FMSXNNejlQZW53a3l0QktMTmYzRGROSEpiNUJmdmZjTmt5MllnUVJUUWdDeE0zV2dFU2s4YXk1Smw1YXpGd1dOT2U3RXZxQkpFU1dEakloRy1BVUhsV0pKZjM2OUVlR1dhTUpUUjNOeWJ4NkRmWU9RVEJ1OGRKSDZRVlVrSXgtQkt1eGRMWDBlOQ?oc=5",
-                "text": "\u2018A huge hug when you need it most\u2019: Taylor Swift fans shake off disappointment in Vienna"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0ZtVnpOUzRBVklNbEl4RjhmVWNQQk1lcnJxX21UVGhIM2VvTHY5QTZZVzVyWl9rSEtfN2d4ckQ3OUZQekw1MkYzTW82czQzdjBFNUxWRGZrbUNkM3ZCWjR5eHhYM3RoTHpmdFBkRi1LT0RXemF1VWJGYUpwU1FyTi1kaWZCMW1iR05BY2VUNzlmaUNQeGtPaVVrRjVZTGlYOE9fSEZtSk41VTNTZnfSAaQBQVVfeXFMTmtnVVdfcEdqRGo5QXBrVVhVanBRWGpoVEFyaHFpemhCV2ZIV2JkZ0dNbEtsdGJGSWhoV25MMVhvY01YR0tjWlFSNFpUTWhNbHFUNTdoY3lIcHl1M2Y3NzRYUXh2S1ZLZWE0RmxpWGZXUnBuMFhFVm9qUEtUYS1SLXlXTElkY2dsa2NOa1NIOUZleHM1aVkyZjZFZEJlU296ZTVlME4?oc=5",
-                "text": "ISIS-inspired suspect planned suicide attack at Taylor Swift concert, Austrian authorities say"
-            }
-        ],
-        "pub_date": "Thu, 08 Aug 2024 10:02:00 GMT",
-        "source_url": "https://variety.com",
-        "source_name": "Variety"
-    },
-    {
-        "title": "Exit, pursued by a FLARE: Panic as London's open-air Shakespeare's Globe theatre is EVACUATED mid-performance - Daily Mail",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVlaUjd0Q3dQanlrU0UtYUQ1a01wX19QZGdXcUxPVzV4Q3BmLUFzRGNTSkUtbUZnWkduQ29hTnJzeVlRNTY2Mk16OXJrZllseFozVXQyV0x0dk9TdURuYVpLQnJhOV9VZDdxVFpUMThLMFFPa3BMZkRhN2ZCUVIzN3dBQndRRi1WRmFDVnNMY3l4UkhCVHVMeUtCVVZPRTM2ckRSUlpXLXNxR2pUTGYzUkhaNGFqNnJtV0xBWNIBwgFBVV95cUxQVEVHSWhlTmRZS0Y1b0hocnZqcUZUMTBrMFJScDFabU5MNnRJSUszSWhsakhUXzMxemJQeWxiX3M4UFBUUkxldXdVSkM5eUVrNjZVQURINHJXRUhmd1UyWnpLVFFFRmtmSzE2MHFvUWVYdkJNdTRKaUM2WHp4TnF4MHllSC11aS1wQ01ITHZtLW5tVXFDUlpNN01DbkFiSTZGNHh0cTNUOUg4TGo5TTZvY3NwQmZlSnFOT3dxY2VHNU9Vdw?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVlaUjd0Q3dQanlrU0UtYUQ1a01wX19QZGdXcUxPVzV4Q3BmLUFzRGNTSkUtbUZnWkduQ29hTnJzeVlRNTY2Mk16OXJrZllseFozVXQyV0x0dk9TdURuYVpLQnJhOV9VZDdxVFpUMThLMFFPa3BMZkRhN2ZCUVIzN3dBQndRRi1WRmFDVnNMY3l4UkhCVHVMeUtCVVZPRTM2ckRSUlpXLXNxR2pUTGYzUkhaNGFqNnJtV0xBWNIBwgFBVV95cUxQVEVHSWhlTmRZS0Y1b0hocnZqcUZUMTBrMFJScDFabU5MNnRJSUszSWhsakhUXzMxemJQeWxiX3M4UFBUUkxldXdVSkM5eUVrNjZVQURINHJXRUhmd1UyWnpLVFFFRmtmSzE2MHFvUWVYdkJNdTRKaUM2WHp4TnF4MHllSC11aS1wQ01ITHZtLW5tVXFDUlpNN01DbkFiSTZGNHh0cTNUOUg4TGo5TTZvY3NwQmZlSnFOT3dxY2VHNU9Vdw?oc=5",
-                "text": "Exit, pursued by a FLARE: Panic as London's open-air Shakespeare's Globe theatre is EVACUATED mid-performance"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzZZVHdFVzFMQmdDdXZBMklGLUZiMmcyYTNXT1l6MVRCdWNJaEVZNW5LaGZDanRlQVhGRlBzN2dlZ1l5OWxRaWVkN2xmUWVaZGYyemZnWlloZXpSb1RIM0cxZ0xOaEVPX2pCamlGTnlUU3lGelFqRUM2MDc4TlhSM1lWVWloNWo2bmx1NjNzb1dsNXdWZ3M2OHZRa2JZREFmQlA3NXZBTnE4SmwzOXB1QzNCQ3k?oc=5",
-                "text": "Globe Theatre evacuated after firework lands in audience"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQjhmNzNQNTN1S2JuaDcxOEVVQVFPR0d3VE1LNlRzZkZPdWRINzNaampLckwtOFlKNk14aDJhUnpJNGpqQ3RNNFdiZlFiQUN3LWp3TUFkNnZRVTU5V2YzQXgzU2s0SFZSbzNJcXZKOVd1TmU0QllzTElwbkQxWkpMWkhHaG80eGVpalo0VVZDalJMQQ?oc=5",
-                "text": "London's skies turn red as 'illegal' Algerian flares blaze in the capital"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWNhSlYzcFVqbkNaUm5uN2VXajI1cC1KOWhRY1JQZEIwc3pUUVN3TkZFMVF2N1VlY3g4LTlPSGJjZ2lxOHJ5LWUwY1lGTUdKbTBrWDJVWDlSS1JKWXo1c21zcWZZaC1ndjRUV0tnanlRV25WamIxSF8yMzhYQ19sVg?oc=5",
-                "text": "The London Buzz \u2013 8th August 2024"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYndmWkdUUUhjNmVhY3dOdUg5YmU0dlFFLWQ4TWhyNEFpWU80NnBHMW5xMk9ka2k2WU1QX3ZVeHItUHJmckdxRkt6RVNvLWVYTklET3BicTFyYnU3SFF5Qm1BTE82ZkRtV3lvOTJVaHp1LVJIZHcxYVpLV1FwUWNSbXdZNENZTGhqVnFFOGRKZExqZ1U5enhoanJ2SUNKeG1XTWU4LUQ4MA?oc=5",
-                "text": "Globe Theatre evacuated after firework from huge \u2018unofficial\u2019 display lands on stage"
-            }
-        ],
-        "pub_date": "Thu, 08 Aug 2024 00:28:46 GMT",
+        "pub_date": "Fri, 09 Aug 2024 04:28:09 GMT",
         "source_url": "https://www.dailymail.co.uk",
         "source_name": "Daily Mail"
     },
     {
-        "title": "Train passengers issued \u2018do not travel\u2019 warning after fire at Ipswich - Metro.co.uk",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUpyZU9yWHhVcHp3anlPbkJ4UWJOZmJUOEVkdS1wbEF1RWdOZ2hzdFB4RXIwMW9FRjVpbUZEb2VtbzZvYWR5b2lIWUNKcXA1RGlCa0FhOENFVjFUNHc4c1czeEw4NXhPb0NhR2kySDVtb1FydzdScXlqcW1lQ1pBX1BENHVON0FZbm94UjdFMnlMVmo5azRKRlhlSTV5TFA1a0ltUEhSWXM?oc=5",
+        "title": "Katie Price arrives at court in London for bankruptcy hearing following arrest - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUxNRXdDeHdVaHAtT0dCNzZYa2dicFctbk91LWZtazdxUHQydlRvZW9yUU81MUVfVE1WTHR2aUh5Zmd4ZU1WZW5BajI3ME8xUXBZUVhodU85M0VQbmtvSWpjcUdKa01IblNhMzdfWnAxYnNIQzR1R0VJSkItNVFxczNNSWR4ckpSZWtzdDFGZHdQT1NYaHZoNV9zb09RaDRiNTRZRmJndXcwN2hHTnUtVk8zdkFmZkZ5RUpreUltZXl2Zw?oc=5",
+        "description": [
+            {
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUxNRXdDeHdVaHAtT0dCNzZYa2dicFctbk91LWZtazdxUHQydlRvZW9yUU81MUVfVE1WTHR2aUh5Zmd4ZU1WZW5BajI3ME8xUXBZUVhodU85M0VQbmtvSWpjcUdKa01IblNhMzdfWnAxYnNIQzR1R0VJSkItNVFxczNNSWR4ckpSZWtzdDFGZHdQT1NYaHZoNV9zb09RaDRiNTRZRmJndXcwN2hHTnUtVk8zdkFmZkZ5RUpreUltZXl2Zw?oc=5",
+                "text": "Katie Price arrives at court in London for bankruptcy hearing following arrest"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0JRbEZ2blNvNURYV1NOQUZKdFJuRklDNERxQXlzZ2Y5b05IRElITnJtYmNYdndST0VrT2dWdG52dXYtaTlOR3VaV3JTczZKdDVWUmQ0dVQ3RFJocURLdUphbjhyTG14VXJqYzZOZk0tbE9NSjVfQ2lsUUp1WHhLeWFra2lGb3pKWTlLa1Z5MlFtUFdTZmlBQW5fdlRMU0ZtZ3l3eURIUUl1WHJDOTZRbjZ30gG3AUFVX3lxTE1BZXc0TkxVeVFYTERFdmprbkF0NzZXNTVLNlNoMVZ2Y0xJS0FwOEdtMEhZbHRFQ2VTa1RhVG83cWhud2lYUXdRdXBzTUNYWlRHNU5BRnFQTXZQRTNocHBhQkVXanl5TnFkOVVBOHVKZTgtd2ZpdlZTQ3EzTU1iUFNVdkNXakN1cTdZZTJycEZrY1ZPWWRRTlhlZ2d3cllZYkc4Ti0xOGRweXp4cVJvNE1fYnpBd1c1NA?oc=5",
+                "text": "Katie Price says she WANTS to be jailed so she can cash in on interviews behind bars after star asks judge if"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXZOWUhqdUlIRTl0WllOQVEzTUVEYlFZdTFEcDdiQ2MxeFlzdWdMS1RaNGlaUEI5THd3bGpqTXdRRjlRNXN1eFp1N3QtbkFxTkVOUHkzV2hXRS1sXzMxTEh4T0tvcERMMmF6UTM2b1YwN1ZwYkFEdE9MMVRsaG12RWw3Y205X2dQV3MySWxBWGJxVFNKS2hjcU1uU0lBQW90anFrR1l3Q1ltbGlaVUtHVFVpSlI4eFF4MGJr0gG7AUFVX3lxTE1ZV2hRVlg5WmlUUU82a2dLMVhDb1hjQk9POFJ1aDhfRXpJY0c4bEtMZUtkczZoWUFoVUM5RDFLQ3JiMXc4dFUwYUJLTkZwZFdGdGwyWFd2b0xpVWtTNXZQS2xuS1draVNibUJpZ1NsdmRwczJQWU0wei15VzRvX3VzMFpmWjZESHBQLWRLM2dDUU41Z0JXRHdiWEJMVUZSeVFtdDVTT09lYV9aeG54cjJ0MURpbk9UckR4QWM?oc=5",
+                "text": "Katie Price arrested at Heathrow after missing court appearance"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeWJINFF5aHZTRXRwR2VHUF9iXzBvOXJ0WnoyM2pIb19WdktSVXA2aF8xZlBZdlFYQXkxYUJ0RFdSeDZ3aHdCM1BETUJuLVlIb0FEOHNvWmFwOTBtNENkZDBDdEFsRV9iMm05R1hXLTRnLW5qd09mV3dGYnFfRDVjUUMxdkZyS1ROd0VmTFhXSkxHa0M2MFE?oc=5",
+                "text": "Katie Price must attend bankruptcy hearing, \u2018no ifs or buts, no holidays\u2019"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjM0cVRSMUFUYzRZVmZISkpzUmtPQlBDekVYeWh2bU5SZXBELXN5NUFlUWxNbmRnMTlWUFJXVDg4anRlQ2RhV0dKZm95YnNta0ZsbzJnM1VTV0JweENnNHlaZTBHYWt4Y3huZ2hfTXNUdFdBOHVPeWNDQlY5TWtGb25RNUktbEZu?oc=5",
+                "text": "Katie Price told by judge she must attend court hearing 'no ifs, no buts, no holidays'"
+            }
+        ],
+        "pub_date": "Fri, 09 Aug 2024 12:55:29 GMT",
+        "source_url": "https://www.independent.co.uk",
+        "source_name": "The Independent"
+    },
+    {
+        "title": "London Underground delays and M25 crash spark rush hour misery - Metro.co.uk",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXhBVzhKVW11dmd2SGN4R0xoQUxVN0NKVkJOWGdtNGstMFM1ZDJiMmktQVZLWUJxUE5GQjc3WF96b0Y0ZHVBS2IwbUV5MzdTMm9YWTlEMm9zeVJYODJNajd2bkNzcjgwdzhZdWFkeEV0c2R0d1J1a0NDV00wNkpaUDhINTNEWGV2dWlKSkgyOGVqWm1zckh2YU9mNDQ?oc=5",
         "description": [],
-        "pub_date": "Thu, 08 Aug 2024 07:47:00 GMT",
+        "pub_date": "Fri, 09 Aug 2024 06:14:00 GMT",
         "source_url": "https://metro.co.uk",
         "source_name": "Metro.co.uk"
     },
     {
-        "title": "Treasury minister took 16 months to declare \u00a310,000 rental income - The Times",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1hRbTNkNkw2MXhpOGtNT1pxQ0tEdmw4ZXNfSFRiOHRiWmJDMGdLSGtDdnpXSHRYZXlrS2lfTlllRXVUSDItWWlkNmtzM1YtU3BvNm0xUDNDcGVlTkdUVFVXM2Y1NXowd0RvM0xmRVJGMjZMbWNzdFI3elpGREtuUUhtcUtOOHVJcS1nOGk1UlF4M0pqSFNaeGtfZC1sSU9wUEc3V0d0WQ?oc=5",
-        "description": [
-            {
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1hRbTNkNkw2MXhpOGtNT1pxQ0tEdmw4ZXNfSFRiOHRiWmJDMGdLSGtDdnpXSHRYZXlrS2lfTlllRXVUSDItWWlkNmtzM1YtU3BvNm0xUDNDcGVlTkdUVFVXM2Y1NXowd0RvM0xmRVJGMjZMbWNzdFI3elpGREtuUUhtcUtOOHVJcS1nOGk1UlF4M0pqSFNaeGtfZC1sSU9wUEc3V0d0WQ?oc=5",
-                "text": "Treasury minister took 16 months to declare \u00a310,000 rental income"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT0ZmLVdvZVhxR2V6bGhzN3J5ejFfY1V2V0dwV2lNMnVQdldUWEQ3aWo5UXFfVEd2S0hIZ3MwU1ZHNVhtQmVCWjVoYzViY2E4MmFndVhXYVhnOG5IMjZZcEhxa1RmdlhuN1k2MklqVEpLcjVPZE5DUm1fODI2cFJ3M3Q3Q05EWmIyNVNIUDNzdDlaeFk?oc=5",
-                "text": "MP under investigation after 'failing to declare rental flat income'"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEo1WjVORm0tdGktM2czaW0ydWJPRzIta0RLbUVrZUZtcjRSU0FpWkQ4WE1OR1ozbElaNk0yRE9LUEx3WkdxZXJQTUVzeU9yeXV3YmwyN1NkYWFrTEx3SFZ3ZVgteTd3SlVTWm5iWEFYeUt2bm9EVy1TY05DcnpqU0wwRTdFbkhwZkhJVnUtRnd2UzlFX1Z5a2Uyb2tyMVE?oc=5",
-                "text": "Labour MP \u2018failed to declare rental income\u2019"
-            },
-            {
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMjJqZC1lVUE0X3VSbHJ1R3lsNGhvMjhwb2s4c181VFFybjd5aThrUmdheld1NVlpV3hDMmlLa3dRQTdBaFVhNmlhTzFnTnRrX21qSklvRmgyejZtY0JtSWFTQkdXT1prN2ZMNV92dFpnbUo3TXNHcTEyTmZnekIzakh1R1VzU2wxSXplTjhJbWlOMUREQzcyMVFmUkZ0OHc4cHhUSkpzM1JqejVsaTRHdnV5YWE5LWdsR0RYU1AzMnVvUdIBxwFBVV95cUxOQ2VqRTZmQm9NeFVpd3Nua2JEQjEyTEk5WHlTa1NiT2NfbW1hbE1YV0FRa0ZFaEQxNE1sV25SUG1WV29NbDE2c2loaXhaTG1DUXlZZ3lIOUtsRlN0SWFXa3Fpa1Vxd3F6a1FTbDNTSTFiSEZRRGgyM2tKZWVoUGFiSFJkOTZkSTBiVU93SGlmUnFQa2hBb3Fzd0poUGFia003ZTMwRWE0dVhIUGtxdlplNGJBSlNydGNpUXBDdDFIazN6YUdWZ1Vj?oc=5",
-                "text": "Minister is first MP of new Parliament investigated by standards watchdog"
-            }
-        ],
-        "pub_date": "Thu, 01 Aug 2024 01:35:05 GMT",
-        "source_url": "https://www.thetimes.com",
-        "source_name": "The Times"
+        "title": "Yayoi Kusama installs mirrored orbs outside Liverpool Street Station in London - Dezeen",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnh0dkQwS3EyLUZrRFdGUUxkV2dTUG1Yc0RqbV9TTFN3cDJXYndpOWQzUHU1Y1FkMnEwbm10aDduTnBZRjllSUtBaFlQb1JIOG5tSXhFOXNRMkJuYzdwd0x3Nm5DTjhqdXMwWXhZNXdxTFhWZlM1aDFfdVhXd2VRY0xXcFBDWUNiUzlYdWZwWjlNQ3N0V01pbHFCd1RPRU9Xamw0Sml1TQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 09 Aug 2024 09:00:00 GMT",
+        "source_url": "https://www.dezeen.com",
+        "source_name": "Dezeen"
     },
     {
-        "title": "Two dolphins found dead on banks of Thames in London - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVFaUVlpX2J4eTJPek93SHJkTi1FbmZ0LURHaTJ1aEtHLWJKY1FMWF9sdVJ3ZGdMY0EtLWI3Y0dUTWIxNlhlVTN3NmlKejV3RXctb3B2SXUzLTRQSXNWUVJSTDdsZVZBeThacnRJRWVlTU13aUszZ3BsUlZzY2J2NWp5TGNzOVF5bEJiSTVWVVg5YkMyUnBMbV9Vd0c2NUl6QVBOVzkxcllUaVJY0gGsAUFVX3lxTE1pMzFYelpFQXAybEdvRG1xQV9tTUFZS1dsN0VxOGt5U1J1dVkySlFnUmtOT3RZOXdCTmhHdEZFVUtxNFNmU3pkTnlNZ1p6aG5GT08zZTdHWE10dDdvXzhHYTkzWW43eTU0TG1xUFh4ZWc0dlRWWFFLMXQtTWhxXzEtb2JTemRSVmZ4QXhhdjNsM3VpWTAza3EwdnBwRTJmcVdiMHc5ZHg3MTFnajY?oc=5",
+        "title": "US stock markets rally but London still on edge - This is Money",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2NpWjIyWDdxRU5ydFRVR21saHRHRXVCZnpBaFhOZGRfS1AwT0Z4TjRLSnZCNE9zaGg1aTVBLVRIWmg3N1Fod2FqbXVNQjNhRG11OVdka2YzalByVFQxNDNxS21wM0JGaXhoQmhMT2NHQV83Y3Q3dWhEdzJjdG00NnBaMzFGWHhoVWVISUw4ZTUwUzhiMDNDX3hmZU1ES1F6WTdVRnIwNXJkN05EZ0J2SXp2eFluaEZFc3R4SThrb1ZDaGppWHFsRkUxNkRtdVpZZ0JKUw?oc=5",
         "description": [],
-        "pub_date": "Mon, 05 Aug 2024 21:25:00 GMT",
-        "source_url": "https://www.theguardian.com",
-        "source_name": "The Guardian"
+        "pub_date": "Fri, 09 Aug 2024 06:34:00 GMT",
+        "source_url": "https://www.thisismoney.co.uk",
+        "source_name": "This is Money"
     }
 ]
