@@ -1,147 +1,67 @@
 [
     {
-        "title": "These four Alberta hotels got a major honour from Michelin Guide | News - Daily Hive",
+        "title": "Bell: Danielle Smith willing to send sheriffs back to Calgary streets - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVJVaGZDYndqSlpaY1cxZGl5RExLaHlrbzFfTWx4ZW5pNTQ3dFp3ZnBQTzRGclVTU2FLZlNuM0x5aFNEZHBVdTVCSXdFLUtrWUtuRlhtR0ktSDAwNVNoMzhYWUdZcmxkaC1LQmQ3dGRkcFJuOGJ2Wm1mV1JfTHlJc2ZsejVpdW1EZFRaYWl1bjE1Vlp2Qng4VlJJdUxvUQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 22:20:10 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "Power mostly restored after unplanned SE Calgary outage - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uMldRRG51TmtpVWhBdktrZEFQSnh0cDhWalhsQ3U4X0pKZHlFclZjcE5wUXJQbnFqRVBpZ244UDdRcGtCbmdmRnl0b293T2VQdVYzYmcySkNDa1k0LUg0TV9hQlkzVkY2MEJtM1ZxOHp6VG5HR216bVN3?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 16:07:30 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "Calgary grocery store staff begin using body-worn cameras as security concerns increase - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaktEbTdnOVBZTi1QV0Mzb1FWekFjRk43UExLQ2dEcnMtSEZUOTZzM3BwejF4TEVqLXhGMDlXNkdqSHNjZmw3X05ZclBYM0FPUjBPZm5lSlNvQlRneHJJMkpyZkdQWHNPb3lGSHdtV05temhDamZhR3YtMGxZcVkya1k1bnRhZW5DZUZscThGemNfMndKM0NERDBHcFY?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 14:04:03 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "Paul Gross returns to Calgary for onstage interview with Dave Kelly - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQi0wZzJfVlQzc1ppM3JrVW1OR1FKdmpzY3VBd2FZSmFhajBNUHNqU2p1eS1hTkZNbWxDazBTc180MGZZSFpra3Zwck90elZBZ3lvclN4Skt1ZzdIMnB6U0NLcU1nLUlNN0ZNdzFZTXZYRFNhUS1oLVhscy1QMzZodU1iU1hUSHFRYTROUUl4QkFWdXI1azQ2U3hZTlJXOVROd3FweUhKdw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 18:40:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "Loud vehicles could be ticketed under new Calgary noise bylaw - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PNVY4NXBkMjJoNnh5Nk5QdUpwVFhXVkNoWHlGanZEU0NveFY1LXVkVDFqOUR3WlpSUTFxQjZ2T2ViLTNtSlhCWDJkVzFxT0UyWUlqV3loVmVrazBHeEppU0hudnRKUWlOUU51dVlpTG9UZkhzcUE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 14:12:20 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "Dazzling outdoor light festival returns to Calgary this month - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2s4Njg0MmkxREVkV0dUU2JuSkgtT1JuWXVUazhRUkstdWNxX3FWQS1WWDRBZW1YNmdfczZ6TmJYdThJbEEtRHNtdnhZemI5LTU5T3lLb2Q1bWV4M1RPbmpUZWtvRld2MHByTUpmWFlRNlZGMzRZSnZKQU1PS2FBR29rMXR6aWRtQl9WYjE4UFVCNFR4cTlHVk85SzkxSFk?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 17:20:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "Calgary man sentenced for terrorism offences says he fell into 'horrific black hole' of radicalization - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQby12cGhxU0RaX1JjMTdpVWdCT2taSUJsXzNHSFZMeHE1QnpHX3lCY2JTWUtOb3VGV19Ea2pjUTN3Sk1EU0ZJQXdSOGpjTW1UMEFEY0J2UUJOX19CQ0piZFl2RERZY0x3dEpkRmJaT2tVN2JCR1Q5cFJ3S2F5MUFrYW9kaWh1YVlOUm16SnV1MUxWNzB3TW1rblZCd1BxY09oREpWVU5BR2FlUdIBR0FVX3lxTFBoTHdsRG5jaGZGOHdxSFlkQUhhSG9kakVwZmduZFBFZXlUVFdsNjNoRHJYeUpNaVYwSXM1RnpxTDJxR1RDWjY0?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 20:09:04 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "These four luxe Alberta hotels just got a major honour from Michelin Guide - Daily Hive",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OYjJKbmEzWHhvalVhNF9UdUVuTVhOakZUTlRvbTJLbWpNa2gxeC14d3duMlIwb3pTQnhHeFZqYnF3LTR4OVQ2eEpxMzNacjUzRTRqcnpMSWs0bm52X3h0M0d1d2lLUm1wam5TXzVES19qWHM0eXI4bnhn?oc=5",
         "description": [],
         "pub_date": "Thu, 12 Sep 2024 17:12:00 GMT",
         "source_url": "https://dailyhive.com",
         "source_name": "Daily Hive"
-    },
-    {
-        "title": "Calgary water main repairs to finish this weekend, restrictions to last 10 days - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWFyeGZpMGZicTJzTUo1YWs5OGFma0VDWWJsSzR4RHJJYnhPSFJDSmM4M3RXdTJuaUQ0d0d3aWxKdjFpNVo3cjVsSGRFcWZudVRiWGhDV2thdVVIQ1pjUW9uTkpsWm9sRVVtdHFtemMwMDBGQWF2WVd3MkppVzQ1SFJIWFFyS2NBTmhSUUFDWktodw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 20:14:28 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "Bell: Gondek's horrible year, a political descent with no end in sight - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMGJhSjJEZDl4Mllad1JpV0FNeF9rS2t2eHJ4X25udTFnV282ajZLbVotTndnb09LSEtaZlQxcjEtVTRMYXBJSzNONVI3MDZLdmRsTjJTeUVMODN3MUZtQnNkR0VXUGlXQjVNTk9FMkI4OHpUd3R2TEt6Y3FWd2UtekxnQ0dwdlpFeW13eVJVSWlBVUNjelU2NVR3?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 11:04:32 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "New Canadian student claims he was attacked by group of 10 - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoY2hDNXp3dXVjbUpabTVjX0RCM0RqZU5mVUQwU2F3RU9pWHRwV0RvUWhqY1lZanNXWGRBT2VWcEtUU0d2RzhYOVQwcTdpNjRRYUxfUlIxeXdpNFBJNmlPLWcyQlJjZ280TFNkdWNHMlJkeDJ6?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 15:12:58 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "'The hardest thing is to find a diagnosis': Calgary woman speaks out about neurological condition - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRDZHSFpfckdUbEx1QmU1am1ldlgtbzBvVUVqcWp6Y3pRVDRsSVl6eXB6MmtqWHJrSjY3cHRESlFhS0xRQ3NwRGN0Y2ZlTURzQy00U09HZ0p0b1lJNXZLaEwtS2Njb0pZd3dBVkdIT3lzQ0xVTUlxR3c3ZllKVEFEYWFQWmtMaThuVzJSWnRzQzJZdW9vUkhiX0pYYkI4V1JxTEhVSDQtSF9lSjV2aU9ESURHRlpJcGhDamVfVkZfVlhqdExteUJwaTkzTQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 21:14:00 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "How a city councilor plans to deal with social disorder in a northeast outdoor mall - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdm5xWW5LaWJlb000MVpQVTZ6aTNZYWRTOGFCZkhGaWhodDRlN1JuZkpkUDlsVjF2Y1JlVEtENUkxaUJkeDRzVmFLX1RCdkQxdEQzQXlaR2RkX3RzbzZFZjd6MXRKZHQ1V3pId09FVFd1NE5hOG9uU3VTbnZYWEgtOHNNZHZkWGVzTFI2bjFsX0ZWNWszd3NrNGU1MWnSAUdBVV95cUxOYmtUeEFjME5iMkNycXBoNmlwN1JKaElZMHEwVXJuS2ZyTGo1SGVmZHFnMzl1eWxOamdfams5REZQQkM2bURBTQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 19:40:21 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Calgary Transit bylaw changes aim to increase public safety - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWN0QWFtQWM4eEthVGluUU0xaDhIdG44bjRDR3M5NXZnUjJhR3RYV0NBN3RkS1IxMVRFS2lqWGpkaXlxd3c5YU1yWXJxZW9qLVFKdURUbHJhUy1Ca3pTOHNRajE4UFllNDFpeTF2TEJ3VUl3V3AxUWo5SzkxVnkwMVdFbWJnOUZlRVg2d0c0azZST3JabXBSamZ3R0I?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 17:37:00 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "Alberta premier wants Calgary Green Line to go ahead as first planned - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa2R2ZTdCYmU3Z1FWRlo3Z2lNNkc1WGNCVHlxWEFwaUdGNjVRVVNZaG5VNEZwT3RpYU1sZ0I2Mlp1OHY1Vm85czB1ZXVaRkpzZjh3RjdjSFp6TFF2Q1hocUctWHhnUzBMbExrUDBkUkQzSjZZUHhzajYwUm1OVTZ2WA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 12:20:51 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "Housing starts in Calgary on track to set new record - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSE56eDhhT3BJMzdic0wxSEZJanpDVmRXdENaM2FIOHk1Yk9zc09mSmdWRUNhN0d4TDNRZ3VXa0dzM1RUeEpHM21jNHFGSnZsN2ZwWDJjQTN3aS05MTc5MUlabE9xR2JLaVB4eThDRmxWY2NDVkdramFjanVyZVM2NndyV0VYeE9ZQldtbDZaRUMtbFE?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 19:36:19 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "A dazzling FREE night light festival is coming to Calgary this month - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1bXFmQXdFb3U4WURHVUpvWkwwMWs5S0g4MzNUeEJoTU1JRzlCVlAxQ04tSXlPS1UwSE96SEVkRnczYlRrRXV2a01nSzhnZG1KcndyLU9PZGVudFNzT0hmMGdUZDFuVm1sOUVNaUxWUmw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 18:12:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Grizzly bear attack survivor shares his story - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3F0eUlwbHl5ZF9FTGR4TW5IM1BsTE9kX0pib2RxVnVqd0E2UUZIc1NrbldiODBxVHU3T3VOcEFsY3V1aG5DeHRVMWxTSFI4OUlpSjNPWWYtczR5M2ttX0dKY1NQM1J5aGRscm1aOFVsSXRxS2JVWE9TVU9CUk1RdWN1NWd4SzhyX0tKdDYyVkRQaTjSAUdBVV95cUxQUWRyTGVlZkJOMDAwQzF2ZGJ0dDBjMjVkajFZVGptTGF4em9wdnV3SEgteEhkTU5fOTd6X2xfUjh1NzgxM2YtWQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 22:37:00 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Second-most expensive natural disaster: IBC - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmNoZlF6TDVVNWVUOUFuLXByajdfLXR0RGI4V1hjZ24xaWxNMjRJQUF6NThWVE5sYWxzWVZhdGM5am83aTFfMWdJWEVLNVAwd19VUG1hSjg2emRTVEVxUVR5Ny1IOXMtdzlsM2JoaTNycnZrV1lSMlFqUV80ZlRkZDRZM0h0UmVQS0g2WjdB?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 18:19:49 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "Request for Proposal: Calgary Region Transportation & Logistics Sector Study - Calgary Economic Development",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEtxekFqQVpEVjVsZlpwSWtTNjJtOU5VeEN2ZkltMFdwRUtZbjhJV29DZFNhWHhRd0JpbGlDNWh6NlJzYmRnYjMyOE44UVh3cHpNa0pDZ3ZIeXR3elFrYnVGU25sOHloRl9aLWRWa3VLc19MYmd2UXFJYi1ZZUZ1cDhucmtOa2UwQURnTlEyd0FCV2x0OGRzWkR1NU9HMVpYZlhBcVZLVFhwdWdTc3ZfaUtmU2NxRlYySUxJNFFyM0Y5QXFwZW95UVBn?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 16:37:44 GMT",
-        "source_url": "https://www.calgaryeconomicdevelopment.com",
-        "source_name": "Calgary Economic Development"
-    },
-    {
-        "title": "Warmer than usual fall predicted for Alberta, most of Canada following hot, dry summer - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeThLWTFhRHo3UGhzekJ1N1pDdXVwdWdsb3MyX2Y0SENFc21sd3R3M3VxZ3VKOG1FVV9fX3lYNmR6eURtd0ZxSWxYWm94VG10bWJudzkwZVdtYVRfdzhDQXpuTHVoNk1ETF9Ccy1XRUJvVWd0OXlqQUhlYU1JTExVV0NhOXZ4RlZPQWxvTg?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 20:34:03 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "\u2018Every single school\u2019 has capacity issues: Premier Smith - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTNoeEc3RkRqVktOV3ZicnpVSWNQdEFVWFJLbWVkb2Nrbkl6ci14MjF1NVNCblNJUnRRYmM2V0djcl9NT0kwbHZkNUNBdVpRblc5VzFyWEVWbllnbVkzbmoyOFdWa213WGtMUkFJZ2tNS2hEamdkUW5LWFBTVEVfLVhjeUt0RjRQaWJuYnkwMWFYSko2Zm1XcHQ4ZUc5Smlv?oc=5",
-        "description": [],
-        "pub_date": "Fri, 13 Sep 2024 01:20:47 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "Cougar that killed cat on acreage near Calgary no longer in the area: Fish and Wildlife - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjY5Z0w1RnVPa213ZFNFRUh2QVVjMDQzSDMzNjBsZlJLdlJ2bW5sQWgzb1UwSkZjZlo2aTRKdGRZMHdyWmU1SkVHU2ZRUE1JNWdsVGlPQlRqTk50cXUzRUFxbHRuWHRKWnZRS2lzQkZjU0dibjQ5TXlMS3ZveEV4ZnptamtCU1BSMGZzVXZLS3kxZnZIQVFoUTFuNndfcmwxcnVpaHVGRnlSbzVNRG1kX3UzazNrVjBjS0ZiMlNpSzY?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 19:16:23 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "Calgary's annual rental prices decrease \u2014 slightly \u2014 for first time in more than 3 years - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW5rM1d2aDFnLU9TZ0hYTGJSTUtKS1pKQXp5ZlNtODl0WWV1cVBWWDEwNFBkUHJzT1Zqc2QydkdwMUNCcnF5Tl91dmpqWm5QMXI2N011MFNLRGxyV1VxN0NMYTNTNXBDeTRyTHZMXzgzVWFHRWZzRlFsSGhaUGQzRzgxUdIBR0FVX3lxTE4zUEpiVS1kVmVwS2phRFR3M0UxUHlnMVFxOV9IZTJUeU0xTjcyR2Nqdmhaa0VMU3JwTTFsU3lZWXRFX1NoYXFR?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 18:00:00 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Vote for Your Favourite City of Calgary Park - Avenue Calgary",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDcxZWFVd2lFdm8zelktVEw1cFRBMmZENTRXaG9GUTR1cGVKNk5iYkxtUU5NQlBFXzRmWXdYUGxqS1RfUW9EWlZSSU5OYkdUQ0NwcklwRjc5VGluMk5sWE9EenEycE1YRjZDT3J4dG5RV0FDdk5xdllhbFZJTDlnR3FkQmljUURoLW9SaUNJcTJGQQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 14:24:27 GMT",
-        "source_url": "https://www.avenuecalgary.com",
-        "source_name": "Avenue Calgary"
     },
     {
         "title": "Police chiefs say Alberta's move to restrict photo radar will 'absolutely reduce safety' - Calgary Herald",
@@ -152,18 +72,298 @@
         "source_name": "Calgary Herald"
     },
     {
-        "title": "Some Calgarians living in RVs as they wait for affordable housing - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVU4SmF6VUxOWGdrZnFWclhOdE81Nk5JQjNOdVhxQldzU21PNlhFVU04QkNjZnRZRHFfUmVwd1BZNE5HaVRKNlplQ3R6cHBxQ0k1SS1DMU5EdVlCbzdpOFhjWmhDTHdsQ0xHWF8zd2ZHWVYxTVRfdV9yRWpVbkI1V2pZaDZkVnRPT09uZllseUlxbU5F?oc=5",
+        "title": "Pink Floyd \u2013 The Dark Side of the Moon 50th anniversary film 360 - To Do Canada",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXFKVU53SzdjMndjQno3SS1EU2pUbWdya2ZmZjRBN0FtNHpXQVQ4V1Y0VTFJUnVXeHRoZFJsLXBDNFVOZUROVFNwdnduYUlkWU02NFJhMmpXSFFZbG91TnpqdVFIOWV6ZlR2U0FXcjBWQUZSYzVtblREQ3BSaEduNTc5VnZWSzF5MUR1RW1abHlKWUxYclM3UFRiZGs3dlpFaXV0b0VTRnd6UjNv?oc=5",
         "description": [],
-        "pub_date": "Thu, 12 Sep 2024 01:47:00 GMT",
+        "pub_date": "Fri, 13 Sep 2024 06:30:44 GMT",
+        "source_url": "https://www.todocanada.ca",
+        "source_name": "To Do Canada"
+    },
+    {
+        "title": "Significant progress made on Calgary's water main repairs, city says - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0Mxd1o1dUJtRmRUelRwUmxNalNBWFN3Mjh0Q2J6TWxOYmFSMGExdHRpTTY3Sm53WmQ0NVVmRzEtWDZKX1AyaFYzakNXemZNN0VKTnhDWGhvQnByT2cxcjh2Y2d4SHFPUm1sLVlsU0JXUmFKNkYyTDhlSnFtVTlLYWpVSWJDM00tNlYyXzdTUWtuQml6MThJSzJTWXMxb291QjdadllZbw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 12:44:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "Former Calgary councillor's fraud trial back on track after defence consents to video testimony - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXZzOVVkOGpTTmY1SUg3Sk1jb3NlM2FnQ2M3Z3hiNkxKRUVXV3BhM04yZzQ5cHNLQ1gyMjNqc2E5cUVRTS1DM25fOEVQSUdBYXhSd3VGaE1WaGhWaWw0bUdKZnJQQk10QjFMSVR0WmZyRjNSNGhPYV9oV1A0TlVIUXNNWkM5R25lUU1HZ1l1NkdNeWx4U3ljcmZyUVg3MV9zbENSbExmWktLWjFsVWg1MdIBR0FVX3lxTE5UbmZaYzl5ZVQxcHRiaHhxWHp4SFdvWDM1UndoY3BkQTlnZlljbUxjVUlncV8zNHdiekFFYzk3UnpGS1U4UXVZ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 22:29:43 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Future of Calgary\u2019s Green Line remains unclear - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjJDekRxNUhTYnNWVGNKSlE5LXRUOERZdzZqS29VMkEydFNTc0kyZl9VRU4tRzZYZ1FRX3JIWklWQjRYRkZDWTBsejhlcDNSSVBJb0lRYnJoR216WDZxM05KQnRoZlhqNzJZZzdiSUlYODFKS2dzNWplMHNYeUNMNHlIWC00MkNPWkhFS0ZNazZ3a1pEVkE?oc=5",
+        "description": [],
+        "pub_date": "Sat, 14 Sep 2024 00:44:35 GMT",
         "source_url": "https://calgary.citynews.ca",
         "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "Kitchen dazzles in Trico's Oxford - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1cjRUelA5ZS1aU1htazlLd2tJODUtUEhmR3JIdEVncnk2cUFPcGxjaUVTR2dSczBrR0thdHNoOWZsVGI5czlLdHRXRi14ejJrS2NpQjVJc01SRzYwQjlEQ3lzS3dMYVNZYnBhTTByWnNOQ3o5?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 15:15:02 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "Calgary's annual rental prices decrease \u2014 slightly \u2014 for first time in more than 3 years - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW5rM1d2aDFnLU9TZ0hYTGJSTUtKS1pKQXp5ZlNtODl0WWV1cVBWWDEwNFBkUHJzT1Zqc2QydkdwMUNCcnF5Tl91dmpqWm5QMXI2N011MFNLRGxyV1VxN0NMYTNTNXBDeTRyTHZMXzgzVWFHRWZzRlFsSGhaUGQzRzgxUdIBR0FVX3lxTE4zUEpiVS1kVmVwS2phRFR3M0UxUHlnMVFxOV9IZTJUeU0xTjcyR2Nqdmhaa0VMU3JwTTFsU3lZWXRFX1NoYXFR?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 18:00:00 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "\"Wtf is this??\" People can't figure out what this mysterious glob on a Calgary windshield is - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzNXhuOXlhMl9MLUthY3MyM0czT19jLTNBUFEtUW5jX0RlN25XRmhNWUYzUDJmM25vUWpPRm9vZFN1RmdQaUFUNDBvMkZvcVJqX05hbWMtWUtRWVVUWlpmaDBPQkx0TVZ2ZjlVZ2c3bzVNZzA4MFhz?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 15:44:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Calgary police searching for 19-year-old missing from Ogden - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zR1pic3VNeUZRb2xHNUNLOXNENEJoN1NkaU9XRkhCTmxSbFF6WHh1WlpaRTJoZkM0aHU3SVpodEFEemZWUXBrYy1NMkFmWnJqbzFnQlgyWmQ4eGFaeFVtVzBXWTV5Ulc2WU0xRG5ISG1aMzla?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 12:24:43 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "Transit fine, enforcement changes endorsed - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjFlYmk2WFhlanRKNzgxRjdTWjlXenVmS1BHR3J1dWVvLVBxdUxsTGlpcnFNdTlST19VTkFXOFNMYkNld3ZubG1lWDJLMkQ1bHl3bEZSQzEwQ3hyMDkweGlLdHVHdU5pb2lDbjJ2RTZXVXZBSm8zaHVqeGZ6b2lDYnA0YWlPTUtMVy1QdA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 01:39:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "Opinion: Why Mayor Gondek is unpopular \u2014 even when right - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUVRREdXbk9odk95VUJnMTlXN0RmY3UwM0g2Z1JKYWdtMnNnTVNXVFdvODNycmVtQm1TVUJ4Zk5paldpSUpSWmtnQnRGSHRtNkZ5eFphcTBqcWtzTFNSYU9XNktLaGFfSHVhcmZrNlkyX0tLM1lOcXRPNjh4emlUWllud2Nmb2d5WXBYWFhtN292SzVqa1ZRRW93aTBfblU?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 12:03:43 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "Request for Proposal: Calgary Region Transportation & Logistics Sector Study - Calgary Economic Development",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEtxekFqQVpEVjVsZlpwSWtTNjJtOU5VeEN2ZkltMFdwRUtZbjhJV29DZFNhWHhRd0JpbGlDNWh6NlJzYmRnYjMyOE44UVh3cHpNa0pDZ3ZIeXR3elFrYnVGU25sOHloRl9aLWRWa3VLc19MYmd2UXFJYi1ZZUZ1cDhucmtOa2UwQURnTlEyd0FCV2x0OGRzWkR1NU9HMVpYZlhBcVZLVFhwdWdTc3ZfaUtmU2NxRlYySUxJNFFyM0Y5QXFwZW95UVBn?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 16:37:44 GMT",
+        "source_url": "https://www.calgaryeconomicdevelopment.com",
+        "source_name": "Calgary Economic Development"
+    },
+    {
+        "title": "Popular sandwich pop-up is set to open its first Calgary location this month | Dished - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxWU5nWDZ3VVR2Y0RJU25Ya2FNako0aDI1V2FPT1NDZGdUNWRhQTM4Z0dyRFQ4V3pJcjk1eHNlQ2w0bEE2dDBlNVEtcklDM3d4WGlXRU05aTB6RzlOYzh3cWUzSzY4aEFDYjhMd1FVWQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 22:36:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "\u2018It feels wrong\u2019: Calgary traffic sign spelling mistakes garner attention - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFFSZDdLR181Ump6OUNGdmNycUlYWHN5eVJTQkZCaGRibkxDVThZT29wdk9pUFdWVlB3Undua3Bhenp6ZmtFVTVsYW9yWUZvQlRfSHRUdW9WMDdfM3hyNGtSTUhjdkN6dVdISEgxS29qMTJHSHBrWnZ2WE94eWc4YjhSMGw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 01:09:21 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "Vote for Your Favourite City of Calgary Park - Avenue Calgary",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDcxZWFVd2lFdm8zelktVEw1cFRBMmZENTRXaG9GUTR1cGVKNk5iYkxtUU5NQlBFXzRmWXdYUGxqS1RfUW9EWlZSSU5OYkdUQ0NwcklwRjc5VGluMk5sWE9EenEycE1YRjZDT3J4dG5RV0FDdk5xdllhbFZJTDlnR3FkQmljUURoLW9SaUNJcTJGQQ?oc=5",
+        "description": [],
+        "pub_date": "Wed, 11 Sep 2024 14:24:27 GMT",
+        "source_url": "https://www.avenuecalgary.com",
+        "source_name": "Avenue Calgary"
+    },
+    {
+        "title": "'Huge demand' as studies begin for Alberta's inaugural class of physician assistants - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHBTc1plMmF1QTA5bzhPV3FpN1djcEZGQ3dkVkVuem9FelRLSEVkWnhzcU5aeHc0ZWg1ZmFCeFQ2bTNSUDdtb2taZm01Qkt3Mzd2dm82aDR2b3lwZWszbVhWNTNXWmhwVXFGX29Gb3pRWThpcEZkZzJOZG1rb2pSbUVWbzZDTFJSb2xxMXlHMUtiWFppZEdNYS14VEN5WUUwM0gySnBtbjI2YzdVNXlJT0xaWHo0TTQ5eWRzVGNLYm5EQlNid3dqTFlqTdIBR0FVX3lxTFBsa1JiSG9kd1F2N056d1JlV2hsakllajBsQ0RTU182WHI2OHE1VkNvdU1hNkszaHZwbG50anJZNnRDS09xTENj?oc=5",
+        "description": [],
+        "pub_date": "Wed, 11 Sep 2024 17:07:29 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Still windy in Calgary on Friday - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lOE0tRmNjTjhfSzdYSVRBbllXbUlvTFFMcmtnVEU1YklLU0lReFN3WnJUSWpnMHRtcVlqd01XRUFYM2tYemFoYm93bEQ2UjZvMW1IV1hLNUJYaEhVVnhmWG5SQWlXcnBueVFnVFA5bi1oY0dHVFRUeFdNMkxRS3M?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 17:55:53 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "Housing starts in Calgary on track to set new record - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSE56eDhhT3BJMzdic0wxSEZJanpDVmRXdENaM2FIOHk1Yk9zc09mSmdWRUNhN0d4TDNRZ3VXa0dzM1RUeEpHM21jNHFGSnZsN2ZwWDJjQTN3aS05MTc5MUlabE9xR2JLaVB4eThDRmxWY2NDVkdramFjanVyZVM2NndyV0VYeE9ZQldtbDZaRUMtbFE?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 19:36:19 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "Bougie on a budget: All the things we saw at Calgary's new Value Village Boutique - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0RwZkJ2Nk5hWnBCSjFlM2h6X0R5cjZZMVZuLUdDcG0zLVkwRnVaZk91SThMN2l3MnE3azVlTWpxdTJlRWhoeF8xVXdLeUkxMmYxV3UwcmhKandRU1VVRlZnNFpMcnZHNTk3SjU3UmY1MzI5SVZmUDN1bnpZM0J4OA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 21:43:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Chorney-Booth: Seasonality and Korean flavours bubble up at Sot - Vulcan Advocate",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0duTXUzb0FLWGZLTjk1dHNMQmZxaGdfV0JiWFNmTnE4MGpmLTVBUVk2UzJJRDZlWm4ydXR0MGxNVFA5QldxeXQ0eFBaRE5NNE84ZzQ0dnVUWERrenVQSTNOdXdNd2M4b1ZhZEZpUTRNT0dSLTNmd2prd3YtRUFRNFlRTnVtX2h1M0tpa3NvYi16YlhGcWh1V0F3OWFWLVk?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 20:14:09 GMT",
+        "source_url": "https://www.vulcanadvocate.com",
+        "source_name": "Vulcan Advocate"
+    },
+    {
+        "title": "Teen charged for setting fires in Riverbend: Calgary police - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXd3M3RSODZvSDF2Wk5seDNCSGUzSWRnRWhRWm5FV1ZUemprQXpIM2ZBQmYxNzUwRlV5RHQwMmJub1pibmlBa3VRT3o0S1ltV29MdHpZV1V6NmRnQk9oeUk1MWg4MlF6Y2xkRmw3enB2aFdXV0ZyVVQweExlcmdEdVRuTm9BZS12dXRj?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 23:27:24 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "As Calgary's Chinatown evolves, those who love it hope some things never change - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUxjZjBsbU1mbkhsRXVMZ1JLNzRDYi1HUFd2U0dlUDBPWDRiakg1MWNtZGlNcGRVQjYzcXd6dWI3WmVISVV4UTRlbzZHTjhaSXFTcXlRc0Y0U2pnVkItZlllVTlJdmRIT2VZVENfdktVZ2xzMVUxV1pKa2wzZ29HUTZOZlNXV3l4RTV0X25hMNIBR0FVX3lxTFBsNWdCb1YyR09hSzJzY1J1NnhZZXJGODhOc3JXczZZX1lIU05pUmFPWURFNmRqc3JxR1NMNXdWSS1QWmRIb2Vj?oc=5",
+        "description": [],
+        "pub_date": "Wed, 11 Sep 2024 11:00:00 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "FROSH 2024: Getting involved with research at the U of C - The Gauntlet",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1lYV2d6d2RBaGlLbmxtYUJWT0txVjVRaTRXNFFGbFQ3d3R6Q2dlRHFMX3NtNGNzMmNzRjd3RVc2WTEzeWFWMWhoVlQ1U0ZYRVgteTZCM1BsR05EVVVUSGI5SzV5VHQxMXRlQXdvb1lQc1RzSnh4TWkxRWVScWMtZ0hISE1jLVdQNXhaWTNqT3Fzb2ZQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 16:09:48 GMT",
+        "source_url": "https://thegauntlet.ca",
+        "source_name": "The Gauntlet"
+    },
+    {
+        "title": "Calgary feeder main repairs progressing ahead of schedule - DiscoverAirdrie.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVExZlZGUFducEFmdVpjM2FGSVJsa0VyNmc4d3JVUHFnb2V5b3hiRWs0LW9zUlFpTDF3LTEtX19ZZWdfd2tNVk9McVdlSENnU2hDY2dTaWV6VEJlWWhQVkhWY3dabUtTbTVseEtxeUJpR2ZmVHFGcHZqUVcxMHRtWFVHWG5DV1g1OEZoZnJwZzkwNTNBSWoxWi1B?oc=5",
+        "description": [],
+        "pub_date": "Wed, 11 Sep 2024 21:05:06 GMT",
+        "source_url": "https://discoverairdrie.com",
+        "source_name": "DiscoverAirdrie.com"
     },
     {
         "title": "Calgary doctor sanctioned for misconduct faces another hearing - CTV News Calgary",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm9mRGNOTFpJWmkwbkE5ckI0aVdnLWNDZ1ZkM0tWLXJqN25GRWFpN1A1QXMxOFhpVUpUTklUVWZ6elRIU1hjMmFqLXRROGs4dlQ5VkZCUFFDRDY2ZGlEemQ3QjBiMlVydDdSUWdlRFViTFNCOUlVS2JoWkNkbXRCV1JlXzFsU3JkTmJKQlFNRzA2Y0xJb0xhUm9wWjd2R1pU?oc=5",
         "description": [],
         "pub_date": "Thu, 12 Sep 2024 01:17:20 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "The $600K Question: What the Average Calgary Home Price Gets You Around the City - Avenue Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHB5QkppX0JPeGFiSnNhQXhVOVBMcUlfREh0VkdSVU1YUVFTblBSVko0dUgwdXhfcDFhTzQ1UFk1el9jVnFCNzdqRzhhTHR5VGcyU1V4SHUtVUMtVFhCNUdmTDA2TFNlbFdMOEMwaXh3eVp5XzdRLTZmRnB0Ylo5VkVGOWZITURTZGxvZ3l1V29QaGxwck5tNGtXMGt5WTk4THk5dDF0U1k?oc=5",
+        "description": [],
+        "pub_date": "Tue, 10 Sep 2024 20:37:34 GMT",
+        "source_url": "https://www.avenuecalgary.com",
+        "source_name": "Avenue Calgary"
+    },
+    {
+        "title": "Parker: Excitement grows for new Renfrew Educational Services school - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnFYcFFoWkM5UlpvR0kyQjVFaEZaa1ZqSlRlMzZWTDVySWxDQmtuRFVKa2tHQVV3QXdsSVY4VWZCRmp1RE9VeC1KSjhKaFJCX3MxcXdBY2hoa1E3aXJaN00tVUpDaFdyTHgyTmRSb3d4d09PU2VsNUtHVjdvd1p4cWhtN0hEWEprdi0wMEMwZ1ZIMy1zaVptYk1Semtra3RPTjlIVzRJYVY5d3hzeUJ6OVFNUQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 11:05:13 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "Popular Calgary dive bar is permanently closing its doors this weekend | Dished - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdWJka2Q5RlV6RHFsMUdsakt5OEx3YmVTMmNrZUJJV0pTcDZiaUZMVHA3Z3pWMGZMcTRSWHJteVFSR1hyYlE3VUlKaGR4TVJjS3h1a1Yzd3R1UEtUY1JMbmR1UmdVRE1kTW1tVw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 16:29:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "WestJet making progress on repairing planes damaged in Calgary hailstorm - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0FUOWNjbC1uTlczOTRwTjJqX2FxOWJ4ckM2b0hYUHR2eTBVS0pSRlI0d1VuQms0Q3MwdTJwMFZjLUZKM09kbG1zZXd4T3hDM200ZUg3Z21uc1FlcHBtZV84UGhTYjVoNGZtd2hnWU5CaWhGbVBmTm9RMEdrZjRXdkxOc2w0MTlyX3VfQkJzU1dsQzg5Wk5mcnYwc1JzVllYLWdWTEdYaHlIcG1QSzctRG5sTUlBU21RTnc?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 13:20:42 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "'A dangerous precedent': Lawyer for Calgary preacher appeals Coutts protest conviction - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaVBmb2NhanRqaWxTMnc2aEgyV19zeHpCMjFreE1USF9UcDhzYVFDREtOM0FCaldpU2dzVC1MUHZjSUtSb1VISXF0RzZDTDRET3dFRnN4SFZFRC1Lb1NKUXR4U29ZemxaV3RTcE5pZnhMQUtVaUFYV1RyR1dkTmZ5eTNRZm5CN1Fwc2llWDU0cEdFb2ZFXzE5bHl1OFprOGRmVFpnellPWk1mQmfSAUdBVV95cUxQcHZRbl9iWGwwcE9TeWxESV9fZjlIODRJZ3JkdnNnb3pmTWJQbmtMbXg4RXQyUFNLNEtYNTV3b0hKdEpvbHpOZw?oc=5",
+        "description": [],
+        "pub_date": "Tue, 10 Sep 2024 22:28:50 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Campus-wide EDIA survey poised to launch, offering unique opportunity for direct input into overall strategy - University of Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3RoSEFfTHJfbUttTlc3MnAwSEhXOWo4MHNaSUdlTmxmSUIyRC02SVEzQ2hTR0lqczNIdHBGclR3T3VYRlhfZW04WlQybS1QdUNXT3B1cF9CV1VrQ3AzUVhiOUpHZ0I1WEMwS0QtRHpWQ1lleDFXT2tBbS04X0dsaGJCSkUxSjcxV2ZIWWhsdmFiRkpGcVNLU1dMdlhtalJFY085N0c4QkVxNW5MV0hJQU5meW9DSlpISFQwZFNreFA0QQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 10:35:45 GMT",
+        "source_url": "https://www.ucalgary.ca",
+        "source_name": "University of Calgary"
+    },
+    {
+        "title": "Letters, Sept. 9, 2024: 'I recently visited Calgary\u2019s downtown and was absolutely horrified' - Calgary Sun",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclNMM1IwcWF6Y0ZvT2pqMnZSTDVEemYxdkRyUjY3SFI1aHdyYUd6eFdUS0VVZHAtY1F0OFMxUl9qTTMwZ054QTRxdHJMWW1INDRmcGlGb1NoeWozZ1QwSmw1dThNeFFzTkZ2VjI4ZEcyd016ekJEc0VkdkhzM2RoNFMwVElzbzY0SFd2VERCMUg0bnY0UXF5SkNrUGpYNHk5ZWRzSkhpcF90T3QwRVR4QkdkaFp0Tlk?oc=5",
+        "description": [],
+        "pub_date": "Mon, 09 Sep 2024 11:07:50 GMT",
+        "source_url": "https://calgarysun.com",
+        "source_name": "Calgary Sun"
+    },
+    {
+        "title": "Calgary band working toward a dream - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVVxaTVzd2RtY1lYRzg3VndqWDgtcWhPWHJmSWY1N09zU0hrZ1VYbHlURm1jYkl0MGxDVHdxZG9kNW1BTmZYaFl2RXJfX2NySm00cTEwbmZicWlVdGRpYkZCVUdTUjc4S0xoWjV0MXQyS2R5YmgxaVhnX1JRdEJSZFZvMA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 03:51:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "WWE wrestler Sami Zayn wore Gaudreau jersey at Calgary event - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzhMR01JbnpIX1A0ckFldUtGdElrRlFmSUw1cWxCQ1c3SEZ0NXliRHJibjhuSTVsOUVjV0k3OWxDSDNhNENDOGE3bG1TVVFvdDVrYzlZUWcwT0lIdXNQUXZIcjNDY1VBeDNONWxJdE1GSUEtck9UQlFrMzJaei1Jd09icVF4S1d5b2w3RVRn?oc=5",
+        "description": [],
+        "pub_date": "Wed, 11 Sep 2024 06:01:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
+    },
+    {
+        "title": "Top 7 Over 70 expands into southeastern Alberta - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlNRTWFieWRIN25jTW10eUFOc0puVFJYV3dvMy1TWG1xR004bTdYUl9RWG9HcC1Ta0dmQnpQQzZNRi1sSEZPMkpHXzFHUHcydkY5Mk1ZeERTd2ZYTnVpSV9YLWRXcWtpREpRZjdjb3NYX2xCbUE5QnpFaHBobnhfRDF6eTlYcW0xLUc0MDR6TmxCV3c?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 17:49:08 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "How Calgarians feel amid Air Canada\u2019s potential work stoppage - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWS1rVkZ0VE92YXBtRWpiS0Y1QllVOU44RlJHbnNOZmhlV3ZRTkdNQm1WT1BVRnFpX2gyZ2FQcHZNZ1JLdWcyZjlzaUl4LVRhaXh4a0hJUzJmaTRiV1IzUzdFUzJxbFhBUWRPSmVuN2tYMUZxMmw0VWd2bDMzcVhYazh2V0dSa19DSDBHVDVCQ3YxUXplcG9rbUlXbmQwajJiZ1JrMUVuQ0hoQQ?oc=5",
+        "description": [],
+        "pub_date": "Sat, 14 Sep 2024 00:38:47 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "New testing aims to catch kids 'faking' their reading skills and actually get help - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ2tyWk9leHJ6d25KaWtyVE9MdlFZcDYzTVY5OGVrb18xTFppcktnNGF0NHhXUmZhZ0xWdTdTc0ZleDZGRGlnSmRRdTJERG9BVWdROHFDVmNJUmtKLXplT2ExYTdMMjFfNzBsemEwc3hTYzMxdUM0aG5SbHVpMDk3ZmlLZDRsLTYxRnfSAUdBVV95cUxNaFpoSTlkNzdHdXRwaEl1cFhBV2ZUSVRaVV84U1Jub1lUallBNFlsZEZZQzZ6VzE4dEN3d2o4QVo0em4zd1FqQQ?oc=5",
+        "description": [],
+        "pub_date": "Tue, 10 Sep 2024 13:17:09 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Police seeking suspects in July Evanston shooting - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm5hVzZ4Q1FncDlCWWplWFBJQ2tObHhRZE1IamRfUURLZ3JoTG1DSXpEdExyUEdSQ1lxdHJ4dzRqRnFQZ3dFTkJ4TFBwVFB2UEJnN2Vvbm5zRVNzWGdRSFdKWXZoZUw2YmQ3QnlXOHNTS0Vsb3pIaTJrekRoWjhxcmI1VlJEdW9IeVc1ekszdw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 16:39:13 GMT",
         "source_url": "https://calgary.ctvnews.ca",
         "source_name": "CTV News Calgary"
     },
@@ -176,76 +376,36 @@
         "source_name": "Daily Hive"
     },
     {
-        "title": "PETRONAS Canada Fuels Support for Conservation - Calgary Zoo",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2pwVXJvN3lHbzZqTjFzUEJUWXNmcm9MMFB5eDZFbGF6a0E2SHFEOERWUjZQQVYzLTVKemJxdEJaaE1HbHNfWnlMNEJKUGpYT2VpZG9xN2hnV1JpTUxkQ1M0LUl2Wkd2TW1UWHpDY2RTdjFvbkZfZG5JTGVEUkF3WDVNMHczUQ?oc=5",
+        "title": "Cougar that killed Calgary-area family's cat has left area, say wildlife officers - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUIwY0tMSlEtbkxLdkpRRjNybHlkV09OYS1EdGwwTS1JcThuWGw0ZXFXRlptQjN0dkhZdkNYZVJFcmNVeFJtVFk1TWx3WGtzZkI2ZUQzNDhQcEFUWW5HMkYxNEtsTzJpZnNBRC1nRUtqNUZuX0l5dVZrdVhBbEg0bTBZMDNTWlNTZ0RJbzc1SU9wMjlra2J2WUNn?oc=5",
         "description": [],
-        "pub_date": "Wed, 11 Sep 2024 14:02:53 GMT",
-        "source_url": "https://www.calgaryzoo.com",
-        "source_name": "Calgary Zoo"
-    },
-    {
-        "title": "'One more tool in the tool belt': Committee endorses changes to limit excessive noise from vehicles - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1dwUHBEN3NuWG5mSF9SUW5PZDdZSVdmSGNBR0V4V3FDUXp6RnpOa0hqb01ROFpBT2JrQUNSVTNBRkg3OGNBVHQyaWQ3MkJjZ2hoRURhcjlDMF9LX25rWGZIdGhxdjJITUU3LUUzNHptUzQ1ek5IUGVsaTl6VjlkRC1qb2JxVV9iX1B5eVd0bGtwU2tYRl9DeGRPT1Z0RUNU?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 21:27:31 GMT",
+        "pub_date": "Thu, 12 Sep 2024 22:57:56 GMT",
         "source_url": "https://calgaryherald.com",
         "source_name": "Calgary Herald"
     },
     {
-        "title": "As Calgary's Chinatown evolves, those who love it hope some things never change - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUxjZjBsbU1mbkhsRXVMZ1JLNzRDYi1HUFd2U0dlUDBPWDRiakg1MWNtZGlNcGRVQjYzcXd6dWI3WmVISVV4UTRlbzZHTjhaSXFTcXlRc0Y0U2pnVkItZlllVTlJdmRIT2VZVENfdktVZ2xzMVUxV1pKa2wzZ29HUTZOZlNXV3l4RTV0X25hMNIBR0FVX3lxTFBsNWdCb1YyR09hSzJzY1J1NnhZZXJGODhOc3JXczZZX1lIU05pUmFPWURFNmRqc3JxR1NMNXdWSS1QWmRIb2Vj?oc=5",
+        "title": "Smith says \u2018every single school\u2019 in Alberta has capacity issues while hinting at new plan - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEVheTAyWWdwaUo4VWNYd0pYVDF4akExX2NuNF9kNVJoZXVWanRHOWk0S0I0RW5ETWFQaEhoUXY4S1VPZVZ1U1U5VVZuVmVpN2pqT1FCUndRcy12N2tQOFNJc0VhLXdLcnkzdWt4eTAtZ0p1RVIzSGhSdmFESmNWTDZLSUQtUXF0LXBRa0NKdjRhbWpVdk9reGxn?oc=5",
         "description": [],
-        "pub_date": "Wed, 11 Sep 2024 11:00:00 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Flying with Air Canada next week? What you need to know about rebookings and refunds - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUJaX0FsdXVrVC1jVVhkMWhtMDJMUTR6U21BWHVBd3FxdnlqX1Vxc0dBdzVEUkw0T3RPRjhVeklUU3E1Y0xqdkl0RXF3bjZ6Q2dvTlRMemRWX1hHS0preFUwUGtla1c1T2NzNUpkMEJPdzB0NkpfVWJHV0hsSklXdUVwWkFFaUV3SjZnTXhKVjlmdGphR1hWdnZoX3ZHTXUycGNMdVI2MFpkQkd0Vi03cWpMQ2Qwd3Q0MW9Xbm4tSjU?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 09:22:05 GMT",
+        "pub_date": "Thu, 12 Sep 2024 22:36:55 GMT",
         "source_url": "https://calgary.citynews.ca",
         "source_name": "CityNews Calgary"
     },
     {
-        "title": "All the things we saw at Calgary's new Value Village Boutique | Curated - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0RwZkJ2Nk5hWnBCSjFlM2h6X0R5cjZZMVZuLUdDcG0zLVkwRnVaZk91SThMN2l3MnE3azVlTWpxdTJlRWhoeF8xVXdLeUkxMmYxV3UwcmhKandRU1VVRlZnNFpMcnZHNTk3SjU3UmY1MzI5SVZmUDN1bnpZM0J4OA?oc=5",
+        "title": "Grizzly bear attack survivor shares his story - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3F0eUlwbHl5ZF9FTGR4TW5IM1BsTE9kX0pib2RxVnVqd0E2UUZIc1NrbldiODBxVHU3T3VOcEFsY3V1aG5DeHRVMWxTSFI4OUlpSjNPWWYtczR5M2ttX0dKY1NQM1J5aGRscm1aOFVsSXRxS2JVWE9TVU9CUk1RdWN1NWd4SzhyX0tKdDYyVkRQaTjSAUdBVV95cUxQUWRyTGVlZkJOMDAwQzF2ZGJ0dDBjMjVkajFZVGptTGF4em9wdnV3SEgteEhkTU5fOTd6X2xfUjh1NzgxM2YtWQ?oc=5",
         "description": [],
-        "pub_date": "Thu, 12 Sep 2024 21:43:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "The $600K Question: What the Average Calgary Home Price Gets You Around the City - Avenue Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHB5QkppX0JPeGFiSnNhQXhVOVBMcUlfREh0VkdSVU1YUVFTblBSVko0dUgwdXhfcDFhTzQ1UFk1el9jVnFCNzdqRzhhTHR5VGcyU1V4SHUtVUMtVFhCNUdmTDA2TFNlbFdMOEMwaXh3eVp5XzdRLTZmRnB0Ylo5VkVGOWZITURTZGxvZ3l1V29QaGxwck5tNGtXMGt5WTk4THk5dDF0U1k?oc=5",
-        "description": [],
-        "pub_date": "Tue, 10 Sep 2024 20:37:34 GMT",
-        "source_url": "https://www.avenuecalgary.com",
-        "source_name": "Avenue Calgary"
-    },
-    {
-        "title": "New name added to Calgary's list of fallen firefighters at 2024 memorial service - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDdmR0tvN1VNOUdLRGd4TlhrdVpCb0RFcklLZWx2Qml1OXVEdEVvRGNxYVlYNENUSGxSdVh6elU5ZmcxSk53S2lPOWEzWUdKOGZTV2hvN3dwSEJtaG9RWDJPam1UVUFzUC1aaE1XRXFkWjJMTmRnSVBzRUQ3ZHRCZTdsTWZsaGNuUVdZTndXSVVUTktUT0Ewa0VKN2VjT0NSSmtwQklHUkxBQXdDdEdiNkM5S3d0SEhp?oc=5",
-        "description": [],
-        "pub_date": "Tue, 10 Sep 2024 19:17:00 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "Top 7 Over 70 expands into southeastern Alberta - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlNRTWFieWRIN25jTW10eUFOc0puVFJYV3dvMy1TWG1xR004bTdYUl9RWG9HcC1Ta0dmQnpQQzZNRi1sSEZPMkpHXzFHUHcydkY5Mk1ZeERTd2ZYTnVpSV9YLWRXcWtpREpRZjdjb3NYX2xCbUE5QnpFaHBobnhfRDF6eTlYcW0xLUc0MDR6TmxCV3c?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 17:49:08 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "New testing aims to catch kids 'faking' their reading skills and actually get help - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ2tyWk9leHJ6d25KaWtyVE9MdlFZcDYzTVY5OGVrb18xTFppcktnNGF0NHhXUmZhZ0xWdTdTc0ZleDZGRGlnSmRRdTJERG9BVWdROHFDVmNJUmtKLXplT2ExYTdMMjFfNzBsemEwc3hTYzMxdUM0aG5SbHVpMDk3ZmlLZDRsLTYxRnfSAUdBVV95cUxNaFpoSTlkNzdHdXRwaEl1cFhBV2ZUSVRaVV84U1Jub1lUallBNFlsZEZZQzZ6VzE4dEN3d2o4QVo0em4zd1FqQQ?oc=5",
-        "description": [],
-        "pub_date": "Tue, 10 Sep 2024 13:17:09 GMT",
+        "pub_date": "Wed, 11 Sep 2024 22:37:00 GMT",
         "source_url": "https://www.cbc.ca",
         "source_name": "CBC.ca"
+    },
+    {
+        "title": "Calgarian pens play about party girl who wakes up blind, based on true events - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXZfbU5LSHZpV1lOc2F5eVdrR3hfNURqaTNiR204ZjRDdkp0ZU81ZFREX1M1SnJCMldXN2NJQUtrMWtJc0huVDk1dDBjVjhrS3ZzZEllYmoxZDBWdV9ZdDNEcmFBSFNQaHh4azZRdTgweUJDTE5hMDhWaV8zYk8tZXVoWmFNWWoxX25MMUhvWnFvazFUQWx5VWc1cDBSQVpBd2ZmY2wtX3hQY0dveWhTejJwZw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 20:54:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
     },
     {
         "title": "New gluten-free Vietnamese restaurant opens in Calgary | Dished - Daily Hive",
@@ -256,98 +416,114 @@
         "source_name": "Daily Hive"
     },
     {
-        "title": "Harris and Trump pause hostilities on 9/11 anniversary - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0tpY1RFTm5UbVF2WTNhd09lM0h6U3UxOWtueFZINE91OUhtQzN6XzJsRTE1OWRUWlZsd1Jvd1JweHhpcDM3a2NmNC01WW5rbk8xZW5yVGVLbU1MN1RYRU5jLVV4NnJjSkhrSEZvUzdYdmJ2STNnTjBpWm9kdF9ocnU3c1ZkTWNYSVlfY2E3eENVSk8ybWFuOFZCcUlEQVlhZXc?oc=5",
+        "title": "'We remember their stories': Calgary ceremony honours city's fallen firefighters - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUp6Y0g0SU5IaHZfWXk3b3JXUWhyUktTWXhyODFuM3d4eTRNWWFfY3FYcGNORU1hWHRBeDRNb3k3OVJvZ1JnTWVPSXFjLTl3czdLS3J2MDNXRmtYYTl4N2t6QXJTck8xenhFanU0MlRObHhqcVB2dDNMT0Q3YmJGMmIzNFlwb01IeVpEaVVRbmhxZ0x5Q2FOV25XTQ?oc=5",
         "description": [],
-        "pub_date": "Wed, 11 Sep 2024 21:23:05 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "FROSH 2024: Getting involved with research at the U of C - The Gauntlet",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1lYV2d6d2RBaGlLbmxtYUJWT0txVjVRaTRXNFFGbFQ3d3R6Q2dlRHFMX3NtNGNzMmNzRjd3RVc2WTEzeWFWMWhoVlQ1U0ZYRVgteTZCM1BsR05EVVVUSGI5SzV5VHQxMXRlQXdvb1lQc1RzSnh4TWkxRWVScWMtZ0hISE1jLVdQNXhaWTNqT3Fzb2ZQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 16:09:48 GMT",
-        "source_url": "https://thegauntlet.ca",
-        "source_name": "The Gauntlet"
-    },
-    {
-        "title": "Letters, Sept. 9, 2024: 'I recently visited Calgary\u2019s downtown and was absolutely horrified' - Calgary Sun",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclNMM1IwcWF6Y0ZvT2pqMnZSTDVEemYxdkRyUjY3SFI1aHdyYUd6eFdUS0VVZHAtY1F0OFMxUl9qTTMwZ054QTRxdHJMWW1INDRmcGlGb1NoeWozZ1QwSmw1dThNeFFzTkZ2VjI4ZEcyd016ekJEc0VkdkhzM2RoNFMwVElzbzY0SFd2VERCMUg0bnY0UXF5SkNrUGpYNHk5ZWRzSkhpcF90T3QwRVR4QkdkaFp0Tlk?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 11:07:50 GMT",
-        "source_url": "https://calgarysun.com",
-        "source_name": "Calgary Sun"
-    },
-    {
-        "title": "It\u2019s a Beautiful Day in the New Neighborhood - Avenue Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNam1tT1gxT3lOcHhxN21nMkVaSW5jeW9SX05HZ0wzaTBVdThMckVGbXJnZUV3VjczYXZzV1JZRjc4NEpsUDh6cC1ibE5KZmFPcXRKSkZOQWZXQ2ZxX3B5b3RFTTdaZ055T1ZrU2dKbjRSUVdTMzFSa1R6T0oteVdSMlVJWWVMQmFyTzZrdFhscFpKdFFQWk5PN2hhQzhtQzhxeHAzcTQ3M0YwZw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 19:08:17 GMT",
-        "source_url": "https://www.avenuecalgary.com",
-        "source_name": "Avenue Calgary"
-    },
-    {
-        "title": "Two wildfires extinguished in Calgary Forest Area - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZzelNKSzhsNWNlWGoxMUtfczN5Q0dTU0NQWVBWVXdvUVJhNmx5Z1JzUVUyeGlsR2c0d3AzenlWRHNxb1ZFS3haaW9ZbzF3dFJIZGZjTEdWTGV5UjRjazM1Yzd4OGtoTG1Db1lNcF83dVRjamFLQ0lZenRYcFFheVZHaVRsNDF3aVlvWjVmOA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 17:28:00 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "Lawyers argue preacher Artur Pawlowski should not have been convicted of inciting Coutts protesters - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdnhGSnRxelZ6ZFgxVHVSeEdEOEYxMFdqYk1Hdm1wSi0yc1dUaWZFNEE3ZjFCcE84Z2E0UGpZSGt4LU9kN1pHWXpqSVRkcHp0ZFc2NXkwOFF2dmVxb0xRdWg0NzdUSWhwMjVLYXdtMFN4SHM1X2w0d0J3VFZiUHRYUnNULThfeFRmanUxRXVSakJuYmpPUDcxRDZFUUJyTG45ck9kNi1SYUIyMmt5U0xfREhtSC12Zmd3dTVESFpwYTBzUTlNTEtpVGNQNkpGM3hWcFE?oc=5",
-        "description": [],
-        "pub_date": "Tue, 10 Sep 2024 20:57:20 GMT",
+        "pub_date": "Tue, 10 Sep 2024 22:50:04 GMT",
         "source_url": "https://calgaryherald.com",
         "source_name": "Calgary Herald"
     },
     {
-        "title": "'Huge demand' as studies begin for Alberta's inaugural class of physician assistants - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHBTc1plMmF1QTA5bzhPV3FpN1djcEZGQ3dkVkVuem9FelRLSEVkWnhzcU5aeHc0ZWg1ZmFCeFQ2bTNSUDdtb2taZm01Qkt3Mzd2dm82aDR2b3lwZWszbVhWNTNXWmhwVXFGX29Gb3pRWThpcEZkZzJOZG1rb2pSbUVWbzZDTFJSb2xxMXlHMUtiWFppZEdNYS14VEN5WUUwM0gySnBtbjI2YzdVNXlJT0xaWHo0TTQ5eWRzVGNLYm5EQlNid3dqTFlqTdIBR0FVX3lxTFBsa1JiSG9kd1F2N056d1JlV2hsakllajBsQ0RTU182WHI2OHE1VkNvdU1hNkszaHZwbG50anJZNnRDS09xTENj?oc=5",
+        "title": "Roadside fire east of Calgary leads to discovery of body - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1hmc3lqRnJXSU5yNWxBb1MzM0tELXdIRHJzejdFLU1yUXBzNjUtS2JvZm5DellEV1hnOEg2cjNjLUFfQ2ZNTGlpS3BlOUtwOVFoUEhhSXROYW1td3R3aXY2YUQ2eThyT3JmSkItZnRNalR5ZERZYXphVmlwN19DSmpQNlVFc1lWU3F1amxCQTY2M2M1R3E4RjZ4UU5sVGxsNUgzUQ?oc=5",
         "description": [],
-        "pub_date": "Wed, 11 Sep 2024 17:12:37 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Popular Calgary brunch spot is opening a new location this week | Dished - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FWmpFR0FkYXFuT2lZZ3ZBVGUtVWFXY3BoSDRjNk1Da05IcEszek5aUHNBMFlTaGVWT0Jyd3paVjl3NHM1YW1OMFV5c0E3MVRkNGVqTkNvTGN6dXdHWHlHYjgtY0w1QWFMTHZic0tRc1dlblhabWdTM3k4LVY?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 21:48:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "FROSH 2024: Beginner\u2019s Guide to exploring University District and Calgary - The Gauntlet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnBZanVLd3JFNHRIRG1oWHpxUmtRa3psYjRkNUtRLXlDd1lfa0VJNHA2eFR6RFROdmc5ek5MZDZpRU1vNnVJcDE4eHhrREFSZHE0NTk5c3J2M0lkYWhlQ3I3dGU2ejZodmd5NjhnOENCSTJVcHFQREgyZ2ZhcHhCWFRscWFVUVpLUVRjMVhhQ3NITkFNb1lkNU5YWW9GWnZOQjJQQmlqYTIxQQ?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 15:56:54 GMT",
-        "source_url": "https://thegauntlet.ca",
-        "source_name": "The Gauntlet"
-    },
-    {
-        "title": "Major upgrades underway to Calgary rec centre - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWJxTGh2YUxnaTlmaGRtY1ZuZWxLbjVQeG1lY2M3VzJGRkYtMWZ4RTl0UnhyTHJXbXFGWnV0Zy1QLUlVT3NaVDVKUS1jZjJadmQ4d0R1aWtzTV9Bbzlha2wxWkNkcXhnLVZOMWRCdTVNaDdQVjVoRkM0V3gxajVaZmtfQjctdVVTcS11eFJjUW42WERUYkE?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 11:51:30 GMT",
+        "pub_date": "Fri, 13 Sep 2024 10:35:55 GMT",
         "source_url": "https://calgary.citynews.ca",
         "source_name": "CityNews Calgary"
     },
     {
-        "title": "RWB School Professional Division Audition - To Do Canada",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNUt1bmgxZWxHcEU2bENXa2pZRXZ6Y3NndllVUmhqR0RsWXh3bHozcDYyZ05WeWJUZ0RnWWVnalJZSmU1c010MHFjc1dVU0wyZTRlUHk1RnpyVkZ1eURRNWRVeTNqNTJOaTBKNGd6NGJ5WWc1eEVmV3lrc1RKTEdXbTY3ckdVeENyMVpGZ0lVVHg?oc=5",
+        "title": "Calgary \u201c2L Soda Dad\u201d will return for Halloween but help is needed | News - Daily Hive",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwZTFYOU9QdDhoaTB4Rk1nWjhmVkxSMXhNV3ZQRW9oSlZ6NTZ6Qko3ZFRHWmxNN0RhSmhPRXpUbkhIZ3h0UGVYMDdIcHp3djVxbzVaVXJHRm1zQkFwVUJ5MjV0U2tScFBPcUY3S3IzYl9jTVJC?oc=5",
         "description": [],
-        "pub_date": "Wed, 11 Sep 2024 04:04:06 GMT",
-        "source_url": "https://www.todocanada.ca",
-        "source_name": "To Do Canada"
+        "pub_date": "Fri, 13 Sep 2024 19:41:00 GMT",
+        "source_url": "https://dailyhive.com",
+        "source_name": "Daily Hive"
     },
     {
-        "title": "10 things to do in Calgary this weekend (Sept. 13 - 15) - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1BuR3lGQ1EydzJmN0tSaFJ1cnJwSkFtckRqcThmYVNHdEFYZ2xuVzUtR1lJOUpxbU96WHBpZGNGLS1CNzhkR21MbTFIMFRuNlBCLWQ1cTR0ZTk5dHVJbDZUMVVVY1Zwc0RKeEoyQmJXTEhKeTZnZDBpbUxWWDRHQ1JZMkFISWFBOTN5UlNSVTE?oc=5",
+        "title": "Willow helps Calgary Fire Department investigate suspicious blazes as city's arson dog - CBC.ca",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yc1RSNkdHMk8xanFzSUg3eUU2VmYzdUQ1aElwUUx6Y0tYVUUzend4aUZ5VjhTaWIzTmtRcmlaM1BGQUdSYzBBemxEUjF3aVVIMl9FZk5PT3NJOHFuUmxDcnEzSEJ1RlpQRFB0dC0tb2lJRTJQaDhwaUdNTFPSAUdBVV95cUxPWkljZEh2MGlxd1VKcERVRndnSkZrRHpCc2NuZWJfbHhxQXZWOFJMNXBjbU1zVlV5cVZ1dlBwMENESmNhNEZsZw?oc=5",
         "description": [],
-        "pub_date": "Thu, 12 Sep 2024 14:30:59 GMT",
+        "pub_date": "Wed, 11 Sep 2024 11:00:00 GMT",
+        "source_url": "https://www.cbc.ca",
+        "source_name": "CBC.ca"
+    },
+    {
+        "title": "Heritage Park embraces truly scary history - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUFIS1VkQWxGZTJqam8waWt3dWRZN05DeGdWZzU3ejFzblRDVm1pd2JUSjRtek83bEx5c2R4MGhjYm5mVVNNeUg1WGtveVg2OFBGVHBKYUM5UjFMWnMza2g3ajYzM3dkVDRVY3NlMklMeWJGdWNNSWZScVc2MUU3V2tHMExXY20yb2lKSg?oc=5",
+        "description": [],
+        "pub_date": "Sat, 14 Sep 2024 01:17:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "Warmer than usual fall predicted for Alberta, most of Canada following hot, dry summer - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeThLWTFhRHo3UGhzekJ1N1pDdXVwdWdsb3MyX2Y0SENFc21sd3R3M3VxZ3VKOG1FVV9fX3lYNmR6eURtd0ZxSWxYWm94VG10bWJudzkwZVdtYVRfdzhDQXpuTHVoNk1ETF9Ccy1XRUJvVWd0OXlqQUhlYU1JTExVV0NhOXZ4RlZPQWxvTg?oc=5",
+        "description": [],
+        "pub_date": "Wed, 11 Sep 2024 20:34:03 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "New Canadian student claims he was attacked by group of 10 - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoY2hDNXp3dXVjbUpabTVjX0RCM0RqZU5mVUQwU2F3RU9pWHRwV0RvUWhqY1lZanNXWGRBT2VWcEtUU0d2RzhYOVQwcTdpNjRRYUxfUlIxeXdpNFBJNmlPLWcyQlJjZ280TFNkdWNHMlJkeDJ6?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 15:12:58 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "Calgary hiker hospitalized following Friday morning bear attack in Crowsnest area - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3dDVzJlek5SbGlKQkRnbWpVNURrRnphbEsxSjRJek56M3IzOURMeFEyam9GWnh2XzBpUmlSLUc3Ny02Z3VfVFFTRkptU3pDbWlJV1JwSmw0NWhUTWMwLW1JcDJZOXlCeDkxQU45OUJoaXdDaDc5STlTNDNzS2VaT3RFeEtwaXliY1hXYUk2dVUyM0RJSWR4eEU4QmM5anZiaDJwem85eWRQQWJVRV9FWWVwVzNfeXlwQXc?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 23:59:23 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "University of Calgary commits to addiction recovery efforts on campus - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTm5BZmtYc0EtMzRTRUw0WTlPNllnaWlrakkzTTNjZEpvODh1Nm42WGJXNWZJWW1YS3RtbW83ZXFweTJUNjJCZ2ViOVdxTVQ4QTRkVXU5TGc3Qm9RRHJkb0NuMXpESUp1end6aGlhUWlJMXRJaWxjVW9ESnZzakIxUnRmbVBnVmwwcGdSRHZZNlFTb2tsMGVtUnJ0a1Y?oc=5",
+        "description": [],
+        "pub_date": "Tue, 10 Sep 2024 20:15:35 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "Carbon tax debate \"like fighting about deck chairs on the Titanic\" - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEFKMkpEeXVLTGt0YmZpa1otQm4wTzFBaHFZVDcwZk05Q2x6VXJWalBJTS1pNlBaSG5LSkVQZjdjN180cXpDeE9panhLQldYUGtzeGxWeFVGOGxuZVIxLW04blpibEZaaTVvNnhiZ25GWHlrNG50RklBV3B6bkl1WW1kV3JCcmswb0VFZUliREkwdlZxT1QwVS1MYXA5aXJtaDhiMFgzSG1Fd0JUZk1F?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 21:13:25 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "Latest rain event brought 30 to 70 mm of rain across the region - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2xrSUw4a3doTnNLdmk1MVViYjJWUElwamNESDJDdkpKSkJUcTZiMHQweHRVdmFGNWlxQXNyRkhiTUJoNVdXd0RFMTNQb202YlN3bU5mS01sRTBkQ1V2TjFtbWxnMDdhb0FpYmdoeW1jVElEbTRDUEVuRl82dUxpbFRyaDNzbmE3UktUV0ZhSC1CUlVLT1IyM1pIRkVxUkVscmc?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 14:36:00 GMT",
+        "source_url": "https://calgary.ctvnews.ca",
+        "source_name": "CTV News Calgary"
+    },
+    {
+        "title": "Appeal of conviction in murder of Calgary chef rejected - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlNNjJtUUtpbWlndlViSW1BNERWVXRSYnh4Y213b1UyeUVCQU9ZWUo2VDhSZGZkMzBrcGt0QVpTZVRJc09IcjlXREJvZUtsMkZBNzBDTlNYeEQtTXl1N0hhQUlJRkRHWmVPNmV1THQ1eTRWbWNCZ3NWU1d1eWtJWXBrZS1XLUZNZGpKOHF2dnpvUHNROEVaUzYwcGF6dw?oc=5",
+        "description": [],
+        "pub_date": "Mon, 09 Sep 2024 19:52:25 GMT",
+        "source_url": "https://calgaryherald.com",
+        "source_name": "Calgary Herald"
+    },
+    {
+        "title": "33,000 Boeing workers go on strike - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlNxMkNIa2xzVkxEeE9OLUY2YTI5MXN0bGlUbUs5MnpocC1tQlc5XzMwejhPbU1SVWNwOVVINnh4N24zMjJESFQ5bnZfOHE0V0ZoNDU5ckJQSlBZZTctOXNqQVJhQTFUdFI5SktNbEVIbzVPU1NrVS1wR0w1U3RUcmg2SlZmZw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 13 Sep 2024 15:00:55 GMT",
+        "source_url": "https://calgary.citynews.ca",
+        "source_name": "CityNews Calgary"
+    },
+    {
+        "title": "You can catch CTV News Calgary for Thursday, Sept. 12, 2024, right here - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFYxdVN2QUpXLTJQZ1poYXRrZEUxdzNPX1o5SFRIR3lnWTBTa2Z3ei1qOERqYkc0T2RsdWJTSFY3UjNRVXZRR2kxSklBWmYzaGE5TFJuYU9LQjVxQ2poSHk4MW1YWExzYUZpRENHa09RVllyTTJvTXFSWWRsR0Z1OVJWRHQ2VjVjYmZOc3RneHJRRm9NLUN3OGtNUHdudTh0dHZmSDlURQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 12 Sep 2024 23:11:15 GMT",
         "source_url": "https://calgary.ctvnews.ca",
         "source_name": "CTV News Calgary"
     },
@@ -360,203 +536,27 @@
         "source_name": "Calgary Herald"
     },
     {
-        "title": "Campus-wide EDIA survey poised to launch, offering unique opportunity for direct input into overall strategy - University of Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3RoSEFfTHJfbUttTlc3MnAwSEhXOWo4MHNaSUdlTmxmSUIyRC02SVEzQ2hTR0lqczNIdHBGclR3T3VYRlhfZW04WlQybS1QdUNXT3B1cF9CV1VrQ3AzUVhiOUpHZ0I1WEMwS0QtRHpWQ1lleDFXT2tBbS04X0dsaGJCSkUxSjcxV2ZIWWhsdmFiRkpGcVNLU1dMdlhtalJFY085N0c4QkVxNW5MV0hJQU5meW9DSlpISFQwZFNreFA0QQ?oc=5",
+        "title": "Extreme Calgary weather prompting calls to look at building code - CityNews Calgary",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1REbWVxU2o0MHRQNHN5bF93a0ZUTzNTLTNWcmdIMzNUaVpRRWNVbVZLV3lPVmVuZGhuaEE2SGQwRUxYa2xsOTNONjktWW50SVA4d21EX0JLMXk4MXJmZkFtOFkzOXp1R01UR3gxNVNQaW5fQm8wcUpQSk5ubU8wakowQjdveW53NmlqU0pGRHZJNC1MRnZ2Q0tUNTBkMm9kRTFxUjA2dERmYWhTVGhz?oc=5",
         "description": [],
-        "pub_date": "Thu, 12 Sep 2024 10:35:45 GMT",
-        "source_url": "https://www.ucalgary.ca",
-        "source_name": "University of Calgary"
-    },
-    {
-        "title": "Willow helps Calgary Fire Department investigate suspicious blazes as city's arson dog - CBC.ca",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yc1RSNkdHMk8xanFzSUg3eUU2VmYzdUQ1aElwUUx6Y0tYVUUzend4aUZ5VjhTaWIzTmtRcmlaM1BGQUdSYzBBemxEUjF3aVVIMl9FZk5PT3NJOHFuUmxDcnEzSEJ1RlpQRFB0dC0tb2lJRTJQaDhwaUdNTFPSAUdBVV95cUxPWkljZEh2MGlxd1VKcERVRndnSkZrRHpCc2NuZWJfbHhxQXZWOFJMNXBjbU1zVlV5cVZ1dlBwMENESmNhNEZsZw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 11:00:00 GMT",
-        "source_url": "https://www.cbc.ca",
-        "source_name": "CBC.ca"
-    },
-    {
-        "title": "Budget-friendly food festival is returning to Calgary this month with dishes for just $10 | Dished - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QUVZtVTI3ZXYyTlhOd1I1bE5aYnp3ZHlETzd2anJmX3JpVnA5MXFyenV4Y3hLQVhVUmlsRk9ZaEJrNzFwZWJ4THNNQkpCajdqV0lYSzVNQ01tVm5uLVZibWtpcGRnTk9xWnlrejBGTHE?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 20:23:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Smith says \u2018every single school\u2019 in Alberta has capacity issues while hinting at new plan - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEVheTAyWWdwaUo4VWNYd0pYVDF4akExX2NuNF9kNVJoZXVWanRHOWk0S0I0RW5ETWFQaEhoUXY4S1VPZVZ1U1U5VVZuVmVpN2pqT1FCUndRcy12N2tQOFNJc0VhLXdLcnkzdWt4eTAtZ0p1RVIzSGhSdmFESmNWTDZLSUQtUXF0LXBRa0NKdjRhbWpVdk9reGxn?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 22:36:55 GMT",
+        "pub_date": "Fri, 13 Sep 2024 12:32:12 GMT",
         "source_url": "https://calgary.citynews.ca",
         "source_name": "CityNews Calgary"
     },
     {
-        "title": "JonBen\u00e9t Ramsey series cast revealed for Alberta shoot - DiscoverAirdrie.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnRZWE00LTlMZTZURDFRTGtLUHJ0S3hJX2tUSjB5dWdhZkwzNHZwcnZPOGRDY21uLTFLdVNib0NET1N0dzZxd3Vnc3p6MzFYMm1rQ1JXOVZuTk52aHRLWjA2QXNXOUNOMTVFN1E1MG9YR0lYWXdGVEpnWDdwQ2JlM0RwbDNpbzVxTV85aEhHdUhBSnFNNHB2b1JR?oc=5",
+        "title": "10 things to do in Calgary this weekend (Sept. 13 - 15) - CTV News Calgary",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1BuR3lGQ1EydzJmN0tSaFJ1cnJwSkFtckRqcThmYVNHdEFYZ2xuVzUtR1lJOUpxbU96WHBpZGNGLS1CNzhkR21MbTFIMFRuNlBCLWQ1cTR0ZTk5dHVJbDZUMVVVY1Zwc0RKeEoyQmJXTEhKeTZnZDBpbUxWWDRHQ1JZMkFISWFBOTN5UlNSVTE?oc=5",
         "description": [],
-        "pub_date": "Tue, 10 Sep 2024 16:57:47 GMT",
-        "source_url": "https://www.discoverairdrie.com",
-        "source_name": "DiscoverAirdrie.com"
-    },
-    {
-        "title": "Land use change for Blues Can redevelopment passes unanimously - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcE1VeUVmOTZTWVItbDQySUlDOFpYVVFwMndTbXNHVjVFc2IwWVpvQUQwa1lwTWRmWTVLYzNBTmpDVktzOWJjMHJqZjhsR3l1SXFuRTNQV000NGN3ZnNIMFJ2cjhMRFZYX1ZIalBfTGxDYlJxY0FVYThpSzBTZVpRQ1prcWFqQ0tZNE5sX1h6Nkt5d0ZpOVRmRUZRS0J4NzZwLWgyZUNoWQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 22:41:15 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "Donald Glover postpones Calgary, Edmonton 'Childish Gambino' concerts - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzd2VmR3ZDNZRU9LWi1VNDlOOFhQbUt6QUJJMjhWUnM3N3FkMC1jOXRmZ09pakJRODg4M3c0R01LTG5KSzRfMWN0Yk1EYVh4X3B5VGZ5XzJKRUpaQTBlY1pqWnlvQjkwMDlOQmVXTDFoejNWQmFFTm1ZM3pZVDJsczZQNzdreHp0cDBGOVNOelR1bmpWbUptNjNYVG9fSkdBRmRJRFhn?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 20:21:00 GMT",
+        "pub_date": "Thu, 12 Sep 2024 14:30:59 GMT",
         "source_url": "https://calgary.ctvnews.ca",
         "source_name": "CTV News Calgary"
     },
     {
-        "title": "New webpage by the Office of Equity, Diversity and Inclusion combines resources to deepen understanding of the LGBTQ2S+ community - The Gauntlet",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTzU4Rzl3Y2hBNHFSWjZTNXRhU0JfckFTVjlQcUl3Z0llbzdIM1VIZ0RjVGd4Xy1jMmdndHkwTXNreFpKRXRUSk9SY3lBYXVidk9YZEJaRzVqX0dDZGVwUnRrTFBKT2Z0M0FFbGgxQndDUVM4X3pabWxIVUtVMHQ2WUxwVzgzMG92a1hNZ3hJTUhXTDZtUWVQT2JzSDBYS1BGajU3NUNNY0JoTVRyWWd1OGcyckpkcUZaR0pLYU5SNDh4TUdzTzQ4ZmJfTUF5RFlkTElhSk5jSnJwRktVQ3dfQUJlR01fUHd0ZDBwZXQyd21aQkxH?oc=5",
+        "title": "Heart rebooks trip to Calgary's Saddledome for spring - Calgary Herald",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjhNSmw0R2NDTi1ObUpLdzg5R1pjTUU0MkRuRVlTYTNQOUpOX21TRmJIeGU4dFhST1V3ei1YOXZwNWI4MGVUWldmZW1tdTFJXzhRX2NhRUEzeTdtclpDUDVfeHVoNXR6bGp4aVZlOFh1elFHNS1uZDExTUtpWTJBQkt3WGtubjJuQ09nSGJPRi1XR3FSeGx5aFR4bk5UV0U?oc=5",
         "description": [],
-        "pub_date": "Wed, 11 Sep 2024 22:42:15 GMT",
-        "source_url": "https://thegauntlet.ca",
-        "source_name": "The Gauntlet"
-    },
-    {
-        "title": "WWE wrestler Sami Zayn wore Gaudreau jersey at Calgary event - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzhMR01JbnpIX1A0ckFldUtGdElrRlFmSUw1cWxCQ1c3SEZ0NXliRHJibjhuSTVsOUVjV0k3OWxDSDNhNENDOGE3bG1TVVFvdDVrYzlZUWcwT0lIdXNQUXZIcjNDY1VBeDNONWxJdE1GSUEtck9UQlFrMzJaei1Jd09icVF4S1d5b2w3RVRn?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 06:01:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "Police appeal to public for info in NW Calgary shooting - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93dkdBTE5DalR5Yzllc25JQ29VYjhTWWp5bk1zU0tPdkJnZkpCWjU0ZTNvUjgyOTVIVF81eGhIMWMwLWJyM29iN3BMQjBxOU04b1J6UnYzdkY2a3d0MWI2eFJyQWtDclRlRVNrYTZOX0g5UUdrRFNOOWtnT0g?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 16:20:56 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "Parker: Excitement grows for new Renfrew Educational Services school - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnFYcFFoWkM5UlpvR0kyQjVFaEZaa1ZqSlRlMzZWTDVySWxDQmtuRFVKa2tHQVV3QXdsSVY4VWZCRmp1RE9VeC1KSjhKaFJCX3MxcXdBY2hoa1E3aXJaN00tVUpDaFdyTHgyTmRSb3d4d09PU2VsNUtHVjdvd1p4cWhtN0hEWEprdi0wMEMwZ1ZIMy1zaVptYk1Semtra3RPTjlIVzRJYVY5d3hzeUJ6OVFNUQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 11:05:13 GMT",
+        "pub_date": "Mon, 09 Sep 2024 19:04:23 GMT",
         "source_url": "https://calgaryherald.com",
         "source_name": "Calgary Herald"
-    },
-    {
-        "title": "You can catch CTV News Calgary for Thursday, Sept. 12, 2024, right here - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFYxdVN2QUpXLTJQZ1poYXRrZEUxdzNPX1o5SFRIR3lnWTBTa2Z3ei1qOERqYkc0T2RsdWJTSFY3UjNRVXZRR2kxSklBWmYzaGE5TFJuYU9LQjVxQ2poSHk4MW1YWExzYUZpRENHa09RVllyTTJvTXFSWWRsR0Z1OVJWRHQ2VjVjYmZOc3RneHJRRm9NLUN3OGtNUHdudTh0dHZmSDlURQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 23:11:15 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "Body discovered in roadside fire east of Calgary - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yNEdRUnBxYWl6YVladmVHd3NFX0ZZLXBTNDc5UlBnb2JhR3lxMVdYZFNJaS1LYmNOTEJaaTRaTkFpM3VLQ2E5NW1QcENOUEdoRVl3eXJaZ1BpTGJBUU03WlNUcHh3U3lkRFQ3TDU4NkZMeGxmSFE?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 14:34:26 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "Review: Theatre Calgary's comedy of errors earns raves for impeccable timing, brilliant delivery - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmg1SU9xN05yaUMxZGozUXhLQk1XbG1NQlY2RlN1eVY4dmJYaVFfNHRNRTBrLWJOeTN6dFVKYnBGdVFTLVEwdUVVbG4tWXVLaEdRVFpVT0txNkV2dEI1Qm85WGNWSlhqellpQkFqM0tyaGRUdkdOM1pfQWp2ZXNKcXlpM21yVDdkb05pQS1wTm90S2IwYURXWlZxZjBBbW1XZWNfbERxNk40UV9NLXVmQmQ4OA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 12:16:12 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "End of an era: Iconic \"2L Soda Dad\" not returning to Calgary for Halloween this year - Daily Hive",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SbkNxekhaS3JDWUxQZTRhdVN1XzV5NnlQOXgyZ0tTTU1sS0s4LWViVmI0MTNCTl9qamNwdnhLWXlsSGtWblBicDhNRnllckJHUEtGc3hnUnIxclhrbGhxMnJob0hPQVNlSzEzd0ZNVTNCaFI1QnFYaFctR05Qdw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 18:29:00 GMT",
-        "source_url": "https://dailyhive.com",
-        "source_name": "Daily Hive"
-    },
-    {
-        "title": "One more day of heat before temps drop 15 degrees by Thursday - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjJzTnpPTU14Qy1JdzJfbHh5MmpaZ3NOMHN5VDVkbDVoZkliQlY4WW8yRUFSQjN6N2FINUp2dFpLV19RcU9DNHFkTERnTGZrOUhmUGlOd0FwZjRHOXNWRVpGZ3ZzOWdKWkpHQ0xzbmk5RDBxMzFSUWtLYk96d0tYNlFyN0tQa2RabGN0VlBmV1R5Z3VjNGxaYWh2T1pxdU0?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 14:25:00 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "Teen charged for setting fires in Riverbend: Calgary police - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXd3M3RSODZvSDF2Wk5seDNCSGUzSWRnRWhRWm5FV1ZUemprQXpIM2ZBQmYxNzUwRlV5RHQwMmJub1pibmlBa3VRT3o0S1ltV29MdHpZV1V6NmRnQk9oeUk1MWg4MlF6Y2xkRmw3enB2aFdXV0ZyVVQweExlcmdEdVRuTm9BZS12dXRj?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 23:27:24 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "Chorney-Booth: Seasonality and Korean flavours bubble up at Sot - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDVWWEpKT3RRZlhzWHdzWV9SUy1SeXlmYXpuWXV2VUhndFJjdUNEOTNZb1JjM3JQOE8yczVxR0RsdTR3ekpGTHlWRGFDcjl3b1AzbjNtWXlteW40cG11SVJVckVDV1paMXhwRWZlck9qLVpIdE4xeXR1T05BQ1NZaDg4a1U0REJmTVdpZ04tSVdWVmNHNFpYdQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 20:16:24 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "\u2018Maybe it\u2019s a reckoning\u2019: the reasons behind Canada\u2019s increasing labour action - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlFKLUZMSzFqaF9Jc21MRlB1VHkxM1paTlVMT21iUXlxQzJJeWdpeEtiUVV2NXpfN3pYREFBcEZpRmRhRFJSUWI0Y3hUOWRjR1ZJQ0tSNEJUWWRjdEpqbG9fTHNtRlF1NDNIZU14VGFXY1o3T2s3QzJQbGNwd0NBNzd3NkV2ZWVfSzFsSlJNY0RSVkRHUzNlR2RER0pEQjlqdUY5OGdZblJsc0NRQ1JfTDhB?oc=5",
-        "description": [],
-        "pub_date": "Thu, 12 Sep 2024 00:15:00 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "WestJet making progress on repairing planes damaged in Calgary hailstorm - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0FUOWNjbC1uTlczOTRwTjJqX2FxOWJ4ckM2b0hYUHR2eTBVS0pSRlI0d1VuQms0Q3MwdTJwMFZjLUZKM09kbG1zZXd4T3hDM200ZUg3Z21uc1FlcHBtZV84UGhTYjVoNGZtd2hnWU5CaWhGbVBmTm9RMEdrZjRXdkxOc2w0MTlyX3VfQkJzU1dsQzg5Wk5mcnYwc1JzVllYLWdWTEdYaHlIcG1QSzctRG5sTUlBU21RTnc?oc=5",
-        "description": [],
-        "pub_date": "Fri, 13 Sep 2024 01:23:12 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "University of Calgary commits to addiction recovery efforts on campus - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTm5BZmtYc0EtMzRTRUw0WTlPNllnaWlrakkzTTNjZEpvODh1Nm42WGJXNWZJWW1YS3RtbW83ZXFweTJUNjJCZ2ViOVdxTVQ4QTRkVXU5TGc3Qm9RRHJkb0NuMXpESUp1end6aGlhUWlJMXRJaWxjVW9ESnZzakIxUnRmbVBnVmwwcGdSRHZZNlFTb2tsMGVtUnJ0a1Y?oc=5",
-        "description": [],
-        "pub_date": "Tue, 10 Sep 2024 20:15:35 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "Calgary band Jackson Reed and The Silverbirds seeing success everywhere, except in Calgary - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2hMbFUzTHRraHlqeVhobTJoVGozRXd1Vng4UUNfQk53ZGlWM2J2RDgtSlk5MkUzMXdsWG9fcGF2YjlGYlA0MjJaRmdPUjJrMXZlWWE5NURKbmJGLTQwcmVOMWd6U2tHazdsZUdnbXpFVjlCOEpYQUhoRlJMQWZkSXlBVS01RFlWdi1QMmZ1REFUUXNLNy1YY1RTSmstTnpPZ2ZSVTZhRFVnaUtNWTRfZmlhUTJzMmpYUGNXT3dsWTNjZUFv?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 21:31:18 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
-    },
-    {
-        "title": "\u2018It feels wrong\u2019: Calgary traffic sign spelling mistakes garner attention - CityNews Calgary",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFFSZDdLR181Ump6OUNGdmNycUlYWHN5eVJTQkZCaGRibkxDVThZT29wdk9pUFdWVlB3Undua3Bhenp6ZmtFVTVsYW9yWUZvQlRfSHRUdW9WMDdfM3hyNGtSTUhjdkN6dVdISEgxS29qMTJHSHBrWnZ2WE94eWc4YjhSMGw?oc=5",
-        "description": [],
-        "pub_date": "Fri, 13 Sep 2024 01:09:21 GMT",
-        "source_url": "https://calgary.citynews.ca",
-        "source_name": "CityNews Calgary"
-    },
-    {
-        "title": "Trial of former Calgary city councillor Joe Magliocca on fraud and breach of trust allegations underway - Calgary Herald",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnotQjB2ZHcwZHA0VjUyb0lZLWs2VGt4X0JMMXRpSzBmbWdoYmpWZ2E2YjFWZTROV1BocEFfc2lNcFYyWmNybGdMY1ZWWmMtYTNXM1RtQVRjTlk2RUt6OHY2d2JQeGx1OUt2U2ctcXNEb2ZwaEFpREhfZ1N4eDd6bEZ4WW5ZVzAwS19fMjlsa2stc0EzNFBjWA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 09 Sep 2024 21:37:39 GMT",
-        "source_url": "https://calgaryherald.com",
-        "source_name": "Calgary Herald"
-    },
-    {
-        "title": "Up to 50 mm of rain possible in central Alberta by the weekend - CTV News Calgary",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZERNbVhNamlnY2VFeWFXYW5RVTlweXhkMWpjazFyYlpNQmswX0tYbnZKZ1A5TzVPZzBISHlWQ1BjQkQxVnVDUm9vSGJ4Q3FNS2xXNm0yTkZKVXNVbU1FTkk2T0VPaHR5NndyOEpRSHpPbVI4Ym9rR2VGN2hzck9KOUpvS1Q0eWNPRGVwQUFyVW1IUDFwckQ0a2RBMGNzY2FL?oc=5",
-        "description": [],
-        "pub_date": "Wed, 11 Sep 2024 14:50:00 GMT",
-        "source_url": "https://calgary.ctvnews.ca",
-        "source_name": "CTV News Calgary"
     }
 ]
