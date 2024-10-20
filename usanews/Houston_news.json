@@ -1,19 +1,35 @@
 [
     {
+        "title": "Man shoots 2 teens after getting into fight with them at SE Houston apartment complex - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRFBmbkJ0a1IzRHdadHBxRVc1VTY0NHN3cGVrdENtdWR5TVR5WWR5dnVFT0FGOVltNUtSdjJjX18zNXFTalBRU0hUbXZZaklDYjZmNk9XWFlvZ1lDNVNJak9CeWhuTjEwZHZvRjd5eFV1ekdVVjRfSzVqSXdVWXFLMEJTVVIxeTB3ekh0cURISm1MZVpXMlJFNk01c1FVa3dYNUVYeHEwNFBKT0twNmg0c3VQX1piYnhnWGM1RG8tWHQzS2FWcm1GbWx0Uk01Yks4Z3RfUQ?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 12:31:57 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Magnolia estate with a lakeside helipad among Houston\u2019s most expensive homes sold in September - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHJyUnB3NDNpQVJQeDhzbjJWRTUxY2U1S3AxOWNqQVU3V0xtTVVxdU5oSnRjVWRhcFp0MF9mTGJfOHVxb3dnZlVMZVFIeWVkWDNIVUpvVDEyc3BuRWhvT0Vub1UyV2dEeE0xbDdzVGVFWlZoMTJfVkJJZThlWFl6Q05fdHRfVFRCbkswMm5tUmpUS2ZKSHl1Z0ZMbkVKeTRGcTJQR2c4N3FvcXlMOThaOUJWQU0zSmJFS3hCSHVxOUtqSHM?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 11:23:18 GMT",
+        "source_url": "https://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
+        "title": "What it's like to take a young family to Houston's Great Wolf Lodge - Chron",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa25kdDVERVlpWFhwVEtrcEhGa1REZVBPVkF4TXZCbi01cDNuMjk1dUMtRDJRTUdTTWU2dF8ybE5ELVNtM0tsRU5lbUpyTXhLZ2ZqR2VVeFJxQ0o4dUFucE9RVGplX3dkVko5VWFOcEh4T0N1SFJhaWZzNFhaR1dZSFFobjZjbHduMDUwM3JaZw?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 11:11:56 GMT",
+        "source_url": "https://www.chron.com",
+        "source_name": "Chron"
+    },
+    {
         "title": "New flights and restaurant openings lead Houston's top 5 stories - CultureMap Houston",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFVXdUxGbVpZdm0xTjRVeW42ODFFcXoyZlNrODliSEp6R3lfZzZxSXhMRkZfX19BeGxsLUlYdlkxN2E1MTE2NmZrdkEzbjlGc3NFSndkTzNKTlNQNHE4SkNVZnhodS1iWG4wRWxXbUYxRjNrLThXSHZKc3QzRXpQSXVNM2xMNGFEQldwODJGT1E?oc=5",
         "description": [],
         "pub_date": "Sat, 19 Oct 2024 16:00:00 GMT",
         "source_url": "https://houston.culturemap.com",
         "source_name": "CultureMap Houston"
-    },
-    {
-        "title": "I-10 eastbound at Lockwood reopens after incident with heavy truck and bridge - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUxuRXJoSF9EY1laS2pvNzJMMnFTX2gxUm9KMDZOaDB4WEVLUG83NTJuTUxvNGtYOWluZ3ctS056TFROcXc5OHVIbGkySlhNbFF3cE1mS090LUQ0U0ZuZjJ1UXZJMkhzb21UbUdjWTV1RFhoeVVsYlVkcnZ4NkJ1bHpRZzZqdk9QRjc3b0NKamFnaDMzRHh1VV9abFFOUnJ2cS1iaUFxRUlwX296cW80LW0yZ3ZWTGRSQTRB?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 22:12:00 GMT",
-        "source_url": "https://www.khou.com",
-        "source_name": "KHOU.com"
     },
     {
         "title": "Brazosport Facts Events - Scotty Boy: Deep House Brunch Houston - Brazosport Facts",
@@ -24,12 +40,76 @@
         "source_name": "Brazosport Facts"
     },
     {
-        "title": "Murals, a really big duck and so more to see around Houston this weekend - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1IxZUh6ZmdOWXExbElFellhMnc4U1l3UU9UTktXNkRnX0Fvbzl2bERBTlJFemZrNHVBQ1lubjJfT2xnZ0YyS3BQeWlIWmE0ZnN3NTF2UVh0bW5qaGNrWVlqWmdqOUVxRlRMekNPOEFmTkdFakpsTjgxSkJiNV9JVXVlb3lXLUItYU9iUk9pZ0VGRXdXTUxnRGpURzJPb21PY3FoNXpTaXdtZw?oc=5",
+        "title": "Houston weather changes are coming. Here\u2019s a day-by-day outlook - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelRtem8yb3VNQkwzSHc1WnRDSlhDMU5kNVYwRTRxVGdJVURaR0xVbHNSRW1IcnNjTGFCdlpzNEJHVGc4bGNYZC1Ob0RES2dzeDJNcUdIX1F3Z1ExbTJJY096QzRrMndadlNzaUJuLXlZMXNya3UwQmVWX29PcFVJRXdySFAzRERBcHhVMFF5NlRnUjViZWpTaHB1N3hCSXJ1VFBabDZMbElRdVhLbDlWUjIzZ3c5S3ZDWnJzdEtNdFVuOGhScmxzbnpR?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 23:04:00 GMT",
+        "pub_date": "Sun, 20 Oct 2024 09:17:34 GMT",
+        "source_url": "https://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
+        "title": "17-year-old accused of killing stepfather of girl he allegedly stalked - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWNic0p4V3pZQVRyMktCand0WmpfMG1Bb1VubElGWXhyTmh0X1RZYXNVM0xrRE9YVjhhMllEQWdMU2pSSnRGOFNGMjU3X0dMV2lLemNTUjU2eHAxSUdXank5dURYeVRidzNLTmlUbHR1b0VJa0JTOHZMZUJiNE1aUFRfekVEOTFnQWlNM05QQ2V4MkJVWEZ1NTZIMXp0RDV5MDVvVXdVYVdfV0J3?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 03:16:00 GMT",
         "source_url": "https://www.khou.com",
         "source_name": "KHOU.com"
+    },
+    {
+        "title": "Autism Speaks kicks off Summit Program - CW39 Houston",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLNVA3eVpOX1BjYnZWX29RNDZBdllCTGxwbnJOaTdKMEFlNkVCLVJiNE9BbWIzbUJzN1pkZUZ4b0I3enhNUFljMTh2OXE1aEdXTHRscklSVXFQa0FpNHFaS0FFdnBhTHFySWpMYnFVRTAtbUl10gF6QVVfeXFMTXh0Zlk0UlFHRWxGNjJ3aDZETmpNSzlYM0FFQmxRZENJNEp2elJWZGV3aGdIcmZwY2FGNjJVeUZBMWtBZGpOMFlyRTdBdS1vZEZ4MzZUNTQwQkVob0lpRjZvYzBRSFdlRE1Md19iNzBmY3gzbFdIVE81Q1E?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 16:13:08 GMT",
+        "source_url": "https://cw39.com",
+        "source_name": "CW39 Houston"
+    },
+    {
+        "title": "Houston lawmaker says death row inmate Robert Roberson should have gotten a new trial - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQenZaYVBRbi1RTUdpbjgzYTl6UHdhcFE5ZFpVakFLVXhDT3dGUVNXNkpwX2t2d2d2eHgzbjJOeU1UV2NDbkNhbEg5d2xVeUFLRC11N2ZMeXM0MnRfWjJtck9nNkhweklPbzByM1liR2YzWjhhajFiM2NPdGU3WWdESFFjaUREVHhZSnhGdzNuWkZoWDRnZ0t0Y1l4ZTVHUURheEZpLUpmdnlRbmpReHN4OW90VUcwNkt1cmM4aUtsTE8zYTJPVE1ra2RxVU9xV0hUQnNUOXZTQ0E2Z09zSTNZaDZUS1V0Wkx4YkZMSG1HVnVWM1RpNDlLSldPZmppRzZYRl9yZHd3QkIwREdQdVhFZHdB?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 12:53:00 GMT",
+        "source_url": "https://www.khou.com",
+        "source_name": "KHOU.com"
+    },
+    {
+        "title": "Houston's Party Scene Shifts Into Overdrive With Million Dollar Luncheons to UHD's 50th Anniversary, Music Fun and More - PaperCity Magazine",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZrNjkwbDdjNjRVRzNicE0yenh6UlV0bi0tcXFjQWVNR2xxS2djdDFxZDcta3ZWQ2tCeUxqWUg2bjBJdmx6cjAzbVkyZGVmUzZyMnZGcnE5TTB4em9oYXFta1Z5LTZGUG5tOThHeTBVT1ZsWktGY3JQenhhVThnRHlVRE1ueHZ3dGsybFVNZXFqbXd5OHJzSmtTMFBQZERyZE5VLVRiOUdtMWpWcWc?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 21:42:35 GMT",
+        "source_url": "http://www.papercitymag.com",
+        "source_name": "PaperCity Magazine"
+    },
+    {
+        "title": "Meth and heat both strain the heart. Experts warn when combined, impact is fatal - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hXSWtRZEUzbjdBdjl5clBXS3lNQVFDM0g2bVlucFZPc0Z3WjV6SVpQMzdNVUh1bjZqMDdlM2N5Z2REVllocW1pZDZJM3RqLVMyQlVNWkZONnpULXR1TkJQR1B5NzVIVEdxb1ZXN3FxYl9hcTlvejJ5QTZfcm9kaUhRZGdiVzRoZlVBNnMyMTY?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 11:18:12 GMT",
+        "source_url": "https://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
+        "title": "17-year-old woman shot multiple times in apartment parking lot - FOX 26 Houston",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SHdDWlRFWm5fNFYtVmNYR0RaMnFyVmFHLXhkQ3pESEdXWU1BOXpjWW1iZzBCVjVBWk5MdmpfU0wtMjJvVFpLSlZYNG9qWVA1bW1kNVNMMnhleGQ4SHZGeF9fbl9Fd2FtZkxTVTFrbkhaVFdXdlBra21n0gF_QVVfeXFMUGZPOUN5NlZzUE1QSmN1NVFiMmZmZ0wyeWk1dTAyTUk4WnFvMWlvcTVNTDVLcjNuMmlvbDBnS2t0TUh2YWhkYVlJVmo5SGItM2d1bnkza0lDZURSVU1nVVUtYnNGMFBGSXQ0SFh1U1Rtb2VYLXd2Z3F6ekpReW5OVQ?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 13:23:49 GMT",
+        "source_url": "https://www.fox26houston.com",
+        "source_name": "FOX 26 Houston"
+    },
+    {
+        "title": "Check this map to see where pharmacies are closing around Houston - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzBOaWhxd2NtSndQTlJKQ3YwelVXUlFHYVl1ZFlvMVFaYzRQTTVZT3lVbXhmMVd6TjFqNDduYUlISVBONHpLVlpZMWJkMU9xM0lOQlpqekZIYlFiZTd2eFFOelBwcHpBZWtuSjZwVU5fMURSTHE1Mm9xUk1seFlsRWhXMjd2WWE5YlNyVDFwTjBlMS10cVZDZ2N5YmFzd0pQaDZQVmFEa3BCcE5GUjNzQ2JuVkRTVUxpb1VxNQ?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 00:56:00 GMT",
+        "source_url": "https://www.khou.com",
+        "source_name": "KHOU.com"
+    },
+    {
+        "title": "HCSO take a zero-tolerance stance with sex offenders on Halloween - CW39 Houston",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzJYaG54cXpSMkFqWWhhQkotQVJJSW14eU5DdjFFY1RNS0VxYUFaQWI0cEg0YkdlamxMQ1RCU2wwRERxbUM2NUN2WFNfaDlpWFRFd0RZMy01aHVqNjcxeFJFbG93aUkxOHNoRXlJWGRaZzR6ZDVobHJGNjVBdGh6RUJBTmxJVThKVU16d2llM3NucE1yM01uN9IBngFBVV95cUxNYlBEZkVYU015VlBjejl3MmhKbkx6MHRpcWpuanppdFpJaE02ZUJ1NlV0VU1uYkE3RFNPT3hQY1pXRDlhWHFvcm1FWnJlSi1UUUcyMjJBczRsZ2RSUmU3ZmhGbnQ1cnB1d1gtZGhvUXVpTW5maVFZYi1HNVRsam1GZVBSR3RUN0t4Ym1KVVZsa2FHdGZHcEQwNUNCMmtLZw?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 14:00:45 GMT",
+        "source_url": "https://cw39.com",
+        "source_name": "CW39 Houston"
     },
     {
         "title": "Houston in longest dry streak of 2024 with no rain anytime soon - Houston Chronicle ",
@@ -48,10 +128,18 @@
         "source_name": "365 Things to Do in Houston"
     },
     {
-        "title": "17-year-old accused of killing stepfather of girl he allegedly stalked - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWNic0p4V3pZQVRyMktCand0WmpfMG1Bb1VubElGWXhyTmh0X1RZYXNVM0xrRE9YVjhhMllEQWdMU2pSSnRGOFNGMjU3X0dMV2lLemNTUjU2eHAxSUdXank5dURYeVRidzNLTmlUbHR1b0VJa0JTOHZMZUJiNE1aUFRfekVEOTFnQWlNM05QQ2V4MkJVWEZ1NTZIMXp0RDV5MDVvVXdVYVdfV0J3?oc=5",
+        "title": "Houston Fire Dept. holds annual memorial ceremony for fallen firefighters - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDVUWHUyOGg0bk92Z1lvbGpHNzVMOUtSQXg5bkpHcjJmdzRHU0hRSDhmcmRtajN2WHZWQ3IwaVhpWGdvNFBZZF93OEk1MGRVcTlnQUluamhjM20zazRINS05dk5Ya1E5ZWlUaEJDRksyRW1SNEVsc2NoWkcwb3ZURUVndGdNcUlScWxxaEIwbkZwYWZVeUNXOTNzYTFhUGx3QS1Db2xvT1ZKSnpCaENxcTZFYVM3cjhHU2c?oc=5",
         "description": [],
-        "pub_date": "Sun, 20 Oct 2024 03:16:00 GMT",
+        "pub_date": "Sat, 19 Oct 2024 21:40:23 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Murals, a really big duck and so more to see around Houston this weekend - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1IxZUh6ZmdOWXExbElFellhMnc4U1l3UU9UTktXNkRnX0Fvbzl2bERBTlJFemZrNHVBQ1lubjJfT2xnZ0YyS3BQeWlIWmE0ZnN3NTF2UVh0bW5qaGNrWVlqWmdqOUVxRlRMekNPOEFmTkdFakpsTjgxSkJiNV9JVXVlb3lXLUItYU9iUk9pZ0VGRXdXTUxnRGpURzJPb21PY3FoNXpTaXdtZw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 23:04:00 GMT",
         "source_url": "https://www.khou.com",
         "source_name": "KHOU.com"
     },
@@ -64,92 +152,12 @@
         "source_name": "Brazosport Facts"
     },
     {
-        "title": "Houston ISD student dies after testing positive for Meningococcal Disease - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmpOTXhROENLN1Zrb2ZSS0VBb1RHakNIZ1FRRHROalFyUzVxeEhBNHYyWjJpYy1ZRldLZWNvQlFJZ25xVE95U0UxQV8teU83akc2dk1kdzhHdG9IbDdTWTFlWmI2aFlZaXhoZ1JqUWZCX0puMmhSSjg2cWc1cVNXRm50MExwNi1YN1ZTcG50VS0tcDZOekR6WER1bjJtR1JGX24td21NSDhPTE54OHJpUzhmcy1TdUFKeWVBOE1RQVl6UE5x?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 22:54:40 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Magnolia estate with a lakeside helipad among Houston\u2019s most expensive homes sold in September - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjBvWFZrLXIyN1JVT3FIcDlSeGFlNDlhZk1ZUlRLRVU5N0dFdjhZT3JhaWZET2JjX2tiSm03RktOaFFSV0xGZnZUZ2lFMi1JMWROYWdSbjdMVGRfbFJnQVBObFl4RHNuYURNMEZaTW5RTDBpYlRGcjlFbWtaZDY4MmlIZExPZnhQelQ2Qk85Qnl4NnlXUXJpYVZJU1lKS2RyMzdOZ2Y4Q0lzRzlrbS0yX0g4cTJsLTlIbDNNVjZXY1NSUQ?oc=5",
-        "description": [],
-        "pub_date": "Sun, 20 Oct 2024 11:23:18 GMT",
-        "source_url": "http://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Check this map to see where pharmacies are closing around Houston - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzBOaWhxd2NtSndQTlJKQ3YwelVXUlFHYVl1ZFlvMVFaYzRQTTVZT3lVbXhmMVd6TjFqNDduYUlISVBONHpLVlpZMWJkMU9xM0lOQlpqekZIYlFiZTd2eFFOelBwcHpBZWtuSjZwVU5fMURSTHE1Mm9xUk1seFlsRWhXMjd2WWE5YlNyVDFwTjBlMS10cVZDZ2N5YmFzd0pQaDZQVmFEa3BCcE5GUjNzQ2JuVkRTVUxpb1VxNQ?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 00:56:00 GMT",
-        "source_url": "https://www.khou.com",
-        "source_name": "KHOU.com"
-    },
-    {
-        "title": "Houston Fire Dept. holds annual memorial ceremony for fallen firefighters - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDVUWHUyOGg0bk92Z1lvbGpHNzVMOUtSQXg5bkpHcjJmdzRHU0hRSDhmcmRtajN2WHZWQ3IwaVhpWGdvNFBZZF93OEk1MGRVcTlnQUluamhjM20zazRINS05dk5Ya1E5ZWlUaEJDRksyRW1SNEVsc2NoWkcwb3ZURUVndGdNcUlScWxxaEIwbkZwYWZVeUNXOTNzYTFhUGx3QS1Db2xvT1ZKSnpCaENxcTZFYVM3cjhHU2c?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 21:40:23 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Meth and heat both strain the heart. Experts warn when combined, impact is fatal - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hXSWtRZEUzbjdBdjl5clBXS3lNQVFDM0g2bVlucFZPc0Z3WjV6SVpQMzdNVUh1bjZqMDdlM2N5Z2REVllocW1pZDZJM3RqLVMyQlVNWkZONnpULXR1TkJQR1B5NzVIVEdxb1ZXN3FxYl9hcTlvejJ5QTZfcm9kaUhRZGdiVzRoZlVBNnMyMTY?oc=5",
-        "description": [],
-        "pub_date": "Sun, 20 Oct 2024 11:18:12 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Houston's Party Scene Shifts Into Overdrive With Million Dollar Luncheons to UHD's 50th Anniversary, Music Fun and More - PaperCity Magazine",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZrNjkwbDdjNjRVRzNicE0yenh6UlV0bi0tcXFjQWVNR2xxS2djdDFxZDcta3ZWQ2tCeUxqWUg2bjBJdmx6cjAzbVkyZGVmUzZyMnZGcnE5TTB4em9oYXFta1Z5LTZGUG5tOThHeTBVT1ZsWktGY3JQenhhVThnRHlVRE1ueHZ3dGsybFVNZXFqbXd5OHJzSmtTMFBQZERyZE5VLVRiOUdtMWpWcWc?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 21:42:35 GMT",
-        "source_url": "http://www.papercitymag.com",
-        "source_name": "PaperCity Magazine"
-    },
-    {
-        "title": "What it's like to take a young family to Houston's Great Wolf Lodge - Chron",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa25kdDVERVlpWFhwVEtrcEhGa1REZVBPVkF4TXZCbi01cDNuMjk1dUMtRDJRTUdTTWU2dF8ybE5ELVNtM0tsRU5lbUpyTXhLZ2ZqR2VVeFJxQ0o4dUFucE9RVGplX3dkVko5VWFOcEh4T0N1SFJhaWZzNFhaR1dZSFFobjZjbHduMDUwM3JaZw?oc=5",
-        "description": [],
-        "pub_date": "Sun, 20 Oct 2024 11:11:56 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "We\u2019re off to another cool, crisp and refreshing start in Houston, but sunshine is headed our way this Sunday. - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYlhHOU05Z3NtTmJUR2xoZjRiVGpxb0JsTW85THpsTnpjelRZLW9zVDNDak5vN3JTVGJ4eXhDcWtTUDAwNkdUXy1PRG45dG1WVko2VXcxZ1cxbW41aHdUdnh5a1RRSGR2by1DY2RZOXYtSlpZTV9vZ3lUUXdGY1RjWmN0N3pORUZPZkRhSWNwVE9QWWVjZV9jMFJSaVhQc01fSzlKT1N6cnlvYklGRjVUQVJoeHJvaGpOSFhMSVRhY05qbUFkVmJkTEVQR2NrY19fTEswMl9UMmdVeFZlNDNfZVdoNF9YVEw3LVZR?oc=5",
-        "description": [],
-        "pub_date": "Sun, 20 Oct 2024 10:35:45 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "9 Houston bars, clubs suspended by TABC for alleged human trafficking - FOX 26 Houston",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xYlpEQU14OG9pd2xOMTZRdTFWUm5TdVRCSENEUm8yYnI2YldMaWZ5RG5KU2l5bWVacTUxQVBUWVV1Z2xtTXhycndSekwzaDE0amthY3pSdnJBQlBhSnQ1U3BmTlF1dC1XSzhyYkNsdU5zbnFndFpXWFRB0gF_QVVfeXFMTnRabFgwTHpuc0xvY1QwN0M1MUF6bWFWNExUelVoU1ZudGJoamdXOHNpekxsQVRkTjUyNnVFTHEySW5OLXNENHhXVU85cmU3MG1CQVBjV1NqWEhtb1pxSDdkZzlxUzhkeVlYaG5sWkl4OFpEZU85d2pEcDNkcXUtZw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 20:07:42 GMT",
-        "source_url": "https://www.fox26houston.com",
-        "source_name": "FOX 26 Houston"
-    },
-    {
         "title": "HISD bond can have a major impact on children, but Houston taxes won't go up - Houston Chronicle ",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk5FWkdmMWtlVlFsdjlWX2VuVm9oMnplQnNQOXNBQkhpazRfMXdLWjU5U0RWMVdva2lOcGwyRXp1TmYxX2VOb0w1clpOVzFSVzd3d2t1VndKcDFsc01ZczFkQ2FKS2l6UXpvS1ZGcnYycVNEWDZwbDcxa0tzQmM1X0dHYWdiOTlUdDFraFJhZmR2cW11NUwwOFpaYldZTElTdEpRQ2RLaDN2QTN5YmdtZ0M5TEpmZm1lWGtsVg?oc=5",
         "description": [],
-        "pub_date": "Sun, 20 Oct 2024 11:13:47 GMT",
+        "pub_date": "Sun, 20 Oct 2024 11:12:56 GMT",
         "source_url": "https://www.houstonchronicle.com",
         "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Here's how to get a free ride to the polls with METRO - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlZSS3o1UjZPTi1JZWtMQU9hMTJXTGlKWHc5RXNfTkZjMTctZXlDd1hEalFMZmVtZ3NQWHotUEJ5WTVPeGdMeWZPX3ZDdlgyRHdsQXdnbWpYUzVsWUpzVlVfc0xWVFVSWjI2U2NsRWFmX1RpTzI4QURvOVJLeWVFTTA4X242OGdHOW9CaUVSTndJWmZhZks0d1pobFlmSmxSWlVhT1RINnVzZThEenRVdUVPR1FDdw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 20:51:00 GMT",
-        "source_url": "https://www.khou.com",
-        "source_name": "KHOU.com"
     },
     {
         "title": "RodeoHouston announces first new rodeo clown in decades - Chron",
@@ -160,60 +168,20 @@
         "source_name": "Chron"
     },
     {
-        "title": "Arizona-based Christopher Todd re-enters Houston market with first build-to-rent acquisition - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXJvRk9UdTRlTTJGYjZWQXVQVGV0cVVCZ3pYdDcxeDRiWGtfcVJPSlBYYjNJLXp4SmFaRGtSV2V0T1JtMmRwWm9HcjVNU2dFOE1kbEczelNWU1ZEOU5vZ1VxY2VaR3hYb2Yyd1ppTkZvZUdMMzg2dXRQSFVvRUM1dTRqSDZQU0QxWEswWk9fd0FXSlkxTWZJS1EydXJTaE4wZk5DOUVyZGVYUQ?oc=5",
+        "title": "Brothers trying to protect female neighbor fatally shot by suspect, sheriff says - FOX 26 Houston",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXZoRnphWHdFZ3JhTDhCX2RZMkRKWS1pYkpVblB4X0VwQWRGdjU4M0Z5dlZqaTBObEJzRjRmYlJxX3g0OGNTcGYtU1JUX0tkVmdWenB0c2ticmZNelJJd2N5YUtLTm1RUC1rdUY2alhQRjV0a2ZGYlJDSGhuQ1dELWlLY2hqa3RoVFQ5UzAwZldOX2ZnN1AzOFhPd0NlQ0hwOFJFS09sbHhjd3PSAbABQVVfeXFMTWF5S3VWNUZKRF9qZGxXSk5RVndDX3hYb09tU25wLTh4cGVUdGV0SFFPWFI1YXZoNWNodEQ4M0pFOU1oQ2czVnJ5c21jak5DTTFmZjM1MnRXSXJudmppWV93NjdNbFVHVkV1QmRJNEFDSVF2NlV2Y2hGWUZLR0JObXV6MnVXSjVBeUN3dVBzeWF2aG9paUg3UEFrU3g1eFpCcGtRWVY2LVRmY25HZXBuOGs?oc=5",
         "description": [],
-        "pub_date": "Sat, 19 Oct 2024 13:56:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
+        "pub_date": "Sat, 19 Oct 2024 19:20:52 GMT",
+        "source_url": "https://www.fox26houston.com",
+        "source_name": "FOX 26 Houston"
     },
     {
-        "title": "H-E-B, escalator company facing lawsuit after 3-year-old child loses 4 fingers in accident - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVW9OVjBVNllzQ0JBWnZpMk1fUktZN1E5aU1PQmZrNzlwMW0wemJvVFd1NWN3QlRmelFmYVd6ZlV5VV9URGMzZlB3OWFNZWFWcEZfbVZ1Q21fMkx2UVRSMDNKdkZCdUlvY0pMTXNMYnRwSlB2bWgzbkpPejR6ZzB0Z2FNV2xGVkQ5S3lJUWJxVWZxRGotMjZhYWJrM0Z3cWFUNlQ3VG1EcW1ORUxPdGJ3bmk4VHR4N09LTVAxTkZHUm5vWW92MkNpSWtlMjQ4Skc2Z2pySU5FWExaUQ?oc=5",
+        "title": "Here's how to get a free ride to the polls with METRO - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlZSS3o1UjZPTi1JZWtMQU9hMTJXTGlKWHc5RXNfTkZjMTctZXlDd1hEalFMZmVtZ3NQWHotUEJ5WTVPeGdMeWZPX3ZDdlgyRHdsQXdnbWpYUzVsWUpzVlVfc0xWVFVSWjI2U2NsRWFmX1RpTzI4QURvOVJLeWVFTTA4X242OGdHOW9CaUVSTndJWmZhZks0d1pobFlmSmxSWlVhT1RINnVzZThEenRVdUVPR1FDdw?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 22:27:22 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "How actor Lee Pace's Houston roots shaped his movie and TV career - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUFIU2J4Q2Y5N1Rrc3hpbU5oc2RQUnpJM0dUcUxHcl8xbTNPVkFOVVpGRHpiSEpReURyZW80ZnQ5T1JVeXRQVE5maTlQamJYeTZxMzlodXJLRlVaS3lUVFA1R1BDcndXbHltUmp3MTVmYk9DRUFvUkJOX1ZHQ3RTZjA4czBwUVphT05ha0xDNTRvbWs5Q0FRdUpJaWJzVlczcGNna25jcy1maXpJVWc?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 18:32:51 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "HCSO take a zero-tolerance stance with sex offenders on Halloween - CW39 Houston",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzJYaG54cXpSMkFqWWhhQkotQVJJSW14eU5DdjFFY1RNS0VxYUFaQWI0cEg0YkdlamxMQ1RCU2wwRERxbUM2NUN2WFNfaDlpWFRFd0RZMy01aHVqNjcxeFJFbG93aUkxOHNoRXlJWGRaZzR6ZDVobHJGNjVBdGh6RUJBTmxJVThKVU16d2llM3NucE1yM01uN9IBngFBVV95cUxNYlBEZkVYU015VlBjejl3MmhKbkx6MHRpcWpuanppdFpJaE02ZUJ1NlV0VU1uYkE3RFNPT3hQY1pXRDlhWHFvcm1FWnJlSi1UUUcyMjJBczRsZ2RSUmU3ZmhGbnQ1cnB1d1gtZGhvUXVpTW5maVFZYi1HNVRsam1GZVBSR3RUN0t4Ym1KVVZsa2FHdGZHcEQwNUNCMmtLZw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 14:00:45 GMT",
-        "source_url": "https://cw39.com",
-        "source_name": "CW39 Houston"
-    },
-    {
-        "title": "These Houston-area Big Lots stores are closing - Chron",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tbkRWVEhzQmVWVkVSM21uQkZCWkRXZzk1UnkxY3pkY0lialNRU3JLT1JDV3dic3FMR09NVDE2dktZSkdwYVNwa0ZraGJ1Nmpwcnhmcmw4UWxhdlRWWGxoejFMU3FOWC1GX3FBS3JwWDktSkVEVGc?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 22:02:35 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "Astros pitcher Lance McCullers Jr. opens new all-day cafe in Houston - ABC13 Houston",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3Z2OEhaZjVnVFUtQ0tGV0l6cGwyY0NyYVprS1VvcDQ1US1GWUlHeVJvaFNHcUl5WG4yUGFNdm84eE5YQ3ZQbWstWjdkZ2t2VzBIaFUyVnYweGhpOFhBUGZ4dWxWOFFCVjFZNE5TM3FpS2xVWm0wTG1UeWVfRTdjRmZVaGR1VWJPdjlmSXdjbUpyQVJqNEhMVA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 17:58:13 GMT",
-        "source_url": "https://abc13.com",
-        "source_name": "ABC13 Houston"
-    },
-    {
-        "title": "Houston Police investigating a deadly crash in Southeast Houston - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlhZWjdQSDl1Zm1tT25BMkxTVEkzN3VCLXYtcVdNbzMwMWVkdUtJY1JSanNYUWVuZEltZDlGbG1LTF9SNWNTdmZReDJibVZzQnZ2Z29Dbmc0blFaOVZOODRUREwtN19FRkxlbHNaSGEtbmhfWUg0WHVnT2s1czV1ZGhVT1dQYVhERElaVWxEVlpkMVdYdng5OWZpVUJ2SmRkRjdaQlpDLU9QV2hzSFVSMWR4bFMzMDhm?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 15:13:32 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
+        "pub_date": "Sat, 19 Oct 2024 20:51:00 GMT",
+        "source_url": "https://www.khou.com",
+        "source_name": "KHOU.com"
     },
     {
         "title": "A Marvel-ous Monster Jam! - ABC13 Houston",
@@ -224,10 +192,82 @@
         "source_name": "ABC13 Houston"
     },
     {
-        "title": "Tropical Storm Nadine, Hurricane Oscar form. Here's what we know - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1BjdWE2QjlIeFVYU1N2bHdwLWRzOVhFNmpDZVpQYTNLYnRnUzdKY3MxNFNUemlmOV93d3c4SXI3QjE4TjVxbmh4TUdkOXZ1TlM5Qy10NWoycFNJSzlqLXFiVHdDdmpLVEFlNU0wMGFvdVNjSGRPRTN4cEFZNFV3Zi1CWmxDY3lVbFIxbDgwSDhTbFRvdWM4Ql9aZ0xrcU1qZGpxLUhWTVZIbnhGUWRCNVVlVkhfRmRBZ0sxeklEM1VpcjRCS2t0bzVGckpoUQ?oc=5",
+        "title": "Will Houston\u2019s Ethics Committee investigate \u2018pay to play\u2019 accusations made against City Controller? - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZFpBeTA0RlRPbm9hQ3ppazZYYlVPaF82aVB5dGFYZGV0Y3ZYdG0yd2wzSkRvaU9sSW1aQ1JtQTRLZ2wtRkdTeXY5RlBUd21qN0hoOUpWc2xWcVJwTzlJTS1CZ0NOalhQNFZiSXdFcW5qZU8yRjZHS053a1p3d2RlcFRWd0JEQWNPalNvUmRQVFJEY2stMEtNZHJFMXdOX0FrOFI2UHFhTm9yX3FxaGtYcjVLVE9WdWJfWVFjbEhCbmhoY3Ryc05rNVc3b2pTVWpzMHJ2S3pyaFhRNm8wQTA4MUhB?oc=5",
         "description": [],
-        "pub_date": "Sat, 19 Oct 2024 23:32:01 GMT",
+        "pub_date": "Fri, 18 Oct 2024 18:10:53 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Man proposes after United Airlines flight touches ground in Houston - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2Fteks5Uy0wSF95ODZXODZ0NFBVQndQRnh2OTFEdzN4UHIxNy0wWklLdmdsWjQ4SjliNVNQOUZZejdfckh2Vl8wUjQxSTdsMHZyUkVsVU02NWoxeng1VGwxRHdVYUFIeFVIX2VyTGdpVVBhb05nTmZwdWJjc3BHQ1VLdHFhOEwzYmdLNVZJWUtXSVdpRXJ4c3lXLVZJREtkYVRpSHJNV2RZLTdjOFExWkpBRWhwZE01?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 11:08:23 GMT",
+        "source_url": "http://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
+        "title": "How gas prices have changed in Houston in the last week - CW39 Houston",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUEc5c0J0aUI0akJuLUVENkw3SkxPMVduNm1CZHBwVG9NU3JQOVdQODFvbl9QNW9GWkpTbDEtVWJhNFJmMDV6Z0E4T2ZETVRGUHZ2ZThXdEtKbXROLXhMalNfTEJMYWsxSzFpeVlfaHVuLUNEbmptREJXZlVtRFlYNkRxdXJpNnBIRzk00gGQAUFVX3lxTE5mUlZENUNJMUpzVlVwSk1JY1FXcFlTbnVKM1luaERxaXRMTzBsY1NYOEJiTG9ZVWRPWU1JWDJYa0pxX1YyUEJGWDFtTE9fVEZUblJ2dzJ1TzZFSUQzRjFQenNHSWZkaTYzd09tVnctckJQYzdSZnBHN1V6R2lVakJGbm5OQWZ2UHZVQzczYVhCMQ?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 17:53:37 GMT",
+        "source_url": "https://cw39.com",
+        "source_name": "CW39 Houston"
+    },
+    {
+        "title": "SW Freeway frontage lanes closed after major crash splits car in half, hospitalizes 1, officials say - ABC13 Houston",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTElIVkNjRTBrbFJvNXhrSWZQbnlXZFRtSzZfUkZCSmZrdnB5VUNLbDUwS0NBajlZYm0zZUNpc0ZTRWJTTHdKQlh4WXY4bkZ4WGFRdzZCUTUtbTJTZDRRdTBhU3gwUW80UF9sTnVCQnZyLS1DQURuN1d5MWhCRXpDQVZzdXljQk93NWNsN2lQSjd2cDBYdXdEQ3A0QVFTRThWa0NzZUYxNGU5Ny1Sdi1ic29xNWtEaDdXa2Y3d3YzQVZCd3EyanFz?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 20:51:32 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "ABC13 Houston"
+    },
+    {
+        "title": "Hurricane Beryl left this power pole leaning toward homes. KPRC 2 got CenterPoint to fix it... except... well... look - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHNFZGpSV2twRWgwb2xJejYxVHRhMGQzRVdQd2t4cXAzVXUzdm5uYTJzWlRUUE9feThueEIwRnBMb0JoNDVkR252WEo5ZjZtLW9aSzRBX1MzREVnOTgxbnBJSGx6YkVTVENocnM2SUpZTTZjQm9HM2habFRrNEl4NjBsMUNOQ1AzNzM3Z0tnYy10cHZMT2JPVXpYRkhjemxNVTdtV2VFUEZlMXYyMm1uRHhOS09zQXZ0QmdQNkJiVU9PVHJqMlFObldjWlZOeGl2N25V?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 17:10:48 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Heights Kroger completes customer-centric upgrades - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3JPNEttY0hqYnBmRUNhR0RaUHRRTlhzUW8yQmR2am1RN2QxTGFaTjhsOUNHMVpPdG9xU29WWGYzeTF6QWFUcUNFY013bXJhejMtbTFXX1dLZTF5REFHVS1oNTJoMjgxMnlDNWZmM2NNMTQwUGRUZG0xdG1JZmtPNkpvamNuZ2RhS250NWt1RDg4d0Y5Q1IzOWZqdV9wcUlmYWl0U05JcFgzQ3hSc1hZT2ZDS0NseEg1c08wS2lfYm0zdTIzR3d0ZExXR2EwbGtf?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 19:47:00 GMT",
+        "source_url": "https://communityimpact.com",
+        "source_name": "Community Impact"
+    },
+    {
+        "title": "Astros pitcher Lance McCullers Jr. opens new all-day cafe in Houston - ABC13 Houston",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3Z2OEhaZjVnVFUtQ0tGV0l6cGwyY0NyYVprS1VvcDQ1US1GWUlHeVJvaFNHcUl5WG4yUGFNdm84eE5YQ3ZQbWstWjdkZ2t2VzBIaFUyVnYweGhpOFhBUGZ4dWxWOFFCVjFZNE5TM3FpS2xVWm0wTG1UeWVfRTdjRmZVaGR1VWJPdjlmSXdjbUpyQVJqNEhMVA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 17:58:13 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "ABC13 Houston"
+    },
+    {
+        "title": "Chevron plans $66 million modernization project at downtown Houston buildings - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0xScnRUNktKbkZ3TmxtcFFmYUViUDVqbkpPUUIzSXZyTmJ2RFhzN01lellPUXkyd3B1ZHI2eFJ0U3ZWUzFWa09ab196TVI0SG1uOUZSbXBLcTNUUk9qT3Z0NUx4STFfRm96RVFwU3ZXWm9yNllZekIwTUFxOFpQYTVrN0RGcGlMWWtKMmIzZ01tUmJfVDVmZXQ0a0thZ2tH?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 18:34:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
+        "title": "'Give me answers, that\u2019s all I need' | Family asking witnesses to come forward after teen killed during shootout in north Houston - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlNiOFRjRTVjZDlNSXFUbGtVY2lVUHRGMVlhY2Z2UG5IME9XOEZNNm9CLUJkWVoybkZxSWlZS2Z3WXk0U2E5LWh2bURBT0VVTkFTX1loZ0sxT1hzN2lPdnVUd0wxa0V3R1Rhb2hHLU1hQnZEUEtKUzZJSWRkRWV2cVlNVFZNazVnVzc2QmpTdlc4Uno0TWpOMTZrSWFoUUZkX3I1VzVLeUhtSzE2Wm5WUURLMDZWRm8?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 03:17:00 GMT",
+        "source_url": "https://www.khou.com",
+        "source_name": "KHOU.com"
+    },
+    {
+        "title": "Attending college or university in Harris County? Here's where to vote. - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEFiS1FnYjM4Qy12SzBnZmh2cVh6ZVI1Zk8yOGdOTVB4UXBadWtGbWVYMjAwTlNuWTRWWS1vRUNfdzRjVkQ0STVLR2FNMzNGTXdKemNSOHlwY3FBV2hXMGJLbVlsVUppSnpZcWdPZEdtUXk3MDlBS24zMTBDck9pSi1GZDktZVc4bGlvRER2b0cteVM5NWc2MzVEZGlGT284M3dpZnRxT3U5Y2czSmhYVmRn?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 11:11:34 GMT",
         "source_url": "https://www.houstonchronicle.com",
         "source_name": "Houston Chronicle "
     },
@@ -240,6 +280,14 @@
         "source_name": "Houston Public Media"
     },
     {
+        "title": "THEN AND NOW: How one of Houston\u2019s most popular fried chicken restaurants came to be - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUpVSWlpYVVMMjkxZ1ltUEhabWM0M2VlVEg2N21EbVpkYlREN09YSHptUjBZVUE1ZFZselVKUnV6RGlGeFNzZTIzN0ZBcXlXWERIQmlCd2gyeG0tYTNQOGJYOUtuUXJxWUMwa1Ryb2xDOV9XbUVEU0lDZkJnT2JkQWlTYlJJYTI5dE1jYTIxaWdTeUpLdDVQLTNSLVRTUTZoZklfVGFSandSSUpiY1p1RmxTbFE3OTd3TEZ5QlhWaTV2cVUxME9wWWJ3M3lBdw?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 13:23:17 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
         "title": "Houston ISD superintendent didn't illegally funnel public money to out-of-state schools, TEA says - ABC13 Houston",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWUg2ZEpZR0Fiei1ab25TRVRlWDNQQ1dST0dMaGRXTkdHUmdDZ0d6Z04tNHN0VjhUbU9OVU43N0x2RzFNY3JjeG54MlJsS3B0SGZjMWo1clpSQVNPYWxQdWlYVmFwUTJueWpxbzBrV0JuZnhTRmlsc2tHWllCYWZJcXY4Wm04Z3BfY1hkWm5uZkdPVkxUVWVyalE4eGRvQ21meWxFdkhac0N3UjR5dlRmOEFEc25iMmFTaU91clV3SnRYSUw4amlzZklOTG1PeG5qc1h0c0dfVzM2NlNZN250OFFn?oc=5",
         "description": [],
@@ -248,68 +296,28 @@
         "source_name": "ABC13 Houston"
     },
     {
-        "title": "'Give me answers, that\u2019s all I need' | Family asking witnesses to come forward after teen killed during shootout in north Houston - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlNiOFRjRTVjZDlNSXFUbGtVY2lVUHRGMVlhY2Z2UG5IME9XOEZNNm9CLUJkWVoybkZxSWlZS2Z3WXk0U2E5LWh2bURBT0VVTkFTX1loZ0sxT1hzN2lPdnVUd0wxa0V3R1Rhb2hHLU1hQnZEUEtKUzZJSWRkRWV2cVlNVFZNazVnVzc2QmpTdlc4Uno0TWpOMTZrSWFoUUZkX3I1VzVLeUhtSzE2Wm5WUURLMDZWRm8?oc=5",
+        "title": "WATCH: 2024 Catalyst for Change Forum - FOX 26 Houston",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aa3pmZDNfcnVETDdpUDVtdXE4am5mWV8zdkZwWjZlNm1uRFc0WURBbDd1RlV1N255M2I5b3locWdTWGRveS1LcVNaTjNLMnhpd3Y2NzZwZkxRa1RocHFQLWtMc1d2aGlJZ3lfdHhrMTYwVTDSAXhBVV95cUxOSzU2Zkc3Qm9kYTNnTmFNZ1RpTGRuWWI1RGJ2alhWZTY2VHFOcF94NTZvdkhWZFctWVdoZlJsX2prSDhXX3hPRmpWVC1yX0tHTnJCdjBsTzJEN2hNMkY4djNkaERTTE9nTDNPM1VQbGQ0MTVaSTdzYjY?oc=5",
         "description": [],
-        "pub_date": "Sun, 20 Oct 2024 03:17:00 GMT",
-        "source_url": "https://www.khou.com",
-        "source_name": "KHOU.com"
+        "pub_date": "Sat, 19 Oct 2024 14:29:15 GMT",
+        "source_url": "https://www.fox26houston.com",
+        "source_name": "FOX 26 Houston"
     },
     {
-        "title": "Optimizing Remittance Flows: Central Bank of Nigeria to Participate in High-Level Forum in Houston, Texas - Galveston County Daily News",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUkZlQ3VoQW1nZlczdkJjUm5LQWhxNXB4VEV4ZE5XUUQ4djFjMXcyaVJDTzJQeFk2MWR4cXZjSEpMMlBLV2x1RndWX0V5NXdrYnB6ejdUeGVWVkNUcEdpcWdCX1BTTzNpODVmZW04ZmlhMVJRWjhSNlBteFpIZ1ppYS0wM3J1dFpyQzVRdFd3QjV2dFpUNm9fRVJjdVUyTjdoY2FmaXR2ZERtck5idXlKZjN3QTZtUUtwVmVUU0x5b2gwVjQtaWhHWS11emoycmw0Mm1tR1JXV2xoY1VrN2o2dF9wbVpxdHhldGxIb0lPQ0xWbkQzOC04Q1AtamFYSnBEWlE?oc=5",
+        "title": "5-year-old shot after finding gun at northwest Houston home, sheriff says - CW39 Houston",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSW5rRDFjWmo5VDVmN2MxMXFRLVVWSVlUQ2tzbkt4U2drcXhJTUNVVmxHaldFV3ZzZ19Dd1FFcFZpUGI4LU9NRXdjaW9hYy1iZlZLQzF2a3ZwemhkSDQxcEI2Y1V2TnU0MmZneUtiRDF4a3Vxa09rTlh1eW5hZUVEYUVQNkVCVG85U3RPX0szdm5EZ2QxWVNHaktfWThXODBOcUlr0gGoAUFVX3lxTE8zWm5QQ3BCal9ZeTl1NGRCYmxYNnIyTlk0cVA3T1NBclQ3SkNIUkFLWks2SEdla2R1SVRmam85V19WbXZqamNPWlRUdDVvaHJ1ZEFBMGZuVkppemp6czluWmJlWXB6akctVjR4T3dfYS1KdFFBSkMzZXBlRWdINkY0R01HNm5IWE54T2Q0YkF1RHphdnE1MG95ZHI1dXQyY3MwN2wyNzgwTA?oc=5",
         "description": [],
-        "pub_date": "Sat, 19 Oct 2024 13:16:10 GMT",
-        "source_url": "https://www.galvnews.com",
-        "source_name": "Galveston County Daily News"
+        "pub_date": "Sun, 20 Oct 2024 17:31:31 GMT",
+        "source_url": "https://cw39.com",
+        "source_name": "CW39 Houston"
     },
     {
-        "title": "Will Houston\u2019s Ethics Committee investigate \u2018pay to play\u2019 accusations made against City Controller? - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZFpBeTA0RlRPbm9hQ3ppazZYYlVPaF82aVB5dGFYZGV0Y3ZYdG0yd2wzSkRvaU9sSW1aQ1JtQTRLZ2wtRkdTeXY5RlBUd21qN0hoOUpWc2xWcVJwTzlJTS1CZ0NOalhQNFZiSXdFcW5qZU8yRjZHS053a1p3d2RlcFRWd0JEQWNPalNvUmRQVFJEY2stMEtNZHJFMXdOX0FrOFI2UHFhTm9yX3FxaGtYcjVLVE9WdWJfWVFjbEhCbmhoY3Ryc05rNVc3b2pTVWpzMHJ2S3pyaFhRNm8wQTA4MUhB?oc=5",
+        "title": "Brazosport Facts Events - Jon Finney: Rustic Downtown - Brazosport Facts",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlB0bEdvODVrU005TmZuVHE5dEtmU3pPbXk0VWRUN0ZVUHpERmZXcGdLWUpIMlNZY0o1TUdOdmpIVWNyY3YxV2NVREhLSEN3S3NYcnlNNFI4MnN0OUdJNElFOWlTUmt5X0MyOS11VUw1Z1JNR21NRHZ3YkN4Mi1HYVNyTV9teDl3Vk1FRGZ6RVBNVFk2RHhZbDVoa00?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 18:10:53 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Baby boy on the way for KPRC 2's Caroline Brown - Chron",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGprRk1HTTNfTXV4eTBZeFJUUDV0V3Zfc00zaW5hLTVJSnVTWmxjX2VNVU55ZGJBaTJ3NmdHbTFQZTV1bDJZRl9jbDRZSjhLeW5yZTR1SHplcnFzZG9KUTN3V2dDazdsdkRoTDBORnlkSWRPQkQxSEJsQlBnbGVad0lGbEMzaU02?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 15:50:58 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
-    },
-    {
-        "title": "'Drunk Dracula' is a boozy and campy Halloween treat for adults in Houston - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0hHRkFOeHpETERadUQzVUNyUG1mMXNva01UdHo2M2pNbk1hYl9hb2cwRTJZdVFZQTBjY3RlUEczdERIZGp4UTc4c0RqYk56QWVteTVpdzBRS3hmY3V1eGkzakVpaWlXZmVyXzdQaUJ1UmExWG5iZzRRRXBXSWw0LWtIUmFUNkhmSnpicS12aWZkU0dsaktISHZXLUd6Tl9kMGJkWFFBWEZZVUVxbGhqejM2cE9MRjd1WmI0eDV1VQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 14:08:43 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "SW Freeway frontage lanes closed after major crash splits car in half, hospitalizes 1, officials say - ABC13 Houston",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTElIVkNjRTBrbFJvNXhrSWZQbnlXZFRtSzZfUkZCSmZrdnB5VUNLbDUwS0NBajlZYm0zZUNpc0ZTRWJTTHdKQlh4WXY4bkZ4WGFRdzZCUTUtbTJTZDRRdTBhU3gwUW80UF9sTnVCQnZyLS1DQURuN1d5MWhCRXpDQVZzdXljQk93NWNsN2lQSjd2cDBYdXdEQ3A0QVFTRThWa0NzZUYxNGU5Ny1Sdi1ic29xNWtEaDdXa2Y3d3YzQVZCd3EyanFz?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 20:51:32 GMT",
-        "source_url": "https://abc13.com",
-        "source_name": "ABC13 Houston"
-    },
-    {
-        "title": "Heights Kroger completes customer-centric upgrades - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3JPNEttY0hqYnBmRUNhR0RaUHRRTlhzUW8yQmR2am1RN2QxTGFaTjhsOUNHMVpPdG9xU29WWGYzeTF6QWFUcUNFY013bXJhejMtbTFXX1dLZTF5REFHVS1oNTJoMjgxMnlDNWZmM2NNMTQwUGRUZG0xdG1JZmtPNkpvamNuZ2RhS250NWt1RDg4d0Y5Q1IzOWZqdV9wcUlmYWl0U05JcFgzQ3hSc1hZT2ZDS0NseEg1c08wS2lfYm0zdTIzR3d0ZExXR2EwbGtf?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 19:47:00 GMT",
-        "source_url": "https://communityimpact.com",
-        "source_name": "Community Impact"
-    },
-    {
-        "title": "Chevron plans $66 million modernization project at downtown Houston buildings - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0xScnRUNktKbkZ3TmxtcFFmYUViUDVqbkpPUUIzSXZyTmJ2RFhzN01lellPUXkyd3B1ZHI2eFJ0U3ZWUzFWa09ab196TVI0SG1uOUZSbXBLcTNUUk9qT3Z0NUx4STFfRm96RVFwU3ZXWm9yNllZekIwTUFxOFpQYTVrN0RGcGlMWWtKMmIzZ01tUmJfVDVmZXQ0a0thZ2tH?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 18:34:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
+        "pub_date": "Sun, 20 Oct 2024 02:15:10 GMT",
+        "source_url": "https://thefacts.com",
+        "source_name": "Brazosport Facts"
     },
     {
         "title": "CI Foodie: 6 new restaurants to try around Greater Houston - Community Impact",
@@ -320,10 +328,18 @@
         "source_name": "Community Impact"
     },
     {
-        "title": "University of Houston survey details directions Harris County voters are leaning going into 2024 elections - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUFFCb2VUbTJnZDRwaXdib2lHRF9jLWdyMzdVd2VDZ2VaT2V5WUM1dFE5c0dGRE43Mm83UjU1emNtN0ZhTmh5WHEzQnN0S1gtalNPczQwZWdMQVNMY3B6UlhYWGVHZzZLMnpoRG95dW04TXFOX3F2LXZBMXIyeHJELUJqYW5PMzZmVl94SjhGak1yNFlMdUlBMXVjOGYwMFhDY2lKWGpjOTNhNTZrSFhmV0VnMlV1aDJQSDFTMzV4bmJPdl8xNzBURGtOZFp5UEdoMDlKeGQzWlg2b1JaTVlNa1ZpNmlGcGw2S1lndGktQzc?oc=5",
+        "title": "How actor Lee Pace's Houston roots shaped his movie and TV career - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUFIU2J4Q2Y5N1Rrc3hpbU5oc2RQUnpJM0dUcUxHcl8xbTNPVkFOVVpGRHpiSEpReURyZW80ZnQ5T1JVeXRQVE5maTlQamJYeTZxMzlodXJLRlVaS3lUVFA1R1BDcndXbHltUmp3MTVmYk9DRUFvUkJOX1ZHQ3RTZjA4czBwUVphT05ha0xDNTRvbWs5Q0FRdUpJaWJzVlczcGNna25jcy1maXpJVWc?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 13:06:07 GMT",
+        "pub_date": "Fri, 18 Oct 2024 18:32:51 GMT",
+        "source_url": "https://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
+        "title": "Discount retailers disappearing from Houston, how are residents getting by? - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2ZyNFk5a2VZZWFfcmlWY3JMLXJBb1lpbTNVcG52OW8wSUtyUmtKRU9aMG1WcUMyWHZQcVVwbVFnQnpmbU5zbVdFdy1oYXhLSDVwSDVfLXVnV01kX2Y0UzkxYnFxTk5nVW1QTGs0aUhpOGpwb0lSeTcwZGtHY3pDSUJHQzVZamloWHRzM0pqQmxUQUo5dzVfbHc1TEluU2ljX21ud2dkSUt1bWQ5V3FkdnJOeVI4V2xiZlNkZGlDUHpMZF9m?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 16:51:17 GMT",
         "source_url": "https://www.click2houston.com",
         "source_name": "KPRC Click2Houston"
     },
@@ -344,54 +360,6 @@
         "source_name": "Houston Public Media"
     },
     {
-        "title": "Houston is a city of invention. Here's a look at 150 years of innovation - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm9iVTFOcVBZb1dqUzB6U3JQbUJxQmF6LWp4MFlzbF81V1dhbEVlNEJOOXBLYng0Zk5OYzJlUTNWR01icmlfTWlmckNNc1hZXzV4NFY3MFNBNEpKZUxoQnExS2N1dkVVd0Y2V2tnMWZiS1ItR2Uzdl9rT0RMbVVHajhTRU5YUDlwaklOMQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 18:00:00 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Free Outdoor Activities Houston - Houston On The Cheap",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fQVBDU2V6cTlFazNsLVpqV3l2UnJ3MWZzaEpQd1ZGb2dmRjBNNGZJRUpWR2FMa25sRFpOT3AtQmtOdUEzRG95bjV1LS11d1prUXdfNE12UndyZzdkRkthaDNkX1FCOHlWZGdtSXFBWFl5QQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 13:37:21 GMT",
-        "source_url": "https://www.houstononthecheap.com",
-        "source_name": "Houston On The Cheap"
-    },
-    {
-        "title": "Brazosport Facts Events - Jon Finney: Rustic Downtown - Brazosport Facts",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlB0bEdvODVrU005TmZuVHE5dEtmU3pPbXk0VWRUN0ZVUHpERmZXcGdLWUpIMlNZY0o1TUdOdmpIVWNyY3YxV2NVREhLSEN3S3NYcnlNNFI4MnN0OUdJNElFOWlTUmt5X0MyOS11VUw1Z1JNR21NRHZ3YkN4Mi1HYVNyTV9teDl3Vk1FRGZ6RVBNVFk2RHhZbDVoa00?oc=5",
-        "description": [],
-        "pub_date": "Sun, 20 Oct 2024 02:15:10 GMT",
-        "source_url": "https://thefacts.com",
-        "source_name": "Brazosport Facts"
-    },
-    {
-        "title": "Protecting our children: Sting operation busts men allegedly looking to meet kids online for sex - FOX 26 Houston",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QWFKNUZGcGpRQ1RHTWhIaHVoUDFna1FnMm9ibWtOLWJSV19GMGczYXVWbXloZzA1eWNSMEd6SjlkcmlGZWUwa1N4ZGlscE1UYk5oM19zVnFNZnF3WVU4T3g4R2pTdU1FYkhWRHJuYkUyRW9ucWxUeVNYalpaa1HSAYQBQVVfeXFMTWFlRzEtNmhXRjQ1a1BmSjFFRUQ1a0g0cXE5R3BsSUxRRW5uT1AyeGlFNEZ0dFlOYXhwQmZmQUt3N1FSbUhReFQ1NzVxZTc3XzJ0Y0phdFhSeE5CcVZEQ245Z0FXR3FyR1JjWkUwS3NFaHQzWVRZRy1yVlB2dUw2NWtaNFdn?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 21:04:25 GMT",
-        "source_url": "https://www.fox26houston.com",
-        "source_name": "FOX 26 Houston"
-    },
-    {
-        "title": "Event Roundup: What to Look Forward to This Weekend - The Buzz Magazines",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYW5JU29xZHJBNWhXeVR3aGc0LWdvSDlMMlEyaUMwbXpVbzJPeXV6aUZaOWF0WFhLYU1BakRTdEhnRXZxMXlIUVBsdDRvc3drWW9HUHc2TTFpdVVjcHV2YXhsMnhyWXpLNk5qS2VUMG5LQ0tiSUg5b3ZlYUxJcFROLUEwS2M4bzNkUjBNLWpmSnA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 12:05:05 GMT",
-        "source_url": "https://thebuzzmagazines.com",
-        "source_name": "The Buzz Magazines"
-    },
-    {
-        "title": "Houston Chick-fil-A helps terminally ill guest fulfill bucket list dream - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEVycm83em5ZOEFkaFRLa0JyX3cwTzRpUDJHT3RZdklwMWpQdjhaZk5Pdlg0anhWQUtHVkRsQ1NBT216M19mY3lmOW9KXzE4N0h0WC1md3VMYlNSQkpJN0FVbzZ2WWczYzROZHo5dE9nZUZyRGVTV2o5b0N2dC1MblI1TjZzeWwzenlIWjZDSHN0MjlhX2ExUUtuUnZfejd0aXJPX0kzSU9zM2tQLW1XTFNidnVDU0pMOEtTdk5xTnBrRDA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 17:00:19 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
         "title": "Interview: Mark Ivy of LITTLE SHOP OF HORRORS at THEATRE UNDER THE STARS - BroadwayWorld",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQblkzVE5ZTElOQXZkMThONFhFUDRBRFhod2RxOEVCNDRLUHd4WDhzZnZEUUNtUWYwR3FMUG91MGc0ZW0zQkxTVVVLbzA1S2UtQWNha1padV9HTnZCR2xDaWhvMjM3X0w4SUtGSGVFLUJxZUhPb3FoU1VZNjBvZVppVDBzM0Y0RThJV0ZlNHR2RGlJMHJsai1RR0tKRjE4Xy1GMUFiUnd1cDRuTnV2SVZEN1F2WmFoRzQwNTZ0XzFqUWphdXhB?oc=5",
         "description": [],
@@ -400,12 +368,28 @@
         "source_name": "BroadwayWorld"
     },
     {
-        "title": "Le D\u00eener en Blanc brings class, culture to the Bayou City - Houston Defender",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKSW9MRWg1Tm5wdEpadDJzWEhhdThxSVlVWTlhb29XX0JBdy1UQkNnZmlmbHIyaUVMTVU1LTVTRE9KajNMU2xwRUl0YU9MemtVZ0ZRaWZNU05kYkxzenY2YWwwYnNlNUZDOEUwQk1pV1VPTnNsQ0E?oc=5",
+        "title": "Brazosport Facts Events - Snit's Dog and Pony Show - Brazosport Facts",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWdRUXo3OXl2SnRLZHNkOGdMMFhoTF82VjhTYzhrNktCak85cU1DVVd5cWRtZmFCVy1jNjhaLVFWd21ZNmR3RzNVZXVkMjNlZm5rQ0VfQ2JGX0tGcmttWlNaY05nd3hOWDVfVDlUS0htOFdEN3J6MmZzU25zLWJvNkVTSnF0N1ZsR2QzcHFuY01zZ2V1Z1htbXV3?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 10:14:41 GMT",
-        "source_url": "https://defendernetwork.com",
-        "source_name": "Houston Defender"
+        "pub_date": "Sun, 20 Oct 2024 02:15:10 GMT",
+        "source_url": "https://thefacts.com",
+        "source_name": "Brazosport Facts"
+    },
+    {
+        "title": "Optimizing Remittance Flows: Central Bank of Nigeria to Participate in High-Level Forum in Houston, Texas - Galveston County Daily News",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUkZlQ3VoQW1nZlczdkJjUm5LQWhxNXB4VEV4ZE5XUUQ4djFjMXcyaVJDTzJQeFk2MWR4cXZjSEpMMlBLV2x1RndWX0V5NXdrYnB6ejdUeGVWVkNUcEdpcWdCX1BTTzNpODVmZW04ZmlhMVJRWjhSNlBteFpIZ1ppYS0wM3J1dFpyQzVRdFd3QjV2dFpUNm9fRVJjdVUyTjdoY2FmaXR2ZERtck5idXlKZjN3QTZtUUtwVmVUU0x5b2gwVjQtaWhHWS11emoycmw0Mm1tR1JXV2xoY1VrN2o2dF9wbVpxdHhldGxIb0lPQ0xWbkQzOC04Q1AtamFYSnBEWlE?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 13:16:10 GMT",
+        "source_url": "https://www.galvnews.com",
+        "source_name": "Galveston County Daily News"
+    },
+    {
+        "title": "Democratic candidates leading main Harris County races by double digits, UH Hobby School finds - Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbkJLck91N0c5N1Y4dnZPU2hCQ3ktWHFnVTNXNGt1MXBzYzJ0a2JBNmRSN1VlYkN0emp5OGVYSndvTmtYODByeUNtWmtDMkFINVlyeFZQbXY5aEFKd1N2YnAyTC1xWWNtREhrX0VBNlBlY0JfNXN3SnFxUHg1UVM2QXdwUm1yQ0NVdm5MZ1JhZF80S3NQTks2M3czSExDMk1sU2ZPZS1adENVTnNORmpzSmJUOFVkbmRLV012c1ZfdU9ocC1XbWNHNDFJRndYcGlZY3J4djl0MDV6aGF6SkJIcFVuUnJvOEpPQXhGY2lqT0VIRzRwSnZYcGZFRdIBgwJBVV95cUxNZDhVdlV5TmhyMFhtUTdiZVRYOV9QTWU4VzRQQnJYdko2S0pqckMxS3NkMTYweEMzZThYTjBCRGZfa1BxaWxjTFNFN2lWMmhrSXR5NUdxM3NNdmhwbmtFYkZPcGR6LVVqc3h0OXdYWllsODFuUUdjSVFGTVhHQWlEdkFGUVFEX0V1THRkQ0tZd0NGTUpxbk1RblRfNVV6ckkyUlFnc0Z1VWhWc1p4Q3RBR0d6aFktcXdNMlBlOFN5X2RSRTFqTWdmNVdHX2dWOC1aM0NkTTNYMkc0MGtFZ3N3Sngtel9NMU1Qd25Ga1dDcE5xNW5HMXR3R19TQnBOeVF4b09n?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 15:50:37 GMT",
+        "source_url": "https://www.houstonpublicmedia.org",
+        "source_name": "Houston Public Media"
     },
     {
         "title": "Houston Happens is LIVE with \u2018Mister McKinney & Friends\u2019 - CW39 Houston",
@@ -416,10 +400,90 @@
         "source_name": "CW39 Houston"
     },
     {
-        "title": "Negative impacts from SpaceX launches: The Good, Bad, and Ugly of the week - Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLThrTDJ2Q0YzLXlPRWlZNjg3eWZtUm92cTZ3WXN5anZaTVRMd3prZWlCTXFOTUJtcFdqY0MyRnFXd0w4UHBvT2QyYlNxWUp2TXlKTUpnX2xtRmVNbWozMl82bHd4ZWxOanJaLWhFaGo0TGJaRHV2OG5QdjI1bXdDM1JvcUZtMVBFLS1MZkYyUDZVaUI0RmlGblM2cEpWRWVKcGtVcklKMk9vY0ZhQXdBSXR2VmkyWk9QUGk3Ykx4TFVLVWpQbXdYWHVQalM5alh3UnJwZ1ZCTEdSRlAwaE9Wdi1DTm5XTUhFclE2QtIB9AFBVV95cUxPallSdFdSRDlNTnZuaWZYMnNpWF9ISlNJMFJVX2ppMWlHT3hVYzhybXN1ODZWYjZPM3pXZm5Fb0FpbGJCYzVJY2dxVHV4NTZkU28xNlFNNDk1V0JtSnFQdTVvYXduNm1CaVc3WmpsU2JhOFc2MjZZWjZfZXRmUFhxc3VZR2RMWE1ab20yb2pUbUw5V1RTcVFRajhDNThCank4RkdJRFUwNHExU3lzUURIbndob0hwaTlEeGU5ajFXNzlCLTk0cUx1bGNnS1lVazhjMENlR2E3bU1KZlZlWU5DQUlUY2o2eUk4SGxwdktwTkp4TktF?oc=5",
+        "title": "Houston Chick-fil-A helps terminally ill guest fulfill bucket list dream - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEVycm83em5ZOEFkaFRLa0JyX3cwTzRpUDJHT3RZdklwMWpQdjhaZk5Pdlg0anhWQUtHVkRsQ1NBT216M19mY3lmOW9KXzE4N0h0WC1md3VMYlNSQkpJN0FVbzZ2WWczYzROZHo5dE9nZUZyRGVTV2o5b0N2dC1MblI1TjZzeWwzenlIWjZDSHN0MjlhX2ExUUtuUnZfejd0aXJPX0kzSU9zM2tQLW1XTFNidnVDU0pMOEtTdk5xTnBrRDA?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 11:45:13 GMT",
+        "pub_date": "Fri, 18 Oct 2024 17:00:19 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Tropical Storm Nadine, Hurricane Oscar form. Here's what we know - Houston Chronicle ",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1BjdWE2QjlIeFVYU1N2bHdwLWRzOVhFNmpDZVpQYTNLYnRnUzdKY3MxNFNUemlmOV93d3c4SXI3QjE4TjVxbmh4TUdkOXZ1TlM5Qy10NWoycFNJSzlqLXFiVHdDdmpLVEFlNU0wMGFvdVNjSGRPRTN4cEFZNFV3Zi1CWmxDY3lVbFIxbDgwSDhTbFRvdWM4Ql9aZ0xrcU1qZGpxLUhWTVZIbnhGUWRCNVVlVkhfRmRBZ0sxeklEM1VpcjRCS2t0bzVGckpoUQ?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 23:32:01 GMT",
+        "source_url": "https://www.houstonchronicle.com",
+        "source_name": "Houston Chronicle "
+    },
+    {
+        "title": "Event Roundup: What to Look Forward to This Weekend - The Buzz Magazines",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYW5JU29xZHJBNWhXeVR3aGc0LWdvSDlMMlEyaUMwbXpVbzJPeXV6aUZaOWF0WFhLYU1BakRTdEhnRXZxMXlIUVBsdDRvc3drWW9HUHc2TTFpdVVjcHV2YXhsMnhyWXpLNk5qS2VUMG5LQ0tiSUg5b3ZlYUxJcFROLUEwS2M4bzNkUjBNLWpmSnA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 12:05:05 GMT",
+        "source_url": "https://thebuzzmagazines.com",
+        "source_name": "The Buzz Magazines"
+    },
+    {
+        "title": "Free Outdoor Activities Houston - Houston On The Cheap",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fQVBDU2V6cTlFazNsLVpqV3l2UnJ3MWZzaEpQd1ZGb2dmRjBNNGZJRUpWR2FMa25sRFpOT3AtQmtOdUEzRG95bjV1LS11d1prUXdfNE12UndyZzdkRkthaDNkX1FCOHlWZGdtSXFBWFl5QQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 13:30:00 GMT",
+        "source_url": "https://www.houstononthecheap.com",
+        "source_name": "Houston On The Cheap"
+    },
+    {
+        "title": "Driver allegedly shoots at 2 Texas DPS troopers during traffic stop on Lake Wood, Houston police say - ABC13 Houston",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT051TVRUUS1PY0o0SmZkUVFKck1SUFA0RWxBajl5eGRvekt3V2owb01MWnBFN28xVWhzcTE3WWt6eTRZZW5UQkhYTzRPTUF2Ml95LVlnNTJkVk5GVG9ZMDZQbHFkWmdGcmZVeHFyVEdFVlZXdEt5NkhvRUI4OERwS3lmUzVTS01pem1FR3FjWGtXOVdwcVhXN1h2bkowNzlJdjEwUVY1WGpmZjJsUXVzT0JMSjNwMnloSEQ4d0lFYUE2R1Zp0gHKAUFVX3lxTE5VZ21zZWZMSjd3czZ2RnByVnlIOHhzbmdIRTFIMVFkWmRhMFJaYVBxOGdTdkZGSW9LTGYwdnBPeXNnQXg3VjRBZC1DT004ZnEzY25HVm1Zc3k1SEgwdG41QWVsNlZxTC1tTEhFUmotM0FYcFBQUHVOUTZkaU1NSFZLaEROc2FpamloT0tQTWFsa1ZrNGJpVUlXYmJnN25scHlnMk93R3lYSFg3dTJjWmhpLV85UjN0Z04wU0tnY1Vlb2o4QXJQeTBTNUE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 19:51:44 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "ABC13 Houston"
+    },
+    {
+        "title": "Le D\u00eener en Blanc brings class, culture to the Bayou City - Houston Defender",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKSW9MRWg1Tm5wdEpadDJzWEhhdThxSVlVWTlhb29XX0JBdy1UQkNnZmlmbHIyaUVMTVU1LTVTRE9KajNMU2xwRUl0YU9MemtVZ0ZRaWZNU05kYkxzenY2YWwwYnNlNUZDOEUwQk1pV1VPTnNsQ0E?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 10:14:41 GMT",
+        "source_url": "https://defendernetwork.com",
+        "source_name": "Houston Defender"
+    },
+    {
+        "title": "Brazosport Facts Events - quickly, quickly - Brazosport Facts",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0l3LXZhaldXMHJLZG5RR0dXOElwOEJuRUVCcDRPMExWQ21oaC1PelpTM1NJRFAwckdkaG11TjY1SlpPbWhIVzBuODZNS0RlRnphaTV2ZHNtbVh5TUU4ZFdqRlpBaEV1Y2NQNC1xaW5yQTJvcWc2YXdtMFBzSmJGX0tacWNxa0NaYTZYOQ?oc=5",
+        "description": [],
+        "pub_date": "Sun, 20 Oct 2024 06:30:13 GMT",
+        "source_url": "https://thefacts.com",
+        "source_name": "Brazosport Facts"
+    },
+    {
+        "title": "Baby boy on the way for KPRC 2's Caroline Brown - Chron",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGprRk1HTTNfTXV4eTBZeFJUUDV0V3Zfc00zaW5hLTVJSnVTWmxjX2VNVU55ZGJBaTJ3NmdHbTFQZTV1bDJZRl9jbDRZSjhLeW5yZTR1SHplcnFzZG9KUTN3V2dDazdsdkRoTDBORnlkSWRPQkQxSEJsQlBnbGVad0lGbEMzaU02?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 15:50:58 GMT",
+        "source_url": "https://www.chron.com",
+        "source_name": "Chron"
+    },
+    {
+        "title": "North Loop to close near Eastex Freeway for bridge repairs this weekend - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVYyY3BmZXJRZTRCeU9SU3lnVkh5c0JUS2RINWl0aDZQWXoyU1hWMVg3Zld0ZHotLVBtMk9abU5JSTFUSEt5Z0xaWXdvRkJoRERqcVc5eXAxZ0paT0dtdDhJZU1GZDlxZXVnMmcta2k2R1R0SGNmU2FrTWJDTEFvZkNjVDlRRldaYVlaS1FEMHQzTEJVcVhnZ0Z4TmpuSXdUZGl1eG9CQU5fZ3N3WUpfbW9iV01PQUFuaFcwcEU3eDFGbTA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 13:23:00 GMT",
+        "source_url": "https://www.khou.com",
+        "source_name": "KHOU.com"
+    },
+    {
+        "title": "Houston ISD student dies after testing positive for Meningococcal Disease - KPRC Click2Houston",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmpOTXhROENLN1Zrb2ZSS0VBb1RHakNIZ1FRRHROalFyUzVxeEhBNHYyWjJpYy1ZRldLZWNvQlFJZ25xVE95U0UxQV8teU83akc2dk1kdzhHdG9IbDdTWTFlWmI2aFlZaXhoZ1JqUWZCX0puMmhSSjg2cWc1cVNXRm50MExwNi1YN1ZTcG50VS0tcDZOekR6WER1bjJtR1JGX24td21NSDhPTE54OHJpUzhmcy1TdUFKeWVBOE1RQVl6UE5x?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 22:54:40 GMT",
+        "source_url": "https://www.click2houston.com",
+        "source_name": "KPRC Click2Houston"
+    },
+    {
+        "title": "Big Mama Thornton\u2019s Houston legacy (Oct. 18, 2024) - Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzVYak9seEtaMm5oeHI1WW1VbllhaWc5OXo5QlNIU2JnLVdkckIxSmgtaERHOXp6VGVvenlaaEtKbzJGcmgxUU9HSjdCS0s1eVJGc0QzX1psSWhEY1BtMGpnZm9YTEpUM0RXbDhtODZHd05abkltTDlTbWFnVDBlX01fR1pkR1Y5LVluMlBJVjVqM2VJSmhoZVpzbThhUVN2VTNHUVNtQU1JM3BuUUVyWWgtcE5EVmNrWXZLaU9BbXI3VEEyeGM1c1930gHSAUFVX3lxTFBOY0JlNVczcmNuWlBjcVhhbFhDUEp4WkJPcWpsdmptVE1KWVBPbTlBWU1ENWozTzVaMzJSZG1lUkVYRmxvWFJoZm1WSGJnbG1aY0o4UmdIRE1fZDRXUXFTZ3Jrbk5qRTJvdk5EbnR4QWl1ZUNqTWdjVS1rNEJZSG1zMlBGemwzWm0xN0F3QzcyQ196emNrOUpOTUdHWDFzS0kzYXRsZzc5d0RTYTFfOURlMEZaTk1zZHV3REdRRVFpM004c1BpUmJVNUZZZ2pFRWltdw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 12:00:33 GMT",
         "source_url": "https://www.houstonpublicmedia.org",
         "source_name": "Houston Public Media"
     },
@@ -432,52 +496,28 @@
         "source_name": "Houston Chronicle "
     },
     {
-        "title": "North Loop to close near Eastex Freeway for bridge repairs this weekend - KHOU.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVYyY3BmZXJRZTRCeU9SU3lnVkh5c0JUS2RINWl0aDZQWXoyU1hWMVg3Zld0ZHotLVBtMk9abU5JSTFUSEt5Z0xaWXdvRkJoRERqcVc5eXAxZ0paT0dtdDhJZU1GZDlxZXVnMmcta2k2R1R0SGNmU2FrTWJDTEFvZkNjVDlRRldaYVlaS1FEMHQzTEJVcVhnZ0Z4TmpuSXdUZGl1eG9CQU5fZ3N3WUpfbW9iV01PQUFuaFcwcEU3eDFGbTA?oc=5",
+        "title": "Houston\u2019s 5 Best Weekend Food Bets: The McDonald and The McKamala Face Off in a \u201cBattle of the Burgers\u201d - Houston Press",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODNuSDhuWTEtOG1PcGhaR1QtbTBpNFVXa1dQdEY5Q2ZSR0VJRmRVVEp6N1RCTXBfOFRrWmxod0w5cDlLNUpBbXdxcXJCQ0xlMHlZYm9FamsxRW4xY3FVWGdCeFo2em84ZkxyTDdtMEN2bWNmWFViaW1IMDVlTmcwYVZQdGQwSzhHRlM2OThtS2U2LWJteHBmckEyVUpnY2RReVUzMkRsMmJzWWE1Ml96R3RiN3pYZG10clBR?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 13:23:00 GMT",
-        "source_url": "https://www.khou.com",
-        "source_name": "KHOU.com"
+        "pub_date": "Fri, 18 Oct 2024 10:00:00 GMT",
+        "source_url": "https://www.houstonpress.com",
+        "source_name": "Houston Press"
     },
     {
-        "title": "With eyes on exits, Mercury's new partner targets companies going to market - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDluRWxuOXBkN2owSnZmLUROenJoVk9kbnpGNjhWNkkzTDlhbi1PSDlJZ1BkUVBmcXBEN2dsNDdET0VLbFZXNFRXTHhhSE5fOWd4MVF3X3F1c254Z2JNTGdrRFc2M3BtdDhfeXN2Q0RITFVFclFLSzdSRVdJNnVFUGtBUEd4X3NIdlNMTnp3VEpLRktpVzQyNTdiYVAteVhqWkg3UHlST0VGOFZOUGZuV3JSUUZHQVE2WU1uOW8yMWk?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 11:00:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "Brothers trying to protect female neighbor fatally shot by suspect, sheriff says - FOX 26 Houston",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXZoRnphWHdFZ3JhTDhCX2RZMkRKWS1pYkpVblB4X0VwQWRGdjU4M0Z5dlZqaTBObEJzRjRmYlJxX3g0OGNTcGYtU1JUX0tkVmdWenB0c2ticmZNelJJd2N5YUtLTm1RUC1rdUY2alhQRjV0a2ZGYlJDSGhuQ1dELWlLY2hqa3RoVFQ5UzAwZldOX2ZnN1AzOFhPd0NlQ0hwOFJFS09sbHhjd3PSAbABQVVfeXFMTWF5S3VWNUZKRF9qZGxXSk5RVndDX3hYb09tU25wLTh4cGVUdGV0SFFPWFI1YXZoNWNodEQ4M0pFOU1oQ2czVnJ5c21jak5DTTFmZjM1MnRXSXJudmppWV93NjdNbFVHVkV1QmRJNEFDSVF2NlV2Y2hGWUZLR0JObXV6MnVXSjVBeUN3dVBzeWF2aG9paUg3UEFrU3g1eFpCcGtRWVY2LVRmY25HZXBuOGs?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 19:20:52 GMT",
-        "source_url": "https://www.fox26houston.com",
-        "source_name": "FOX 26 Houston"
-    },
-    {
-        "title": "THEN AND NOW: How one of Houston\u2019s most popular fried chicken restaurants came to be - KPRC Click2Houston",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUpVSWlpYVVMMjkxZ1ltUEhabWM0M2VlVEg2N21EbVpkYlREN09YSHptUjBZVUE1ZFZselVKUnV6RGlGeFNzZTIzN0ZBcXlXWERIQmlCd2gyeG0tYTNQOGJYOUtuUXJxWUMwa1Ryb2xDOV9XbUVEU0lDZkJnT2JkQWlTYlJJYTI5dE1jYTIxaWdTeUpLdDVQLTNSLVRTUTZoZklfVGFSandSSUpiY1p1RmxTbFE3OTd3TEZ5QlhWaTV2cVUxME9wWWJ3M3lBdw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 13:23:17 GMT",
-        "source_url": "https://www.click2houston.com",
-        "source_name": "KPRC Click2Houston"
-    },
-    {
-        "title": "Brazosport Facts Events - Snit's Dog and Pony Show - Brazosport Facts",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWdRUXo3OXl2SnRLZHNkOGdMMFhoTF82VjhTYzhrNktCak85cU1DVVd5cWRtZmFCVy1jNjhaLVFWd21ZNmR3RzNVZXVkMjNlZm5rQ0VfQ2JGX0tGcmttWlNaY05nd3hOWDVfVDlUS0htOFdEN3J6MmZzU25zLWJvNkVTSnF0N1ZsR2QzcHFuY01zZ2V1Z1htbXV3?oc=5",
+        "title": "Brazosport Facts Events - DJ Pauly D - Brazosport Facts",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaVFJUjZEQUVmT2xINnhTdmZGQ09OSlZTc2oyek9PdTJVdW1JMUxCWU5LSWxzRXhMTGlUQkp4SEpNN2dLNk5wZjZiYXFRRWk1bnlScUpOTHFXMldUbUI0MUs1bHhLRXpCUWhnZnRram96MkdxSld0RmtfN3NqR1VfY0FfUG1WUQ?oc=5",
         "description": [],
         "pub_date": "Sun, 20 Oct 2024 02:15:10 GMT",
         "source_url": "https://thefacts.com",
         "source_name": "Brazosport Facts"
     },
     {
-        "title": "Big Mama Thornton\u2019s Houston legacy (Oct. 18, 2024) - Houston Public Media",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzVYak9seEtaMm5oeHI1WW1VbllhaWc5OXo5QlNIU2JnLVdkckIxSmgtaERHOXp6VGVvenlaaEtKbzJGcmgxUU9HSjdCS0s1eVJGc0QzX1psSWhEY1BtMGpnZm9YTEpUM0RXbDhtODZHd05abkltTDlTbWFnVDBlX01fR1pkR1Y5LVluMlBJVjVqM2VJSmhoZVpzbThhUVN2VTNHUVNtQU1JM3BuUUVyWWgtcE5EVmNrWXZLaU9BbXI3VEEyeGM1c1930gHSAUFVX3lxTFBOY0JlNVczcmNuWlBjcVhhbFhDUEp4WkJPcWpsdmptVE1KWVBPbTlBWU1ENWozTzVaMzJSZG1lUkVYRmxvWFJoZm1WSGJnbG1aY0o4UmdIRE1fZDRXUXFTZ3Jrbk5qRTJvdk5EbnR4QWl1ZUNqTWdjVS1rNEJZSG1zMlBGemwzWm0xN0F3QzcyQ196emNrOUpOTUdHWDFzS0kzYXRsZzc5d0RTYTFfOURlMEZaTk1zZHV3REdRRVFpM004c1BpUmJVNUZZZ2pFRWltdw?oc=5",
+        "title": "Overgrown lot filled with trash still not fully cleared in Houston's Sunnyside neighborhood - ABC13 Houston",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUV3aTloREs3R1dEdlozSXB6UmdHTGFlSzJZUklCSTFpczY3T3YxaHItT2xkWHI5aW1rS1c3WVc4SkE1UFk5TmlDT3N3V1p0eE1qZkVsRFNRSl9Rd2J4SE9kZjZJdWRlcmF1WlFYTDZaOF9SU04wTi03dDk3NkwxU1NhaVlaWV9sZS0xVlJHRXdqRHptaS1sUDJ2RDdETnhaZ2xnZnlmRU9BSTJ3Y1HSAbMBQVVfeXFMUHlZVFBZZzVTUTcxNVNRbkNiNlBqSWxSbkg5X1FUcVcyQ09vWkdobEpQRXdsVk5XLTNmQ3JmMnJDTU1ObVpaMTh0bmZ1Y3l4dHpDVGxpRnNtZzh0aEV5aXN5aU1jY0doM3lhTVE5cFlDRVVMNmZzV0JpOG9LRVZaSWFsS0NIZG11RGRCaG9KLV8wS3FlVlhYckoweDE4SjRSaGhKMWFkNEM2ZUpObHNqbFMxaXM?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 12:00:33 GMT",
-        "source_url": "https://www.houstonpublicmedia.org",
-        "source_name": "Houston Public Media"
+        "pub_date": "Sat, 19 Oct 2024 00:18:11 GMT",
+        "source_url": "https://abc13.com",
+        "source_name": "ABC13 Houston"
     },
     {
         "title": "Best of Houston\u00ae 2024: Free Museum - Houston Press",
@@ -488,62 +528,6 @@
         "source_name": "Houston Press"
     },
     {
-        "title": "70-year-old man riding bike dies after being hit by cement truck on Wayside Drive in Magnolia Park, Houston police say - ABC13 Houston",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDBKYXFtWExRQ1JUdERIVGNOSU1Hd0N4TlNubWxwZ2RXZHlUUmsxSWV4bjFhcXk2dXBxVGR6eFR4dk96UDBwNTVyZ19IbVliT0l0ZHFtX0pBcjd0dlNVR080VWZISHl0a09HTG8zdnNkeHpaZ1g4M3EtOG9YUFhxc3lkbnJ0TkdpS1ZlZmJHOWo3RnA5ZHFOTmlqcTdSN1RKZHZENG1mdFVoNU1pM012cjdkWGVxNzJhc1hLbnItcVJ0ZXBOSEtiUWNUQ0dUZndoREZpWmdqSVTSAd4BQVVfeXFMUHJPdy1LQ3ZPTm5DR1E5NEg3MmlFT29RUTNYT2NNVWFSNXJKNjlqVUJnYUhPemtFZGtlR1lRZDNMZFNqWEoyX0c2M3V5a2xCNDhnbGhUY3pfRzZVdWZxUFVnQURJenJrTE96Z3JfV2V1QlRGR3JiMlhudHR0WkRuYW9tX3V3SjlTQlRZcnhRS19jMXVqdWFYTmFZNkhQRENodFVSLWZHNjNCa2RTemRhUzlVdWdKY2NQLVU0Tzd5S1NidGcwcmpLVFc2SUFIZ2pzV294UkRORU9QOTdnNHl3?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 21:06:43 GMT",
-        "source_url": "https://abc13.com",
-        "source_name": "ABC13 Houston"
-    },
-    {
-        "title": "2024 Largest Houston-area women-owned businesses - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTl8wRkZiQ0V6TDNDUzA5dTRzNVhUbkxJamNxT1hwb0pXWmJwdFZxaERFNklSaC1Welc1NVVLUHY2ZnF2NEN0cl90bThYSmplVkpaTmVWWGhEbTlya2tKWFlJVFBIYTlEcGZBZzE0emNJTzdra2pWdjg1NFRVblhVLWt0VUxQT05YWGpwVW01WjJCN3JKZ3pVM3hZanlkRUJpblJlVE9jNkpEdGRncHBjSzVIejRaVDg?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 10:00:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "Rolexes and Astros suites: Inside Constable Rosen\u2019s Fertitta-backed fundraisers - Houston Chronicle ",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWQ0X2dkRkw3c1VoLTJXZzNkQ042Rk5vNTRNOVZDTXZoU3pDQjk3YnVCZlpvVVdiOFpCYVhjNkM2WUthSDBPTThUVi1jd2ZpQk5mMTh0QXBZRm1ydFhaSmJFUGpSZUliTTVtTFhuXzFYSHAwYXlpTzI3aDFldUN4a2p3djk1S3BBRXA1MVFsbU5Ubi1nY283MlNRankwY0p4OWQtdkJZQ3ZmNm5UVndKNDBJZlNTZFFVQ1hWeGpn?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 11:12:52 GMT",
-        "source_url": "https://www.houstonchronicle.com",
-        "source_name": "Houston Chronicle "
-    },
-    {
-        "title": "Houston\u2019s 5 Best Weekend Food Bets: The McDonald and The McKamala Face Off in a \u201cBattle of the Burgers\u201d - Houston Press",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODNuSDhuWTEtOG1PcGhaR1QtbTBpNFVXa1dQdEY5Q2ZSR0VJRmRVVEp6N1RCTXBfOFRrWmxod0w5cDlLNUpBbXdxcXJCQ0xlMHlZYm9FamsxRW4xY3FVWGdCeFo2em84ZkxyTDdtMEN2bWNmWFViaW1IMDVlTmcwYVZQdGQwSzhHRlM2OThtS2U2LWJteHBmckEyVUpnY2RReVUzMkRsMmJzWWE1Ml96R3RiN3pYZG10clBR?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 10:00:00 GMT",
-        "source_url": "https://www.houstonpress.com",
-        "source_name": "Houston Press"
-    },
-    {
-        "title": "Brazosport Facts Events - quickly, quickly - Brazosport Facts",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0l3LXZhaldXMHJLZG5RR0dXOElwOEJuRUVCcDRPMExWQ21oaC1PelpTM1NJRFAwckdkaG11TjY1SlpPbWhIVzBuODZNS0RlRnphaTV2ZHNtbVh5TUU4ZFdqRlpBaEV1Y2NQNC1xaW5yQTJvcWc2YXdtMFBzSmJGX0tacWNxa0NaYTZYOQ?oc=5",
-        "description": [],
-        "pub_date": "Sun, 20 Oct 2024 06:30:13 GMT",
-        "source_url": "https://thefacts.com",
-        "source_name": "Brazosport Facts"
-    },
-    {
-        "title": "Pasadena family demands justice for slain mother - FOX 26 Houston",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWE2U1VBdWNOSjdlQ3FPR01kS085UW52ZlVNX1Q4UTlPV0NKU3g5eVVkUTRMQ0RzR3RQQk1HRWRkVnFSTzRIMGlNcEVsYk1xaUZweWxjc3lhS3h5dW82TkRoaUxzQTZWd2R5eFZBeTNYU2hGMEJ0amx5ZXl3Ql9LTy1wZEnSAYoBQVVfeXFMTUIyZkNIRDAxRFhyb1ZVaHRoMTZZckRGOV9NWkcwaXJyWndPZGxoSmV1dXZWa19OTDZwMjBVMnA3UE9KY3JjYzR2Nmt3REdLeXNJc0RlWW44YUV4UkV6YVJPMFFRWlNkS3lFSE1raHpwUzFTVnhObU45NEQxMXZUeWROUW5Uc0hwSHl3?oc=5",
-        "description": [],
-        "pub_date": "Sat, 19 Oct 2024 02:30:36 GMT",
-        "source_url": "https://www.fox26houston.com",
-        "source_name": "FOX 26 Houston"
-    },
-    {
-        "title": "First Service Credit Union eyes mergers and acquisitions, other expansion to 'ensure survivability' - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMExMRkNTM19GZWh4M3BNOGlkZG5IS0tkbTF4eEd6SDU5UWlBWHpwYnlpYWI2YThDbkE3MHVLTlJDWkVqQVNPR3FyWWlKVHFFT3RyMEhud3d2cjloal9FNDJFU3lMZjY4WEtfb05ETVc0anhVYjdOZFpZV0tNRWJEMUgtSzdHZFNxWVRVVW11eF9GSmFST3kzM0dkOWFWbjRNWjB1RFhUVFBHaEE?oc=5",
-        "description": [],
-        "pub_date": "Fri, 18 Oct 2024 10:00:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
         "title": "Kalu & The Electric Joint in Concert at Axelrad Beer Garden - 365 Things to Do in Houston",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGRZcTh0R054NXcwZEtGbTZhN2pjMWN2X2ozWjVzNVVCRF9LTGlaTjRlcDFqWjhuQ1V0ZkJPZUYtOVBNMnlBd3h2RFJkeEh0bVRodVJfRTVNUEdNZXo0a3BaUC1QUnI4Zk1EY0JJV2U4TmQ5U29SdDJtV3kwbkJtSFF2WmZuZEZwdnI0dWZJSFhUWUtDaXBRd2txTGxsSTA?oc=5",
         "description": [],
@@ -552,11 +536,27 @@
         "source_name": "365 Things to Do in Houston"
     },
     {
-        "title": "This popular downtown Houston area is poised for a major redesign - Chron",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTJCUlhXZEFGM2tmdTE3OEVVX2M5Q3RnMnpBZVlPOVNVeFBxeWhxMm5oVjZzMVBhS2UzZV91azIwdFVkODRnd093bHJWdlB1MGQ1cFYxY1JQQy1WMDVEOGpXYjk1WlJTRUVScXkxTFRFQkpvR2d1Tmhod0QzNnZWWUh2SDNTLVNudHoxZks5TQ?oc=5",
+        "title": "Negative impacts from SpaceX launches: The Good, Bad, and Ugly of the week - Houston Public Media",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLThrTDJ2Q0YzLXlPRWlZNjg3eWZtUm92cTZ3WXN5anZaTVRMd3prZWlCTXFOTUJtcFdqY0MyRnFXd0w4UHBvT2QyYlNxWUp2TXlKTUpnX2xtRmVNbWozMl82bHd4ZWxOanJaLWhFaGo0TGJaRHV2OG5QdjI1bXdDM1JvcUZtMVBFLS1MZkYyUDZVaUI0RmlGblM2cEpWRWVKcGtVcklKMk9vY0ZhQXdBSXR2VmkyWk9QUGk3Ykx4TFVLVWpQbXdYWHVQalM5alh3UnJwZ1ZCTEdSRlAwaE9Wdi1DTm5XTUhFclE2QtIB9AFBVV95cUxPallSdFdSRDlNTnZuaWZYMnNpWF9ISlNJMFJVX2ppMWlHT3hVYzhybXN1ODZWYjZPM3pXZm5Fb0FpbGJCYzVJY2dxVHV4NTZkU28xNlFNNDk1V0JtSnFQdTVvYXduNm1CaVc3WmpsU2JhOFc2MjZZWjZfZXRmUFhxc3VZR2RMWE1ab20yb2pUbUw5V1RTcVFRajhDNThCank4RkdJRFUwNHExU3lzUURIbndob0hwaTlEeGU5ajFXNzlCLTk0cUx1bGNnS1lVazhjMENlR2E3bU1KZlZlWU5DQUlUY2o2eUk4SGxwdktwTkp4TktF?oc=5",
         "description": [],
-        "pub_date": "Fri, 18 Oct 2024 16:28:19 GMT",
-        "source_url": "https://www.chron.com",
-        "source_name": "Chron"
+        "pub_date": "Fri, 18 Oct 2024 11:45:13 GMT",
+        "source_url": "https://www.houstonpublicmedia.org",
+        "source_name": "Houston Public Media"
+    },
+    {
+        "title": "Harris County couple still waiting for mail-in ballots nearly three weeks after being sent - KHOU.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjdMRnZidENndDZ2TTVXUjN0ZkRTbm1CVl9pdUsxMW5jUDNQdld5TlZtQTkycGN1MlZqRFdkQ0YyT3JwWWRUQVVIX3BzRm9MTzl2Q2hnbkp1ZnEtY1Z4Vk5vdVV4Tm5tWUtJZkFDTFRBMzZpbk8yd3E3T3pfR2RsSUREUmtySWdwaGxoTC12WkQ4WlJRWUIwcGYzRndvaHJYdnNBT21raVVMbnlfc3dBZVhYWGxsLTRFejRRUERwbzhSUWlIUFU4Ug?oc=5",
+        "description": [],
+        "pub_date": "Sat, 19 Oct 2024 03:19:00 GMT",
+        "source_url": "https://www.khou.com",
+        "source_name": "KHOU.com"
+    },
+    {
+        "title": "Elderly bicyclist killed in tragic collision with cement truck on Wayside Drive - CW39 Houston",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanRGODRNaHp6Qkt1Nzl3TGo0TlVZS0NTUFYtQVhCeUhPM1ZXNFh5OWJ0SjI4Y1I0SW5Sd21RVThDWVo1d3pZMnRTbFNkOVB1SWFUVTU0ZDBBMF9QcExrd19IMFhWekpHc3FteTBBRWM5bG9BMU5RN3hZaU1pVDFfN25UdXFfZlVDY1lNbms1Mi13VUthc2tBblp1aWllZE9QR2g4SdIBqgFBVV95cUxNcEtuSHFrUnNJY2c5UEljQzNjRXkzaC1FMjdJaFdHYTRfU0JGQXNuR1JUM295V2o1b2REQm1MUUVkUnZQOVBDWDRoV1RWbzFQM2dzcXNyRmFtYlE5dlBYRExpMklPbmhOVFNYSjB4WC1uRFlHVUdQNHZEMzgtUk0zd3Y5a1B2TUpHRHk3Wmk2X3ZZX3lOZEZQc3Rva0Nod2lZSUM2c3lhSlNBUQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 18 Oct 2024 23:49:02 GMT",
+        "source_url": "https://cw39.com",
+        "source_name": "CW39 Houston"
     }
 ]
