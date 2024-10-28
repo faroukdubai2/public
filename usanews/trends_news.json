@@ -1,18 +1,114 @@
 [
     {
-        "name": "Cowboys vs 49ers",
-        "summary": "In yesterday's Sunday Night Football matchup, the San Francisco 49ers emerged victorious over the Dallas Cowboys with a score of 30-24. The 49ers took down the Cowboys in a thrilling game where they overcame a shaky start to secure the win. Key players from both teams performed well, leading to a series of intriguing matchups. Unfortunately for the Cowboys, their disappointing performance resulted in a 3-4 record. Experts had varied predictions for the game, but the 49ers ultimately prevailed. TV coverage of the game was widely available, and highlights of the match can be found in various news sources.",
+        "name": "Bucks",
+        "summary": "In the NBA, the Milwaukee Bucks began their season with a strong performance, defeating the Philadelphia 76ers in their opener. Meanwhile, the Brooklyn Nets prevailed over the Bucks in a later matchup. Off the court, a viral video purporting to show destroyed ballots was debunked as a hoax by Bucks County officials, who attributed it to foreign interference. The Bucks are reportedly considering a trade to create roster space for a 2021 champion. In other news, the Bucks guard Andre Jackson Jr. was involved in a car accident in Milwaukee. Despite a strong performance by Giannis Antetokounmpo, the Bucks lost to the Chicago Bulls, who secured their first win of the season.",
         "items": [
             {
-                "title": "49ers Take Down the Cowboys; Five Takeaways from #DALvsSF - 49ers.com",
-                "description": "49ers Take Down the Cowboys; Five Takeaways from #DALvsSF  49ers.com",
-                "published date": "Mon, 28 Oct 2024 04:17:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUhjZlFDb19RT20yY2NrbmJxZE8yV3U3NEt2cXZtZEtVQmhlMzdJUjdfS0I4RTVGOVAzTW00RUp6cVlVdW53a0Y2WXNDUXI0SzVnaldIeTkxVGMtVkVUMHphNjJ4MUVlbWh2TVRiZlVsb3VPbzc0TmUzV21xNEo0NS0zVWh6eHdBdFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Bucks-76ers: 5 takeaways as Milwaukee dominates Philadelphia in opener - NBA.com",
+                "description": "Bucks-76ers: 5 takeaways as Milwaukee dominates Philadelphia in opener  NBA.com",
+                "published date": "Thu, 24 Oct 2024 06:27:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2Tzk4T1RHVW84aHVueUw4MmdWeTdtUVl1bXZrVW9ONU9Pd3hBZDRHcW5VUzJVOU9Qb2NhNW4yNGNhRm1DY3NMZm04N29taDJEQ0xPRU04TUR2YmhQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.49ers.com",
-                    "title": "49ers.com"
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
                 }
             },
+            {
+                "title": "Nets 115-102 Bucks (Oct 27, 2024) Box Score - ESPN",
+                "description": "Nets 115-102 Bucks (Oct 27, 2024) Box Score  ESPN",
+                "published date": "Sat, 26 Oct 2024 18:57:17 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByQTI5cnNMYkVVeHMzUEM2SzhMQWswekI0NDdMaFFJOVpLVUtYLWRzbDNIdW9BWXY2cHVhNWozTmVrTXpnUkhnN2VsS1FFb0ZWSjdjeEpETEt5TFRRektkSVJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "'This video is fake': Bucks County DA says viral video of destroyed ballots a hoax - phillyBurbs.com",
+                "description": "'This video is fake': Bucks County DA says viral video of destroyed ballots a hoax  phillyBurbs.com",
+                "published date": "Thu, 24 Oct 2024 23:17:25 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTjBGSGN5c0tJVGNZaVBodFhUc1NadWZFbld6SzFBUGhnbVppbXR3WUVBcE1XRS00aUtPeThxY25VV0thVzBDeHpwSHk4R0NBOXFVQnJIMXlVZ3psOTE4eVZaRV9YOUZiMlRLYlcxSDF5SDZDMFEzb0h6WVlHT1Q2T1pXYjBGMTBxbDlKUG1TV19McTI5V3ZkRW8yNFoxTlR0YmdGcVFVZ1o1LXZEQ1g4OW5KVENNd0V5MVNkUEVUVFdrejFRblExTkJTazFDdjZ1b25JbjU4cTZCLW1QNWs1WG1YYW9UMk5Oc3RrNlEyV3MyVjk3NEIwd256dzh0YkVoQThvYjJXaG9oN0NTN20w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.phillyburbs.com",
+                    "title": "phillyBurbs.com"
+                }
+            },
+            {
+                "title": "Bucks News: Milwaukee Considering Trade to Open Roster Space for 2021 Champ - Sports Illustrated",
+                "description": "Bucks News: Milwaukee Considering Trade to Open Roster Space for 2021 Champ  Sports Illustrated",
+                "published date": "Fri, 25 Oct 2024 16:00:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1lqRGRKLWE1eC1QbFpEUC1zUzBoQTRMQ251ZnRlWVBweEZ2MzlOWXA1dHkxUGt6Z2lsZzEzQmZrQkYxSUxpZVZJOFFJd1VvNE1zZ1FYamlIREFWWHVjN0ktbVZ5bDR4SnpESnNUZ2pzMTdaenY4b2FETXJHZ2UtWEZRemgzcmJ2Uk1CZ2FnUFp2djAtZThmUUdBUjJ3bHQtRkU3b29FOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "Bucks guard Andre Jackson Jr. crashes car into Milwaukee apartment building porch - WISN Milwaukee",
+                "description": "Bucks guard Andre Jackson Jr. crashes car into Milwaukee apartment building porch  WISN Milwaukee",
+                "published date": "Sun, 27 Oct 2024 03:49:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkxHamFrczVVWmF6YzVEWmJQS194c0tXMk5DSW1HRHZnNm9XZUE3bXhjRm1oRmIwN1J1VGNxelBYdXRiMkpKSGVxSFFKc3BiREgya09KMmt5bDBDbk51d2dtTFY2QUpweFlIVXBZZFh4LTZReWo3M0g0MzRPVTN0ZV81TUQ0SlBoYVBsQndXQ1QzNXVjRktjWExIUEMxeF9hOUlVbEFBb29fWndaUkZxaUJZU2JSSDJMd3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.wisn.com",
+                    "title": "WISN Milwaukee"
+                }
+            },
+            {
+                "title": "Coby White scores 35, Bulls roll past Bucks 133-122 to get in the win column - The Associated Press",
+                "description": "Coby White scores 35, Bulls roll past Bucks 133-122 to get in the win column  The Associated Press",
+                "published date": "Sat, 26 Oct 2024 02:45:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0tLbGUtRWlWS0xqOExmV3NSdW5jak9oSFVRS19IaTBRZWRFUDFEcldiSHFMY2ZjUHpnRFloTEw0Szc5Q1lCSnFBdjFQMmhXQy1OWllXQVBoZEVDZWtBVFlIMnVJV2JaWmd6ZVllTE9YSG9GSXVMcW5Na0tzc0NjS01Ncw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            },
+            {
+                "title": "Video of Bucks Co. ballots with Trump votes being destroyed is fake from Russia, officials say - NBC Philadelphia",
+                "description": "Video of Bucks Co. ballots with Trump votes being destroyed is fake from Russia, officials say  NBC Philadelphia",
+                "published date": "Sat, 26 Oct 2024 01:58:38 GMT",
+                "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZy1kSjZ2WDcybUpkNHR5ZWJXdi0tSkZLbE5WMFYwWWxHM3BESDBaYVdZbHA3RnlmLUdTRW9Cd0hJNEt2Tkt6d0xuNUdwUV9qZWw2bUlTTnY0UkU3MU56TVV4RWt0YjliSVlQbVJYTVRsdlFUVExBQ3Z1SjhQUEZQM0RRSmRSRVBTWDByMF9tU19kM2JWNXRTQW41MEdVX2c4T0xXYWRPLXVraFB6MDA5Q1B6NzdTbWdOekVNTXZ3cWU2VkphUjlxZEF4Wi0yQdIB1gFBVV95cUxNT0txeGpvSjNnQTZXclRtNGpacG1BMFg4bDRkdWxMMTQ2SEtSOHJpOUtkU3lHNC1XM21Wa0RDdkx5eEpWMFUwV3BfV2ltRHZTUTZPWWc2OEFYcXhKdUg0VTNSblY4Q2JZNHFEMHBGQTZtUEFuRHJHYjgxQjJhbTJRckxlc21TRUFwZEdid3hYVUdLa2R2VHEtOVlmcS0tMV9rU2FOeW5Oc2piVDg2X3ZfeTVWVnFnWjg3Ty1XZUNVd2k3dDlXa2dLX0hTeXhBc2YwVjc3WElB?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcphiladelphia.com",
+                    "title": "NBC Philadelphia"
+                }
+            },
+            {
+                "title": "Bucks player involved in car crash on Yankee Hill Saturday evening, no injuries - TMJ4 News",
+                "description": "Bucks player involved in car crash on Yankee Hill Saturday evening, no injuries  TMJ4 News",
+                "published date": "Sun, 27 Oct 2024 01:10:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM3dMa0RpaGFyNUlFQjdlMXRFTDJpNzROZ1dHSUxPQ3otWVl6Tk96QTZoY2VGWmJWOHQ5TWVyT2FLdHRPMERaa3lGUTN3VEpUc2lwXzljSnBRTnp4MDU3QTlWU1NPcGNhampHbUNOWEVLTmItUGp4eTdVVXJPZnRzXzRXVmNDenBLME56enQ0QnV1VGhJSXMxdEQwTG5aam5LZ1cxWFhyeDNNblVrOEhCRFNQbHR6QjRVU1cwa2ln?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.tmj4.com",
+                    "title": "TMJ4 News"
+                }
+            },
+            {
+                "title": "Big nights for Giannis Antetokounmpo and Damian Lillard not enough as Bulls beat Bucks 133-122 - Milwaukee Journal Sentinel",
+                "description": "Big nights for Giannis Antetokounmpo and Damian Lillard not enough as Bulls beat Bucks 133-122  Milwaukee Journal Sentinel",
+                "published date": "Sat, 26 Oct 2024 02:47:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYW5McG1vYUZ5WlRjQlViV0dYeV9PaWMtZEt1ZlhDV3N6dkxvbFMwc1NFWlhFaFBwb3hZSGloSU84THA5SURIRVBtV2U4R3NlVTVPeERZbFI3QmNrcE56bG84OVhEMzhEZXhraWJsd2NVeDNtTWpzNFR2S05KYTBNRm9IRXktbmRDdVlWaUxEcDBCYkhqR1d3TmdSanQzUFBfMkdXTGdQZjdWZ0lDcmNBeTR0QkVVV051Ni00ZU1hSmdaMWYxa2c2QllNNG1GQVcyQTZUd21ITmJfb29s?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.jsonline.com",
+                    "title": "Milwaukee Journal Sentinel"
+                }
+            },
+            {
+                "title": "Starting 5, Oct. 23: Bucks vs. 76ers, Clippers vs. Suns mark ESPN doubleheader - NBA.com",
+                "description": "Starting 5, Oct. 23: Bucks vs. 76ers, Clippers vs. Suns mark ESPN doubleheader  NBA.com",
+                "published date": "Wed, 23 Oct 2024 19:32:20 GMT",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMM21abXlHZ09xTFI2QmZsR3lYMHdnOXo4NkY3WC1lUnBaSmNaRnNrSWJIeHQ1NnFPeHJrWmExdjdaMFd0M2k1Rzhsd2c5czZFUVZDTno5MkdwWC02MXIzTWItY3JZeUVMTHlhdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nba.com",
+                    "title": "NBA.com"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Cowboys vs 49ers",
+        "summary": "On Sunday Night Football, the San Francisco 49ers defeated the Dallas Cowboys 30-24. Key matchups and players included the 49ers' Trey Lance against the Cowboys' Dak Prescott. The spread and odds favored the Cowboys, but the 49ers ultimately prevailed, extending the Cowboys' losing streak to 3-4. Experts had varying predictions, with some predicting a Cowboys victory and others favoring the 49ers. The game was broadcast on NBC, CBS Sports, and Yahoo Sports, among other channels.",
+        "items": [
             {
                 "title": "Dallas Cowboys vs. San Francisco 49ers: Key players, match-ups, odds and predictions - El Paso Times",
                 "description": "Dallas Cowboys vs. San Francisco 49ers: Key players, match-ups, odds and predictions  El Paso Times",
@@ -21,6 +117,16 @@
                 "publisher": {
                     "href": "https://www.elpasotimes.com",
                     "title": "El Paso Times"
+                }
+            },
+            {
+                "title": "49ers Take Down the Cowboys; Five Takeaways from #DALvsSF - 49ers.com",
+                "description": "49ers Take Down the Cowboys; Five Takeaways from #DALvsSF  49ers.com",
+                "published date": "Mon, 28 Oct 2024 04:17:57 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUhjZlFDb19RT20yY2NrbmJxZE8yV3U3NEt2cXZtZEtVQmhlMzdJUjdfS0I4RTVGOVAzTW00RUp6cVlVdW53a0Y2WXNDUXI0SzVnaldIeTkxVGMtVkVUMHphNjJ4MUVlbWh2TVRiZlVsb3VPbzc0TmUzV21xNEo0NS0zVWh6eHdBdFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.49ers.com",
+                    "title": "49ers.com"
                 }
             },
             {
@@ -44,6 +150,16 @@
                 }
             },
             {
+                "title": "Sunday Night Football highlights: San Francisco 49ers defeat Dallas Cowboys 30-24 - NBC News",
+                "description": "Sunday Night Football highlights: San Francisco 49ers defeat Dallas Cowboys 30-24  NBC News",
+                "published date": "Mon, 28 Oct 2024 03:44:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0pEOGtyYWV4WnBscjhnbUtWVmVhYXhiN250TmF4elhKdkxlNWVlWl9ObE01d182U3NhRU9LV2F1aV9DbFFfRjBGaEpKQm5waVAtX003VDBVc1R2SVl2OE1JWGttaHdqSTJWZFl1UGdUNlV3eWlrcHRnaGpUQVdoTGlmSXhEVXFZQ3RUazhkdWFFQkxQTXlvc0k1cVI2c1VvVFg4QjZRVdIBY0FVX3lxTE1GNlcxeHlNNWRkWk5Xek5rNHBqZWhTRWExX3JleVFYSzVnR0dtN0ZGUHVWMUs3TnE2Y1VzdlQ4SElSenZlT0dEZVIwaTVhemRGTE1jMU5RQllsYlF1ZUlIUllIaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcnews.com",
+                    "title": "NBC News"
+                }
+            },
+            {
                 "title": "Where to watch Cowboys vs. 49ers: TV channel, NFL kickoff time, live stream, spread, odds, 'SNF' prediction - CBS Sports",
                 "description": "Where to watch Cowboys vs. 49ers: TV channel, NFL kickoff time, live stream, spread, odds, 'SNF' prediction  CBS Sports",
                 "published date": "Sat, 26 Oct 2024 22:00:47 GMT",
@@ -61,16 +177,6 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Sunday Night Football highlights: San Francisco 49ers defeat Dallas Cowboys 30-24 - NBC News",
-                "description": "Sunday Night Football highlights: San Francisco 49ers defeat Dallas Cowboys 30-24  NBC News",
-                "published date": "Mon, 28 Oct 2024 03:44:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0pEOGtyYWV4WnBscjhnbUtWVmVhYXhiN250TmF4elhKdkxlNWVlWl9ObE01d182U3NhRU9LV2F1aV9DbFFfRjBGaEpKQm5waVAtX003VDBVc1R2SVl2OE1JWGttaHdqSTJWZFl1UGdUNlV3eWlrcHRnaGpUQVdoTGlmSXhEVXFZQ3RUazhkdWFFQkxQTXlvc0k1cVI2c1VvVFg4QjZRVdIBY0FVX3lxTE1GNlcxeHlNNWRkWk5Xek5rNHBqZWhTRWExX3JleVFYSzVnR0dtN0ZGUHVWMUs3TnE2Y1VzdlQ4SElSenZlT0dEZVIwaTVhemRGTE1jMU5RQllsYlF1ZUlIUllIaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcnews.com",
-                    "title": "NBC News"
                 }
             },
             {
@@ -106,27 +212,133 @@
         ]
     },
     {
-        "name": "Jets",
-        "summary": "The New York Jets suffered a disappointing 37-15 loss to the Pittsburgh Steelers, marking their fifth consecutive defeat. Against the New England Patriots, the Jets faced another setback, losing 25-22 in a heartbreaking game. Despite predictions and odds favoring the Patriots, the Jets' defense held strong, but costly turnovers and penalties ultimately led to their downfall. Quarterback Aaron Rodgers expressed concerns about the team's excessive anger on the field, emphasizing the need for a more enjoyable atmosphere to improve their performance.",
+        "name": "Bears",
+        "summary": "The Chicago Bears have activated linebacker Matthew Adams and cornerback Lamar Jackson from injured reserve, while elevating defensive end Davontae Moore to the active roster. The Bears will face the Washington Commanders on Sunday at 1:00 PM CST. The Bears are coming off a 44-7 win over Oregon State in college football, while the Commanders are looking to snap a three-game losing streak. Three keys to the Commanders' success include limiting Justin Fields' mobility, pressuring the quarterback, and winning the turnover battle. Despite being in a favorable spot coming off a bye week, the Bears are facing a tough matchup against the Commanders' strong defense. Meanwhile, climate change is exposing polar bears to more pathogens, while Tyrique Stevenson taunted Commanders fans before the Bears' loss on a Hail Mary touchdown. The Bears' biggest salary cap hits for the 2025 season include quarterback Justin Fields, wide receiver Darnell Mooney, and defensive end Robert Quinn.",
         "items": [
             {
-                "title": "Jets-Steelers Game Recap | Early Lead Evaporates in 37-15 Loss - newyorkjets.com",
-                "description": "Jets-Steelers Game Recap | Early Lead Evaporates in 37-15 Loss  newyorkjets.com",
-                "published date": "Mon, 21 Oct 2024 06:47:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFNrcmo2Qm05eG4wM1FfRVdhMWs4MUsydTRSck1iZkhFT2NjVGR2c1RNa0J5T2REaW0yeXJKUjNUQUtqUXV1TTlNZU1FbXJXT0YzSGw2ckxFZUlwN3ZkZ05FSl94RU0tbkxRMGR5UWxPWmE3bkhpVVI2ZHoyRWJiSFhtYklQanp6WUk0OUloUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Roster Moves: Bears activate Martin, Homer off IR; elevate Moore to active roster - ChicagoBears.com",
+                "description": "Roster Moves: Bears activate Martin, Homer off IR; elevate Moore to active roster  ChicagoBears.com",
+                "published date": "Sat, 26 Oct 2024 18:02:06 GMT",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUpPbEFldVZVNDRFT0dvcmp0N3MtNGpGVFQ4Y04yWmJiR2p5ZmdXTkRNUGtTbnFLVTdzeFpNb0lpUy1OejVBRlAxUl84alNodHdlNFVLbVFONS1zUU5UaS1DQkRwWEhSaTBDZm1oM1VMaFNCbHBscXdwYlhmUFF5dlRlbWlsMWZ3cC1HWkt3SXYwQ1h3c25xT0plZGZtUHJBMXhwQUxfQ05oOTBlWlB3c01n?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.chicagobears.com",
+                    "title": "ChicagoBears.com"
+                }
+            },
+            {
+                "title": "What time do the Bears play Sunday? What to know about the Week 8 matchup vs. the Commanders - NBC Chicago",
+                "description": "What time do the Bears play Sunday? What to know about the Week 8 matchup vs. the Commanders  NBC Chicago",
+                "published date": "Sat, 26 Oct 2024 14:13:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmx1N05Ld21oQTItRmVLV29LMHNUSXFQV1BIYzhwbUMzUXROSUoweDRTZWUtMGdOTHVrYWlBQWF3WDF4ZE1EWkJJT2U2TldXMXpQaC0xUXJpT2VET0ZLUi1ROV9TdlJTYVlzSDNIcXoxcjJDMHNRYm82cmVDV1NNNkthd0Z3NFJCWm02OWd1QzRLd1dwdVFNa3dzaWI2MGVOQUNzakhoR2x5WGtlNVNMUVg2RXVGTXkteVgwUlR0ekNaVGVyOHR2NEdjMGZtcWp1d3lB0gHbAUFVX3lxTFBVUm9aR1Jsa3FiMUVaU3p5azZ1SVQ0VnV4ajNFYmxWRUp5RUFCMkYzcDlmVXVVbGNtYllscUVZVmQyRzV2aHB1M3ZwNDV4UFFWYThtU0hOdHZuOUtmcDM0TkppU3N4UFEwZUVwZ2dHTnd1aWJaUTNsbEUtS2tSUGxkekFfTVl1NHBHYTNCNl9mTDdoazhyOUFRU0c2WFhmV3FaQnJScHFxVng2eVZqYUZmQWVSQzJadWxvUzJrQU5qVk82LVVsUXNSQzRTZi13UXA2TVZvWmJrQ0UyWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcchicago.com",
+                    "title": "NBC Chicago"
+                }
+            },
+            {
+                "title": "Bears Dismantle Oregon State, 44-7 - Cal Athletics",
+                "description": "Bears Dismantle Oregon State, 44-7  Cal Athletics",
+                "published date": "Sun, 27 Oct 2024 00:33:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1E5U29jOGYzSGlWaHpEM0FLV2RPTlNLbTRkaldESFJMemxfNWNkaHdVRHVNTkZMNUU3WXY0NnRHYWpuTUhtanBQUFVXWHU0WF9ZU1AtbF9NWU9nM0RxNE9ISTE0ekFCcGNzQjhETVB5dDlpOUNXMkRMRWZKa1ljYldEWXFwZkdEMy04Rw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://calbears.com",
+                    "title": "Cal Athletics"
+                }
+            },
+            {
+                "title": "Three keys to Washington taking down the Bears - Washington Commanders",
+                "description": "Three keys to Washington taking down the Bears  Washington Commanders",
+                "published date": "Fri, 25 Oct 2024 15:44:56 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWZkakx3RGFjSEpFN3A2ZVV0UGVsY1RxeTdNVndycExnNWc3aU12Q2NRRlhrd2NMU1JJZTBjbXRIdVlzZ3lSZlBTaDV0OWJrWXhhdTBSdC1md3ZiVXluNWptTVdubjViS0ZUM1NwU0tDRVhhV19fQ2RhMkZ5UlJGMU1uMVM?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.commanders.com",
+                    "title": "Washington Commanders"
+                }
+            },
+            {
+                "title": "Caleb Williams, Bears are in sweet spot coming off bye week - FOX Sports",
+                "description": "Caleb Williams, Bears are in sweet spot coming off bye week  FOX Sports",
+                "published date": "Mon, 21 Oct 2024 16:21:40 GMT",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWx4TVpPR2JfUEF4SVVZZEYtS0RNT3hfWk1qNFRSQm9KbHg4X1Q1d2laSUl3NDJVTU94aUpfTEZPcWlSQmtNTktlUlNIaTRhc0ZtWUlzUEpBVGhabnJLMTlSYTZNeVpKMmVSZjd6eWlmMGdhWlB0UXFhMnFTSk9RTzh4NlJCX3ZzS2NCRkVOeVZWMzcwc1l0NtIBmAFBVV95cUxNdXB0TU1CVVVwa0Ric0pzYUFiLWU3RlBnRW5iaE9OYVRESXV1MENWVFFleGFfc3B4TGhlMnJNZGRUbkpMd1hMVk9nQTNTdWdHVmw1WDJSQnJjUEVKclhxQ2xfb19SU2Z3YUxmemlMcWxsLTM3MnU2bmxfWW1iSXZielFZVnJtNTYxOWpOM1ExbVRUR1JuSkNVeg?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.foxsports.com",
+                    "title": "FOX Sports"
+                }
+            },
+            {
+                "title": "Polar bears are being exposed to more pathogens as the climate warms - Science News Magazine",
+                "description": "Polar bears are being exposed to more pathogens as the climate warms  Science News Magazine",
+                "published date": "Wed, 23 Oct 2024 18:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EOU1RdExjVWJEaEsyU3Jic293WnY0c3YzNjEwcEJyN0JJeEZyZTM4TDVTRzdKYTlyTGhKbjdaaW9aLVczVS1FeDVZSHdYRHA5cVpkaWpGTVFoMGVvcEJobzM5cDE1S25hVTd5N2NYWGZLSUNqdEFBVGhZTTI?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.sciencenews.org",
+                    "title": "Science News Magazine"
+                }
+            },
+            {
+                "title": "'Like a movie': Daniels wows with Hail Mary TD - ESPN",
+                "description": "'Like a movie': Daniels wows with Hail Mary TD  ESPN",
+                "published date": "Mon, 28 Oct 2024 00:02:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXRYWUpubElPV1F6azY3cGExcG5saXJWTDREVHdwSFZIYVpkdGtSV3YtQ1gtdkc5enRVSHJiOVFIaUY4ODNEU00wc0FHaGswX18wNVM0Tk9VSUR4MkZVclVZc0Q1bHN2WlBtb0ZfWG94TFRJQnBQYTU2YzlyREVTWjVEU3p5OWRZSXNKRkpVdkMxbUFkQTBINGlZTVUwQW1idVpEZ19B?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "How to watch Bears vs. Commanders today: Start time, TV, live stream for Week 8 game - USA TODAY",
+                "description": "How to watch Bears vs. Commanders today: Start time, TV, live stream for Week 8 game  USA TODAY",
+                "published date": "Sun, 27 Oct 2024 09:12:15 GMT",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGVzSWowd2NBLVJ6bS16T2ZOVlVHQ3pyazRlMW5qdHd0NldYQkV6NUhIclUzOTZLdjRmOTB3RmdkZ2lzQ2FKTmttUl9QTTNJODdzMkU0d1pIQ3c5dUFqSy1MdGFLSWVvSVFPYW9XX01SM2tFYS14LXhobzZRMXphNGNfZGw3MXJKWkZvQVktMjlSOU84ZGN2SktaVnBmZVd5c3hsVVNlbndETTZrNmVF?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Biggest cap hits for Chicago Bears ahead of 2025 season - Yahoo Sports",
+                "description": "Biggest cap hits for Chicago Bears ahead of 2025 season  Yahoo Sports",
+                "published date": "Mon, 21 Oct 2024 16:45:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GdFZhdi1FMWt3dEFXRTIxUm0wQ3p4YVVrTE5vdGFqdmRWUXpDTDhjYjlUNGFSNHJQYnFMY21OSE5nT3Njd1FIS3ZlTkc0dG9oRjJhTkp4aFE5X0locVIxX1ZERlRVb1pveHdwZlh4VGxqNzYyUm9sT3Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://sports.yahoo.com",
+                    "title": "Yahoo Sports"
+                }
+            },
+            {
+                "title": "Tyrique Stevenson taunts Commanders fans seconds before Bears lose on Hail Mary touchdown - The Associated Press",
+                "description": "Tyrique Stevenson taunts Commanders fans seconds before Bears lose on Hail Mary touchdown  The Associated Press",
+                "published date": "Mon, 28 Oct 2024 02:44:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTk5nbm1MOGJlY0FzbW5TQnE1MFZ5amJ1MVRoYnJHQjZHYnJpQUE1a1JmNXk4Q2VRcVZxOGlPZ3NiQkJzdE9tRVZGVFY4SjhkQlBaRnJHeXdyMEhIZVEzYVZmLS1TcmxXaVFzMUM0aGVtUXNYVUduM0RvZ0VNbUcwS3dva09WUmFyZ3B3?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://apnews.com",
+                    "title": "The Associated Press"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Jets",
+        "summary": "The New York Jets faced a disheartening 25-22 defeat against the New England Patriots in Week 8. Many experts had predicted a different outcome, but the Jets' performance on the field was lacking. The team's head coach has identified finger-pointing among players as a major issue. Aaron Rodgers, the Green Bay Packers' quarterback, summarized the Jets' loss in a single word: \"frustration.\" Rodgers believes the Jets are playing with too much anger and need to find a way to enjoy the game more. Despite a strong start to the season, the Jets have now lost three consecutive games and are facing mounting pressure to turn their fortunes around.",
+        "items": [
+            {
+                "title": "Jets-Patriots Game Recap | Heartbreak in New England, 25-22 - newyorkjets.com",
+                "description": "Jets-Patriots Game Recap | Heartbreak in New England, 25-22  newyorkjets.com",
+                "published date": "Sun, 27 Oct 2024 23:15:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRW9lalpSV0kxbjdOTERFaXVJc1M4YXFrNFN0ck83a25OQUk3SUxqenB1eUhTbGstWHJtUFlXR2JGWmFvVkotRGhiMi1rb1B6b09BdlhyczVCNEoxT2pxcFVMOENpQTdKU0JaaTdnU2tSaGx6c0xaRTJDZUp2a2pDbHlmWHZUTkYwMnp2TEkycw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.newyorkjets.com",
                     "title": "newyorkjets.com"
                 }
             },
             {
-                "title": "Steelers defeat Jets, 37-15 - Steelers.com",
-                "description": "Steelers defeat Jets, 37-15  Steelers.com",
-                "published date": "Mon, 21 Oct 2024 06:55:10 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96dkFZazRtOEdjWU8tR29UcmdxOC1EZGI0X3Rta1ZSU0tBdkpMZU8xT3Zsb1p4QVNQb3pBUi1TM1lJNDdXRTRxdmJoUnYyVXFqQnJsV3RjVVV0bWtlLTN3MGZwT0QtVTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Game Preview: Jets at Patriots - Patriots.com",
+                "description": "Game Preview: Jets at Patriots  Patriots.com",
+                "published date": "Sat, 26 Oct 2024 07:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QZ1pyaTVQNUlfV1d5TjZKTlJUMUVZdmxmQTlrUEx5cFppY2QxVjhJYU8tSnp1d2tSSHZucy11N2ZmVGNIRjRjTElpYUV2RmFTbFVYaU0wT1hmTlVPSUwwZzBfQV81QmNHMnhRa1pYYzZvVnc?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.steelers.com",
-                    "title": "Steelers.com"
+                    "href": "https://www.patriots.com",
+                    "title": "Patriots.com"
                 }
             },
             {
@@ -170,33 +382,33 @@
                 }
             },
             {
-                "title": "With Maye out, \u2018soft\u2019 Patriots come back to send Rodgers and Jets to 5th straight loss - The Associated Press",
-                "description": "With Maye out, \u2018soft\u2019 Patriots come back to send Rodgers and Jets to 5th straight loss  The Associated Press",
-                "published date": "Mon, 28 Oct 2024 01:22:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGJOSlhTMG9QSWg0dHFJWHphZHB6QkVkR0M3VnpaMjk2bWp3N3hVWC1LWm1ULTdnNGxlZTVzR2pfV2FWOGVvLWotXzBVOVRwOXpISmI0RUZHZXc2NFBjUEpPa2V0M3B3enRVdTBmQ1dkY0dHZ04teUZwWnBSTnR6X0hjQWhHdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "What experts are predicting for Sunday\u2019s Patriots-Jets game - Boston.com",
+                "description": "What experts are predicting for Sunday\u2019s Patriots-Jets game  Boston.com",
+                "published date": "Fri, 25 Oct 2024 13:17:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnByZDd2Ri1wRTk1d0tWVzdwcmZiT3VkOFR3NHBuSnk0eWNjYWZ5SlFmZUh5LXFMLUx5d2pEYVlqUzhYMm5CMUJkVEJ6LXlkcC1WNUloUmJPb2RTemx6WV8wc1g3V05kaTRGMDl2UHI2TmNBdUZxWGNjLTg5b1VoVlRRZ1o2d3NZbDlGOXV1T3hFemlIUVhteE5MbVZIY1RSOV9jZVBwc1o5dVU1VU9kYUxCZWFkZEUyeGU5c3k3eVlSZ9IBygFBVV95cUxNR3lJRjgxR3ZDYW01a2hsYjZKTHNOYVdocmFWNjByWXBpSUM4WUhUaDBUa2hsYWlkMzdnc3EyRFpjczhUWjJfMUhvRk5kOHRuUUl4ZTdKZHhIdlBNUXFGMDBnU2VTSXJ6MDhjbkkzdjVBQW5Bbm9Ea2NqZUtlcWpJZ1BHNE45NmdBbkxNY1JQbUlwclNremluQXVPdXlvVWlZSXBXTDJ3VGRzeUV4bmRFN01meXBVSkpleHp6SVl4S3g1d0gtaE9PZkR3?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
+                    "href": "https://www.boston.com",
+                    "title": "Boston.com"
                 }
             },
             {
-                "title": "Jets-Patriots Game Recap | Heartbreak in New England, 25-22 - newyorkjets.com",
-                "description": "Jets-Patriots Game Recap | Heartbreak in New England, 25-22  newyorkjets.com",
-                "published date": "Sun, 27 Oct 2024 23:15:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRW9lalpSV0kxbjdOTERFaXVJc1M4YXFrNFN0ck83a25OQUk3SUxqenB1eUhTbGstWHJtUFlXR2JGWmFvVkotRGhiMi1rb1B6b09BdlhyczVCNEoxT2pxcFVMOENpQTdKU0JaaTdnU2tSaGx6c0xaRTJDZUp2a2pDbHlmWHZUTkYwMnp2TEkycw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "New York Jets Head Coach Calls Out Finger-Pointing Issue Among Players - Sports Illustrated",
+                "description": "New York Jets Head Coach Calls Out Finger-Pointing Issue Among Players  Sports Illustrated",
+                "published date": "Thu, 24 Oct 2024 23:00:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEJ0VzZ0NUpaUmxnRVhpdDBLOVRlWGNsLXJLTF9iS3VmamM1QkRZSk5vVjJXMXdmd0s5UERYV2dYYXMxYjAwanpHOF9aaU93M09vdVpLaUFOZFNOS2JqMl9FVlRpWVBad29QZ3IyTS1YQ0RMR3pRZ01JVGVuM2Q4aTVEdUFxRXVoYUg1V1FSUGhuajZ1TkVNUTI1VVNUSExybFZmZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "QB Aaron Rodgers Sums Up Jets\u2019 Loss in a Word: \u2018Frustration\u2019 - newyorkjets.com",
+                "description": "QB Aaron Rodgers Sums Up Jets\u2019 Loss in a Word: \u2018Frustration\u2019  newyorkjets.com",
+                "published date": "Sun, 27 Oct 2024 22:38:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUppVmE0enBpSHcxbkhJWUVmU0xoTUJEZHV0OXpURGNjZHM5ZEo2cDNXSENCaXN1N3pqTEMtSTRkVHdHUDZGdWxnSEd4VWVScjlWNmtyMjUtWnZCVUg5aUpER2xyTDBtTWh1MHdudUZYNHMxUEdpSjhoNXFqWnNJUDBEZw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.newyorkjets.com",
                     "title": "newyorkjets.com"
-                }
-            },
-            {
-                "title": "NY Jets vs New England Patriots predictions: Our expert picks for NFL Week 8 game - NorthJersey.com",
-                "description": "NY Jets vs New England Patriots predictions: Our expert picks for NFL Week 8 game  NorthJersey.com",
-                "published date": "Wed, 23 Oct 2024 08:05:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPekJzUnRfdUhyV2NPalpadWZQek9vTGJkVlZVQ1RjLUl4enNlbW1aZzZjS0JYUFo2NGNlNUI0clEtZXc3QjNRUU9IMEF5eDJKYk1qallhUjlJZzljSW1aeFFjTHhHb2RTT09QbkM2aXdfWk5tS0pybGRsdlBrMGo1b0lKdG9BWHJQb1FRVlI2ZmtTWXQyT0ItU05oQ1hxU001ai03clY0bnIxM25rMkk3Zmgta1BDQkhfcEhVbjJIYUh0NmE5bW5PVl9Oaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.northjersey.com",
-                    "title": "NorthJersey.com"
                 }
             },
             {
@@ -212,114 +424,8 @@
         ]
     },
     {
-        "name": "Bears",
-        "summary": "The Chicago Bears faced heartbreak in Washington, succumbing to a last-second Hail Mary touchdown by the Commanders. Despite having a bye week to prepare, the Bears failed to capitalize, while Washington's quarterback Jayden Daniels stunned with his miraculous throw. Despite the defeat, a loyal Bears fan continues to attend every home game from afar. Elsewhere, the Bears football team at the University of California triumphed over Oregon State, while concerns arise regarding the increased exposure of polar bears to pathogens due to climate change.",
-        "items": [
-            {
-                "title": "Rapid Recap: Bears drop heartbreaker to Commanders in Washington - ChicagoBears.com",
-                "description": "Rapid Recap: Bears drop heartbreaker to Commanders in Washington  ChicagoBears.com",
-                "published date": "Mon, 28 Oct 2024 03:47:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEQwWFZsZXdWaGhVbnNnVF9udkdYVUs3TkJaRGNkQlUzLWNicmd5SXV2QjdvS1NETWpLcmtyalRsTF95c0xjM0NubWFmNjFjTlhaQnhnaGRvQ3JPdmYzc0E4ZmRQalBpSktUYTF1T1h2RU5aQzVFNGppUjlwSktvYnFSSWpnT202NGo3YkRyN0NnaDB3V09PWlRrdmlCYVRWUFhub19ZX2YzajExT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.chicagobears.com",
-                    "title": "ChicagoBears.com"
-                }
-            },
-            {
-                "title": "What time do the Bears play Sunday? What to know about the Week 8 matchup vs. the Commanders - NBC Chicago",
-                "description": "What time do the Bears play Sunday? What to know about the Week 8 matchup vs. the Commanders  NBC Chicago",
-                "published date": "Sat, 26 Oct 2024 14:13:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmx1N05Ld21oQTItRmVLV29LMHNUSXFQV1BIYzhwbUMzUXROSUoweDRTZWUtMGdOTHVrYWlBQWF3WDF4ZE1EWkJJT2U2TldXMXpQaC0xUXJpT2VET0ZLUi1ROV9TdlJTYVlzSDNIcXoxcjJDMHNRYm82cmVDV1NNNkthd0Z3NFJCWm02OWd1QzRLd1dwdVFNa3dzaWI2MGVOQUNzakhoR2x5WGtlNVNMUVg2RXVGTXkteVgwUlR0ekNaVGVyOHR2NEdjMGZtcWp1d3lB0gHbAUFVX3lxTFBVUm9aR1Jsa3FiMUVaU3p5azZ1SVQ0VnV4ajNFYmxWRUp5RUFCMkYzcDlmVXVVbGNtYllscUVZVmQyRzV2aHB1M3ZwNDV4UFFWYThtU0hOdHZuOUtmcDM0TkppU3N4UFEwZUVwZ2dHTnd1aWJaUTNsbEUtS2tSUGxkekFfTVl1NHBHYTNCNl9mTDdoazhyOUFRU0c2WFhmV3FaQnJScHFxVng2eVZqYUZmQWVSQzJadWxvUzJrQU5qVk82LVVsUXNSQzRTZi13UXA2TVZvWmJrQ0UyWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcchicago.com",
-                    "title": "NBC Chicago"
-                }
-            },
-            {
-                "title": "This Bears fan has attended every home game for 60 years \u2014 and he lives in Colorado - The Athletic - The New York Times",
-                "description": "This Bears fan has attended every home game for 60 years \u2014 and he lives in Colorado - The Athletic  The New York Times",
-                "published date": "Mon, 21 Oct 2024 10:08:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMURkS1F0eVUwaTYyeFVCT3RIbkhiUF8zREtKT2M3SGl6S3ZEaENpVjdtYm4yTmlvZmpLYVJZdDc2dmN6UzVjWmxPVGJZWTI4ajQyd01KcGhvZUYxR0lqcGpHX2NodmFNT1RwRE5MUFB3cGxMbEZBeENqVkt5bzMzeXNlWjVYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Bears Dismantle Oregon State, 44-7 - Cal Athletics",
-                "description": "Bears Dismantle Oregon State, 44-7  Cal Athletics",
-                "published date": "Sun, 27 Oct 2024 00:33:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1E5U29jOGYzSGlWaHpEM0FLV2RPTlNLbTRkaldESFJMemxfNWNkaHdVRHVNTkZMNUU3WXY0NnRHYWpuTUhtanBQUFVXWHU0WF9ZU1AtbF9NWU9nM0RxNE9ISTE0ekFCcGNzQjhETVB5dDlpOUNXMkRMRWZKa1ljYldEWXFwZkdEMy04Rw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://calbears.com",
-                    "title": "Cal Athletics"
-                }
-            },
-            {
-                "title": "Three keys to Washington taking down the Bears - Washington Commanders",
-                "description": "Three keys to Washington taking down the Bears  Washington Commanders",
-                "published date": "Fri, 25 Oct 2024 15:44:56 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWZkakx3RGFjSEpFN3A2ZVV0UGVsY1RxeTdNVndycExnNWc3aU12Q2NRRlhrd2NMU1JJZTBjbXRIdVlzZ3lSZlBTaDV0OWJrWXhhdTBSdC1md3ZiVXluNWptTVdubjViS0ZUM1NwU0tDRVhhV19fQ2RhMkZ5UlJGMU1uMVM?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.commanders.com",
-                    "title": "Washington Commanders"
-                }
-            },
-            {
-                "title": "'Like a movie': Daniels wows with Hail Mary TD - ESPN",
-                "description": "'Like a movie': Daniels wows with Hail Mary TD  ESPN",
-                "published date": "Mon, 28 Oct 2024 00:02:08 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXRYWUpubElPV1F6azY3cGExcG5saXJWTDREVHdwSFZIYVpkdGtSV3YtQ1gtdkc5enRVSHJiOVFIaUY4ODNEU00wc0FHaGswX18wNVM0Tk9VSUR4MkZVclVZc0Q1bHN2WlBtb0ZfWG94TFRJQnBQYTU2YzlyREVTWjVEU3p5OWRZSXNKRkpVdkMxbUFkQTBINGlZTVUwQW1idVpEZ19B?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "Caleb Williams, Bears are in sweet spot coming off bye week - FOX Sports",
-                "description": "Caleb Williams, Bears are in sweet spot coming off bye week  FOX Sports",
-                "published date": "Mon, 21 Oct 2024 16:21:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWx4TVpPR2JfUEF4SVVZZEYtS0RNT3hfWk1qNFRSQm9KbHg4X1Q1d2laSUl3NDJVTU94aUpfTEZPcWlSQmtNTktlUlNIaTRhc0ZtWUlzUEpBVGhabnJLMTlSYTZNeVpKMmVSZjd6eWlmMGdhWlB0UXFhMnFTSk9RTzh4NlJCX3ZzS2NCRkVOeVZWMzcwc1l0NtIBmAFBVV95cUxNdXB0TU1CVVVwa0Ric0pzYUFiLWU3RlBnRW5iaE9OYVRESXV1MENWVFFleGFfc3B4TGhlMnJNZGRUbkpMd1hMVk9nQTNTdWdHVmw1WDJSQnJjUEVKclhxQ2xfb19SU2Z3YUxmemlMcWxsLTM3MnU2bmxfWW1iSXZielFZVnJtNTYxOWpOM1ExbVRUR1JuSkNVeg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
-                }
-            },
-            {
-                "title": "Polar bears are being exposed to more pathogens as the climate warms - Science News Magazine",
-                "description": "Polar bears are being exposed to more pathogens as the climate warms  Science News Magazine",
-                "published date": "Wed, 23 Oct 2024 18:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EOU1RdExjVWJEaEsyU3Jic293WnY0c3YzNjEwcEJyN0JJeEZyZTM4TDVTRzdKYTlyTGhKbjdaaW9aLVczVS1FeDVZSHdYRHA5cVpkaWpGTVFoMGVvcEJobzM5cDE1S25hVTd5N2NYWGZLSUNqdEFBVGhZTTI?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.sciencenews.org",
-                    "title": "Science News Magazine"
-                }
-            },
-            {
-                "title": "How to watch Bears vs. Commanders today: Start time, TV, live stream for Week 8 game - USA TODAY",
-                "description": "How to watch Bears vs. Commanders today: Start time, TV, live stream for Week 8 game  USA TODAY",
-                "published date": "Sun, 27 Oct 2024 09:12:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGVzSWowd2NBLVJ6bS16T2ZOVlVHQ3pyazRlMW5qdHd0NldYQkV6NUhIclUzOTZLdjRmOTB3RmdkZ2lzQ2FKTmttUl9QTTNJODdzMkU0d1pIQ3c5dUFqSy1MdGFLSWVvSVFPYW9XX01SM2tFYS14LXhobzZRMXphNGNfZGw3MXJKWkZvQVktMjlSOU84ZGN2SktaVnBmZVd5c3hsVVNlbndETTZrNmVF?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Week 8 recap: Chicago Bears stunned 18-15 on Jayden Daniels\u2019 Hail Mary after taking 1st lead with 23 seconds left - Chicago Tribune",
-                "description": "Week 8 recap: Chicago Bears stunned 18-15 on Jayden Daniels\u2019 Hail Mary after taking 1st lead with 23 seconds left  Chicago Tribune",
-                "published date": "Mon, 28 Oct 2024 01:21:20 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkFMRlRzRmN6YklpUkpzRS1wc0hEcjZuemxGX0J5cFozTjgyLThtS0JwTWZTZDdoeGhtZWUxeGJJa0dyS3pJNlZob2hILTRDdTc1Zkd4b285aTdHNWE1aUNsNGNpNEVYODVPa0JCRldpXy1EZ29QdTZQS2RpemN2b1JrRlhBYTZYb1hxeTN3?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.chicagotribune.com",
-                    "title": "Chicago Tribune"
-                }
-            }
-        ]
-    },
-    {
         "name": "Chiefs vs Raiders",
-        "summary": "The upcoming NFL Week 8 matchup between the Kansas City Chiefs and Las Vegas Raiders is highly anticipated, with a variety of news sources providing expert picks, injury updates, and game previews. Some articles, like The Arizona Republic, focus on game predictions and picks, while others such as Oklahoman.com and USA Today detail the channel information and streaming options for fans. The Chiefs vs. Raiders rivalry is also highlighted in the Kansas City Star article, which explores the significance of the current betting line. Other articles provide injury reports and QB matchup analysis, such as the Chiefs.com injury report and the NBC Sports prediction piece. FOX Sports offers a glimpse into the 2024 matchup between these two teams, showcasing the ongoing interest in this rivalry.",
+        "summary": "The upcoming NFL Week 8 matchup between the Kansas City Chiefs and Las Vegas Raiders is highly anticipated, as evidenced by the numerous news articles covering the game. Various experts and analysts have weighed in with their predictions, with some favoring the Raiders and others the Chiefs. Injuries are also a factor, as both teams have released injury reports. Details on how to watch the game live on TV or via streaming services are provided, along with updates on the game's progress. The Chiefs ultimately secured a 27-20 victory over the Raiders, with key highlights being a goal-line stand and a touchdown by Travis Kelce.",
         "items": [
             {
                 "title": "Expert Game Picks: Raiders or Chiefs? - Raiders.com",
@@ -342,8 +448,18 @@
                 }
             },
             {
-                "title": "Chiefs vs Raiders: Goal-line stand, Kelce's first touchdown big in 27-20 win - KMBC Kansas City",
-                "description": "Chiefs vs Raiders: Goal-line stand, Kelce's first touchdown big in 27-20 win  KMBC Kansas City",
+                "title": "How to watch Chiefs vs. Raiders today: Start time, TV, live stream for Week 8 game - USA TODAY",
+                "description": "How to watch Chiefs vs. Raiders today: Start time, TV, live stream for Week 8 game  USA TODAY",
+                "published date": "Sun, 27 Oct 2024 09:19:59 GMT",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGFKbXNBUUx3OWp4ejJFN21Fbkhvd1ZlSmw3OUJHb2tyVXRZT0txUzB0VFhtRDU5QnJnLUZGak5TNVRiUEd1TldRNXFmYnNtQ1ppTk94LTQ4M2Y0cXF4R2ZINVZsV3c1MVVLNDhNVmw4ZGpSRkt1MDNGLWdqUWZQZUVQa0FTaUFDYmQxd3B3UHVHTzZPdUZIUnFCYzFTWDBYQmhXNV91OGRta3Jk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Chiefs vs Raiders live updates: \ufeffGoal line stand, Kelce's first touchdown big in 27-20 win - KMBC Kansas City",
+                "description": "Chiefs vs Raiders live updates: \ufeffGoal line stand, Kelce's first touchdown big in 27-20 win  KMBC Kansas City",
                 "published date": "Mon, 28 Oct 2024 00:50:00 GMT",
                 "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObi16QWhQT3VEaWJtZ2xJU29nNW5NY2p0RENxeWdjQ1VYSG5ZbEkwOXVxNUZuZkkySll6ZUNCWGFXazVvNE1Xb2Y2NG90UTR4T3FBbGVVd01TYW5qT3JOdUtscmZGVnQ5dmJxRmFYNTRLVjVkWmEtREk2R3haTmhaYjdKUFpJaW5LVVl1SDBGZ0dNR2hSZFlhR3F3?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
@@ -362,16 +478,6 @@
                 }
             },
             {
-                "title": "Kansas City Chiefs vs Las Vegas Raiders picks, predictions: Who wins NFL Week 8 game? - The Arizona Republic",
-                "description": "Kansas City Chiefs vs Las Vegas Raiders picks, predictions: Who wins NFL Week 8 game?  The Arizona Republic",
-                "published date": "Mon, 21 Oct 2024 20:55:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVDRVM3dNT3dvWloxN0NJMVJDc1NwUUMtY1JKUlh6ZFBVZnppWUxlYXhPUl9BT096WW1kWXRXeHFyTEVoclhsMEJNSDJUbkZnSXlYZWV0UG5RRFpYQ0s3b1RBQ1J4cEZ5c25wVFhEWGNYVzVEbDlnbmNvUUM5M3d5d2NaNExlSHlody1DSjhkTE5XZDBuRTJkcHJ0U1U5NzNEVGdibTc2eE5DRXdHNktPb3Z4aDg3MEh1dVdiUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
-                }
-            },
-            {
                 "title": "What channel is Chiefs vs Raiders on today? Time, TV schedule for NFL Week 8 game - Oklahoman.com",
                 "description": "What channel is Chiefs vs Raiders on today? Time, TV schedule for NFL Week 8 game  Oklahoman.com",
                 "published date": "Sun, 27 Oct 2024 10:08:08 GMT",
@@ -382,13 +488,13 @@
                 }
             },
             {
-                "title": "How to watch Chiefs vs. Raiders today: Start time, TV, live stream for Week 8 game - USA TODAY",
-                "description": "How to watch Chiefs vs. Raiders today: Start time, TV, live stream for Week 8 game  USA TODAY",
-                "published date": "Sun, 27 Oct 2024 09:19:59 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGFKbXNBUUx3OWp4ejJFN21Fbkhvd1ZlSmw3OUJHb2tyVXRZT0txUzB0VFhtRDU5QnJnLUZGak5TNVRiUEd1TldRNXFmYnNtQ1ppTk94LTQ4M2Y0cXF4R2ZINVZsV3c1MVVLNDhNVmw4ZGpSRkt1MDNGLWdqUWZQZUVQa0FTaUFDYmQxd3B3UHVHTzZPdUZIUnFCYzFTWDBYQmhXNV91OGRta3Jk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Kansas City Chiefs vs Las Vegas Raiders picks, predictions: Who wins NFL Week 8 game? - The Arizona Republic",
+                "description": "Kansas City Chiefs vs Las Vegas Raiders picks, predictions: Who wins NFL Week 8 game?  The Arizona Republic",
+                "published date": "Mon, 21 Oct 2024 20:55:19 GMT",
+                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVDRVM3dNT3dvWloxN0NJMVJDc1NwUUMtY1JKUlh6ZFBVZnppWUxlYXhPUl9BT096WW1kWXRXeHFyTEVoclhsMEJNSDJUbkZnSXlYZWV0UG5RRFpYQ0s3b1RBQ1J4cEZ5c25wVFhEWGNYVzVEbDlnbmNvUUM5M3d5d2NaNExlSHlody1DSjhkTE5XZDBuRTJkcHJ0U1U5NzNEVGdibTc2eE5DRXdHNktPb3Z4aDg3MEh1dVdiUg?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
                 }
             },
             {
@@ -424,114 +530,114 @@
         ]
     },
     {
-        "name": "Saints",
-        "summary": "Week 8 of the 2024 NFL season features a matchup between the New Orleans Saints and Los Angeles Chargers. The Saints have made several roster moves, including trading for receiver Marquez Valdes-Scantling and extending running back Alvin Kamara's contract. The Chargers, meanwhile, have injury concerns with Joey Bosa and Keenan Allen listed as questionable. Experts predict a close game, with the Chargers favored by a small margin. The game will be available to watch on multiple TV channels and streaming platforms. Injuries and other roster moves could impact the outcome of the game, so fans are advised to check for updates leading up to kickoff.",
+        "name": "Broncos",
+        "summary": "The Denver Broncos secured their fifth victory by overcoming an early deficit to defeat the Carolina Panthers 28-14. Despite concerns of a \"trap game,\" the Broncos demonstrated their awareness of the risk and emerged victorious. The Panthers vs. Broncos matchup garnered significant attention, with experts providing predictions and analysis. The game was broadcast live on various channels and streaming platforms. Tragically, a Broncos player was injured in a shooting incident after leaving a strip club. The team's defensive efforts, led by Vance Joseph, have been impressive in getting after the quarterback. Quarterback Bo Nix contributed to the Broncos' success with a 3-yard touchdown pass to Nate Adkins.",
         "items": [
             {
-                "title": "2024 NFL Week 8 Inactives | Saints vs. Chargers - NewOrleansSaints.com",
-                "description": "2024 NFL Week 8 Inactives | Saints vs. Chargers  NewOrleansSaints.com",
-                "published date": "Sun, 27 Oct 2024 18:37:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFBoZkhRTlU5aWl2NmJPWEpRRk5uQTltYzdkcXRCNFlyejU4TkFEYU5tVDk3VDZfWDZodHVOUlZGTGkxNUdPSkNBdjlER3lMa25zQjBja3hvckgwMW9YMHBRSHk5RmVOc0pYSHc4YzZIVFN5bFlGcnppMTN0Rzl2OXdqakZmczlrNTJQdkFaRFd1T1pzOVpNUlptYllBTVhFNmxHbG5n?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Cover 4: Broncos race back from early deficit, earn fifth win via 28-14 win over Panthers - DenverBroncos.com",
+                "description": "Cover 4: Broncos race back from early deficit, earn fifth win via 28-14 win over Panthers  DenverBroncos.com",
+                "published date": "Sun, 27 Oct 2024 23:37:57 GMT",
+                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOFhDQlBOZVVfWDJRMXd1aE9sSzhEVzdVdlJfNGxHQURoYjBNOWF5Mm1CaG1ySEo2V1JzNTFmSFV5azRhdFBUQ2xWODg4akp5RVY3eXU2WlpZbGFUc2F1WTAzTVRONTloV0gwUGhBTGl1MjBRVzk3Qk84LW82Y0xXcVFiVVNYNHdRQUk4dXZFVnV6ZFNfSTNJZDZKRXJqbDhwRlE1ME5GY3JEOWhUU3JwQTk1MG5jRGZqd3hRMkdvUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.neworleanssaints.com",
-                    "title": "NewOrleansSaints.com"
+                    "href": "https://www.denverbroncos.com",
+                    "title": "DenverBroncos.com"
                 }
             },
             {
-                "title": "New Orleans Saints at Los Angeles Chargers: Predictions, picks and odds for NFL Week 8 game - USA TODAY",
-                "description": "New Orleans Saints at Los Angeles Chargers: Predictions, picks and odds for NFL Week 8 game  USA TODAY",
-                "published date": "Wed, 23 Oct 2024 14:02:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmJ5aXprQkl1c1AyVG5CcWEzZU1WYVBEaHZFRHYtWTR6SlZodDVBdmJlb01zMExHbXVveXdQVmppZU9OMThWSGd0SVM4NmlwM29NVWFxZVlKZ1pGSmdCUGg0WXVWVkRjVkhzNlF3M1hrX3l5NVllYV85cFFFVFFXb2JMa1hTVHBGVVhlSVZEcFhoYndHTFJoWHZqalg4c0h4ZDJwTWxXQURTMFhhQlItOEhCSTQtUWFMb3hPR2R2b2NzTzZkcG5mY2FpaXlObzk2?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "Source: Saints reach deal with Valdes-Scantling - ESPN",
-                "description": "Source: Saints reach deal with Valdes-Scantling  ESPN",
-                "published date": "Mon, 21 Oct 2024 22:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFBlTVlTOVJ1RThLSGpnRnpHSmVzYmZUazZQcFo3LU5XRnZyYk56ZVpVWnlTVENON1d0dDVVSWtSRVNGTkVyam5kUF91dUtYSjRZa1dnRlJBZHhKSS1jeW1LWldWb1pEekFoOXdmdHdXLU1vZnBvVF9RWElpNUVvOVExdDBmS2dmRkoxRjVGa3JLaDNzeTh0NlJva0ZkQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "New Orleans Saints vs Los Angeles Chargers picks, predictions: Who wins NFL Week 8 game? - The Arizona Republic",
-                "description": "New Orleans Saints vs Los Angeles Chargers picks, predictions: Who wins NFL Week 8 game?  The Arizona Republic",
-                "published date": "Mon, 21 Oct 2024 20:11:49 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2JSeEZBY05uM0s4a1FYSHgwOWZpUngxZHRGT2FSSHRLMTZoT3FtSjVqRERSbURCdkdXZGhUQjZpUW1RM3JsM1lkaHFmNENvV2U1eXhkRXJVY0JCZlFQVVVhOXhBcWFqZkV4QlJwYzVFTUdJaG5RaHhVTEN3TGJnVlhHdHQtYnhxaWZUZnQzbTQxZ0pYa1d3MV9rTUFmSHVUbTB4aWtVbEllZnAzbVhnVjEzNm96cEhZQ1BzRkFSYWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
-                }
-            },
-            {
-                "title": "Alvin Kamara, Saints Agree to 2-Year, $24.5M Contract Extension; Updated Salary Cap - Bleacher Report",
-                "description": "Alvin Kamara, Saints Agree to 2-Year, $24.5M Contract Extension; Updated Salary Cap  Bleacher Report",
-                "published date": "Tue, 22 Oct 2024 16:26:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2FXR09CTS1IQUU1MWM0MGdGRFZvaEVPQUt6QWs0T2loVUhJWVBtLUVzZzJ4YU0tX2lGZlN5ZlJZWHJyZDdjM0JJVDVVZzNPYnRFdWpOSVpTNHN4MG5fejE3N05Pc3RPaXRBd0dNZ1JkRHZvSjV5UmtpQ2lqTVo5QUw2aFJaNTZtN01Fc3Zrb2ZUUkE0Q2RBMWdKajdQNGE0R0VPc3JKNWNoQmd0X1BDNHEwNnhYZ9IB1gFBVV95cUxPSmNTcDQ0YjRHQWlidzljb2doUkZ1S0dteTJlT25qR284anNUTzNoWUZnYXpJYlpBaWtIaTJMbVJ3N1h1WlRBZ2pkaGZoYTUwYVlJSENRNXdMU25qSmtHZWYydkdsazVEV05zZ0dRUGNtamdYWV9NRmNPQ2lhMkhySDZwOHNOaEFkWDJiYVVGMk5felhBTlY2WUt6UDgxV2J6R3lUN1JOMmswX1JsR0p1ZDJwQmNjVnpzbm8xV3o4YnJoVDIyV1I3SjJkbHg2dWMzelpDc2hn?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            },
-            {
-                "title": "How to Watch Chargers vs. Saints: Time, TV Channel and Live Stream \u2013 2024 Week 8 - FOX Sports",
-                "description": "How to Watch Chargers vs. Saints: Time, TV Channel and Live Stream \u2013 2024 Week 8  FOX Sports",
-                "published date": "Sun, 27 Oct 2024 03:14:13 GMT",
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVZ0ZUVSQ240NFUxN2x2Q3c1d3F6Z3I3MVd2MmlKdUVCeEgwdFhmOUFmbHdScjMxNFFnYmZrMjctNENLa2hyMjhJQnN6RWUyMDNFVnZNaDlQZ2xocWZfbHlqd2RjVVhJYVV4Vm53NmoyMlNQSk1ockJDdkNodXF6dFhzdUdtN3drTlM2dkt5TndraWdfaVFnVWZIbGd4eHBWQVJLVnJPYnczaldwRzFzZ3VjRlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
-                }
-            },
-            {
-                "title": "Week 8 Injury Report | Chargers vs. Saints: Bosa, McConkey Questionable for Sunday, Johnston & Davis are Doubtful - Chargers.com",
-                "description": "Week 8 Injury Report | Chargers vs. Saints: Bosa, McConkey Questionable for Sunday, Johnston & Davis are Doubtful  Chargers.com",
-                "published date": "Fri, 25 Oct 2024 22:18:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXpzS003dHRYVW9Ka0pNWF8zdmpNMFRzNlNaX0RIdm1mN1VBN051bFNERHF0MzJXbzVMSzBxbG1aaVpQUzFPd21laW1lSUlEQXEtR1NicnA3ODF3Qmt5ZnR4YnRDNnYxNE8wNXNoNXJwemtIbzZtSUNhUm9DT0M0b3RKS2Npb1h5dF9MakhINWxPbU5mNnpKcEtDX0UzWGswU2RUYTI5cEljQWlha1VJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.chargers.com",
-                    "title": "Chargers.com"
-                }
-            },
-            {
-                "title": "Chargers vs. Saints prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats - NBC Sports",
-                "description": "Chargers vs. Saints prediction: Odds, expert picks, QB matchup, injury update, betting trends, and stats  NBC Sports",
-                "published date": "Fri, 25 Oct 2024 02:50:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPelhsXzZyZnJ5eHhjeDRDTkZMU2hvd1RRTXZBb1Y3OVpOdE1ybUxMS1B0aFF0V2pTdlJab19CVXpxMlJLd0RIUEVvZFg4VmpGNXc0R3dJU1kyVFp4dzU3UUptc19icmNfZ3Zla0k4aFB4WV9tTWNfVVp0Z2dUSG5ITGpKb3RfZ1MtLUZzVkpwSlo0UG1qYmxmQmtJcEQ5cmU4VFpKcEZFMzYyLVQwTnV0SzlwRkZmUUpkOVdXOFdkNTVraU11cDlUV2c0V2w?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Panthers vs. Broncos prediction: Odds, expert picks, QB Matchup, injury update, betting trends, and stats - NBC Sports",
+                "description": "Panthers vs. Broncos prediction: Odds, expert picks, QB Matchup, injury update, betting trends, and stats  NBC Sports",
+                "published date": "Fri, 25 Oct 2024 01:03:40 GMT",
+                "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUFlQYUJnMWp0czdqRXJucWFKbExaUWNpeTJfNm9fSDRaSUVNVC1uczJhWDZlLWhCX2IwQmY4alBYb1h1LXdOd3NsNFZLem83eWt2anNJaTN3aTV5NmVJNnF5ZXdvVVhadWh6SGVKcF8yWG5Xc3NPZnB1SFdEN2VhaFRtNUMwSThDdkEyaHhTUENxSk9vbk1sc3lvVEFCRXJpbmhDZXlnSXBneEdmbHJvWlNlQnZiQUhmMElxUU83dDFoNnpVWUVWenlJWG1VZw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.nbcsports.com",
                     "title": "NBC Sports"
                 }
             },
             {
-                "title": "Chargers vs Saints Game Recap - NFL Week 8 - Oct. 27, 2024 - NewOrleansSaints.com",
-                "description": "Chargers vs Saints Game Recap - NFL Week 8 - Oct. 27, 2024  NewOrleansSaints.com",
-                "published date": "Sun, 27 Oct 2024 23:23:48 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVZWYXFxUTNlVU9RZHhtc2Z6SlNDQlJfNmExOXFhQ1RsdnBMQnpNT1NhdTBxeldJamZXdl84QnFURVUxTzIxbW9JSExnN0d1c2ludHNLNVFEMzctTVZ2ZDNDb3l0b0o5X0p1aU5icVJ5Mm00VDdvTmF2bEgzc2VEZk5sNkc2eERP?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "What time is the Denver Broncos vs. Carolina Panthers game tonight? Channel, streaming options, how to watch - dazn.com",
+                "description": "What time is the Denver Broncos vs. Carolina Panthers game tonight? Channel, streaming options, how to watch  dazn.com",
+                "published date": "Mon, 21 Oct 2024 15:43:07 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOTZORFpNZGNOVVp3X0c2c2RYaWdva0FoOHB6SGVnWmg1U05BV0xaUm85VnNXLTlnVWh1M3o3SWNfeHp0cVpEUTRGM05ZZGJmOXNhTjBVT0NkWi1HN2ROVzVLLUxtdHgwYkVvMEkzVlhuazlnbVVBWnM3Yk5pb0NlX2U5RzRmRW1abnM0WXFTOVlObjFlQ3FSQkNlXzBZQU85NXpEYWdYeHV2ZFo5elhWVFhpcUJtbHlqUGNJa1JFWG5HWnhnOXMxRkdkZ3FCLXNXZDdoZUgybE84cFc1WGY2N0g1eFgtMk5JS3d3TXBpM2JVZXNsakN1b29ZZWc3cDFZX1YyUndmbw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.neworleanssaints.com",
-                    "title": "NewOrleansSaints.com"
+                    "href": "https://www.dazn.com",
+                    "title": "dazn.com"
                 }
             },
             {
-                "title": "Saints announce multiple last-minute roster moves before Chargers game - Saints Wire",
-                "description": "Saints announce multiple last-minute roster moves before Chargers game  Saints Wire",
-                "published date": "Sat, 26 Oct 2024 23:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0poNXNhaThhNEpST3hwZmpJUkh5TTNBbUJnZ0lpV3Y4Y192bjVDaHVUbnBPOEFXMUp6NkR5TFZCRk1kc3RBY1JMdm5tajd1Zk9rR0RpbDdLcjB0TGpJb1ptWWF2VHl5TzJTVlptdXlMbFRhWG5oamU1Qmp1N2ctcl8zcGRTRGlVQmExSF9PSXh6NktWX2JiSG9XTVVSR2wwVDV4cTNnZ1lPU2FnWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Evidence Emerges That Broncos Are Aware of Trap Game Risk vs. Panthers - Sports Illustrated",
+                "description": "Evidence Emerges That Broncos Are Aware of Trap Game Risk vs. Panthers  Sports Illustrated",
+                "published date": "Sat, 26 Oct 2024 22:52:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanZHTTVyUERKc1kzWUdJU2Y5c3Nyek9SWm1PdW5qSWZRRUhORFJGcjkxTGdGVEJ6TWk1ZkZiZFhjajcxYVRXckhJYlZUbmVzMGlNajlYZWUycVdMbTUwRG9QU29wWkF3Z3pYQ2wxZnVDa3JiaUpfSnNXM0VrbmhVVUVqX3FEY1ZLWFJTRk13?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://saintswire.usatoday.com",
-                    "title": "Saints Wire"
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "Broncos 28-14 Panthers (Oct 27, 2024) Game Recap - ESPN",
+                "description": "Broncos 28-14 Panthers (Oct 27, 2024) Game Recap  ESPN",
+                "published date": "Mon, 28 Oct 2024 01:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94V19VMnNHZmNEYjB3NTJHMzNtaDZSSmRyTldZaWVtVnpzWEtraUZQUTdrZFc1MjJwbUtZZ25YVS1nSVJpY3lKXzlnbHhEUXl3ckxJbFlzb1JmVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "Denver Broncos player recovering after he was shot in Denver - KKTV",
+                "description": "Denver Broncos player recovering after he was shot in Denver  KKTV",
+                "published date": "Thu, 24 Oct 2024 23:14:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1ZNRDQ5WDRxVFIycFdsTEVTNVVmTUdnRWlXcTFJZUVRMWdKSnlFTmtYYXdpQlU2WnVsTUt1ZjZSYmtqd3R3TVYyWnh1YzhIYUdZQlQwS2pNWUtnNW5WcG5nZ3JXYTlTbk9Eb1JmXzVYbGVVbWRGczVubk1aTTEzc2x3YUl6ZGNnVE9ScTA4Y3FhNVdU0gGoAUFVX3lxTE5YQ0ZYSklWOTR0RDZYMTl5eF9hOEZXSjRabkcwUXYtY2pSbFoxSC1xUjNwemE3UWZZUFZ2LURTaXlrWFFWcU1qbTVFemNVNjJXQ21ZMUE0d3gtYzBYQVBLelV0eHV3NjZyVllGYzFVc1c0RUlNZjlmWHVaS0J6VWlFS3gxQTYzb092V2gxVkpaWWVjYV8zRTNhMFc0NXduNjVxR1VueEVVZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.kktv.com",
+                    "title": "KKTV"
+                }
+            },
+            {
+                "title": "Broncos player wounded in shooting after leaving strip club - 9News.com KUSA",
+                "description": "Broncos player wounded in shooting after leaving strip club  9News.com KUSA",
+                "published date": "Thu, 24 Oct 2024 20:43:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcURzRmRqUnItQ0dTZ1dvSmJTaGxYUHhNSEFYd04xZjd3NkJWOXZXcEttZTFEQktBcXd5T3NGck9JcHB6S1hRLVNNcTdmS3NWNjZjTlR6QlRjbW1ldFFFUFJDbU1HQzBxcl95YWNUTG4ySFc1U3puUHRVazNkS29lQlVPc3phTVpWRVBna0kyUmpqYzNXUW9MT0ZNdUNiQV9TeEt3QzFCMV9fbGxvdE5KNjdNR19ZUFZ6QWxmRS0yQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.9news.com",
+                    "title": "9News.com KUSA"
+                }
+            },
+            {
+                "title": "Carolina Panthers vs Denver Broncos picks, predictions, odds: Who wins NFL Week 8 game? - The Arizona Republic",
+                "description": "Carolina Panthers vs Denver Broncos picks, predictions, odds: Who wins NFL Week 8 game?  The Arizona Republic",
+                "published date": "Mon, 21 Oct 2024 20:37:07 GMT",
+                "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFpnQTVtUzN1dUZ0V08zN2JjVjZ0WjJIcWRWS3I4eEZzN0JqLWx4Ykx5QjJ1YUVpZWVmUmFMRjJCcHVJNnUwQW80a2VQRlhSd3pVQnZ0cTQ3Wi1Zb1ZWdTEweXFRdTBIc041RHFwWHRlNXlZQXhvc2pZaE5WZlVXRGpIYW4taG5XOG9OaU5jX0xGNEVnbS13eVVyOGRZQ3ZybzMwXzliQk5XWThieTZMNDRHdDlleFd2azRyTTJPcDZLcm55OVBrcE9lQWRydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
+                }
+            },
+            {
+                "title": "Bo Nix tosses 3-yard TD pass to Nate Adkins | Broncos vs. Panthers - DenverBroncos.com",
+                "description": "Bo Nix tosses 3-yard TD pass to Nate Adkins | Broncos vs. Panthers  DenverBroncos.com",
+                "published date": "Mon, 28 Oct 2024 00:05:25 GMT",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblczRnlDcFQwdE5vOGNiSENRME9CQnl2QjhuZjFLeS1VSE5qQTB0cERBQk4wQlFocjNWSUpYNXVScGU0NTN6VWx4QlN0MHIyVkdJcnVxN0o5a043Vk5lb2tYTWtmRmtPaFl4VndHQkJseVNLV3pQTG9iU2xVU1BqOUNmRXNUSzdySEJkc3o3dW55VjhpZC1Ea2Z1dmdQTDZx?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.denverbroncos.com",
+                    "title": "DenverBroncos.com"
+                }
+            },
+            {
+                "title": "'We know everybody eats': Vance Joseph's defense is getting after the quarterback - ESPN",
+                "description": "'We know everybody eats': Vance Joseph's defense is getting after the quarterback  ESPN",
+                "published date": "Fri, 25 Oct 2024 10:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3NXNGgwR2VDZFc0eVE3QVNzM0RTdjJWVDE4X3EwQVFZU2V2Zmt4dXpvaGxtT1RMUTRvX1NrQWx5YWJHU3k1SXZuaS1YOWd4dWlhb2N4M1NhdjNuSDFQaXNBNjBHNUJMWjM3MkFJS3h2dk5OZzNVTDBVSzdzN2M4ck9RTk5wY1hzVnFXU0RObFJvcjMzMEt3M3hFd2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
                 }
             }
         ]
     },
     {
         "name": "Packers vs Jaguars",
-        "summary": "The Green Bay Packers defeated the Jacksonville Jaguars 30-27 in Week 8 of the 2024 NFL season. The game can be watched online via livestream on various platforms, including CBS Sports and NFL Network. Predictions for the game varied, with some experts favoring the Packers and others the Jaguars. Ultimately, the Packers' strong performance led them to victory.",
+        "summary": "In NFL Week 8, the Green Bay Packers narrowly defeated the Jacksonville Jaguars 30-27. The game featured an exciting climax, with Brandon McManus securing a last-second field goal for the Packers. Experts predicted a Packers victory, with some highlighting the strength of their quarterback, Jordan Love. Livestreaming options were available for viewers who couldn't attend the game in person. CBS Sports provided detailed predictions and odds for the matchup, while The Florida Times-Union covered the game's post-match analysis. The Packers' website, Packers.com, offered information on how to watch, stream, and listen to the game. Other media outlets such as FOX Sports, CNET, and CBS News provided previews, predictions, and livestreaming options for the much-anticipated clash between the Packers and Jaguars.",
         "items": [
             {
                 "title": "Game Report, 2024 Week 8: Packers 30, Jaguars 27 - jaguars.com",
@@ -554,16 +660,6 @@
                 }
             },
             {
-                "title": "Jaguars vs Packers game rewind: Brandon McManus beats Jags on last-second field goal - The Florida Times-Union",
-                "description": "Jaguars vs Packers game rewind: Brandon McManus beats Jags on last-second field goal  The Florida Times-Union",
-                "published date": "Sun, 27 Oct 2024 14:04:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaVF4bmpqcEtiR21xMjBiRkVVOTlnY1hPYjVwY2lXSXY0U3ZDWU42UWdqclRCcmRjQkhRYTRpNE5XVkhyVE4wbHoydTlPS0Y5V09PazlKZ2Z6NEI0VWo2TU9TWXo3V2QyX04wT0c4cUphenZOX1N6VF9sQ1A2Xy10U19oNU9DUVphdjJjYWFPSjVta283MHN0d21QXzM0U0NCc2tjRHBySF9tdGxYa1k2NkxhYTllTzFiRENSMnA2dmtSLWxMbENoNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.jacksonville.com",
-                    "title": "The Florida Times-Union"
-                }
-            },
-            {
                 "title": "Green Bay Packers vs Jacksonville Jaguars picks, predictions: Who wins NFL Week 8 game? - The Arizona Republic",
                 "description": "Green Bay Packers vs Jacksonville Jaguars picks, predictions: Who wins NFL Week 8 game?  The Arizona Republic",
                 "published date": "Mon, 21 Oct 2024 19:28:55 GMT",
@@ -581,6 +677,16 @@
                 "publisher": {
                     "href": "https://www.usatoday.com",
                     "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "Jaguars vs Packers game rewind: Brandon McManus beats Jags on last-second field goal - The Florida Times-Union",
+                "description": "Jaguars vs Packers game rewind: Brandon McManus beats Jags on last-second field goal  The Florida Times-Union",
+                "published date": "Sun, 27 Oct 2024 14:04:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaVF4bmpqcEtiR21xMjBiRkVVOTlnY1hPYjVwY2lXSXY0U3ZDWU42UWdqclRCcmRjQkhRYTRpNE5XVkhyVE4wbHoydTlPS0Y5V09PazlKZ2Z6NEI0VWo2TU9TWXo3V2QyX04wT0c4cUphenZOX1N6VF9sQ1A2Xy10U19oNU9DUVphdjJjYWFPSjVta283MHN0d21QXzM0U0NCc2tjRHBySF9tdGxYa1k2NkxhYTllTzFiRENSMnA2dmtSLWxMbENoNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.jacksonville.com",
+                    "title": "The Florida Times-Union"
                 }
             },
             {
@@ -614,16 +720,6 @@
                 }
             },
             {
-                "title": "Packers vs. Jaguars prediction, odds, line, spread, time: 2024 NFL picks, Week 8 best bets from computer model - CBS Sports",
-                "description": "Packers vs. Jaguars prediction, odds, line, spread, time: 2024 NFL picks, Week 8 best bets from computer model  CBS Sports",
-                "published date": "Sun, 27 Oct 2024 14:29:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGxSRkdDRy1FME5HREU4R0Q0M3p3cklQMDdHZHl6N3dGaVUyVDFTczZMcGhXSFFJV1JZTWdCb1Y1eGNaa1hZNVdTX081b19aalY1bUpjNUxPNnNZN2huamxsZUg5ZjZaOXppOHBJRkJjYkhMd1JqaE1obFB6WEg4TXRrY1N3ZjJwWkZxNjNMTGhzNEJISlZiV2tsM190R2tHNVhKLWZnWlBadWh4REtFRVF4eF9tOGp3ek8weWlwRnZrR3JjWDMxYUFGeHVwMFJhVUpQdHRn0gHbAUFVX3lxTE5XNmgyZE9acjlnOGV6b0t6RVZGZXJMblZjMmdxVWdvTkdyT1lJTTI5U3JBM21Ybm84c3BfcWtMXzl0ckowS0VjTFVHcjA0Q0NCdUtTRDBVMWRUVFItRXI5WVMyUi1yUEctQnRvb3hseWhRR0Z2bjBQYmlMeVRSN0J3LUQzaV9hSEFKM0hXOEVPb0J2U1lITW05TjJEb2FLcTg0M1Brd2NMcE1WYWR2SE5WZ0h0Wkx4NG9rLTNJV0lHZUVabGozX3N5bEdnSlVQcGpFbTJOYUJyV2lKUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
                 "title": "Packers vs. Jaguars Livestream: How to Watch NFL Week 8 Online Today - CNET",
                 "description": "Packers vs. Jaguars Livestream: How to Watch NFL Week 8 Online Today  CNET",
                 "published date": "Sun, 27 Oct 2024 18:25:00 GMT",
@@ -632,118 +728,128 @@
                     "href": "https://www.cnet.com",
                     "title": "CNET"
                 }
+            },
+            {
+                "title": "Packers vs. Jaguars prediction, odds, line, spread, time: 2024 NFL picks, Week 8 best bets from computer model - CBS Sports",
+                "description": "Packers vs. Jaguars prediction, odds, line, spread, time: 2024 NFL picks, Week 8 best bets from computer model  CBS Sports",
+                "published date": "Sun, 27 Oct 2024 14:29:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGxSRkdDRy1FME5HREU4R0Q0M3p3cklQMDdHZHl6N3dGaVUyVDFTczZMcGhXSFFJV1JZTWdCb1Y1eGNaa1hZNVdTX081b19aalY1bUpjNUxPNnNZN2huamxsZUg5ZjZaOXppOHBJRkJjYkhMd1JqaE1obFB6WEg4TXRrY1N3ZjJwWkZxNjNMTGhzNEJISlZiV2tsM190R2tHNVhKLWZnWlBadWh4REtFRVF4eF9tOGp3ek8weWlwRnZrR3JjWDMxYUFGeHVwMFJhVUpQdHRn0gHbAUFVX3lxTE5XNmgyZE9acjlnOGV6b0t6RVZGZXJMblZjMmdxVWdvTkdyT1lJTTI5U3JBM21Ybm84c3BfcWtMXzl0ckowS0VjTFVHcjA0Q0NCdUtTRDBVMWRUVFItRXI5WVMyUi1yUEctQnRvb3hseWhRR0Z2bjBQYmlMeVRSN0J3LUQzaV9hSEFKM0hXOEVPb0J2U1lITW05TjJEb2FLcTg0M1Brd2NMcE1WYWR2SE5WZ0h0Wkx4NG9rLTNJV0lHZUVabGozX3N5bEdnSlVQcGpFbTJOYUJyV2lKUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbssports.com",
+                    "title": "CBS Sports"
+                }
             }
         ]
     },
     {
-        "name": "Broncos",
-        "summary": "The Denver Broncos' resurgence continues, as they overcame an early deficit to defeat the Carolina Panthers 28-14, securing their fifth win of the season. Experts predicted a close matchup between the two teams, but the Broncos' defense dominated, sacking Panthers quarterback Baker Mayfield six times. However, tragedy struck when Broncos wide receiver Jerry Jeudy was shot after leaving a strip club. The team is on high alert, recognizing the potential for a \"trap game\" against the Panthers. Despite this incident, the Broncos' defense has been impressive, pressuring opposing quarterbacks effectively. The game was televised on DAZN News US and other platforms, showcasing the Broncos' impressive performance and the impact of Jeudy's injury.",
+        "name": "Daylight savings time",
+        "summary": "Daylight saving time (DST) is ending in 2024, and various news outlets are reminding readers when to adjust their clocks. The time change, commonly referred to as \"falling back,\" will occur on Sunday, November 3, 2024, at 2:00 AM local time. At this point, clocks will be turned back one hour, effectively gaining an extra hour of sleep. The switch to standard time signifies the end of DST, an adjustment made to extend daylight hours during the summer months. News articles provide reminders to prepare for the time change to avoid any inconvenience or confusion due to the shift in time.",
         "items": [
             {
-                "title": "Cover 4: Broncos race back from early deficit, earn fifth win via 28-14 win over Panthers - DenverBroncos.com",
-                "description": "Cover 4: Broncos race back from early deficit, earn fifth win via 28-14 win over Panthers  DenverBroncos.com",
-                "published date": "Sun, 27 Oct 2024 23:37:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOFhDQlBOZVVfWDJRMXd1aE9sSzhEVzdVdlJfNGxHQURoYjBNOWF5Mm1CaG1ySEo2V1JzNTFmSFV5azRhdFBUQ2xWODg4akp5RVY3eXU2WlpZbGFUc2F1WTAzTVRONTloV0gwUGhBTGl1MjBRVzk3Qk84LW82Y0xXcVFiVVNYNHdRQUk4dXZFVnV6ZFNfSTNJZDZKRXJqbDhwRlE1ME5GY3JEOWhUU3JwQTk1MG5jRGZqd3hRMkdvUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "It's about time to 'fall back': Daylight saving time 2024 ends Sunday - Austin American-Statesman",
+                "description": "It's about time to 'fall back': Daylight saving time 2024 ends Sunday  Austin American-Statesman",
+                "published date": "Mon, 28 Oct 2024 11:04:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNenNrV1o5ZTZXWjd2cVJ5RUdHWDVmMmZEYnJaeDF1VWJac0NEaEtwQm0xVm9BVnZmUS1PWVRaRjh3VE96aXJBQjZuZm13Q1VubUEweW9PcXVtR3BWTHZxdlpfb29jckpjXzFiZk4wVmtMRFNmdFo5cjF5NHRobEZXbHVtcEc5c2xLZHJKd2I1bVdPTnIxOVNYQ0NYQWNxZjZIZ3BzWThBUGQ3MXc3cXNGeXE4eGM0RUVxU1hMb0RsZmNOazRWVWkyQlNHc2d6di1zREgyYWtn?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.denverbroncos.com",
-                    "title": "DenverBroncos.com"
+                    "href": "https://www.statesman.com",
+                    "title": "Austin American-Statesman"
                 }
             },
             {
-                "title": "Panthers vs. Broncos prediction: Odds, expert picks, QB Matchup, injury update, betting trends, and stats - NBC Sports",
-                "description": "Panthers vs. Broncos prediction: Odds, expert picks, QB Matchup, injury update, betting trends, and stats  NBC Sports",
-                "published date": "Fri, 25 Oct 2024 01:03:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUFlQYUJnMWp0czdqRXJucWFKbExaUWNpeTJfNm9fSDRaSUVNVC1uczJhWDZlLWhCX2IwQmY4alBYb1h1LXdOd3NsNFZLem83eWt2anNJaTN3aTV5NmVJNnF5ZXdvVVhadWh6SGVKcF8yWG5Xc3NPZnB1SFdEN2VhaFRtNUMwSThDdkEyaHhTUENxSk9vbk1sc3lvVEFCRXJpbmhDZXlnSXBneEdmbHJvWlNlQnZiQUhmMElxUU83dDFoNnpVWUVWenlJWG1VZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Fall time change 2024 ends DST soon. Here's when clocks fall back for daylight saving time - IndyStar",
+                "description": "Fall time change 2024 ends DST soon. Here's when clocks fall back for daylight saving time  IndyStar",
+                "published date": "Tue, 22 Oct 2024 13:28:39 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT3FYR19mdHk4dEVOZ0ppWTFieWE0N2dKNUpPY2xsaUZEYlVoZkJnT2NKdGJtbGRxRmJFcUl1SENCcTJkdlRvNWhOTjlRbmlUa2tUdTY2R2FwSXM5d3E4d0wwSkJkXzI1ZWhkVm9QTXEybTZ2aUhaX0pRUjZSTU15V0NvY3BMZllkOXpoeHFkUGdaZTJzYXVLWDYzTjQ3NHV2aXdQamZoTkJSZEgzampFV3dFRWVMM2VNWXB3MzJYRWp3QVctckNHNnd1Qkh6TDRBdE5JNjdJdjJJTnF1R2tZbWNZRGk5Vy1FRkoxYWVaeF9TZw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.nbcsports.com",
-                    "title": "NBC Sports"
+                    "href": "https://www.indystar.com",
+                    "title": "IndyStar"
                 }
             },
             {
-                "title": "What time is the Denver Broncos vs. Carolina Panthers game tonight? Channel, streaming options, how to watch - DAZN News US",
-                "description": "What time is the Denver Broncos vs. Carolina Panthers game tonight? Channel, streaming options, how to watch  DAZN News US",
-                "published date": "Mon, 21 Oct 2024 15:43:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOTZORFpNZGNOVVp3X0c2c2RYaWdva0FoOHB6SGVnWmg1U05BV0xaUm85VnNXLTlnVWh1M3o3SWNfeHp0cVpEUTRGM05ZZGJmOXNhTjBVT0NkWi1HN2ROVzVLLUxtdHgwYkVvMEkzVlhuazlnbVVBWnM3Yk5pb0NlX2U5RzRmRW1abnM0WXFTOVlObjFlQ3FSQkNlXzBZQU85NXpEYWdYeHV2ZFo5elhWVFhpcUJtbHlqUGNJa1JFWG5HWnhnOXMxRkdkZ3FCLXNXZDdoZUgybE84cFc1WGY2N0g1eFgtMk5JS3d3TXBpM2JVZXNsakN1b29ZZWc3cDFZX1YyUndmbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Daylight saving time 2024 is ending: When do we 'fall back' an hour? - ABC News",
+                "description": "Daylight saving time 2024 is ending: When do we 'fall back' an hour?  ABC News",
+                "published date": "Fri, 25 Oct 2024 18:50:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTctZ0FlakE1Qlk1cE1hYWlRUGNwM3hhVG03d1FVdGJQNTUwYUZXZXJDeklwSEhybE1aZGYzYlNqZ3lERk5oMVc1Q1NSNy1TNERuVzRkTWpOZFlFSFQtOHRfcFBJc2pXSVJBUjNpQk9rLVVhUXpHYUFONVpVek82cFo5UVJjNzDSAYwBQVVfeXFMUDNQSHBzVjB4XzNxTElZQjM0RTBqdWFuVHFXM0RGVzhhVkRDTEVGOFZnbHZUM2FjTGozUEFwUU1lOEtlWGNseTlJTWxvS2w4Q0E0Q1FXS3pPdWVMZGtDMFFrcWIyX0QxYnpHazdNdTN2UE5UWXJNbXNHQmhfeU9uYnRQaDY5UjdycGRsdU4?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.dazn.com",
-                    "title": "DAZN News US"
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
                 }
             },
             {
-                "title": "Evidence Emerges That Broncos Are Aware of Trap Game Risk vs. Panthers - Sports Illustrated",
-                "description": "Evidence Emerges That Broncos Are Aware of Trap Game Risk vs. Panthers  Sports Illustrated",
-                "published date": "Sat, 26 Oct 2024 22:52:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanZHTTVyUERKc1kzWUdJU2Y5c3Nyek9SWm1PdW5qSWZRRUhORFJGcjkxTGdGVEJ6TWk1ZkZiZFhjajcxYVRXckhJYlZUbmVzMGlNajlYZWUycVdMbTUwRG9QU29wWkF3Z3pYQ2wxZnVDa3JiaUpfSnNXM0VrbmhVVUVqX3FEY1ZLWFJTRk13?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Daylight Saving Time Is Ending. Here\u2019s How To Get Ready To Fall Back - Forbes",
+                "description": "Daylight Saving Time Is Ending. Here\u2019s How To Get Ready To Fall Back  Forbes",
+                "published date": "Fri, 25 Oct 2024 15:58:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1J6cXJMTTNFdmlSSGdPdU9sTGx1NFRVN08zVzdjSk1JdF9aQ3ZDNUcyajZob3RMakxjV2RWOE81UldqUGJMQmE5cWdlQ25JcHl5amNkVWNFby1ISTFwR1pqUDUxaUFvZDBsUUJuVWRZRmRONVU0b0Nhclg0X3JiNFFkUmdUZFoxNW5IVEJPbw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
+                    "href": "https://www.forbes.com",
+                    "title": "Forbes"
                 }
             },
             {
-                "title": "Broncos player wounded in shooting after leaving strip club - 9News.com KUSA",
-                "description": "Broncos player wounded in shooting after leaving strip club  9News.com KUSA",
-                "published date": "Thu, 24 Oct 2024 20:43:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcURzRmRqUnItQ0dTZ1dvSmJTaGxYUHhNSEFYd04xZjd3NkJWOXZXcEttZTFEQktBcXd5T3NGck9JcHB6S1hRLVNNcTdmS3NWNjZjTlR6QlRjbW1ldFFFUFJDbU1HQzBxcl95YWNUTG4ySFc1U3puUHRVazNkS29lQlVPc3phTVpWRVBna0kyUmpqYzNXUW9MT0ZNdUNiQV9TeEt3QzFCMV9fbGxvdE5KNjdNR19ZUFZ6QWxmRS0yQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When do clocks \u2018fall back\u2019 as daylight saving time ends? - The Hill",
+                "description": "When do clocks \u2018fall back\u2019 as daylight saving time ends?  The Hill",
+                "published date": "Sun, 27 Oct 2024 14:40:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVdSU2pHZFJ6Mm1UUTJ3bnlMQlVwYmJjb1lrdU11enpxVlZ5VWRNQV9PWG5wQVYtaXUtcTN4UGFvQzRUSUFXTkp0djhLTi1NcWViR1JaTWdUZWkyUFRRWVZ2VzA5S2duR0NuYnJWY0tMY0xDb1B5eUJNSkYyaWRjZGQ4XzB5cWIzdnJHTjB2dzIxdFFsNzBVelczb1Q4b3p0SElRSlpLenM4dXFsdm5Z0gG0AUFVX3lxTFBKMEY2ZnQ5VmlnRVJ2T3pBb2t6dFRpZWwzb3VrNk9vMXhzSnRONUp4SXM1aExOYVhXUXJBQXhwU214aGFGOEZ3UTNudnotRlo3NVlydDU0b2ZvN0FLVTlCTjFtVzlTcE9hVUY4WmRobkM3YnVLSmdSVU5PSkV5MmxXM1FNNlVJWjFiSjFyNWV3TW9xVWgyUmtrZTRmVnU4VXVyay1XSVN6RWpFSGltMVkybjNDVA?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.9news.com",
-                    "title": "9News.com KUSA"
+                    "href": "https://thehill.com",
+                    "title": "The Hill"
                 }
             },
             {
-                "title": "Carolina Panthers at Denver Broncos: Predictions, picks and odds for NFL Week 8 game - USA TODAY",
-                "description": "Carolina Panthers at Denver Broncos: Predictions, picks and odds for NFL Week 8 game  USA TODAY",
-                "published date": "Wed, 23 Oct 2024 14:01:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHRNbVVwOUdIZERER3pkeXdEZi1hLVhPbU55MnJaQ3AtVUNubjRNYnpwSGc4UnVlOVpyNUlrWTdaeENBUW1DdGU5Y294ZTJtVU0tT3JmUWtrYWVHbkZaTDhCZVIzQ3lVdHI5S1l5dG1tN2Zmd2JvXzRoX0dtRTlfcW9VZFdyTGNmU3EyalRtNmlGak5hVTdBRGFvSlNiTmFlNl80RUtJcnd6NUR5QUFsekllVXhoQkZ3aXEyRWlIR3dkS0l2S2Nz?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Daylight saving time coming to an end soon. Here's when the clocks 'fall back' - NorthJersey.com",
+                "description": "Daylight saving time coming to an end soon. Here's when the clocks 'fall back'  NorthJersey.com",
+                "published date": "Fri, 25 Oct 2024 15:30:05 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMmNLSVlxTlZvV3JRWHhnWUxxWlpIWDZvSjIzWXBlNHk4NXo1OVE2QkVxbWdLYVBIeGl6MEhnWG5FU3AxSUdPV01pSlNBTkJOVllEOTJBNFRWOThRWjdFUm5UYk9JVk1QQzF2VHZrWVIzQ3hJQmllelNlNl9zek5PS25MQmZqT0VQMWhWaVU5MVoxRWNVQjJJQzhPazhHTG9NZlZURGoxR0hNbmVEMW1VbldtT0NicktpazVwOUdmT0JLcG9nMmN1UjFiVWQ5N183X3FxdFJxeWUyLWZheHQ1Q3U2Tlk5LXQ5QmJydG5xZ084dm5i?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
+                    "href": "https://www.northjersey.com",
+                    "title": "NorthJersey.com"
                 }
             },
             {
-                "title": "'We know everybody eats': Vance Joseph's defense is getting after the quarterback - ESPN",
-                "description": "'We know everybody eats': Vance Joseph's defense is getting after the quarterback  ESPN",
-                "published date": "Fri, 25 Oct 2024 10:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3NXNGgwR2VDZFc0eVE3QVNzM0RTdjJWVDE4X3EwQVFZU2V2Zmt4dXpvaGxtT1RMUTRvX1NrQWx5YWJHU3k1SXZuaS1YOWd4dWlhb2N4M1NhdjNuSDFQaXNBNjBHNUJMWjM3MkFJS3h2dk5OZzNVTDBVSzdzN2M4ck9RTk5wY1hzVnFXU0RObFJvcjMzMEt3M3hFd2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Daylight Saving Time 2024: Don\u2019t forget to turn your clocks back on this day - MassLive.com",
+                "description": "Daylight Saving Time 2024: Don\u2019t forget to turn your clocks back on this day  MassLive.com",
+                "published date": "Wed, 23 Oct 2024 20:20:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFpaZ2dHU1ZNcGtyYXJOVnZjRlVfZWVuVjZQV0N2QnFmd3JITUJiQkQzNk9EQ2pSQVBaS2FlOG5wX092RkRnR3lzaUpNNUc4YXQyaXF0dEVFSnpWcXRyZEF4UlZnbHFBbUYyQWpodDIwT21Xb2k5TjBhN1R6TUY4OHdFQVZvc3Q5Y2RuVEpUcTF1VXUwZWM0OXhSYnphQ3JZd2NaekMybkxuNU9yRHBZemtNeDJiWHBM0gHMAUFVX3lxTE1hMHdTaTVZM1NTV0NNMWxVT2NpY0V3T2FYU05VaFRNN24ydDdGVXhLbTJZTzJ1UjVWMWtXai1zYVp4NmktVW16aVdDM3R3VktXcVpxS2VkNGptWlkybWhVYUpiSEYwUVJXRldEUVZsdVJCUm15SDk4ek9mRDdjVU1nbVBHMUNtQlItUFhlaDBUVkJwY2FSUENXMFZBWUR6TnVCZ1l2cks5d1Vkc1k4NGxzR3F1U2tBQlpwc3U4WGNUMFBTVGR6cDNFTzdhSg?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
+                    "href": "https://www.masslive.com",
+                    "title": "MassLive.com"
                 }
             },
             {
-                "title": "Denver Broncos player recovering after he was shot in Denver - KKTV",
-                "description": "Denver Broncos player recovering after he was shot in Denver  KKTV",
-                "published date": "Thu, 24 Oct 2024 23:14:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1ZNRDQ5WDRxVFIycFdsTEVTNVVmTUdnRWlXcTFJZUVRMWdKSnlFTmtYYXdpQlU2WnVsTUt1ZjZSYmtqd3R3TVYyWnh1YzhIYUdZQlQwS2pNWUtnNW5WcG5nZ3JXYTlTbk9Eb1JmXzVYbGVVbWRGczVubk1aTTEzc2x3YUl6ZGNnVE9ScTA4Y3FhNVdU0gGoAUFVX3lxTE5YQ0ZYSklWOTR0RDZYMTl5eF9hOEZXSjRabkcwUXYtY2pSbFoxSC1xUjNwemE3UWZZUFZ2LURTaXlrWFFWcU1qbTVFemNVNjJXQ21ZMUE0d3gtYzBYQVBLelV0eHV3NjZyVllGYzFVc1c0RUlNZjlmWHVaS0J6VWlFS3gxQTYzb092V2gxVkpaWWVjYV8zRTNhMFc0NXduNjVxR1VueEVVZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When is the next time change? What to know about fall back time change 2024 - El Paso Times",
+                "description": "When is the next time change? What to know about fall back time change 2024  El Paso Times",
+                "published date": "Fri, 25 Oct 2024 15:32:47 GMT",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHVmVWFTcG1qaVVaS0QtNV9wUlJrZVF6SjV0cXoza2tTeWtGT2k3cExkdGtQUVA0b2I1Z2tJWTJWd2liUkN6bHd2TTM1MjA4UXBFMnFWUEtNTm1ZMzFfenR0SVpydkhOaWYyLWlsOEdIaVNxcEllellfdE9MVUR3Y2lGbnpwbGVIZ0xEWmlNcDZDNW1oZXNjT3ZPRTNLVTFSVTM0d3ZBcElQM0VmbkFkTWdhRVdiQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.kktv.com",
-                    "title": "KKTV"
+                    "href": "https://www.elpasotimes.com",
+                    "title": "El Paso Times"
                 }
             },
             {
-                "title": "Carolina Panthers vs Denver Broncos picks, predictions, odds: Who wins NFL Week 8 game? - The Arizona Republic",
-                "description": "Carolina Panthers vs Denver Broncos picks, predictions, odds: Who wins NFL Week 8 game?  The Arizona Republic",
-                "published date": "Mon, 21 Oct 2024 20:37:07 GMT",
-                "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFpnQTVtUzN1dUZ0V08zN2JjVjZ0WjJIcWRWS3I4eEZzN0JqLWx4Ykx5QjJ1YUVpZWVmUmFMRjJCcHVJNnUwQW80a2VQRlhSd3pVQnZ0cTQ3Wi1Zb1ZWdTEweXFRdTBIc041RHFwWHRlNXlZQXhvc2pZaE5WZlVXRGpIYW4taG5XOG9OaU5jX0xGNEVnbS13eVVyOGRZQ3ZybzMwXzliQk5XWThieTZMNDRHdDlleFd2azRyTTJPcDZLcm55OVBrcE9lQWRydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "When does the time change? Here's when daylight saving time ends in 2024 - The Cincinnati Enquirer",
+                "description": "When does the time change? Here's when daylight saving time ends in 2024  The Cincinnati Enquirer",
+                "published date": "Mon, 21 Oct 2024 19:44:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFo1eXpUMU11Q3dHeUlrZWhqOWs5THdrSmhKZTFMQkVSRmhzbFpLVjdBczBtMmM1VTRDcEZraFlXaXM4aFROQXIxOFd5bmxoSFlWaDZqQ2V1QVpKaERuTGsxTU5hSVg5YTdmLUgyT1BkVFA1RkNYRGVZQUtQUm04Uy1ldVdhaXkyV3FqZXVzbTJBUW1NeXY3NEE3VENucWJjMm5HaEJyZ1RNdzlQUmc?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
+                    "href": "https://www.cincinnati.com",
+                    "title": "The Cincinnati Enquirer"
                 }
             },
             {
-                "title": "Bo Nix tosses 3-yard TD pass to Nate Adkins | Broncos vs. Panthers - DenverBroncos.com",
-                "description": "Bo Nix tosses 3-yard TD pass to Nate Adkins | Broncos vs. Panthers  DenverBroncos.com",
-                "published date": "Mon, 28 Oct 2024 00:05:25 GMT",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblczRnlDcFQwdE5vOGNiSENRME9CQnl2QjhuZjFLeS1VSE5qQTB0cERBQk4wQlFocjNWSUpYNXVScGU0NTN6VWx4QlN0MHIyVkdJcnVxN0o5a043Vk5lb2tYTWtmRmtPaFl4VndHQkJseVNLV3pQTG9iU2xVU1BqOUNmRXNUSzdySEJkc3o3dW55VjhpZC1Ea2Z1dmdQTDZx?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "How to Adjust to the End of Daylight Saving Time - CNET",
+                "description": "How to Adjust to the End of Daylight Saving Time  CNET",
+                "published date": "Thu, 24 Oct 2024 18:23:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTVNDRW05OTZtSktmLVZWUTdzLXJOelgwSU5rOFVGRUlmN05fdW96ajlGOXBNcVUybVl0djhQRGdJczZOd2pka3BObU1CeUJIeHA0UGQ2cXpHaHNGN1Mwa2xIZjJxcExZWHhlVnBpd0VqSEd4dnpaN3NRZFdMWVB6b1A5UEJyS2dpQ2F1S0FOYmI1enM?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.denverbroncos.com",
-                    "title": "DenverBroncos.com"
+                    "href": "https://www.cnet.com",
+                    "title": "CNET"
                 }
             }
         ]
     },
     {
         "name": "Ravens vs Browns",
-        "summary": "The Baltimore Ravens and Cleveland Browns are set to face off in Week 8 of the 2024 NFL season. Kickoff time is set for [insert time] and the game will be televised on [insert network]. Live streams will be available on [insert streaming platforms]. The Ravens are favored by [insert spread] points, according to oddsmakers. Experts predict a Ravens victory, citing their strong defense and Lamar Jackson's mobility. However, the Browns have a talented defense of their own and will be looking to make a statement against a division rival.",
+        "summary": "In Week 8 of the NFL, the Baltimore Ravens will face off against the Cleveland Browns. Kickoff time is yet to be determined, but the game will be available for streaming and viewing on CBS, Yahoo Sports, and NFL Network. Bookies will release betting odds and predictions as the game approaches. The Ravens are expected to win, but the Browns defense has the potential to upset them. Browns quarterback Deshaun Watson will make his second start since returning from suspension. News outlets will provide live updates, scores, and expert analysis during the game.",
         "items": [
             {
                 "title": "Baltimore Ravens vs. Cleveland Browns game: How to watch, kickoff time and more - Yahoo Sports",
@@ -776,16 +882,6 @@
                 }
             },
             {
-                "title": "Baltimore Ravens vs Cleveland Browns picks, predictions, odds: Who wins NFL Week 8 game? - The Arizona Republic",
-                "description": "Baltimore Ravens vs Cleveland Browns picks, predictions, odds: Who wins NFL Week 8 game?  The Arizona Republic",
-                "published date": "Mon, 21 Oct 2024 18:20:26 GMT",
-                "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMV8wQjBQRFVaeGlQUnRUNWd1S1VseHMxNXFlcXc0cEVKUW1fYnJ0T0RqYmtzX2tfeXBJVUxaVzkyZ21aa2V5ay1jRjZoNFVaeFpYVUgxQW1XTW5fZ01oUlVsWklUazdmM1J0S2F6N0c2Vjkzd3MtUnd1a1NRNXJUSmloNEZLR09vVTFqZzJFWXZETlFvb21VWHNrWXE4NS14U1h1dUk5RVMyZW1VejU2aXJOWmZwMklTZ3YtYThMdVh6eDF0NTg2SVBPSW1nNlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
-                }
-            },
-            {
                 "title": "Browns defense with key stops to claim win over Ravens | 3 Big Takeaways - clevelandbrowns.com",
                 "description": "Browns defense with key stops to claim win over Ravens | 3 Big Takeaways  clevelandbrowns.com",
                 "published date": "Sun, 27 Oct 2024 22:58:35 GMT",
@@ -796,13 +892,13 @@
                 }
             },
             {
-                "title": "Baltimore Ravens vs. Cleveland Browns prediction: Who wins NFL Week 8 matchup? - Akron Beacon Journal",
-                "description": "Baltimore Ravens vs. Cleveland Browns prediction: Who wins NFL Week 8 matchup?  Akron Beacon Journal",
-                "published date": "Sun, 27 Oct 2024 09:19:14 GMT",
-                "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0NDSFhoekM3NzBXN3hMU1hCSVZqZVVqUDg5dlRCdW5EOGdRYTJ3aGpXMWZiNzg3S0FzeUpwdDRDeWxBTXFxYnVITlJabTVMcFhMM3RhM3RBMS10cUY4elEtS1JfblozLVNOVlRuRHFUYWVrd0ZyaE95ZWY1LVBTdVZJckhjM2NMdUdFN1NtaERhM1BiampKRDdXUGhyZFp3aGFqYmpaMEdZMU04MHJNaU9WZnQwQWU5WEFBYmRiRHJXVl8zYldoeXQ4SmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Baltimore Ravens vs Cleveland Browns picks, predictions, odds: Who wins NFL Week 8 game? - The Arizona Republic",
+                "description": "Baltimore Ravens vs Cleveland Browns picks, predictions, odds: Who wins NFL Week 8 game?  The Arizona Republic",
+                "published date": "Mon, 21 Oct 2024 18:20:26 GMT",
+                "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMV8wQjBQRFVaeGlQUnRUNWd1S1VseHMxNXFlcXc0cEVKUW1fYnJ0T0RqYmtzX2tfeXBJVUxaVzkyZ21aa2V5ay1jRjZoNFVaeFpYVUgxQW1XTW5fZ01oUlVsWklUazdmM1J0S2F6N0c2Vjkzd3MtUnd1a1NRNXJUSmloNEZLR09vVTFqZzJFWXZETlFvb21VWHNrWXE4NS14U1h1dUk5RVMyZW1VejU2aXJOWmZwMklTZ3YtYThMdVh6eDF0NTg2SVBPSW1nNlk?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.beaconjournal.com",
-                    "title": "Akron Beacon Journal"
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
                 }
             },
             {
@@ -823,6 +919,16 @@
                 "publisher": {
                     "href": "https://www.baltimoreravens.com",
                     "title": "BaltimoreRavens.com"
+                }
+            },
+            {
+                "title": "Baltimore Ravens vs. Cleveland Browns prediction: Who wins NFL Week 8 matchup? - Akron Beacon Journal",
+                "description": "Baltimore Ravens vs. Cleveland Browns prediction: Who wins NFL Week 8 matchup?  Akron Beacon Journal",
+                "published date": "Sun, 27 Oct 2024 09:19:14 GMT",
+                "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0NDSFhoekM3NzBXN3hMU1hCSVZqZVVqUDg5dlRCdW5EOGdRYTJ3aGpXMWZiNzg3S0FzeUpwdDRDeWxBTXFxYnVITlJabTVMcFhMM3RhM3RBMS10cUY4elEtS1JfblozLVNOVlRuRHFUYWVrd0ZyaE95ZWY1LVBTdVZJckhjM2NMdUdFN1NtaERhM1BiampKRDdXUGhyZFp3aGFqYmpaMEdZMU04MHJNaU9WZnQwQWU5WEFBYmRiRHJXVl8zYldoeXQ4SmU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.beaconjournal.com",
+                    "title": "Akron Beacon Journal"
                 }
             },
             {
@@ -849,13 +955,13 @@
     },
     {
         "name": "Cedric Tillman",
-        "summary": "Multiple news articles highlight the rising prominence of Cedric Tillman in the Cleveland Browns' offense. Tillman's increased role has prompted discussions about his potential as a breakout wide receiver. Fantasy football experts recommend adding Tillman to waiver wires as he is expected to have a significant impact in Week 8 and beyond. DraftKings and NFL.com recognize Tillman as a top fantasy football sleeper with increased playing time. NBC Sports predicts that this week will showcase Tillman's emergence in the Browns' offense, making him a valuable asset for fantasy football managers. Fantasy experts agree that Tillman should be considered a priority add due to his anticipated surge in production.",
+        "summary": "Cedric Tillman's exceptional performance in the Browns' victory over the Ravens has propelled him to prominence in fantasy football circles. Experts believe he has the potential to become a breakout wide receiver for the Browns, and suggest adding him to waiver wires as a deep sleeper for Week 8. Tillman's enhanced role in the offense, coupled with the injury to Stefon Diggs, makes him a valuable addition for fantasy players looking to bolster their receiving corps. Fantasy analysts anticipate increased targets and production for Tillman, making him a must-add for those seeking a competitive edge in their fantasy leagues.",
         "items": [
             {
-                "title": "Cedric Tillman embracing increased role in Browns offense - clevelandbrowns.com",
-                "description": "Cedric Tillman embracing increased role in Browns offense  clevelandbrowns.com",
-                "published date": "Mon, 21 Oct 2024 20:42:31 GMT",
-                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFZuRlphSWUtd2pJQXhWejZNM0M0Y2JIV3prdmsxcDlvYWNfT051alVTa2ZoSmlnTVpURGIza3FaM3lUNzd1Ny1IVnpPSEtuTjltQUFBdzZPUG00NEpMMFBYU0NOeFcxVzQyTnI2SkpCVlhJeHBWamwyZ1pxbEFXeGVQdktJUUJEY0tTX3R4d0daSk5qMXZvWTRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Cedric Tillman\u2019s career day fuels Browns\u2019 win over Ravens - clevelandbrowns.com",
+                "description": "Cedric Tillman\u2019s career day fuels Browns\u2019 win over Ravens  clevelandbrowns.com",
+                "published date": "Mon, 28 Oct 2024 00:28:12 GMT",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2kwSWMtNV9HaU9ZNEZSa2ZXeG82cDB2Yy1sOXdIN2thdFF2MEVSN1hacF9NamVwSXFTMTdkRng1dHoyaUtyc3lHazdFUG52WVM4Q1F5a3FTRDdVbG9MTDV6bVZ5bHpzWFRjemI2QnRKOVJ4QWtuMEZfbzZjejNPN0htVmNKZkhhMUFJa21iZW4zQnBMekN6cg?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.clevelandbrowns.com",
                     "title": "clevelandbrowns.com"
@@ -954,6 +1060,112 @@
         ]
     },
     {
+        "name": "Saints",
+        "summary": "",
+        "items": [
+            {
+                "title": "Chargers vs Saints Game Recap - NFL Week 8 - Oct. 27, 2024 - NewOrleansSaints.com",
+                "description": "Chargers vs Saints Game Recap - NFL Week 8 - Oct. 27, 2024  NewOrleansSaints.com",
+                "published date": "Sun, 27 Oct 2024 23:23:48 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVZWYXFxUTNlVU9RZHhtc2Z6SlNDQlJfNmExOXFhQ1RsdnBMQnpNT1NhdTBxeldJamZXdl84QnFURVUxTzIxbW9JSExnN0d1c2ludHNLNVFEMzctTVZ2ZDNDb3l0b0o5X0p1aU5icVJ5Mm00VDdvTmF2bEgzc2VEZk5sNkc2eERP?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.neworleanssaints.com",
+                    "title": "NewOrleansSaints.com"
+                }
+            },
+            {
+                "title": "New Orleans Saints at Los Angeles Chargers: Predictions, picks and odds for NFL Week 8 game - USA TODAY",
+                "description": "New Orleans Saints at Los Angeles Chargers: Predictions, picks and odds for NFL Week 8 game  USA TODAY",
+                "published date": "Wed, 23 Oct 2024 14:02:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmJ5aXprQkl1c1AyVG5CcWEzZU1WYVBEaHZFRHYtWTR6SlZodDVBdmJlb01zMExHbXVveXdQVmppZU9OMThWSGd0SVM4NmlwM29NVWFxZVlKZ1pGSmdCUGg0WXVWVkRjVkhzNlF3M1hrX3l5NVllYV85cFFFVFFXb2JMa1hTVHBGVVhlSVZEcFhoYndHTFJoWHZqalg4c0h4ZDJwTWxXQURTMFhhQlItOEhCSTQtUWFMb3hPR2R2b2NzTzZkcG5mY2FpaXlObzk2?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.usatoday.com",
+                    "title": "USA TODAY"
+                }
+            },
+            {
+                "title": "New Orleans Saints | NFL, Football, History, & Notable Players - Britannica",
+                "description": "New Orleans Saints | NFL, Football, History, & Notable Players  Britannica",
+                "published date": "Wed, 23 Oct 2024 05:00:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nWUNfVEVQUDZWZW5GYm1TcVZWT0Y0M0FCYkJCQ1FNbXlob3NqZzJPU0ZpeWZMQlNKcnV0WGZLMzJjY3pvQm9KTHV4S3E3VGFaX2xfdklwcUhxbldwaDdqbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.britannica.com",
+                    "title": "Britannica"
+                }
+            },
+            {
+                "title": "Source: Saints reach deal with Valdes-Scantling - ESPN",
+                "description": "Source: Saints reach deal with Valdes-Scantling  ESPN",
+                "published date": "Mon, 21 Oct 2024 22:25:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFBlTVlTOVJ1RThLSGpnRnpHSmVzYmZUazZQcFo3LU5XRnZyYk56ZVpVWnlTVENON1d0dDVVSWtSRVNGTkVyam5kUF91dUtYSjRZa1dnRlJBZHhKSS1jeW1LWldWb1pEekFoOXdmdHdXLU1vZnBvVF9RWElpNUVvOVExdDBmS2dmRkoxRjVGa3JLaDNzeTh0NlJva0ZkQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "How to Watch Chargers vs. Saints: Time, TV Channel and Live Stream \u2013 2024 Week 8 - FOX Sports",
+                "description": "How to Watch Chargers vs. Saints: Time, TV Channel and Live Stream \u2013 2024 Week 8  FOX Sports",
+                "published date": "Sun, 27 Oct 2024 03:14:13 GMT",
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVZ0ZUVSQ240NFUxN2x2Q3c1d3F6Z3I3MVd2MmlKdUVCeEgwdFhmOUFmbHdScjMxNFFnYmZrMjctNENLa2hyMjhJQnN6RWUyMDNFVnZNaDlQZ2xocWZfbHlqd2RjVVhJYVV4Vm53NmoyMlNQSk1ockJDdkNodXF6dFhzdUdtN3drTlM2dkt5TndraWdfaVFnVWZIbGd4eHBWQVJLVnJPYnczaldwRzFzZ3VjRlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.foxsports.com",
+                    "title": "FOX Sports"
+                }
+            },
+            {
+                "title": "New Orleans Saints vs Los Angeles Chargers picks, predictions: Who wins NFL Week 8 game? - The Arizona Republic",
+                "description": "New Orleans Saints vs Los Angeles Chargers picks, predictions: Who wins NFL Week 8 game?  The Arizona Republic",
+                "published date": "Mon, 21 Oct 2024 20:11:49 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2JSeEZBY05uM0s4a1FYSHgwOWZpUngxZHRGT2FSSHRLMTZoT3FtSjVqRERSbURCdkdXZGhUQjZpUW1RM3JsM1lkaHFmNENvV2U1eXhkRXJVY0JCZlFQVVVhOXhBcWFqZkV4QlJwYzVFTUdJaG5RaHhVTEN3TGJnVlhHdHQtYnhxaWZUZnQzbTQxZ0pYa1d3MV9rTUFmSHVUbTB4aWtVbEllZnAzbVhnVjEzNm96cEhZQ1BzRkFSYWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
+                }
+            },
+            {
+                "title": "Week 8 Injury Report | Chargers vs. Saints: Bosa, McConkey Questionable for Sunday, Johnston & Davis are Doubtful - Chargers.com",
+                "description": "Week 8 Injury Report | Chargers vs. Saints: Bosa, McConkey Questionable for Sunday, Johnston & Davis are Doubtful  Chargers.com",
+                "published date": "Fri, 25 Oct 2024 22:18:45 GMT",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXpzS003dHRYVW9Ka0pNWF8zdmpNMFRzNlNaX0RIdm1mN1VBN051bFNERHF0MzJXbzVMSzBxbG1aaVpQUzFPd21laW1lSUlEQXEtR1NicnA3ODF3Qmt5ZnR4YnRDNnYxNE8wNXNoNXJwemtIbzZtSUNhUm9DT0M0b3RKS2Npb1h5dF9MakhINWxPbU5mNnpKcEtDX0UzWGswU2RUYTI5cEljQWlha1VJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.chargers.com",
+                    "title": "Chargers.com"
+                }
+            },
+            {
+                "title": "2024 NFL Week 8 Inactives | Saints vs. Chargers - NewOrleansSaints.com",
+                "description": "2024 NFL Week 8 Inactives | Saints vs. Chargers  NewOrleansSaints.com",
+                "published date": "Sun, 27 Oct 2024 18:37:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFBoZkhRTlU5aWl2NmJPWEpRRk5uQTltYzdkcXRCNFlyejU4TkFEYU5tVDk3VDZfWDZodHVOUlZGTGkxNUdPSkNBdjlER3lMa25zQjBja3hvckgwMW9YMHBRSHk5RmVOc0pYSHc4YzZIVFN5bFlGcnppMTN0Rzl2OXdqakZmczlrNTJQdkFaRFd1T1pzOVpNUlptYllBTVhFNmxHbG5n?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.neworleanssaints.com",
+                    "title": "NewOrleansSaints.com"
+                }
+            },
+            {
+                "title": "Saints announce multiple last-minute roster moves before Chargers game - Saints Wire",
+                "description": "Saints announce multiple last-minute roster moves before Chargers game  Saints Wire",
+                "published date": "Sat, 26 Oct 2024 23:30:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0poNXNhaThhNEpST3hwZmpJUkh5TTNBbUJnZ0lpV3Y4Y192bjVDaHVUbnBPOEFXMUp6NkR5TFZCRk1kc3RBY1JMdm5tajd1Zk9rR0RpbDdLcjB0TGpJb1ptWWF2VHl5TzJTVlptdXlMbFRhWG5oamU1Qmp1N2ctcl8zcGRTRGlVQmExSF9PSXh6NktWX2JiSG9XTVVSR2wwVDV4cTNnZ1lPU2FnWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://saintswire.usatoday.com",
+                    "title": "Saints Wire"
+                }
+            },
+            {
+                "title": "Saints' Olave, Hill expected to play vs. Chargers - ESPN",
+                "description": "Saints' Olave, Hill expected to play vs. Chargers  ESPN",
+                "published date": "Fri, 25 Oct 2024 18:48:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEdWN1VmbG9YQUhkc0p0N0h2WlREaXZRX2xzcUJocF9ZS1dhRWItQWQ2SW9FcS1LSmFhQ0xDNFFFT0pLdUF3Ui03a1Y0VjQ3NEotVVJOUVBOV280aXBTc3FlUWhVWTRHUkRibkJCcTZQbDVNd0ZWaml5WWZKV2U3RkZiS3RlNkFBaTRzUlk0T0tNbEVQU2MzclFlTUdaal94cU5DVG5B?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            }
+        ]
+    },
+    {
         "name": "Madison Square Garden",
         "summary": "",
         "items": [
@@ -968,16 +1180,6 @@
                 }
             },
             {
-                "title": "What you missed at Trump\u2019s NYC MSG rally: Hulk Hogan, Elon Musk, Tucker Carlson and more - New York Post",
-                "description": "What you missed at Trump\u2019s NYC MSG rally: Hulk Hogan, Elon Musk, Tucker Carlson and more  New York Post ",
-                "published date": "Mon, 28 Oct 2024 02:48:33 GMT",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUNZZ2RRTTBvekt6LTZCZlFqLURSSWZGWDZYYXhpVU5TQy1aRmRjdUtleEptNzRjZkp0TXJKbnZlajBYWTNuY0lycmp3Rld1ZFlJVXZidFA2dF9oT2FHalREcUl2MWxfX2dSWGJhQlZ6WEdXQURuY2V0cVFFNEl0UmwwdGtLelBOT2JMSmFSd0llaWl0X1FlWk4xLWpXNlVCSEh5OEJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://nypost.com",
-                    "title": "New York Post"
-                }
-            },
-            {
                 "title": "Trump rallies at Madison Square Garden in New York days before election - NPR",
                 "description": "Trump rallies at Madison Square Garden in New York days before election  NPR",
                 "published date": "Sun, 27 Oct 2024 18:26:22 GMT",
@@ -985,36 +1187,6 @@
                 "publisher": {
                     "href": "https://www.npr.org",
                     "title": "NPR"
-                }
-            },
-            {
-                "title": "Why Is Trump Holding a Rally at Madison Square Garden? - The New York Times",
-                "description": "Why Is Trump Holding a Rally at Madison Square Garden?  The New York Times",
-                "published date": "Sat, 26 Oct 2024 14:02:19 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenRtQ0lhZUdUTUVNakxvaV9tdjlxNkFWS0JRdkxlVG12NHNCbnNQT1RycV9wel9wal9wMHVESkVqT1k0eHVIdkpFV2NOdjlMNGQyMXh6eWRpVHdBbEpqcUlsMVdxLUZwZTlObUw1N3F6Zjh5NVRXcDJ3X3UyUXBsWUoxRllySlpuRUlRYXVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nytimes.com",
-                    "title": "The New York Times"
-                }
-            },
-            {
-                "title": "Election 2024 Live: Trump at Madison Square Garden, Harris in Pennsylvania - The Wall Street Journal",
-                "description": "Election 2024 Live: Trump at Madison Square Garden, Harris in Pennsylvania  The Wall Street Journal",
-                "published date": "Mon, 28 Oct 2024 04:37:49 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oWE4tVEpIZzE5eGRBTjE5UllvNkZES2dRd0VKbEg2NFBOWjlZdWtKZk1WeGlsRzgzc296Sl91V0gyQVR3VEcwYVYweF9IeG1wYjdGbmR0LWx3aGFqdE4wYmczamt0NmJHTG0yUDJ5OXQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.wsj.com",
-                    "title": "The Wall Street Journal"
-                }
-            },
-            {
-                "title": "Ahead of rally at Madison Square Garden, Trump says he wants to make 'New York great again' - ABC News",
-                "description": "Ahead of rally at Madison Square Garden, Trump says he wants to make 'New York great again'  ABC News",
-                "published date": "Sun, 27 Oct 2024 02:35:41 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYnYxOEo4MnNmM3JoLWc4ZTBUZTg0NzZxLUZyN3loWkxqdE5Pdl8wMDRGeFJ5U3FSbG9EZkdpbHFWMXFhRzlkRjR5NFhjZEFoVFNaWXRRdEtVbGFIQnI4UmdORGF1VWdrZDlNbGJ3MXVyWFA3Q3ZTR28yRXI1QUNDVDhrNjZFcVc0ZEtRNjNiVzZEbURSaEHSAZsBQVVfeXFMT3VXeERJVFljVkpaM1Z5dE5FRTgyM2VWV0hIUGdBUlRJcmxUaXZIODgzZWhEdzRqWU9aNG9ZWUl6TFNZSklENUk0WnVCX1RHV0lLQ285U3VtZ29fdVZNUml0RnhqSjIyUUswUHE5Q01fd3BobzFLem1mX1ZFSFRSSVpCX2pYblZjUERZa3ZUZzJuUGRZYVhqNVp6dVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
                 }
             },
             {
@@ -1028,13 +1200,53 @@
                 }
             },
             {
-                "title": "Trump holds bombastic, incendiary homecoming rally at Madison Square Garden - Los Angeles Times",
-                "description": "Trump holds bombastic, incendiary homecoming rally at Madison Square Garden  Los Angeles Times",
-                "published date": "Mon, 28 Oct 2024 05:13:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWhYTjk4bk1ZN2JPRERrR1VjVEwtWnhPXzVuc05wVGkzc05Mc1lZUXVDbjNLc2ZNS3Z5MGZXRTBVVkhucklUMzZDUGxUUldocGtkTzBGZHk0aEtxMFItOFB6R1h4My0wZ2Jmc043eDBfYzZNX080b1AyY1d3eThVRy1kUUQ5Z2t3WEZnbEVyd1F6MkZKQ1h0RUpTUjdpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Why Is Trump Holding a Rally at Madison Square Garden? - The New York Times",
+                "description": "Why Is Trump Holding a Rally at Madison Square Garden?  The New York Times",
+                "published date": "Sat, 26 Oct 2024 14:02:19 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenRtQ0lhZUdUTUVNakxvaV9tdjlxNkFWS0JRdkxlVG12NHNCbnNQT1RycV9wel9wal9wMHVESkVqT1k0eHVIdkpFV2NOdjlMNGQyMXh6eWRpVHdBbEpqcUlsMVdxLUZwZTlObUw1N3F6Zjh5NVRXcDJ3X3UyUXBsWUoxRllySlpuRUlRYXVn?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.latimes.com",
-                    "title": "Los Angeles Times"
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Fact-check: Donald Trump\u2019s Madison Square Garden rally in New York City - Al Jazeera English",
+                "description": "Fact-check: Donald Trump\u2019s Madison Square Garden rally in New York City  Al Jazeera English",
+                "published date": "Mon, 28 Oct 2024 09:31:21 GMT",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQm51TEN3cVJ2X0hzclBrZXJlNnpSSXdlYlRDbTFvbVFTQUlWWS1tTW1wSnZRbkdlWWhvRjk3cG0yOVBlUzQwUC1MU3FzbV9Edm5ZWk04YVpmVHVRWVRHTnZaUldGMnA1aHZydVY1Mkh5cmNkeUhTeDFqVDc0Z2FtTDZ5V1JqZnVqQk53WTZsSllQaEo2LW8wYVV4eF9QMDlhVk1UbEJyRFY3ZE9MS0RSQ9IBtgFBVV95cUxPcGJ0MkNoeGFKM1YwMjZzN1NtdHZoSHhxUjRZZ1ZlV3NzSUJNbXVnM1FleG1nczFXNFl0STA2RlczNlNiRXlqN1BlOVM2REJjYUNjaEhNLXotUGZZd3p3djJWWjBDZlM5NEFaSlkwNkhkMVFDdTZ6VTkxMFdLZWZqbjQ5SVJka2NsS29vbkVvZm9yM2JjVVdZSE1mWEwwUVdGVXFrd1lOUzcxcndxMUF4ckJOSVVzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "Ahead of rally at Madison Square Garden, Trump says he wants to make 'New York great again' - ABC News",
+                "description": "Ahead of rally at Madison Square Garden, Trump says he wants to make 'New York great again'  ABC News",
+                "published date": "Sun, 27 Oct 2024 02:35:41 GMT",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYnYxOEo4MnNmM3JoLWc4ZTBUZTg0NzZxLUZyN3loWkxqdE5Pdl8wMDRGeFJ5U3FSbG9EZkdpbHFWMXFhRzlkRjR5NFhjZEFoVFNaWXRRdEtVbGFIQnI4UmdORGF1VWdrZDlNbGJ3MXVyWFA3Q3ZTR28yRXI1QUNDVDhrNjZFcVc0ZEtRNjNiVzZEbURSaEHSAZsBQVVfeXFMT3VXeERJVFljVkpaM1Z5dE5FRTgyM2VWV0hIUGdBUlRJcmxUaXZIODgzZWhEdzRqWU9aNG9ZWUl6TFNZSklENUk0WnVCX1RHV0lLQ285U3VtZ29fdVZNUml0RnhqSjIyUUswUHE5Q01fd3BobzFLem1mX1ZFSFRSSVpCX2pYblZjUERZa3ZUZzJuUGRZYVhqNVp6dVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://abcnews.go.com",
+                    "title": "ABC News"
+                }
+            },
+            {
+                "title": "Trump to host rally at iconic Madison Square Garden as campaigns barrel toward Election Day - Fox News",
+                "description": "Trump to host rally at iconic Madison Square Garden as campaigns barrel toward Election Day  Fox News",
+                "published date": "Mon, 28 Oct 2024 10:57:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYmVhUTVXTTE4Q3doLVR4SmhBVjd5Ny16THpUc0g0SG13dDlqTWRoblEtTGhrTzU1c29XRDAwRVVMUnpwNHNpaUl0NllORGFJQVVtSEFOaHRrdW1Uc0ZrdmhYa1RMS1NzakhaUlRuWEd2TS0wZXdXQXFpQ295ampXQWROZ0lUUdIBiwFBVV95cUxQckFKUFU4R0NOdjdla0tzb1c3aWtRRWxiMkhhSEV0OXRKS0FwbkdGZUNRYktOZUdENjdTZnpFT3B6MmFyYXpnaEhkMmNlbGh2UVVKd3dwRHRaMzFpOFpTNlg3LTZsTWdPZVBrLS0tSTNab3FybTZ2UzBPZFNqQnFrSEs3THhmeGtER3Y4?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.foxnews.com",
+                    "title": "Fox News"
+                }
+            },
+            {
+                "title": "Trump fills Madison Square Garden with anger, vitriol and racist threats - The Guardian US",
+                "description": "Trump fills Madison Square Garden with anger, vitriol and racist threats  The Guardian US",
+                "published date": "Mon, 28 Oct 2024 01:59:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTNWN3pPM3FXQ0pXLTNza3dwZ2g5QWxlSjczWHRXemdKbTczSGNvb1RwOS1McUtacjRVdlJoaVk5WHM3cHIxbWxFaGJ3a3c4ci1nM0QtTExzOTJhcngtaEFfYTZoblZRWERYNFd6cVNLQnh5NVVXcHZxSVZtT0ktUnduOV9oRGFG0gGIAUFVX3lxTE44b1M2d3BmczFjZ1dVU3I3aDFyMVVleENQM0lreUFHU0ZETmFuS0Njb1R0b3YydGx2R1RFdmVtanhSQW1xeU1vRWtUTVRGWEpnai0xcXZrYlpwRUlzeE83QS1aZ0JLbm1SM2pncXluS2tUT2w0ZzhiWlo3MC1xNk5ZN0xnV296R1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.theguardian.com",
+                    "title": "The Guardian US"
                 }
             },
             {
@@ -1048,126 +1260,20 @@
                 }
             },
             {
-                "title": "Trump headlines Madison Square Garden rally after vulgar, racist remarks from allies - Reuters",
-                "description": "Trump headlines Madison Square Garden rally after vulgar, racist remarks from allies  Reuters",
-                "published date": "Mon, 28 Oct 2024 04:30:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2xBeHRwdU1PYzFsa19mYzg0NlpxZDE3MTNfTFBFdkNLcXp2T0ZjS2M0cktLY09GQTZGNWZaOUlwRzY0NTZ4Y0dyNVJIQ2h2d2tQYS1JcGtYVTZhRVV0MjZCSUpUbmtIaGRjclB1d040b3ZWa1BVZzZYUFQxV2V0UldydWZESGFZMVh4LWMycHM3eldMRDFsN19YWkRFaFhnMW5KODdlaURwWUtuXy1KTjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Trump holds bombastic, incendiary homecoming rally at Madison Square Garden - Los Angeles Times",
+                "description": "Trump holds bombastic, incendiary homecoming rally at Madison Square Garden  Los Angeles Times",
+                "published date": "Mon, 28 Oct 2024 05:13:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWhYTjk4bk1ZN2JPRERrR1VjVEwtWnhPXzVuc05wVGkzc05Mc1lZUXVDbjNLc2ZNS3Z5MGZXRTBVVkhucklUMzZDUGxUUldocGtkTzBGZHk0aEtxMFItOFB6R1h4My0wZ2Jmc043eDBfYzZNX080b1AyY1d3eThVRy1kUUQ5Z2t3WEZnbEVyd1F6MkZKQ1h0RUpTUjdpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.reuters.com",
-                    "title": "Reuters"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Daylight savings time",
-        "summary": "Daylight saving time, the seasonal practice of advancing clocks by one hour in the spring and reverting them an hour in the fall, is scheduled to end on November 3, 2024. This means that on the first Sunday of November, clocks will \"fall back\" by one hour, giving people an extra hour of sleep. The end of daylight saving time is a reminder to adjust clocks, smoke detectors, and carbon monoxide detectors. It also serves as an opportunity to reflect on the pros and cons of daylight saving time, with some research suggesting it can have negative impacts on health and well-being.",
-        "items": [
-            {
-                "title": "Fall time change 2024 ends DST soon. Here's when clocks fall back for daylight saving time - IndyStar",
-                "description": "Fall time change 2024 ends DST soon. Here's when clocks fall back for daylight saving time  IndyStar",
-                "published date": "Tue, 22 Oct 2024 13:28:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT3FYR19mdHk4dEVOZ0ppWTFieWE0N2dKNUpPY2xsaUZEYlVoZkJnT2NKdGJtbGRxRmJFcUl1SENCcTJkdlRvNWhOTjlRbmlUa2tUdTY2R2FwSXM5d3E4d0wwSkJkXzI1ZWhkVm9QTXEybTZ2aUhaX0pRUjZSTU15V0NvY3BMZllkOXpoeHFkUGdaZTJzYXVLWDYzTjQ3NHV2aXdQamZoTkJSZEgzampFV3dFRWVMM2VNWXB3MzJYRWp3QVctckNHNnd1Qkh6TDRBdE5JNjdJdjJJTnF1R2tZbWNZRGk5Vy1FRkoxYWVaeF9TZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.indystar.com",
-                    "title": "IndyStar"
-                }
-            },
-            {
-                "title": "Daylight saving time 2024 is ending: When do we 'fall back' an hour? - ABC News",
-                "description": "Daylight saving time 2024 is ending: When do we 'fall back' an hour?  ABC News",
-                "published date": "Fri, 25 Oct 2024 18:50:23 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTctZ0FlakE1Qlk1cE1hYWlRUGNwM3hhVG03d1FVdGJQNTUwYUZXZXJDeklwSEhybE1aZGYzYlNqZ3lERk5oMVc1Q1NSNy1TNERuVzRkTWpOZFlFSFQtOHRfcFBJc2pXSVJBUjNpQk9rLVVhUXpHYUFONVpVek82cFo5UVJjNzDSAYwBQVVfeXFMUDNQSHBzVjB4XzNxTElZQjM0RTBqdWFuVHFXM0RGVzhhVkRDTEVGOFZnbHZUM2FjTGozUEFwUU1lOEtlWGNseTlJTWxvS2w4Q0E0Q1FXS3pPdWVMZGtDMFFrcWIyX0QxYnpHazdNdTN2UE5UWXJNbXNHQmhfeU9uYnRQaDY5UjdycGRsdU4?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://abcnews.go.com",
-                    "title": "ABC News"
-                }
-            },
-            {
-                "title": "Daylight saving time 2024: When do we fall back? Why do we have time changes? - Austin American-Statesman",
-                "description": "Daylight saving time 2024: When do we fall back? Why do we have time changes?  Austin American-Statesman",
-                "published date": "Mon, 21 Oct 2024 13:30:46 GMT",
-                "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalo0dlBfXzZEanRIQ29BVV9ROGtvVWp1a3ZrVUlFVkpiSXNobDRRcVJNeHlueFFLTmljeTIxbVlNY0FHX3A3cGVQZnJ0N2xaeHd4NWhIT3E2SU9JdXE2VFNaazRDQ21vRElubV9qYXE5eXZMdllUWlk0cWZuRUpxM1FfVkJsOEhPT2tvWGVib0hDbWZSWGdqRjFCTjZEaEgzOTZWMnNjRGI4c3UtSnlLSGJ5U1h5cU1YcW5HNzVWc1BrZXpRb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.statesman.com",
-                    "title": "Austin American-Statesman"
-                }
-            },
-            {
-                "title": "Daylight Saving Time Is Ending. Here\u2019s How To Get Ready To Fall Back - Forbes",
-                "description": "Daylight Saving Time Is Ending. Here\u2019s How To Get Ready To Fall Back  Forbes",
-                "published date": "Fri, 25 Oct 2024 15:58:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1J6cXJMTTNFdmlSSGdPdU9sTGx1NFRVN08zVzdjSk1JdF9aQ3ZDNUcyajZob3RMakxjV2RWOE81UldqUGJMQmE5cWdlQ25JcHl5amNkVWNFby1ISTFwR1pqUDUxaUFvZDBsUUJuVWRZRmRONVU0b0Nhclg0X3JiNFFkUmdUZFoxNW5IVEJPbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.forbes.com",
-                    "title": "Forbes"
-                }
-            },
-            {
-                "title": "When is the next time change? What to know about fall back time change 2024 - El Paso Times",
-                "description": "When is the next time change? What to know about fall back time change 2024  El Paso Times",
-                "published date": "Fri, 25 Oct 2024 15:32:47 GMT",
-                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHVmVWFTcG1qaVVaS0QtNV9wUlJrZVF6SjV0cXoza2tTeWtGT2k3cExkdGtQUVA0b2I1Z2tJWTJWd2liUkN6bHd2TTM1MjA4UXBFMnFWUEtNTm1ZMzFfenR0SVpydkhOaWYyLWlsOEdIaVNxcEllellfdE9MVUR3Y2lGbnpwbGVIZ0xEWmlNcDZDNW1oZXNjT3ZPRTNLVTFSVTM0d3ZBcElQM0VmbkFkTWdhRVdiQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.elpasotimes.com",
-                    "title": "El Paso Times"
-                }
-            },
-            {
-                "title": "When do clocks \u2018fall back\u2019 as daylight saving time ends? - The Hill",
-                "description": "When do clocks \u2018fall back\u2019 as daylight saving time ends?  The Hill",
-                "published date": "Sun, 27 Oct 2024 14:40:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVdSU2pHZFJ6Mm1UUTJ3bnlMQlVwYmJjb1lrdU11enpxVlZ5VWRNQV9PWG5wQVYtaXUtcTN4UGFvQzRUSUFXTkp0djhLTi1NcWViR1JaTWdUZWkyUFRRWVZ2VzA5S2duR0NuYnJWY0tMY0xDb1B5eUJNSkYyaWRjZGQ4XzB5cWIzdnJHTjB2dzIxdFFsNzBVelczb1Q4b3p0SElRSlpLenM4dXFsdm5Z0gG0AUFVX3lxTFBKMEY2ZnQ5VmlnRVJ2T3pBb2t6dFRpZWwzb3VrNk9vMXhzSnRONUp4SXM1aExOYVhXUXJBQXhwU214aGFGOEZ3UTNudnotRlo3NVlydDU0b2ZvN0FLVTlCTjFtVzlTcE9hVUY4WmRobkM3YnVLSmdSVU5PSkV5MmxXM1FNNlVJWjFiSjFyNWV3TW9xVWgyUmtrZTRmVnU4VXVyay1XSVN6RWpFSGltMVkybjNDVA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://thehill.com",
-                    "title": "The Hill"
-                }
-            },
-            {
-                "title": "Daylight Saving Time 2024: Don\u2019t forget to turn your clocks back on this day - MassLive.com",
-                "description": "Daylight Saving Time 2024: Don\u2019t forget to turn your clocks back on this day  MassLive.com",
-                "published date": "Wed, 23 Oct 2024 20:20:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFpaZ2dHU1ZNcGtyYXJOVnZjRlVfZWVuVjZQV0N2QnFmd3JITUJiQkQzNk9EQ2pSQVBaS2FlOG5wX092RkRnR3lzaUpNNUc4YXQyaXF0dEVFSnpWcXRyZEF4UlZnbHFBbUYyQWpodDIwT21Xb2k5TjBhN1R6TUY4OHdFQVZvc3Q5Y2RuVEpUcTF1VXUwZWM0OXhSYnphQ3JZd2NaekMybkxuNU9yRHBZemtNeDJiWHBM0gHMAUFVX3lxTE1hMHdTaTVZM1NTV0NNMWxVT2NpY0V3T2FYU05VaFRNN24ydDdGVXhLbTJZTzJ1UjVWMWtXai1zYVp4NmktVW16aVdDM3R3VktXcVpxS2VkNGptWlkybWhVYUpiSEYwUVJXRldEUVZsdVJCUm15SDk4ek9mRDdjVU1nbVBHMUNtQlItUFhlaDBUVkJwY2FSUENXMFZBWUR6TnVCZ1l2cks5d1Vkc1k4NGxzR3F1U2tBQlpwc3U4WGNUMFBTVGR6cDNFTzdhSg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.masslive.com",
-                    "title": "MassLive.com"
-                }
-            },
-            {
-                "title": "Daylight saving time coming to an end soon. Here's when the clocks 'fall back' - NorthJersey.com",
-                "description": "Daylight saving time coming to an end soon. Here's when the clocks 'fall back'  NorthJersey.com",
-                "published date": "Fri, 25 Oct 2024 15:30:05 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMmNLSVlxTlZvV3JRWHhnWUxxWlpIWDZvSjIzWXBlNHk4NXo1OVE2QkVxbWdLYVBIeGl6MEhnWG5FU3AxSUdPV01pSlNBTkJOVllEOTJBNFRWOThRWjdFUm5UYk9JVk1QQzF2VHZrWVIzQ3hJQmllelNlNl9zek5PS25MQmZqT0VQMWhWaVU5MVoxRWNVQjJJQzhPazhHTG9NZlZURGoxR0hNbmVEMW1VbldtT0NicktpazVwOUdmT0JLcG9nMmN1UjFiVWQ5N183X3FxdFJxeWUyLWZheHQ1Q3U2Tlk5LXQ5QmJydG5xZ084dm5i?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.northjersey.com",
-                    "title": "NorthJersey.com"
-                }
-            },
-            {
-                "title": "When does the time change? Here's when daylight saving time ends in 2024 - The Cincinnati Enquirer",
-                "description": "When does the time change? Here's when daylight saving time ends in 2024  The Cincinnati Enquirer",
-                "published date": "Mon, 21 Oct 2024 19:44:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFo1eXpUMU11Q3dHeUlrZWhqOWs5THdrSmhKZTFMQkVSRmhzbFpLVjdBczBtMmM1VTRDcEZraFlXaXM4aFROQXIxOFd5bmxoSFlWaDZqQ2V1QVpKaERuTGsxTU5hSVg5YTdmLUgyT1BkVFA1RkNYRGVZQUtQUm04Uy1ldVdhaXkyV3FqZXVzbTJBUW1NeXY3NEE3VENucWJjMm5HaEJyZ1RNdzlQUmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cincinnati.com",
-                    "title": "The Cincinnati Enquirer"
-                }
-            },
-            {
-                "title": "How to Adjust to the End of Daylight Saving Time - CNET",
-                "description": "How to Adjust to the End of Daylight Saving Time  CNET",
-                "published date": "Thu, 24 Oct 2024 18:23:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTVNDRW05OTZtSktmLVZWUTdzLXJOelgwSU5rOFVGRUlmN05fdW96ajlGOXBNcVUybVl0djhQRGdJczZOd2pka3BObU1CeUJIeHA0UGQ2cXpHaHNGN1Mwa2xIZjJxcExZWHhlVnBpd0VqSEd4dnpaN3NRZFdMWVB6b1A5UEJyS2dpQ2F1S0FOYmI1enM?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
+                    "href": "https://www.latimes.com",
+                    "title": "Los Angeles Times"
                 }
             }
         ]
     },
     {
         "name": "Falcons vs Buccaneers",
-        "summary": "The NFL's Week 8 features a crucial matchup between the Atlanta Falcons and the Tampa Bay Buccaneers. The Falcons and Buccaneers have a storied rivalry, and this week's game is expected to be a competitive one. The Falcons enter the game with a 3-4 record, while the Buccaneers are 5-2. The Buccaneers are favored by 5.5 points, and the over/under is set at 44.5 points. Experts are predicting a close game, with many favoring the Buccaneers to win. The game will be broadcast on FOX at 1:00 PM EST.",
+        "summary": "This weekend's NFL Week 8 matchup between the Atlanta Falcons and Tampa Bay Buccaneers is highly anticipated, with several key storylines and matchups to watch. Both teams are coming off losses, so a win is crucial for their respective playoff hopes. The Falcons will be looking to complete a season sweep of the Buccaneers, having won their first meeting in Week 5. The game is predicted to be a close contest, with the Buccaneers favored by a narrow margin. Several key matchups will determine the outcome, including the battle between Falcons quarterback Marcus Mariota and Buccaneers defense led by linebacker Devin White. Fans can tune in to the game live on FOX or stream it online for free using various methods. The Falcons have announced their inactive players for the game, and the Buccaneers have released a preview of the matchup.",
         "items": [
             {
                 "title": "Falcons-Buccaneers: Top Storylines & Key Matchups in Week Eight - Buccaneers.com",
@@ -1177,6 +1283,16 @@
                 "publisher": {
                     "href": "https://www.buccaneers.com",
                     "title": "Buccaneers.com"
+                }
+            },
+            {
+                "title": "Falcons vs. Buccaneers Prediction & Game Info \u2013 Week 8 - SFGATE",
+                "description": "Falcons vs. Buccaneers Prediction & Game Info \u2013 Week 8  SFGATE",
+                "published date": "Sat, 26 Oct 2024 17:52:57 GMT",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjIySDdwaFFMRnl5YjBsb0xRc0k0YlFsZ3hpazllcHdxcl95bmU2ZUVHWDhoRnVhSnhVcnBCVjVwY3I3TzcwcElEcy1EWm93bTJ6cU5kTXZJeURJOE5TcHc4NWxFSzgtejktMl9jZGJ2TWFwZDFabW0wUktxQUN2d0JUY3g1TTl3d0prNWlRbVdfbkctVjNZb0Y5RGI1TTE0VmtYU3JpMkdTS2ppVE1BRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.sfgate.com",
+                    "title": "SFGATE"
                 }
             },
             {
@@ -1197,16 +1313,6 @@
                 "publisher": {
                     "href": "https://www.azcentral.com",
                     "title": "The Arizona Republic"
-                }
-            },
-            {
-                "title": "Falcons vs. Buccaneers Prediction & Game Info \u2013 Week 8 - SFGATE",
-                "description": "Falcons vs. Buccaneers Prediction & Game Info \u2013 Week 8  SFGATE",
-                "published date": "Sat, 26 Oct 2024 17:52:57 GMT",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjIySDdwaFFMRnl5YjBsb0xRc0k0YlFsZ3hpazllcHdxcl95bmU2ZUVHWDhoRnVhSnhVcnBCVjVwY3I3TzcwcElEcy1EWm93bTJ6cU5kTXZJeURJOE5TcHc4NWxFSzgtejktMl9jZGJ2TWFwZDFabW0wUktxQUN2d0JUY3g1TTl3d0prNWlRbVdfbkctVjNZb0Y5RGI1TTE0VmtYU3JpMkdTS2ppVE1BRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.sfgate.com",
-                    "title": "SFGATE"
                 }
             },
             {
@@ -1250,16 +1356,6 @@
                 }
             },
             {
-                "title": "How to watch Atlanta Falcons vs. Buccaneers NFL Week 8: Time, TV channel, FREE live stream - PennLive",
-                "description": "How to watch Atlanta Falcons vs. Buccaneers NFL Week 8: Time, TV channel, FREE live stream  PennLive",
-                "published date": "Sun, 27 Oct 2024 12:00:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbE5aTFdHdDhyOTlweWY2WWFVT25ZNWJxUVpWNEQ1Mi1EOVlKT2t5bjlGSDNXYjdPUUZqaVB0TDZwNWZUUzNDazBTUVZpTWhfeThBU0I2NGczZFNmZlZ3WWU1SjQwUVJDMGM2UVhUOXJiNEx2TUE1RXRZc0dfM3FySEU2cjcwUFA2VWphcmdabTJGbEtvSmxiZVRTQVFSWXNkdHcwOXlPWHBpTHprSDNud0REWGxpTFAyMnVEeXJXdy01eFdKNFHSAdoBQVVfeXFMTV9nd2p1Nm9iVEpFNE96dnhQNkoxOFZmTWJaY3B2RG1NS0JxTExxYTd2LS1vejIzMUFlQzZrLVNoX2E1eENWMl9YbWdhTkRQc29wbGNuNnV6OU9XTFp2cThyTF9nMVZMeUUtc2ZQTXNlbWVjcFR3NHJCbHJNUjNaQ0VyaEkwVGVaRUZtVDNzaXh0WDRPUTc2LVp1OTgzZEZvQ1Z0dGh5em8zZDBubTNwOHU1OWItRXVWT041SmtLZUNwMHZSeEMyQlV6Rm1vU0dxNmtkUHJydG9OLXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.pennlive.com",
-                    "title": "PennLive"
-                }
-            },
-            {
                 "title": "How to Watch Buccaneers vs. Falcons: Time, TV Channel and Live Stream \u2013 2024 Week 8 - FOX Sports",
                 "description": "How to Watch Buccaneers vs. Falcons: Time, TV Channel and Live Stream \u2013 2024 Week 8  FOX Sports",
                 "published date": "Sat, 26 Oct 2024 23:14:07 GMT",
@@ -1268,12 +1364,22 @@
                     "href": "https://www.foxsports.com",
                     "title": "FOX Sports"
                 }
+            },
+            {
+                "title": "2024 Game Preview: Falcons-Buccaneers, Week 8 - Buccaneers.com",
+                "description": "2024 Game Preview: Falcons-Buccaneers, Week 8  Buccaneers.com",
+                "published date": "Mon, 28 Oct 2024 00:41:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjZFZHlNVzJXTUFWaFVOQzRXZzhaaE81by1mRkJZbFFvaXdnY25ZZEV4LVNBLWlVZE1BRlZUOWlRZnprbGZCalV6bDhvbWtsUDNlaWNLTUlIVm9SN0tDRm9OOW1INlB1cUJOS0FiVWgzSkVvV0J1OEQ4ejNKeVJRbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.buccaneers.com",
+                    "title": "Buccaneers.com"
+                }
             }
         ]
     },
     {
         "name": "Jayden Daniels",
-        "summary": "Washington Commanders' quarterback Jayden Daniels is facing uncertainty for Sunday's game against the Chicago Bears due to a rib injury. Daniel's status remains unclear, and he has been ruled a game-time decision. He returned to practice but missed Wednesday's session because of the injury and is listed as questionable. The extent of his injury is being described as \"week-to-week,\" indicating ongoing uncertainty about his availability in the coming weeks. Daniels' absence would have a significant impact on the Commanders' offense, as he has been their starting quarterback since Week 4. His injury also coincides with potential losses within the Bears' passing unit, adding to the uncertainty surrounding both teams' offensive performances this weekend.",
+        "summary": "",
         "items": [
             {
                 "title": "Commanders QB Jayden Daniels' status for the Bears game is unclear because of a rib injury - The Associated Press",
@@ -1366,126 +1472,20 @@
                 }
             },
             {
-                "title": "Washington Commanders rookie QB Jayden Daniels misses practice because of his rib injury - The Associated Press",
-                "description": "Washington Commanders rookie QB Jayden Daniels misses practice because of his rib injury  The Associated Press",
-                "published date": "Wed, 23 Oct 2024 19:25:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3lJeU84RHhiTHpqQlFOWWZMTU8wRDhyenhqcEwwZnR1WVM5a1BadnNReWFudEVGZE1Wb09DOXlWUW1xdWJuQkFfeUhzMVZrTlVGUWIyWTIyX21EU2NHTzQwdTRQTUg0X2ZXYk1mWXdEazhKaE5UWEJ4RDJhazBaMVhlbEN2akgyV1pEUlZCYVhOcllDandj?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://apnews.com",
-                    "title": "The Associated Press"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Bears vs Commanders",
-        "summary": "These news articles focus on the NFL game between the Chicago Bears and Washington Commanders in Week 8 of the 2024 season. They provide information on how to watch the game, including start time, TV channels, and live streaming options. The headlines highlight the potential significance of the game, as both teams are expected to have high draft picks in 2024. Some articles include predictions and picks for the game, as well as odds and betting information.",
-        "items": [
-            {
-                "title": "The Pick Is In: Bears vs. Commanders | 2024 Week 8 - ChicagoBears.com",
-                "description": "The Pick Is In: Bears vs. Commanders | 2024 Week 8  ChicagoBears.com",
-                "published date": "Mon, 28 Oct 2024 03:15:32 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkMwbjhjbkt6RDNpTGc5UnRKcVB0YWFOSGVucWQ0S0Rfak00dVRUcU5Uc2xkU1Naei1QUzZkSVl0TWxIMkdMT2wtWEN0RGM4OWNlZFhNQy1rMDlZYXhUWVVyQU5zdmFWd1lsT3Y2T3o4VTk2aW8temhxc1VkdXpnVEFScFVfbl9XS3Zsb2c2WjdaUkUxME4zRUpVd0dGTnJEUXFDMURQNzg0M3k3R3hNNFFTZTI0bFF2VTRuYk1QbmxyNEdwVjg1Mjd5eTZyVU1MTEtDb25LTTdQSUp4VG5F?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.chicagobears.com",
-                    "title": "ChicagoBears.com"
-                }
-            },
-            {
-                "title": "How to watch Bears vs. Commanders today: Start time, TV, live stream for Week 8 game - USA TODAY",
-                "description": "How to watch Bears vs. Commanders today: Start time, TV, live stream for Week 8 game  USA TODAY",
-                "published date": "Sun, 27 Oct 2024 09:12:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGVzSWowd2NBLVJ6bS16T2ZOVlVHQ3pyazRlMW5qdHd0NldYQkV6NUhIclUzOTZLdjRmOTB3RmdkZ2lzQ2FKTmttUl9QTTNJODdzMkU0d1pIQ3c5dUFqSy1MdGFLSWVvSVFPYW9XX01SM2tFYS14LXhobzZRMXphNGNfZGw3MXJKWkZvQVktMjlSOU84ZGN2SktaVnBmZVd5c3hsVVNlbndETTZrNmVF?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "How to watch Bears vs. Commanders in potential showdown of top draft picks - NBC Chicago",
-                "description": "How to watch Bears vs. Commanders in potential showdown of top draft picks  NBC Chicago",
-                "published date": "Tue, 22 Oct 2024 15:55:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzFBTmtSOFR1SnpPRDNTTkhzY25BMTl5Y2hOQVA3OHZIX3A5dEF2aVpfbHFhQlcwc3FWMmhkS1ZjNEVkckJFN0YxYm1NbXhtY3h3OXVKLW5jdFF0MF96d0JWcElBVktmanNNMjNiSGYyb3ZGVklqMnFfbzhZTXV0Yl81VVlBalh3MGVzaDdfRUZ5RHM5YUs2VjNPam9MOHJCR1NRcXZMTVFKRGxwR05lX2l1WE7SAbwBQVVfeXFMTlNXNWRybHNfZWJ5aW5ybnFjSFdvcWo0aXFHbVNFUXIxR2ZNQ2l6Vzk4MWQ1SWJ5cGo4MGZ0ckFvaVlYSmZEMl8wLThBUkdraEEyYllrdW9SQXpsd052cmZTdmxpU08yWXFCdVJ4TWw5STNqZERiN0REekxWY1JDcjMwclJxVVRfWE1IQWZlX1RPWjFkUTc1eFluZlFiNHFqc21WZjB5dWczVW4xWXUzR2JyQk1TdXFVQlZSVTc?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcchicago.com",
-                    "title": "NBC Chicago"
-                }
-            },
-            {
-                "title": "Bears vs. Commanders: How to Watch NFL Week 8 Online Today - CNET",
-                "description": "Bears vs. Commanders: How to Watch NFL Week 8 Online Today  CNET",
-                "published date": "Sun, 27 Oct 2024 15:35:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXpRSHN2T3cyb0JsS3F2UzNkQmZURWpsdHNYM3NkUzlKOWpET19TZUE3bDBnd2V3bjF6Rm5mbWdNUDRSbVNVTnVsVXFGeDBENUg0QTFoRjhzM3VPMW93ZW1zY1F0bEl1WDFNb3RPRDUyQ0xFanNrSDhkZmJFakU3OVZUTzhQdnRGdlhlc2wyOExnQTdNNTJGSUNoc0JyM0pOVHRkVjg3NGQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
-                }
-            },
-            {
-                "title": "Chicago Bears vs Washington Commanders picks, predictions, odds: Who wins NFL Week 8 game? - The Arizona Republic",
-                "description": "Chicago Bears vs Washington Commanders picks, predictions, odds: Who wins NFL Week 8 game?  The Arizona Republic",
-                "published date": "Mon, 21 Oct 2024 19:53:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNzJZaVhVN1JTSmhHV3cxWmJObDdLaV9McTl2cXd2eU5ocDZJUkY2Q0MzcExXUU1CRzl0Zy1Ia3BwMlowN1NoTDBHS0xHeU9FdUVXU0hqYnVNcFV0bXUtT0JDTVVMQWNwQUVvc3ZZVS1RMzlXVjE3MHlzd3lORV94YnI5d3JFb3dhNy1kVnlHSnFMcW5QbHVsdm12cm1sRmJHUFV6WGUyRFprM2V6Z3VRcTBvaUN2RGRqcHJvdFVyaG5SbHNmMExoalRYZjQ3dmtqX3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
-                }
-            },
-            {
-                "title": "What channel is the Bears vs. Commanders game on? - Jacksonville Journal-Courier",
-                "description": "What channel is the Bears vs. Commanders game on?  Jacksonville Journal-Courier",
-                "published date": "Sun, 27 Oct 2024 21:56:15 GMT",
-                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmJ0cXBhRHNPWFExaUEzWE1fY19aWWd5QzJma1JCdjh3dmJiaFJmY1RPNnZENHppb1FVV1BXN1BXWHVsUmxjOF9TNnBtZnlkRVBLTnl1bzVvLXFoeU5OM3VQamhLUGZNNUp0bkFvN2ItbGRSTFlCMVRjSFlVZ2RkSndGQ2llcU1pQV9IRVdCSGFlb3FYWFZjSGRzQXVoTVhoWGZQODE2NmhhRzBiVUpMdFdBM1RPZDI3QnAzbEN0Wm9LX0NF?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.myjournalcourier.com",
-                    "title": "Jacksonville Journal-Courier"
-                }
-            },
-            {
-                "title": "Bears vs. Commanders Prediction Revealed - Sports Illustrated",
-                "description": "Bears vs. Commanders Prediction Revealed  Sports Illustrated",
-                "published date": "Thu, 24 Oct 2024 19:12:34 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc21jZzNPd2ZVbnVIWkk2ZTZabTBEU2lVdmtGMnpFTmtHTkt4MDQ5SFpEYXNvUUtNNTMzdjBtUzJCSFhMQ1JkTzBGTHZEYXRNNDNTZHMtNElycUlKVGZ3T1M1bFotQ2Y0T1ZaQklzN1JTT24wemlteEkwMGJWUlVqWEl3REdtUFRIdXNFRE1XZ3FFaTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Washington Commanders' Jayden Daniels Gets Injury Update - Sports Illustrated",
+                "description": "Washington Commanders' Jayden Daniels Gets Injury Update  Sports Illustrated",
+                "published date": "Mon, 21 Oct 2024 19:38:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRm5HOU9oSG1sZW05WWJYRDJYM08xVlZoYUpMM2xSUHVoUkpSa3REaXpUaUlpcDUwN2EtWmhCZWRuaWNWdlhFR0F2dUpnanhsUjJrd2diQ3FPbXJaMjFVZjRDcWdFR2ZScGg0MjZtdkhXd2djMXQtNmdUa3luSVVObFNHMktoWklCLUZqY0xEY0NGZ2JyLXZaLVFR?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.si.com",
                     "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Bears vs. Commanders odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 8 NFL predictions - CBS Sports",
-                "description": "Bears vs. Commanders odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 8 NFL predictions  CBS Sports",
-                "published date": "Sun, 27 Oct 2024 19:15:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSkFDX3ExekplNDNncEN0YU5HamZfREN4eTZxQmQyejlFVWZtREtFNnlybi1BSWdPbkRGcmw5Y29jck12SVdidW1YZ3RiYzExckllSURMY0tad0NaaVU2VkxfT2M3RTRkcVdiZjd4M3ZjNTdfYlhJZjdxay1ZaGhaVXN2a0piVXRqSHNxY0RvOTJBa3lXR24taWp3SWU4VGM4XzJaVHJhRmJLS3htX2dZNy1hcXpZVWpGSkRaUl9PVHljMzFiT3VFdVduZ1Z5WmtYTmhmZF9pY9IB3AFBVV95cUxQOGRGMURoVG8tdGtCQTREZDhqbkJKZ2hJdkJMVXpDaUd0MHBjaHpxMHhkZ0R4cUdtelgyc211dF9fbG9JR0w4aE5GdUFHRFpNZ1dsQXFmcm9jOHJoYWgzd0ZULXpMcWRINGN3NHUyRG9IdG5fSk5OaEZzSXJoSFpTWUZiWTdqdl8wNm1ManllUVNqWFRtQ3ZCYlBqZmFWUlRLTU45eFdrNGlyQkFKek1FZUc4NkEzajduYXZrTG90Wkphd1RyZnU3dzBjc21vcFlIVnFaWnpvako5c1NL?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "How to watch the Chicago Bears vs. Washington Commanders game today: Livestream options, more - CBS News",
-                "description": "How to watch the Chicago Bears vs. Washington Commanders game today: Livestream options, more  CBS News",
-                "published date": "Sun, 27 Oct 2024 04:00:58 GMT",
-                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTN4RkNmTU1kYXNjN3RLeUttWTFPQkNkWnF1LTdBOE5HWWNjSXZoVnNHbnN5UVBSaUFTVzdITVRBVFVvRzN6NHFpd3l2MXlQbm14d2FvMHhTWTBOazhzWjNBcXNsdWdLazVseVZxQlVqRVF5RnlhUEdvWGotZ0cySDl5SWZYUHpRNGUtYUhZNGdYQXhKeG9VOTBSYnRrWlFxVXlEcUlPYXY4bHoyQmRFdHA5cnFhZFNxUy1qNGFrQW9XS25L?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
-                }
-            },
-            {
-                "title": "Bears vs. Commanders 2024 Prediction, Odds, Picks - Oct 27 - FOX Sports",
-                "description": "Bears vs. Commanders 2024 Prediction, Odds, Picks - Oct 27  FOX Sports",
-                "published date": "Sun, 27 Oct 2024 12:44:02 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2JwaXluWHNMT0xuTkpzeXozTVlsNE1Hcmc5NERUWTZWb0JRYjlLOUk1SWxsNWlDN2pGM2NvYXlhYUs5LWtNWmlHTi1CVU9OcjlycnN1U1Z1MkJfa01HZ05oZFp2QnlqSUUxZERnMDhMSkxERWxUdzBuTjl3djhiRHRHdFFfTkN2SUhMT0hDVVdERFN1WDFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.foxsports.com",
-                    "title": "FOX Sports"
                 }
             }
         ]
     },
     {
         "name": "Cardinals vs Dolphins",
-        "summary": "The Miami Dolphins faced off against the Arizona Cardinals in a highly-anticipated NFL Week 8 matchup. The Cardinals emerged victorious in a thrilling 28-27 come-from-behind win, improving their record to 4-4. Chad Ryland's game-winning field goal propelled the Cardinals past the Dolphins, who had led by 17 points earlier in the game.",
+        "summary": "In Week 8 of the NFL season, the Miami Dolphins hosted the Arizona Cardinals in a crucial matchup. The game was a nail-biter, with the Cardinals ultimately emerging victorious 28-27 after a last-second field goal by Chad Ryland. The Cardinals' comeback was fueled by a strong performance from quarterback Colt McCoy, who stepped in for the injured Kyler Murray. Despite the Dolphins' early lead, the Cardinals managed to claw their way back into the game, culminating in Ryland's game-winning kick. The Dolphins, led by quarterback Tua Tagovailoa, were unable to secure the win despite a valiant effort. The victory moved the Cardinals to 4-4 on the season, while the Dolphins dropped to 3-5.",
         "items": [
             {
                 "title": "Miami Dolphins vs Arizona Cardinals Game Preview - MiamiDolphins",
@@ -1495,16 +1495,6 @@
                 "publisher": {
                     "href": "https://www.miamidolphins.com",
                     "title": "MiamiDolphins"
-                }
-            },
-            {
-                "title": "Arizona Cardinals walk off Miami Dolphins 28-27 on Chad Ryland's FG, move to 4-4 on season - The Arizona Republic",
-                "description": "Arizona Cardinals walk off Miami Dolphins 28-27 on Chad Ryland's FG, move to 4-4 on season  The Arizona Republic",
-                "published date": "Sun, 27 Oct 2024 20:37:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPay0yblNoSzJ2Q3AyR0RmWVI5MFF0cmYzOVpSZk95bUdOSjdLYi1xbzFySzR2c1ZlZUhyYjFQODBIYlJFWVZHY3Z3UTFDVHdzN0VzY2tVZU9pTF9WcnBzdDFHV010UmhtaW5JYzdjRmxDdnJLR04zaGROa2xnYkNKTkJsanFRWlB4SDBQWnlWbHR4T1J3Yy1jSXZyYmE2akpMaWNKOFp6WlNGVmppcThRRC1KZXA0ZDRHUWxMdkxfR1R3aHdacml0dXYtV2JQeTBOWXR6MTMxYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
                 }
             },
             {
@@ -1518,6 +1508,16 @@
                 }
             },
             {
+                "title": "Arizona Cardinals walk off Miami Dolphins 28-27 on Chad Ryland's FG, move to 4-4 on season - The Arizona Republic",
+                "description": "Arizona Cardinals walk off Miami Dolphins 28-27 on Chad Ryland's FG, move to 4-4 on season  The Arizona Republic",
+                "published date": "Sun, 27 Oct 2024 20:37:27 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPay0yblNoSzJ2Q3AyR0RmWVI5MFF0cmYzOVpSZk95bUdOSjdLYi1xbzFySzR2c1ZlZUhyYjFQODBIYlJFWVZHY3Z3UTFDVHdzN0VzY2tVZU9pTF9WcnBzdDFHV010UmhtaW5JYzdjRmxDdnJLR04zaGROa2xnYkNKTkJsanFRWlB4SDBQWnlWbHR4T1J3Yy1jSXZyYmE2akpMaWNKOFp6WlNGVmppcThRRC1KZXA0ZDRHUWxMdkxfR1R3aHdacml0dXYtV2JQeTBOWXR6MTMxYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
+                }
+            },
+            {
                 "title": "Cardinals mount successful comeback vs. Tua, Dolphins - Arizona Sports",
                 "description": "Cardinals mount successful comeback vs. Tua, Dolphins  Arizona Sports",
                 "published date": "Sun, 27 Oct 2024 20:13:29 GMT",
@@ -1525,16 +1525,6 @@
                 "publisher": {
                     "href": "https://arizonasports.com",
                     "title": "Arizona Sports"
-                }
-            },
-            {
-                "title": "Predictions: Can Cardinals Upset Dolphins? - Sports Illustrated",
-                "description": "Predictions: Can Cardinals Upset Dolphins?  Sports Illustrated",
-                "published date": "Sun, 27 Oct 2024 14:43:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmpPYlZ4S3lHZHZST09KNjVnLUg5RUJnaElBU0xOSVEzLUJqV0s2UkZXT2RwNHg3dTdFdXVFVG9CX2FGQjl0aWYzMklrakw5Y1A5TW5xcHVBRk8wbGhFRzNUYnUyTDZzMlY4cE12MkVNa095T1FaX0NFUkVNWjJlazZqUmdCZHJWVjRyV1ozVlFTLUd1NlNPSzVqRU4?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
                 }
             },
             {
@@ -1548,6 +1538,16 @@
                 }
             },
             {
+                "title": "How to watch the Arizona Cardinals vs. Miami Dolphins NFL game today: Livestream options, more - CBS News",
+                "description": "How to watch the Arizona Cardinals vs. Miami Dolphins NFL game today: Livestream options, more  CBS News",
+                "published date": "Sun, 27 Oct 2024 04:00:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQUYzQlY4alRaVWtxeXhDcWdxdWVhazVmSUNFWWRIMWtlb3JZNG10clVNQ2pZWldyZ3ppMkR5YVBHSnN3dUR2WW5iVXhsTTNLUVVCTDc5bVA2elRrazRZcm9DaW5SdVczVmJJS1Y5bE1wVVFFam9TSHdxNXRGUDdYNTkwcW9KaVhWZ2lyZTN2Vkg3U1FuSDZDWkhoQ1JRZ0R6ZkZpSEhpSzh0c1R4akdBUVo2NUx1d3V5T2M4aktB?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cbsnews.com",
+                    "title": "CBS News"
+                }
+            },
+            {
                 "title": "Miami Dolphins predictions vs Arizona Cardinals: Who do NFL experts predict will win? - Palm Beach Post",
                 "description": "Miami Dolphins predictions vs Arizona Cardinals: Who do NFL experts predict will win?  Palm Beach Post",
                 "published date": "Fri, 25 Oct 2024 10:02:48 GMT",
@@ -1558,13 +1558,23 @@
                 }
             },
             {
-                "title": "How to watch the Arizona Cardinals vs. Miami Dolphins NFL game today: Livestream options, more - CBS News",
-                "description": "How to watch the Arizona Cardinals vs. Miami Dolphins NFL game today: Livestream options, more  CBS News",
-                "published date": "Sun, 27 Oct 2024 04:00:22 GMT",
-                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQUYzQlY4alRaVWtxeXhDcWdxdWVhazVmSUNFWWRIMWtlb3JZNG10clVNQ2pZWldyZ3ppMkR5YVBHSnN3dUR2WW5iVXhsTTNLUVVCTDc5bVA2elRrazRZcm9DaW5SdVczVmJJS1Y5bE1wVVFFam9TSHdxNXRGUDdYNTkwcW9KaVhWZ2lyZTN2Vkg3U1FuSDZDWkhoQ1JRZ0R6ZkZpSEhpSzh0c1R4akdBUVo2NUx1d3V5T2M4aktB?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Three Bold Predictions for Cardinals vs Dolphins - Sports Illustrated",
+                "description": "Three Bold Predictions for Cardinals vs Dolphins  Sports Illustrated",
+                "published date": "Sat, 26 Oct 2024 19:58:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTJfNFJsenMyRnEzZ2dSTWlic096THUwM0VCclZaMElaMk0tUVBqVkhOZEhOOVU1RHJUejRFYmw5Y3BLY3pkWnNweTJCcU5FeEF5R2hXcGFHT1ptQ00wODB4OUl0LVZ1R2NpZTAtZDlOam5kTVpYV0VqY3l6TVNZTFVjTzJJZkw3TFFsQk54MTBzZklHckpHRXFJV1dJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
-                    "href": "https://www.cbsnews.com",
-                    "title": "CBS News"
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "Arizona Cardinals vs. Miami Dolphins odds, expert picks, how to watch: Miami early favorite with Tua Tagovailoa\u2019s expected return - The Athletic - The New York Times",
+                "description": "Arizona Cardinals vs. Miami Dolphins odds, expert picks, how to watch: Miami early favorite with Tua Tagovailoa\u2019s expected return - The Athletic  The New York Times",
+                "published date": "Sun, 27 Oct 2024 07:46:08 GMT",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0JLVTJFLUtWaHRDV21VOXJnZ0pjSEt0VFhUdWcwWEZ0ZTV4UEk4bDZpREo2Q0xkZ1l6WXNxMHpwaWRkT1NsdXR4ajJ3NXNEZ181NzVkbC00U1JGVXFGek5zQXR1NkxKTzBuT3NNLTl4eXdRZjVNUm4xWHBvb2drVE1HRkFQUm9jMFF4bF9WS2Jsb2w4N0lpcWNmNm9tN0x4bG5vaG5B?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
                 }
             },
             {
@@ -1576,22 +1586,12 @@
                     "href": "https://www.azcardinals.com",
                     "title": "AZCardinals.com"
                 }
-            },
-            {
-                "title": "Cardinals vs. Dolphins Livestream: How to Watch NFL Week 8 Online Today - CNET",
-                "description": "Cardinals vs. Dolphins Livestream: How to Watch NFL Week 8 Online Today  CNET",
-                "published date": "Sun, 27 Oct 2024 15:37:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0tTQmdFdW9SYTJmUm01d3BWNnFGQjktMWJxY0N3bnItQjE2Um92dTl0bm5WZVgxQUtQNkJrVWYyS3FlREVqLVUzcXlXLWgxTHJUZDFxVzg2cWs1WTVCQ1oydTZydUg3ZHdKNzhxcVlDa0tsTDR1ckpqUDRlU1JqV08weWRIRzRCdjhpRFNmSDJKWEhhVjRvV3I4M0hLd0JBUXl0cHVSVGNISWNNSHEwanZiamh0d2tCUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cnet.com",
-                    "title": "CNET"
-                }
             }
         ]
     },
     {
         "name": "Connections hint",
-        "summary": "",
+        "summary": "Multiple news outlets are providing hints and answers for the New York Times's \"Connections\" puzzle, which is a word game that challenges players to find connections between seemingly unrelated words. The puzzle is released daily, and each day's puzzle has a unique theme. The hints and answers provided by these news outlets can help players solve the puzzle more quickly and easily. For example, on October 22nd, the puzzle's theme was \"connections between words that sound the same but have different meanings,\" and one of the hints provided was \"a type of tree\" for the word \"fir.\"",
         "items": [
             {
                 "title": "NYT \u2018Connections\u2019 Hints And Answers For October 22 (#499) - Forbes",
@@ -1624,10 +1624,10 @@
                 }
             },
             {
-                "title": "NYT Connections hints today: Clues, answers for October 26 - Mashable",
-                "description": "NYT Connections hints today: Clues, answers for October 26  Mashable",
-                "published date": "Sat, 26 Oct 2024 01:02:21 GMT",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lU0NwNktGclRBbDExNHVrZEROMVlLX1lpX2Z6Z2x6aHVWQ1J0OFI2OHpTQ0k5VzNCVElyTWoxMTNQazJZM2k0VDdTUzFPMVZ1U1pQRE0tdnpINXpiY2U1cXhITUtZenJqUmxLM1RpdzFlRmRLUGJoSC1LSGw1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NYT Connections hints today: Clues, answers for October 24 - Mashable",
+                "description": "NYT Connections hints today: Clues, answers for October 24  Mashable",
+                "published date": "Thu, 24 Oct 2024 09:24:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zQmIyNUJKOFFhVkpTeHJSeHpCanktMHF4czhGNHJpSVJwWmN0azVlcFQycDJTZUVaWXJxdzdiTHFvTkRXdWdyWG11bzVYMU1IeEQ0TGtmcVBWdFRnNFZvZHJCWmhwUDVzVTVOa1ZPV1MxcHZrSDhVR1REaHQ0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://mashable.com",
                     "title": "Mashable"
@@ -1654,10 +1654,10 @@
                 }
             },
             {
-                "title": "NYT Connections today \u2014 hints and answers for Sunday, October 27 (game #504) - TechRadar",
-                "description": "NYT Connections today \u2014 hints and answers for Sunday, October 27 (game #504)  TechRadar",
-                "published date": "Sat, 26 Oct 2024 23:02:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEVwZXkzRThjZjZoeVIxVnk3MXNMZUdhNXBEUkNqYkNkb1VjeHJYckQzQzlZODhlbkRUMVh5OU1nVlpxOEg4d0ZBZUo4VTFPU1BOdTFaN2dNWDFLcjBCV01OQzlSTUFNd21MdTJpMWc5VmdtT0NKUS04UkVoeUhCVy00cUNSMGEweklFTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NYT Connections today \u2014 hints and answers for Monday, October 28 (game #505) - TechRadar",
+                "description": "NYT Connections today \u2014 hints and answers for Monday, October 28 (game #505)  TechRadar",
+                "published date": "Mon, 28 Oct 2024 00:02:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTy1haTV4VkdUYzZFMU54SzFYUGNvOF83WEJwVFl4bzRhQm5UTTFoUUNHaHFnMTVkcEhTdHBNUE51Ty1QS05PcGFzM1JPUHVHbmk0ZDg2ZDE2clJ3Q2tSNF9paEJ6dVVRSUZQSk40QWh5QTluR3pNOW5tMFQ0WEc0N1JKcUh0UlpHRUVfaw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.techradar.com",
                     "title": "TechRadar"
@@ -1684,10 +1684,10 @@
                 }
             },
             {
-                "title": "NYT Connections Sports Edition today: Hints and answers for October 23 - Mashable",
-                "description": "NYT Connections Sports Edition today: Hints and answers for October 23  Mashable",
-                "published date": "Wed, 23 Oct 2024 13:54:27 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUURJeERNR0FmTlFkYXEyWnJNMl95a0xxVFpLc05IMFBCWWlFdmI4UHoweHBHVUtTQlBMYjJwVUxFVkZSX2dydjYtbU8yNFRiSU5acFktU3dJV0hOLUlHYVoxdzNVT1hsUFRKRERfWXlPVlNEVFdMckctR3ROdDBXeDVyV1g3bG1VX2duU1U1aVFNdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "NYT Connections Sports Edition today: Hints and answers for October 26 - Mashable",
+                "description": "NYT Connections Sports Edition today: Hints and answers for October 26  Mashable",
+                "published date": "Sat, 26 Oct 2024 03:04:23 GMT",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUF5Ukc0MUxVMkY3VnFOV0I3WnVBelhkZTU1MnNZNnJHSnNoVENhM1pkWnBaVmNISXRkWXNiZ3lsY3RtY213WllWdVV0Rk9IYTc5T2pFd1d2RTlSa3pnb2VqVFBnWlFXbXpKMVJyNkV6X3lZX2JyT0FkbVZVUHZ1eHAwV3JpWkxtLVZsUFM2eV9Idw?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://mashable.com",
                     "title": "Mashable"
@@ -1697,7 +1697,7 @@
     },
     {
         "name": "Bills vs Seahawks",
-        "summary": "This weekend's NFL game between the Buffalo Bills and Seattle Seahawks is highly anticipated, with various news outlets providing live updates, predictions, and analysis. According to the Democrat & Chronicle, the game is expected to be high-scoring due to both teams' offensive strengths. The ESPN final score indicates a 31-10 victory for the Bills. Seahawks.com has compiled expert picks and predictions for the game, while Sports Illustrated previews the matchup as Buffalo travels to Seattle. CBS Sports offers insights into odds, spreads, and betting trends, while BuffaloBills.com provides game predictions and updates. USA TODAY details how to watch the game live on TV or online. The Arizona Republic presents expert picks and predictions, and NBC Sports provides a comprehensive analysis of the matchup, including injury reports and betting stats.",
+        "summary": "The Buffalo Bills face off against the Seattle Seahawks in an anticipated Week 8 NFL matchup. Experts predict an exciting game with high-scoring potential. The Bills and Seahawks have both shown impressive offensive capabilities, so a close contest is expected. Key players and injuries are vital factors to consider, and both teams have prepared predictions and game plans to maximize their chances of success. Fans can tune in via live updates, scores, and analysis provided by FOX Sports and other media outlets, or watch the livestream on platforms like CNET.",
         "items": [
             {
                 "title": "Bills vs. Seahawks: Live updates, scores, top moments, analysis - FOX Sports",
@@ -1717,16 +1717,6 @@
                 "publisher": {
                     "href": "https://www.democratandchronicle.com",
                     "title": "Democrat & Chronicle"
-                }
-            },
-            {
-                "title": "Bills 31-10 Seahawks (Oct 27, 2024) Final Score - ESPN",
-                "description": "Bills 31-10 Seahawks (Oct 27, 2024) Final Score  ESPN",
-                "published date": "Mon, 28 Oct 2024 05:10:43 GMT",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aZDNydC01ajl0RDZtSGtXSU53TGl6aGx4RDhJSmV5TFhMdXdlZEhIUjIySEE3QXBUdXpNSTg3OFhiOUt2cjkxSldwZnhxcWo3OV95RXQ4UndOYUpqOE1Yd2o4NG1zMkZ0el9OUWJMbko?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
                 }
             },
             {
@@ -1798,12 +1788,22 @@
                     "href": "https://www.nbcsports.com",
                     "title": "NBC Sports"
                 }
+            },
+            {
+                "title": "Bills vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today - CNET",
+                "description": "Bills vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today  CNET",
+                "published date": "Sun, 27 Oct 2024 18:05:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJfZmN6TWF4c25RYmpBNGFNTzhqNVNvdlpPRU4tc0FqRUR4VkNtUDFuYkJPUC1PeTB4MkVIZU5iTUZiR3JucDRMUXZvWnpicUhIR2hLTl9PUVZZMUk2aHRHVnF4a2ZEX05RZjdNcW9rVEl3S01kUVNRbnBfN3QtbWJEdGd1Y0d6SjhWdWJ0T3ZMLXhnUFEzRVNlYVVpZ3N4Mmoyek9iQW4xZHJ3VXpKcHY5bEo?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnet.com",
+                    "title": "CNET"
+                }
             }
         ]
     },
     {
         "name": "Eagles vs Bengals",
-        "summary": "The Philadelphia Eagles faced off against the Cincinnati Bengals in Week 8 of the NFL season. The Eagles extended their winning streak to three games, defeating the Bengals 37-17. Quarterback Jalen Hurts and wide receiver DeVonta Smith played key roles in the victory, while the Eagles' defense held the Bengals in check in the second half. The game was broadcast live on NBC Philadelphia and Yahoo Sports, and experts predicted a close contest in their previews and predictions. The Eagles' triumph was highlighted in post-game notes and quotes, and the game's odds, picks, and spread were discussed in various analyses.",
+        "summary": "The Philadelphia Eagles faced off against the Cincinnati Bengals in Week 8 of the NFL season, with the Eagles emerging victorious with a score of 37-17. The game was marked by a dominant performance from Eagles players, including quarterback Jalen Hurts and wide receiver DeVonta Smith. The Eagles' defense also played a crucial role in the victory, shutting down the Bengals' offense in the second half. The outcome of the game has significant implications for both teams, as the Eagles improve to a 7-0 record while the Bengals fall to 4-3.",
         "items": [
             {
                 "title": "Game Preview: Eagles vs. Bengals - PhiladelphiaEagles.com",
@@ -1876,16 +1876,6 @@
                 }
             },
             {
-                "title": "Eagles Defeat Bengals 37-17 | POSTGAME NOTES & QUOTES - Bengals.com",
-                "description": "Eagles Defeat Bengals 37-17 | POSTGAME NOTES & QUOTES  Bengals.com",
-                "published date": "Mon, 28 Oct 2024 00:57:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYndoeUtsMnkySUg3S1QzQ0Y3NjJrS3J1WVdta2ZMVDdNR3lldFhGM0MwS1J4X09mbDVjV1BCX1gyeXNtZXB0XzE1Wld6aTl0X2xvZTFjR2UwSjdWak5sZEVtejJjUVMwa0YyNDNHUlFLMVI5ODgtc1NNdldfV2F3Qm9ZMUs?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.bengals.com",
-                    "title": "Bengals.com"
-                }
-            },
-            {
                 "title": "Eagles vs. Bengals odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 8 NFL predictions - CBS Sports",
                 "description": "Eagles vs. Bengals odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 8 NFL predictions  CBS Sports",
                 "published date": "Sun, 27 Oct 2024 16:09:30 GMT",
@@ -1893,6 +1883,16 @@
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
+                }
+            },
+            {
+                "title": "Eagles Defeat Bengals 37-17 | POSTGAME NOTES & QUOTES - Bengals.com",
+                "description": "Eagles Defeat Bengals 37-17 | POSTGAME NOTES & QUOTES  Bengals.com",
+                "published date": "Mon, 28 Oct 2024 00:57:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYndoeUtsMnkySUg3S1QzQ0Y3NjJrS3J1WVdta2ZMVDdNR3lldFhGM0MwS1J4X09mbDVjV1BCX1gyeXNtZXB0XzE1Wld6aTl0X2xvZTFjR2UwSjdWak5sZEVtejJjUVMwa0YyNDNHUlFLMVI5ODgtc1NNdldfV2F3Qm9ZMUs?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.bengals.com",
+                    "title": "Bengals.com"
                 }
             },
             {
@@ -1908,114 +1908,8 @@
         ]
     },
     {
-        "name": "Deebo Samuel",
-        "summary": "49ers wide receiver Deebo Samuel is questionable to play in the team's upcoming game against the Cowboys due to an unclear status related to a previous injury. Despite an initial report suggesting that Samuel has improved, there is still uncertainty about his availability on Sunday Night Football. Samuel is also managing a recent battle with pneumonia, which led to a hospitalization and no clear timetable for his return. However, recent reports indicate that Samuel has returned to practice and is likely to play in the upcoming game, following his activation for Sunday's game.",
-        "items": [
-            {
-                "title": "Niners WR Samuel better, but SNF status unclear - ESPN",
-                "description": "Niners WR Samuel better, but SNF status unclear  ESPN",
-                "published date": "Fri, 25 Oct 2024 22:06:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUUtN0FVVlRDdlBMVUI2MGoyd0dKVkt0LTJBLTlxcm1NRk04a1owa25hX0tPRTR2cEIyZGg2VDdDd3hTWjZka2lVT2lQdGdRbTJ2UzQ3bTJLR0xYenVBcFFrQ3plTTV5X3hpWVZOYi1qN2t6NTZzRlg4U1NaZC1TR0ZHYTVscmtPVUpEWnYzbXU2dDBpRF9haA?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.espn.com",
-                    "title": "ESPN"
-                }
-            },
-            {
-                "title": "WR Deebo Samuel Sr. Back at 49ers HQ as 49ers Open Up Cowboys Week - 49ers.com",
-                "description": "WR Deebo Samuel Sr. Back at 49ers HQ as 49ers Open Up Cowboys Week  49ers.com",
-                "published date": "Wed, 23 Oct 2024 23:16:30 GMT",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnl2MVRoNXlpRVZsb1laVmlGR1FEMjg0Q21raWxPck1tMWx1aGZXcGk4YjR6ZnVwRUhuTU5ELXRiODhqODdCNHMzMGViSlJTMVg4SDJUNVdOU1ZuekF5RlowUTJ4T3JhSG8wSXIzb2xyNV9NV3dIN1lrYzNfMmJoNU1OR3J4RVBNQk5FUjZ2T1VkQjJkY3Bn?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.49ers.com",
-                    "title": "49ers.com"
-                }
-            },
-            {
-                "title": "Deebo Samuel questionable to return with injury to his ribs - NBC Sports",
-                "description": "Deebo Samuel questionable to return with injury to his ribs  NBC Sports",
-                "published date": "Mon, 28 Oct 2024 03:22:17 GMT",
-                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEhFeS1iTGdFRmJfTHJYeE5jalNDUGJnRng1ZnZwY0E0U2dkbnhLZW1ubWVPd0RXbWVmaTlhSVd6NFhuVjdnQkpHNTdWTG9nN05PQjMwbnAtRV9uRl9mRHdvZF9XTnFWemlXMTV5LUVsN3Y3WEwtRldWbWVvOFdOR2RwMTJxM2lWcGFTM1AycElKRG1jNEhRUHNUWUw2UmNONTAzY2Q1dkl3aFZTVjFtTEJOVWt2ZnVtNG9LeWxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nbcsports.com",
-                    "title": "NBC Sports"
-                }
-            },
-            {
-                "title": "Deebo Samuel shares the scary battle against pneumonia - Marca.com",
-                "description": "Deebo Samuel shares the scary battle against pneumonia  Marca.com",
-                "published date": "Sat, 26 Oct 2024 22:51:38 GMT",
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTRUY0ZtM05QeTI5dThJY19kX1dIWG02U3gxWWJKQ2FrN2NVSGRyLVpUWDMzc3JjSjNYSEZEWmoyVG40SDdaaFVvV01XaGhncnBJSC11eDlRS0lKeVZwcDM4RG5wTVhpX2tSNVk2NjU5ODRacm9EX0NjZ2VFcUJBWVFveFBTZGlvX1BmVGFCSGo0dzTSAZMBQVVfeXFMUFJvRWZ1b0xzQkhrMnM2SG9uTXBUZloyaU82TkRuWFlJUV9lSnRUZDkxZWxuR3kxb0F4LVpwVll5ajBEeDF6TFZyb0xTRS1yQ2wxZzZOSEhVYkN2WG5uazJnZzFOcDZmX181ZGdsWWE2UU5Vbk1mdFcwbEtKM3NNVzB0d0o5WjFtWjkzWGNMeGJERTA4?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.marca.com",
-                    "title": "Marca.com"
-                }
-            },
-            {
-                "title": "Niners WR Deebo Samuel (wrist/illness) active for Sunday's game vs. Cowboys - NFL.com",
-                "description": "Niners WR Deebo Samuel (wrist/illness) active for Sunday's game vs. Cowboys  NFL.com",
-                "published date": "Sun, 27 Oct 2024 22:52:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2Qxd2F1Q3czNUd6akROUzlnNG1tZGF6OGhKRkJ1WUFaRW4wd0lZeTk4YUV1ZHNySXZmWWRUTXZKalUxdlJRTXI5aS1QamFRdzZwd3ZqUk5XR3B5dEtYR2VQaE10RG5Dcms5TjVaN0tKd3dMVEF3YXZtaGxJNXFfT0J1eGM5Z3V6WDFfTjZPQTQ2Q2xxNkRLTVJSZFlSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.nfl.com",
-                    "title": "NFL.com"
-                }
-            },
-            {
-                "title": "49ers' Deebo Samuel in hospital due to pneumonia and fluid in his lungs; star WR has no timetable for return - CBS Sports",
-                "description": "49ers' Deebo Samuel in hospital due to pneumonia and fluid in his lungs; star WR has no timetable for return  CBS Sports",
-                "published date": "Mon, 21 Oct 2024 23:22:00 GMT",
-                "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFlWS1V5c3IyVEJDTi1YZU9aeHhYR1lBUzVkcHpVMHpPTWNYSkFTVDFuT0FCV2Z6LVdfN0lsSWJqSmhja0pObWZYT3VnelV6WGJENWtkLVo2UGxHWlJMSms5NUV5VnBLQ05wamRkM3hXM2pjUFR5RG5LNkg3eElNZUQ5WTJaTW5jeXBFUXZaZFJrNnBxT0wyQVFTRlNOSDNXS0E3c01mSzAybXhmZ1U2ZjJDZmtaU1Z1UkF3cEJRS1FfeHVzVTFrc2NMRVFPUGsxSzg1TkQ5NEZoZ9IB3wFBVV95cUxQZVI1OEl4bmJ1cHhpT2phZFB2U25fRlJRM2w4WkU5V2ltQk9SRmZhQkdmQkVWSXhwR2FxSmhPTDByZWJWdl9Qb0FoNGR2WVd2RFJWM2pFbmtpNE4yazgteHR3amIwSUlRMU5vbE9SZW9SOU5SSzZYYlZ1RFpuREgwSVFIWllWSkFDZktnb0xidE9ISzRJNnVYeVFaaEpjX3VqNUZ3bDZ0TWY0ZDU3MVRzQmxXVUJ1RU1LZWdKR2VyUldGalg0SGRCVHlvbzNzUGQ0ZXdIanF0bkFVVWh1ekxv?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.cbssports.com",
-                    "title": "CBS Sports"
-                }
-            },
-            {
-                "title": "49ers WR Deebo Samuel hospitalized with fluid in his lungs after leaving loss to Chiefs early - Yahoo Sports",
-                "description": "49ers WR Deebo Samuel hospitalized with fluid in his lungs after leaving loss to Chiefs early  Yahoo Sports",
-                "published date": "Mon, 21 Oct 2024 23:08:31 GMT",
-                "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWVlQW5KcjViZW1DN0FjZllnLXUtNkNfYlN2azVPNHltb2MwTTAzeC1qeEt3VlJDZGg1MmM1MDJmRkxJc2VwOFhqUmRmczFwUnhldVBEaHhJV1VTYWJfbjF0bE9tMVdKcURfSjJMWU8zTXgzcjJxbTRxaVNlcFJPSTh3RkJadWtRZzB5Mm5yM0JhU0FpRExRTS0xRDZPSUswQ3BOdjM0a05lQ2Rwd295X1V6S25ZdzBWLUVDemx5UllmTEN4R0NzTG9sQnlQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://sports.yahoo.com",
-                    "title": "Yahoo Sports"
-                }
-            },
-            {
-                "title": "49ers WR Deebo Samuel Returns to Practice After Having Pneumonia - Sports Illustrated",
-                "description": "49ers WR Deebo Samuel Returns to Practice After Having Pneumonia  Sports Illustrated",
-                "published date": "Thu, 24 Oct 2024 21:06:04 GMT",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWJibUNSSVJOcXdydG03cHRnYnNHZ051RXdqOUhpcDNRblluZlAydXhSX0syQW5UWm9ZU1p1LWpWN0JFQUIyX29ZUGw3bUxNMU1UeTN6LTRfRmJDMXhYVzdLNUgwZ2FHU1dIRnZrOEY5UkZTaDNITjdPMHVscFBndFVzdlRrWFVZbml4eG9fUkgweEtMQmVxUzU5enJUMTJtRkdXZGM1YTdnMkY2U0xnMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.si.com",
-                    "title": "Sports Illustrated"
-                }
-            },
-            {
-                "title": "Is Deebo Samuel playing Week 8? Latest updates on 49ers WR's status vs. Cowboys - USA TODAY",
-                "description": "Is Deebo Samuel playing Week 8? Latest updates on 49ers WR's status vs. Cowboys  USA TODAY",
-                "published date": "Sat, 26 Oct 2024 17:27:45 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDhYd08xY0dqcG5IWnFydUJISGZ3UUZYY1psX0VrM1FOMjRzaG5Xc3Zib2FZdUMtZTgycU15bDdlajB1V2dETzBIQmU0S3c0aXo4cE9fY3dBeExlZkdQVkRISS1YbUNZcE9jQWMybHpQa2VWLWpBd0lybTJ1ejJXYjRzS1FweFdha0J2WV9XcW1EWHRtWGZZQkdjc3J4TUdBWEprdVJWM1k3NlFWS0dGU2dFbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.usatoday.com",
-                    "title": "USA TODAY"
-                }
-            },
-            {
-                "title": "NFL Rumors: Deebo Samuel Set to Play for 49ers vs. Cowboys After Injury, Illness - Bleacher Report",
-                "description": "NFL Rumors: Deebo Samuel Set to Play for 49ers vs. Cowboys After Injury, Illness  Bleacher Report",
-                "published date": "Sun, 27 Oct 2024 03:17:39 GMT",
-                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalZFb3RlUVFycDN1MkdwWlhacEdiMDBrNmI2NVlEdm4zcEVmc1dHckljRmZhd0NxdFVENjZCTHBxOGdpdHJvY2c1XzEtemNWWEdhd09ieURiOHVEdUU0QnNCV2VmQkJMZGR2bnNQa2ZFc1hNUExhWWl4SXI0TlBTRVYwcHdrc0lmUThIZ1BSUS1VLTB3RXJrQ2JDbEhqMEJFZlRtYWZ0Nk41MXJSdDJST1luNG0xcUttUThISUdkONIB1AFBVV95cUxPN0dLVGVYUkZmTzZWSFFxRURDTkV4Vm9XOU8yR001NUlvRlpvcjhHUl90S0ZTWWNDQlF2eG9wQnR6a3dtcC1HaFE2Q3REREtRbVV6aFZhU2lQRk45NUZrSnYxbGIzbEU5SHFRVUZsN3ZsR0lnYy02YnUyak5QVldwaVJ2NDY5eDExVkRMSFlZZWN4eTE1bThmOUxVNmpBNktTVy10Q2d6bHN2NzA1Sm1HaktTSFpNa1JLYUhxMVJLdTY5cmx3Xzg1MW42TmM4enZQRTlxMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://bleacherreport.com",
-                    "title": "Bleacher Report"
-                }
-            }
-        ]
-    },
-    {
         "name": "Titans vs Lions",
-        "summary": "",
+        "summary": "This weekend, the Detroit Lions face off against the Tennessee Titans in a highly anticipated NFL Week 8 matchup. Several news outlets have provided predictions, odds, and scouting reports for the game. The Arizona Republic offers insights on who is likely to win, while Sports Illustrated discusses the potential for an upset. The Tennessee Titans' official website lists inactive players, and CBS News provides information on how to watch the game live. CBS Sports shares odds and predictions based on a proven model, while the Detroit Lions' website has a post-game recap.",
         "items": [
             {
                 "title": "5 things to watch: Lions vs. Titans - detroitlions.com",
@@ -2028,16 +1922,6 @@
                 }
             },
             {
-                "title": "Tennessee Titans vs Detroit Lions picks, predictions, odds: Who wins NFL Week 8 game? - The Arizona Republic",
-                "description": "Tennessee Titans vs Detroit Lions picks, predictions, odds: Who wins NFL Week 8 game?  The Arizona Republic",
-                "published date": "Mon, 21 Oct 2024 19:04:16 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2k0bkNRaG5aN1hLRDNSaWtDam5BLWFnQl9XdDI5UXBXVk9PcHMydWlYREVldTdiUk5LMVNKZFlwbUtyZ3c5aUlEMkpiOUVKdWo1RkxGRnJtTXFjTi1FN2FHb1BoMDBWS1JJWEt1QUdQd1hNa0tzYXp6TjdkTVBuT3liRUxZODF2RlgyS1hFZnZkMENuV1VDOWpwUlpZY1Q0MjVhc0dIWVdQTi1pdFE4cjhZdHZZN2VZTUQ4VURxVXhxVnZ1dzdFRmhNYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-                "publisher": {
-                    "href": "https://www.azcentral.com",
-                    "title": "The Arizona Republic"
-                }
-            },
-            {
                 "title": "Lions vs. Titans Prediction & Game Info \u2013 Week 8 - Benzie Record Patriot",
                 "description": "Lions vs. Titans Prediction & Game Info \u2013 Week 8  Benzie Record Patriot",
                 "published date": "Sat, 26 Oct 2024 22:30:00 GMT",
@@ -2045,6 +1929,16 @@
                 "publisher": {
                     "href": "https://www.recordpatriot.com",
                     "title": "Benzie Record Patriot"
+                }
+            },
+            {
+                "title": "Tennessee Titans vs Detroit Lions picks, predictions, odds: Who wins NFL Week 8 game? - The Arizona Republic",
+                "description": "Tennessee Titans vs Detroit Lions picks, predictions, odds: Who wins NFL Week 8 game?  The Arizona Republic",
+                "published date": "Mon, 21 Oct 2024 19:04:16 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2k0bkNRaG5aN1hLRDNSaWtDam5BLWFnQl9XdDI5UXBXVk9PcHMydWlYREVldTdiUk5LMVNKZFlwbUtyZ3c5aUlEMkpiOUVKdWo1RkxGRnJtTXFjTi1FN2FHb1BoMDBWS1JJWEt1QUdQd1hNa0tzYXp6TjdkTVBuT3liRUxZODF2RlgyS1hFZnZkMENuV1VDOWpwUlpZY1Q0MjVhc0dIWVdQTi1pdFE4cjhZdHZZN2VZTUQ4VURxVXhxVnZ1dzdFRmhNYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.azcentral.com",
+                    "title": "The Arizona Republic"
                 }
             },
             {
@@ -2098,10 +1992,10 @@
                 }
             },
             {
-                "title": "Lions vs. Titans odds, line, start time: 2024 NFL picks, Week 8 predictions from proven model - CBS Sports",
-                "description": "Lions vs. Titans odds, line, start time: 2024 NFL picks, Week 8 predictions from proven model  CBS Sports",
-                "published date": "Sat, 26 Oct 2024 10:00:40 GMT",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzRXRFlwVjNVQktOV0FPZ1NHWmVMSmEyOUJ6SmZxeHROYjY4bjZzajQySXN2WEo5cWZnaUFaRzAycFE1WVZzOVA1QVExcnVlRDN0NlE5X3VTVUJBLUVVVHlOeXpxUzdMYjlOMTRDYUlEN2lBMHI3X2RlUFdveE5vRW5jZzlmS2RmLVI2MU1udXFnRFJER2x6RWtYU1BqamhnU1g0dVU2UFpFTTNndUtmZ3RkRXpNeTdJLXdfR21xbVl4Z9IBxwFBVV95cUxNemxGbTlkYW5mT05lT3ZxYXo1ZjZRV0NxNGRMRU51MjVpR2VzR0FJS29pZWlKd3dydG15dVVEZUZfRjNZd3ZVWkdKWTdLNjh2QTZPSnF3M2VlUG1iSnh2RzdCTlZ0UEd6TUJJdlk1VllDRHV4eEZYTjNMZkdyWnVhbmtqNmU1RWd4MjhWY1NHejlBQUI1dWpVYk9EcnZyOVVreUV4VC1lQkhFWjRxZGZ4RVFQYUFrdVFfc3lHa1ZJejM1SGRSZThV?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "title": "Titans vs. Lions odds, line, start time: 2024 NFL picks, Week 8 predictions from proven model - CBS Sports",
+                "description": "Titans vs. Lions odds, line, start time: 2024 NFL picks, Week 8 predictions from proven model  CBS Sports",
+                "published date": "Sun, 27 Oct 2024 14:09:58 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUTh6T1hGX0NQczNKXzZuVFRZaGpRbk5fN3p6NGczQ2ZlS2xaNkl5RFh0UlE4SUlmemZaSGFqdUtURFdUaW9zQVlwRzdncEhtOU9TeGd0RDRsREpETzM3MGM3c0o0bW1Yb2QyeXo0QzVGUFd4dGRJYlNNME5GYkJSU01pb1RoQ1V2d0VWcE1BN1JTckp0RlRKelUyLXFyeDgtWGhsbzBsQmh5N3JmTTZPQUxzeElfUWloR0RGS0drR21hd9IBxwFBVV95cUxPdDUzWm9hNGRpV0NrWHJQc1NzTkEwbTViTWludmMxbE5NTmJRRnowWHV2QXZHVFJ5VlFEekU2bDRlc0xwVVZOS2FidU9OaDdWMl9jVDNpcEtQS0VCX2FFd3V4bzBxb0VoN1NkSzYxcnRQVFdwdl9XWUk3b1VNYVZuWHo3OHFULWIzUVhhLVAtVFR6VHJmU21OTklHTl9jMHhTenFBSnRqbHRiWkQyV3FVUmZzeE5SRk5XODV3cXJPVzRSdFBmeUtr?oc=5&hl=en-US&gl=US&ceid=US:en",
                 "publisher": {
                     "href": "https://www.cbssports.com",
                     "title": "CBS Sports"
@@ -2115,6 +2009,112 @@
                 "publisher": {
                     "href": "https://www.detroitlions.com",
                     "title": "detroitlions.com"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Arsenal vs Liverpool",
+        "summary": "Arsenal and Liverpool played to a 2-2 draw in a thrilling Premier League match. Arsenal took an early lead but Liverpool equalized before halftime. Arsenal regained the lead but Mohamed Salah scored a late goal for Liverpool, leaving Manchester City in the top spot. The match was eagerly anticipated, with fans wondering how to watch, check stats, news, and injuries. Many media outlets provided live streams and updates, including ESPN, NBC Insider, NBC Sports, The New York Times, CNET, Sports Illustrated, and Al Jazeera English. Pundits and fans alike were left wondering how to feel about the result, with some bemoaning the missed opportunity for Arsenal and others praising Liverpool's resilience.",
+        "items": [
+            {
+                "title": "Arsenal vs. Liverpool: How to watch, stats, news, injuries - ESPN",
+                "description": "Arsenal vs. Liverpool: How to watch, stats, news, injuries  ESPN",
+                "published date": "Thu, 24 Oct 2024 06:55:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVG43SXItaEdZYWdSc3dQUGlWeW8yWW52VEkxdWJLemhOWTlLaFg3Qndwem4tWi01ZHZDN29iRnpzOTI5LVdIYS1aa3BxMFFnaklVenNpdzZHNmtiZ1pIdlJRTmVzVXJmQ05KWVdoN3l4ZlRKTHl6bUNydF9aRXdKV2k5dlZGNENVclNFajBmTWoxQk1JVnNQNkNQQTE3Rnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.espn.com",
+                    "title": "ESPN"
+                }
+            },
+            {
+                "title": "Everything to Know about Arsenal vs. Liverpool: Schedule, How to Watch - NBC Insider",
+                "description": "Everything to Know about Arsenal vs. Liverpool: Schedule, How to Watch  NBC Insider",
+                "published date": "Fri, 25 Oct 2024 18:11:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnNtdElFVG1McFNLeEhjXzlxeWhhQllGbnFfRDJPQnFHUFR3VHV2cC1wZkMtckt1eUt5UHNabHUxWlZIQktQSVFDSzJ0VGJiNlJQQjFGNEhpcHJCajFBMXlWR3N2SFgzak9Sa3FHR0RmOFJMcGRkRmpsWmxuUzZUc9IBhgFBVV95cUxObktVUkQyaHAzSnRCNjFqZ3Q2c2YzN0hoTGZKRVYzRzJTZk9Ba2dHZUlhd2xoOEVtb2tpV0RjTnNlQzhRVkFqSThRTHNrLTZQc2NrRjEzSWRFLUN5N3ZiNTA0cXN3b0xPcVhiQ2dfVmlvUUVGOUEtb2JkOFZaMXd3YVZrMDZLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbc.com",
+                    "title": "NBC Insider"
+                }
+            },
+            {
+                "title": "Arsenal 2-2 Liverpool: Salah saves a point - NBC Sports",
+                "description": "Arsenal 2-2 Liverpool: Salah saves a point  NBC Sports",
+                "published date": "Sun, 27 Oct 2024 22:45:03 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQXzhiQm5ZaURhZ3BOUHg4aDBMbWpZWVVHMmFkUHV3bkpQWHQ5aldtVFozRVNVMWE1THVmb3VyYWdaSnJwckV3b1FQcVFvWmJhdG1YbkwzcnMxMmZ5dHFmREZtQUpkTnpFRmJXVXZWZUVWWGlYQzVFR1NXSVJOazJic0lqdE1TUmZSWGtFSEl4ZHpON0lxYjkzVE1MbzZSdEhzWW1MZC1TVmpfbUY5STFzVWJITjNOU2ll?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nbcsports.com",
+                    "title": "NBC Sports"
+                }
+            },
+            {
+                "title": "How Mohamed Salah's late goal snatched a point for Liverpool at Arsenal and left Manchester City top - The New York Times",
+                "description": "How Mohamed Salah's late goal snatched a point for Liverpool at Arsenal and left Manchester City top  The New York Times",
+                "published date": "Sun, 27 Oct 2024 21:01:01 GMT",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1BLOGt5TVVkd1RaQWZMZm5qdmJGNE9WX0JvenlXcG41ZmxqbXpzVEdYTTd5cVdxRzFhcVRyUjZkNjlETmJ3aEhjSm81UTg1NTlDaHB2aXl3Tk54YkVHQlU4SVY4dy1zRjczMTNhMF9GZGVnN2lDa0dGN3RMU0FhZ1cwelFRam5RUndITUtSazRzVE9kbkhwbjF3TE9MOFphR1c4Q252V1dxZ3VROGlLRGNPN2JOMm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.nytimes.com",
+                    "title": "The New York Times"
+                }
+            },
+            {
+                "title": "Premier League Soccer: Livestream Arsenal vs. Liverpool From Anywhere - CNET",
+                "description": "Premier League Soccer: Livestream Arsenal vs. Liverpool From Anywhere  CNET",
+                "published date": "Sun, 27 Oct 2024 15:53:00 GMT",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFM5Vi1Fa3RYVHVIWkpWWFZkWmx4U2Ytb250LUpXWTdPVjNESmRBdmd0TkJ6LU15VE9QME40Y0tUQWdyeE1yRTMxUHJWeVYtYU1rcXpPTlhodDZ1ZFBpcUxyNndUM2o4NG5ESDc3bkZmMnA0bE02U3Vsb3pPRHBLaGotd29ZRTY2RWtHRDVza29qeEt5ODI3S2NreW9YQ0t1RFBhSjlsU1ZpQTBabzgzSzR3a2pEWkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.cnet.com",
+                    "title": "CNET"
+                }
+            },
+            {
+                "title": "Where To Watch: Arsenal vs Liverpool - Live Stream, TV Channels & Team News - Sports Illustrated",
+                "description": "Where To Watch: Arsenal vs Liverpool - Live Stream, TV Channels & Team News  Sports Illustrated",
+                "published date": "Sun, 27 Oct 2024 14:34:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3BwWDBDSW90REtnTDlEdUE5Nk1lRU9RZU1pdWx1a1FRMEZaRGJ5NzBPTzVJVEV5TGN5OUVQWjNNMTU0NEdsb0VIUnhLTTdEN3VnN0JQX1huX3ZwSnVQa3cySHIwMVFrT1ZxeDlOdy05cjhmOXNtQmpkQTF4LVZsV01lVVZtNVlfanc4UzdQX0oxcTBsV29xOUhEOHJreFhTM1hWcFBYMHdLMlRtMHJKbVN5elBYS09yMzJhWXlLWlZfSU1nc3gwVWZpdEI?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.si.com",
+                    "title": "Sports Illustrated"
+                }
+            },
+            {
+                "title": "Arsenal vs Liverpool 2-2: English Premier League \u2013 as it happened - Al Jazeera English",
+                "description": "Arsenal vs Liverpool 2-2: English Premier League \u2013 as it happened  Al Jazeera English",
+                "published date": "Sun, 27 Oct 2024 19:07:30 GMT",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEpUVE5pbHA3LXB3NHhGb19ZTUVKQUtIUTZLSER5RmJwTno4NlQ5NGhjd0ROeDUybmRWbG43WC1kNW9QMlVIRm4tSTF1QVFMYjRDMklNajlsa0ZQbUozREYxQTBPUmZQbk1LTEpJUjYwV01CbS1QOGVmTnY0Q2RKampzV3dqWVpaUDZZSHVGWWhrV1lEX2lMdTNqd1JXVENYVjFZ0gGoAUFVX3lxTE5rSncxUGxNU3o0OUNid0U1V0dVWlUzazdOS2RSbHkxcVR6UU44bWVucmtLQXlhQkduc003ams4MEMwMUVwQXpUclZFSGdxRkY4TmJNaGZ4TW1MaHg4ZDY1eXFIVWxqcHI2dzdiUFRDM2Y3dzh5WktnRFFfRGhZbjh0YXBkNTdpa0FzeFRneTRvVUFsTWxmejdXTE9teVZPTmJhZ0h5dnpxSg?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.aljazeera.com",
+                    "title": "Al Jazeera English"
+                }
+            },
+            {
+                "title": "Arsenal 2 - Liverpool 2: how are we meant to feel? - The Short Fuse",
+                "description": "Arsenal 2 - Liverpool 2: how are we meant to feel?  The Short Fuse",
+                "published date": "Sun, 27 Oct 2024 20:03:22 GMT",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXhSd3d0LThHSGVEU3RvaFNURVRuQnowWVMwS09jc3dUemhLY3pCM2lZWUMzSWNlV3h6d0ZZWk9OUzFMa1VpZVdjbElYS3dobmlxNGw0N3QtNjl4dGZ2N1U0c243cDVSYUo3RC1GcVVwalhnS1B4ZEJ0a3M1bFRmQVJick5DaUItcnJ1Y1ZxM010SFlOQ1I3UUJhQXowNFRu?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://theshortfuse.sbnation.com",
+                    "title": "The Short Fuse"
+                }
+            },
+            {
+                "title": "Arsenal vs. Liverpool prediction, odds, betting tips and best bets for Premier League match Sunday - Sporting News",
+                "description": "Arsenal vs. Liverpool prediction, odds, betting tips and best bets for Premier League match Sunday  Sporting News",
+                "published date": "Sat, 26 Oct 2024 22:00:02 GMT",
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXFndExIVFpJMXRzRnYxMTRjek1LYWg1U29nNW5GUzFZX1FwT19xSGRUWEJjbEc0X0xndHNGdHdXeVZNcU5IWEk3UmVzU0ZseUVWWnRhTFQxaUJjLTFBQnBheWJ6LWxhQ3ZHVW9qckR1bVAyRkZHbG10enRsX0dSUmJJdmtiLUtvcUh0Y1pMcnY4WjlIanU1TEFwTXV5NDhvQlhpMGRPbllpdEhnX3RoVUJJRTdrTFUwcDkwcHhvN2JZd2RaUlRJbURsNm5Dc0N6aVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://www.sportingnews.com",
+                    "title": "Sporting News"
+                }
+            },
+            {
+                "title": "Arsenal vs. Liverpool: Predicted lineups, team news and score prediction - FanSided",
+                "description": "Arsenal vs. Liverpool: Predicted lineups, team news and score prediction  FanSided",
+                "published date": "Wed, 23 Oct 2024 20:11:31 GMT",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQktIY2M0dl9jWEUzWGpnMEpfQjN2V0tFV3hYLUZTanFUckxHdWp5WnpXcFpxY1pwY3l6cWwxaTZ5MU5sZzdDejJvSzZBTFUtblZiM1JRN2hhVzdFX3lYTUhZcmZlWUFNS3lKaTJVTGZwbUF4RDB3TXJHMzZxNEo5SENqVm53MGVhQ3lzdFBaTEdLSkUtWHNkZ2dTakc?oc=5&hl=en-US&gl=US&ceid=US:en",
+                "publisher": {
+                    "href": "https://fansided.com",
+                    "title": "FanSided"
                 }
             }
         ]
