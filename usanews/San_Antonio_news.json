@@ -1,13 +1,5 @@
 [
     {
-        "title": "'Gossip Girl' actress found safe near San Antonio, says she left Los Angeles intentionally - KVUE.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVXUtbDRkLTF1R3FPODI2Zll2VDdKSjA0emlraVBad2dGMnBaQ2JLZ0E2OFJic1JkOU1SYXE2LUdicWplaE0zY0p1RWVpNERUeTZKdnVqblFWeTJ2ZGNFY0d6WnRyWVZma29INjhyTk51dURYQUVKM0t6dTBLa3UtRVVhcDY1eEdxc2lWa09xTTBfX1VaTW9UX1c3VzQtXzM5S2dRdlJYWWhpRlBzNTFIeVZuc2o3bFlUbEtPMjNXNDdkLVZnLXFlTUtnTjhQQQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 02:11:12 GMT",
-        "source_url": "https://www.kvue.com",
-        "source_name": "KVUE.com"
-    },
-    {
         "title": "San Antonio's 'AK-Guy' now wants to be Trump's ATF director - San Antonio Current",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmpNbTBETnMyekE5Q1VTeDhrQjVEaEtmZC05bzF3SVdJeXMwNTdhNGpJeU1yMXE0NzhwOG43RDJ2UFZfUWRFVm42eFdSUGRnTjd5R2hweDBNTkxDdl9heTdzX2hxQ2xSb2FfU0x6Yzk1WGpEU2o1NzZncG9vVExnV3R3NHdPam1xaVdSUjcwZVg0OWpidnhCci1tWQ?oc=5",
         "description": [],
@@ -16,12 +8,20 @@
         "source_name": "San Antonio Current"
     },
     {
-        "title": "Man arrested in connection with theft for Tejano band Grupo Siggno\u2019s equipment, affidavit says - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXA4R1J2d2dyR2xZR3dObDR1RlJYaU40eW80bzd4T3RZalhmSC1qVjl6OEdjVF9zNEdRbGNNc1lzNDhLS0RsalFjMzZHelBkZkVBOVBJMElzanJ4eVdOQUlublVUdzUzUG12dWtNcVBSNGdWUHM0V3JqUEh3N3M1MEZiX0EyVHhBOTltMjJTU0owZzVNUWpYQ2p5Ync4RUFKeGNvN1E5b0E2RjVZUGpjbEJkZEx0bENlbXBlSnZuenVrckNaVGhNUldRYWwwLVpZWlE?oc=5",
+        "title": "'Gossip Girl' actress found by San Antonio after fleeing California - mySA",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMzFZYzBsRzBDbENJNzRzU3c2QzdxVDlVcG1ZaVNfQTlMa3RodlIwTThRT0lYWjBPV3ZLZHFxRFZLT0p3c0VqWnlOajl3OXlNcDFESTJBREMyYzNRQTdZVzBZN1JEbHNlY2xULUFwWjVDdEs3Y1B4YTNKSFg2MDJMSjFYanM1WFN4ZEFFa1V0a0ZLZw?oc=5",
         "description": [],
-        "pub_date": "Wed, 13 Nov 2024 23:23:45 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
+        "pub_date": "Thu, 14 Nov 2024 16:32:53 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
+    },
+    {
+        "title": "SAFD extinguishes fire at abandoned Tobin Hill building - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNFZHcm5td1lGM21oV1haM1dDWVRQTnAtSUZJRkZlMWJQeWRwYjFlR0VxWU5IemR1THFZTXA3NlU4SmdtTERfUjRoS3ZhcUc4R0NobEpaYXp6SmVDajVqMEZoSFhsM3JMa28tNXBoeHkwVzBmS0dYdUpPU0EtVkZIaXBKcmJQMFMyd2Y3ZHdSVTFWRjJoNERacDJEUXZmVWhXSzNBY0FTOElrRVBFQ2FOb2treWUwQVZRY1RsRHVJaWZTVmtXQ1FtdmVSSjRhaW5PMnpLWDNR?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 02:32:52 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
     },
     {
         "title": "$3M glow-up to transform H-E-B store in San Antonio - mySA",
@@ -40,108 +40,12 @@
         "source_name": "San Antonio Express-News"
     },
     {
-        "title": "Major crash halts traffic on Highway 281 - mySA",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2hwSmJESGpRaTVjYnFWUUMyTVFCSjgxSDdod2JfWk5TSmN5dVZPMWlGd090SkVFZzVEc1ZsUDFzREFycjdyQl96YktzWWQwLTcxMGVISnc1Ni15bmpPbkJfOVpDMmZkMDNHc0x2T0ZpQTR6Q2pXOFZNUVdNaDlNbGE2RTZObXp2QkhxcXh0SFo?oc=5",
+        "title": "Man arrested in connection with theft for Tejano band Grupo Siggno\u2019s equipment, affidavit says - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXA4R1J2d2dyR2xZR3dObDR1RlJYaU40eW80bzd4T3RZalhmSC1qVjl6OEdjVF9zNEdRbGNNc1lzNDhLS0RsalFjMzZHelBkZkVBOVBJMElzanJ4eVdOQUlublVUdzUzUG12dWtNcVBSNGdWUHM0V3JqUEh3N3M1MEZiX0EyVHhBOTltMjJTU0owZzVNUWpYQ2p5Ync4RUFKeGNvN1E5b0E2RjVZUGpjbEJkZEx0bENlbXBlSnZuenVrckNaVGhNUldRYWwwLVpZWlE?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 15:00:22 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
-    },
-    {
-        "title": "Behind the deal: Why a consulting firm chose SA for a 1,000-job expansion - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTi1ScVNuNS1fal9sR2FXS3c3MnBsVjdiUkM0UEZXVDM4eGlxb3ZxcG83QXJWa1VJOHRibE53S1VvLXNwUmlwa0ltSUlfbXZkSEVDNFhfak81akhHZDZ1VGlDTlB4aGxLSERDcU9HMk0yZGlONlk1a211b3JjSDN1UDJqRUVIUzgtZTJIVllHdnMyNjFTY1J1Zm9pMA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 11:00:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "11 essential dishes at San Antonio's Michelin-recognized restaurants - CultureMap San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXNBSjJsX0xPTGFkRUdBZ3FzamwyR3I0b3dCUkhlUDRmUUJDdExVUWVnMzdiZUF1V0dOZUxHaTl5VUYtRElFclZuSlJiaTI2Uk84M3d4aXhsQVotQlVJZ0psQnZSMlMwbUYwMW1MMXB1NnExRThLRjMtdXFxb3dRTWxJbnU5bGtZLTV3?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 18:02:26 GMT",
-        "source_url": "https://sanantonio.culturemap.com",
-        "source_name": "CultureMap San Antonio"
-    },
-    {
-        "title": "'Joe Pags Show' canceled by San Antonio radio station, but you can listen here - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmhxNGRPOTlOVTNTaEVJamRCZDh5ZFp6V2QwOXpSdlhnR2JJY3B0UkhWZm9NTFM0eDhaem8yMlI2V2hjcTVUMkt4dWJNZnd6Nm9tc3VmN3NUMnJSbWZsY1hDUWV0YllyM29UYXExcW9mbHZSQmx6bFlpSV8tcDBweDVnZThMUGY0?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 16:53:15 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "Final entertainers announced for San Antonio Stock Show and Rodeo - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1NuUk5rWGhnRHRfRmNTUVNGRG5KdE5ob0VYNXI3SWJnQWYycE1wdlZaM2R3RWtaQjBDWTFkU1hsSHoxQjZJQmJpLXZ4RFp1NGRHcXJHU0o3RWlnRnJNd0JCczJDMllmeS1VTkVYR1hCa2psSUFMRzNDQmtlT211NWFNV1g1OTMwTjZJcGcteHFqOUpkLWVjYjdiVzVSeVVoMFRBTUlCTVRfbVdFLUl6VWRGNDFGMmhwb1NDUUpsWndGazVnNjFva0R0Ul9GeVFCVk9IaWJR0gHbAUFVX3lxTE9TcDdVZDlqMjVibVkxZzV4UkZmeTI0NzhaaU95UlJra3ItSDhjbVhKSGRrWEQ5eGRyVFZiOTd6M0NaazNKZFdmUGxfalA2Q0g0c1BrN0IzYkhUSjdBb3U0UzJ1VFVsYUl3VVVzZjNVaXNZZFRkWlBTUlE1Y3MwaTQtd3hLS2ZEQW92cENoT0dNeUh5LTNrMGFBR2IyUm9BWllRMWkxNVFPeU9vc0ZDaXhYSFV0MV9HdTFtWThNdDUzdkNpM3c4blVzT0RwWjNsbC1LRm5sT0pkUmk2TQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 18:53:37 GMT",
-        "source_url": "https://news4sanantonio.com",
-        "source_name": "WOAI"
-    },
-    {
-        "title": "Timeline details Brad Simpson\u2019s whereabouts before and after wife Suzanne Simpson disappeared - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFllSm85czZ3SDhhb1AyNDhHVkxXLTJNM0FLUEFJWkFpa3RUVUdvVjFEREpuWXlJVW5zLWhkUTl5dkFGM0d5MmpMV2NEZklyQmtZT1o3RDB3YWZIZkFiRDVCLUNKX3ZfakdrbTJvMmUxYmVUZkxSbjFhODJLYnBzVDdqemVWcjk3OVZEd2dvWUgzcFhORE5iWTF0c3BSRm9CT3dONVpteXFGWlpLOE1adUpIOE1tMzJFTDgzUHlvVURiYllFdndFSkk2MjlsNFFIemtEaWJ5Q0xkRTJJUEpkc3V3?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 12:00:00 GMT",
+        "pub_date": "Wed, 13 Nov 2024 23:23:45 GMT",
         "source_url": "https://www.ksat.com",
         "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "17 San Antonio bridges are in poor condition. Here\u2019s where. - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkZWTnMwOUZEQ1ExVXhKQktnem1xb0lueWJkUVgyVVJuR0VSem9wVG1sRDRMZkFUSEZXcEQ2SHEtQUFDdnh0SWptSUxGWnVzRGxQejQyd3NEb0Zzb0NNX3hpRjZrazR0T1RLOUFDWnJZUTlGUy1URWFReWV6R1VPMWtmazZfNENzU2JaZmN3VkxFQm1G?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 10:09:57 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "A birthday bash, Black Power and Sunday morning yoga in this weekend\u2019s \u2018Go Do That!\u2019 - San Antonio Report",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2s3Q2xVNV84S3ZsNXkySl9mRWlzaWYtVUFfQ1B0MWx0WXh5QXk4OTUybzl3aU1wdFBYc0tja2dVSHNCUlFQWnFQeGVCcXVNOWhNdzNqamdTa1FxUGVyaXdvUmo0VVVCT1psQWFOb2I4S2xjQ094azM2M0RSOUgxQ21fRWZyQWM4VTdxQmZaNnI4U2NiMVBsLTZIRXpQdDQ5V3h2WEtqV24wVVM1aGpkd2VB?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 18:00:00 GMT",
-        "source_url": "https://sanantonioreport.org",
-        "source_name": "San Antonio Report"
-    },
-    {
-        "title": "Here are the top 7 things to do in San Antonio this weekend - CultureMap San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnlhN2NtaGdHb29SVDNqbEhVZ3JWUnhHTTFTemtUSUh3SElyenY5TGE0eWhab0w1MGlQTmtuR3I0ZloyNjZmQjMxclZnYm5lZjE1UHNfUG13eGpKTVZ5Y2lKbzJXZlFnSm03LUpHcThqSi1oZzFTZ3BpalNBSERqOWlQX0NQZw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 12:02:31 GMT",
-        "source_url": "https://sanantonio.culturemap.com",
-        "source_name": "CultureMap San Antonio"
-    },
-    {
-        "title": "Live from the Southside expands literacy initiative with support from Lone Star Bank, San Antonio River Authority - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhFWnV0VjlVVlZLM0tHQU9ueExEOXBITmhldW1SdWM4MWlkMnBjcGpLdllwTkc4SlNQa252RDVaZm00ckNHMjdCT0R4RWlUQlFMamNFZ1pQQXY1NXgyM0l4Rk1xcC1LLW51bzJJTmtFM1Z2alBrb1RQY2pMR1U2cGhsRWprMnRYWnE2ZVpPNXlRZHVvdU9FYkJ6Ry1lWGEtSTgyS2tvVENvLU52eldGTW5LSFlzMS1iZVQ0ZWZVQnNrNkg1T0xYVHJ1dTNLejZ4eVNTX0toaXZ6WXY5MW83MXREQnVJMnNtM3RNRA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 21:03:18 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "Fishing trip turns fatal after police find San Antonio teen underwater near Thompson Island - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVp6MHBrZ0oxNUFrRWhsZDQxMkNhcUlQUGVXbEZPSFo4MVRJVEt6UC1wcjJYUVlueE5uVnlLbEljYi1sal9URU5SSTZZRlZmWVBPN3pETU4tU3l0ajhNZkgtQzFaRDlwZlpCVHZvOEFXV3lSczJSdWhfTjM4bFN0TFMwYmp3NEJSVGljaGx0R3ljQThHYXJhYU0wVlpRb29jb2M5Q29ONjV0N2ppa01rdEFDS2paaWRfeVFVaGg0OFpXeWc1UHpLS3pOak9lRWc1RWpzNnBIUUxZSms?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 21:16:28 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
-    },
-    {
-        "title": "'That's our San Antonio': Secrets behind 'Say A Little Prayer' movie - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmlMcHFXX04wbFBQTlJpYXh3eDhldWkzaTBPMU1VMm0wM2wxNTdwNEtJSW1qTXNrZ0tXNE4xNnZ3MHFiVGdKWkxOTlk1YWMwYkpUYU1uSGJWS01Jbk92Q3JVMjR5SWZUcDJ0TjVCMHFXOFViYzREamRVNkJLYVFaSTZtdlQ2UnlxRUZtdGRieGUwSEM3cVUwSGJmUHo4MzcwNnc?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 15:15:32 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "San Antonio Coffee Festival launching holiday night market Hot Holidays on Houston - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUQ0ajVxR0F3cTU1amNBeU1BbWNQMmtucl9RVXVocmVkd01PRWk0YXdVMks4b3VhalV6OVdsVEVEN2piclp6dlFucHFRTTI5UDVVaU5KajcwbkZiamdTTlNBZ2laalZjQ3NoQWluT1dXZ0x5Q0RnQlB4c0M1NmtFc2tRTXpYRkZTN3M2Y1pGdWpEZTM5ekRuWVdsXzlpd0pEQzkzVXZYVnBET0VuUzRvWDVzS1d3Y2J5WVVWbC1GaURETzl2ekRR?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 22:04:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
     },
     {
         "title": "San Antonio get ready for new Loop 1604 ramps opening tonight - mySA",
@@ -152,52 +56,12 @@
         "source_name": "mySA"
     },
     {
-        "title": "Henry Cisneros' plans for an arboretum in San Antonio's South Side are taking shape - Texas Public Radio",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUowWTNZcEU1aGpKOHFhdmFZQlM3a1BtRVZFbC1pby1xalM3NHhNS05VU3pvc1ltTVVYRF9YZkRYS01EcGJabDdXc0JtbXpLU0FKTEdqTE1HTC15VXhYS2FJQUdmaUExX0RYbW9XeTJGREt6a0w5VDE4T0taV0Z0QmpqazhKb3h0QzZFeWpNSGIwcFVYR0ViNktTQ2U5VUJiRnlBS0ZlLTByV2hnSVBNbFBHblRaMVl4TWw4aHdFUkdyUQ?oc=5",
+        "title": "New San Antonio subdivision residents surprised by wild neighbors - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNRFRlUUE3cl8xb0JoSzF5YjNickpvRmIzREd3YkV5S0tOcDQ0YTJaSWo4dXhnVWxQQUZLMDFCSENKQmMwbzBQWWhJMDJNZHVDbkc1YWZGZnNxUzRsM2VGZ1dVZ2hEUTRFeDBIVVVxR0tjWmEyODFrU1hwS1pDaGhscTBoNjVPNl9aMElCODh3Ty1ZNk1kTTJkZm1mTHFrbVliRW1sT0V3VU1yXzhCVnFyWU1wS0hOM2NLVUN1Vm5XdDRkemIyZUtNTmVTS0Q4dUtRSTNTbmMzNnp3MDVla3N1ckJmd19teVFtazQtN21ra0FlOTNRX001WFoyZW1qV1dfN1JwSVZjTHR6OFRYd2c2amZWUXB2NENSbWJtYldVVUZBODA3SmZmX0FR?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 22:29:22 GMT",
-        "source_url": "https://www.tpr.org",
-        "source_name": "Texas Public Radio"
-    },
-    {
-        "title": "Neighbors shaken up by attempted murder-suicide in Stone Oak area - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGl6eWUyZ2VjSkM2QmVMQWp3N0ptLVNnY0xxQ3c1TWR5eHFzOXlPTzQ0LTBFajdLbXJoaVhEWDhoMlFJWUluX0Z2SHpsZ2UxRU8wRjh5WTBxeE9IX1hDLXRvejkxSVFQZF9BS0FsOGNFRTFJT010VVpoS1I5dW4wVFpTQld6Uk92ZzBZTFN2X1ZoVzVleFBYLTFIdEVmcVVndk40Qld3ZzU1N2lVcGJwbGREajB5YkF2YTZsRlN4TnVQNzNMZUk4WW9R?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 00:03:55 GMT",
+        "pub_date": "Fri, 15 Nov 2024 00:27:42 GMT",
         "source_url": "https://www.kens5.com",
         "source_name": "KENS5.com"
-    },
-    {
-        "title": "Founding couple behind San Antonio's Bakery Lorraine have left the chain - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXpWYk9DM0VLOW5XOHNMWFVxS204QUZjVnFLS09rRzVBbC0xaDY3cm1mUmdPX3VlYU95VEJ4d2VYU2RHVVBxMVpGelVyYmdGWmZjYTBoaTZBNy11OTBhdVNIR2tfMzRndzdtYUVzZlFiMm9scDlpNjU3UldQZTJMUmo5TDd6LTU1V05kdTZmdV9Id1NmVm9iWkJPUm5QUTQ3RkxRQ0JxRjMtSko2Y2FzVmZvVDMtcEVB?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 16:16:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
-    },
-    {
-        "title": "Two Pearl-area residential developments approved for tax break - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnpyNHBLNllHYWVnM0ZvaDIxSXVzRXVtZ1pUYkxvV3AwRklPTFVfT2hxMGlvUU5rTmQzb251MldhVmppQk9BWG1uRkZjcFBHMHFQOHp6VXE0ektqeWlLUjliUmR5Y05YTlk2MUFNaUFxZTY0RnVDNHBleW5jbDZYZEFpcTdPNndjUEVKYU1nZVZ2eGVWbUw3UFRMMHBUb3hPck1LZ3ZrZktPQQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 16:34:33 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "How does the sheriff know this accused thief's name? Hint: it's in his tattoo - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGNpOXBhRFpXM1Nfb211RWtuek9FbktfSkRDVU5oLWxrTWhyYVlDNTZXU0lRdFZGNFJNUTEyM1hVOGhSRVpzUF8xZ25ZZ05Id2p0RnJKZFMySzgtSzZydEtoTlBnVmtGVzhlUm9LTHVtLWRvbXAwczUtOWJQWFFWQjlIUVIzOGw4cUV4c0twSU5aWFZtOTRrVnNEWDg?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 23:24:28 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "Lauded San Antonio restaurant addresses misconduct allegations - mySA",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDhZYlRKYzdRSDE0MTVlRllXaDJ0QVVHaExkYXhSOGhGMzk1dVBnM2kyN1V4THZEalZDVFlEY3BnNDRNa053YVpfTEFlSDRTano1QXdBejVsUXczY1Z5ZVpXZ1lQUVhTbTBvV2RyRXFzR3FvdWotNXBYbU5IMXdlX29hdw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 15:45:29 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
     },
     {
         "title": "Squatters likely the cause of West Side house fire - WOAI",
@@ -208,76 +72,36 @@
         "source_name": "WOAI"
     },
     {
-        "title": "A lucky San Antonian just won $3M in Texas Lottery Mega Millions - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnk1OW10RDNZejg5UHhIaDVHRjJsZGtMOEJBd2ZXdlF1VDRrSzZDOGh3MU1NTXpPMERuaVpINU1uMm5WTVVob2JVYV9ISk02WF9KMlJTdVFTVXF6VnEyRmMxa3BZcjJiOFQ0bnV2TkI1TFlxLVhQZi1vVHRaeWV3TnVnNzBSVDc3SDFqQzVkQTVORmNaalRhSzdSUUN4bTRzdS1ncXlFdG9BaDZGX1B2SFhaejMweExLNmZSVm9LTjJUZnUzWjVqNGN4WnhmUjVDTzFRV2VkOA?oc=5",
+        "title": "Behind the deal: Why a consulting firm chose SA for a 1,000-job expansion - San Antonio Business Journal",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTi1ScVNuNS1fal9sR2FXS3c3MnBsVjdiUkM0UEZXVDM4eGlxb3ZxcG83QXJWa1VJOHRibE53S1VvLXNwUmlwa0ltSUlfbXZkSEVDNFhfak81akhHZDZ1VGlDTlB4aGxLSERDcU9HMk0yZGlONlk1a211b3JjSDN1UDJqRUVIUzgtZTJIVllHdnMyNjFTY1J1Zm9pMA?oc=5",
         "description": [],
-        "pub_date": "Wed, 13 Nov 2024 12:51:57 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
+        "pub_date": "Thu, 14 Nov 2024 11:00:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "San Antonio Business Journal"
     },
     {
-        "title": "UT Health San Antonio ranks at the top 5% globally among universities for clinical medicine research - UT Health San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGtBdnJoUXVKalhRdnlkcXYwSnRRemJsLTd1YVRySmhXbG5EZUxnVGVnOEQ2NWRSXzBaRWZjSUxBOFJEb3BibXJKZjBLU2lyQVZSMGFJVEVrU2kzR2FsNEkwbWtBb2hNelhhUDRILVl2MTNjVGtha1FwYjQ1OHRJeXc5amVvMjNmcG9feTA2TzcxNkZFd1VKVUtuLVA3XzdmZnVhTWp2c2NYNHdqcXpoaERvcEQ3eHhVbkFUOE9IeGFaRjA?oc=5",
+        "title": "Live from the Southside expands literacy initiative with support from Lone Star Bank, San Antonio River Authority - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhFWnV0VjlVVlZLM0tHQU9ueExEOXBITmhldW1SdWM4MWlkMnBjcGpLdllwTkc4SlNQa252RDVaZm00ckNHMjdCT0R4RWlUQlFMamNFZ1pQQXY1NXgyM0l4Rk1xcC1LLW51bzJJTmtFM1Z2alBrb1RQY2pMR1U2cGhsRWprMnRYWnE2ZVpPNXlRZHVvdU9FYkJ6Ry1lWGEtSTgyS2tvVENvLU52eldGTW5LSFlzMS1iZVQ0ZWZVQnNrNkg1T0xYVHJ1dTNLejZ4eVNTX0toaXZ6WXY5MW83MXREQnVJMnNtM3RNRA?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 12:31:06 GMT",
-        "source_url": "https://news.uthscsa.edu",
-        "source_name": "UT Health San Antonio"
-    },
-    {
-        "title": "SAWS reports broken sewer main on San Antonio\u2019s South Side - 550 KTSA",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1N6a3p3aUNtWlRxanh5UDhGSzBiNTJRNmNpc04yU3VWdlkxSDY2MFBTQ3VBWWd1YmZnQWx6YU1PcXFPUEg0Nkl5NUR1NGRkSFZjWGYtQXhhbHZYQktuYlVIVmwwNm84VUlTeW9TanhWUm8tRENiTVRSU25Yd0dnUkQ3V3EwUQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 11:08:00 GMT",
-        "source_url": "https://www.ktsa.com",
-        "source_name": "550 KTSA"
-    },
-    {
-        "title": "Bexar County Department of Military and Veterans Services expands throughout county - Community Impact",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHRINkVTWHF3Ml9FWWl5YzBpRGJhSnVjb2h6NTVqSDdxQkUtTTVEejNFX2lHVWhSTWxTTWFBNUxnUkVOYlhKZVZuNml1Tm1Ebl9leXpiS1ZEXzJyT1poZ3ZTSnk2djdFX0RQaVRjS1hjcURSS2l2S2xYN3FadVZ1TzREenBacnRORGFPVUZpMmFFbUg1ZmFwNXB6ejJWVzdSSDllNFdLdmFyek0wWExXV0Z6cElRa25lWENIakVVcjlxcEhCWktEUzVkdzBUNURKeDhwWWhGcHpwQlN5SHpVTFJleDNkQTQwaDdvMnlCZGU1eTh6amhV?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 06:00:00 GMT",
-        "source_url": "https://communityimpact.com",
-        "source_name": "Community Impact"
-    },
-    {
-        "title": "18-wheeler catches fire along I-10, shuts down upper and lower lanes - FOX 29",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnp4bVBxeXZLQ1h1eS1JaUNrdUpXSlBaYmxVR0tMTG9aUjFKWFBVcXBQMHBDWEFrdzB3TnljN0NfbThyYjNIZWtLZUFLWEItOG9YVHJfTUtib1Zaclp6bW5LMXl0dDhQdXlaQmsyQ0dFTnYzQXZZOEN2MEdJZDd5aXpxSnFJWFphS2JZcV9yS2ZFVkJpb0Y0MmxrblF4TDhVV3BSTjBQUmVyalp2TVRF0gG0AUFVX3lxTE92UTZZT0VlNXFjSmlCTTZVMHRSd3hTYjZKUm1sTUkwY0R5aExMMS1zc2s3aGZPLVVoaWE3dURhM2t2RTRxMm14bG0tUVgzbmpUS3JsLUxfVm1sMHJyV0JJYVJWZi1DdGMydjBsY0RSdHNvdkcwSk9rUHBHd0stTy1LQlJsOG11WGw2VVAyVXlwcGFFRHYxbjd0ZGFiOGRibjNjdXc1cEN2QTdJYWtVUmlBRDgwRQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 03:06:05 GMT",
-        "source_url": "https://foxsanantonio.com",
-        "source_name": "FOX 29"
-    },
-    {
-        "title": "Jon Gary Herrera named new VIA Metropolitan Transit president, CEO - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGNYSFF2ZGhkc2thQTRJSFBjaFplaHl5dWZsNEZTMzc4dVB1Q0ZrQmtrel9mdGltNUY5MjdXb1gxZFJBc3B2NlZTNmhhNE8xa3Iya012a3ZJVmdvRUktdkxiMWVUZGpWVTZJQWFBa1I5a3JUSFNtM0ZaWlZvajhhVl90MXU4VzV5ZTNMeS1EU3hkcE9VVlp4OG03UU5ROXY3a2E2SmVyNWVpal92alE?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 17:08:53 GMT",
+        "pub_date": "Thu, 14 Nov 2024 21:03:18 GMT",
         "source_url": "https://www.ksat.com",
         "source_name": "KSAT San Antonio"
     },
     {
-        "title": "Where you can see holiday light displays in and around San Antonio this holiday season - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNRENtbDNnSHE4QzZWSnEzc1g0bXVjZS1uRGhjbGZNbGFIc1c5YkZ2MnVsVEwydGJ5aTFPUERmdlE1RUhDcHN5V3J6Ym1OcEFteUxOTXEycEVzbjRCdW1Palp2MVdzMXpLUjVCZ01BMG51alhlUHp5ZXRWdnNCVkdzM05NMk5LOWNzWXBBOEMwN3JMVUFnZkhIamJNd0hrRVB2RDZGeGdpOE1rRVJzR0FoNk1ib2dqNF90R1NsUElmYW9kVnh3RzBDLURPbjBsZlkyeUt5NGNhTmZPSDF2cS1RM2dLQ0JGQTVyWTliQzVqS050ZFZ3emVpS0R2c3NuUGNUVldzMHlpekJBYy11NjRwM3ZreEtodEdwYzJiYlRaaHcxaTNoQl9YOVNPM0kzeEpMRVVEMWk4RkpOeVZUaG1NRHk1OGRsQQ?oc=5",
+        "title": "Final entertainers announced for San Antonio Stock Show and Rodeo - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1NuUk5rWGhnRHRfRmNTUVNGRG5KdE5ob0VYNXI3SWJnQWYycE1wdlZaM2R3RWtaQjBDWTFkU1hsSHoxQjZJQmJpLXZ4RFp1NGRHcXJHU0o3RWlnRnJNd0JCczJDMllmeS1VTkVYR1hCa2psSUFMRzNDQmtlT211NWFNV1g1OTMwTjZJcGcteHFqOUpkLWVjYjdiVzVSeVVoMFRBTUlCTVRfbVdFLUl6VWRGNDFGMmhwb1NDUUpsWndGazVnNjFva0R0Ul9GeVFCVk9IaWJR0gHbAUFVX3lxTE9TcDdVZDlqMjVibVkxZzV4UkZmeTI0NzhaaU95UlJra3ItSDhjbVhKSGRrWEQ5eGRyVFZiOTd6M0NaazNKZFdmUGxfalA2Q0g0c1BrN0IzYkhUSjdBb3U0UzJ1VFVsYUl3VVVzZjNVaXNZZFRkWlBTUlE1Y3MwaTQtd3hLS2ZEQW92cENoT0dNeUh5LTNrMGFBR2IyUm9BWllRMWkxNVFPeU9vc0ZDaXhYSFV0MV9HdTFtWThNdDUzdkNpM3c4blVzT0RwWjNsbC1LRm5sT0pkUmk2TQ?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 18:24:30 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
+        "pub_date": "Thu, 14 Nov 2024 18:53:37 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
     },
     {
-        "title": "Chicken chain Huey Magoo's will open 10 San Antonio restaurants - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmVjMVk5bFktXzd6N2pFT09zQnZ6WG5TNmM1WkFUMVdVdDFGREJpSkgwa2VwSUNYSWtoOU5OUXBaaFBFbDZfSGMzeW01SnNUNFVUVEZndklSUFdKZXBQNmZjdGFwQ1ZYZERDRjU4WU5XSTJCcWh6MFVBZUxTWkxGVHg3N193NC1wY0ZaSlB1NmVzNDNTSmhieEVhZ19ScW95TkZCaGVMcTNGUXV4?oc=5",
+        "title": "GWAR frontman talks about his love for San Antonio\u2019s weirdness before upcoming show - San Antonio Current",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaDQ1bzItcUVOWEsydjUtclpOcFRVWFdnVEEzS2FfSzhOUF9Hakc2RU1EQUppaFdNT0xxTEZpY0FqbHVKMjRkN0hIdzFET1Bvb0FUdWdnSmNOY0FnNkFpZmE0dnBkNGpxMXdVelRaYW5FdkRrU3NNNENwbVVrRlBIWVFIZmJFSThoYU13bHRDTTVqbTFIczJuNnNhRHdSRzY1bFFZc1laMlNib21hbGhTUTRERXcyLVZBSEs1NkpQOFE?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 22:22:00 GMT",
+        "pub_date": "Thu, 14 Nov 2024 18:44:00 GMT",
         "source_url": "https://www.sacurrent.com",
         "source_name": "San Antonio Current"
-    },
-    {
-        "title": "Global consulting firm says it will bring 1,000 office jobs to San Antonio - San Antonio Report",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmgtbU16OWFmWG50OXM0UW9ZeGZWWW9IUDYtTkI0WXR5bmZmVHBuTFBpM0FLaWxQblRpOU9ZRjcxUzFYZzZsdWVEOUlwaDdkQXFwS2tRTGZ4NERWMXV6NmJPb3k0UTduZjlCVmxkM05waWhzR0ZIcDhUbzJhVjRONzRxVV83Vlp0?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 12:00:00 GMT",
-        "source_url": "https://sanantonioreport.org",
-        "source_name": "San Antonio Report"
     },
     {
         "title": "San Antonio-area earthquake felt for miles across South Texas - mySA",
@@ -288,12 +112,220 @@
         "source_name": "mySA"
     },
     {
-        "title": "SAISD hosts safety meetings addressing gun violence concerns - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNGxkQVdjNTUwVWtZcHVEbVhXbXNjU0dlTndmdC1nU1RJeXhJVExVdzluR1UyZVdFVjdoclNRLUQxV0pCUXh2MFZsbGJRWTlVeVZtVXI0d1BhbF8zTjEzM0d2dVBTd2FiSFNlckdVQXVoenloYUJDcEVSNl8zZkNUNXJjSG5vQjBSY2RvOHlHVFJwWTV2eTVnaVE2LUJvNExWUE5jbk1lb1FLZUZ1cXZsSlA2R1hUUUlQU3VaNWs0c3I3cGx6R0ZGTjl5NDNDZUs1SDY0QVdYYnRraUNDNndtbTFBYzFNS3VpZjhMa2FBRHlJZWJs0gH6AUFVX3lxTE02Z3RHU19XXzRpWmtXa3RsWkJ1LWthU3VXbkJrWXFoWUlfd19jOUhOVkVZbU5CWWNteEtkeU5YV3RMRE9xTHJKSHpybzZWTW5aeWdNWDVBbFBJcXptRHRxYmgwYVMyNlcyb1lQYTdFeUtpano3b1hSekxPSFczVG96RVNnWG4tUUNJaURjeU5GVlFWVWkxVjVaOVdkbmYtSUZLdDhVR2tZdldwcnhibjBwbUliUGRxY2d4MHdpaEV6b0xrZThyWmw0b3dVbVZTYkpjUFlRcGVWQ0cyX2tjeEk3aEd5X0RiSTBOZDhLTWpjNkM3ZzFBSUQ5a2c?oc=5",
+        "title": "Yelp reveals San Antonio\u2019s top 20 most popular restaurants - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2pKcEZzNWVmZFIxVHBsQW8tRTVDV3NVOUVKai10XzYxbFBCaTJCZ29EODBmUVlUS1hhc1lsM0hlTnVFQ0gwUkR2NnhDbzJCZVVEZ0JkU2hNckRVYmw1SjN1LWMxa1ZCeVZXMDhSU1lPaHlTdE5CVUVZZUFUUjBFczd5eFVxUVNqTGNiQ1FlX3JjMVQ3SDFaMG9fVlQyTkxSbXlzanAzeUJ4NTdTRktMZnVDVXlCMW1RNkpFejJael9HX1h0?oc=5",
         "description": [],
-        "pub_date": "Wed, 13 Nov 2024 17:38:03 GMT",
-        "source_url": "https://news4sanantonio.com",
-        "source_name": "WOAI"
+        "pub_date": "Thu, 14 Nov 2024 19:57:47 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
+    },
+    {
+        "title": "A birthday bash, Black Power and Sunday morning yoga in this weekend\u2019s \u2018Go Do That!\u2019 - San Antonio Report",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2s3Q2xVNV84S3ZsNXkySl9mRWlzaWYtVUFfQ1B0MWx0WXh5QXk4OTUybzl3aU1wdFBYc0tja2dVSHNCUlFQWnFQeGVCcXVNOWhNdzNqamdTa1FxUGVyaXdvUmo0VVVCT1psQWFOb2I4S2xjQ094azM2M0RSOUgxQ21fRWZyQWM4VTdxQmZaNnI4U2NiMVBsLTZIRXpQdDQ5V3h2WEtqV24wVVM1aGpkd2VB?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 18:00:00 GMT",
+        "source_url": "https://sanantonioreport.org",
+        "source_name": "San Antonio Report"
+    },
+    {
+        "title": "'That's our San Antonio': Secrets behind 'Say A Little Prayer' movie - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmlMcHFXX04wbFBQTlJpYXh3eDhldWkzaTBPMU1VMm0wM2wxNTdwNEtJSW1qTXNrZ0tXNE4xNnZ3MHFiVGdKWkxOTlk1YWMwYkpUYU1uSGJWS01Jbk92Q3JVMjR5SWZUcDJ0TjVCMHFXOFViYzREamRVNkJLYVFaSTZtdlQ2UnlxRUZtdGRieGUwSEM3cVUwSGJmUHo4MzcwNnc?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 15:15:32 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "San Antonio veterans receive new cars in Progressive's annual giveaway - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnlpM2NjRjE4QzMwRkllUDBMdXJYVXJ3OThYS1BCeUdLRS0yVUl1Sm1pUnBNYVV1c0hFMXdCSUU4NTN1Y2RIal9sdU01WVlIVHlHSlFJWjM2VFl0MVhWbHNpTlhQdlAtYzV5d0pGeF80R3J6VzJ2X2lObUllQUNNSUxLOUxoOEVOWkdvTzZfNU9CVmQ1NGpUUk1QVmJ5djRhb1J0cENJanlTRkN0M3d5cnV1WUhnaHlqSXVZ0gHAAUFVX3lxTE1iX3RfMExrRFBKd2g2TmJ5ejI1SXRDTzI1VEREQ3FldExrNmE1MFEwdmFaOXNRenZGc05GS2dfNXFHYXl2ZUhMenlSSGg4d1cza2tqWlk0LXBCQ3ktcmpxUko5dVJfdmVNY3RMSUNwN0dZMjd2ZEN1UVVHYjJUQW9RcGUtVmZfZHJEU3VaaUtDQ0Njc1VfSnR1dWhkZWlYSldUaGJ1d1JfWDdVbTM2WkdoZ3owNDAxSUloR1JXc2VWYQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 03:11:15 GMT",
+        "source_url": "https://foxsanantonio.com",
+        "source_name": "FOX 29"
+    },
+    {
+        "title": "Timeline details Brad Simpson\u2019s whereabouts before and after wife Suzanne Simpson disappeared - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFllSm85czZ3SDhhb1AyNDhHVkxXLTJNM0FLUEFJWkFpa3RUVUdvVjFEREpuWXlJVW5zLWhkUTl5dkFGM0d5MmpMV2NEZklyQmtZT1o3RDB3YWZIZkFiRDVCLUNKX3ZfakdrbTJvMmUxYmVUZkxSbjFhODJLYnBzVDdqemVWcjk3OVZEd2dvWUgzcFhORE5iWTF0c3BSRm9CT3dONVpteXFGWlpLOE1adUpIOE1tMzJFTDgzUHlvVURiYllFdndFSkk2MjlsNFFIemtEaWJ5Q0xkRTJJUEpkc3V3?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 12:00:00 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
+    },
+    {
+        "title": "Here are the top 7 things to do in San Antonio this weekend - CultureMap San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnlhN2NtaGdHb29SVDNqbEhVZ3JWUnhHTTFTemtUSUh3SElyenY5TGE0eWhab0w1MGlQTmtuR3I0ZloyNjZmQjMxclZnYm5lZjE1UHNfUG13eGpKTVZ5Y2lKbzJXZlFnSm03LUpHcThqSi1oZzFTZ3BpalNBSERqOWlQX0NQZw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 12:02:31 GMT",
+        "source_url": "https://sanantonio.culturemap.com",
+        "source_name": "CultureMap San Antonio"
+    },
+    {
+        "title": "San Antonio Coffee Festival launching holiday night market Hot Holidays on Houston - San Antonio Current",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUQ0ajVxR0F3cTU1amNBeU1BbWNQMmtucl9RVXVocmVkd01PRWk0YXdVMks4b3VhalV6OVdsVEVEN2piclp6dlFucHFRTTI5UDVVaU5KajcwbkZiamdTTlNBZ2laalZjQ3NoQWluT1dXZ0x5Q0RnQlB4c0M1NmtFc2tRTXpYRkZTN3M2Y1pGdWpEZTM5ekRuWVdsXzlpd0pEQzkzVXZYVnBET0VuUzRvWDVzS1d3Y2J5WVVWbC1GaURETzl2ekRR?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 22:04:00 GMT",
+        "source_url": "https://www.sacurrent.com",
+        "source_name": "San Antonio Current"
+    },
+    {
+        "title": "17 San Antonio bridges are in poor condition. Here\u2019s where. - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkZWTnMwOUZEQ1ExVXhKQktnem1xb0lueWJkUVgyVVJuR0VSem9wVG1sRDRMZkFUSEZXcEQ2SHEtQUFDdnh0SWptSUxGWnVzRGxQejQyd3NEb0Zzb0NNX3hpRjZrazR0T1RLOUFDWnJZUTlGUy1URWFReWV6R1VPMWtmazZfNENzU2JaZmN3VkxFQm1G?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 10:09:57 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "'I'm so grateful': SAMMinistries sees progress in helping to house San Antonio's homeless at hotel-turned-shelter - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmxxei1WRjlrOXVTaVVyMW0tSWFMcEFCVk5LazdveE5UOWdIdUJiMHZTQjZHQkZlY3JXZzk4b0o2eVhFM1BmclMycDl6c21UUFFfTjBSWWY5YWFad1E0MGtGMlZQLXdnWUFmZTMwWnVDVFFGZGZnRy1kTWpwQktMODA2QUszMGYxdGdUX0lqa1FCN2lMbUs3ckdnemNtc2JSRURtMVZCZE9UOE4yUXR1YWlJdVZDNFpGb21SNXBDdWFxN0tseXdvanQ1MGdlZEE?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 01:37:48 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
+    },
+    {
+        "title": "18-wheeler catches fire along I-10, shuts down upper and lower lanes - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDhUQThqM0t6WWVqb2ctQW5tNm4tekZ1aGxLSk1HV3M5dEZKRXZaZnV4cEktMWVRWkpuS01EaUJPRFpzNDA1UlFSMElqb3pfS3VDUDFUY1JPRWxhcVYxTmF1NE90d3p1VmxOalNPelJ5SXlLNzZWaTdxTWJCcHNqOHl2Q3JJXy1pN1R0cThNbTcxZEhxXzd3ZXlLWE5IU2hBS0s0MldJZmh2REhTQm5ITGJ4a1XSAbQBQVVfeXFMT3ZRNllPRWU1cWNKaUJNNlUwdFJ3eFNiNkpSbWxNSTBjRHloTEwxLXNzazdoZk8tVWhpYTd1RGEza3ZFNHEybXhsbS1RWDNualRLcmwtTF9WbWwwcnJXQklhUlZmLUN0YzJ2MGxjRFJ0c292RzBKT2tQcEd3Sy1PLUtCUmw4bXVYbDZVUDJVeXBwYUVEdjFuN3RkYWI4ZGJuM2N1dzVwQ3ZBN0lha1VSaUFEODBF?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 03:06:05 GMT",
+        "source_url": "https://www.foxsanantonio.com",
+        "source_name": "FOX 29"
+    },
+    {
+        "title": "Henry Cisneros' plans for an arboretum in San Antonio's South Side are taking shape - Texas Public Radio",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUowWTNZcEU1aGpKOHFhdmFZQlM3a1BtRVZFbC1pby1xalM3NHhNS05VU3pvc1ltTVVYRF9YZkRYS01EcGJabDdXc0JtbXpLU0FKTEdqTE1HTC15VXhYS2FJQUdmaUExX0RYbW9XeTJGREt6a0w5VDE4T0taV0Z0QmpqazhKb3h0QzZFeWpNSGIwcFVYR0ViNktTQ2U5VUJiRnlBS0ZlLTByV2hnSVBNbFBHblRaMVl4TWw4aHdFUkdyUQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 22:29:22 GMT",
+        "source_url": "https://www.tpr.org",
+        "source_name": "Texas Public Radio"
+    },
+    {
+        "title": "Proposed Downtown Residential Developments Near The Pearl Get Tax Breaks - iHeart",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMk15amRBNHltSWpjcHJIRUF2MGl2RUc3dnh0UDdmOWpVYVZRYl84emRVUHpJempPbm5oZDBKTWFYX0VTMGZnbTN2NjFyM0pLenozd2dMWmF5OHBHY01uOTFKaFZmSElJMFVUMXZzdklqM2c0dHR4YjZ2QXNkMjFiT2taRDlOTlh4UzVLV2NvR0V4VXgwLVl3RE1xc0g3SEZSZGVhdC0tZGEza08tNzUyWHVSVlo3a3RweXFOZmlGOXZNYm82b1ZZeUFvcExQMERwaTR5d3VMS0RjalFmYWFFTU5wTdIBvwFBVV95cUxQS1pYbWMtOXphV3lUTFhRWnNsZTVmcEMwaE54aU1JcTRLNUg1X1NRd1pGVXhrUE8weEJhVFJDR0ZMd2VzVTU3cjdkYXkzdUI2RWc4ckEwNXE4UVFOdms4V3BYeFBOdFR1T1o2bnZDMGR4RldBTWFZdUV1bGMtaHdJMGZfZzJDbmJBVXdCdHRmVklELUpWTkJXdE5TazdfUHJZOEdNY0Q1NHc0VXl5YkRKNmVIZnpReGQ4V1JtaEdJRQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 16:12:37 GMT",
+        "source_url": "https://woai.iheart.com",
+        "source_name": "iHeart"
+    },
+    {
+        "title": "11 essential dishes at San Antonio's Michelin-recognized restaurants - CultureMap San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXNBSjJsX0xPTGFkRUdBZ3FzamwyR3I0b3dCUkhlUDRmUUJDdExVUWVnMzdiZUF1V0dOZUxHaTl5VUYtRElFclZuSlJiaTI2Uk84M3d4aXhsQVotQlVJZ0psQnZSMlMwbUYwMW1MMXB1NnExRThLRjMtdXFxb3dRTWxJbnU5bGtZLTV3?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 18:02:26 GMT",
+        "source_url": "https://sanantonio.culturemap.com",
+        "source_name": "CultureMap San Antonio"
+    },
+    {
+        "title": "Where you can see holiday light displays in and around San Antonio this holiday season - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNRENtbDNnSHE4QzZWSnEzc1g0bXVjZS1uRGhjbGZNbGFIc1c5YkZ2MnVsVEwydGJ5aTFPUERmdlE1RUhDcHN5V3J6Ym1OcEFteUxOTXEycEVzbjRCdW1Palp2MVdzMXpLUjVCZ01BMG51alhlUHp5ZXRWdnNCVkdzM05NMk5LOWNzWXBBOEMwN3JMVUFnZkhIamJNd0hrRVB2RDZGeGdpOE1rRVJzR0FoNk1ib2dqNF90R1NsUElmYW9kVnh3RzBDLURPbjBsZlkyeUt5NGNhTmZPSDF2cS1RM2dLQ0JGQTVyWTliQzVqS050ZFZ3emVpS0R2c3NuUGNUVldzMHlpekJBYy11NjRwM3ZreEtodEdwYzJiYlRaaHcxaTNoQl9YOVNPM0kzeEpMRVVEMWk4RkpOeVZUaG1NRHk1OGRsQQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 18:24:30 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
+    },
+    {
+        "title": "Search underway for hit-and-run driver after pedestrian struck - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzViVVE2VjQyRTlDSElfSHRQdHFmMWMtNFNLelVXWEMtQjdBNkszbnZIZHJMcjJJUWt5aXBTYU5NOUFEamlCQWN6eTNkcFp4OUlHSGl6SndPMVNHd2ptSHNja0ZfMHZOZGROWldTbkVSXzltbTBNc0xybk5PbjAxLWgyeVMtekFvd3Uzb1lFNmEySUdhQmRTNUdhT1JCeFZZZ0RLMFJJYm9pX09IQWl6UGExcnBYVGFMLUl4aWVzc1JMXzdRbEpFekVDamJlX0ktVTZwbtIB2gFBVV95cUxOSWxHbHhELWhhLW5iTXYtV0NPLU9UaFktMGFNUFltaWE4Y0lfY2xmb3hqVmI2Smx4M3h4clhWd1ZMbnpJZG5JTnlVSWZ4M2JtZW1BZENROW1fQmNSYy1tZ0hBMEJjbXBlREVNZTdQRm5jVk0zQUwyY2d0cjh3NWJESU8yb3l4S0Q0VXFGa3k2eVl0ZnkwbjJIN1NJZ0t0enVBck43clB2cGw0MXpxZGt0RmJmcW1LZWg0OXZsejdMME9XMG43SlViTU5sbDREWXBSdzZDa254cGV4UQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 21:55:54 GMT",
+        "source_url": "https://foxsanantonio.com",
+        "source_name": "FOX 29"
+    },
+    {
+        "title": "San Antonio symposium explores the future of small Texas towns - Texas Public Radio",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenRnUE1uM0JMSnp3WXpDMjkyU2hxTmI2cXhvMDlGdTR1MnpWUE1GQXp2OGFWdDZQWC1IdS1BS0NGUXptMnlTbzBPX1FfSFE4bnAxRk4yQ1E2T3lBV0Z4MlhIa2xSVXZTM29jNW5jSlhTbmUxU0U4bjRaYWdSeEJYOEsxRUJuRy1ib0dRRlUwVVFkaEhhNnBJNjBQbFZuZHA5Q295dWNPdlpNSVlqQmtwZQ?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 00:09:17 GMT",
+        "source_url": "https://www.tpr.org",
+        "source_name": "Texas Public Radio"
+    },
+    {
+        "title": "Founding couple behind San Antonio's Bakery Lorraine have left the chain - San Antonio Current",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXpWYk9DM0VLOW5XOHNMWFVxS204QUZjVnFLS09rRzVBbC0xaDY3cm1mUmdPX3VlYU95VEJ4d2VYU2RHVVBxMVpGelVyYmdGWmZjYTBoaTZBNy11OTBhdVNIR2tfMzRndzdtYUVzZlFiMm9scDlpNjU3UldQZTJMUmo5TDd6LTU1V05kdTZmdV9Id1NmVm9iWkJPUm5QUTQ3RkxRQ0JxRjMtSko2Y2FzVmZvVDMtcEVB?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 16:16:00 GMT",
+        "source_url": "https://www.sacurrent.com",
+        "source_name": "San Antonio Current"
+    },
+    {
+        "title": "UT Health San Antonio ranks at the top 5% globally among universities for clinical medicine research - UT Health San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGtBdnJoUXVKalhRdnlkcXYwSnRRemJsLTd1YVRySmhXbG5EZUxnVGVnOEQ2NWRSXzBaRWZjSUxBOFJEb3BibXJKZjBLU2lyQVZSMGFJVEVrU2kzR2FsNEkwbWtBb2hNelhhUDRILVl2MTNjVGtha1FwYjQ1OHRJeXc5amVvMjNmcG9feTA2TzcxNkZFd1VKVUtuLVA3XzdmZnVhTWp2c2NYNHdqcXpoaERvcEQ3eHhVbkFUOE9IeGFaRjA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 12:31:06 GMT",
+        "source_url": "https://news.uthscsa.edu",
+        "source_name": "UT Health San Antonio"
+    },
+    {
+        "title": "'Joe Pags Show' canceled by San Antonio radio station, but you can listen here - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmhxNGRPOTlOVTNTaEVJamRCZDh5ZFp6V2QwOXpSdlhnR2JJY3B0UkhWZm9NTFM0eDhaem8yMlI2V2hjcTVUMkt4dWJNZnd6Nm9tc3VmN3NUMnJSbWZsY1hDUWV0YllyM29UYXExcW9mbHZSQmx6bFlpSV8tcDBweDVnZThMUGY0?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 16:53:15 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "Major crash halts traffic on Highway 281 - mySA",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2hwSmJESGpRaTVjYnFWUUMyTVFCSjgxSDdod2JfWk5TSmN5dVZPMWlGd090SkVFZzVEc1ZsUDFzREFycjdyQl96YktzWWQwLTcxMGVISnc1Ni15bmpPbkJfOVpDMmZkMDNHc0x2T0ZpQTR6Q2pXOFZNUVdNaDlNbGE2RTZObXp2QkhxcXh0SFo?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 15:00:22 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
+    },
+    {
+        "title": "San Antonio HEB sells $3M winning Mega Millions lottery ticket - 550 KTSA",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWElrcE40OTkyeDE0Tkt4aDE4bkpnRzc3U2s2dkpwRjBKalhKdm9fS3ROOWN1SGhGMnJvczE5WW1uMGtuZHhPZEY4dnpjdzhrWHg5V1BvUWotQnlabWRnMExvU2hsc1lpRm1jc2FMM283bEVQMHdDWTBNZzMzY205QVlreURVWGtzbXRR?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 12:14:00 GMT",
+        "source_url": "https://www.ktsa.com",
+        "source_name": "550 KTSA"
+    },
+    {
+        "title": "Chicken chain Huey Magoo's will open 10 San Antonio restaurants - San Antonio Current",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmVjMVk5bFktXzd6N2pFT09zQnZ6WG5TNmM1WkFUMVdVdDFGREJpSkgwa2VwSUNYSWtoOU5OUXBaaFBFbDZfSGMzeW01SnNUNFVUVEZndklSUFdKZXBQNmZjdGFwQ1ZYZERDRjU4WU5XSTJCcWh6MFVBZUxTWkxGVHg3N193NC1wY0ZaSlB1NmVzNDNTSmhieEVhZ19ScW95TkZCaGVMcTNGUXV4?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 22:22:00 GMT",
+        "source_url": "https://www.sacurrent.com",
+        "source_name": "San Antonio Current"
+    },
+    {
+        "title": "Bexar County Department of Military and Veterans Services expands throughout county - Community Impact",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHRINkVTWHF3Ml9FWWl5YzBpRGJhSnVjb2h6NTVqSDdxQkUtTTVEejNFX2lHVWhSTWxTTWFBNUxnUkVOYlhKZVZuNml1Tm1Ebl9leXpiS1ZEXzJyT1poZ3ZTSnk2djdFX0RQaVRjS1hjcURSS2l2S2xYN3FadVZ1TzREenBacnRORGFPVUZpMmFFbUg1ZmFwNXB6ejJWVzdSSDllNFdLdmFyek0wWExXV0Z6cElRa25lWENIakVVcjlxcEhCWktEUzVkdzBUNURKeDhwWWhGcHpwQlN5SHpVTFJleDNkQTQwaDdvMnlCZGU1eTh6amhV?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 06:00:00 GMT",
+        "source_url": "https://communityimpact.com",
+        "source_name": "Community Impact"
+    },
+    {
+        "title": "What's next for SAISD in 2025? - Texas Public Radio",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUZfQU5jaG1Hc18yR00yLWtDY2xyMHViMkx1WG0wRnI1WEJvcGtCdUs5VGFNekJzVS1JUkNqREFyYmxxNTJjR0dVZy02U2FSQTZxbUZISHA3Q0JSTldaLTlfWlAtTnlMQktyeFRtTTBCank0RnI4WDI0WlNFZC1rUXloME0?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 22:03:54 GMT",
+        "source_url": "https://www.tpr.org",
+        "source_name": "Texas Public Radio"
+    },
+    {
+        "title": "Fishing trip turns fatal after police find San Antonio teen underwater in San Marcos - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVp6MHBrZ0oxNUFrRWhsZDQxMkNhcUlQUGVXbEZPSFo4MVRJVEt6UC1wcjJYUVlueE5uVnlLbEljYi1sal9URU5SSTZZRlZmWVBPN3pETU4tU3l0ajhNZkgtQzFaRDlwZlpCVHZvOEFXV3lSczJSdWhfTjM4bFN0TFMwYmp3NEJSVGljaGx0R3ljQThHYXJhYU0wVlpRb29jb2M5Q29ONjV0N2ppa01rdEFDS2paaWRfeVFVaGg0OFpXeWc1UHpLS3pOak9lRWc1RWpzNnBIUUxZSms?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 01:45:34 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
+    },
+    {
+        "title": "Heaters across San Antonio turn on for first time this season - FOX 29",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmFkLVhUeXZpV3dKNkM0WHhaVUxuTUhvYVVvZVNWekJtX29Gc2s1bUM1Nk9fR1F6NWl0MlpfRDFyeXl4UEdUM1BURXl1QXZSdWd2Mm9jTzZyd1VDSUJHcUNhcjFJcjNrcktCT3R6QkVHZHVmejljR3RSUTU3NjE4N3FhTS1MeTg2S0RveWZsdXhVZFcxaFdMSHlfMVZ5bFVORHNGZEJBeHRDNXVNTkRj0gG0AUFVX3lxTE1CYkppNGV2Z3BIODMyTXBDZDZnaWtTMnRkX0ttR2ZWcjR3VnA4NDZ3YkU4WHpjeDgzdGxtZV96SzVoMWV1bmNSWW5KVU5MdmhfYUJQaFg1UThxWlFVdnZULVNvVElpbGdNRTlzcTczclU4Z2FJLVBZd2s0ZUVQa3dpbktXUVZacWNKT2ZRb1VRNkZWQVFRT0xXZHo5V2xTdERGSTNpQXlWSGxuZS1IdncyVElGUw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 02:46:15 GMT",
+        "source_url": "https://foxsanantonio.com",
+        "source_name": "FOX 29"
+    },
+    {
+        "title": "Jon Gary Herrera named new VIA Metropolitan Transit president, CEO - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGNYSFF2ZGhkc2thQTRJSFBjaFplaHl5dWZsNEZTMzc4dVB1Q0ZrQmtrel9mdGltNUY5MjdXb1gxZFJBc3B2NlZTNmhhNE8xa3Iya012a3ZJVmdvRUktdkxiMWVUZGpWVTZJQWFBa1I5a3JUSFNtM0ZaWlZvajhhVl90MXU4VzV5ZTNMeS1EU3hkcE9VVlp4OG03UU5ROXY3a2E2SmVyNWVpal92alE?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 17:08:53 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
     },
     {
         "title": "San Antonio lacks cohesive, forward-looking redevelopment strategy - San Antonio Express-News",
@@ -312,6 +344,30 @@
         "source_name": "Texas Public Radio"
     },
     {
+        "title": "Lauded San Antonio restaurant addresses misconduct allegations - mySA",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDhZYlRKYzdRSDE0MTVlRllXaDJ0QVVHaExkYXhSOGhGMzk1dVBnM2kyN1V4THZEalZDVFlEY3BnNDRNa053YVpfTEFlSDRTano1QXdBejVsUXczY1Z5ZVpXZ1lQUVhTbTBvV2RyRXFzR3FvdWotNXBYbU5IMXdlX29hdw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 15:45:29 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
+    },
+    {
+        "title": "SAWS reports broken sewer main on San Antonio\u2019s South Side - 550 KTSA",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1N6a3p3aUNtWlRxanh5UDhGSzBiNTJRNmNpc04yU3VWdlkxSDY2MFBTQ3VBWWd1YmZnQWx6YU1PcXFPUEg0Nkl5NUR1NGRkSFZjWGYtQXhhbHZYQktuYlVIVmwwNm84VUlTeW9TanhWUm8tRENiTVRSU25Yd0dnUkQ3V3EwUQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 11:08:00 GMT",
+        "source_url": "https://www.ktsa.com",
+        "source_name": "550 KTSA"
+    },
+    {
+        "title": "SAISD hosts safety meetings addressing gun violence concerns - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNGxkQVdjNTUwVWtZcHVEbVhXbXNjU0dlTndmdC1nU1RJeXhJVExVdzluR1UyZVdFVjdoclNRLUQxV0pCUXh2MFZsbGJRWTlVeVZtVXI0d1BhbF8zTjEzM0d2dVBTd2FiSFNlckdVQXVoenloYUJDcEVSNl8zZkNUNXJjSG5vQjBSY2RvOHlHVFJwWTV2eTVnaVE2LUJvNExWUE5jbk1lb1FLZUZ1cXZsSlA2R1hUUUlQU3VaNWs0c3I3cGx6R0ZGTjl5NDNDZUs1SDY0QVdYYnRraUNDNndtbTFBYzFNS3VpZjhMa2FBRHlJZWJs0gH6AUFVX3lxTE02Z3RHU19XXzRpWmtXa3RsWkJ1LWthU3VXbkJrWXFoWUlfd19jOUhOVkVZbU5CWWNteEtkeU5YV3RMRE9xTHJKSHpybzZWTW5aeWdNWDVBbFBJcXptRHRxYmgwYVMyNlcyb1lQYTdFeUtpano3b1hSekxPSFczVG96RVNnWG4tUUNJaURjeU5GVlFWVWkxVjVaOVdkbmYtSUZLdDhVR2tZdldwcnhibjBwbUliUGRxY2d4MHdpaEV6b0xrZThyWmw0b3dVbVZTYkpjUFlRcGVWQ0cyX2tjeEk3aEd5X0RiSTBOZDhLTWpjNkM3ZzFBSUQ5a2c?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 17:38:03 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
+    },
+    {
         "title": "Enter to win a family 4-pack of tickets to 2024 San Antonio Auto & Truck Show - KSAT San Antonio",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2Q0eWpZNW5kZEZWRTZKWTBRUWQ2UzRkYU14cTBDNzhJaWVkQnFpYnBhX2tsZ2dVTFo5T0xxYXVrWE9SLXlrTHJvdlI5QkNWRFpvbkpta21XbkFuU2d0UDF0ZlJxREZtaWNrMDFnM1VaWVlBUFZzUE1aQ3VMZ0hVWjZxNTBuMGNFSW4tWDRVUmd0b1ZyNl9UY3dxMFRpYm9pa2R3OHhGNTRfTHREaVg2VDlkb1BuUGVG?oc=5",
         "description": [],
@@ -320,68 +376,36 @@
         "source_name": "KSAT San Antonio"
     },
     {
-        "title": "Local craft distillery files for bankruptcy - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzhoNkNpU0hDMWhKZU1wQ2xNeXFHRURFcmpSSmVXbTlnQ2c5OHJmSVdITF93RmlyZUNyeUhmQkU3U2pqeklDaVpkREM3Z3JaRmVjcFNOT0RSZjRTanNrcHhudDNvYXBScTk4c04yRDVwODh1MUxVR3NTekFmZU45NFhnbXNLMFhXRklzVGRaZFZ4dGk4UUJxazFtS1ZEeDZlalE?oc=5",
+        "title": "Faded Culture owners, brothers make the cut at East Side studio with over 1M YouTube subscribers - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3ljQWdkMUdITWMxTWFBVlRsWktieUw0ZExUNXFZTjNTak5DNURncGJLOXV4a09Na2Z3NTRCaVBtOVhJa29UdVVKVjBDNjB1U1F6aHExalR2M1JtZVBUdjkzc0NZSlRwWXNZTEVNbUsxYzFmT1VHcy1YTVR2d0dRV01RNHBmblN1bHpmakI3Wll5N29aT3JaMk05NHdKNEFOUERjZDZwQ1M?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 20:27:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
+        "pub_date": "Thu, 14 Nov 2024 15:35:32 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
     },
     {
-        "title": "Capital murder trial dismissed for man accused of killing two people and setting house on fire - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNU45amhVSEpnYk9Bd2I2SUdNbVQ3MzJFZm9XajhmR1N6UDQ2MndESV95QktYM1ZTZzJhdjFlTllobHd6dWM5dUU5dFVQdUpuUXNSOFZJdnB4a184bmFHQy1UdlhRcXhKRTNKWGdRRVJlYlQ2SXZ3V1FxdTdZZmVpZ1d2aXN6aDZSMVk1Sm8taXdkUzJRYXpYMUo5RkhYR0lPR1VSTkR5MDZJaVNOckJER29jdHVoVGZHQWg1VUxRZm9NUzJKX2p6d2xyWmNLbE9Kc3BvWEZMLUpuRmRHX3c?oc=5",
+        "title": "Greyhaven - Community journal",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSG83QXNsNndmLTAzZHVzTXQ2RV9LRjV0VnZnNjhCUk9PQ3NCTGJXd1RneUd2YU5wWWhMOFhhbUQyTEF5LXEyZk5RZ0xzUTFrSTZldF84UHhvT2huN1JsUHM5QUp6djRCd0hrd3pIUVVmZ2dfS3kxU1ktTVI2VlduZm5QVHd5UzhRUlUzMF9SaTBuOXRKeDdlZnFXNGM?oc=5",
         "description": [],
-        "pub_date": "Wed, 13 Nov 2024 13:21:33 GMT",
+        "pub_date": "Wed, 13 Nov 2024 16:16:41 GMT",
+        "source_url": "https://www.hccommunityjournal.com",
+        "source_name": "Community journal"
+    },
+    {
+        "title": "'We live in very scary times right now': More than a dozen bullets found at SA schools in two days - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2NvczY4eXVDamZnUTNKTlgzbG8yWkY2WVVha2RKaU5fOHdOdlQyNlNnQmF0ZWdDZTVtZFdVUWgyODJsZGxQYXhJODZ1X2xES1hvQWk5SUtpTHZEbTFHSFotR1M4N1JxdTdmSUJBSC1fVlZ3X0dIQ1pVOFZjVDQwQzFweFZmN2hvamJoTFZrODk2b04ycHBTaGljejF1cnlMcktJUlpLam5qMFRqUFlXeEJRT040b0dwVk5YblRjeWViMVFZczRyNHlEVkNoNG8?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 02:52:52 GMT",
         "source_url": "https://www.kens5.com",
         "source_name": "KENS5.com"
     },
     {
-        "title": "Jorge Cortez, whose colorful vision adorned San Antonio\u2019s Mi Tierra restaurant, dies at 81 - San Antonio Report",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVkwUjFZd3hDSDZtYmYxeG5lZVMzTl9CZ3ItWE9wWFZ1VjBndkdXRVBma0hfa3BzaE8wcUl1NEpSR0V4NVZOYlVUZ3owY25FNVMxaTVzdl91SEppWmwwN3RFVWVENURVbmdES0pKU3FjVmtYNXBvLUdFYXhkOEJZcUhFNkdxLVhEelc2c1hyWGp0MkEzRlc1Q1k0azRRLUtvQ01sWEpoeWJwdW9HSTNWaFhfQU04cmti?oc=5",
+        "title": "AAA Texas: San Antonio gas prices down, Texas holding steady before Trump Administration - 550 KTSA",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV08tQllHdS1CcmhLTk9Gb0dGeFMzRTY4SHU1a2xzajQzWDB4M2dHclFFdUE5UDQyeXNfRV9zdXVMb2F3cjgwdEN5SVMtVkhZdXJWMXBvcnltWEhIdE9fZ3BnSWN3UkhkMUV4czlPQkNHZ1liWWRQXzFpdmFua3c0LWs0Y2ZiLUl6cVFlR2tXMWE3THhBeEVfV1d2LThPcEJobnNNSUlLTko2MkhQ?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 11:00:00 GMT",
-        "source_url": "https://sanantonioreport.org",
-        "source_name": "San Antonio Report"
-    },
-    {
-        "title": "San Antonio serving veterans: county commissioner gets updates on support programs - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmk5NDMtODBCQ2ZYTTJMaHY3QVJoaXdSd0ZwODV6ZmtHdTFoZUtuVGQ3SkM0eWlJZzFSbmtNMXNtd3czMWxXWkdzNjN1WnNIak95VEVBSTE1UTU3cUh0dlUtRFM5RXl0SDhIdzU5cm1RVFpkUm9qdGluTEFlZ3YwOVNXa2RzYW9lVG0yUVo5R2E1VFRZa0NiaGtzQ0FNRXlWazZCdUYxMkZPVlBPRHJXRU5zWjhxTURVa0tVYi1hYlFzc3ZiWlBZS0w2YWVIaEhJRHluS21MV0FhanQwM1BCdC1NUlJKTlVrU1hmM2FDV1FKU0JtWkHSAfsBQVVfeXFMTml2QnZ5VUpZTDFFZHQ2RF85THRESjlVTkwwSkNaYWpES1pZd2ExMF9vYkp1SU9NMTJRODMyS3Z0SENoekdkdklFbUVwR1JPYWYzWXJRT3NPeFBSNVZ5YlVfN0FVbE1yMENXTzNiaWJsZE5UWjBRUC0tM2JUcW5lY041dmdTeXMtVURkNFJ2c1hURlBtRTI3WnB1SktzYzRpbTZsT09uVkQ1RWNOcTliQkU5bExPVXlXdERtR3FieFpNZWdJM293ai1FWkVycWtYa3ZMNXpKak95ZmZuSWRGV3VFZWxVdUJiYkt3Q0g1ME1oaUJEd0lSbzlzcFU?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 02:14:31 GMT",
-        "source_url": "https://news4sanantonio.com",
-        "source_name": "WOAI"
-    },
-    {
-        "title": "GWAR frontman talks about his love for San Antonio\u2019s weirdness before upcoming show - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaDQ1bzItcUVOWEsydjUtclpOcFRVWFdnVEEzS2FfSzhOUF9Hakc2RU1EQUppaFdNT0xxTEZpY0FqbHVKMjRkN0hIdzFET1Bvb0FUdWdnSmNOY0FnNkFpZmE0dnBkNGpxMXdVelRaYW5FdkRrU3NNNENwbVVrRlBIWVFIZmJFSThoYU13bHRDTTVqbTFIczJuNnNhRHdSRzY1bFFZc1laMlNib21hbGhTUTRERXcyLVZBSEs1NkpQOFE?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 18:44:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
-    },
-    {
-        "title": "San Antonio symposium explores the future of small Texas towns - Texas Public Radio",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenRnUE1uM0JMSnp3WXpDMjkyU2hxTmI2cXhvMDlGdTR1MnpWUE1GQXp2OGFWdDZQWC1IdS1BS0NGUXptMnlTbzBPX1FfSFE4bnAxRk4yQ1E2T3lBV0Z4MlhIa2xSVXZTM29jNW5jSlhTbmUxU0U4bjRaYWdSeEJYOEsxRUJuRy1ib0dRRlUwVVFkaEhhNnBJNjBQbFZuZHA5Q295dWNPdlpNSVlqQmtwZQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 15 Nov 2024 00:09:17 GMT",
-        "source_url": "https://www.tpr.org",
-        "source_name": "Texas Public Radio"
-    },
-    {
-        "title": "SWAT officer seriously injured in line of duty on why he continues to protect, serve - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVJJcDEwMkJ5c1RadGJaUzRlWWpZMWhOblh2SXNfbE9ia04wOGJKMFlMcFl5VEEwWU9LX3FXbXZlc2hZcWZ3blRiLTZNVXhvZEpERnVNOXJkM0RPMDV5LXdsNkVnVEYzbXJnMWNENkxNNFUxRUdwYkp4MEt6VjJMWUdKUVBzVmdTNy15NTREVFlyZHk5X0twME5NRjZ3X0h0eUJEdmNaVDBGSW50S1hsbjdPWTVOVWpOdmZVUFY4NmJmWTVtZmc?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Nov 2024 11:19:23 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "Comedian Vir Das to bring 'Mind Fool' tour to the Aztec Theatre - mySA",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONW1XREJHRmRwOEpuUEdBNk5Nd0h0TnpWOEJrSVFHSW5FbGVmRzEwMFJZQ0JEN0llbE1iZlEzTnowTTJvOC0zQ1JkbGlPVkpNM2RVdTloalRLNzF1SXZLYWhHSjI1cW5lNE1SbU9rUUpiM2RGelgtWnFZNUNnUDdURy1JX3pmblNWeTVDRzA2cVlEeWN2OWxza2x5T1ZsUQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 10:39:41 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
+        "pub_date": "Thu, 14 Nov 2024 22:36:00 GMT",
+        "source_url": "https://www.ktsa.com",
+        "source_name": "550 KTSA"
     },
     {
         "title": "San Antonio streets plagued by construction chaos, audit shows city lacks communication - WOAI",
@@ -392,12 +416,20 @@
         "source_name": "WOAI"
     },
     {
-        "title": "Mike Sutter review: Dean\u2019s Steak & Seafood pushes past hotel barricades - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXBMYno1SzBWbEZWZl92MURsZE9tVmVOOHlQNE81RjBFektVZzhsNGxaNGFKaXF4VGRMNzBDTzdmUVpKSmVjcHh4Z3U0WjZWcFFGblRZVHBRSWFtVk5zZHRIRkhtb2ZrYTd5QmNWakFGUWlfaWZRb2w1MTlpMS1ESkVJeGhycU1lWVVCZ3pjakF3dVVZaUJMaUtPY3pDemNSbGFydUs2Zw?oc=5",
+        "title": "Comedian Vir Das to bring 'Mind Fool' tour to the Aztec Theatre - mySA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONW1XREJHRmRwOEpuUEdBNk5Nd0h0TnpWOEJrSVFHSW5FbGVmRzEwMFJZQ0JEN0llbE1iZlEzTnowTTJvOC0zQ1JkbGlPVkpNM2RVdTloalRLNzF1SXZLYWhHSjI1cW5lNE1SbU9rUUpiM2RGelgtWnFZNUNnUDdURy1JX3pmblNWeTVDRzA2cVlEeWN2OWxza2x5T1ZsUQ?oc=5",
         "description": [],
-        "pub_date": "Wed, 13 Nov 2024 16:56:38 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
+        "pub_date": "Thu, 14 Nov 2024 10:39:41 GMT",
+        "source_url": "https://www.mysanantonio.com",
+        "source_name": "mySA"
+    },
+    {
+        "title": "Jorge Cortez, whose colorful vision adorned San Antonio\u2019s Mi Tierra restaurant, dies at 81 - San Antonio Report",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVkwUjFZd3hDSDZtYmYxeG5lZVMzTl9CZ3ItWE9wWFZ1VjBndkdXRVBma0hfa3BzaE8wcUl1NEpSR0V4NVZOYlVUZ3owY25FNVMxaTVzdl91SEppWmwwN3RFVWVENURVbmdES0pKU3FjVmtYNXBvLUdFYXhkOEJZcUhFNkdxLVhEelc2c1hyWGp0MkEzRlc1Q1k0azRRLUtvQ01sWEpoeWJwdW9HSTNWaFhfQU04cmti?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 11:00:00 GMT",
+        "source_url": "https://sanantonioreport.org",
+        "source_name": "San Antonio Report"
     },
     {
         "title": "San Antonio's St. Paul Square to hold its inaugural farmers market this weekend - San Antonio Current",
@@ -408,12 +440,36 @@
         "source_name": "San Antonio Current"
     },
     {
-        "title": "Greyhaven - Community journal",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSG83QXNsNndmLTAzZHVzTXQ2RV9LRjV0VnZnNjhCUk9PQ3NCTGJXd1RneUd2YU5wWWhMOFhhbUQyTEF5LXEyZk5RZ0xzUTFrSTZldF84UHhvT2huN1JsUHM5QUp6djRCd0hrd3pIUVVmZ2dfS3kxU1ktTVI2VlduZm5QVHd5UzhRUlUzMF9SaTBuOXRKeDdlZnFXNGM?oc=5",
+        "title": "Haven for Hope to offer free resources, services at open house during Hunger and Homelessness Awareness Week - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTVV3bWEtX21rT0djZDFrYzJLNFl0MkIwVHRyZkpkLS1peFBFaUFzYjZEWG5TX2N0ZFZaYmtxN2RXYi1rRmNtS2tfVjk5alI3RE1fYVFCbzg1WHJZWmYzcWtlcHBUeGoxamxYdFZDZUE2NkFwR2ViTE4tdU9yV0pCWU81VzNlRkZ0MzFKVDBNTktDVlcxYklXR2xlT0c5WVBhTnd5ZXl1anRRUTFIS0VtNFl1bXIyWTB2bUI0VXE0OWIwRjNSblZqcEZMRnhiYl84blhTcjlZQ3NUMTJPeDRpbGdOMUY4Zw?oc=5",
         "description": [],
-        "pub_date": "Wed, 13 Nov 2024 16:16:41 GMT",
-        "source_url": "https://www.hccommunityjournal.com",
-        "source_name": "Community journal"
+        "pub_date": "Thu, 14 Nov 2024 11:13:43 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
+    },
+    {
+        "title": "San Antonio police release name of man shot after pulling gun on officer - 550 KTSA",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDdwVy02Uk1JMFZDODFDeVF2b2ZfQmx3YzZ5NFQtazBTNkF3Nk85VFZBekpZaXVPM25GcDd5MkFQSHhKNHRkeXZpSU90Y0xTLWE5MVlLd2dxRnl4cUVUTXZsVWM5ajlPaXZwdm9ZX0hGVnhPejFmYmxvd3kwLVk5QkViQTFra25vc1lmVlI2QkVvMDUxdWh0WXZn?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Nov 2024 13:30:00 GMT",
+        "source_url": "https://www.ktsa.com",
+        "source_name": "550 KTSA"
+    },
+    {
+        "title": "Texas\u2019 housing shortage demands Legislature\u2019s attention during 2025 session - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVGRzMk1RUUE1ZEM5Nl8yWkVrWmx3alRTS0hSS192YXpleVBXcUJDVl9KOTM4UllMdGNIZnl6RjV5MW5TY3BMS3V4U0NGdl9ST1FHb3B2akxsNWNQb3NFdUFsUWJDc2tMdmRYRHp1OE50ajN1VUdYb1hCYjNiM0dmalpaQWxsVXFQa0g1OHhWb1haR09HRDRqN3VMU3dLbDNmUXR3?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 10:35:04 GMT",
+        "source_url": "https://www.expressnews.com",
+        "source_name": "San Antonio Express-News"
+    },
+    {
+        "title": "SAISD to address community over downtown baseball stadium development - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSkZ3RWdwRVR2UUU1SENGdWt0VDZMN19yMklYRHBXekNpTnlEX3ExeGJmWk5zcHFBdnFBM3hWTk9SNVhFTFowdk1oYUl6TDR0V1lJdlJiTUpCdWFiSnlxdng4MHZTU0pDOXZfRDFYT0FQUFYwMWx5V2V4YWdhUWxCX3JQRXVjNk9tNGtvbEZQZ0wtXzNDai1jMDZwdlUzOEZWdEsxamZkcjhpN250eEtCbnQ1dWtkSmR4VTNadzVUdUQ5VV9iOVZQV2hQRTYzUEVRczAxMWpyOTY2NVRCdzlwNW9B0gHnAUFVX3lxTE5DWXV6Z1ZQSEJiSWc3aGZkd3BENGhIOUVhVXF4VUJCMVRsNUdhaHkteS1JTmlxMTdyU3pERTE5VExpd2tpVTU5cmtlTlkxcGtIMjN6c1JhSlpNOHkwRGNlSmNGZUFjV2ZzdTc3WlZVcktHZFFUY3drVGlKZ09YVXVNZUJiZThHY1NucTI4YzI0S1lPMHRsLXB6ZkowTEdIZDRNOWp5Y25QTjN2Yy1BeW1EUklQcU9pc0hidWFDVU5mS0JucE0xdzlGdm1Td3RhcmlLTW9yeU5sZDg1MDNVTlA0ZmtZQ1Nobw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 15 Nov 2024 00:33:32 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
     },
     {
         "title": "As Port SA refines its ambitious vision for a world-class innovation campus, a new award adds validation - San Antonio Report",
@@ -432,44 +488,20 @@
         "source_name": "Community Impact"
     },
     {
-        "title": "Search underway for hit-and-run driver after pedestrian struck - WOAI",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdENRcWFhWUNlWnd1akRjOUVTdVBEdGhQYnN4UFZKaWJuTWdod0xuS3FZTFlPalk3UkRhRUlaaFlLdW45SG1uVlhCbF84OWswY1EzWlAzMG1xX3R0bHpRazBUS25nTXIyTEgtVWZNTHpwUko2NUdmRGtFMG1pRDQyQlRZeDlSMmh4djg4RWpKVi1Sa0x5Q19MTFBMOW1nOG1QeU8yRWh6bmFOSTQtRm1LUmhLVDR5UmxhUUVkSjE3LTdNZFd6OXhubTQ2eWotdWvSAdQBQVVfeXFMT3dwb29Lb2FTS004TUZQeHFzTV9CQmtVbVBCaG5WX01SYWJsV1RiRkZLWnRPR25nVzIwQ3dwNEtpc1UySFRWZWsyWWFMSjZwQzB2U0doTWE0Q3YtUkU0TURLc19qZ3BCc2FZbmtUSTZlXzRDZGxyMlYyRXY1R0dfdzlFSmhWSkZybTVOSEMta0JESkttVDhTcHJGNlVJQkNTQm15czZLcXhLNVpkQy1leG00Q1l3SEd0b2s4TmRESzkycnFzR3psUWhrNTRGcGNMaWJGbmc?oc=5",
+        "title": "Crash in the middle of I-35 halts San Antonio traffic - mySA",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDlsUEN0MTVhYWhUOFVrMURHNDVOVnhZQVM4eUF3OGl0V0puZzRPU29xbnF1Z0V0bHZ3NC00SWtFbDhxZkNpT2stbTB4YzBvT2pSQ1hGcUw2Nk1qVVg3S1pEWjU4MDlQVWp1cVhDTHZJZy01M3NUZmpuQVgtcldVX2l3MXdUekVfYkdIOEx3?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 22:12:28 GMT",
-        "source_url": "https://news4sanantonio.com",
-        "source_name": "WOAI"
-    },
-    {
-        "title": "Haven for Hope to offer free resources, services at open house during Hunger and Homelessness Awareness Week - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTVV3bWEtX21rT0djZDFrYzJLNFl0MkIwVHRyZkpkLS1peFBFaUFzYjZEWG5TX2N0ZFZaYmtxN2RXYi1rRmNtS2tfVjk5alI3RE1fYVFCbzg1WHJZWmYzcWtlcHBUeGoxamxYdFZDZUE2NkFwR2ViTE4tdU9yV0pCWU81VzNlRkZ0MzFKVDBNTktDVlcxYklXR2xlT0c5WVBhTnd5ZXl1anRRUTFIS0VtNFl1bXIyWTB2bUI0VXE0OWIwRjNSblZqcEZMRnhiYl84blhTcjlZQ3NUMTJPeDRpbGdOMUY4Zw?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 11:13:43 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "New San Antonio subdivision residents surprised by wild neighbors - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNRFRlUUE3cl8xb0JoSzF5YjNickpvRmIzREd3YkV5S0tOcDQ0YTJaSWo4dXhnVWxQQUZLMDFCSENKQmMwbzBQWWhJMDJNZHVDbkc1YWZGZnNxUzRsM2VGZ1dVZ2hEUTRFeDBIVVVxR0tjWmEyODFrU1hwS1pDaGhscTBoNjVPNl9aMElCODh3Ty1ZNk1kTTJkZm1mTHFrbVliRW1sT0V3VU1yXzhCVnFyWU1wS0hOM2NLVUN1Vm5XdDRkemIyZUtNTmVTS0Q4dUtRSTNTbmMzNnp3MDVla3N1ckJmd19teVFtazQtN21ra0FlOTNRX001WFoyZW1qV1dfN1JwSVZjTHR6OFRYd2c2amZWUXB2NENSbWJtYldVVUZBODA3SmZmX0FR?oc=5",
-        "description": [],
-        "pub_date": "Fri, 15 Nov 2024 00:27:42 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
-    },
-    {
-        "title": "Faded Culture owners, brothers make the cut at East Side studio with over 1M YouTube subscribers - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3ljQWdkMUdITWMxTWFBVlRsWktieUw0ZExUNXFZTjNTak5DNURncGJLOXV4a09Na2Z3NTRCaVBtOVhJa29UdVVKVjBDNjB1U1F6aHExalR2M1JtZVBUdjkzc0NZSlRwWXNZTEVNbUsxYzFmT1VHcy1YTVR2d0dRV01RNHBmblN1bHpmakI3Wll5N29aT3JaMk05NHdKNEFOUERjZDZwQ1M?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 15:35:32 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
-    },
-    {
-        "title": "Up to $200 H-E-B gift card up for grabs but it'll cost you a gun - mySA",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOUtSbzJvanYyZDRKcGlaRjRtS3l6YVpWeG4tcHBCcDZlZDlHNnFndWR2VTcxUnp4VzBFNE1xSmt5YzNfQ2NBTzBZei1IdU45RmhYQTM2T2lSTVltdU4zd04zTjZ0TFl4UVVYbHliWjR5Z0hIeDNTMG1iQjJSemdHSll1eHNOSnE0TlRic3hHV1Z0Zw?oc=5",
-        "description": [],
-        "pub_date": "Tue, 12 Nov 2024 11:41:27 GMT",
+        "pub_date": "Thu, 14 Nov 2024 13:20:14 GMT",
         "source_url": "https://www.mysanantonio.com",
         "source_name": "mySA"
+    },
+    {
+        "title": "San Antonio\u2019s New co-working collective, Girlss Gone Wifi stops by NOLA Brunch & Beignets! - KSAT San Antonio",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1pGQWV4ZXFlZVJIMlJBaWlyYWZ6dGxzNXp1azFVeVI1UXZCb0RCNU10T2xpOUtnckNxbU5OV0wxY3dzNnpuN0hFRkY0V0NNQjhyTHdYNHBZTEtwNUtHMk5kdUoybldIbkJidDV4Z2JwRGVCcDlDX09qdVVJc1RsRVhIcHVaN3dFT0E4LXBxM2duZU1HUDBrUWhzRWkyRHNUMkdxemtqX3JweEV2bGRLTHBRelNvWjZwQTlOQVcxZmJiR0Q5RTFBc2NlUUw?oc=5",
+        "description": [],
+        "pub_date": "Thu, 14 Nov 2024 21:55:10 GMT",
+        "source_url": "https://www.ksat.com",
+        "source_name": "KSAT San Antonio"
     },
     {
         "title": "Here's where to get Thanksgiving meals for take-out or dine-in in San Antonio - San Antonio Current",
@@ -480,51 +512,35 @@
         "source_name": "San Antonio Current"
     },
     {
-        "title": "SAPD: Man in stable condition after being stabbed in stomach near San Antonio Zoo - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlBKVm1UeW53SW81YnQzTUJMREZHTGNzNmZXdVE0eEtWRVNza1VnWlZrOWpsMl8yeUJVZnJvYjRfd1haZVVDbEU1VDJpQWxZS2MwMXdLZjdLOHZybVRmSFlMWUQyZUJfdHpVM1lSZjVseEVDMnZibVZZNE0zbDhyODVfcGZXcFhyZk9HZ1VtaTlNQ2NwYU9GQmhhYUF1ZzJnMkFISFc5MXFmb0hqclV6bjNXNks?oc=5",
+        "title": "Everything San Antonio fans need to know about Iron Maiden - San Antonio Express-News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdEpva05QM2JUNi0zWFZhUU02c2FkclNVWlNIemJKdUlEaXpzZ1FfNFhQOGhET3Bud2VHaE0zMFlaVE9VUXJCNEh3TWJDMVBXZFRaMGViR2l0Zm1vV1pyMC1zSVg2cm4xRXNhSll3NWpiRkVDX2xVTTVGdUt4b2hCLTZvNHVnZEQ1TFpobHBBWQ?oc=5",
         "description": [],
-        "pub_date": "Tue, 12 Nov 2024 19:32:07 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
-    },
-    {
-        "title": "Comedian Shane Gillis coming to San Antonio in January - KSAT San Antonio",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnRDbmJ5RjduNVRvenE4V3NLcUtxSFVRRW95RE94TUdFT2djQXE2TGYzZUZ6bTVYNzUxS0k5dXoxRmI1UzdVelBkNUY2a1g3ZXZjN3hGM09GMUlNQlFrOHFDa25ZTERFMFU5N0hOSGJqRTM1aC1KeFJURno5M0hDRGxURlZULURoUXg3VFF1WTF3UEF5enBJQzh6NFRGRFdjM3VV?oc=5",
-        "description": [],
-        "pub_date": "Tue, 12 Nov 2024 18:19:34 GMT",
-        "source_url": "https://www.ksat.com",
-        "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "Texas\u2019 housing shortage demands Legislature\u2019s attention during 2025 session - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVGRzMk1RUUE1ZEM5Nl8yWkVrWmx3alRTS0hSS192YXpleVBXcUJDVl9KOTM4UllMdGNIZnl6RjV5MW5TY3BMS3V4U0NGdl9ST1FHb3B2akxsNWNQb3NFdUFsUWJDc2tMdmRYRHp1OE50ajN1VUdYb1hCYjNiM0dmalpaQWxsVXFQa0g1OHhWb1haR09HRDRqN3VMU3dLbDNmUXR3?oc=5",
-        "description": [],
-        "pub_date": "Thu, 14 Nov 2024 10:35:04 GMT",
+        "pub_date": "Tue, 12 Nov 2024 18:26:09 GMT",
         "source_url": "https://www.expressnews.com",
         "source_name": "San Antonio Express-News"
     },
     {
-        "title": "Crash in the middle of I-35 halts San Antonio traffic - mySA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDlsUEN0MTVhYWhUOFVrMURHNDVOVnhZQVM4eUF3OGl0V0puZzRPU29xbnF1Z0V0bHZ3NC00SWtFbDhxZkNpT2stbTB4YzBvT2pSQ1hGcUw2Nk1qVVg3S1pEWjU4MDlQVWp1cVhDTHZJZy01M3NUZmpuQVgtcldVX2l3MXdUekVfYkdIOEx3?oc=5",
+        "title": "Capital murder trial dismissed for man accused of killing two people and setting house on fire - KENS5.com",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNU45amhVSEpnYk9Bd2I2SUdNbVQ3MzJFZm9XajhmR1N6UDQ2MndESV95QktYM1ZTZzJhdjFlTllobHd6dWM5dUU5dFVQdUpuUXNSOFZJdnB4a184bmFHQy1UdlhRcXhKRTNKWGdRRVJlYlQ2SXZ3V1FxdTdZZmVpZ1d2aXN6aDZSMVk1Sm8taXdkUzJRYXpYMUo5RkhYR0lPR1VSTkR5MDZJaVNOckJER29jdHVoVGZHQWg1VUxRZm9NUzJKX2p6d2xyWmNLbE9Kc3BvWEZMLUpuRmRHX3c?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 13:20:14 GMT",
-        "source_url": "https://www.mysanantonio.com",
-        "source_name": "mySA"
+        "pub_date": "Wed, 13 Nov 2024 13:21:33 GMT",
+        "source_url": "https://www.kens5.com",
+        "source_name": "KENS5.com"
     },
     {
-        "title": "Brunch chain Famous Toastery to open first San Antonio location - San Antonio Current",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWZsWVNybjBBNnFRNGV6dFpNZ0VLYUVBb1A4RFpKTFlkZmdXdXhHUFBldGtqY0dIdUlRblZRbThfRXQ0NUliVERWdHFVYTQyN2dRaEFmUy0wQTVKSUtsb0pTR0N2Zml1djZ2VGh4VFZURDY3Y2hGVFZ4UldOdHl2bG5KdW9lX1JNc2xhSGtVZGxpRTNqM0U0RmRBZWJoVXV4Z0JmVWllcEJIU3hldmc?oc=5",
+        "title": "San Antonio serving veterans: county commissioner gets updates on support programs - WOAI",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmk5NDMtODBCQ2ZYTTJMaHY3QVJoaXdSd0ZwODV6ZmtHdTFoZUtuVGQ3SkM0eWlJZzFSbmtNMXNtd3czMWxXWkdzNjN1WnNIak95VEVBSTE1UTU3cUh0dlUtRFM5RXl0SDhIdzU5cm1RVFpkUm9qdGluTEFlZ3YwOVNXa2RzYW9lVG0yUVo5R2E1VFRZa0NiaGtzQ0FNRXlWazZCdUYxMkZPVlBPRHJXRU5zWjhxTURVa0tVYi1hYlFzc3ZiWlBZS0w2YWVIaEhJRHluS21MV0FhanQwM1BCdC1NUlJKTlVrU1hmM2FDV1FKU0JtWkHSAfsBQVVfeXFMTml2QnZ5VUpZTDFFZHQ2RF85THRESjlVTkwwSkNaYWpES1pZd2ExMF9vYkp1SU9NMTJRODMyS3Z0SENoekdkdklFbUVwR1JPYWYzWXJRT3NPeFBSNVZ5YlVfN0FVbE1yMENXTzNiaWJsZE5UWjBRUC0tM2JUcW5lY041dmdTeXMtVURkNFJ2c1hURlBtRTI3WnB1SktzYzRpbTZsT09uVkQ1RWNOcTliQkU5bExPVXlXdERtR3FieFpNZWdJM293ai1FWkVycWtYa3ZMNXpKak95ZmZuSWRGV3VFZWxVdUJiYkt3Q0g1ME1oaUJEd0lSbzlzcFU?oc=5",
         "description": [],
-        "pub_date": "Thu, 14 Nov 2024 15:46:00 GMT",
-        "source_url": "https://www.sacurrent.com",
-        "source_name": "San Antonio Current"
+        "pub_date": "Wed, 13 Nov 2024 02:14:31 GMT",
+        "source_url": "https://news4sanantonio.com",
+        "source_name": "WOAI"
     },
     {
         "title": "$5,000 reward for information on San Antonio hit-and-run suspect - FOX 29",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2lRNXYtT1hNbDFRaktwYzVTekdBQi1NbURuR0VPQ2IyUUNyVWtnSXRaOHdNSG0zS2dSZnlvM24tRmwwY0NBZk83cHdSSUJkaUd6Wkx3bkkwdHdrSGpyLWZDdFV0NDFHZW1FUlFjbHA3dnRVQzk3a0MxT1dxUHl2emsyZXNqb0JDaVNHWDl5dHh0cHRpdjdFVjRlY0NGY0Nh0gGmAUFVX3lxTFBOUHc2cVduTlItSFNqMlRwaDhUMmlfR01LM0xTWURFdU9mVFVUZUg2Rnhxd2pXYXphOFVQQXBpRXUzcERtQ196WHVfekk2UDBHaEhGdHJFT1B1R0hCVE5GYjlPdEhBZXVtYnZvN004d2RabGdhYXJLNFFBNWJDMnJNWU5nSEJ0cEhtU0gxS0F5bkZkdGJyTXE1UVFCWmxleThSc2o4cFE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2dVNjFDQS1MTWVRUWI4ZnpDUVJlQ0FKVXUtZldqUkpUYUxCZjJzY29sMnMxd3FnSk1mdXY3RzgxT0hWSkNIMWhNSjhZQWRsbldmb3dwSURTVGFfbnJBMkwxc0N3QkxlNUdWVjNYazRHd1VGUWZRNGlYQXpBUmVyWHpxcm1xYTd3Y0ZDZ1Y1ZVpSVUxBWFVmYUVvNXJZLVlfUFZLMVRR0gGmAUFVX3lxTFBOUHc2cVduTlItSFNqMlRwaDhUMmlfR01LM0xTWURFdU9mVFVUZUg2Rnhxd2pXYXphOFVQQXBpRXUzcERtQ196WHVfekk2UDBHaEhGdHJFT1B1R0hCVE5GYjlPdEhBZXVtYnZvN004d2RabGdhYXJLNFFBNWJDMnJNWU5nSEJ0cEhtU0gxS0F5bkZkdGJyTXE1UVFCWmxleThSc2o4cFE?oc=5",
         "description": [],
         "pub_date": "Wed, 13 Nov 2024 16:29:31 GMT",
-        "source_url": "https://foxsanantonio.com",
+        "source_url": "https://www.foxsanantonio.com",
         "source_name": "FOX 29"
     },
     {
@@ -534,21 +550,5 @@
         "pub_date": "Thu, 14 Nov 2024 14:43:57 GMT",
         "source_url": "https://www.ksat.com",
         "source_name": "KSAT San Antonio"
-    },
-    {
-        "title": "SAPD: Two men extracted from their vehicle by firefighters after rolling it over - KENS5.com",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1h1UzluX21KU1M2N2hZUmdWVWU2VVNVUXN6RlBGX2xpYnlBdEpEcUl6WThQY2d2ejNza25JeG9qLUxCOGUxakZBMms4MnNzR1lOdGRmRWFqdWdacjZYV0VVWTRtTmlHT1BjWmlyTWwwbTd0Q2w5a0ZkWUtoeDRJX2FfeFE4amVkSWhIbnhvQkRKQlBQdHBnOXNibVg5MjlRRmsyMUxUWDNxZlV3aHgyVENuVERydkM4Q0lZSFd4eHd6T05TczNfTFFTSXEzSU1DWVVKZ3Q4VW43QUxJblE?oc=5",
-        "description": [],
-        "pub_date": "Tue, 12 Nov 2024 12:12:34 GMT",
-        "source_url": "https://www.kens5.com",
-        "source_name": "KENS5.com"
-    },
-    {
-        "title": "Everything San Antonio fans need to know about Iron Maiden - San Antonio Express-News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdEpva05QM2JUNi0zWFZhUU02c2FkclNVWlNIemJKdUlEaXpzZ1FfNFhQOGhET3Bud2VHaE0zMFlaVE9VUXJCNEh3TWJDMVBXZFRaMGViR2l0Zm1vV1pyMC1zSVg2cm4xRXNhSll3NWpiRkVDX2xVTTVGdUt4b2hCLTZvNHVnZEQ1TFpobHBBWQ?oc=5",
-        "description": [],
-        "pub_date": "Tue, 12 Nov 2024 18:26:09 GMT",
-        "source_url": "https://www.expressnews.com",
-        "source_name": "San Antonio Express-News"
     }
 ]
