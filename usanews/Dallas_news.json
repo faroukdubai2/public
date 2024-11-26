@@ -1,67 +1,11 @@
 [
     {
-        "title": "Dallas TX weather: Temps cool off Monday, 2 cold fronts this week - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY0pRemo1NjVXUVBCQ2tndVRibVVzSWlnY1N0aGhVRDNmRnlGaHNrSHRXSzRvaWpMcWtpNXJZdThSS25IVDFVY05rRWo5d1JKbktqaUluQUJUZ0lYaFR2UVZycmFWUHBvQTJfVmxlQjlUck1taTQtVW5YVzRPQkdFYkdRbm9DWEdUX3lNMF85WDd6MEZuczdzSFpLWWYtSzd4QjZGb2ZYbHdlYVUzVkpoRTN2bGhESHFBVDlKejQ1bllqTjZJWnVaU1pyX29OY2ZhaHJySlFWNVA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 17:37:03 GMT",
-        "source_url": "https://www.dallasnews.com",
-        "source_name": "The Dallas Morning News"
-    },
-    {
-        "title": "Kacey Musgraves went to Texas Heaven in Dallas. - D Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmhOcVVqbGpiMEFoa2VDNlB3Y0gwaHdUVmZLeERtNExBRTJod0w0NGtvcDMwam41c0xpaUhKWjBDQUYyTVVReHd0UVRvTUIwNkQ0NzBoalpmMi13M05hUXlqYnRvdktmSXhyZTFzUEtqS21FQ1hMTDlCbkZvMTVlQzRxZXEtWHY3ZEpB?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 17:42:58 GMT",
-        "source_url": "https://www.dmagazine.com",
-        "source_name": "D Magazine"
-    },
-    {
-        "title": "Dallas Thanksgiving joy: Long-silent church bell rings after 35 years - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkRvOU5kRlE1MlV1ODVRd3h3TkhZU0loMmpldHZfakt0ZFRxXzF0R0FaekZtZ3B4VHNkZFlUYmVPaGNWc3BLRUQ4bGswc2VNTWhEOEZYeGt2ZXJmNGFYZmxKWjl0VGhTR01UTnhQaWxaWnNDcjFnMXJGay1vSnl5UnRfdXFqU3I1MzdWVGhaSVNvdzBYR0g4d0I1YU96Q3RkV2IxQS1rTEdoSzdLSXVtTTNhNDJJdFB0Rnd6V19kNi1ObU80TE45WHhEMGpOWEnSAeMBQVVfeXFMUHpIQnk3d2o1US05TWVhcWt3NjhlUzNiTGlEVlhRSjBaV21jSVItWUcxMXhfNHNzU2MtRGFGb1djX0xDNHBraG1YRGQ2T0xfM1Rrbkc3U0Y4aEdQOGcxcUJaQjctbGJVWGZfVVZCdHFmV0d6VVl2bG9OOENuWjFLcTNnamtRU3IxVmUwMkFtaFhyZ3JZTjRDenBDeHYtbi1ZdkVuSng0Z3hYZEd6NTRuRkRLaWYyYm4ydnhGSURFM3dxZVFBMFIxY2szOS11TGZWZWRhaTVjWWpadEdyNll5aHNEenM?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 12:01:06 GMT",
-        "source_url": "https://www.dallasnews.com",
-        "source_name": "The Dallas Morning News"
-    },
-    {
-        "title": "Junior League of Dallas announces two updates to 2025 slate - Preston Hollow Advocate",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPN25Bam1NVVY4U19SVUEzUVd0a3o4MXBuTkNBR0wyVEFkcXhNS3JQb1FRRloyeTVOVEdjZllJY1Y1SjFGRnoyaVdybnEtdVRhUGMxOHd1MUtkZFFkT05KLTBsbUc2SkpBSGFPMmZVWFVDSFNCVXhyX3BSSUIzYjd6dEVjcHJrd1VzX0xpOVRLbXZ5a1JxSm5kSVc4T0tNV21BeDlpWXFQSXA0dFpVR0RzYnJmNUtuVVI4N1B2T0dxNTk3OGdNYzVsUXhvSG9vZ2ZmZGJyZXNXeW1aaXI3bDVpOTF0TDFoWEI4ZkwxNjQzNlR2R2RQOEp6Vkw2MA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 09 Oct 2024 07:00:00 GMT",
-        "source_url": "https://prestonhollow.advocatemag.com",
-        "source_name": "Preston Hollow Advocate"
-    },
-    {
-        "title": "Office of Homeless Solutions Friends Group celebrates first year - Lakewood/East Dallas Advocate",
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQb1JFbzVZNHh2ZlNxSFpjNThfWW5paEdBbDB5VWxFeDFDZmJiSzhTWExEc29pQnR5VUdaWVpHUnhtQ19DSTRFbjM2TjBpcmRqTVh1YXBiWjhtUW1iYzBoeERaUm1sZ2hJb2VQRlhUYzkyMmhnd2YzOEVZeExtSWs5bUlNR2VwdGFHTVZUMm5panJhME5sbUtXYU9jX3VXQ19LTkstZFJCNmhuX1JQVlNqZnhGWEZBdzQtTURPT2dRR2VOWHQtdENDbnZsTXhxbXZ6eGNfUkJLYW1TOW5Gdmc0MnR4TGJhUlZrTUR2MHdHczBYLUQtM2h3bHdycXB0alpRLVNaZTZPcHI5NF92SldGQUFYQUo4WlZRalB0OFA3enMwNlU?oc=5",
-        "description": [],
-        "pub_date": "Tue, 22 Oct 2024 07:00:00 GMT",
-        "source_url": "https://lakewood.advocatemag.com",
-        "source_name": "Lakewood/East Dallas Advocate"
-    },
-    {
-        "title": "Birdie's Eastside has a new live music series  - Lakewood/East Dallas Advocate",
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPUDBJZllVZUl3V2kxQmp4YzVzQmZGMTNsb000QS00eVpCYWVDOGRJNGxyYlNsallUQ0lldFZWWjVKeGxDWmE3S0s3Y29mVnZORVNaLUE3Q01lV0RONng4VmIwYk5rdGtTTDNjZm40SXpxV2gyV2JFWHJWSDZmc19SQ2NGckJNM2toYXNSZkh5UjE0SHIwZV9sLWd1ay1PLW04enBlZ3hhX2xlX1U5TWpLVVdtYWVsUW83Q2ZibGg5OGZVRUtBTFE3MU0weVNzQXFTR0d0YmUtbFJhZGloY1lKMEx1RUpaSjIzN1lEU3JQbjhWOEx3TVI2aXNVdmM4YlRmb3dfbzRDejJPU0drY0RNWlYxZGZzaGFVcHh0SV9zbmZPTUlzejRHRktCMkViRkF6VDJB?oc=5",
-        "description": [],
-        "pub_date": "Thu, 24 Oct 2024 07:00:00 GMT",
-        "source_url": "https://lakewood.advocatemag.com",
-        "source_name": "Lakewood/East Dallas Advocate"
-    },
-    {
         "title": "Meet the Winner of Our Dallas Michelin Star Prediction Pool - D Magazine",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNThCSUh0V3h1RzhfcVlxQVpMUjNYX21VT0ZXTkN2QU83QnBNTXNvcnl6TmJJYjRubUxuRWpIaEFfREs1NGNGc19lN3NkbVlzUlJxbkJMOG1kQVZDTUNUWjVkbXZGSDBYQjVSNlVsc1FFRjFkbm5NQ1I0b3BZd3hJMWRSeE1ERUdHTVJNYlUxZV8zbk52eDdjakpuWW43RDNjcVNUMGN0SlY?oc=5",
         "description": [],
         "pub_date": "Mon, 25 Nov 2024 17:33:45 GMT",
         "source_url": "https://www.dmagazine.com",
         "source_name": "D Magazine"
-    },
-    {
-        "title": "Dallas Honors Legacy of Ron McKeown, Chronicler of Texas Music History - Dallas Observer",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXZGcHlOb3ZHTGxQWHhabUNJbGt4MDdaSkZXMjdnalFYSk8zYnVMUWlHTmxqYUVIMko0eHNMZDBxVjR0SHNjcDg3UmFEYUVJb2U1TGpVVUdvb05ub3YzZVZ2WldrYUhJVVZRa3BGUEJlbTg1S2pjRUhnWDJlVEpkSzlvdVlOcGJfRGJLV0FJc2gxU1phWjdMVWpZcVdEczFaVFVaaA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 15:04:05 GMT",
-        "source_url": "https://www.dallasobserver.com",
-        "source_name": "Dallas Observer"
     },
     {
         "title": "The Dallas-Fort Worth housing market is weird right now - The Dallas Morning News",
@@ -72,28 +16,20 @@
         "source_name": "The Dallas Morning News"
     },
     {
-        "title": "THE KIKU SHARDA SHOW - DALLAS - North Texas Daily",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakVmQUlvcEV2S25jd0xPVzF6bFVZMk1Pd3paeW9ySnh0dEE3M1lkUXFpbFIwSjU1ekUwRHFNX2xSR0d1UWNPTXp1MnJEanhjUHFDQzNsR0tIV3ZGX2xlZTJubFR5NXZ3b3l3RVlucFBIeHhrNzdXdnN3d3ZEN21aTEd0Z3FHczRKZERKVkVpYnJYMU9vc3dEUXJxTFlLd3dkYmg4?oc=5",
-        "description": [],
-        "pub_date": "Sun, 24 Nov 2024 22:40:59 GMT",
-        "source_url": "https://www.ntdaily.com",
-        "source_name": "North Texas Daily"
-    },
-    {
-        "title": "Emmy Award-winner Ken Burns to be honored at Dallas Hope for Humanity Dinner - NBC DFW",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9idFloUV9mTS1NMmdWdjAyWkZkSGtpckJJRHd1dFdFMkctMHhBTU9lUkRST3NTQy0wMlFPYnNEbVZ6ZTI5bGNobkxlX2ZVZnVWVXBpZXRCdlBsZTZyZEtXdjhHN0xpQ0U5NlpmdVBJRU55dWo4NkRWLVpn0gGCAUFVX3lxTE5Vcl9UWUpCMno0aE02YTBhYkRfM3d5eERuWGx2czNObzdSNWNCZG1pTnlqZ0Z2TDNoSzUzV01OZkw3eEU2VXZtYy1POWQ2RzFocEVncnZndmkwOEtOeVBON3I3MzAwVGZBRUlzX3VCYzNORGt4ajdhaHFBSWtCZHB5OVE?oc=5",
-        "description": [],
-        "pub_date": "Sun, 24 Nov 2024 20:01:00 GMT",
-        "source_url": "https://www.nbcdfw.com",
-        "source_name": "NBC DFW"
-    },
-    {
         "title": "Dallas Mayor Eric Johnson says city will help deport undocumented immigrants accused of crimes in new interview - WFAA.com",
         "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcWxBR1U2RE9mTTJnMjh4VFdFQWJFcE5LNlFzNDBlcEZhbHpwY254TTlzWWVtQmpab2NzaW5tVFptc1Z0b0N5MlAwRHZKbHFkTWlqNnNvOUhKVzZIc1hJVWhtdnRmeVZkZUFDYlozajJ5eV9KYVNjZFdfdFRESF9oN09DdDhaM3VGS2JTWEFTTFJoeVJJQzJwSnExazF5MXhDcmdpSTFiME5MR2FsenhVa3dZbUVfTzFwSzVUaHI1OU5JMU4tdU9SN2V6ZFZLdmpxbkNIeWRWcVhwVVd3MlljXzczNWlFTEh1eDZZQnB4LXpUckZIZXlEelpfUnNEZXFxc0Q3YW1rUk5HRW81Q2hRaUNQZ0FlTWdUa214VEVvY2FfVjVoUVRqbV9B?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 17:17:21 GMT",
+        "pub_date": "Mon, 25 Nov 2024 20:48:45 GMT",
         "source_url": "https://www.wfaa.com",
         "source_name": "WFAA.com"
+    },
+    {
+        "title": "Dallas Thanksgiving joy: Long-silent church bell rings after 35 years - The Dallas Morning News",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkRvOU5kRlE1MlV1ODVRd3h3TkhZU0loMmpldHZfakt0ZFRxXzF0R0FaekZtZ3B4VHNkZFlUYmVPaGNWc3BLRUQ4bGswc2VNTWhEOEZYeGt2ZXJmNGFYZmxKWjl0VGhTR01UTnhQaWxaWnNDcjFnMXJGay1vSnl5UnRfdXFqU3I1MzdWVGhaSVNvdzBYR0g4d0I1YU96Q3RkV2IxQS1rTEdoSzdLSXVtTTNhNDJJdFB0Rnd6V19kNi1ObU80TE45WHhEMGpOWEnSAeMBQVVfeXFMUHpIQnk3d2o1US05TWVhcWt3NjhlUzNiTGlEVlhRSjBaV21jSVItWUcxMXhfNHNzU2MtRGFGb1djX0xDNHBraG1YRGQ2T0xfM1Rrbkc3U0Y4aEdQOGcxcUJaQjctbGJVWGZfVVZCdHFmV0d6VVl2bG9OOENuWjFLcTNnamtRU3IxVmUwMkFtaFhyZ3JZTjRDenBDeHYtbi1ZdkVuSng0Z3hYZEd6NTRuRkRLaWYyYm4ydnhGSURFM3dxZVFBMFIxY2szOS11TGZWZWRhaTVjWWpadEdyNll5aHNEenM?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 12:01:06 GMT",
+        "source_url": "https://www.dallasnews.com",
+        "source_name": "The Dallas Morning News"
     },
     {
         "title": "What's open and what's closed on Thanksgiving Day in Dallas - CultureMap Dallas",
@@ -112,12 +48,36 @@
         "source_name": "WFAA.com"
     },
     {
-        "title": "Dallas Is an OK Place for the Middle Class - Dallas Observer",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFhkc3J1cUVZRm83Y0gxMTkwZWh0Z00zOXA5WGJ4RlJKMlFSaGtEbjBmSVZNNm03M293eXJ4enJGSlYtbmY4ZHlzcHFIdTUzRGFYYTVwbHJIZHdqMzgtcDRyeFV1VnBjUXRMNjg2emZqblZaMTBGZDRvTWU5b195eTEtQy1QR0wzMU5RV1ZWOVFmc1VBMTVsa3ROZXFvZGc?oc=5",
+        "title": "Armstrong: Gentrification isn\u2019t inevitable in Dallas - The Dallas Morning News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzdHYUNTbGlZQXM0TlV1Zi1Ua0V0NXRCMG9MUnVhWlhZQjVvTmZKRW4tV2JHTnNGRlhjQUVLNzZvNUZLSlF2VERFdWNPZVhoOHNwZW5KeDFaNmxYUW5BR0lzSWJyaWUxbnVZcTVOSllNRHppYkpIMGF5TWNJMXZZOW4xOGNEZC1MbXQybG85Tms2TmF1ZkJQNV9OeW9SbDY4VGlTeFl2V05sTEhv0gHAAUFVX3lxTE5ydzdQbEZZTHh5cVFwY25QcktnY3ZpVGdqRkVxcFVwVEpaQnJNbU8wTXNzdTNVaVhHQnJiVmJjemx6SzNRaEtxVnhibHZnSGhBbHRRU2UwU2xjS0FZdzdBWXE2Q2h4elBpTEplNGRNSExHclpRbTF6VElqbTMxR1BnaHhpZ3FUcTZ5ZXRjWmJmdDJEZ0p6YkZxeUo1WktMUmhKcVVEZ09vM0h6RHl2TTNiMnpNWks2Z1BpT0Zsbk95LQ?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 14:03:50 GMT",
+        "pub_date": "Mon, 25 Nov 2024 08:03:56 GMT",
+        "source_url": "https://www.dallasnews.com",
+        "source_name": "The Dallas Morning News"
+    },
+    {
+        "title": "Grimm\u2019s Toys Recycles Old Toys Into New Stories - Dallas Observer",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcl9McmtnOEhmTnRIQWdjLUhYYVhzLThHN1F1YTVPY2xIZEpLSk9aTTFaMWQtYURMeU5mRmxpTjlTelY3VHVtcVNPMlVMc1h5a3ktOWtPT3IxSjlvN1Znbk9PdnY1aXNLc1BkQVlVeS0yQTB3bWhBSzgteDllUW8yQzlOYkFxTzl0M25Rd1pTUjNFWFlDNjhZQ2FhWGFHWk0wQ1pn?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 19:26:12 GMT",
         "source_url": "https://www.dallasobserver.com",
         "source_name": "Dallas Observer"
+    },
+    {
+        "title": "THE KIKU SHARDA SHOW - DALLAS - North Texas Daily",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakVmQUlvcEV2S25jd0xPVzF6bFVZMk1Pd3paeW9ySnh0dEE3M1lkUXFpbFIwSjU1ekUwRHFNX2xSR0d1UWNPTXp1MnJEanhjUHFDQzNsR0tIV3ZGX2xlZTJubFR5NXZ3b3l3RVlucFBIeHhrNzdXdnN3d3ZEN21aTEd0Z3FHczRKZERKVkVpYnJYMU9vc3dEUXJxTFlLd3dkYmg4?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Nov 2024 22:40:59 GMT",
+        "source_url": "https://www.ntdaily.com",
+        "source_name": "North Texas Daily"
+    },
+    {
+        "title": "Krispy Kreme\u2019s Merry Grinchmas Doughnut Collection arrives in Dallas on Friday, November 29 - The Dallas Express",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk9UNjBENFE3djZiVE1aX0R1VmdQTVZac0ZsMUFfOVBvRHpDVXlGU0JlWXljMENzaU1hOEgzbXpOXzBrc21mUDh3T0pDS29VTHhETWg0aWh2Wm1GNHBJeWZCbVpSV2twdzhyRmxnTjRsZEtrYWxzYTVkN0ZTTmRPR3U0dThhTnhyZGZPRjR5ZV9fTGptWjRPdEh4anlzamwwSEE?oc=5",
+        "description": [],
+        "pub_date": "Tue, 26 Nov 2024 00:08:26 GMT",
+        "source_url": "https://dallasexpress.com",
+        "source_name": "The Dallas Express"
     },
     {
         "title": "Inside Dallas PD's recruiting process - The Dallas Morning News",
@@ -128,20 +88,28 @@
         "source_name": "The Dallas Morning News"
     },
     {
-        "title": "Funding sought for grand Fair Park green space - Dallas Business Journal",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWlpVnQtdFlVNHdSaExhSkJHV0FoS0hEenpXVzE4M3FvRTlPZmtVOXc0c2tHT2VlMXYwSUE3OVFabnF0NU9XcWpGcjJhbXNsVmc1YkJpVTRyS1NaMENQVGFMVklxVGJTd0FCb2RYeENPNWYtNUpfQ2hSMUdxSkwwcVdWMTYxMnBGWWVxYXh6cUprOGV5RTlVLW9B?oc=5",
+        "title": "Kacey Musgraves went to Texas Heaven in Dallas. - D Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmhOcVVqbGpiMEFoa2VDNlB3Y0gwaHdUVmZLeERtNExBRTJod0w0NGtvcDMwam41c0xpaUhKWjBDQUYyTVVReHd0UVRvTUIwNkQ0NzBoalpmMi13M05hUXlqYnRvdktmSXhyZTFzUEtqS21FQ1hMTDlCbkZvMTVlQzRxZXEtWHY3ZEpB?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 12:48:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "Dallas Business Journal"
+        "pub_date": "Mon, 25 Nov 2024 17:42:58 GMT",
+        "source_url": "https://www.dmagazine.com",
+        "source_name": "D Magazine"
     },
     {
-        "title": "Will Anti-Immigrant Sentiment Stunt Growth of Dallas\u2019 International Student Population? - Dallas Observer",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXJZY1F3Q1pSaWY1SEs5WUpjNXdlN3VsZ0FwdXRLT2VpQXBRNXBZWjVBWmJ5cjlvQTRObUxJM0dObERla3N4NDNRVVZFRGZGWGFYeWZVdEtMdkU3Vk9rUEZnc2xiU01CQ2cwbHBFWXU1cnRGTlAyaHVNaFhmd1NiOVdPal90WW5xdUVRcU1ZcndmNHo4QUV5RXdzcGI2cFRIUDdkX0xobVg3NUNUQ1dLbGxsN05fMWtaVW9sYXhvZ1hHQ25GSjlELVNn?oc=5",
+        "title": "Dallas Honors Legacy of Ron McKeown, Chronicler of Texas Music History - Dallas Observer",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXZGcHlOb3ZHTGxQWHhabUNJbGt4MDdaSkZXMjdnalFYSk8zYnVMUWlHTmxqYUVIMko0eHNMZDBxVjR0SHNjcDg3UmFEYUVJb2U1TGpVVUdvb05ub3YzZVZ2WldrYUhJVVZRa3BGUEJlbTg1S2pjRUhnWDJlVEpkSzlvdVlOcGJfRGJLV0FJc2gxU1phWjdMVWpZcVdEczFaVFVaaA?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 15:04:02 GMT",
+        "pub_date": "Mon, 25 Nov 2024 15:04:05 GMT",
         "source_url": "https://www.dallasobserver.com",
         "source_name": "Dallas Observer"
+    },
+    {
+        "title": "Restaurant chain Hudson House to expand to Frisco - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUxVUFRwVktLVE81bUZVWG82X2NDYm5GVl9rWjFNTjJoUUJTOXZ6LTRLcHk0eHNzdTVFaG45QVFmckxEQ3pYOS1MeWdJQ0RhcmdxNENSeXZMVUZuT05zT2ZvZEx6S0tlMGgyR1htbGxPcFFCcjlRajVlc25xRGgwVExYaWxhLUExSmZvNkFpWTVsVmhv?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 20:42:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
     },
     {
         "title": "Dallas' Medical District at odds with city over narrowing Maple Avenue - KERA News",
@@ -152,12 +120,12 @@
         "source_name": "KERA News"
     },
     {
-        "title": "Dallas shooting: Child critically injured in East Oak Cliff - FOX 4 News Dallas-Fort Worth",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2Fmd2ZtZ0hiSkp5U3NDb1NCN0FQczZZcDYwdUI3WmFtV1dVdmhkY1NjVE5zZ2hneHliZHBNWFlrUHVMZ21yXzRLcC1SRHAyMnlfbElQSi1PSFpmYUtFY3YzUXpLMU9xWXJ6bjd1amZWa3JteDZvb0lXMG9HOUd0RjZqTjFwRXhJaFRxLXFB0gGTAUFVX3lxTE9GVHhfT0RiOXIybW1Xb19MSDFLanY2T05Zdzk0LUZ0elQ4cE84UUlQV0xDaEdCSDRQVUtPZnNpMVgyWUNBYThhaVlUYW9CYm42N1pvcjE3RWJPcHNETnlaaUN1YmZ4ZDZqMHByV0ItQm5OZU9jdVNCSWtua3plREpsMXFvSVQtZFhvZnRHUHE1VFBGbw?oc=5",
+        "title": "Will Anti-Immigrant Sentiment Stunt Growth of Dallas\u2019 International Student Population? - Dallas Observer",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXJZY1F3Q1pSaWY1SEs5WUpjNXdlN3VsZ0FwdXRLT2VpQXBRNXBZWjVBWmJ5cjlvQTRObUxJM0dObERla3N4NDNRVVZFRGZGWGFYeWZVdEtMdkU3Vk9rUEZnc2xiU01CQ2cwbHBFWXU1cnRGTlAyaHVNaFhmd1NiOVdPal90WW5xdUVRcU1ZcndmNHo4QUV5RXdzcGI2cFRIUDdkX0xobVg3NUNUQ1dLbGxsN05fMWtaVW9sYXhvZ1hHQ25GSjlELVNn?oc=5",
         "description": [],
-        "pub_date": "Sun, 24 Nov 2024 21:26:18 GMT",
-        "source_url": "https://www.fox4news.com",
-        "source_name": "FOX 4 News Dallas-Fort Worth"
+        "pub_date": "Mon, 25 Nov 2024 15:04:02 GMT",
+        "source_url": "https://www.dallasobserver.com",
+        "source_name": "Dallas Observer"
     },
     {
         "title": "Jaime Resendez Champions Palladium USA\u2019s Southeast Dallas Transit-Oriented Development - CandysDirt.com",
@@ -168,20 +136,36 @@
         "source_name": "CandysDirt.com"
     },
     {
-        "title": "Tantra Speed Date\u00ae - Dallas! Meet Singles Speed Dating - Denton Record Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmpaRlJzbURtVkF0RFFoVzIzT1BRWE5zekJ6VFV5OFgtTm1HY25GOXFqUFFiQ0FfS1dad1hfLXY3WVlYV0xUeWRhcUI3VjdGc2s0YXFXQ1NaR0dGM09aYTJGZ1FoeEF3NDZpLVJNNklUMXM3TFhJeV9LM2NHVWlQd3hORzhnOUxOcFFfalVuTzVLcjQ4Mnh6NlU5SWFxR1RUT2JYZkNYcjRHelBXd2ttRWJVVVRJbEFCN3p3?oc=5",
+        "title": "Motorcyclist dies in Dallas crash Sunday morning - FOX 4 News Dallas-Fort Worth",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWJXNTBST285c2szZktFLUg2Ny1ZWlhSc0p4bmlRdGxjQTBqcUFydlJqNXBnWEM5dzE1dEpFNGVzMXJ5TVRBMzY5cjlhbE0ySmVEaExoTnlOeWxWTHdUVVkwRGdXemdzZjlNZ08yQ18yeHcwQlFuNjNUcTdqYVM4U2NRQzdYV1lOSm1R0gGQAUFVX3lxTFBfQzh3SE9Xb1M2VHczNjNxQ1dwdzgzSi1PYzN3emtMbHNjS0ltUUVIb1RuZUJHQmhqUVRTWWtQdGNNQXJIa3hLMndleFhpVFNha3U4VHRHTXpiS3F3NlZJYzFRUTFSd0sxNG54RUt6MWk5dTBwbXNvQ0kwbmtPUnJVbjJnRjZERXlrMlVnbXVWNQ?oc=5",
         "description": [],
-        "pub_date": "Sun, 24 Nov 2024 07:29:52 GMT",
-        "source_url": "https://dentonrc.com",
-        "source_name": "Denton Record Chronicle"
+        "pub_date": "Sun, 24 Nov 2024 20:54:38 GMT",
+        "source_url": "https://www.fox4news.com",
+        "source_name": "FOX 4 News Dallas-Fort Worth"
     },
     {
-        "title": "Curran: Moody\u2019s rating is a shot across Dallas\u2019 bow - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVRTMVZObHNOYUpTajBjM1FqSVU2eEVoWFFTcHBmVFVyUWowRlZWUUZfZTFWa3VEWUI0aFZ1M1ZUa0gxdEt0NEpnQVp5WUpTMHVONUVsMllxOWpYU2tranRDMlhjRnZNWTI0dHhzUVAtX29ZN05VME5lN3ZUa0UtRlZuSFdtbnloOFVibXZ6bDFsU1QxWEpzNHM1Z0R3UEVKcWJLTGtVb2tQQdIBvgFBVV95cUxNR2dIbFo3UG5FQkdINFYyeGNEd1p3R3hGelg3b0VYbW8wYnN0VHh1c1VzbFlteGg0NW1wb1otdjA4Wkh2Tm1DZ1dHTmUyTE9QeUE2VU82OEVhZ3hZbWhUR0VWWlV0NlJpMEU2RUdpd0VCNFkwOWJueTRWZ25Pc0lwdEgtSjJaOXFTV3loVllSc3h0N2J6bWZrck13UExIZVNDcTNFWTBVczl4T0J5aE1ZTTlVNkRyY3JZWjlkQ2hn?oc=5",
+        "title": "Emmy Award-winner Ken Burns to be honored at Dallas Hope for Humanity Dinner - NBC DFW",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9idFloUV9mTS1NMmdWdjAyWkZkSGtpckJJRHd1dFdFMkctMHhBTU9lUkRST3NTQy0wMlFPYnNEbVZ6ZTI5bGNobkxlX2ZVZnVWVXBpZXRCdlBsZTZyZEtXdjhHN0xpQ0U5NlpmdVBJRU55dWo4NkRWLVpn0gGCAUFVX3lxTE5Vcl9UWUpCMno0aE02YTBhYkRfM3d5eERuWGx2czNObzdSNWNCZG1pTnlqZ0Z2TDNoSzUzV01OZkw3eEU2VXZtYy1POWQ2RzFocEVncnZndmkwOEtOeVBON3I3MzAwVGZBRUlzX3VCYzNORGt4ajdhaHFBSWtCZHB5OVE?oc=5",
         "description": [],
-        "pub_date": "Sat, 23 Nov 2024 18:02:29 GMT",
-        "source_url": "https://www.dallasnews.com",
-        "source_name": "The Dallas Morning News"
+        "pub_date": "Sun, 24 Nov 2024 20:01:00 GMT",
+        "source_url": "https://www.nbcdfw.com",
+        "source_name": "NBC DFW"
+    },
+    {
+        "title": "The 5 best food and drink events in Dallas during Thanksgiving week - CultureMap Dallas",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb3BkNE9tM1JFQlI1T0VadXk5NVRobVpySlZjOGkyWnV3TzN0R0plRDJhTl94MERZZWZKZjBuMVJfMUtSMUQzelBZU2dSY2s5NlR3V3VDX2lxS01qc3pyVzRhZXNkOHFVakM5eHFsS1pDZGp4OHl4VjV6VkJ1OURkczY4aDNzQ05VcDVOOXVHaG0?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 20:27:00 GMT",
+        "source_url": "https://dallas.culturemap.com",
+        "source_name": "CultureMap Dallas"
+    },
+    {
+        "title": "Dallas Is an OK Place for the Middle Class - Dallas Observer",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFhkc3J1cUVZRm83Y0gxMTkwZWh0Z00zOXA5WGJ4RlJKMlFSaGtEbjBmSVZNNm03M293eXJ4enJGSlYtbmY4ZHlzcHFIdTUzRGFYYTVwbHJIZHdqMzgtcDRyeFV1VnBjUXRMNjg2emZqblZaMTBGZDRvTWU5b195eTEtQy1QR0wzMU5RV1ZWOVFmc1VBMTVsa3ROZXFvZGc?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 14:03:50 GMT",
+        "source_url": "https://www.dallasobserver.com",
+        "source_name": "Dallas Observer"
     },
     {
         "title": "Eliminated parking minimums in Dallas gets closer to city council - KERA News",
@@ -192,10 +176,26 @@
         "source_name": "KERA News"
     },
     {
-        "title": "Family of 18-year-old killed in Dallas shooting still waiting on answers one week after the incident - WFAA.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdDM0SmFyNWNaNHhMVHRXNGpXOGxKUE1zd2JMdVh1OG9HZFExWHBJUnNlZmRtelM1LXRDNkNHdmFRUzJrNGpfZzJRVWNlNU05OTIyXzA5cnJaNUFzWkFPeTdvMzB4eUFnZWlIOW1ELUJJUzZJM2dXNkVrQlhsTktsU3Zpc1RkejJ5ZW1uSWZzSG5vdFhKOGk1YU9kdEtEMldvWjhCRUU2WlRpWTd5RU5TUTBMeDhCM3B6NzZMUzVNck1MSF9hcDdMWFI2VlcwX2dERFZIZDd5bTBoNTVlMHh3LVpSYXRYYmxyTnJkTXBFY0JOblhRbXE4YzBTWElJUzQ0?oc=5",
+        "title": "Funding sought for grand Fair Park green space - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWlpVnQtdFlVNHdSaExhSkJHV0FoS0hEenpXVzE4M3FvRTlPZmtVOXc0c2tHT2VlMXYwSUE3OVFabnF0NU9XcWpGcjJhbXNsVmc1YkJpVTRyS1NaMENQVGFMVklxVGJTd0FCb2RYeENPNWYtNUpfQ2hSMUdxSkwwcVdWMTYxMnBGWWVxYXh6cUprOGV5RTlVLW9B?oc=5",
         "description": [],
-        "pub_date": "Sun, 24 Nov 2024 04:29:49 GMT",
+        "pub_date": "Mon, 25 Nov 2024 12:48:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
+        "title": "Cold Case Solved: Dallas Man Convicted of 1989 Murder and Rape of Grandmother - Irving Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWERKeFJpUkRmZndQQm1oY0RYNkJBU0tKQVVaNXVLRU55Q25FNlJTMm54cDd2eGpYTWhqZTc1blFjb01GUF92QVVEZTRlTGR2aFROTHd4N092UG5IdXFxZ1JZbjQxU0U3eG5ZLTNGcE5sMVZtdFZtNGEzVk52MjkycDFHcDRtV0prU0o0NEFUczZxRUhqTnRYaHZCclV0SzNRZ0pFSTdldUI1b0xVNGxna3U2VVJYVWJW?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 19:10:50 GMT",
+        "source_url": "https://www.irvingweekly.com",
+        "source_name": "Irving Weekly"
+    },
+    {
+        "title": "Pictures with Santa in DFW | Here are 10 places to snap a pic with Old Saint Nick - WFAA.com",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXlOU1JYSDk5MnFOVTVWUnJJcGF5Mm0zM2xWdXllLVZrVzM1TDVQSlNZUzB0d0NTd1ROZzdMU0dsUEgzQm9jekhiUHBUQjhvYTNVQVJkNWprX0JSVXNTVGVmczdSbTBpZ2xwUmxIZDVoLVZGQ0Z2QU03SE52VWx2NWdsNUJQdDQwTzFrbFl3TENUZXJld0dvYW1VQVp0U0NyaEdicVdObThNN0VrZ0YxOGFDZ0JFV29Ec0VlbTlnSXR3Sk9SektRTktNeDdtcDByazQ0XzJYcFNnb2M?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 21:24:01 GMT",
         "source_url": "https://www.wfaa.com",
         "source_name": "WFAA.com"
     },
@@ -208,6 +208,22 @@
         "source_name": "NBC DFW"
     },
     {
+        "title": "Tantra Speed Date\u00ae - Dallas! Meet Singles Speed Dating - Denton Record Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmpaRlJzbURtVkF0RFFoVzIzT1BRWE5zekJ6VFV5OFgtTm1HY25GOXFqUFFiQ0FfS1dad1hfLXY3WVlYV0xUeWRhcUI3VjdGc2s0YXFXQ1NaR0dGM09aYTJGZ1FoeEF3NDZpLVJNNklUMXM3TFhJeV9LM2NHVWlQd3hORzhnOUxOcFFfalVuTzVLcjQ4Mnh6NlU5SWFxR1RUT2JYZkNYcjRHelBXd2ttRWJVVVRJbEFCN3p3?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Nov 2024 07:29:52 GMT",
+        "source_url": "https://dentonrc.com",
+        "source_name": "Denton Record Chronicle"
+    },
+    {
+        "title": "Dulce Nina hopes to be Dallas Cedars' neighborhood restaurant - CultureMap Dallas",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDNHX296Y0xVTzlpOGl3QTk0V3hIR0ZGZF9TVV91ckptTWdqSjZSZE5zQUhsY3h2RnNJM2xVdDNVU0toVTdPNlJGVVMyQnh1RjN2SnpROHRkSDIwN09obVpnUTdIeVBocGRsUUk4SjJUZHpUOHZjUElHS0p5Rmx2aDhDVUhVTXdhQkE?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 21:59:00 GMT",
+        "source_url": "https://dallas.culturemap.com",
+        "source_name": "CultureMap Dallas"
+    },
+    {
         "title": "Retail, housing, health care projects up for votes - The Business Journals",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmNaQUJBNUVxVGdNaldlNEsxbFlNOHZDVldtQmdvODlINEJOcGZRWTRiSmRHc0N5RFRnZVBoR0ZDQXNiUlJ3TFVJYWRCZFYxRGt2ZkZxdGZWUEdwTGJkWDlLWWdqUG1ZNWJfN24yUWJkaXROU3h3cjU2MWp5QkF0eG8yMmR1YTBjQ0RPOVplelpXVzZWMWtpOVRqb1poZm5QUkxsWA?oc=5",
         "description": [],
@@ -216,36 +232,44 @@
         "source_name": "The Business Journals"
     },
     {
-        "title": "\u2018A CHARLIE BROWN CHRISTMAS 5K/10K\u2019 (Dallas, TX) - Waxahachie Sun",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2JXclV4QXd2RFh0REwwcWEyQjExdmZwT1AyYTREbm0yU0tZMHozb3pfaDJidE5Hb1pKZVE0UzVwSzNPUm45NHdPcGFqNjlwa2J6bmwzYkFBb1Z2Y2pCSVlaSS1DYVQwWXBYVndRdUhfbkR1cFFrQldwU1dFMjhqalhxR2FFZHQ4ZTZxMmMxT1hjTXVLOFRvZDdQN2dqZjBmVWJXLXY1VTZSQ0RxX2tYU1hxN3VDWExldDdGbFhn?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 18:02:54 GMT",
-        "source_url": "https://www.waxahachiesun.com",
-        "source_name": "Waxahachie Sun"
-    },
-    {
-        "title": "Letters to the Editor \u2014 Marvin Nichols project, anger management, abortion, Jerry Jones - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbzVXeVBVczV5emNMTURQU1hOdmFwb2dVZzU3S2ViUUZXTlhRaWx3N1VfTi00SllOYnVvV1VnRzBlZ01DaC1uR0hqc0xXdzgyaFFwN3ZpOUpTMl9SLXJiTkNkSU9ZTHdKQ0VhWjJCczRPdWpZdHhfR1pEeUk2WkxlZmFYOGtCaUlkbkMxS1VPeVlDOVJNTXgzMFlJYVJOb2ZqOGtadVRQMzVvUEh3QVBxdXNPWEtPLXVrTzEwOEhScXZpSUMwNEl6V3RWdzc1eU05V3l3Q3JUeWgxS1RhM043ZExsc2djZ9IB-gFBVV95cUxPaDhzTnQzUmNkXzhacktlZEVscFJTNVdUTUdHR3hPMlZWbnRFSlZjbmY4SC1LSkxFLXNKZU1NblItRUkwQm9PbHBUakRjcjR6anAtS3B0NlVUNkY4amcxLUdxNDhENmtzb1A2ZG1JMnZEOHplMldJZWpzSDJrQjg4QVFtRnpOTjVyY0hGN0hjeUpXU0hoNmwtdFhGOGJVaWgzOWotcTVXWGdmQ21KMmpUYkhNNWdNTEI2UDFET0JmdWpnMF93cVYwaUdTRVAzR0UwRGJ3LUE3WGtTWEZLemgtZkl1N0dwXzByLV8ySUZrM0R2TjR0SmpJekxn?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 06:33:43 GMT",
-        "source_url": "https://www.dallasnews.com",
-        "source_name": "The Dallas Morning News"
-    },
-    {
-        "title": "Pedestrian reportedly struck on The Strip - Dallas Voice",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2bEc3T0M3XzJDZnpRbTJKdUdaaEwwMjBFNUQySDMtTlctT1lrdXVPcGZZa1A3a0NHNy1NYTg4b0JMN3pqVXU3NkVRSXVtM1lqXzUxcngtM1pHbGExMjV2YUtXVHNETmY3VUh1bmF6T0VnS0JI?oc=5",
-        "description": [],
-        "pub_date": "Sun, 24 Nov 2024 06:05:49 GMT",
-        "source_url": "https://dallasvoice.com",
-        "source_name": "Dallas Voice"
-    },
-    {
         "title": "After years-long battle, a Dallas conservation district could expand with city council approval - KERA News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpGd2ZpVjBVYmFXZDlLOEwtZ192bHJKM0ZLb1QycnI5YVg1b2EtZjBBdlFOQVY5VHd6dkFVcXZncDJuRGF3M3Z1dUpnMk05Slh5QjNoUDc3MVlkQ3pOdmNDbVZTUDlJVUZWbVU3d0hrTlNESHU0SHNiY2xISWd1TE1rdlZfRHRBZTNLSUpzcTNiMkc2VFd5ek5jN1kzWG5MYW9DaGhsQkNfck9jbjVTdHZUNDFNVVVtQUE?oc=5",
         "description": [],
         "pub_date": "Mon, 25 Nov 2024 11:01:51 GMT",
         "source_url": "https://www.keranews.org",
         "source_name": "KERA News"
+    },
+    {
+        "title": "Why are a Ferris Wheel and carnival rides being set up outside Reunion Tower? - WFAA.com",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMUdGbGhuNGlUVkljYUpPQTVWbTRKZ3dCbWpvcjZ0YWFyaU1MTEo3dXFENGd3OFhMMEg4cld6aGFiSkpyTXNIallaS3V3aGw0T1lsWVdmbjhkYW5pejhxdmN1cVFpZFhzcmxlWUVWaUpWREt5Q2NUeHpXMFVYSFZYZmJBWTh3QlR1RVpQWTdjMUUxRUYtcGNNWmtwWndFaUJLeGpRMVN3b1Q3UjhpRTBIdElaWTRhSC1qR0FEWldULU1JdHdCalgyTVg5bUNXX041amwzaXJSTVU1Rlk2Y0dJbGJzSTQtWFkwSmJ4NGhPWkxHbFpzQVU4?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 21:36:14 GMT",
+        "source_url": "https://www.wfaa.com",
+        "source_name": "WFAA.com"
+    },
+    {
+        "title": "Leon Bridges kicks back at Spinster Records in Dallas - The Dallas Morning News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnc4bElCbmI5R0dfZkgxa1hCVzZ5d0JfeTgxZ1VTNmdBU2xSbXBjMldCTVNvZ3U1M0kzV0p1X05GbEhzR3RqeHAwa2MyQThEcVJBY3dhQi01SDNDcElwNFhHZ1RHRzV1YlZ2bkF0VV9KZGU1dVJOY3lBbW5wRk5jNW13UTVETkF4SzN3MHlvSjlLLUIxeTNfb2dXUTZFQkMwUy0w0gG3AUFVX3lxTFB3ajVjQVJxY3p1dnJaZE1iYnVGeTFXTjBwMDRUZkNYWjBGSU1iTHBzYTZfUVIzTVlLRUg5M1ZNVTd4TUFYcTFGcTg1bFRZUXlLeHF4NFNPRklzZHpycm9JS25wODctZlNqd1dxZVpDU2dabVVHdm1VelN0SjFjdzZYLVdUaEkyWkNOaDVqalAtN05EUkpjS2o3Tl8xUS05S2JPY0tTS0NkWUZlWmZGeGR4UExVdklRcw?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 17:00:22 GMT",
+        "source_url": "https://www.dallasnews.com",
+        "source_name": "The Dallas Morning News"
+    },
+    {
+        "title": "Millions of Texans expected to hit the roads and skies for Thanksgiving holiday - FOX 4 News Dallas-Fort Worth",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkZZNlNQakhpSU85TlJ6c0ZCLXVUNDZGZkI4N04xc0ctcmhHSHVwcnQtQU5CbGlEUklXa1NPOXBVNFFNcVEybnV4a3NXUHhPTUNEZkZZYUFzMVRKTk9YWXBEQ0dueVNNSVJCcmdneHFCb1NBYUw3cWlOSUpHZmRRSkFnMjQtWGIwLUJDNVZNX0s2aWpuaVHSAZsBQVVfeXFMUDJoZnJRc3lfZlNzUHFhVC1IUnJWOUdTY1JvOFgxX1hod190bHJCbXZyS2kyeUVWN1JKalhJdS1Pd19KVkdpYWpfV0w5MHZfZTVMQXczUFZ5X3NBRTRkSGM2eE9YUnAxZjNOdFFzVU5pdDhRenViLU5PWWtjTjhvVXZ6YlE0VERjaHc1SWxRMG56SGxVcGZNOVdKc2s?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 22:03:32 GMT",
+        "source_url": "https://www.fox4news.com",
+        "source_name": "FOX 4 News Dallas-Fort Worth"
+    },
+    {
+        "title": "Cars For Kids Appoints New CEO, Nothing Bundt Cakes Taps Next Chief Development Officer - D Magazine",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVGJKS014N1d4N0NUTTEzbXlncWFJa2Y4aVNkX2F5cnA3NGV1aDJoVE9qUXFxeEJUNWx6Z3ZZVkVRUHZycV9QaHFCQzBVbC1uWHpIUTRydUJVU3lockw5cWp2LXhZakt6R2pJMXNObF9aVUJBdllUd0o4ZEp4Tk9qZS1yZGpBQ1RPekxnUG5xYnZqSDJmamRuMk9rb0UxQW52a2lZU2FuMndzT2VIZXdoMUZFN3N0Tk83VE5lQ2JHMTZITGxzQ0Q1YnRtWmxwMHZJVUd4YQ?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 18:33:12 GMT",
+        "source_url": "https://www.dmagazine.com",
+        "source_name": "D Magazine"
     },
     {
         "title": "Global ice cream chain tops this week's most popular stories in Dallas - CultureMap Dallas",
@@ -264,14 +288,6 @@
         "source_name": "The Business Journals"
     },
     {
-        "title": "Downtown Dallas\u2019 Only Ice Rink Now Open - The Dallas Express",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWg3VDQtaF9jUUtjOWdvampfTng1ZTVzYWxlUXZoX2kxTTN5d21Qc3NJbW1QU3ZvaldNY2loSWZ6X1BHanF0aTc0bFVSNzRfSHFCUDFjcDd4WUJZWUs5b2pYZ0JrVThiMXhlbUU3bFJFTkVJMDJ3dVd5Q0tDc0xDUA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 14:01:16 GMT",
-        "source_url": "https://dallasexpress.com",
-        "source_name": "The Dallas Express"
-    },
-    {
         "title": "Dallas police arrest 2nd suspect in April Oak Cliff shooting - FOX 4 News Dallas-Fort Worth",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3BaSUVoN2tPUDZOTHd6cy1jam5NZ1Y1WnZLb29sbFIxZUpIemtHczUzM3RaWGV0WEVzTVBqM3ViWVhaWnhYay1hS3JQSnI1MGlxM3NPZWNabmRLN3JvVU9RSEJwTk5oX1ZES09JdUVBY1hJZS13Z1NTaWZfRW03dzF30gGHAUFVX3lxTE5UdHlSMG9zN0kzbXhDbV9tQ0xZVHRMc2dWY1FoRjhLYXBmRHQ4NVZCUU5OcWg4ZUxQQ25hdzZsZVlJSkZmWmVPdEUwVThJYjMzbUlTby1zR2c2T2FBLXItdnZLdVhMamgwWEhPb29SR3MxaEwyMVBpc1BiTDRtVjdETzc1SV8zVQ?oc=5",
         "description": [],
@@ -280,10 +296,18 @@
         "source_name": "FOX 4 News Dallas-Fort Worth"
     },
     {
-        "title": "Armstrong: Gentrification isn\u2019t inevitable in Dallas - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzdHYUNTbGlZQXM0TlV1Zi1Ua0V0NXRCMG9MUnVhWlhZQjVvTmZKRW4tV2JHTnNGRlhjQUVLNzZvNUZLSlF2VERFdWNPZVhoOHNwZW5KeDFaNmxYUW5BR0lzSWJyaWUxbnVZcTVOSllNRHppYkpIMGF5TWNJMXZZOW4xOGNEZC1MbXQybG85Tms2TmF1ZkJQNV9OeW9SbDY4VGlTeFl2V05sTEhv0gHAAUFVX3lxTE5ydzdQbEZZTHh5cVFwY25QcktnY3ZpVGdqRkVxcFVwVEpaQnJNbU8wTXNzdTNVaVhHQnJiVmJjemx6SzNRaEtxVnhibHZnSGhBbHRRU2UwU2xjS0FZdzdBWXE2Q2h4elBpTEplNGRNSExHclpRbTF6VElqbTMxR1BnaHhpZ3FUcTZ5ZXRjWmJmdDJEZ0p6YkZxeUo1WktMUmhKcVVEZ09vM0h6RHl2TTNiMnpNWks2Z1BpT0Zsbk95LQ?oc=5",
+        "title": "Dallas City Council Promotes Cheat Code To Thwart Propositions Opposed By The Political Establishment - The Dallas Express",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTVdkSnRfQjRjMF9kVTF3cmxNNmVuMS1tbVRWcVhKR0N3SVhsb2t0S3ZJZmxsVVJNWmpsQWV4MHBsRS01VWQ1UFR4UWtyMTdHZGdTZl80Q0Z5TmdIRWh4dS1rZzNkYUZCNk5DZXVuWmRNRkNNb0FMSnZrZGIzQjNveHB0S3E2eEZ0anBTSnNhcXBpR0JxTjlGMzJnTzBUSktuNWN3aTVxWGFNUko3am9lTzRNWDA0UmRncGRRdnpkTDFfcWI2bE93SDU5NkxiQQ?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 08:03:56 GMT",
+        "pub_date": "Sat, 23 Nov 2024 22:46:23 GMT",
+        "source_url": "https://dallasexpress.com",
+        "source_name": "The Dallas Express"
+    },
+    {
+        "title": "Pour one out for these recently closed D-FW restaurants and bars - The Dallas Morning News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3JBMUhFMWRlZTg0aUxVMEt4Vi1rVEZxYlFnNFBDVGVIQ2NvVkVjX2t6WDRhR2hGZkpRclYyQ25DWE5iYWkyclNhOEZzSHVnQnp4VU5fOG1DN3BveERqc0JzMXJOLVc5cS1JTUdXYjU5eGlwVENMOWNxbThMN3hxQU5VT1hNcTdIcGZnYmRUUmpLdkd6bVlueUFSOU1telJxelVoejExcDdLeU9J?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 11:34:01 GMT",
         "source_url": "https://www.dallasnews.com",
         "source_name": "The Dallas Morning News"
     },
@@ -296,36 +320,52 @@
         "source_name": "Dallas Observer"
     },
     {
-        "title": "Dallas City Council Promotes Cheat Code To Thwart Propositions Opposed By The Political Establishment - The Dallas Express",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTVdkSnRfQjRjMF9kVTF3cmxNNmVuMS1tbVRWcVhKR0N3SVhsb2t0S3ZJZmxsVVJNWmpsQWV4MHBsRS01VWQ1UFR4UWtyMTdHZGdTZl80Q0Z5TmdIRWh4dS1rZzNkYUZCNk5DZXVuWmRNRkNNb0FMSnZrZGIzQjNveHB0S3E2eEZ0anBTSnNhcXBpR0JxTjlGMzJnTzBUSktuNWN3aTVxWGFNUko3am9lTzRNWDA0UmRncGRRdnpkTDFfcWI2bE93SDU5NkxiQQ?oc=5",
+        "title": "A First Look at Pillar \u2014 Chef Peja Krstic's New American Bistro in the Former Boulevardier Space in Bishop Arts - PaperCity Magazine",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd09PRUdwQW9uTWZsVVp4Yk9jRzVQblQyTTZTWW1mNVY3cDYtd2JodVhhWlF2TnRocXJITVpfbS1TU0JsNnJfNjZPYWJjWDI0OGwtRzZuZ1puc09TTG1OaTdJY0JJVzJyZFpCSzByRG5IUGhnOWZTSVpkTmFzSzd1US1Nal9lZHBNM29majV6dFlqclplVklWRnhLUWdhZnFWTy1mSm1R?oc=5",
         "description": [],
-        "pub_date": "Sat, 23 Nov 2024 22:46:23 GMT",
+        "pub_date": "Mon, 25 Nov 2024 15:51:22 GMT",
+        "source_url": "https://www.papercitymag.com",
+        "source_name": "PaperCity Magazine"
+    },
+    {
+        "title": "Pedestrian reportedly struck on The Strip - Dallas Voice",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2bEc3T0M3XzJDZnpRbTJKdUdaaEwwMjBFNUQySDMtTlctT1lrdXVPcGZZa1A3a0NHNy1NYTg4b0JMN3pqVXU3NkVRSXVtM1lqXzUxcngtM1pHbGExMjV2YUtXVHNETmY3VUh1bmF6T0VnS0JI?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Nov 2024 06:05:49 GMT",
+        "source_url": "https://dallasvoice.com",
+        "source_name": "Dallas Voice"
+    },
+    {
+        "title": "\u2018A CHARLIE BROWN CHRISTMAS 5K/10K\u2019 (Dallas, TX) - Waxahachie Sun",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2JXclV4QXd2RFh0REwwcWEyQjExdmZwT1AyYTREbm0yU0tZMHozb3pfaDJidE5Hb1pKZVE0UzVwSzNPUm45NHdPcGFqNjlwa2J6bmwzYkFBb1Z2Y2pCSVlaSS1DYVQwWXBYVndRdUhfbkR1cFFrQldwU1dFMjhqalhxR2FFZHQ4ZTZxMmMxT1hjTXVLOFRvZDdQN2dqZjBmVWJXLXY1VTZSQ0RxX2tYU1hxN3VDWExldDdGbFhn?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Nov 2024 18:02:54 GMT",
+        "source_url": "https://www.waxahachiesun.com",
+        "source_name": "Waxahachie Sun"
+    },
+    {
+        "title": "Baylor University Medical Center tower to be overhauled - WFAA.com",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaDdicVJ5U2RMMHBIX3E3ZW5Kc2ROQ21qMU93V0o0S1M4M3JQcDZ0bF93SjdBRDZyc3p3VlFRNlVkNlE0ME5BSXhxeVBiVlU2WEdkWFFid2JveUZyek5WNnUyWkI1TFNmSUd5UTM2X0tkd3lWVnN1NVByVmhmVkVSWkVVaXZYbGNua2NBTGo0TFdLWl8weWw0MWdRT1BmbWptdTBnb3BDeHZfeXU1NUUxcHNoSTZPbU9McWxRVk5PZXF2QlZveFFESFF6WXZwRjlsSGI1UHlxOTVYdlprRnZaREo3M2d3RGhKVjQ5NThJWmhWdlYyc0trbg?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 22:30:42 GMT",
+        "source_url": "https://www.wfaa.com",
+        "source_name": "WFAA.com"
+    },
+    {
+        "title": "Downtown Dallas\u2019 Only Ice Rink Now Open - The Dallas Express",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWg3VDQtaF9jUUtjOWdvampfTng1ZTVzYWxlUXZoX2kxTTN5d21Qc3NJbW1QU3ZvaldNY2loSWZ6X1BHanF0aTc0bFVSNzRfSHFCUDFjcDd4WUJZWUs5b2pYZ0JrVThiMXhlbUU3bFJFTkVJMDJ3dVd5Q0tDc0xDUA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Nov 2024 14:01:16 GMT",
         "source_url": "https://dallasexpress.com",
         "source_name": "The Dallas Express"
     },
     {
-        "title": "It's the final four: What's the best brewery in North Texas? - KERA News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGNEXzJ5bi1XNmp1bDBxd3FJYmZ2NjVTVzVQYUdoZkdDa3VlemlyX3dRVDNnU3V2U0R0NmROaHpYRDR5emhsaGtHWWloRENvczlmLTBsdkJ0SC1oOFhURkVVTUV6ZTNIbXNkMnZJQXZNZVA0VnRWOFV5aS1DUTJNLTRoVHFKdVZpV0xFTzlhRW1WVTZFLU0ydnVzemZfOHIwb2psN2E5SWZJUQ?oc=5",
+        "title": "Murals, music and more: A look at this year's Deep Ellum Block Party - The Dallas Morning News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLU5wb0hvS0VqRXdyM2FuRlVJS3B1dklBOEpZUWhZcWE5NzlucnRuaEdBUi1SSVZ3eGJldGdDTDU1TWN4N3VicFVFb3hRMmhyMk9EcGg1UTFWZFFaLTJzaWJvdmZXcHFBM0R3bVJaajdJZmsxaHpONmdQMGJCNFduS09HbU95dEVVb0Viekp1UlEtbDE2dU5LWU5ETnpSRVlWdjJlM2ZNNDF1NW51RjlrWGZLemNLR0VLWWtxc01VeUPSAdQBQVVfeXFMT3JfYVczWUpiWnpSNmwxT21ZTC04WEtBWGN2SEpLT3JKakFWb0xCVjRaaG1BRWRacm02VTlJWHIwd1RmTVpsTHZYZVNhdHh3OFFnQ1EtWmJ0bFVGRlZpRjJXenkwN2tTRXhiR2VBbXZvczdhUEFzNHBMTzV6UW5lSGVnbVJ5VnpRcUxXYTFqTWV1cHlZN0QzdGhZemdydXQzdjlFNG9vNDJCQkstNWxQWmNRYVNldVZRV3pXQXNrX1dZU09RQ3pHRk9ZZ2tPdHRNNTFBdzE?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 16:27:28 GMT",
-        "source_url": "https://www.keranews.org",
-        "source_name": "KERA News"
-    },
-    {
-        "title": "Dallas Man Sentenced to 40 Years for Aggravated Assault on Girlfriend After Threatening to Kill Her - Irving Weekly",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXlzSXhLNW8zcVozb0VWdy1telBrc0IwekJrVFRYODZ3V1RDVFdONVQ1WkZFRlpna282clpydlJHOUhGU0J2bUg0UkNzbjZxTDQ4dHR4cld5VVgzTm11Z2x1Xy1ubWNRbDJQX2lnLUdCaWxkWXF6NjRIazBsMHB0eUk5ejM3M1FONzRldGZyOHlBV0M5M3VQR3BwTjVqRW5ndE9VdG82aHhhd0R6TXRTbHNBS1lWMEpuYjVLbElGeTQxenRodGR4bTlqcWdqbnh6N04ySg?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 15:01:50 GMT",
-        "source_url": "http://www.irvingweekly.com",
-        "source_name": "Irving Weekly"
-    },
-    {
-        "title": "The Only Dallas Establishment to Make the Top 100 U.S. Restaurants - The Dallas Express",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORENET3YxRnpLNzVtSHN3dkZpaWt1aDNMSmQ5Vi1Yc3VpQXdtR1RWMzUxZEdxU1B6V1YwdHJUeHdqWHNabnExY0VvYkR1V1dEQjRqSENJZFVWaGZEVFpUNzRieTNlWlI3ejgyNGFvbnNxNkJuUjg2OGtwV2t0V0lmaDBMaW04d1VKaG1kX3B6MDk2c0pXbjdmem5IUFl3NGhVTXlleQ?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 13:16:09 GMT",
-        "source_url": "https://dallasexpress.com",
-        "source_name": "The Dallas Express"
+        "pub_date": "Mon, 25 Nov 2024 21:00:02 GMT",
+        "source_url": "https://www.dallasnews.com",
+        "source_name": "The Dallas Morning News"
     },
     {
         "title": "Dallas-Born Robin Wright Deserved Better Than 'Here' - Dallas Observer",
@@ -336,18 +376,130 @@
         "source_name": "Dallas Observer"
     },
     {
-        "title": "A First Look at Pillar \u2014 Chef Peja Krstic's New American Bistro in the Former Boulevardier Space in Bishop Arts - PaperCity Magazine",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd09PRUdwQW9uTWZsVVp4Yk9jRzVQblQyTTZTWW1mNVY3cDYtd2JodVhhWlF2TnRocXJITVpfbS1TU0JsNnJfNjZPYWJjWDI0OGwtRzZuZ1puc09TTG1OaTdJY0JJVzJyZFpCSzByRG5IUGhnOWZTSVpkTmFzSzd1US1Nal9lZHBNM29majV6dFlqclplVklWRnhLUWdhZnFWTy1mSm1R?oc=5",
+        "title": "Betsy Buzzini Tyson - People Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EYTlSRmNTcXVNSDE2bC1aRkVlbkFlMVFfYkdQUU1DX0pOVFYxOF96Yk01dl9MYjlZSWFaQnRxcXhyRmZhbUhlQVVsV0N0WTBzRm5Hd2ZNeURNZERNY3pVYmJ1cTY0dFVmcXJ3YzlVelZPdw?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 15:51:22 GMT",
-        "source_url": "https://www.papercitymag.com",
-        "source_name": "PaperCity Magazine"
+        "pub_date": "Mon, 25 Nov 2024 15:05:18 GMT",
+        "source_url": "https://www.peoplenewspapers.com",
+        "source_name": "People Newspapers"
     },
     {
-        "title": "\u2018We acquired this property to blow it up\u2019 \u2014 and other mind-blowing quotes of the week - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3RqcUp4dGZFNWNsTGtsUGhnck0wMlByODFiU1NTdkxlTXV1bTFXLUVyNFk1a3pFZTFiRVVZR1pXY0FaZmhSanNoTHpCUWFvYXh1ZVduaVJ4djZWb2xZX01tdFlmU255aVhoMHhIZEpoMEtEQU5aZm5fQUFVc0VwZFc4OUZ5bV9RMWJGdDlkN182N01LUDAyNDg2a2xoTWhWbG1uQkg5VHRnVW9ZTWQ5SVFRY0sybFV0Vm11aFp6MUdWbzI1TGRRWUprSXVqY2hZVHdkVdIB6AFBVV95cUxOM2F5dG14TXZiQUt1YjFWT24zN3BESjYwbnZNcUpDOWtJMllmNnp0SV9qNVYycW9aT3VuQ2pwRkR0MXVQNzk5bVpETHIxN0JGYjdoQVFja0ppeXJvclhOWjJ2UFpnLVNvVWhOaWF0XzA3NnNjMExJSWkwMm5iNXZrTlJNUDhuZnZDNVVvbHgzZDUyRm1LY0ctNW5qZVNwTVRiWDBUREVkTWhjUW9tclVJMXRYSkF0OGdZNnJmaVltRER4Zm5tSEZKcW44Q1EzS3hxUmFwZ3RSRmt0c3o1djBSRU1WeFBVdzZN?oc=5",
+        "title": "Dallas Stars launch Skate Rental Donation Program in support of Children\u2019s Health - NHL.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMV9KTm8xOFNkQ0s3NWNoOXl0eEhhakFoa0JpbmtsU3JHaGtjdndjSWFlbHB4NWtlRFhDSzI2bTRUc0x4Q282VmhQUlFTMlhmeU13c0Z5TVF1cE1ZRzhBUnVJOWZOSXB3alpxOE5QeEFyOEdxSkZkQnhHbXNTQVVfQVo1cjZxUUFrcTFvdUtQbFl1YlRWTmd0dWZXVDNhTTVjWFBJYXA3NTQtcGNsVlczRGR3OGN1c2Y3NUxj?oc=5",
         "description": [],
-        "pub_date": "Sat, 23 Nov 2024 16:31:20 GMT",
+        "pub_date": "Mon, 25 Nov 2024 16:07:30 GMT",
+        "source_url": "https://www.nhl.com",
+        "source_name": "NHL.com"
+    },
+    {
+        "title": "Introducing How to Dallas, a new app aimed at helping you unlock the best the city has to offer - WFAA.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTXJTaVBtSFJkbFhBcnhkc1ZwX3VrV0YzQjlxdE1kSEFLOHFqcVJzN1BZeEFJcWJMWG5NdzNkTjgwRUdEb01xYUFXanktYlQ5MExsd2l2VUhuRXRRTFJZeHJmUmVENnFJT3FhVFZObVoyU1BlSGV2aVY3SDVOQkQ2NjhzT0NRSXVtM25teTcxX3ktbzdFazg1b2FBeXAyb3E4WFdva2hYV2ROdHk5eW5mc3ZCZjAxS09aU0RZanRxVjNhdENHbElfZlUtU2cweG9FdldhYlpKRjdYLW8xdDROZ1Nn?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Nov 2024 23:31:37 GMT",
+        "source_url": "https://www.wfaa.com",
+        "source_name": "WFAA.com"
+    },
+    {
+        "title": "The Only Dallas Establishment to Make the Top 100 U.S. Restaurants - The Dallas Express",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORENET3YxRnpLNzVtSHN3dkZpaWt1aDNMSmQ5Vi1Yc3VpQXdtR1RWMzUxZEdxU1B6V1YwdHJUeHdqWHNabnExY0VvYkR1V1dEQjRqSENJZFVWaGZEVFpUNzRieTNlWlI3ejgyNGFvbnNxNkJuUjg2OGtwV2t0V0lmaDBMaW04d1VKaG1kX3B6MDk2c0pXbjdmem5IUFl3NGhVTXlleQ?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Nov 2024 13:16:09 GMT",
+        "source_url": "https://dallasexpress.com",
+        "source_name": "The Dallas Express"
+    },
+    {
+        "title": "Only 1 in 3 Young Adults Make a Living Wage in Dallas County, Report Finds - D Magazine",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWdXY3B0MGxldnktR0dIdGxQd0ZVeXNldllfQmpDWnZOSkVSbFlOXzJHQ0lYZ0d4R3ZETHpwcGQ0NjI5ME01UDMwS2ozbHdlaU9FdC1LN3JvZklJcUhsVk5FRGVkV0lxOGt4RVhyVk1wdDg3YnplcHR6MDRIc1pLZkExelIyV2ZpZDRzYWpOU0hpbEtwdXVMTXBiN2VaWTZZZnhpRlB6MERXOGh4YzBSMUtTZEY2c05PNDRyTw?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 21:03:13 GMT",
+        "source_url": "https://www.dmagazine.com",
+        "source_name": "D Magazine"
+    },
+    {
+        "title": "Dallas shooting: Child critically injured in East Oak Cliff - FOX 4 News Dallas-Fort Worth",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2Fmd2ZtZ0hiSkp5U3NDb1NCN0FQczZZcDYwdUI3WmFtV1dVdmhkY1NjVE5zZ2hneHliZHBNWFlrUHVMZ21yXzRLcC1SRHAyMnlfbElQSi1PSFpmYUtFY3YzUXpLMU9xWXJ6bjd1amZWa3JteDZvb0lXMG9HOUd0RjZqTjFwRXhJaFRxLXFB0gGTAUFVX3lxTE9GVHhfT0RiOXIybW1Xb19MSDFLanY2T05Zdzk0LUZ0elQ4cE84UUlQV0xDaEdCSDRQVUtPZnNpMVgyWUNBYThhaVlUYW9CYm42N1pvcjE3RWJPcHNETnlaaUN1YmZ4ZDZqMHByV0ItQm5OZU9jdVNCSWtua3plREpsMXFvSVQtZFhvZnRHUHE1VFBGbw?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Nov 2024 21:26:18 GMT",
+        "source_url": "https://www.fox4news.com",
+        "source_name": "FOX 4 News Dallas-Fort Worth"
+    },
+    {
+        "title": "Curran: Moody\u2019s rating is a shot across Dallas\u2019 bow - The Dallas Morning News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVRTMVZObHNOYUpTajBjM1FqSVU2eEVoWFFTcHBmVFVyUWowRlZWUUZfZTFWa3VEWUI0aFZ1M1ZUa0gxdEt0NEpnQVp5WUpTMHVONUVsMllxOWpYU2tranRDMlhjRnZNWTI0dHhzUVAtX29ZN05VME5lN3ZUa0UtRlZuSFdtbnloOFVibXZ6bDFsU1QxWEpzNHM1Z0R3UEVKcWJLTGtVb2tQQdIBvgFBVV95cUxNR2dIbFo3UG5FQkdINFYyeGNEd1p3R3hGelg3b0VYbW8wYnN0VHh1c1VzbFlteGg0NW1wb1otdjA4Wkh2Tm1DZ1dHTmUyTE9QeUE2VU82OEVhZ3hZbWhUR0VWWlV0NlJpMEU2RUdpd0VCNFkwOWJueTRWZ25Pc0lwdEgtSjJaOXFTV3loVllSc3h0N2J6bWZrck13UExIZVNDcTNFWTBVczl4T0J5aE1ZTTlVNkRyY3JZWjlkQ2hn?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Nov 2024 18:02:29 GMT",
+        "source_url": "https://www.dallasnews.com",
+        "source_name": "The Dallas Morning News"
+    },
+    {
+        "title": "Smoothie King opens in Wynnewood Village - Oak Cliff Advocate",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGJvOGRfMjh4ZjJtYndGY3hHcXZBdmVqd3ZRNDJmWG1BeEtxa0ZfMEZHU29ndGhUTUQ3eTFubkxRTGhjNmM2YnJTY2lJZVVVSG1YYzBZM29oZXNfNkVXUE1CSlFLRHhBZ0xOMFY1bWFEc2VSLXhybVo0WHBoNTJuZ2JtSHlGcHZGamc?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 17:39:57 GMT",
+        "source_url": "https://oakcliff.advocatemag.com",
+        "source_name": "Oak Cliff Advocate"
+    },
+    {
+        "title": "\u2018Park Cities People\u2019 Applauds - People Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q2ZtaU02VGFOZFlaVHdNeTlzQS1UMmpmaDhJcVo5azFhVkE3V0luNmpUSDlPUHFHdFVXYTh3MVd0M1o2QlpVR0tZaEJDVmp2TXhMbkRCbFJXRkxVb2R2dWsyUWdKTDhQVGN1c3BxYlhSOTdYY1JUNEdqdnZPYUU?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 14:00:00 GMT",
+        "source_url": "https://www.peoplenewspapers.com",
+        "source_name": "People Newspapers"
+    },
+    {
+        "title": "UT Southwestern opening radiation oncology clinic at new $177M campus in Fort Worth - WFAA.com",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaGwxb25qamJ5dmE0cnZUeHNJXzhDRjhBcnZLVUtSelczUFNOdnNHVXVkV2NJdjFxZ2FicWdpbWdaWVBVSmNQQVhSWGl3TDF5ckd4Q1pIYWNTNmxSUDNRbk81QXlESERzdmt0TnBPSG9oX1c4V3BTbWtod1FaVVVKYXY1dVBiYnh6VEtGXzVBalRDSndET3Flal9NWE1qcHhSaG41Z0hLRnQ3VVZHUmRYdVcwQ0hFcjNsbERiYXBDd0V1eGpZSzRKY1g5TmVBSjZEU096UzM4dThDamd1blkzWGpsLXNMbnhwRzQ5ekVGZUlsVFBMX2gwYnRSVnB6cUJra1VtUlAtVGs5QQ?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 23:27:23 GMT",
+        "source_url": "https://www.wfaa.com",
+        "source_name": "WFAA.com"
+    },
+    {
+        "title": "Dallas Man Sentenced to 40 Years for Aggravated Assault on Girlfriend After Threatening to Kill Her - Irving Weekly",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXlzSXhLNW8zcVozb0VWdy1telBrc0IwekJrVFRYODZ3V1RDVFdONVQ1WkZFRlpna282clpydlJHOUhGU0J2bUg0UkNzbjZxTDQ4dHR4cld5VVgzTm11Z2x1Xy1ubWNRbDJQX2lnLUdCaWxkWXF6NjRIazBsMHB0eUk5ejM3M1FONzRldGZyOHlBV0M5M3VQR3BwTjVqRW5ndE9VdG82aHhhd0R6TXRTbHNBS1lWMEpuYjVLbElGeTQxenRodGR4bTlqcWdqbnh6N04ySg?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Nov 2024 15:01:50 GMT",
+        "source_url": "http://www.irvingweekly.com",
+        "source_name": "Irving Weekly"
+    },
+    {
+        "title": "Casa Linda Plaza tree lighting is coming up - Lakewood/East Dallas Advocate",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR054YVB1UXBKYnVuUlFIYm44bXJ3MzR2M0hUcHc2RVFZMElxRlEzSTZhZVA0MGI3SkVLMjhtcEQwLWlZclJBVEZDWTZLVk1zanpvbFk4TS1DM09HR1pKRHVnRVN3Z25hbzRjT2t2TXRPSFV3cFhaWE5fZEFuYXBjN25KUQ?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 18:23:41 GMT",
+        "source_url": "https://lakewood.advocatemag.com",
+        "source_name": "Lakewood/East Dallas Advocate"
+    },
+    {
+        "title": "Lake Highlands Cafe under new ownership, open on Thanksgiving - Lake Highlands Advocate",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWxPczBIRzFzRTZlNVJkNDZERUFQLXExYWRjaU9sR1pRZjZwZnRvRVF4Z3AzblZyOEpadmF4ZlM5cGNGNXJ6VE5wRUJOb1ZmcmI3U2JCamRQb1k4cFJGSVdtZ0ZQNXNTTlBKNGRTV0ZyaWVFbjBmNFFQNnp2bUJiWS1IWXVva3FoSmZEcXdhbGxoaG1KX01KT0pueG1BTjN3dUZyM3VKU3hJY0pkQkhJ?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 20:25:47 GMT",
+        "source_url": "https://lakehighlands.advocatemag.com",
+        "source_name": "Lake Highlands Advocate"
+    },
+    {
+        "title": "Dedicated team transforms Mesquite Animal Shelter through innovative programs - Star Local Media",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYXZPYVNHcEJPWFpXOG4yZFZ2SWRXUEZqcHdielRaQ0xfa1Y2aDJKUl9mNkNiZ1JjNC00RlV3UzdCZ1A1OFV0WmxfUGltZHVZMzhrampSUVFIVGhJSVh5U3kyaDE3VS1DbERmUElXT2FjTUlnMFpmY3kxLVhsY2g1NlBPNWhwV29QdWo3VmhSY2ZVOWwwOHkycUZkQXFRMnhsUS1TNUhTczczSC10YnRjWTFIejhFbUNpZGw5M0JBMlJEVlR6X0FFS1E1S3ZTdlpnVmVpQ2NQb1BLeEJIdl81cVNXcHJzNUJxTWF5VnV6VW5zX01lZGt5MFNDSmN1Z3l3U3c?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 14:00:00 GMT",
+        "source_url": "https://starlocalmedia.com",
+        "source_name": "Star Local Media"
+    },
+    {
+        "title": "Light Up The Highlands to kick off holiday season - Lake Highlands Advocate",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNVZmS2NNbzhPd081c1g5Rk1ndkI5T0x6NF9aekFXRHJhTnBTQWI3Tnk4c2dyOTNhZWgwNkJ4dGxxRDF3RzJxZ0hOY0w3MFAzWklUTUlaQnRvNjM0bHVLaTNTdTNKNUFVUVpubUpEWFBfOHFVbjRNZW1GMmd0ZE0?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 18:23:17 GMT",
+        "source_url": "https://lakehighlands.advocatemag.com",
+        "source_name": "Lake Highlands Advocate"
+    },
+    {
+        "title": "Paul Quinn College gets $1.5 million for southern Dallas housing, community - The Dallas Morning News",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMW50d3FSNlU0WWRVckczOHV4S1FIdFJ4ak1DNEVuOFREWkhQX1ZoSlFBaHNVbFpod0NYVThvWERRcEQyWVI1clgxT2FpY1B2eVU0REFEV0NCeUFSbU1fbTczeXlrY0l4dmp2UU1pZXdweWM0NGJrU0JiMmFfbkhvUU1RUVJsZ1NjSDc2Rk0tQmVOQXliYW1qUm5ZSEVGVFhUaWhEbUpKY2ZkUy1HOE5PbXZ2bV9DSkJnZEtIVWlFVXlGd3dOZENNZg?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Nov 2024 17:11:53 GMT",
         "source_url": "https://www.dallasnews.com",
         "source_name": "The Dallas Morning News"
     },
@@ -360,20 +512,20 @@
         "source_name": "Irving Weekly"
     },
     {
-        "title": "Introducing How to Dallas, a new app aimed at helping you unlock the best the city has to offer - WFAA.com",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTXJTaVBtSFJkbFhBcnhkc1ZwX3VrV0YzQjlxdE1kSEFLOHFqcVJzN1BZeEFJcWJMWG5NdzNkTjgwRUdEb01xYUFXanktYlQ5MExsd2l2VUhuRXRRTFJZeHJmUmVENnFJT3FhVFZObVoyU1BlSGV2aVY3SDVOQkQ2NjhzT0NRSXVtM25teTcxX3ktbzdFazg1b2FBeXAyb3E4WFdva2hYV2ROdHk5eW5mc3ZCZjAxS09aU0RZanRxVjNhdENHbElfZlUtU2cweG9FdldhYlpKRjdYLW8xdDROZ1Nn?oc=5",
+        "title": "New Texas-themed bar is soft opening on Ross Avenue soon - Lakewood/East Dallas Advocate",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzA3UXRxOTVlVlNBdEc5WHBCTDZBaGhDYnVSVndHeTh3S1RMemhmZWpmNEJtZk1KTzBDVm9QZElDb1lSTUh3X2RvZFl0c29WOUE0UWhkeThaOGxVb3lfM0l5cVBMM0hydnZpTDZyLWdLYlJGaXA2ajJHX1lJcFctUXBJclhLcUdieGhvWm9TWkZlcTNw?oc=5",
         "description": [],
-        "pub_date": "Fri, 22 Nov 2024 23:31:37 GMT",
-        "source_url": "https://www.wfaa.com",
-        "source_name": "WFAA.com"
+        "pub_date": "Mon, 25 Nov 2024 19:00:52 GMT",
+        "source_url": "https://lakewood.advocatemag.com",
+        "source_name": "Lakewood/East Dallas Advocate"
     },
     {
-        "title": "Dallas Stars launch Skate Rental Donation Program in support of Children\u2019s Health - NHL.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMV9KTm8xOFNkQ0s3NWNoOXl0eEhhakFoa0JpbmtsU3JHaGtjdndjSWFlbHB4NWtlRFhDSzI2bTRUc0x4Q282VmhQUlFTMlhmeU13c0Z5TVF1cE1ZRzhBUnVJOWZOSXB3alpxOE5QeEFyOEdxSkZkQnhHbXNTQVVfQVo1cjZxUUFrcTFvdUtQbFl1YlRWTmd0dWZXVDNhTTVjWFBJYXA3NTQtcGNsVlczRGR3OGN1c2Y3NUxj?oc=5",
+        "title": "UP Restricts E-Bike Use to Licensed Drivers - People Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTE1Uy1HR3YyV2p5OVZxM2E0MmlVN0t3YWwxLVgya0pxcHU4UWtlMEdJVV9vYndNNENsOXltbGNYUWVCOWJmVmZLYkRjZWJRNldIOHlydGFOV2tUYUpETE9ZOGd4RkFEZV90N051cGU0Zm12OUxSSDBEeVRaTlFHRGtQd1dwbjRSTWlUQm8zUTZsd2l0Uk5vZnZlbHkwQ3oyMnYzMTd1MFA2R0tabFg4T3Zn?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 16:07:30 GMT",
-        "source_url": "https://www.nhl.com",
-        "source_name": "NHL.com"
+        "pub_date": "Mon, 25 Nov 2024 19:20:58 GMT",
+        "source_url": "https://www.peoplenewspapers.com",
+        "source_name": "People Newspapers"
     },
     {
         "title": "Mariah Carey\u2019s Christmas Time Tour Dazzles With Good Tidings and Cheer - Dallas Observer",
@@ -384,30 +536,6 @@
         "source_name": "Dallas Observer"
     },
     {
-        "title": "Smoothie King opens in Wynnewood Village - Oak Cliff Advocate",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGJvOGRfMjh4ZjJtYndGY3hHcXZBdmVqd3ZRNDJmWG1BeEtxa0ZfMEZHU29ndGhUTUQ3eTFubkxRTGhjNmM2YnJTY2lJZVVVSG1YYzBZM29oZXNfNkVXUE1CSlFLRHhBZ0xOMFY1bWFEc2VSLXhybVo0WHBoNTJuZ2JtSHlGcHZGamc?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 17:39:57 GMT",
-        "source_url": "https://oakcliff.advocatemag.com",
-        "source_name": "Oak Cliff Advocate"
-    },
-    {
-        "title": "Free dog, cat adoptions Saturday; Dallas Animal Shelter way over capacity - NBC DFW",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEFpQUlvdFl2RHBkVTNZejA0LVY4VjNNZjhqcWVjMVpac3pxdjMwbHYwdFBvZmRNTXU1QVlPa2c3RTJiYThvd1lCWHZHSjN1MG9raUh3UC1zME1CNklRTkM0RnFHX3lWX1hVVC02dGFlUlZKN3NlaTNrazNqcVZ5N0swRkdEUjZ1OC1OZlRWdmdUSjVUYjRZedIBoAFBVV95cUxPRGZIcFBlVE56VkRvdzB5ZDh0R2U5WWI2NUNMOHQzTTBxSm02OS1GR01sWWQzbkNTNWJHTHFEYjFnZ01DUHZud3RxMlhzRktYSXlTSGxBWW9vSWpFc0JZcERZVE1naXZrN25halFnakdZekpGcnNveElBX2d6d18zRDZGcmVDNVFkbTNOSzZXelZwa09IYUlDeTdMb2ptQ0du?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 19:17:45 GMT",
-        "source_url": "https://www.nbcdfw.com",
-        "source_name": "NBC DFW"
-    },
-    {
-        "title": "\u2018Park Cities People\u2019 Applauds - People Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q2ZtaU02VGFOZFlaVHdNeTlzQS1UMmpmaDhJcVo5azFhVkE3V0luNmpUSDlPUHFHdFVXYTh3MVd0M1o2QlpVR0tZaEJDVmp2TXhMbkRCbFJXRkxVb2R2dWsyUWdKTDhQVGN1c3BxYlhSOTdYY1JUNEdqdnZPYUU?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 14:00:00 GMT",
-        "source_url": "https://www.peoplenewspapers.com",
-        "source_name": "People Newspapers"
-    },
-    {
         "title": "SMU to waive Fall 2025 application fee for all first-year and transfer underground students - North Texas e-News",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16dWg5dXN6VTNrVmtnVHdQc1BLMVU4STZCdnNhazBXNURkbGdSSUc3VEx1Wk9tUklrMUpiMC1rWnRiTTFwSDk5ZzgxbjNIclNWUWYwaUd0aW1Qc19mNEVZanlkX1B5V2pmNTJyd3NR?oc=5",
         "description": [],
@@ -416,163 +544,11 @@
         "source_name": "North Texas e-News"
     },
     {
-        "title": "Pour one out for these recently closed D-FW restaurants and bars - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3JBMUhFMWRlZTg0aUxVMEt4Vi1rVEZxYlFnNFBDVGVIQ2NvVkVjX2t6WDRhR2hGZkpRclYyQ25DWE5iYWkyclNhOEZzSHVnQnp4VU5fOG1DN3BveERqc0JzMXJOLVc5cS1JTUdXYjU5eGlwVENMOWNxbThMN3hxQU5VT1hNcTdIcGZnYmRUUmpLdkd6bVlueUFSOU1telJxelVoejExcDdLeU9J?oc=5",
+        "title": "Free dog, cat adoptions Saturday; Dallas Animal Shelter way over capacity - NBC DFW",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEFpQUlvdFl2RHBkVTNZejA0LVY4VjNNZjhqcWVjMVpac3pxdjMwbHYwdFBvZmRNTXU1QVlPa2c3RTJiYThvd1lCWHZHSjN1MG9raUh3UC1zME1CNklRTkM0RnFHX3lWX1hVVC02dGFlUlZKN3NlaTNrazNqcVZ5N0swRkdEUjZ1OC1OZlRWdmdUSjVUYjRZedIBoAFBVV95cUxPRGZIcFBlVE56VkRvdzB5ZDh0R2U5WWI2NUNMOHQzTTBxSm02OS1GR01sWWQzbkNTNWJHTHFEYjFnZ01DUHZud3RxMlhzRktYSXlTSGxBWW9vSWpFc0JZcERZVE1naXZrN25halFnakdZekpGcnNveElBX2d6d18zRDZGcmVDNVFkbTNOSzZXelZwa09IYUlDeTdMb2ptQ0du?oc=5",
         "description": [],
-        "pub_date": "Mon, 25 Nov 2024 11:34:01 GMT",
-        "source_url": "https://www.dallasnews.com",
-        "source_name": "The Dallas Morning News"
-    },
-    {
-        "title": "Christmas music is back! This Dallas radio station switched to its 24/7 Christmas music through the holiday season - WFAA.com",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGFXMGlXM3RTd0hOOGVyZmZuYkFhSXV0Z1lBU1NLRy1ad0RvTl8xSmZSOTdGVG9GMlRWbldOLUF1VEFCakY3UGVDSllRVl94bjMyQThfTHJIcGY3QU5wUjlBb01MSnJaelM4eHBTZGxfWDNjcnMwQUdrVVNrZmhuQWZqSzF4UWVJZG01YWtxNXppTk43b1diRk9uRGFHNEN1UWFOTzJSTjJTNmdtMDlQZGlQb3lZZzZ6dTd4VHNFbGh1YlpsZlNXdkpUWHR0MktSOWYzc0lMUWk?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 13:51:40 GMT",
-        "source_url": "https://www.wfaa.com",
-        "source_name": "WFAA.com"
-    },
-    {
-        "title": "Motorcyclist dies in Dallas crash Sunday morning - FOX 4 News Dallas-Fort Worth",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWJXNTBST285c2szZktFLUg2Ny1ZWlhSc0p4bmlRdGxjQTBqcUFydlJqNXBnWEM5dzE1dEpFNGVzMXJ5TVRBMzY5cjlhbE0ySmVEaExoTnlOeWxWTHdUVVkwRGdXemdzZjlNZ08yQ18yeHcwQlFuNjNUcTdqYVM4U2NRQzdYV1lOSm1R0gGQAUFVX3lxTFBfQzh3SE9Xb1M2VHczNjNxQ1dwdzgzSi1PYzN3emtMbHNjS0ltUUVIb1RuZUJHQmhqUVRTWWtQdGNNQXJIa3hLMndleFhpVFNha3U4VHRHTXpiS3F3NlZJYzFRUTFSd0sxNG54RUt6MWk5dTBwbXNvQ0kwbmtPUnJVbjJnRjZERXlrMlVnbXVWNQ?oc=5",
-        "description": [],
-        "pub_date": "Sun, 24 Nov 2024 20:54:38 GMT",
-        "source_url": "https://www.fox4news.com",
-        "source_name": "FOX 4 News Dallas-Fort Worth"
-    },
-    {
-        "title": "Dallas\u2019 Mammoth Holdings Appoints New President/COO - dallasinnovates.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmZJWDh5WHQ4V3owQkVVTnJyZDItTElodkJES0o1X2JvOXFzcEwwRHFXODhvbm82NEJhNlFEd21NbTlmM3VPV1Q0MWdfbU11Njhac0N6WGdXTTYtUEJqano5MGlGR2R3RmVZSDFJcDQ5Y1N2SzBMSlVadWZtUUE2eWhIUjN3dw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 00:13:05 GMT",
-        "source_url": "https://dallasinnovates.com",
-        "source_name": "dallasinnovates.com"
-    },
-    {
-        "title": "Dedicated team transforms Mesquite Animal Shelter through innovative programs - Star Local Media",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYXZPYVNHcEJPWFpXOG4yZFZ2SWRXUEZqcHdielRaQ0xfa1Y2aDJKUl9mNkNiZ1JjNC00RlV3UzdCZ1A1OFV0WmxfUGltZHVZMzhrampSUVFIVGhJSVh5U3kyaDE3VS1DbERmUElXT2FjTUlnMFpmY3kxLVhsY2g1NlBPNWhwV29QdWo3VmhSY2ZVOWwwOHkycUZkQXFRMnhsUS1TNUhTczczSC10YnRjWTFIejhFbUNpZGw5M0JBMlJEVlR6X0FFS1E1S3ZTdlpnVmVpQ2NQb1BLeEJIdl81cVNXcHJzNUJxTWF5VnV6VW5zX01lZGt5MFNDSmN1Z3l3U3c?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 14:00:00 GMT",
-        "source_url": "https://starlocalmedia.com",
-        "source_name": "Star Local Media"
-    },
-    {
-        "title": "Methamphetamine Trafficker Tied to CJNG Cartel Sentenced to 40 Years in Federal Prison in Dallas - Irving Weekly",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVEo0b04zZkkxUjN2VDVHTVlYQWhFNVNfY2VLOGdUdFdCcTNKQy1zZVFPVnlOS2ZINnRiS1NKcEZwWlBzTjktanltaG9OcFBDTlVYYVZQNHJibk40TEEyMkZjUFZfTjYxMF9ubC1jODVTSzFrOGp4NGIxTGhEamJrVno5UEhZR1hQd3U0VWRmcWx5U09ibXc2TWNEM2dpQzBGcTljTHlGMXFYaktBT2Zkbzg5eExXUGZtUDRYWnhMWUZLVE5qR2JyUEUwVWxhbDJNeGc?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 19:54:12 GMT",
-        "source_url": "https://www.irvingweekly.com",
-        "source_name": "Irving Weekly"
-    },
-    {
-        "title": "Paxton Sues Dallas for Decriminalizing Some Illicit Drug Use - Dallasweekly",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG5CbFhRRk1pNlVVYUJRRFRIaWx0R3RMR3BKSzJiLWV5aW1idFFmNjRmM3NVNDJ1ZGQzTnAyaE5XQlJDc0FJczZEd093WDlqbVJyeERYZC1QcE9CSkM2QnQyMjk4ZlBDNElOR1pZeWhGLTZnclhXa2ZhZDhFNUFxcW9XQVBSNjBFZVgyQ2hrUktsQ3QzTFZNOU5R?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 16:59:19 GMT",
-        "source_url": "https://dallasweekly.com",
-        "source_name": "Dallasweekly"
-    },
-    {
-        "title": "Dallas ISD students perform in Macy\u2019s Thanksgiving Day parade - Dallas ISD",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGRUZUZtQ0NmNmJ6WC03M2hJeGxFaVAyR3ROQnRoUWVmb1BLSnZfZVI1SFZUQmNGRzJNdWIxY0JVODE0VHhFQ1FMaEhEQ2laN2lQNnd0aHFFYnFSN3VhaDEwYnhpY2kwYzdPak5ERUdMano1X2YzN240bjJWQmRncGZnWndWeHZ6LTBJeDlVV2JXUTJaLV9HVk5zZC1HQ3ljOE5V0gGoAUFVX3lxTE96VnN1Qk1fOXJJQWFkNk1aWTh5MnU1bkZxQ2RWSWpEVVlkOGFIOXdVTS1SNU96LTlhUkZubkR0dEFsLUpVYkp5VDVOQUQtTDYtM0RKTXQwclFSYXFod3ktRDZncUx2b1JRa3FzSHp6azdOazNYM2pLdmxxYmJxTm55UWozemp0N3JkVk5DSGRzQ0pHaFUzMk1mekRDc2IzUHk2cW5EUTZUSw?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 17:54:38 GMT",
-        "source_url": "https://thehub.dallasisd.org",
-        "source_name": "Dallas ISD"
-    },
-    {
-        "title": "Experienced Leadership Team Takes Command with Launch of Dallas\u2019 Formida Capital - dallasinnovates.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHIwZHY3dTE2b3p2M2xncmp5RnJCeVZNNlVBWElKNVR2WTJKYWlfY1ZMdVlXZGpvV0VtdUh3a0MzdWpwUEZudHlhUkYyYWZJZkNycmRPZ0oydlFBRzJfaVh1TndFeDd1aEpJcHZQRkhwcTJEQ3RZcHJTLWFrYWl6SkpWZS1OTEVXbkZnM2hEMWRKYk9EekNKRDVlSnp1VDVoWUFzbWl0UnFwajBX?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 23:53:20 GMT",
-        "source_url": "https://dallasinnovates.com",
-        "source_name": "dallasinnovates.com"
-    },
-    {
-        "title": "Dallas record store chain Josey Records spins new location in Garland - CultureMap Dallas",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CQlpwSElDVXBFRkJVUzNDbzhSblJwMmFwZzhBcUV0d1VkYnBkT3BYdGJPakJoSFR6Vzh6YW03YnBRZDkyME1KQkV5VjcyRFlSWnBsSFQxQ0Q0YnZud3pWUVBBUy1iS0FBbENJQ0l6TnFNWlgxYnIwMExKMA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 01:03:00 GMT",
-        "source_url": "https://dallas.culturemap.com",
-        "source_name": "CultureMap Dallas"
-    },
-    {
-        "title": "Dallas woman dies after multi-vehicle crash in University Park Friday - The Dallas Morning News",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjItUjlzNVM2akIyeXJfdzhLc0gyZnpBWmREUTBRaXFYWlhLZl9pa25vZ0dWTGdSYUd6MnhDTXgzd3MyUFowWXFPYml2MWw2SXMzMk9lcERidldoOEp2cVc0UEx4U2x4OEtFcHZNZkpsVU15MHpLMEI5dG9vQXBIa1VzaUQzZndfYnNVY1RFREdLME5Cam9vTWVXQ29ITzY0UkJaQVZpX0pIZkZkTXl6TDN2WTRKV0RlMWtPYUFGcS00VU0xTE93cjdn0gHeAUFVX3lxTE1xYW84TXpZejBrbnR1UGVqTjl0WnNQZmU1UVh4NTNMbV9UbmJtRHFpTEF6a2ZhVkNuaEdIdk50M210aGtXNnYzZ2d2eU1rc1lVMF9oajh6V3ZHWldmVl9zM3E0MUdlaU9iZ21rWGJ5eG1wMnRqc1RYSTQtVE1Pemd1NVRxWldreUt4bXNMNkgybk5UVHBuWHJaU2tQM05uQlVLRnBYaU1uYkpETGxlTUFraDVmUUhhWk9IWEtlQ3l6a2xJam1yd3F5OVBKeWtNY2Vxd29ZYXR4dWhyQzI1UQ?oc=5",
-        "description": [],
-        "pub_date": "Sun, 24 Nov 2024 03:01:59 GMT",
-        "source_url": "https://www.dallasnews.com",
-        "source_name": "The Dallas Morning News"
-    },
-    {
-        "title": "Examining the climate risks in major cities, including Dallas, Fort Worth. - D Magazine",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekdGLVVmZC1kSU8tbFlzRHdVSWU3UXdyMk9JVjctdV9DT0UyS0hTOEJVZW5kZC1VYm5MQ1BDM1BJOWw0NVRWTVlwSEZnV2N1MUhHOHJMdEVDNkMwNDRvTzBxTW9NeTd2VnQyb3FnblhTOUpDMV9pZ3NtT1pET1lxZzNFSldzenY5eFhLMlZFM1ZFUlZZdll0bUZrYXM5M3V0Y1ZjMU1nZUJaeVNE?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 18:52:31 GMT",
-        "source_url": "https://www.dmagazine.com",
-        "source_name": "D Magazine"
-    },
-    {
-        "title": "There will be major traffic delays on this Dallas highway this weekend - WFAA.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVBpZHI4R0JpZ2hwZjE2QTZ4eWZRSUJoaWZIOVpON1NiSC1qbTExSmFLQnR4RDFNeVllX2F6TWd2UXUyX0hpVXBOTGxZVzlVeWtEOGh4R0d2RzJDMUlfUmc1VDIyNjRHNmVqdExEVjVXd285Sy1rejlUaUJuSGRHckxVRlBaZUFhSjBEUzRLRExmYkJVTXNwUFFqVFBWZTlrXzVxNkNwMF9QdUZSX1hleXJldjk0dDgyLWZQaUZTMFViS0drWEIwaVBHSFhpMmRJMmtqb0w5cHhMUm05bUdkZlB0Y1hiRlRlUi1z?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 12:15:44 GMT",
-        "source_url": "https://www.wfaa.com",
-        "source_name": "WFAA.com"
-    },
-    {
-        "title": "Back to the Future: The Musical coming to The Music Hall at Fair Park March 18-30 - North Texas e-News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyX3k2VGdmWVAtUXpCRGxyUGc1Z1lGX1JCUkFPUkREbGtYTTRteUVpbE1SYmNJY0RST2hfU0pfV2txeEc1RW1fWTFINDYweHJTMDFlTmFQX0ZfMlZqSjhVd1dtdWpmRmJmS2FRTg?oc=5",
-        "description": [],
-        "pub_date": "Sun, 24 Nov 2024 02:07:02 GMT",
-        "source_url": "http://www.ntxe-news.com",
-        "source_name": "North Texas e-News"
-    },
-    {
-        "title": "Dallas\u2019 Stream Data Centers Appoints Chief Operating Officer - dallasinnovates.com",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjY4YmlVWU5FTlBWVS1YN1FRdWMwMUJLWEF3YV9sXy04R0o2V0xuOEVBQ1BJWHB0YzduQ0Jfb0ZqNWFQeW8ySFI4Y3E2N2RyVU9aLVRvbkNaTExsN3l0NW5qWGxCdHpwdk96X1J6SjRMUTZhTjJnUTJWOEF4R0xoMGd3TTdKLV80MUFtbzNZSjcwdw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 00:12:01 GMT",
-        "source_url": "https://dallasinnovates.com",
-        "source_name": "dallasinnovates.com"
-    },
-    {
-        "title": "Betsy Buzzini Tyson - People Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EYTlSRmNTcXVNSDE2bC1aRkVlbkFlMVFfYkdQUU1DX0pOVFYxOF96Yk01dl9MYjlZSWFaQnRxcXhyRmZhbUhlQVVsV0N0WTBzRm5Hd2ZNeURNZERNY3pVYmJ1cTY0dFVmcXJ3YzlVelZPdw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 25 Nov 2024 15:05:18 GMT",
-        "source_url": "https://www.peoplenewspapers.com",
-        "source_name": "People Newspapers"
-    },
-    {
-        "title": "Help or be helped - Dallas Voice",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xNlN5azFCYjd6VWlJUWxSalUxUjRINWJ1UFBnalVoVXJ4cFBtLTNSQXFUZUo4Rk5XdFo4ajRtQWVwZS1iRWJjTEVOd0lYZ01qNndnRQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 12:10:00 GMT",
-        "source_url": "https://dallasvoice.com",
-        "source_name": "Dallas Voice"
-    },
-    {
-        "title": "Irving amps up quest for more HQs, jobs, redevelopments - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanRhOFpiUDFpamVwZW16NEZsR1FETkE5aTFjWG5VcjR1Ui1wa2VMMlFGWkwwOWQ0UTFuRzFzSzNzb003QkJEQjFrR194alpEYnViS0FfOGdsaHZ0a05aSFBwQWtJbGF3RHFMb3lJUUF3QmNkZ3ItQ3Zub0pLNlZMODZWbzk4d1pPSEw4TzRXRmdOSlhuekZqQS1iTlNmQ0ZhZlFPVGR3?oc=5",
-        "description": [],
-        "pub_date": "Fri, 22 Nov 2024 12:00:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "What to know about Scott Turner, Trump\u2019s pick for housing secretary - CW33 Dallas",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUC1ZdHlacWxTcXlDM0pFU2hIZ25Qdlk4NW1WbWM4ZzgtSDFOWmVWTi1Fc1A3dWc2UEEtUS1fQVhrTC1UV2ZGTURuSldVbjN3ZjQyQUMxSjlEd0x6RmwyMzhsclZjZHFqVjk4SG80bWdqNGtpMXVXSHBNTndPb1lWYVkxUEhJbENDZHZzSjRaZmo3Z0xFOVRQUzMxZzU3N2hxaGlMWTlIcjJweVFh0gGyAUFVX3lxTFA2cXQ0aWVjaEc3c3BSN1NWdF9sb3JkdUZnb1VNNVMxQkExZndPLVQyelNSNUZhOGpRTWJ2M2tHbGd6NVdkVHRkb20xb0FzSEUyMjFvUTRQLUlId190VUtRQmRSTXpfMlNWbG5LbXZtMkV5NkNZa3NQUlF4NGpqQ21DWl9FYnN5T3NJY05ZeU1QVE9Fc0o4cXB1enpSc3FLb3QxSmdSRHNkbUVWeE0yMzhPeUE?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 16:46:13 GMT",
-        "source_url": "https://cw33.com",
-        "source_name": "CW33 Dallas"
-    },
-    {
-        "title": "Dallas Police Investigate Triple Shooting in Southeast Oak Cliff, One Dead - Irving Weekly",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWRxQkh0ZkVMZWpiX3VQQTdMZU9iR0ljQ016U184ZzF2RkV4eWNPUkdpaUdxa3Itd29YWlI4TU1ZTmk2a3RiQmVleENramx2UHNMUWU4NzhTOGdsQVlDRW9BX3BsYUZtQ2JEVVlBWE9ZSWNqaXBJVk1zYmtna3pRQktkdWZoNFM1c0tCZ3pYWEhuNV9pblQ5X2UteURTOG8tVUFHN1JCamlVLTdUUTl6ajlhdw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 23 Nov 2024 00:58:27 GMT",
-        "source_url": "https://www.irvingweekly.com",
-        "source_name": "Irving Weekly"
+        "pub_date": "Fri, 22 Nov 2024 19:17:45 GMT",
+        "source_url": "https://www.nbcdfw.com",
+        "source_name": "NBC DFW"
     }
 ]
