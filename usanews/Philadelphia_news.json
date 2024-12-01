@@ -1,27 +1,51 @@
 [
     {
+        "title": "Driver runs red light, crashes into another car leaving both hurt in Southwest Philly - NBC Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlNPQUdzSkpBUktya1pOeW55OWw5aHdGS29SNkdYb1Y5dWhKWjVoNzlqdzNOVjZLLXVkaFdEeEk0ODFtLTZ5SkxLcEF0YllFcnBMaWVPUkJIMzZEVlVYYzRfUHZkUkhUendhZTRoWUJ5SGxLZFMzVHptXzYxM1Y0eXpJQmFReG5rSngyd2Y0UmtyWG5mMi12bHZkdUx2UdIBpgFBVV95cUxNTGZ1WkJDaElaMWdWcENNMURJWkJQYTB6VmZMZC16ZVJCeWtoa1B4Q2ljNWJwcXZqaVVvYTBiRDVuMmd0WWdheThZZXNiS2dRbV9aa2QxVFFPeUZ4R2w5Z1ZzTDRYRFY0T2QwSVBVNEJhTE9xUUhFNmZrZHEyOFRaS0hCTFN5elRNN1BvVll2NGRlSGhidjNpa1UzRVFsRTYxUGxBcnJn?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 03:02:32 GMT",
+        "source_url": "https://www.nbcphiladelphia.com",
+        "source_name": "NBC Philadelphia"
+    },
+    {
+        "title": "What to do during RockyFest Week - Axios",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2daaU5WN3Z1TVF1UFBVLXc2Nmh1WDJINERWWVdHRmFvSU5GTDY4OE5TUWhRWmtoM2NEVzdZSVVLY3ZxTG9jbE5id1Fzai1FQzRubVNpR2JtUG5NSklRQjF0bjJ6SlNDUjM0NGkyVEVMSkE1eWZsMEJxOFIyclVNTVdvNlllRmtH?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 11:02:41 GMT",
+        "source_url": "https://www.axios.com",
+        "source_name": "Axios"
+    },
+    {
+        "title": "Big Jay Oakerson (21+ Event) - Burlington County Times",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnlWQUhnTG1QcXczVUVKZHhSUEFqd25FY040TGhkY0YxX3F6b25KZ0lXTmREc3lfbmtsVVJNQmhUdjJzUnVjT3dyRHdQa1FyMlhnN0pnRkMydUhieFJhaEFCUldjZ1l3S082MVUtQ3doU08yWmF6ajRNUm10UWhabVRIeXRLblA1bWNzdGp3bHN5N0pSc1EzV0FZeFZLY0Vvb2NnSzl6Yk5naXNvODNvZ0dBNVp2dG1m?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 00:16:10 GMT",
+        "source_url": "https://www.burlingtoncountytimes.com",
+        "source_name": "Burlington County Times"
+    },
+    {
+        "title": "Philly prepares for mass deportations | Morning Newsletter - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXlJbV9IYnhtcm5qLXc5QWEtQ0RnZ1g3ZllXa2hBdnFXSEdFOHItQWF3OUJyMjR5U0Z2RVlqRFVWRFVMLW94cFFyLXZsMHpFNHJMdzdpbUVCMUtKa3M2ZG5vNHNpbGFIRWRxSTB3Mk1lQTJ2c3RZckc4MFlSZkZBSWtFLVp3WkN3TFF0TjVHaG5pcjhNU0QxempiWDNLNEVJTGI1ZTQ3QTNrQQ?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 11:00:02 GMT",
+        "source_url": "https://www.inquirer.com",
+        "source_name": "The Philadelphia Inquirer"
+    },
+    {
+        "title": "Expect high-speed internet in 100 Philly rec centers in 2025, Verizon says - Technical.ly",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFxQVFLN2Y2dEtWNmpGUEJnajNtMHk4NlV3OVpERG43Z0haV0F5aUJLNjg2VWNNbmozTkdZNEh3M3RnN0NVSnFJV2FjN2d3Nm9iREtXN2xMeUJjeV9DdHFabWZ0em9nWjFCb0UyeUFzQkgyZFM4ZXlQVUU1WjdfRFo0cmV6UQ?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 11:00:20 GMT",
+        "source_url": "https://technical.ly",
+        "source_name": "Technical.ly"
+    },
+    {
         "title": "State Police Arrest Philadelphia Man on Felony Charges Following Road Rage Incident - Delaware.gov",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkRNRmRsVGpyaUh3My1meVVNM1FfQTBUOXVIU001OFFqWl9TSm5oS2IzSUMzNlNUYjVheWQyYnlDTzEySjI2S0Y0QUh6TUpwc2R6OUlnYmktWEZqRW1Hd3RwQS1KcWFzQUZVQTVGUW1GaWUwRnpvRUNXTE43eWJ6RktGMm9rOF9ITzVEQkhNMlRjQkptTUdudnNseHotNy1qQmI3NVNrc1NMR0dTdVJ3dkl6MW9VTUZyTkdEZQ?oc=5",
         "description": [],
         "pub_date": "Sat, 30 Nov 2024 19:01:45 GMT",
         "source_url": "https://dsp.delaware.gov",
         "source_name": "Delaware.gov"
-    },
-    {
-        "title": "New book shows how MF DOOM came to Philly and found a creative home among misfits - WHYY",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xUk5UUjRPU2VnUW9SZ3locGhURi1SR0o3QlY4RXFQaDdSRWNiQ3NBNkFSOThUcC0zZWNCRVZsUXhMWnZtUE9jNXVYT0FMbThqQ2NtVlFreEl6OWZNUGxYVXEzdGNLMENsM1V4WDIweDc4eHM?oc=5",
-        "description": [],
-        "pub_date": "Sat, 30 Nov 2024 11:01:14 GMT",
-        "source_url": "https://whyy.org",
-        "source_name": "WHYY"
-    },
-    {
-        "title": "Big Jay Oakerson (21+ Event) - Burlington County Times",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnlWQUhnTG1QcXczVUVKZHhSUEFqd25FY040TGhkY0YxX3F6b25KZ0lXTmREc3lfbmtsVVJNQmhUdjJzUnVjT3dyRHdQa1FyMlhnN0pnRkMydUhieFJhaEFCUldjZ1l3S082MVUtQ3doU08yWmF6ajRNUm10UWhabVRIeXRLblA1bWNzdGp3bHN5N0pSc1EzV0FZeFZLY0Vvb2NnSzl6Yk5naXNvODNvZ0dBNVp2dG1m?oc=5",
-        "description": [],
-        "pub_date": "Sun, 01 Dec 2024 00:16:38 GMT",
-        "source_url": "https://www.burlingtoncountytimes.com",
-        "source_name": "Burlington County Times"
     },
     {
         "title": "'In-person retail is not dead': Philly shop owners hopeful for big Small Business Saturday turnout - KYW",
@@ -32,28 +56,20 @@
         "source_name": "KYW"
     },
     {
-        "title": "16 places to responsibly dispose of old electronics in Philadelphia - Technical.ly",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3NlVDJaTlJZLXRNN0JKZjNlWWFfbF9telFGdGZTanFXYUVtMGl2TmctTmRUVXRvZHdIUVp6YXppRU5PX256MmJPaDR6a3F6QU81andNYlhHSVpONkxqUHR3ekQ1QnIyZS15ZXdfMEpucU5pV0JTOEd0Mml1OHA4bEZpYzJsX1p4ZG1fWQ?oc=5",
-        "description": [],
-        "pub_date": "Sat, 30 Nov 2024 11:00:45 GMT",
-        "source_url": "https://technical.ly",
-        "source_name": "Technical.ly"
-    },
-    {
-        "title": "Driver runs red light, crashes into another car leaving both hurt in Southwest Philly - NBC Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlNPQUdzSkpBUktya1pOeW55OWw5aHdGS29SNkdYb1Y5dWhKWjVoNzlqdzNOVjZLLXVkaFdEeEk0ODFtLTZ5SkxLcEF0YllFcnBMaWVPUkJIMzZEVlVYYzRfUHZkUkhUendhZTRoWUJ5SGxLZFMzVHptXzYxM1Y0eXpJQmFReG5rSngyd2Y0UmtyWG5mMi12bHZkdUx2UdIBpgFBVV95cUxNTGZ1WkJDaElaMWdWcENNMURJWkJQYTB6VmZMZC16ZVJCeWtoa1B4Q2ljNWJwcXZqaVVvYTBiRDVuMmd0WWdheThZZXNiS2dRbV9aa2QxVFFPeUZ4R2w5Z1ZzTDRYRFY0T2QwSVBVNEJhTE9xUUhFNmZrZHEyOFRaS0hCTFN5elRNN1BvVll2NGRlSGhidjNpa1UzRVFsRTYxUGxBcnJn?oc=5",
-        "description": [],
-        "pub_date": "Sun, 01 Dec 2024 03:02:32 GMT",
-        "source_url": "https://www.nbcphiladelphia.com",
-        "source_name": "NBC Philadelphia"
-    },
-    {
         "title": "Bollywood Desi Party in Roar Philly - Burlington County Times",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOEFoSTBJSDg1M1NIS1VROXVDandKNGZOTlJ3ZlZoOThpbVc2OHZHeTRMQkhkazJxanhsTXNTR1p2TjFIVFpESnlXeV9pZjNtNnJfZjZpclV3dHIyRDZqUnR4MzYzY3RwMS1RNWlua2Y4bG5wRzJFdU1ITTNreDlEWUFLN29oUC1vUUswMlBHaV9jUVVRVmRCTFl0Qmh4eDZ6N3cwRmY2ZktpNE5MOEU3eEFGOFF5LWlGNjhOcF8tVWVfNWNfaGpKcA?oc=5",
         "description": [],
         "pub_date": "Sat, 30 Nov 2024 04:16:09 GMT",
         "source_url": "https://www.burlingtoncountytimes.com",
         "source_name": "Burlington County Times"
+    },
+    {
+        "title": "16 places to responsibly dispose of old electronics in Philadelphia - Technical.ly",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3NlVDJaTlJZLXRNN0JKZjNlWWFfbF9telFGdGZTanFXYUVtMGl2TmctTmRUVXRvZHdIUVp6YXppRU5PX256MmJPaDR6a3F6QU81andNYlhHSVpONkxqUHR3ekQ1QnIyZS15ZXdfMEpucU5pV0JTOEd0Mml1OHA4bEZpYzJsX1p4ZG1fWQ?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Nov 2024 11:00:45 GMT",
+        "source_url": "https://technical.ly",
+        "source_name": "Technical.ly"
     },
     {
         "title": "How Much Snow Will We See This Winter In PA? See 4 Predictions - Patch",
@@ -64,28 +80,20 @@
         "source_name": "Patch"
     },
     {
+        "title": "Man Dies In Philadelphia House Fire, Investigation Underway: Officials - Daily Voice",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOW9kWkZteDRYUlBDemMxZEFsNThLSVVUOHZGMWR1c2xERndwSkstZlJiTkNGQ2NzSVl5ZHdBbkJkdEF1dmIwTkktSUhrcUlNOGU5a1hkdGNSOEpxRHRRYi1UWWpkX3JPcEFSQjIyMklVN09MejR5djUyRGJ0SWVESU9LWjlWYzRVZjk1STRlMzNlaFVBUEFFRTVtVjBMWW92RTU1S0lNRVBnYnhnbURBR0t1T3dQOW5tWEdr?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Nov 2024 21:53:38 GMT",
+        "source_url": "https://dailyvoice.com",
+        "source_name": "Daily Voice"
+    },
+    {
         "title": "50+ Gifts To Give Joy and Do Good - The Philadelphia Citizen",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EYTFoOW40SlJnWFZJYURxeUhPSDhjUDd4VUF4WVowS3NoMjFuZkhkV2hLbmxFOFNJWmRFVXpyUy1WbmpXZUpwODNVRGZ6OEpIYU0tWDI2dk92bHlPRTY0al9yQnFuZUZBWE1zdjQtSDFNZFdPZTNN0gF8QVVfeXFMTnpKa0VQOGRfcnZ1T0s5Snp6M2dDeHl5OXFhQ0N2YTE4OHcyUndrY09YM21MMGpMQjFwaXRjNGpVQVVka00tOWFzRUNsYTl0Qk5OSkgtWS1XNnFfNXphMnNWR1FoeXd3cG01U2tXc3NFdFlBWUlBclVlcjkwTA?oc=5",
         "description": [],
         "pub_date": "Fri, 29 Nov 2024 10:59:05 GMT",
         "source_url": "https://thephiladelphiacitizen.org",
         "source_name": "The Philadelphia Citizen"
-    },
-    {
-        "title": "Taylor Swift\u2019s \u2018Eras Tour\u2019 book launch at Target was no big draw among Black Friday shoppers in Philly - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMEtMbG9hX21XWW94QTYyd1NRQjNsTThRLWFJakFxLTNpdTUzbFp0LWlTS2F5enBjRUlsXzdBTmRWc1drMUg4Si1peXc4S1h4U25TMlhXUXY2aHp3OUVweGlHWUVVbWFnQW9hZkVNSGROQlZQZXExQWU1TGxzaTNUX2wxQU9NYlVHeGlacndnOA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 29 Nov 2024 23:11:10 GMT",
-        "source_url": "https://www.inquirer.com",
-        "source_name": "The Philadelphia Inquirer"
-    },
-    {
-        "title": "Double stabbing inside Philly prison injures 2, police say - FOX 29 Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGpJNHVEUTZldS1hT0c2Si1QVDFfUU9ycUpQRm5UbEpEWGROS3FMY3Q1RjRjdi00cFN3bkp1VVllNmduRlp6WGFmdloyTVZIVUVPVkNlcHhXSURQRTZKYlF0bmk1bEQwaG0yQ2ZkSUJBNjVWWU4zb0s3akRhdVpocklVRzl0S2VFU2xaRtIBkgFBVV95cUxORzZVTmlwNHBDUDQyV0J2YzRBSFVabnNHMGZjVVgyYVdZZ2dyMEZCaFhoSTU2cXhNbm1QSXlISXFXb2psc1VzS0R0S0E4UHBLOElxbkVsbVZqaTJMbUtpMC1lNzFjbmlaZGh2d2MtUm9NUU1KZTBDa0szekt5TEw3Z0JyZVpkRmIzNm9uSjlYb2RXZw?oc=5",
-        "description": [],
-        "pub_date": "Sat, 30 Nov 2024 02:05:40 GMT",
-        "source_url": "https://www.fox29.com",
-        "source_name": "FOX 29 Philadelphia"
     },
     {
         "title": "\u2018Elf, The Broadway Musical\u2019 comes to Walnut Street Theatre - The Delaware County Daily Times",
@@ -96,12 +104,12 @@
         "source_name": "The Delaware County Daily Times"
     },
     {
-        "title": "Things To Do in Willingboro, NJ - Burlington County Times",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0ZDUzVpV2dKVFdiTjBUakZrbm00eDluQ0xJNmJnRGZLM3NjNVdGejZWSUY5bVZnMHBobVhIMUFPbHlFV0ljUkZRZWFzMFRfd3FKdm9yV3RMVURiV2FDdVJqbXhmcjRxWDg2NDkwM0pIMVJmRGpkOEE0NDlNcEtzZFpMNDA3dkFsdWdvSjg3Z2lmb0ptemJwWnoxd2EzNnJ1eHYxc0RSUExGZw?oc=5",
+        "title": "PYN survey surfaces barriers to student goals - WHYY",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QdW01MXFLTUlyR3BNNnVvRzJxbmpIb25IVHVGT1I3UXpUUUFuZV80RHBPM2ZWNXRBbGNSX0NrWnpDSWx0Z1ByeGd0NXp4endieV83RFExT3AtQnNfd0ZIWk1NMzgzUTBmTlZSRHFJRDliVW94RzdNV21BZ0pNQTg?oc=5",
         "description": [],
-        "pub_date": "Sat, 30 Nov 2024 18:26:33 GMT",
-        "source_url": "https://www.burlingtoncountytimes.com",
-        "source_name": "Burlington County Times"
+        "pub_date": "Sun, 01 Dec 2024 10:18:04 GMT",
+        "source_url": "https://whyy.org",
+        "source_name": "WHYY"
     },
     {
         "title": "Rittenhouse Square to host tree and menorah lighting events - PhillyVoice.com",
@@ -112,12 +120,44 @@
         "source_name": "PhillyVoice.com"
     },
     {
-        "title": "Philadelphia-area shoppers 'bargain hunting' this holiday season - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWdtS2YtOGRBa2xoMDRUeEx2Z1NVOUZBdWdwNkhhTnpFQk83ZThZQkVIazZDTjlnVFpldzRNYlc5eDJuYm42RGtZUkJpbDQzQlRSN3ZBRkhTSUFaTVlZR0c4TEx0ZlVQRHVSZ0tmR0JKQkx4NFUxcFM3bFVaZVBFbkwwVE9fSnFyNkNNN3JYYkgzNlFRYm52TERIQ0dESzVtaHdLejhrVUU?oc=5",
+        "title": "Endangered Missing Person Monique Gaymon from the 17th District - Philly Police Blotter",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDFKX001U1EtY3lKeFFDMzhhWXB2cDNLdDJqbzRwRFliMDZJVkRJSTFWZmhlc1NhS1Zudmt4dDVnMzFUeUJPeV9WWW1vckpOVjlLTTlIUTJCVXFTZHEwckJWdGJVempmbDROcTlGVFhjSzMwWTNhTkZGdFVzMUpuZldkeE1yai1haDY3aTF3X2daTVNwUkN4S24zR01vcEYxUjZ2a1Q4MUUySmYyUnFudA?oc=5",
         "description": [],
-        "pub_date": "Fri, 29 Nov 2024 03:29:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
+        "pub_date": "Sat, 30 Nov 2024 15:16:19 GMT",
+        "source_url": "https://blotter.sites.phillypolice.com",
+        "source_name": "Philly Police Blotter"
+    },
+    {
+        "title": "New book shows how MF DOOM came to Philly and found a creative home among misfits - WHYY",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xUk5UUjRPU2VnUW9SZ3locGhURi1SR0o3QlY4RXFQaDdSRWNiQ3NBNkFSOThUcC0zZWNCRVZsUXhMWnZtUE9jNXVYT0FMbThqQ2NtVlFreEl6OWZNUGxYVXEzdGNLMENsM1V4WDIweDc4eHM?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Nov 2024 11:01:14 GMT",
+        "source_url": "https://whyy.org",
+        "source_name": "WHYY"
+    },
+    {
+        "title": "Harassment Of Philly-Area Jewish Institutions Lands Man In Prison - Patch",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmRTODZJTjZKZ3FYMzN6MkZ3RzRVRldmcmhtS3NhUG1qQ3A1NmR2TWJxYUNxX1Q4VkU1dEs2M24xczZTU194YzZBcWhjY2QtYzNhRGhPNGFUV1BEcEN0NnBBd3puRlI5QXBBQlB4a011cTdqcVpRYzN6ZG8wUzhRNW5VQVJUSnl0ZDNaS1ZVNXRkV0VQa3VtVWc0MjZDQzYwdDVzY2J30gG_AUFVX3lxTE92UjRMaF9qNFExYUhxekU0bVczdnpwR2gtb3hpSkRVRy11ZG5TaElpanNmYktUWXFkeGhCeTRrYjQwakl2MHZIVnVIY3VVRHQwVUk0dVVMMlU1bi0tS2JIUXRqTVo4WF9Fbk9WZlQzMVJIcGR1M0NhdUlBSl8yOFFfMVhKNUNZdVRQNzFzOEtFR2lJSUo3T0tqREg2MDR5ZWpZMlZRRTFwcjZhUVdMcExENXBlbU1SUzJDTDdJdldj?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Nov 2024 14:31:38 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Philadelphia Teacher Honored for 50 Years of Dedication - Star News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM1NRWnVkYTlRWDNSV2FBNVJ4WnRaS1NRRFRvUlE0UEJoSmJDVGdqcDZVUVRBTzcwdndFZlRPZkFNOFZHcU1UVTV0T3B2NzhGX1lmMWVrNEh6QnZCaE54MzJGV0JyeDMwamJGc2pmVTN6cFdtVDNtbVBsMTd4ejE4aGNfN3BjR2FlanM4UVowRU13TmswcmF5VzlR0gGfAUFVX3lxTE9aSERpTHpqeHZjX2FCb2RUVUF4dnQ4WW5RcV8zVWxMdTJ6Z2xhNFlxNF9MQW45b05XRERwTlFCRVU1SjRsb1d5V04xc1lBZlVUWTdSMkl2bW5OLVYtdnBQTnFDTTZvcU9oMWV5MFVVMThyc3g4S1kyT0hHeHZhXzhtZ1cwU2Z6c0VPbGRfMmVNMWpNcGZVWEk2RnlXU1VNZw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Nov 2024 10:56:55 GMT",
+        "source_url": "https://starnewsphilly.com",
+        "source_name": "Star News"
+    },
+    {
+        "title": "Book of Bass: Chapter 3 - Ft. uSAYbFLOW - Burlington County Times",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3dpT3pqenpLRjN3VDhwTUo2WGFKX1czdTZRdzI0MG5za2t5YzNnN2lRWjdZRkJVT1ZGejVsZnhLVGZHQll4VVJmVWlTSDI4UVA4NmpnMDhSWXR0Z2ZkZGtOWURQYTFIN0RDal9WX002V25hZ1YybTRscHktWXRJQkNDd1owQlJMXzU4cFlSa1F2RnE0Zzl5cnQ3NE04YmhENWIxSHBtNHpzZWN3VFAtWWNJS3dOTl84MFN1dktocEhfSEFIYjNQSw?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 02:31:10 GMT",
+        "source_url": "https://www.burlingtoncountytimes.com",
+        "source_name": "Burlington County Times"
     },
     {
         "title": "Philly area schools can get free guided tours at the art museum through February - KYW",
@@ -128,28 +168,20 @@
         "source_name": "KYW"
     },
     {
-        "title": "Driver dies after slamming car into front porch in Philadelphia: police - FOX 29 Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGF5Z1o1d1dfbW1OVUNlOUF0X2huRjhRWEVZd0hocDNsbUVyY0pRc3ZzeGZ3Wk5rQXppZ1RQNW1TeDVyZ3VOSUxrUU5pMERwZFY1Q0FfZlFJaVEyOTJOT3ppQW5qRUlFZXdOa24tX1RoLVM3Vm5TLWJ4TkNBdnlUQ21DX09MN3ZpZ2h5NXZzMWRZMEXSAZgBQVVfeXFMTnlzMVpkZ3FNX0pzZ1JlYTNXbzVtalUxMndxWm1SYzFPSDlqeE5MdDN5QmJmYkxETGdNSUlTeXV3TGU2T2pwdVNCUktrMmdHbEpPMDJtT3hvMXFkcnduMnA3eTNQVmtfSHdnQTZSb01xeDlIbHFSYkJBVXFPMTJ0Z0FDTFVxSk1iSjN6YTlqb2dIaFJENzdLYkg?oc=5",
+        "title": "\u2018Abbott Elementary\u2019s\u2019 Lisa Ann Walter brings holiday cheer to the Philly Thanksgiving Parade - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObk9CSnYtRWpxSmFQSXNveDA5VUZ5aHY1dGhNYWdQWEc0Z0NOOHIxVThqUUpsS3hqWGRQR09EVWFNZjd1WDR6V2RoQ0ZCS2pfNlpQbEN2Q1RNTkNjTmRfeE9GTlZYb09UUXRNblA1cTVqbFRkNHNBdUdlTERDbWh5SkV6SzdTSU9RSVVXUXlpTWJEODU1UFNqU3BfR0NKRTlmM2t1V3YyVHM?oc=5",
         "description": [],
-        "pub_date": "Fri, 29 Nov 2024 17:27:27 GMT",
-        "source_url": "https://www.fox29.com",
-        "source_name": "FOX 29 Philadelphia"
-    },
-    {
-        "title": "Philly developer paying it forward | Real Estate Newsletter - The Philadelphia Inquirer",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGtjQXd4SVBoeGtvWl9UamlDZjlhQVZka2dvZnlNWk0xR3lkUXFJTU9PVlBnZlFUV2RmMGpPSTlZVmFTUkc2SXl5OVpXZm91dXdITWhzNkxmOUxxbzVxLXVxa1JxNlhQanhVWWcxSHlUQktXeXJRS0xUcnJIZGJyN0h5dW13aDRFeDR6bjRDaFNFUmJmWTlSejQyTWlsOUtsQjIzWFlfNGFXVUtvMHVzMHJXei1HZlZUOG9ycjhITndudHJrVU5PSFhaZkJOUQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 28 Nov 2024 11:15:00 GMT",
+        "pub_date": "Thu, 28 Nov 2024 20:08:18 GMT",
         "source_url": "https://www.inquirer.com",
         "source_name": "The Philadelphia Inquirer"
     },
     {
-        "title": "MANNA chefs and volunteers put the finishing touches on more than 3,000 meals - WPVI-TV",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGk4RjA0MFVYa3RXODh5eUthWUtiQ0loLVFJbmE5bTAwV2ZWWUJFelBjR1RqeXVWTjlyX05JeVlKSHVWcnQ3SU9PTHEyYzRlWW02NERFRmZvczNMSjB0dlhGdHhNWXhwLS1jd0V1WXFoYnMyRDBlNnVKN1hkUmIxZmtfOFduQ0tKWmtXYXJsemR2Z25udVRVUzhqNHRJZTYzdkI4NlNJX3pRbllWTTdqVWNfV294OTZGeFlVOA?oc=5",
+        "title": "Police seek Reading teen in connection with chaotic Philadelphia car gathering - WHP Harrisburg",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGV3Q1IxN3RCdHVra3lfZllvcGZYc0dPTFRzMmcxZDczVFhHdnJlcm0xdE5PZnJkdXhzZ0NBdHd1LURZaU1EYzNfSl9KOHZKR1BKZnlzeTJ4X3QzYy02RG1FdS1SZDBVU3ptaVRPX3FfUU1PVXV3dld4ZkRXY015aGw5aVM2dURJcWQzRGhmRGNKTHFrdlJUdGZLYVdod1FMRGM3VmJQWGJXQzlwX2hHS19FM1FZQllq0gG4AUFVX3lxTFBTTTVZX2FBUnZOR0FlUTFfVS1wMTg3OW9nOGwyc000eUt5OHFtNnFVWUdPSmZTN2hLQWVObkh2bkJwc0tlcG9YWFpTa1QyQ3Q0QW1TQ2VnRFlXdE53ZmQ0aXBsRW1NRlpjQnMxU3BZSlV0RnBfNV9CVzNzMG54N3J1S0ZMRlNMOWN3Um1DTHJkWnJvc3pwcEdRVnNhWXZZRUxoZV9KOW9wUUxta19DT1pjYUZOLVRZQ0c?oc=5",
         "description": [],
-        "pub_date": "Thu, 28 Nov 2024 19:23:28 GMT",
-        "source_url": "https://6abc.com",
-        "source_name": "WPVI-TV"
+        "pub_date": "Fri, 29 Nov 2024 14:49:43 GMT",
+        "source_url": "https://www.local21news.com",
+        "source_name": "WHP Harrisburg"
     },
     {
         "title": "Orrin Evans: with The Captain Black Big Band - Burlington County Times",
@@ -160,12 +192,36 @@
         "source_name": "Burlington County Times"
     },
     {
-        "title": "A new day is dawning for Pennsylvania\u2019s Republicans as Democratic leaders blame each other for losing | PennL - PennLive",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaHd6RllKQVFINjRrd29GcGRQRk5vbHR4ay1rVXZlUDVSTlZNNU9zc0Q2V3dkU3R2Sl91Q0s1WlhSSFlkLXB6M2ZpcnNvaHdSUWdULUsxVWtSSkd2b2UxY1lfVGZNMEhuQUl6QkRlenFtekNFd29IaUE4bm90QTdQUTBXVGVONlZyczFaaDA1dlJlSExlWDIyaU1JaXNyZDJPU20xUkVzdk9vZXplZXhBQWlfZzRHdUxjX2ZVSGdrZGlWODZ4SXMxSmpfMlJWd01udzhPM1Rfc0pkNHB2blowUGZCdkFGNmMxamNLNkpwcHBZRmpOdFF6ddIBjAJBVV95cUxQNnRXTmg1RkdJT0N6RHphbF9ibmJlUm1vU25fVm93NmNHVTZRc0pJODJaNWRXYXE0MnBFVlZMOTNwRkFSbXFxaXloZzRTVTZlUEZSUy1zRnBfb1pSNjhBSkVwcG1IM3A0NXVpTXFWcXJmTWFhUU5nbkFzMW1hN0pyNnBRT0x4OUthQk9VT1F3MmFvVWxnb01fWTU2SkNPdVU0RXlmQWt6ZUpCSU9hVVNXNC1rbkNtZ3lWWWtmal9xV0wycmhjb1Vhb0xhaTg0MXFGNFVnNGxXQ2c2MWluUHRQaFN6S3VfN09EUG9KWkt5Mkc3LXlDX04xN3FYQ0FxclpmbFRCb0drT3ZuMmRr?oc=5",
+        "title": "Looking to cut heating and energy costs this winter? Here's how - NBC Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVU1YbHprZktXQ2hZNm9sNWNJdWF2eWtzLWMxVmx4YmZBQWV2d0xkX0t4RFlFekFDX1VibV9YMktURE5pdlNwOTY4OGpfRVJ6MDhtY1N5Rk1XcGl0NkRMcEZSb1R5UDZKVGdHYWVGMGJvcDRMZ1RiVXlHMk5jRVpBSTJvaFpKRUMwVVFya21SU2F6N1F2ZWdPa3pBbURLRjZSQVZOcUN6SEN2YzFNQUV6TGE0dHdnUC0tQWRCMlktVWt4Rzc1WkpDSHJB0gHSAUFVX3lxTE5WU1B1cjZLODV1dk91TVFwc2xhVGJiSGp0WG5IWmZRODZmTDVmeVd5NmRBdTJXUFc1dDk3Sk1ZNmhIeE1OYy1JQUdzUDAtOHNmbl9HT2t1OE1fYUZqcFlaLTRTcHBYdmtHcFZUTHJTWl9TTGlGSlc0QVIwM1FjTEJFRFpQMmFGZTlLWXpUcGxlTDJTbFVHZkp0bE5CLVdfeDYydUhqRU5VRTg1Y1VjWkdWa0RKUXNFRE1Vb3J4U0tvbGRURnRMU29uOGhxMDVwUEprUQ?oc=5",
         "description": [],
-        "pub_date": "Fri, 29 Nov 2024 13:46:00 GMT",
-        "source_url": "https://www.pennlive.com",
-        "source_name": "PennLive"
+        "pub_date": "Sat, 30 Nov 2024 16:10:20 GMT",
+        "source_url": "https://www.nbcphiladelphia.com",
+        "source_name": "NBC Philadelphia"
+    },
+    {
+        "title": "Church banquet honors seniors, with special honor for Lansdowne woman - The Delaware County Daily Times",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkFCX0JLT05CaDh1QWU3WnRuSXpIQ0YxRmpXWW9JZmVpVy1mdzA4aTdFSldxcmJoOG9aVU41eGlSaUxvWWJQcXEzdEd0MkJaR2N6ZzNVWS1LbmlWZ3NId0NxYzlQNVVyMldRb3Atc21HQ1pWbGpPdXkzREp6UUlmZko5R3IzbHpQcXkybF9sX2VkbUp2ZHdZRkNnY210cFNUMk9SQUdUTVNZajTSAbABQVVfeXFMTXZfSWlCVkszaUpRZzBOLUJ6Yy1UcW5LemNoNDZiN2ZEUkpRSHVFU2xRX3JTTGlGdTBaVkFhU2pwM2s4WDh0V04za3RXQ2cyR0VoOXh3OHBFYTVaaWNybmc5alBfWVgzWC1pNmNpOEhaM3Q4QV9hWGlEelotaTRLSlV4ZW9IOHZXRmhIdTRJaERRV3N0WHNsbVRfZzN6RFVoUERhd0FaMDQwUUhYdmJCQjI?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 10:45:32 GMT",
+        "source_url": "https://www.delcotimes.com",
+        "source_name": "The Delaware County Daily Times"
+    },
+    {
+        "title": "Philadelphia-area shoppers 'bargain hunting' this holiday season - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWdtS2YtOGRBa2xoMDRUeEx2Z1NVOUZBdWdwNkhhTnpFQk83ZThZQkVIazZDTjlnVFpldzRNYlc5eDJuYm42RGtZUkJpbDQzQlRSN3ZBRkhTSUFaTVlZR0c4TEx0ZlVQRHVSZ0tmR0JKQkx4NFUxcFM3bFVaZVBFbkwwVE9fSnFyNkNNN3JYYkgzNlFRYm52TERIQ0dESzVtaHdLejhrVUU?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Nov 2024 03:29:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
+    },
+    {
+        "title": "Philly developer paying it forward | Real Estate Newsletter - The Philadelphia Inquirer",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGtjQXd4SVBoeGtvWl9UamlDZjlhQVZka2dvZnlNWk0xR3lkUXFJTU9PVlBnZlFUV2RmMGpPSTlZVmFTUkc2SXl5OVpXZm91dXdITWhzNkxmOUxxbzVxLXVxa1JxNlhQanhVWWcxSHlUQktXeXJRS0xUcnJIZGJyN0h5dW13aDRFeDR6bjRDaFNFUmJmWTlSejQyTWlsOUtsQjIzWFlfNGFXVUtvMHVzMHJXei1HZlZUOG9ycjhITndudHJrVU5PSFhaZkJOUQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Nov 2024 11:15:00 GMT",
+        "source_url": "https://www.inquirer.com",
+        "source_name": "The Philadelphia Inquirer"
     },
     {
         "title": "Upper Darby police: Injured in early Thanksgiving morning cutting was aggressor - The Delaware County Daily Times",
@@ -176,44 +232,12 @@
         "source_name": "The Delaware County Daily Times"
     },
     {
-        "title": "Winterfest is back at Penn\u2019s Landing for its 31st season - KYW",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjlWZUFJdG1HTGJnOVI4eGhuTGxFOTNFaXZid0ptZE1sLWlQR1pNS0NyS0hxdjdlTzF5NnY5LXBsWGMzVG9zLWVGTnViSVkyZTVFbnJrV19ZZVZUXzlMaTFIWVV0ckhwSndNMVlscVJzM0VsTnUtNmZmak9BLXdTbmVlWHI0VlBILWpudXkwTmJaQS1meVE?oc=5",
+        "title": "A new day is dawning for Pennsylvania\u2019s Republicans as Democratic leaders blame each other for losing | PennL - PennLive",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaHd6RllKQVFINjRrd29GcGRQRk5vbHR4ay1rVXZlUDVSTlZNNU9zc0Q2V3dkU3R2Sl91Q0s1WlhSSFlkLXB6M2ZpcnNvaHdSUWdULUsxVWtSSkd2b2UxY1lfVGZNMEhuQUl6QkRlenFtekNFd29IaUE4bm90QTdQUTBXVGVONlZyczFaaDA1dlJlSExlWDIyaU1JaXNyZDJPU20xUkVzdk9vZXplZXhBQWlfZzRHdUxjX2ZVSGdrZGlWODZ4SXMxSmpfMlJWd01udzhPM1Rfc0pkNHB2blowUGZCdkFGNmMxamNLNkpwcHBZRmpOdFF6ddIBjAJBVV95cUxQNnRXTmg1RkdJT0N6RHphbF9ibmJlUm1vU25fVm93NmNHVTZRc0pJODJaNWRXYXE0MnBFVlZMOTNwRkFSbXFxaXloZzRTVTZlUEZSUy1zRnBfb1pSNjhBSkVwcG1IM3A0NXVpTXFWcXJmTWFhUU5nbkFzMW1hN0pyNnBRT0x4OUthQk9VT1F3MmFvVWxnb01fWTU2SkNPdVU0RXlmQWt6ZUpCSU9hVVNXNC1rbkNtZ3lWWWtmal9xV0wycmhjb1Vhb0xhaTg0MXFGNFVnNGxXQ2c2MWluUHRQaFN6S3VfN09EUG9KWkt5Mkc3LXlDX04xN3FYQ0FxclpmbFRCb0drT3ZuMmRr?oc=5",
         "description": [],
-        "pub_date": "Sat, 30 Nov 2024 02:17:05 GMT",
-        "source_url": "https://www.audacy.com",
-        "source_name": "KYW"
-    },
-    {
-        "title": "Looking to cut heating and energy costs this winter? Here's how - NBC Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVU1YbHprZktXQ2hZNm9sNWNJdWF2eWtzLWMxVmx4YmZBQWV2d0xkX0t4RFlFekFDX1VibV9YMktURE5pdlNwOTY4OGpfRVJ6MDhtY1N5Rk1XcGl0NkRMcEZSb1R5UDZKVGdHYWVGMGJvcDRMZ1RiVXlHMk5jRVpBSTJvaFpKRUMwVVFya21SU2F6N1F2ZWdPa3pBbURLRjZSQVZOcUN6SEN2YzFNQUV6TGE0dHdnUC0tQWRCMlktVWt4Rzc1WkpDSHJB0gHSAUFVX3lxTE5WU1B1cjZLODV1dk91TVFwc2xhVGJiSGp0WG5IWmZRODZmTDVmeVd5NmRBdTJXUFc1dDk3Sk1ZNmhIeE1OYy1JQUdzUDAtOHNmbl9HT2t1OE1fYUZqcFlaLTRTcHBYdmtHcFZUTHJTWl9TTGlGSlc0QVIwM1FjTEJFRFpQMmFGZTlLWXpUcGxlTDJTbFVHZkp0bE5CLVdfeDYydUhqRU5VRTg1Y1VjWkdWa0RKUXNFRE1Vb3J4U0tvbGRURnRMU29uOGhxMDVwUEprUQ?oc=5",
-        "description": [],
-        "pub_date": "Sat, 30 Nov 2024 16:10:20 GMT",
-        "source_url": "https://www.nbcphiladelphia.com",
-        "source_name": "NBC Philadelphia"
-    },
-    {
-        "title": "Early deals, big steals at the Fashion District on Black Friday - Metro Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSHVHQnh4al9LaHB2aFdlbFpNZElqbWxZVDJVWnFpX1BSS3BpWGJUbk9wLWlxVGhrYzR6dmR2cXFPMjM3UmoyR1gxQ1hOTzFqbG84MkhqNmN5MHdzZ2xVRjMwOUhyc2NMZ3VSRA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 28 Nov 2024 13:00:00 GMT",
-        "source_url": "https://metrophiladelphia.com",
-        "source_name": "Metro Philadelphia"
-    },
-    {
-        "title": "Top MBA programs in Greater Philadelphia - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU5BUTRQV3JQSHl4NUFXRnN5d3B6Q0tvQ3BrTU4wZDUyZTNRWG5KREwyYnU3R1dUdWJPeXdBT3dWY2JtaEFNSHJFOE5VeGdmbkhiMF9BSHE3aGFJRGVSXzJ2bmdXazZGUVJ5WnpJMlZCdG9TSXhoOEk2UklnamxERVllNTJyMVAzMHNSWnFvclVyeXNBNzhDYzY0MjZzY19CeEM2akdaU1ctbFY0VmFPUS0yQQ?oc=5",
-        "description": [],
-        "pub_date": "Thu, 28 Nov 2024 11:00:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "Endangered Missing Person Monique Gaymon from the 17th District - Philly Police Blotter",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDFKX001U1EtY3lKeFFDMzhhWXB2cDNLdDJqbzRwRFliMDZJVkRJSTFWZmhlc1NhS1Zudmt4dDVnMzFUeUJPeV9WWW1vckpOVjlLTTlIUTJCVXFTZHEwckJWdGJVempmbDROcTlGVFhjSzMwWTNhTkZGdFVzMUpuZldkeE1yai1haDY3aTF3X2daTVNwUkN4S24zR01vcEYxUjZ2a1Q4MUUySmYyUnFudA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 30 Nov 2024 15:16:19 GMT",
-        "source_url": "https://blotter.sites.phillypolice.com",
-        "source_name": "Philly Police Blotter"
+        "pub_date": "Fri, 29 Nov 2024 13:46:00 GMT",
+        "source_url": "https://www.pennlive.com",
+        "source_name": "PennLive"
     },
     {
         "title": "Williams Event Group: DJ Rambo @ Urban Saloon Philadelphia - Burlington County Times",
@@ -224,12 +248,44 @@
         "source_name": "Burlington County Times"
     },
     {
+        "title": "Winterfest is back at Penn\u2019s Landing for its 31st season - KYW",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjlWZUFJdG1HTGJnOVI4eGhuTGxFOTNFaXZid0ptZE1sLWlQR1pNS0NyS0hxdjdlTzF5NnY5LXBsWGMzVG9zLWVGTnViSVkyZTVFbnJrV19ZZVZUXzlMaTFIWVV0ckhwSndNMVlscVJzM0VsTnUtNmZmak9BLXdTbmVlWHI0VlBILWpudXkwTmJaQS1meVE?oc=5",
+        "description": [],
+        "pub_date": "Sat, 30 Nov 2024 02:17:05 GMT",
+        "source_url": "https://www.audacy.com",
+        "source_name": "KYW"
+    },
+    {
         "title": "Yeadon Black Saturday Extravaganza raises funds for borough library - The Delaware County Daily Times",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHB4ZGR5ZGJZVHNoMG9kT3JBVEljTThVNXNHSnZmeVRqQW9hRVFDcU5rR0p6NlVNRGlGU0FLV3JGWU9yLWFEaHFqdHZmS2huSFFQZ3pzbU9xRWpSeGlPZS16dnBWaF9DbmFZODBWVnJ5amVuaktfVExzTkVDRENpQkpOOEM4U20tYWNHOGhfcjhtZUZibTlSRGpkTTZvZWNjVFlnc21rTzBwUdIBrwFBVV95cUxPRElGODlGSFFLYjhGLTFBWEpfTTI0X2ZqajF1WmlUck1wQXBkQk9TZ0ZDZENYZ3g2Wjd6cmNkeHV5VXVuTmVJV3Z1Mm9ZcmVKbHNaYmZraDMxQUJhdXdGcUlhVWdHUmRBdDdaUnRhNGh6VmNwamVaSER6V0oxSDVGSXRvVlRKOXI0SHpjcklLc1lFRDlQTC03eHh5VE9Pamp6emRJVG1PQ21kZUZKU1o4?oc=5",
         "description": [],
         "pub_date": "Sat, 30 Nov 2024 21:06:31 GMT",
         "source_url": "https://www.delcotimes.com",
         "source_name": "The Delaware County Daily Times"
+    },
+    {
+        "title": "Early deals, big steals at the Fashion District on Black Friday - Metro Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSHVHQnh4al9LaHB2aFdlbFpNZElqbWxZVDJVWnFpX1BSS3BpWGJUbk9wLWlxVGhrYzR6dmR2cXFPMjM3UmoyR1gxQ1hOTzFqbG84MkhqNmN5MHdzZ2xVRjMwOUhyc2NMZ3VSRA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Nov 2024 13:00:00 GMT",
+        "source_url": "https://metrophiladelphia.com",
+        "source_name": "Metro Philadelphia"
+    },
+    {
+        "title": "Driver dies after slamming car into front porch in Philadelphia: police - FOX 29 Philadelphia",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGF5Z1o1d1dfbW1OVUNlOUF0X2huRjhRWEVZd0hocDNsbUVyY0pRc3ZzeGZ3Wk5rQXppZ1RQNW1TeDVyZ3VOSUxrUU5pMERwZFY1Q0FfZlFJaVEyOTJOT3ppQW5qRUlFZXdOa24tX1RoLVM3Vm5TLWJ4TkNBdnlUQ21DX09MN3ZpZ2h5NXZzMWRZMEXSAZgBQVVfeXFMTnlzMVpkZ3FNX0pzZ1JlYTNXbzVtalUxMndxWm1SYzFPSDlqeE5MdDN5QmJmYkxETGdNSUlTeXV3TGU2T2pwdVNCUktrMmdHbEpPMDJtT3hvMXFkcnduMnA3eTNQVmtfSHdnQTZSb01xeDlIbHFSYkJBVXFPMTJ0Z0FDTFVxSk1iSjN6YTlqb2dIaFJENzdLYkg?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Nov 2024 17:27:27 GMT",
+        "source_url": "https://www.fox29.com",
+        "source_name": "FOX 29 Philadelphia"
+    },
+    {
+        "title": "Top MBA programs in Greater Philadelphia - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU5BUTRQV3JQSHl4NUFXRnN5d3B6Q0tvQ3BrTU4wZDUyZTNRWG5KREwyYnU3R1dUdWJPeXdBT3dWY2JtaEFNSHJFOE5VeGdmbkhiMF9BSHE3aGFJRGVSXzJ2bmdXazZGUVJ5WnpJMlZCdG9TSXhoOEk2UklnamxERVllNTJyMVAzMHNSWnFvclVyeXNBNzhDYzY0MjZzY19CeEM2akdaU1ctbFY0VmFPUS0yQQ?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Nov 2024 11:00:00 GMT",
+        "source_url": "https://www.bizjournals.com",
+        "source_name": "The Business Journals"
     },
     {
         "title": "Donate holiday gifts to local kids at these Philly toy drives - PhillyVoice.com",
@@ -248,12 +304,12 @@
         "source_name": "The Philadelphia Tribune"
     },
     {
-        "title": "Harassment Of Philly-Area Jewish Institutions Lands Man In Prison - Patch",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmRTODZJTjZKZ3FYMzN6MkZ3RzRVRldmcmhtS3NhUG1qQ3A1NmR2TWJxYUNxX1Q4VkU1dEs2M24xczZTU194YzZBcWhjY2QtYzNhRGhPNGFUV1BEcEN0NnBBd3puRlI5QXBBQlB4a011cTdqcVpRYzN6ZG8wUzhRNW5VQVJUSnl0ZDNaS1ZVNXRkV0VQa3VtVWc0MjZDQzYwdDVzY2J30gG_AUFVX3lxTE92UjRMaF9qNFExYUhxekU0bVczdnpwR2gtb3hpSkRVRy11ZG5TaElpanNmYktUWXFkeGhCeTRrYjQwakl2MHZIVnVIY3VVRHQwVUk0dVVMMlU1bi0tS2JIUXRqTVo4WF9Fbk9WZlQzMVJIcGR1M0NhdUlBSl8yOFFfMVhKNUNZdVRQNzFzOEtFR2lJSUo3T0tqREg2MDR5ZWpZMlZRRTFwcjZhUVdMcExENXBlbU1SUzJDTDdJdldj?oc=5",
+        "title": "Williams Event Group: DJ Krazy Kev @ JJ Bootleggers Philadelphia - Burlington County Times",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZUduOFNEeFRCUmFwVDJzTlNQOG9mTnBlRXhwaWdqQ3JmYzJjZzl5M1dSUlBGbWUwdUJwMTB1M0xoVGdoUUZMMVcyeV8tUnlrQnptMGpWRDBYSWZZTWhwcHhMWjQ1ZnIzREROUVM2dnVRSE9leFJ2Vks2UFFGamZVS21BN1lzdDFZb0FUWlBMX0JjaUFORlduajJtYU1mNF8yTm1zYko1Rjk4ckpOMXdKdm0zdHFDU29kTGpoN1JXMXhWbGFXMmllU2RxYTZxaFdqaU5PVnE0QUU3RnhKZW1NWFFzbG9vbE9iNm5N?oc=5",
         "description": [],
-        "pub_date": "Fri, 29 Nov 2024 14:31:38 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
+        "pub_date": "Sun, 01 Dec 2024 03:00:00 GMT",
+        "source_url": "https://www.burlingtoncountytimes.com",
+        "source_name": "Burlington County Times"
     },
     {
         "title": "Before \u2018The Thankful Poor\u2019 mural was dedicated at a Philadelphia church, a child asked: What do the poor have to be thankful for? - The Philadelphia Inquirer",
@@ -272,76 +328,12 @@
         "source_name": "Campus Philly"
     },
     {
-        "title": "Police seek Reading teen in connection with chaotic Philadelphia car gathering - WHP Harrisburg",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGV3Q1IxN3RCdHVra3lfZllvcGZYc0dPTFRzMmcxZDczVFhHdnJlcm0xdE5PZnJkdXhzZ0NBdHd1LURZaU1EYzNfSl9KOHZKR1BKZnlzeTJ4X3QzYy02RG1FdS1SZDBVU3ptaVRPX3FfUU1PVXV3dld4ZkRXY015aGw5aVM2dURJcWQzRGhmRGNKTHFrdlJUdGZLYVdod1FMRGM3VmJQWGJXQzlwX2hHS19FM1FZQllq0gG4AUFVX3lxTFBTTTVZX2FBUnZOR0FlUTFfVS1wMTg3OW9nOGwyc000eUt5OHFtNnFVWUdPSmZTN2hLQWVObkh2bkJwc0tlcG9YWFpTa1QyQ3Q0QW1TQ2VnRFlXdE53ZmQ0aXBsRW1NRlpjQnMxU3BZSlV0RnBfNV9CVzNzMG54N3J1S0ZMRlNMOWN3Um1DTHJkWnJvc3pwcEdRVnNhWXZZRUxoZV9KOW9wUUxta19DT1pjYUZOLVRZQ0c?oc=5",
-        "description": [],
-        "pub_date": "Fri, 29 Nov 2024 14:49:43 GMT",
-        "source_url": "https://www.local21news.com",
-        "source_name": "WHP Harrisburg"
-    },
-    {
-        "title": "Tears and thanks: Philadelphia\u2019s moving Thanksgiving Eve stories - WHYY",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13MExOYi1xWjVwRlpWbEExQmVfMlpiYkw5NXdsYUdFT3pDOWlaVThyS3AyVEtkYm92S3BqQlMtZlBfdldyNDJyOW1tYVZMX2trUXVkRm5ZZVlNWGVJSDZqelJPLTBBN0RQMlpmX1NtbW5nT0xoa1J3RDJ30gF_QVVfeXFMUGZjN3d4eUdqREN4aUJaT2syV1h4WVg5dS1QaUJZTVU4azlpcktNWUcyR01DdHM2cm1kczNaTTZzU1ZYOTZ4ZmozVzNoT0x5ZkNvR1p2cWlxTnZaRlYzRDEyOFlGQmQyNEMzRG94TC15MmZhWkJxeGV3UE01NUIzNA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 18:57:50 GMT",
-        "source_url": "https://whyy.org",
-        "source_name": "WHYY"
-    },
-    {
-        "title": "Williams Event Group: DJ Krazy Kev @ JJ Bootleggers Philadelphia - Burlington County Times",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZUduOFNEeFRCUmFwVDJzTlNQOG9mTnBlRXhwaWdqQ3JmYzJjZzl5M1dSUlBGbWUwdUJwMTB1M0xoVGdoUUZMMVcyeV8tUnlrQnptMGpWRDBYSWZZTWhwcHhMWjQ1ZnIzREROUVM2dnVRSE9leFJ2Vks2UFFGamZVS21BN1lzdDFZb0FUWlBMX0JjaUFORlduajJtYU1mNF8yTm1zYko1Rjk4ckpOMXdKdm0zdHFDU29kTGpoN1JXMXhWbGFXMmllU2RxYTZxaFdqaU5PVnE0QUU3RnhKZW1NWFFzbG9vbE9iNm5N?oc=5",
-        "description": [],
-        "pub_date": "Sun, 01 Dec 2024 03:00:00 GMT",
-        "source_url": "https://www.burlingtoncountytimes.com",
-        "source_name": "Burlington County Times"
-    },
-    {
         "title": "Apply for Philadelphia\u2019s new Low-Income Tax Freeze Program by Jan. 31, 2025 - Philadelphia Corporation For Aging (PCA)",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0V1T2Jua0ZqS3hfeDFXZmZjeGh5dUJGbFZDbXUyRWFNcHlkYm5PQ19QakxPSzhqajhnenpqQkswN0lLV3JxZkhuMEJScmRJMHlQZW9lTHJqOWZQWkZoUGJObWNUS2FrbUFGVzVlblBSQU9KZUk4S084S1BYSlE5d1BYa0xEM0F2VEhEY2F0SXppR0lTZGd0UlBzejNMQTlraFhiNXln?oc=5",
         "description": [],
         "pub_date": "Wed, 27 Nov 2024 23:18:49 GMT",
         "source_url": "https://www.pcacares.org",
         "source_name": "Philadelphia Corporation For Aging (PCA)"
-    },
-    {
-        "title": "Back on its feet: North Philly\u2019s Rush Arts gallery rebuilds after hurricane damages - WHYY",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSm81cWJzOHJzWnhBWlU2NDlkamR6TS0ycXhJQjJuWEJDcUtFUzdTVGloYjJrVVJyS3VSMWlxWENENTNfMzB3aFFxMjVwYTFrQXBSUTdQS1VlaTVDSm9zcEhRWGM2VEhFbEUzOFRYSzhLMDFZUnhHdDNBRVk2MVlJOV9WVmhNTzRURFN0RTZR?oc=5",
-        "description": [],
-        "pub_date": "Fri, 29 Nov 2024 11:30:41 GMT",
-        "source_url": "https://whyy.org",
-        "source_name": "WHYY"
-    },
-    {
-        "title": "Philadelphia Jewish Community, City at Large Lose a Cornerstone in Death of Jodie Milkman - Jewish Exponent",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3dMeDFEdnZpc1ZxVElXVVRfWVZsWVVlNDhOVG8xT0lydWNINHJpb2V0MTJYY0pPNThJLWNJVUhjQk5aNGRCajcyUTlIUF9GUUNvbFNXX1huNjB4VXc2THNKVEt5VXo3QWx2WTcwRGhpZXFTeEs5SEhKMVhVWFBSamc5WHdSeUNVa2lRMzdXODNsY2ZYMXltUmpBdWd1d2k1LUkzbWpLQURnYkRELUxpQllzNXpVWmdtWl9aRg?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 23:15:11 GMT",
-        "source_url": "https://www.jewishexponent.com",
-        "source_name": "Jewish Exponent"
-    },
-    {
-        "title": "Center City District has more retailers now than before the pandemic, report says - KYW",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEVHSmgyNEVhZjEta1g3dVk5LUtHVEFYeG5PTnFjTU1fMkFTUTVHdmRINGQzWURkczRlaTVLMVhjT0tHby16M1o2UnNkUmI5bV8tR0JVLUVMWWZZWHBlMFFBaGlxY05oRnY5cGlUNVVqYWZoaUVfY2p3OC1mSUx3bnRHbWJNWER4d2hvYlRSaUFaaUM3NXhIMGgxNHk2RDJwWnlF?oc=5",
-        "description": [],
-        "pub_date": "Fri, 29 Nov 2024 17:29:48 GMT",
-        "source_url": "http://www.audacy.com",
-        "source_name": "KYW"
-    },
-    {
-        "title": "What PA Grocery Stores Are Open On Thanksgiving? - Patch",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjVPVDlkZGc3NE9Uc2Y2NDd4RG92WlJYdUI4dzdObDc4aUlLOUhidVlDck9CZGQ3R3dPcTRTSTZaME12aTN3dklsZTlUZ3oyeF9kWk5VM2RWeXhZb01IUlhoeV9iZ0hDa0VYM2EyYXl1RTIxQ3A4dlh3M2VKcHhza0JzenlsVjhUMnpUZG44aEhiUdIBpwFBVV95cUxOS2tFdTBSU002UVJiRTJwVUN4N2ppdmdxbms1XzBfUFJHMVVZRXJZdDY0WWhicXNmMzRnU0FOTkg3a0xqOUI5ZEJuU3cwVXRxSEhpajJ0d00zYmpzMmpuTlBaRWg3R0JQNlV4VkVQSGwydUdLTjR5TEk5VVBMXzNmREt5V3NGbHpDdEx4WXJYLW1CNnU2UmlXZi1lRGJUTW92MnNCWjdHcw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 15:42:59 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
-        "title": "Why you shouldn\u2019t volunteer in person during the holidays, and how you can really help Philly\u2019s hungry - WHYY",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CNVZ0Ykl6WjgzOVlBR2otTmJmV3lDdlV5MEUyTGJ5V0FXdUlMNzYwdHowMFNzZFNMUG9FZjkxXzFpWDRuVmFaYzhkM3FwbkFLd05HQmMyLUt4X1Bzc3pEdVB3b3huNzdGZVJZbHVWbVZDa0lYcEpxR3lIQXZDZw?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 23:24:24 GMT",
-        "source_url": "https://whyy.org",
-        "source_name": "WHYY"
     },
     {
         "title": "Man in critical condition after being shot in stomach in Southwest Philly: police - NBC Philadelphia",
@@ -352,28 +344,28 @@
         "source_name": "NBC Philadelphia"
     },
     {
+        "title": "Beyond the holidays, Philly House seeks to grow its mission and physical campus - The Philadelphia Tribune",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRHN1RDlkaHVqb18xaUdfN0lYc0g0dVg1Yi0zVEMzTDd1UngzU3VZR21SbHBlMzlfLWlVNjJELTF4dVpsbS1EU05RcDBieDhjN1dmM1Q1aUw4U3g1a04xYm45RmtvV0pxaDQ4YVFQN0FDSHhyNjh3ejZIRFdEeUtFZHlKQnp4eFFqX3NnSFZqazI3UTgwWGZXX0c1YVpaenYzWk91M1RlYjJyMjVjQVpnT2NHVlViWGxHRmYtTnVORk4yd1AxU25PUmROeTBRVkxacGZkQ2l2Nnh4cVB5Nkx1MC1TcTN2N1VJeXE0cFJCWF95LWVndV9mRk1xM3NsR2Yy?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Nov 2024 22:30:00 GMT",
+        "source_url": "https://www.phillytrib.com",
+        "source_name": "The Philadelphia Tribune"
+    },
+    {
+        "title": "Philadelphia Jewish Community, City at Large Lose a Cornerstone in Death of Jodie Milkman - Jewish Exponent",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3dMeDFEdnZpc1ZxVElXVVRfWVZsWVVlNDhOVG8xT0lydWNINHJpb2V0MTJYY0pPNThJLWNJVUhjQk5aNGRCajcyUTlIUF9GUUNvbFNXX1huNjB4VXc2THNKVEt5VXo3QWx2WTcwRGhpZXFTeEs5SEhKMVhVWFBSamc5WHdSeUNVa2lRMzdXODNsY2ZYMXltUmpBdWd1d2k1LUkzbWpLQURnYkRELUxpQllzNXpVWmdtWl9aRg?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Nov 2024 23:15:11 GMT",
+        "source_url": "https://www.jewishexponent.com",
+        "source_name": "Jewish Exponent"
+    },
+    {
         "title": "Seniors at Camden's LEAP Academy Charter School Get Early Rutgers Admission - TAPinto.net",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3FZNUNjSW5tUmFKeTJWcVFIdDJLWG4wY0R2TE5wbDNpOU9xMXVMX0tuWHdtR2R0OVB3XzRKNnp3ZTIxX25aLXlxTmJpWVJfQW9nZC1DUGw1MEYyU0NRUTVhVjV1OE9vQkwxYzRoWjIyX0lLaTgxTFhHYjFJOG16VkNuTFhzQmV1UHRDelV2cmtxXzhQYlRFZTZPLXJ4aWw2ejVsRi1DNXlYbDhXS0s1TzBncUJOOWtqR2hwaTFn?oc=5",
         "description": [],
         "pub_date": "Fri, 29 Nov 2024 18:02:00 GMT",
         "source_url": "https://www.tapinto.net",
         "source_name": "TAPinto.net"
-    },
-    {
-        "title": "After election losses, Philly Black pastors see need for unity with prayer service - The Philadelphia Tribune",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRFplRjJaN3ZXWjFkeDlFVjN6Y094VHljWFVoV2luWTUyV0Qta2E5anIwakVEby10T3FWTUlQeGJfbS1adDlQcUJsN1NRU0tscE0xVDNvczNjSWdoZlNyNk9GVVlfalNYTGhuZmhvb29fbHBfTzM5X3dERC1PSGNMLW1Jb3NJaTJGVG84UXp2amVibkFnUHZzZHlmRXJzSC1LcHlWaVVBNzRjTGxLaUZtNUwzQmRid2I5aHdxVXdaeVF3Y2dLbFJuMldGTWxHUWhzUi10RE42MEJDclZySHE5Q3Ryc2hudFpGMkpSSWN1aU82WjJZaW1DRy1rQUR1UnY0Q1BoNg?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 22:00:00 GMT",
-        "source_url": "https://www.phillytrib.com",
-        "source_name": "The Philadelphia Tribune"
-    },
-    {
-        "title": "John Morrison\u2019s Philly Top 5: Vinyl Con, Philth Spector, and other local highs for November - WXPN",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRMHRjM3g1bnlGYnM1ZU9pMnZBYUFLTGhVM2lXa0xRemtZSjV4d0FnOVNyMmFyRDhVVnRGOGFyLUNJNzdYakZZZXdaRFRXX3cwRlFoODQyeUZFU3QtZ3ViMDcyNGFrUXZjRUp1Mlc5LTdZUQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 17:20:27 GMT",
-        "source_url": "https://xpn.org",
-        "source_name": "WXPN"
     },
     {
         "title": "Last summer saw record tourism in Philadelphia, Visitors Bureau reports - KYW",
@@ -384,36 +376,20 @@
         "source_name": "KYW"
     },
     {
+        "title": "I Love R&B Party at Roar Philly (21+) - Burlington County Times",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTTE4Sk5xWDFid3ZDWkt3QWN0cnJqYlhEem9WZFdTVUxaX25JTDlzbU5XMDFpdkZvRGpxUDBoWFBZQkVUS1lvUVlxaGJkalhzTmE4ZWp3bXdsZkhOT0FxckVJTXpCWnZ2UXpzMWk0a3ByeERMYkNldm0yUWNacUlOalY1aE41Q2NmdGVibXVSRDIteWRUeHVVU3F3d09kMEUyTVhFOWhxMXdKLTJpN1hvTlJLclZFYjVmRU1jNDVGTzB6Tlc1SnhJ?oc=5",
+        "description": [],
+        "pub_date": "Sun, 01 Dec 2024 03:06:10 GMT",
+        "source_url": "https://www.burlingtoncountytimes.com",
+        "source_name": "Burlington County Times"
+    },
+    {
         "title": "37 new places to take holiday visitors | Let\u2019s Eat - The Philadelphia Inquirer",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjZwUGc4ZGd4YUFVNUQ4ZmhBcW1KOHpIWkJ4a3owUlZRTjh2aXNhby1LTlZJS1QtdlE4cTZiTVlaTE8yNkFYRDNkYU5faHNrTkIyYUVEMEQ2TUlHU05KTkRTZjYyU0xmRXdlaEFGM0xJZGRlTkxvaHEtcDAxUk10SEtXZw?oc=5",
         "description": [],
         "pub_date": "Wed, 27 Nov 2024 12:00:00 GMT",
         "source_url": "https://www.inquirer.com",
         "source_name": "The Philadelphia Inquirer"
-    },
-    {
-        "title": "\u2018You need the happily ever after\u2019: Kiss & Tale bookstore in Collingswood opens for romance lovers - WHYY",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcWtfYWtRNGJEUl9lclZtanFJQ2tkLVFkTGFDckMzWUlGVndIai0xNWp2ekNidjg2VHJybkthV1lBOS1oaTZHVHllMGQ0R093blpHWXhfaW5mam5SN00tcW95TDFNdHpwcklkeU91d1dhTHdNRHdyX1JTRQ?oc=5",
-        "description": [],
-        "pub_date": "Fri, 29 Nov 2024 11:01:21 GMT",
-        "source_url": "https://whyy.org",
-        "source_name": "WHYY"
-    },
-    {
-        "title": "Beyond the holidays, Philly House seeks to grow its mission and physical campus - The Philadelphia Tribune",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRHN1RDlkaHVqb18xaUdfN0lYc0g0dVg1Yi0zVEMzTDd1UngzU3VZR21SbHBlMzlfLWlVNjJELTF4dVpsbS1EU05RcDBieDhjN1dmM1Q1aUw4U3g1a04xYm45RmtvV0pxaDQ4YVFQN0FDSHhyNjh3ejZIRFdEeUtFZHlKQnp4eFFqX3NnSFZqazI3UTgwWGZXX0c1YVpaenYzWk91M1RlYjJyMjVjQVpnT2NHVlViWGxHRmYtTnVORk4yd1AxU25PUmROeTBRVkxacGZkQ2l2Nnh4cVB5Nkx1MC1TcTN2N1VJeXE0cFJCWF95LWVndV9mRk1xM3NsR2Yy?oc=5",
-        "description": [],
-        "pub_date": "Fri, 29 Nov 2024 22:30:00 GMT",
-        "source_url": "https://www.phillytrib.com",
-        "source_name": "The Philadelphia Tribune"
-    },
-    {
-        "title": "Philly man held for court in triple fatal DUI case - tnonline.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEVYSmd6OThiWWU4MWFESkE5ZlRSdVpVVVBmMWxVZXgzUENGaml6Qkt1OGxwM0IzUWVBUUlHWlRlOVJXMVVTN2MzUFRNMWhGTnY1Q05OTVZ3Nk9rZTdLeGxMYlFkR1ZyUXdzajVwcUhKT3VkYnkyb2hfOEkxZkxWejFQWXVvZ3FjeXFmN1JB?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 19:46:38 GMT",
-        "source_url": "https://www.tnonline.com",
-        "source_name": "tnonline.com"
     },
     {
         "title": "Closures Impacting I-76 Traffic Overnight Next Week In Philadelphia - Patch",
@@ -432,12 +408,28 @@
         "source_name": "Global Philadelphia"
     },
     {
-        "title": "An interactive timeline of Philly\u2019s tech ecosystem in 2024 - Technical.ly",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHZiTTNNekZ2QW9RdDl3STY1bFc0ay1QYXd3SVdveExsNERNZXNfT0ZIbkoxaEotdENxbS1xcXAyQzVnSXhYdkI0WUlQZGNobEVsMHJsdEMxTHNiUkZJOUlYUGJJbFBTcmRndERlZlhSVEZnWFA1Y00zbGU5dXlkOVZR?oc=5",
+        "title": "Missing Endangered Person Melvin Lee from the 26th District - Philly Police Blotter",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2xTSC1BLUtSeldZSE1CSlZGZWNZcFFEMkZWSi1reFVyUTNiOVVCcFRUOEprcm41VVdzVlM5RTVhNlgxX01OSmFGVElCRl9XdnZzVTR4VGc2ZXJBTFI0b3ZaYm5DeTlMWTVtTUtBTGthcnltcE53bGdsdHBoV0xpRFpBV2Fqal9PWnpoanhTS2xuY2tqdDNWcW16Wll5NzZhRFk2cHhBUHBHcVU?oc=5",
         "description": [],
-        "pub_date": "Wed, 27 Nov 2024 11:45:00 GMT",
-        "source_url": "https://technical.ly",
-        "source_name": "Technical.ly"
+        "pub_date": "Sat, 30 Nov 2024 15:09:31 GMT",
+        "source_url": "https://blotter.sites.phillypolice.com",
+        "source_name": "Philly Police Blotter"
+    },
+    {
+        "title": "Tears and thanks: Philadelphia\u2019s moving Thanksgiving Eve stories - WHYY",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13MExOYi1xWjVwRlpWbEExQmVfMlpiYkw5NXdsYUdFT3pDOWlaVThyS3AyVEtkYm92S3BqQlMtZlBfdldyNDJyOW1tYVZMX2trUXVkRm5ZZVlNWGVJSDZqelJPLTBBN0RQMlpmX1NtbW5nT0xoa1J3RDJ30gF_QVVfeXFMUGZjN3d4eUdqREN4aUJaT2syV1h4WVg5dS1QaUJZTVU4azlpcktNWUcyR01DdHM2cm1kczNaTTZzU1ZYOTZ4ZmozVzNoT0x5ZkNvR1p2cWlxTnZaRlYzRDEyOFlGQmQyNEMzRG94TC15MmZhWkJxeGV3UE01NUIzNA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Nov 2024 18:57:50 GMT",
+        "source_url": "https://whyy.org",
+        "source_name": "WHYY"
+    },
+    {
+        "title": "Center City District has more retailers now than before the pandemic, report says - KYW",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEVHSmgyNEVhZjEta1g3dVk5LUtHVEFYeG5PTnFjTU1fMkFTUTVHdmRINGQzWURkczRlaTVLMVhjT0tHby16M1o2UnNkUmI5bV8tR0JVLUVMWWZZWHBlMFFBaGlxY05oRnY5cGlUNVVqYWZoaUVfY2p3OC1mSUx3bnRHbWJNWER4d2hvYlRSaUFaaUM3NXhIMGgxNHk2RDJwWnlF?oc=5",
+        "description": [],
+        "pub_date": "Fri, 29 Nov 2024 17:29:48 GMT",
+        "source_url": "http://www.audacy.com",
+        "source_name": "KYW"
     },
     {
         "title": "The Best Dishes Eater Philly Ate in November - Eater Philly",
@@ -448,28 +440,12 @@
         "source_name": "Eater Philly"
     },
     {
-        "title": "Missing Endangered Person Melvin Lee from the 26th District - Philly Police Blotter",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2xTSC1BLUtSeldZSE1CSlZGZWNZcFFEMkZWSi1reFVyUTNiOVVCcFRUOEprcm41VVdzVlM5RTVhNlgxX01OSmFGVElCRl9XdnZzVTR4VGc2ZXJBTFI0b3ZaYm5DeTlMWTVtTUtBTGthcnltcE53bGdsdHBoV0xpRFpBV2Fqal9PWnpoanhTS2xuY2tqdDNWcW16Wll5NzZhRFk2cHhBUHBHcVU?oc=5",
+        "title": "Philly man held for court in triple fatal DUI case - tnonline.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEVYSmd6OThiWWU4MWFESkE5ZlRSdVpVVVBmMWxVZXgzUENGaml6Qkt1OGxwM0IzUWVBUUlHWlRlOVJXMVVTN2MzUFRNMWhGTnY1Q05OTVZ3Nk9rZTdLeGxMYlFkR1ZyUXdzajVwcUhKT3VkYnkyb2hfOEkxZkxWejFQWXVvZ3FjeXFmN1JB?oc=5",
         "description": [],
-        "pub_date": "Sat, 30 Nov 2024 15:09:31 GMT",
-        "source_url": "https://blotter.sites.phillypolice.com",
-        "source_name": "Philly Police Blotter"
-    },
-    {
-        "title": "$21M sale of Bala Cynwyd site paves way for apartment development - The Business Journals",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkU5NHhxYzgyY0NkVW5NQ0EwYXBaM0lWbXNPZ3VJUkk5aHM5WVlNcExCcG9EMWZ3SHVTUEhSS1lENDFnWjVRbTE4akN5aWtGanRneHo2U1hxdDBLSk8yS015b2xtajdsS0lRQjgyRFhBZS1ET2xfN2xxOVZEa09xT1RqQjBzT1F4SjZCaDAzNXNSSk5FbExhME1RSTdjeS0yUnhuTjVHUQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 01:54:00 GMT",
-        "source_url": "https://www.bizjournals.com",
-        "source_name": "The Business Journals"
-    },
-    {
-        "title": "76ers\u2019 Kelly Oubre Jr. serves Camden residents with second annual Thanksgiving event - Metro Philadelphia",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Md05PZzNzRkhDbzAtcHRKaGd5YjNFQkZZVEtKdTc2MjN1MXZSTk0zTGdnTk1EeGpQcnloanlQQlZIemlnREZ3QkNxZmhRN0FtdEZoazdLU0JVUVQ0Rm9sc1otcjd6bnU1Vnp3WE9ueGctUDRUQTN6Mlo4OA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 17:21:00 GMT",
-        "source_url": "https://metrophiladelphia.com",
-        "source_name": "Metro Philadelphia"
+        "pub_date": "Wed, 27 Nov 2024 19:46:38 GMT",
+        "source_url": "https://www.tnonline.com",
+        "source_name": "tnonline.com"
     },
     {
         "title": "Drought is causing saltwater to creep up Delaware River. Here's what's being done - NBC Philadelphia",
@@ -480,28 +456,28 @@
         "source_name": "NBC Philadelphia"
     },
     {
-        "title": "President Biden signs off on Philly post office being named for slain officer - The Philadelphia Tribune",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVS1hNk1SdFNacHZQalh2RUFCYzZjR0FJR3dmTDJaajZEZEJKVXJHQUdUOWtGTHdTUy1JMTk1ZmZLaDZjeXJvbXFQNTZyb05WY0NkT0pVQ1VmeV9RdTNEdjdYWDBBMFBtcVpyaWR4dS1LVXpGQ2d4MUpQbnRSUXdvbWlvYzBkY254Rm5jSW0yWnZTVW1Zd3FwU1hEc05GazFWd1ROU2xJRGQwai1SZ0lGYmtMVnQtNk1CbFBBOFF2RUJhUUlBWnlVeDkxTmpiTEVaX3QyUi0yTm5WcW9PcHZ1emx3Ync0YlIyZDR2QVdwTll0a1JYZlNWdU8xV3pSVWc?oc=5",
+        "title": "\u2018You need the happily ever after\u2019: Kiss & Tale bookstore in Collingswood opens for romance lovers - WHYY",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcWtfYWtRNGJEUl9lclZtanFJQ2tkLVFkTGFDckMzWUlGVndIai0xNWp2ekNidjg2VHJybkthV1lBOS1oaTZHVHllMGQ0R093blpHWXhfaW5mam5SN00tcW95TDFNdHpwcklkeU91d1dhTHdNRHdyX1JTRQ?oc=5",
         "description": [],
-        "pub_date": "Thu, 28 Nov 2024 19:41:00 GMT",
-        "source_url": "https://www.phillytrib.com",
-        "source_name": "The Philadelphia Tribune"
+        "pub_date": "Fri, 29 Nov 2024 11:01:21 GMT",
+        "source_url": "https://whyy.org",
+        "source_name": "WHYY"
     },
     {
-        "title": "The Philly Private Dining Directory, Ranked By Capacity - The Infatuation",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOENKNDZwaFNhSkY5NXdXdnVHbE1FQW5sWlF6U2ozX29RZEdqcUxHbjdUWDhQQXdHWWt4bHQwdGdwWEdwcXd0aEdBLWFhTFJxRk16aUhrUUUzX2d3Q2F1QkJ3d0lYZ0ZPVkhWNnVYX1ZSdXV3N0RZS2NwSGJwTVBlY0U2TVRKbEhFaEJXQmhwcnlXY2dIVFpCOEVFeUFKWTNPS05Z?oc=5",
+        "title": "John Morrison\u2019s Philly Top 5: Vinyl Con, Philth Spector, and other local highs for November - WXPN",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRMHRjM3g1bnlGYnM1ZU9pMnZBYUFLTGhVM2lXa0xRemtZSjV4d0FnOVNyMmFyRDhVVnRGOGFyLUNJNzdYakZZZXdaRFRXX3cwRlFoODQyeUZFU3QtZ3ViMDcyNGFrUXZjRUp1Mlc5LTdZUQ?oc=5",
         "description": [],
-        "pub_date": "Tue, 26 Nov 2024 16:04:01 GMT",
-        "source_url": "https://www.theinfatuation.com",
-        "source_name": "The Infatuation"
+        "pub_date": "Wed, 27 Nov 2024 17:20:27 GMT",
+        "source_url": "https://xpn.org",
+        "source_name": "WXPN"
     },
     {
-        "title": "Milford man wanted for attempted murder arrested in Philadelphia - 47abc - WMDT",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHl6ZjMtUmxGMXh0TGZTclMxSUZLMVVuMnFBNE9nUkJtLWpqN19mdXRYMWk4R2xXYW43alNOcTBGZ0J0RV9BOHJaaS1Yb0xRbm1fNEpUSXJpQm9LbGxndlAtQkNTUnJrblZjQk5Vckx5VVlhR3NiaTV4Q25xUjU1OUx5b29PVDlTMENfU0ZMX0xieHUzekJ5ajZR?oc=5",
+        "title": "Cacia's Bakery In South Philadelphia Continues Decades-Long Tradition Cooking Up Thanksgiving Turkeys - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY29fYjZrOVBDaWhlX1Q4ZWhyQ19PTWZNQUhnYzE4SUVfSGtpWFBURzlvNWROU0lKYkFxeTJWM1dSV2NjQmtxbHV2NVpJdkJaaVVGUDJoWE5kdXN6VlN1TjVDWEVfWkhNODlaTWM2bFItT0J2RXpPVk5BbmRlM2Z0YmVMUlAxLWZONVdkNXBZdVBpeWFDLWZFazFqbUhRN3d1WFg5T0VjaXRNTmYzZDdtbnkxQTBPemMw?oc=5",
         "description": [],
-        "pub_date": "Tue, 26 Nov 2024 14:50:18 GMT",
-        "source_url": "https://www.wmdt.com",
-        "source_name": "WMDT"
+        "pub_date": "Fri, 29 Nov 2024 16:39:34 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
     },
     {
         "title": "91-Year-Old Caleb Royal Missing From Philadelphia Found: Police - Daily Voice",
@@ -512,12 +488,20 @@
         "source_name": "Daily Voice"
     },
     {
-        "title": "The holidays are here. So is Local 98. - PhillyVoice.com",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sM0tZVEM3OHI3cVRNdzEzVzdrYVNZWW9uLUhjWlA4ZGJmVmxlcWVPV0dlcTdLUjFqZ0pUeEtPNnl4Y0xPRmFWWC1sYlNqUmV5QVNMSy1JV2hfdndsRF94T21ROXrSAWpBVV95cUxNbWVFNnVDdmN3U0VnZ00tUHpwbVVoeWpnRVZFOUN1cmVQRmxNYUZuXzducW5EbzlBbzAyRXJLU2E5a0NCaG1JUWhkaFZ5ODBrVGk3dmk3TVVLZTlDOWQ2WU1waFBkb3NOZDNR?oc=5",
+        "title": "The most festive holiday markets in Philadelphia - Axios",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkZrTkpIbnFTWlBfdzBNSnhqcFFrdWpPRXZiaE8yQjN6VmJyZ0xXelhXdXBWUEg2cGFoVFRBNnF3WE9UN3VSZUNMcG5yblhPMFlsZFNyanZVVnlJdC1PU3BxMkNZZlBpUUx5M0lvTWdhVnA5aFpUVjR2T1N1dlhIaFNFTDZkNU5YRko0Umo5emJBeTY1TksyeGtZYVZnT3pW?oc=5",
         "description": [],
-        "pub_date": "Fri, 29 Nov 2024 10:59:31 GMT",
-        "source_url": "https://www.phillyvoice.com",
-        "source_name": "PhillyVoice.com"
+        "pub_date": "Wed, 27 Nov 2024 11:27:41 GMT",
+        "source_url": "https://www.axios.com",
+        "source_name": "Axios"
+    },
+    {
+        "title": "After election losses, Philly Black pastors see need for unity with prayer service - The Philadelphia Tribune",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRFplRjJaN3ZXWjFkeDlFVjN6Y094VHljWFVoV2luWTUyV0Qta2E5anIwakVEby10T3FWTUlQeGJfbS1adDlQcUJsN1NRU0tscE0xVDNvczNjSWdoZlNyNk9GVVlfalNYTGhuZmhvb29fbHBfTzM5X3dERC1PSGNMLW1Jb3NJaTJGVG84UXp2amVibkFnUHZzZHlmRXJzSC1LcHlWaVVBNzRjTGxLaUZtNUwzQmRid2I5aHdxVXdaeVF3Y2dLbFJuMldGTWxHUWhzUi10RE42MEJDclZySHE5Q3Ryc2hudFpGMkpSSWN1aU82WjJZaW1DRy1rQUR1UnY0Q1BoNg?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Nov 2024 22:00:00 GMT",
+        "source_url": "https://www.phillytrib.com",
+        "source_name": "The Philadelphia Tribune"
     },
     {
         "title": "This year\u2019s Great Family Gathering fed over 6,000 people \u2014 and the need continues to grow - The Philadelphia Inquirer",
@@ -528,28 +512,12 @@
         "source_name": "The Philadelphia Inquirer"
     },
     {
-        "title": "Philly council hearings on Sixers' arena to resume Tuesday - The Philadelphia Tribune",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdm5ReUFqak9LQ01KUTNWMk9CY3RPUkFMSTJmbEplYm9lTlJtUEFkZE9hMTVtMnpWSFZja3V1UXdwRnd3VnBUT1lCT3phMjZXVWNTaEVITW5MdlhDQXM2NEstRG5VM29naGRBTW5YZC1MczRoZEZEWFVOS0plVTF1T1ZCcjRnbTExSHBnaEV4SGFpVzY5RmwxWlJnUDZiMU9DVEEtVms5aGoxaTlVQ1hpdVViUHBhQzMzQkJTTndmc2E1cWUwczlYUkI5bGVYYU1EUWhQdXpB?oc=5",
+        "title": "Why you shouldn\u2019t volunteer in person during the holidays, and how you can really help Philly\u2019s hungry - WHYY",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CNVZ0Ykl6WjgzOVlBR2otTmJmV3lDdlV5MEUyTGJ5V0FXdUlMNzYwdHowMFNzZFNMUG9FZjkxXzFpWDRuVmFaYzhkM3FwbkFLd05HQmMyLUt4X1Bzc3pEdVB3b3huNzdGZVJZbHVWbVZDa0lYcEpxR3lIQXZDZw?oc=5",
         "description": [],
-        "pub_date": "Wed, 27 Nov 2024 21:11:00 GMT",
-        "source_url": "https://www.phillytrib.com",
-        "source_name": "The Philadelphia Tribune"
-    },
-    {
-        "title": "Philadelphia Police Announce Arrest In 3 Gunpoint Robberies At Smoke Shops - Patch",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWVFQNWdBWnRvTmw5eFg2TkJBbFhJb25nRDdHQ2cyNlcwelBBNEFMa1MzNHpLT2pRRW10ZndQdkJWNVVPbHREdzFFbzBsMnRVQ05EVlJwOC05VWs2U0tjM1FYb0Q1TjVSUDgzc2lieDcteWFuSDBHRi1LWFlMWDJYdmpkQWZFMUduNHBQTUhmTzRxQ01TbWdCQ19rZU5wRXZNZFpWbWVPdVNPWEFJbUNGRmdn?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 19:27:04 GMT",
-        "source_url": "https://patch.com",
-        "source_name": "Patch"
-    },
-    {
-        "title": "The most festive holiday markets in Philadelphia - Axios",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkZrTkpIbnFTWlBfdzBNSnhqcFFrdWpPRXZiaE8yQjN6VmJyZ0xXelhXdXBWUEg2cGFoVFRBNnF3WE9UN3VSZUNMcG5yblhPMFlsZFNyanZVVnlJdC1PU3BxMkNZZlBpUUx5M0lvTWdhVnA5aFpUVjR2T1N1dlhIaFNFTDZkNU5YRko0Umo5emJBeTY1TksyeGtZYVZnT3pW?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Nov 2024 11:27:41 GMT",
-        "source_url": "https://www.axios.com",
-        "source_name": "Axios"
+        "pub_date": "Wed, 27 Nov 2024 23:24:24 GMT",
+        "source_url": "https://whyy.org",
+        "source_name": "WHYY"
     },
     {
         "title": "Philadelphia Officer Struck By Suspect In Stolen Car: Police - Daily Voice",
@@ -558,5 +526,37 @@
         "pub_date": "Wed, 27 Nov 2024 18:35:57 GMT",
         "source_url": "https://dailyvoice.com",
         "source_name": "Daily Voice"
+    },
+    {
+        "title": "President Biden signs off on Philly post office being named for slain officer - The Philadelphia Tribune",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVS1hNk1SdFNacHZQalh2RUFCYzZjR0FJR3dmTDJaajZEZEJKVXJHQUdUOWtGTHdTUy1JMTk1ZmZLaDZjeXJvbXFQNTZyb05WY0NkT0pVQ1VmeV9RdTNEdjdYWDBBMFBtcVpyaWR4dS1LVXpGQ2d4MUpQbnRSUXdvbWlvYzBkY254Rm5jSW0yWnZTVW1Zd3FwU1hEc05GazFWd1ROU2xJRGQwai1SZ0lGYmtMVnQtNk1CbFBBOFF2RUJhUUlBWnlVeDkxTmpiTEVaX3QyUi0yTm5WcW9PcHZ1emx3Ync0YlIyZDR2QVdwTll0a1JYZlNWdU8xV3pSVWc?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Nov 2024 19:41:00 GMT",
+        "source_url": "https://www.phillytrib.com",
+        "source_name": "The Philadelphia Tribune"
+    },
+    {
+        "title": "What PA Grocery Stores Are Open On Thanksgiving? - Patch",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjVPVDlkZGc3NE9Uc2Y2NDd4RG92WlJYdUI4dzdObDc4aUlLOUhidVlDck9CZGQ3R3dPcTRTSTZaME12aTN3dklsZTlUZ3oyeF9kWk5VM2RWeXhZb01IUlhoeV9iZ0hDa0VYM2EyYXl1RTIxQ3A4dlh3M2VKcHhza0JzenlsVjhUMnpUZG44aEhiUdIBpwFBVV95cUxOS2tFdTBSU002UVJiRTJwVUN4N2ppdmdxbms1XzBfUFJHMVVZRXJZdDY0WWhicXNmMzRnU0FOTkg3a0xqOUI5ZEJuU3cwVXRxSEhpajJ0d00zYmpzMmpuTlBaRWg3R0JQNlV4VkVQSGwydUdLTjR5TEk5VVBMXzNmREt5V3NGbHpDdEx4WXJYLW1CNnU2UmlXZi1lRGJUTW92MnNCWjdHcw?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Nov 2024 15:42:59 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Gun Scare Locks Down Philadelphia School, 2 Students Detained: Police - Patch",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2NJOHE0VmxOdHB3dkM1VXR4UWRoSkp3NUl5Vl9YT3RWTFI2dDFndXdBWnFWYi1nNjFuaGJQNlVfSWhSR2swLVVSTWg3TWJaSW5BX1dheDZ0ZEdkclJxUE5kYklYUHF6aFFhQldieXZZd0E1bDNGS1ZjcEcwWC1EN0x0eGRySXhNc2VoeW8yRXdnOThOVlHSAcIBQVVfeXFMTXBfUVVtSzNXd2RkdFNJWFVKY2NZajdDMDRUSHJPazlDX3VVaVdOWnQ3aHVNWVpXU3lnNlhacWQtdjZEZ1Y4SHpKTURBU19jWVVzX2Jaa2g5T202bWNRSUF1MEQwOHNhcXRUbHFiRVZjcUU2LVJNdC1FTkpMT2lOQzNGZlh3alNzT1BUcThhNC0zN1BMcHp4NnZzWk13S2ZfMXVPZTBCcGx6N2RtMXhyR1VZMkVmRXozYTAwc2dERF9mdGc?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Nov 2024 16:58:51 GMT",
+        "source_url": "https://patch.com",
+        "source_name": "Patch"
+    },
+    {
+        "title": "Philly council hearings on Sixers' arena to resume Tuesday - The Philadelphia Tribune",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdm5ReUFqak9LQ01KUTNWMk9CY3RPUkFMSTJmbEplYm9lTlJtUEFkZE9hMTVtMnpWSFZja3V1UXdwRnd3VnBUT1lCT3phMjZXVWNTaEVITW5MdlhDQXM2NEstRG5VM29naGRBTW5YZC1MczRoZEZEWFVOS0plVTF1T1ZCcjRnbTExSHBnaEV4SGFpVzY5RmwxWlJnUDZiMU9DVEEtVms5aGoxaTlVQ1hpdVViUHBhQzMzQkJTTndmc2E1cWUwczlYUkI5bGVYYU1EUWhQdXpB?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Nov 2024 21:11:00 GMT",
+        "source_url": "https://www.phillytrib.com",
+        "source_name": "The Philadelphia Tribune"
     }
 ]
