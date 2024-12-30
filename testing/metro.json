@@ -1,0 +1,373 @@
+{
+	"start_station": "Airport T1-2",
+	"end_station": "National Museum",
+	"start_station_id": "Y20",
+	"end_station_id": "B26",
+	"best_route": {
+		"distance": 16.3,
+		"total_stations": 20,
+		"segments": [
+			{
+				"line": "Yellow",
+				"stations": [
+					{
+						"id": "Y19",
+						"name": "Airport T3-4"
+					},
+					{
+						"id": "Y18",
+						"name": "Airport T5"
+					},
+					{
+						"id": "Y17",
+						"name": "Military Medical Complex"
+					},
+					{
+						"id": "Y16",
+						"name": "Governmental complex"
+					},
+					{
+						"id": "Y15",
+						"name": "PNU"
+					},
+					{
+						"id": "Y14",
+						"name": "Imam University"
+					},
+					{
+						"id": "P14",
+						"name": "SABIC"
+					}
+				]
+			},
+			{
+				"line": "Purple",
+				"stations": [
+					{
+						"id": "P15",
+						"name": "Granadia"
+					},
+					{
+						"id": "P16",
+						"name": "Al Yarmuk"
+					},
+					{
+						"id": "P22",
+						"name": "Al Hamra"
+					},
+					{
+						"id": "P18",
+						"name": "Al Andalus"
+					},
+					{
+						"id": "P19",
+						"name": "Khurais Rd."
+					},
+					{
+						"id": "P20",
+						"name": "As Salam"
+					},
+					{
+						"id": "P21",
+						"name": "An Naseem"
+					},
+					{
+						"id": "O21",
+						"name": "Al Hilla"
+					}
+				]
+			},
+			{
+				"line": "Orange",
+				"stations": [
+					{
+						"id": "O20",
+						"name": "Qasr Al Hokm"
+					},
+					{
+						"id": "B28",
+						"name": "Qasr Al Holm"
+					}
+				]
+			},
+			{
+				"line": "Blue",
+				"stations": [
+					{
+						"id": "B27",
+						"name": "Al Bat ha"
+					},
+					{
+						"id": "B26",
+						"name": "National Museum"
+					}
+				]
+			}
+		],
+		"start_station": "Airport T1-2",
+		"end_station": "National Museum",
+		"start_station_id": "Y20",
+		"end_station_id": "B26"
+	},
+	"alternative_routes": [
+		{
+			"distance": 21.4,
+			"total_stations": 27,
+			"segments": [
+				{
+					"line": "Yellow",
+					"stations": [
+						{
+							"id": "Y20",
+							"name": "Airport T1-2"
+						},
+						{
+							"id": "Y19",
+							"name": "Airport T3-4"
+						},
+						{
+							"id": "Y18",
+							"name": "Airport T5"
+						},
+						{
+							"id": "Y17",
+							"name": "Military Medical Complex"
+						},
+						{
+							"id": "Y16",
+							"name": "Governmental complex"
+						},
+						{
+							"id": "Y15",
+							"name": "PNU"
+						},
+						{
+							"id": "Y14",
+							"name": "Imam University"
+						},
+						{
+							"id": "Y13",
+							"name": "Uthman Bin Affan Road"
+						},
+						{
+							"id": "Y12",
+							"name": "Ar Rabi"
+						},
+						{
+							"id": "Y11",
+							"name": "KAFD"
+						},
+						{
+							"id": "B13",
+							"name": "KAFD"
+						},
+						{
+							"id": "R17",
+							"name": "King AbdulAziz Road"
+						}
+					]
+				},
+				{
+					"line": "Red",
+					"stations": [
+						{
+							"id": "R18",
+							"name": "Ministry of Education"
+						},
+						{
+							"id": "R19",
+							"name": "An Nuzhah"
+						},
+						{
+							"id": "R20",
+							"name": "Riyadh Exhibition Center"
+						},
+						{
+							"id": "R21",
+							"name": "Khalid Bin Alwaleed Road"
+						},
+						{
+							"id": "R22",
+							"name": "Al Hamra"
+						},
+						{
+							"id": "P22",
+							"name": "Al Hamra"
+						}
+					]
+				},
+				{
+					"line": "Purple",
+					"stations": [
+						{
+							"id": "P18",
+							"name": "Al Andalus"
+						},
+						{
+							"id": "P19",
+							"name": "Khurais Rd."
+						},
+						{
+							"id": "P20",
+							"name": "As Salam"
+						},
+						{
+							"id": "P21",
+							"name": "An Naseem"
+						},
+						{
+							"id": "O21",
+							"name": "Al Hilla"
+						}
+					]
+				},
+				{
+					"line": "Orange",
+					"stations": [
+						{
+							"id": "O20",
+							"name": "Qasr Al Hokm"
+						},
+						{
+							"id": "B28",
+							"name": "Qasr Al Holm"
+						}
+					]
+				},
+				{
+					"line": "Blue",
+					"stations": [
+						{
+							"id": "B27",
+							"name": "Al Bat ha"
+						},
+						{
+							"id": "B26",
+							"name": "National Museum"
+						}
+					]
+				}
+			],
+			"start_station": "Airport T1-2",
+			"end_station": "National Museum",
+			"start_station_id": "Y20",
+			"end_station_id": "B26"
+		},
+		{
+			"distance": 22.1,
+			"total_stations": 24,
+			"segments": [
+				{
+					"line": "Yellow",
+					"stations": [
+						{
+							"id": "Y20",
+							"name": "Airport T1-2"
+						},
+						{
+							"id": "Y19",
+							"name": "Airport T3-4"
+						},
+						{
+							"id": "Y18",
+							"name": "Airport T5"
+						},
+						{
+							"id": "Y17",
+							"name": "Military Medical Complex"
+						},
+						{
+							"id": "Y16",
+							"name": "Governmental complex"
+						},
+						{
+							"id": "Y15",
+							"name": "PNU"
+						},
+						{
+							"id": "Y14",
+							"name": "Imam University"
+						},
+						{
+							"id": "Y13",
+							"name": "Uthman Bin Affan Road"
+						},
+						{
+							"id": "Y12",
+							"name": "Ar Rabi"
+						},
+						{
+							"id": "Y11",
+							"name": "KAFD"
+						},
+						{
+							"id": "B13",
+							"name": "KAFD"
+						}
+					]
+				},
+				{
+					"line": "Blue",
+					"stations": [
+						{
+							"id": "B14",
+							"name": "Al Murooj"
+						},
+						{
+							"id": "B15",
+							"name": "King Fahd District"
+						},
+						{
+							"id": "B16",
+							"name": "King Fahd District 2"
+						},
+						{
+							"id": "B17",
+							"name": "STC"
+						},
+						{
+							"id": "B18",
+							"name": "Al Wurud 2"
+						},
+						{
+							"id": "B19",
+							"name": "Al Urubah"
+						},
+						{
+							"id": "B20",
+							"name": "Alinma Bank"
+						},
+						{
+							"id": "B21",
+							"name": "Bank Al Bilad"
+						},
+						{
+							"id": "B22",
+							"name": "King Fahd Library"
+						},
+						{
+							"id": "B23",
+							"name": "Ministry of Interior"
+						},
+						{
+							"id": "B24",
+							"name": "Al Muorabba"
+						},
+						{
+							"id": "B25",
+							"name": "Passport Department"
+						},
+						{
+							"id": "B26",
+							"name": "National Museum"
+						}
+					]
+				}
+			],
+			"start_station": "Airport T1-2",
+			"end_station": "National Museum",
+			"start_station_id": "Y20",
+			"end_station_id": "B26"
+		}
+	]
+}
