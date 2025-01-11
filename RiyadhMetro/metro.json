@@ -1,956 +1,1088 @@
 {
-	"English": [
-		{
-			"Station Code": "Y20",
-			"Station English Name": "Airport T1-2",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y19",
-			"Station English Name": "Airport T3-4",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y18",
-			"Station English Name": "Airport T5",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y17",
-			"Station English Name": "Military Medical Complex",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y16",
-			"Station English Name": "PNU 2",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y15",
-			"Station English Name": "PNU 1",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y14",
-			"Station English Name": "SABIC",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y13",
-			"Station English Name": "Uthman Bin Affan Road",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y12",
-			"Station English Name": "Ar Rabi",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "Y11",
-			"Station English Name": "KAFD",
-			"Line English Name": "Yellow Line"
-		},
-		{
-			"Station Code": "B11",
-			"Station English Name": "SAB",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B12",
-			"Station English Name": "Dr. Sulaiman Al Habib",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B13",
-			"Station English Name": "KAFD",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B14",
-			"Station English Name": "Al Murooj",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B15",
-			"Station English Name": "King Fahd District",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B16",
-			"Station English Name": "King Fahd District 2",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B17",
-			"Station English Name": "STC",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B18",
-			"Station English Name": "Al Wurud 2",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B19",
-			"Station English Name": "Al Urubah",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B20",
-			"Station English Name": "Alinma Bank",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B21",
-			"Station English Name": "Bank Al Bilad",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B22",
-			"Station English Name": "King Fahd Library",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B23",
-			"Station English Name": "Ministry of Interior",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B24",
-			"Station English Name": "Al Muorabba",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B25",
-			"Station English Name": "Passport Department",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B26",
-			"Station English Name": "National Museum",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B27",
-			"Station English Name": "Al Bat ha",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B28",
-			"Station English Name": "Qasr Al Hokm",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B29",
-			"Station English Name": "Al Oud",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B30",
-			"Station English Name": "Skirinah",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B31",
-			"Station English Name": "Manfouhah",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B32",
-			"Station English Name": "Al Iman Hospital",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B33",
-			"Station English Name": "Transportation Center",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B34",
-			"Station English Name": "Al Aziziah",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "B35",
-			"Station English Name": "Ad Dar Al Baida",
-			"Line English Name": "Blue Line"
-		},
-		{
-			"Station Code": "R11",
-			"Station English Name": "King Saud University",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R12",
-			"Station English Name": "King Salman Oasis",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R13",
-			"Station English Name": "KACST",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R14",
-			"Station English Name": "At Takhassussi",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R15",
-			"Station English Name": "STC",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R16",
-			"Station English Name": "Al Wurud",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R17",
-			"Station English Name": "King AbdulAziz Road",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R18",
-			"Station English Name": "Ministry of Education",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R19",
-			"Station English Name": "An Nuzhah",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R20",
-			"Station English Name": "Riyadh Exhibition Center",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R21",
-			"Station English Name": "Khalid Bin Alwaleed Road",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R22",
-			"Station English Name": "Al Hamra",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R23",
-			"Station English Name": "Al Khaleej",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R24",
-			"Station English Name": "Ishbiliyah",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "R25",
-			"Station English Name": "King Fahad Sport City",
-			"Line English Name": "Red Line"
-		},
-		{
-			"Station Code": "O11",
-			"Station English Name": "Jeddah Rd.",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O12",
-			"Station English Name": "Tuwaiq",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O13",
-			"Station English Name": "Ad Douh",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O14",
-			"Station English Name": "Western Station",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O15",
-			"Station English Name": "Aishah bint Abi Bakr",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O16",
-			"Station English Name": "Dhahret Al Badiah",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O17",
-			"Station English Name": "Sultanah",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O18",
-			"Station English Name": "Al Jarradiyah",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O19",
-			"Station English Name": "Courts Complex",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O20",
-			"Station English Name": "Qasr Al Hokm",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O21",
-			"Station English Name": "Al Hilla",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O22",
-			"Station English Name": "Al Margab",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O23",
-			"Station English Name": "As Salhiyah",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O24",
-			"Station English Name": "First Industrial City",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O25",
-			"Station English Name": "Railway",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O26",
-			"Station English Name": "Al Malez",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O27",
-			"Station English Name": "Jarir District",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O28",
-			"Station English Name": "Al Rajhi Grand Mosque",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O29",
-			"Station English Name": "Harun Ar Rashid Rd.",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O30",
-			"Station English Name": "An Naseem",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O31",
-			"Station English Name": "Hassan bin Thabit st.",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "O32",
-			"Station English Name": "Khashm Al An",
-			"Line English Name": "Orange Line"
-		},
-		{
-			"Station Code": "G11",
-			"Station English Name": "Ministry of Education",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G12",
-			"Station English Name": "King Salman Park",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G13",
-			"Station English Name": "As Sulimaniyah",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G14",
-			"Station English Name": "Ad Dhabab",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G15",
-			"Station English Name": "Abu Dhabi square",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G16",
-			"Station English Name": "Officers Club",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G17",
-			"Station English Name": "GOSI",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G18",
-			"Station English Name": "Al Wizarat",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G19",
-			"Station English Name": "Ministry of Defence",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G20",
-			"Station English Name": "King Abdulaziz Hospital",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G21",
-			"Station English Name": "Ministry of Finance",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "G22",
-			"Station English Name": "National Museum",
-			"Line English Name": "Green Line"
-		},
-		{
-			"Station Code": "P11",
-			"Station English Name": "KAFD",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P12",
-			"Station English Name": "Ar Rabi",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P13",
-			"Station English Name": "Uthman Bin Affan Rd.",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P14",
-			"Station English Name": "SABIC",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P15",
-			"Station English Name": "Granadia",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P16",
-			"Station English Name": "Al Yarmuk",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P17",
-			"Station English Name": "Al Hamra",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P18",
-			"Station English Name": "Al Andalus",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P19",
-			"Station English Name": "Khurais Rd.",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P20",
-			"Station English Name": "As Salam",
-			"Line English Name": "Purple Line"
-		},
-		{
-			"Station Code": "P21",
-			"Station English Name": "An Naseem",
-			"Line English Name": "Purple Line"
+	"english": [
+		{
+			"routeNumber": 1,
+			"lineName": "Blue line",
+			"source": "SAB Bank",
+			"destination": "Ad Dar Al Baida",
+			"routeColor": "#00ade5",
+			"line_color": "Blue",
+			"line_code": "L1",
+			"stationsx": [
+				{
+					"stationscode": "B11",
+					"stationsname": "SAB",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B12",
+					"stationsname": "Dr. Sulaiman Al Habib",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B13",
+					"stationsname": "KAFD",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B14",
+					"stationsname": "Al Murooj",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B15",
+					"stationsname": "King Fahd District",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B16",
+					"stationsname": "King Fahd District 2",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B17",
+					"stationsname": "STC",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B18",
+					"stationsname": "Al Wurud 2",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B19",
+					"stationsname": "Al Urubah",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B20",
+					"stationsname": "Alinma Bank",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B21",
+					"stationsname": "Bank Al Bilad",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B22",
+					"stationsname": "King Fahd Library",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B23",
+					"stationsname": "Ministry of Interior",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B24",
+					"stationsname": "Al Muorabba",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B25",
+					"stationsname": "Passport Department",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B26",
+					"stationsname": "National Museum",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B27",
+					"stationsname": "Al Bat ha",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B28",
+					"stationsname": "Qasr Al Hokm",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B29",
+					"stationsname": "Al Oud",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B30",
+					"stationsname": "Skirinah",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B31",
+					"stationsname": "Manfouhah",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B32",
+					"stationsname": "Al Iman Hospital",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B33",
+					"stationsname": "Transportation Center",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B34",
+					"stationsname": "Al Aziziah",
+					"linename": "Blue Line"
+				},
+				{
+					"stationscode": "B35",
+					"stationsname": "Ad Dar Al Baida",
+					"linename": "Blue Line"
+				}
+			]
+		},
+		{
+			"routeNumber": 2,
+			"lineName": "Red line",
+			"source": "King Saud University",
+			"destination": "King Fahad Sport City",
+			"routeColor": "#f0493a",
+			"line_color": "Red",
+			"line_code": "L2",
+			"stationsx": [
+				{
+					"stationscode": "R11",
+					"stationsname": "King Saud University",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R12",
+					"stationsname": "King Salman Oasis",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R13",
+					"stationsname": "KACST",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R14",
+					"stationsname": "At Takhassussi",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R15",
+					"stationsname": "STC",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R16",
+					"stationsname": "Al Wurud",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R17",
+					"stationsname": "King AbdulAziz Road",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R18",
+					"stationsname": "Ministry of Education",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R19",
+					"stationsname": "An Nuzhah",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R20",
+					"stationsname": "Riyadh Exhibition Center",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R21",
+					"stationsname": "Khalid Bin Alwaleed Road",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R22",
+					"stationsname": "Al Hamra",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R23",
+					"stationsname": "Al Khaleej",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R24",
+					"stationsname": "Ishbiliyah",
+					"linename": "Red Line"
+				},
+				{
+					"stationscode": "R25",
+					"stationsname": "King Fahad Sport City",
+					"linename": "Red Line"
+				}
+			]
+		},
+		{
+			"routeNumber": 3,
+			"lineName": "Orange line",
+			"source": "Jeddah Road",
+			"destination": "Khashm Al An",
+			"routeColor": "#f68d39",
+			"line_color": "Orange",
+			"line_code": "L3",
+			"stationsx": [
+				{
+					"stationscode": "O11",
+					"stationsname": "Jeddah Rd.",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O12",
+					"stationsname": "Tuwaiq",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O13",
+					"stationsname": "Ad Douh",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O14",
+					"stationsname": "Western Station",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O15",
+					"stationsname": "Aishah bint Abi Bakr",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O16",
+					"stationsname": "Dhahret Al Badiah",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O17",
+					"stationsname": "Sultanah",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O18",
+					"stationsname": "Al Jarradiyah",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O19",
+					"stationsname": "Courts Complex",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O20",
+					"stationsname": "Qasr Al Hokm",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O21",
+					"stationsname": "Al Hilla",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O22",
+					"stationsname": "Al Margab",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O23",
+					"stationsname": "As Salhiyah",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O24",
+					"stationsname": "First Industrial City",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O25",
+					"stationsname": "Railway",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O26",
+					"stationsname": "Al Malez",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O27",
+					"stationsname": "Jarir District",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O28",
+					"stationsname": "Al Rajhi Grand Mosque",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O29",
+					"stationsname": "Harun Ar Rashid Rd.",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O30",
+					"stationsname": "An Naseem",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O31",
+					"stationsname": "Hassan bin Thabit st.",
+					"linename": "Orange Line"
+				},
+				{
+					"stationscode": "O32",
+					"stationsname": "Khashm Al An",
+					"linename": "Orange Line"
+				}
+			]
+		},
+		{
+			"routeNumber": 4,
+			"lineName": "Yellow line",
+			"source": "Airport T1-2",
+			"destination": "KAFD",
+			"routeColor": "#ffd105",
+			"line_color": "Yellow",
+			"line_code": "L4",
+			"stationsx": [
+				{
+					"stationscode": "Y20",
+					"stationsname": "Airport T1-2",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y19",
+					"stationsname": "Airport T3-4",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y18",
+					"stationsname": "Airport T5",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y17",
+					"stationsname": "Military Medical Complex",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y16",
+					"stationsname": "PNU 2",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y15",
+					"stationsname": "PNU 1",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y14",
+					"stationsname": "SABIC",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y13",
+					"stationsname": "Uthman Bin Affan Road",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y12",
+					"stationsname": "Ar Rabi",
+					"linename": "Yellow Line"
+				},
+				{
+					"stationscode": "Y11",
+					"stationsname": "KAFD",
+					"linename": "Yellow Line"
+				}
+			]
+		},
+		{
+			"routeNumber": 5,
+			"lineName": "Green line",
+			"source": "Ministry of Education",
+			"destination": "National Museum",
+			"routeColor": "#43b649",
+			"line_color": "Green",
+			"line_code": "L5",
+			"stationsx": [
+				{
+					"stationscode": "G11",
+					"stationsname": "Ministry of Education",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G12",
+					"stationsname": "King Salman Park",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G13",
+					"stationsname": "As Sulimaniyah",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G14",
+					"stationsname": "Ad Dhabab",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G15",
+					"stationsname": "Abu Dhabi square",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G16",
+					"stationsname": "Officers Club",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G17",
+					"stationsname": "GOSI",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G18",
+					"stationsname": "Al Wizarat",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G19",
+					"stationsname": "Ministry of Defence",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G20",
+					"stationsname": "King Abdulaziz Hospital",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G21",
+					"stationsname": "Ministry of Finance",
+					"linename": "Green Line"
+				},
+				{
+					"stationscode": "G22",
+					"stationsname": "National Museum",
+					"linename": "Green Line"
+				}
+			]
+		},
+		{
+			"routeNumber": 6,
+			"lineName": "Purple line",
+			"source": "KAFD",
+			"destination": "An Naseem",
+			"routeColor": "#984c9d",
+			"line_color": "Purple",
+			"line_code": "L6",
+			"stationsx": [
+				{
+					"stationscode": "P11",
+					"stationsname": "KAFD",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P12",
+					"stationsname": "Ar Rabi",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P13",
+					"stationsname": "Uthman Bin Affan Rd.",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P14",
+					"stationsname": "SABIC",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P15",
+					"stationsname": "Granadia",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P16",
+					"stationsname": "Al Yarmuk",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P17",
+					"stationsname": "Al Hamra",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P18",
+					"stationsname": "Al Andalus",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P19",
+					"stationsname": "Khurais Rd.",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P20",
+					"stationsname": "As Salam",
+					"linename": "Purple Line"
+				},
+				{
+					"stationscode": "P21",
+					"stationsname": "An Naseem",
+					"linename": "Purple Line"
+				}
+			]
 		}
 	],
-	"Arabic": [
-		{
-			"Station Code": "Y20",
-			"Station Arabic Name": "المطار الصالة 2-1",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y19",
-			"Station Arabic Name": "المطار الصالة 4-3",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y18",
-			"Station Arabic Name": "المطار الصالة 5",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y17",
-			"Station Arabic Name": "المجمع الطبي العسكري",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y16",
-			"Station Arabic Name": "جامعة الأميرة نورة 2",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y15",
-			"Station Arabic Name": "جامعة الأميرة نورة 1",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y14",
-			"Station Arabic Name": "سابك",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y13",
-			"Station Arabic Name": "طريق عثمان بن عفان",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y12",
-			"Station Arabic Name": "الربيع",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "Y11",
-			"Station Arabic Name": "المركز المالى",
-			"Line Arabic Name": "المسار الأصفر"
-		},
-		{
-			"Station Code": "B11",
-			"Station Arabic Name": "البنك الأول",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B12",
-			"Station Arabic Name": "د. سليمان الحبيب",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B13",
-			"Station Arabic Name": "المركز المالى",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B14",
-			"Station Arabic Name": "المروج",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B15",
-			"Station Arabic Name": "حي الملك فهد",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B16",
-			"Station Arabic Name": "حي الملك فهد 2",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B17",
-			"Station Arabic Name": "الاتصالات السعودية",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B18",
-			"Station Arabic Name": "الورود 2",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B19",
-			"Station Arabic Name": "العروبة",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B20",
-			"Station Arabic Name": "مصرف الإنماء",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B21",
-			"Station Arabic Name": "بنك البلاد",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B22",
-			"Station Arabic Name": "مكتبة الملك فهد",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B23",
-			"Station Arabic Name": "وزارة الداخلية",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B24",
-			"Station Arabic Name": "المربع",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B25",
-			"Station Arabic Name": "إدارة الجوازات",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B26",
-			"Station Arabic Name": "المتحف الوطني",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B27",
-			"Station Arabic Name": "البطحاء",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B28",
-			"Station Arabic Name": "قصر الحكم",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B29",
-			"Station Arabic Name": "العود",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B30",
-			"Station Arabic Name": "سكيرينة",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B31",
-			"Station Arabic Name": "منفوحة",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B32",
-			"Station Arabic Name": "مستشفى الايمان",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B33",
-			"Station Arabic Name": "مركز النقل",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B34",
-			"Station Arabic Name": "العزيزية",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "B35",
-			"Station Arabic Name": "الدار البيضاء",
-			"Line Arabic Name": "المسار الأزرق"
-		},
-		{
-			"Station Code": "R11",
-			"Station Arabic Name": "جامعة الملك سعود",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R12",
-			"Station Arabic Name": "واحة الملك سلمان",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R13",
-			"Station Arabic Name": "المدينة الثقافية",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R14",
-			"Station Arabic Name": "التخصصي",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R15",
-			"Station Arabic Name": "الاتصالات السعودية",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R16",
-			"Station Arabic Name": "الورود",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R17",
-			"Station Arabic Name": "طريق الملك عبدالعزيز",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R18",
-			"Station Arabic Name": "وزارة التعليم",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R19",
-			"Station Arabic Name": "النزهة",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R20",
-			"Station Arabic Name": "مركز معارض الرياض",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R21",
-			"Station Arabic Name": "طريق خالد بن الوليد",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R22",
-			"Station Arabic Name": "الحمرا",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R23",
-			"Station Arabic Name": "الخليج",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R24",
-			"Station Arabic Name": "إشبيلية",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "R25",
-			"Station Arabic Name": "مدينة الملك فهد الرياضية",
-			"Line Arabic Name": "المسار الأحمر"
-		},
-		{
-			"Station Code": "O11",
-			"Station Arabic Name": "طريق جدة",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O12",
-			"Station Arabic Name": "طويق",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O13",
-			"Station Arabic Name": "الدوح",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O14",
-			"Station Arabic Name": "المحطة الغربية",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O15",
-			"Station Arabic Name": "عائشة بنت أبي بكر",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O16",
-			"Station Arabic Name": "ظهرة البديعة",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O17",
-			"Station Arabic Name": "سلطانة",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O18",
-			"Station Arabic Name": "الجرادية",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O19",
-			"Station Arabic Name": "مجمع المحاكم",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O20",
-			"Station Arabic Name": "قصر الحكم",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O21",
-			"Station Arabic Name": "الحلة",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O22",
-			"Station Arabic Name": "المرقب",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O23",
-			"Station Arabic Name": "الصالحية",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O24",
-			"Station Arabic Name": "المدينة الصناعية الأولى",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O25",
-			"Station Arabic Name": "السكك الحديدية",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O26",
-			"Station Arabic Name": "الملز",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O27",
-			"Station Arabic Name": "حي جرير",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O28",
-			"Station Arabic Name": "جامع الراجحي الكبير",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O29",
-			"Station Arabic Name": "طريق هارون الرشيد",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O30",
-			"Station Arabic Name": "النـسيم",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O31",
-			"Station Arabic Name": "شارع حسن بن ثابت",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "O32",
-			"Station Arabic Name": "خشـم العـان",
-			"Line Arabic Name": "المسار البرتقالى"
-		},
-		{
-			"Station Code": "G11",
-			"Station Arabic Name": "وزارة التعليم",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G12",
-			"Station Arabic Name": "منتزه الملك سلمان",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G13",
-			"Station Arabic Name": "السليمانية",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G14",
-			"Station Arabic Name": "الضباب",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G15",
-			"Station Arabic Name": "ميدان أبو ظبي",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G16",
-			"Station Arabic Name": "نادي الضباط",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G17",
-			"Station Arabic Name": "المؤسسة العامة للتأمينات الاجتماعية",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G18",
-			"Station Arabic Name": "الوزارات",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G19",
-			"Station Arabic Name": "وزارة الدفاع",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G20",
-			"Station Arabic Name": "مستشفى الملك عبدالعزيز",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G21",
-			"Station Arabic Name": "وزارة المالية",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "G22",
-			"Station Arabic Name": "المتحف الوطني",
-			"Line Arabic Name": "المسار الأخضر"
-		},
-		{
-			"Station Code": "P11",
-			"Station Arabic Name": "المركز المالى",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P12",
-			"Station Arabic Name": "الربيع",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P13",
-			"Station Arabic Name": "طريق عثمان بن عفان",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P14",
-			"Station Arabic Name": "سابك",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P15",
-			"Station Arabic Name": "غرناطة",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P16",
-			"Station Arabic Name": "اليرموك",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P17",
-			"Station Arabic Name": "الحمرا",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P18",
-			"Station Arabic Name": "الأندلس",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P19",
-			"Station Arabic Name": "طريق خريص",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P20",
-			"Station Arabic Name": "السلام",
-			"Line Arabic Name": "المسار البنفسجى"
-		},
-		{
-			"Station Code": "P21",
-			"Station Arabic Name": "النـسيم",
-			"Line Arabic Name": "المسار البنفسجى"
+	"arabic": [
+		{
+			"routeNumber": 1,
+			"lineName": "المسار الأزرق",
+			"source": "البنك الأول",
+			"destination": "الدار البيضاء",
+			"routeColor": "#00ade5",
+			"line_color": "Blue",
+			"line_code": "L1",
+			"stationsx": [
+				{
+					"stationscode": "B11",
+					"stationsname": "البنك الأول",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B12",
+					"stationsname": "د. سليمان الحبيب",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B13",
+					"stationsname": "المركز المالى",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B14",
+					"stationsname": "المروج",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B15",
+					"stationsname": "حي الملك فهد",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B16",
+					"stationsname": "حي الملك فهد 2",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B17",
+					"stationsname": "الاتصالات السعودية",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B18",
+					"stationsname": "الورود 2",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B19",
+					"stationsname": "العروبة",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B20",
+					"stationsname": "مصرف الإنماء",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B21",
+					"stationsname": "بنك البلاد",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B22",
+					"stationsname": "مكتبة الملك فهد",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B23",
+					"stationsname": "وزارة الداخلية",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B24",
+					"stationsname": "المربع",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B25",
+					"stationsname": "إدارة الجوازات",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B26",
+					"stationsname": "المتحف الوطني",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B27",
+					"stationsname": "البطحاء",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B28",
+					"stationsname": "قصر الحكم",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B29",
+					"stationsname": "العود",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B30",
+					"stationsname": "سكيرينة",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B31",
+					"stationsname": "منفوحة",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B32",
+					"stationsname": "مستشفى الايمان",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B33",
+					"stationsname": "مركز النقل",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B34",
+					"stationsname": "العزيزية",
+					"linename": "المسار الأزرق"
+				},
+				{
+					"stationscode": "B35",
+					"stationsname": "الدار البيضاء",
+					"linename": "المسار الأزرق"
+				}
+			]
+		},
+		{
+			"routeNumber": 2,
+			"lineName": "المسار الأحمر",
+			"source": "جامعة الملك سعود",
+			"destination": "مدينة الملك فهد الرياضية",
+			"routeColor": "#f0493a",
+			"line_color": "Red",
+			"line_code": "L2",
+			"stationsx": [
+				{
+					"stationscode": "R11",
+					"stationsname": "جامعة الملك سعود",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R12",
+					"stationsname": "واحة الملك سلمان",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R13",
+					"stationsname": "المدينة الثقافية",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R14",
+					"stationsname": "التخصصي",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R15",
+					"stationsname": "الاتصالات السعودية",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R16",
+					"stationsname": "الورود",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R17",
+					"stationsname": "طريق الملك عبدالعزيز",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R18",
+					"stationsname": "وزارة التعليم",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R19",
+					"stationsname": "النزهة",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R20",
+					"stationsname": "مركز معارض الرياض",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R21",
+					"stationsname": "طريق خالد بن الوليد",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R22",
+					"stationsname": "الحمرا",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R23",
+					"stationsname": "الخليج",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R24",
+					"stationsname": "إشبيلية",
+					"linename": "المسار الأحمر"
+				},
+				{
+					"stationscode": "R25",
+					"stationsname": "مدينة الملك فهد الرياضية",
+					"linename": "المسار الأحمر"
+				}
+			]
+		},
+		{
+			"routeNumber": 3,
+			"lineName": "المسار البرتقالى",
+			"source": "طريق جدة",
+			"destination": "خشـم العـان",
+			"routeColor": "#f68d39",
+			"line_color": "Orange",
+			"line_code": "L3",
+			"stationsx": [
+				{
+					"stationscode": "O11",
+					"stationsname": "طريق جدة",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O12",
+					"stationsname": "طويق",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O13",
+					"stationsname": "الدوح",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O14",
+					"stationsname": "المحطة الغربية",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O15",
+					"stationsname": "عائشة بنت أبي بكر",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O16",
+					"stationsname": "ظهرة البديعة",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O17",
+					"stationsname": "سلطانة",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O18",
+					"stationsname": "الجرادية",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O19",
+					"stationsname": "مجمع المحاكم",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O20",
+					"stationsname": "قصر الحكم",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O21",
+					"stationsname": "الحلة",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O22",
+					"stationsname": "المرقب",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O23",
+					"stationsname": "الصالحية",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O24",
+					"stationsname": "المدينة الصناعية الأولى",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O25",
+					"stationsname": "السكك الحديدية",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O26",
+					"stationsname": "الملز",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O27",
+					"stationsname": "حي جرير",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O28",
+					"stationsname": "جامع الراجحي الكبير",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O29",
+					"stationsname": "طريق هارون الرشيد",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O30",
+					"stationsname": "النـسيم",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O31",
+					"stationsname": "شارع حسن بن ثابت",
+					"linename": "المسار البرتقالى"
+				},
+				{
+					"stationscode": "O32",
+					"stationsname": "خشـم العـان",
+					"linename": "المسار البرتقالى"
+				}
+			]
+		},
+		{
+			"routeNumber": 4,
+			"lineName": "المسار الأصفر",
+			"source": "مطار الملك خالد الدولي 1-2",
+			"destination": "المركز المالى",
+			"routeColor": "#ffd105",
+			"line_color": "Yellow",
+			"line_code": "L4",
+			"stationsx": [
+				{
+					"stationscode": "Y20",
+					"stationsname": "مطار الملك خالد الدولي 1-2",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y19",
+					"stationsname": "مطار الملك خالد الدولي 3-4",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y18",
+					"stationsname": "مطار الملك خالد الدولي 5",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y17",
+					"stationsname": "المجمع الطبي العسكري",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y16",
+					"stationsname": "جامعة الأميرة نورة 2",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y15",
+					"stationsname": "جامعة الأميرة نورة 1",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y14",
+					"stationsname": "سابك",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y13",
+					"stationsname": "طريق عثمان بن عفان",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y12",
+					"stationsname": "الربيع",
+					"linename": "المسار الأصفر"
+				},
+				{
+					"stationscode": "Y11",
+					"stationsname": "المركز المالى",
+					"linename": "المسار الأصفر"
+				}
+			]
+		},
+		{
+			"routeNumber": 5,
+			"lineName": "المسار الأخضر",
+			"source": "وزارة التعليم",
+			"destination": "المتحف الوطني",
+			"routeColor": "#43b649",
+			"line_color": "Green",
+			"line_code": "L5",
+			"stationsx": [
+				{
+					"stationscode": "G11",
+					"stationsname": "وزارة التعليم",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G12",
+					"stationsname": "منتزه الملك سلمان",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G13",
+					"stationsname": "السليمانية",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G14",
+					"stationsname": "الضباب",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G15",
+					"stationsname": "ميدان أبو ظبي",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G16",
+					"stationsname": "نادي الضباط",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G17",
+					"stationsname": "المؤسسة العامة للتأمينات الاجتماعية",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G18",
+					"stationsname": "الوزارات",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G19",
+					"stationsname": "وزارة الدفاع",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G20",
+					"stationsname": "مستشفى الملك عبدالعزيز",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G21",
+					"stationsname": "وزارة المالية",
+					"linename": "المسار الأخضر"
+				},
+				{
+					"stationscode": "G22",
+					"stationsname": "المتحف الوطني",
+					"linename": "المسار الأخضر"
+				}
+			]
+		},
+		{
+			"routeNumber": 6,
+			"lineName": "المسار البنفسجى",
+			"source": "المركز المالى",
+			"destination": "النـسيم",
+			"routeColor": "#984c9d",
+			"line_color": "Purple",
+			"line_code": "L6",
+			"stationsx": [
+				{
+					"stationscode": "P11",
+					"stationsname": "المركز المالى",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P12",
+					"stationsname": "الربيع",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P13",
+					"stationsname": "طريق عثمان بن عفان",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P14",
+					"stationsname": "سابك",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P15",
+					"stationsname": "غرناطة",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P16",
+					"stationsname": "اليرموك",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P17",
+					"stationsname": "الحمرا",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P18",
+					"stationsname": "الأندلس",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P19",
+					"stationsname": "طريق خريص",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P20",
+					"stationsname": "السلام",
+					"linename": "المسار البنفسجى"
+				},
+				{
+					"stationscode": "P21",
+					"stationsname": "النـسيم",
+					"linename": "المسار البنفسجى"
+				}
+			]
 		}
 	]
 }
