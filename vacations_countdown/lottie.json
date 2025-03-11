@@ -1,42 +1,47 @@
 [
-    {
-        "url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741694094258.json",
-        "displayName": "Christmas Tree",
-        "category": "Holiday"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741715212809.json",
-        "displayName": "Vacation",
-        "category": "Travel"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741716439010.json",
-        "displayName": "Vacation",
-        "category": "Travel"
-    },
-    {
-        "url": "https://assets8.lottiefiles.com/packages/lf20_khrclx93.json",
-        "displayName": "Cruise Ship",
-        "category": "Travel"
-    },
-    {
-        "url": "https://assets5.lottiefiles.com/packages/lf20_jmejybvu.json",
-        "displayName": "Suitcase",
-        "category": "Travel"
-    },
-    {
-        "url": "https://assets3.lottiefiles.com/packages/lf20_hccyhrtm.json",
-        "displayName": "Palm Tree",
-        "category": "Tropical"
-    },
-    {
-        "url": "https://assets3.lottiefiles.com/temp/lf20_jR229Y.json",
-        "displayName": "Christmas Tree",
-        "category": "Holiday"
-    },
-    {
-        "url": "https://assets4.lottiefiles.com/packages/lf20_0jcgc1uw.json",
-        "displayName": "Camping",
-        "category": "Nature"
-    }
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741715212809.json",
+		"displayName": "Vacation",
+		"category": "Travel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741716439010.json",
+		"displayName": "Vacation",
+		"category": "Travel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741694094258.json",
+		"displayName": "Christmas Tree",
+		"category": "Holiday"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741726632990.json",
+		"displayName": "Thanksgiving",
+		"category": "Holiday"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741727663840.json",
+		"displayName": "Free Traveler",
+		"category": "Travel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741728230269.json",
+		"displayName": "Airplane",
+		"category": "Travel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741727894465.json",
+		"displayName": "Beach",
+		"category": "Tropical"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741728362849.json",
+		"displayName": "Travel",
+		"category": "Travel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/faroukdubai2/public/refs/heads/main/vacations_countdown/Animation%20-%201741727074628.json",
+		"displayName": "Camping",
+		"category": "Nature"
+	}
 ]
