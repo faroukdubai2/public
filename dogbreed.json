@@ -1,0 +1,43 @@
+{
+  "breed": "Golden Retriever",
+  "group": "Sporting Group",
+  "confidence": 0.95,
+  "alternative_breeds": ["Labrador Retriever", "Flat-Coated Retriever"],
+  "appearance": {
+    "coat_type": "Double coat, medium length",
+    "coat_color": "Golden",
+    "eye_color": "Brown",
+    "body_size": "Large",
+    "distinctive_features": "Feathered tail, floppy ears"
+  },
+  "background": {
+    "origin": "Scotland, United Kingdom",
+    "history": "Originally bred for retrieving waterfowl during hunting.",
+    "recognized_by": ["AKC", "FCI", "KC"]
+  },
+  "personality": {
+    "temperament": ["Friendly", "Intelligent", "Devoted"],
+    "good_with_children": true,
+    "good_with_pets": true,
+    "activity_level": "High",
+    "trainability": "Easy",
+    "bark_level": "Moderate"
+  },
+  "care": {
+    "grooming": "Medium",
+    "shedding": "High",
+    "exercise_needs": "At least 1 hour per day",
+    "diet": "Balanced diet with protein-rich food"
+  },
+  "health": {
+    "lifespan": "10-12 years",
+    "common_issues": ["Hip dysplasia", "Cancer", "Heart issues"],
+    "weight_range": "25–34 kg (55–75 lbs)",
+    "height_range": "55–61 cm (21.5–24 in)"
+  },
+  "extras": {
+    "fun_fact": "One of the most popular family dogs in the world.",
+    "famous_dogs": ["Buddy from Air Bud"],
+    "popularity": "Top 3 in AKC rankings"
+  }
+}
