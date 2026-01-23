@@ -1,27 +1,37 @@
 [
-  {
-    "name": "حلول",
-    "iconURL": "https://www.hululktaab.com/icon.ico",
-    "webURL": "https://www.hululktaab.com/"
-  },
-  {
-    "name": "منهجى",
-    "iconURL": "https://www.mnhaji.com/icon.ico",
-    "webURL": "https://www.mnhaji.com/"
-  },
-  {
-    "name": "مادتى",
-    "iconURL": "https://www.madty.net/icon.ico",
-    "webURL": "https://www.madty.net/"
-  },
-  {
-    "name": "واجباتى",
-    "iconURL": "https://www.wajibati.net/icon.ico",
-    "webURL": "https://www.wajibati.net/"
-  },
-  {
-    "name": "قياس",
-    "iconURL": "https://etec.gov.sa/icon.ico",
-    "webURL": "https://etec.gov.sa/ar/centers/qiyas/p/s-7e24748d-6b43-4b1f-964c-e81d7c33701d"
-  }
+	{
+		"name": "حلول",
+		"iconURL": "https://www.hululktaab.com/icon.ico",
+		"webURL": "https://www.hululktaab.com/"
+	},
+	{
+		"name": "منهجى",
+		"iconURL": "https://www.mnhaji.com/icon.ico",
+		"webURL": "https://www.mnhaji.com/"
+	},
+	{
+		"name": "مادتى",
+		"iconURL": "https://www.madty.net/icon.ico",
+		"webURL": "https://www.madty.net/"
+	},
+	{
+		"name": "واجباتى",
+		"iconURL": "https://www.wajibati.net/icon.ico",
+		"webURL": "https://www.wajibati.net/"
+	},
+	{
+		"name": "قياس",
+		"iconURL": "https://etec.gov.sa/icon.ico",
+		"webURL": "https://etec.gov.sa/ar/centers/qiyas/p/s-7e24748d-6b43-4b1f-964c-e81d7c33701d"
+	},
+	{
+		"name": "نظام نور",
+		"iconURL": "https://noor.moe.gov.sa/icon.ico",
+		"webURL": "https://noor.moe.gov.sa/"
+	},
+	{
+		"name": "نتائجي",
+		"iconURL": "https://nataeji.moe.gov.sa/icon.ico",
+		"webURL": "https://nataeji.moe.gov.sa/"
+	}
 ]
