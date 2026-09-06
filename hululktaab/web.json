@@ -33,5 +33,16 @@
 		"name": "نتائجي",
 		"iconURL": "https://nataeji.moe.gov.sa/icon.ico",
 		"webURL": "https://nataeji.moe.gov.sa/"
+	},
+	
+	{
+		"name": "الكتب الدراسية",
+		"iconURL": "https://q.tahdiri.com/icon.ico",
+		"webURL": "https://q.tahdiri.com/"
+	},
+		{
+		"name": "حلول الكتب",
+		"iconURL": "https://q.tahdiri.com/h/icon.ico",
+		"webURL": "https://q.tahdiri.com/h/"
 	}
 ]
